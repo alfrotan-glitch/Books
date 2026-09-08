@@ -1,0 +1,277 @@
+[EXTRACTION QA REPORT]
+
+Total PDF pages: 179
+Pages successfully processed: 179
+Pages requiring OCR: 179 (the PDF is a scan with a low-quality embedded OCR layer on every page; all pages were re-OCRed with Tesseract and fused word-by-word with the embedded layer)
+Pages with unresolved issues (HIGH/CRITICAL): 0
+Pages requiring manual verification (MEDIUM or worse): 20: 3, 26, 95, 110, 122, 124, 160, 162, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 178
+Pages with uncertain-OCR flags {?…}: 33
+Total words extracted: 53386
+Page continuity: OK — markers [PAGE 001] … [PAGE 179] each present exactly once
+
+[ISSUES]
+
+Page: 3
+Problem: uncertain OCR tokens flagged {?…}: 1-133-30803-1, Martinez/PhotoEdit., Comstock/jupiterimages/Getty, Jupiterimages/Comstock/Thinkstock, p123:
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 3
+Problem: unusual characters: ©
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 4
+Problem: unusual characters: ExamView®
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 6
+Problem: uncertain OCR tokens flagged {?…}: ACTIVEIy;
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 17
+Problem: unusual characters: ®
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 26
+Problem: uncertain OCR tokens flagged {?…}: _.butimadeit, —verydifferent, cxcl, becauseits...gxcity, Want a (4) relax
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 31
+Problem: unusual characters: ‘Marital
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 36
+Problem: uncertain OCR tokens flagged {?…}: thatitis
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 36
+Problem: unusual characters: ‘prefix
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 38
+Problem: unusual characters: ‘mystery
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 42
+Problem: uncertain OCR tokens flagged {?…}: 7Tpeopleareless—
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 43
+Problem: uncertain OCR tokens flagged {?…}: preblem-solving
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 46
+Problem: unusual characters: ‘come, ‘whooshing
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 48
+Problem: unusual characters: ‘housework
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 51
+Problem: uncertain OCR tokens flagged {?…}: “Su0NS
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 56
+Problem: uncertain OCR tokens flagged {?…}: O0COCOCOODOOOOOOOOO
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 58
+Problem: uncertain OCR tokens flagged {?…}: Doyouconsideryourselfain), Haveyouevermetain)
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 64
+Problem: uncertain OCR tokens flagged {?…}: :, weeks7can '. t
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 64
+Problem: unusual characters: ‘I
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 68
+Problem: uncertain OCR tokens flagged {?…}: with (3), only get (5)
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 74
+Problem: unusual characters: ®
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 78
+Problem: unusual characters: ‘and
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 94
+Problem: uncertain OCR tokens flagged {?…}: iyrics
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 95
+Problem: coverage of embedded text layer 0.89 — some words of the text layer are not in the output
+Severity: MEDIUM
+Action/recommendation: compare with page image; text may be photo lettering, dropped junk or genuinely missing
+
+Page: 96
+Problem: unusual characters: ‘Is
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 102
+Problem: uncertain OCR tokens flagged {?…}: I’dliketohaveain)
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 107
+Problem: uncertain OCR tokens flagged {?…}: Qvehidesiones
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 110
+Problem: uncertain OCR tokens flagged {?…}: xocolatl,, xocolatl, 000°L, SS0p, (SISMSUY
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 110
+Problem: unusual characters: °L, ‘Z, €
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 112
+Problem: uncertain OCR tokens flagged {?…}: (ircl
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 113
+Problem: uncertain OCR tokens flagged {?…}: F "
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 121
+Problem: uncertain OCR tokens flagged {?…}: t o
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 122
+Problem: paragraph identical to one on page 86: Time yourself as you read through the passage. Try…
+Severity: MEDIUM
+Action/recommendation: verify (review units legitimately repeat instructions)
+
+Page: 124
+Problem: paragraph identical to one on page 86: Time yourself as you read through the passage. Try…
+Severity: MEDIUM
+Action/recommendation: verify (review units legitimately repeat instructions)
+
+Page: 128
+Problem: uncertain OCR tokens flagged {?…}: activel Z 1
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 145
+Problem: unusual characters: °, °F
+Severity: LOW
+Action/recommendation: inspect
+
+Page: 154
+Problem: uncertain OCR tokens flagged {?…}: a(n), stated style and ari (8)
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 155
+Problem: uncertain OCR tokens flagged {?…}: ten thousand
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 160
+Problem: paragraph identical to one on page 86: Time yourself as you read through the passage. Try…
+Severity: MEDIUM
+Action/recommendation: verify (review units legitimately repeat instructions)
+
+Page: 162
+Problem: paragraph identical to one on page 86: Time yourself as you read through the passage. Try…
+Severity: MEDIUM
+Action/recommendation: verify (review units legitimately repeat instructions)
+
+Page: 164
+Problem: uncertain OCR tokens flagged {?…}: /en’ksridz/, /'hrendz 1 on/, /in’gri:diantz/, /'kitfon/, / 1 kwol::1/a1d/, /pa:r/, /sprei/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 165
+Problem: uncertain OCR tokens flagged {?…}: /'tfampion/, /kom’petitar/, /mo’fi:n/, /s’pounant/, /di’skafan/, /'dugrrIJI, tatf/, /a’pinyan/, /'tempoaratfar/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 166
+Problem: uncertain OCR tokens flagged {?…}: />'bro:d/, l’kAmftabal/, /'kaltfor/, 1Ik 1 sa1t1IJ/, 1Ik 1 sp1arians/, / 1 :i:sam/, /'d33:rnl/, /'prrekt1s/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 167
+Problem: uncertain OCR tokens flagged {?…}: / red 1 vals /, /'zvarid3/, /, 1 ed3u 1 ke1J Nn/, h:rn/, /'intorast,, 'mtrist/, /splhit/, /trrensp Nr 1 te1J Nn/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 168
+Problem: uncertain OCR tokens flagged {?…}: /a’nol/, /s’tenfon/, 1 ka:mbd ne1Jdn/, lka:nstdnti:/, Nmd:ct3dnsi:/, ka:nfa:'meifan/, Nmrect3dn/, /trrens le1t,
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 169
+Problem: uncertain OCR tokens flagged {?…}: /'a:na/, /ri’kwaizmant/, /sa’lekt, /'simbasl/, l’ct3A(51, /'a:bct31kt/, /'reisa/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 170
+Problem: uncertain OCR tokens flagged {?…}: /kleim/, /i’steblif/, lsAbc!31kt/, /sa’vaiv/, /'fifant/, /enc!3 ] 1 ni:rnJI, /'rou’teit/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 171
+Problem: uncertain OCR tokens flagged {?…}: /krelkyg, /d1 1 velgp/, /ig’zist/, /o>'ridso, /pra1 1 meri/, sitfa’weifan/, /va’raiyati:/, /'demoan, intra’daktori:/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 172
+Problem: uncertain OCR tokens flagged {?…}: /'flreJi:/, /d1 1 sple1/, /i’spefsli:/, ne1t1IJ/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 173
+Problem: uncertain OCR tokens flagged {?…}: /3’lau/, /im’ploi/, /tren’zifon/, /'fri:xdom/, /'greedzowal:i/, /,inda’pendant/, /, 1 ouv r kAm/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 174
+Problem: uncertain OCR tokens flagged {?…}: /d (6Ast/, /'einfant/, /a’soufi, /kleim/, /'evadans/, /'limat/, o’kaunt/
+Severity: MEDIUM
+Action/recommendation: check the flagged words against the page image
+
+Page: 175
+Problem: uncertain OCR tokens flagged {?…}: /di’lait/, /di’klea/, /ob’tein/
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 178
+Problem: duplicated paragraph(s): Text Text/Audio CD Package Classroom Audio CDs Teacher’s Gui…
+Severity: MEDIUM
+Action/recommendation: remove duplicate if not genuine repetition

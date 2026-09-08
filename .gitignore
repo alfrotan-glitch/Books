@@ -1,0 +1,7 @@
+tools/data/eng.traineddata
+tools/data/*.png
+tools/data/img/
+tools/data/discs/
+tools/data/ocr/
+tools/data/*.log
+__pycache__/
