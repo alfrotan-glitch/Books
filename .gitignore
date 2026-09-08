@@ -5,3 +5,4 @@ tools/data/discs/
 tools/data/ocr/
 tools/data/*.log
 __pycache__/
+tools/data/ocr_prev/
