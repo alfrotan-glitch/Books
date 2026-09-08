@@ -4,17 +4,32 @@ Total PDF pages: 179
 Pages successfully processed: 179
 Pages requiring OCR: 179 (the PDF is a scan with a low-quality embedded OCR layer on every page; all pages were re-OCRed with Tesseract and fused word-by-word with the embedded layer)
 Pages with unresolved issues (HIGH/CRITICAL): 0
-Pages requiring manual verification (MEDIUM or worse): 20: 3, 26, 95, 110, 122, 124, 160, 162, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 178
-Pages with uncertain-OCR flags {?…}: 33
-Total words extracted: 53386
+Pages requiring manual verification (MEDIUM or worse): 27: 3, 5, 6, 7, 26, 63, 64, 83, 95, 110, 122, 124, 160, 162, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 177, 178
+Pages with uncertain-OCR flags {?…}: 37
+Total words extracted: 53462
 Page continuity: OK — markers [PAGE 001] … [PAGE 179] each present exactly once
 
 [ISSUES]
+
+Page: 1  Section: Front cover
+Problem: Cover is artwork; text transcribed manually from the image (title, edition, author, publisher). No further OCR-able text.
+Severity: LOW
+Action/recommendation: None (verified against the image).
+
+Page: 2  Section: What Is ACTIVE Reading?
+Problem: The six ACTIVE letters (A/C/T/I/V/E) are set as large decorative capitals; the '=' signs and letter/phrase pairing were reconstructed from the layout.
+Severity: LOW
+Action/recommendation: Check the A = Activate Prior Knowledge … E = Evaluate Progress list against the page.
 
 Page: 3
 Problem: uncertain OCR tokens flagged {?…}: 1-133-30803-1, Martinez/PhotoEdit., Comstock/jupiterimages/Getty, Jupiterimages/Comstock/Thinkstock, p123:
 Severity: MEDIUM
 Action/recommendation: check the flagged words against the page image
+
+Page: 3  Section: Copyright page
+Problem: Publisher logo lettering ('CENGAGE Learning') and the printing-number line (1 2 3 4 5 6 7 16 15 14 13 12) are read as one run of digits; a small photo-credit line ('s_bukley' / Shutterstock credits) may be partially garbled.
+Severity: LOW
+Action/recommendation: Compare the credit line and printing line with the page image.
 
 Page: 3
 Problem: unusual characters: ©
@@ -22,29 +37,74 @@ Severity: LOW
 Action/recommendation: inspect
 
 Page: 4
+Problem: uncertain OCR tokens flagged {?…}: Kultar
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 4
 Problem: unusual characters: ExamView®
 Severity: LOW
 Action/recommendation: inspect
+
+Page: 5  Section: Contents (Units 1–6)
+Problem: Contents table (Unit / Chapter / Reading Skill / Vocabulary Skill / Real Life Skill columns) is rendered as a [TABLE] whose columns were reconstructed from ruled lines; a few cells may be interleaved between neighbouring rows.
+Severity: MEDIUM
+Action/recommendation: Verify the row/column assignment of the Contents table against the page.
+
+Page: 6  Section: Contents (Units 7–12, Review, Index)
+Problem: Same as page 5. Unit numbers 11 and 12 are printed as '1' + a circled digit in the source and may appear as '11' / '12' after correction — verify.
+Severity: MEDIUM
+Action/recommendation: Verify the Contents table rows for Units 7–12 and the review units.
 
 Page: 6
 Problem: uncertain OCR tokens flagged {?…}: ACTIVEIy;
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
+Page: 7  Section: Vocabulary Learning Tips – sample notebook
+Problem: The example vocabulary-notebook entry (New word / Translation / Part of speech / Sentence where found / My own sentence) and the word-family chart (Noun happiness / Verb — / Adjective happy / Adverb happily) are printed as small handwritten-style tables; the Chinese translation glyph could not be OCRed.
+Severity: MEDIUM
+Action/recommendation: Compare the notebook example and word-family chart with the page; the translation cell is left as printed characters where recognised.
+
+Page: 12  Section: Unit openers (pages 12, 22, 32, 50, 60, 70, 88, 98, 108, 126, 136, 146)
+Problem: Unit-opener pages are full-page photographs with a large unit numeral and title; the numeral is sometimes glued to the title line (e.g. '# Living for the Future 12'). Getting Ready questions are complete.
+Severity: LOW
+Action/recommendation: Cosmetic; unit number and title are both present.
+
+Page: 13  Section: Unit 1 Chapter 1 – Reading Skill
+Problem: The reading-skill panel contains a small process diagram (boxes with arrows); only its labels are extracted, not the arrows/figure layout.
+Severity: LOW
+Action/recommendation: Treat the labels as figure text; no content loss expected.
+
+Page: 15  Section: Chapter pages with True/False boxes (15, 29, 35, 39, 53, 57, 61, 67, 73, 77, 95, 105, 111, 115, 133, 139, 153)
+Problem: T/F answer grids are rendered as [TABLE 3 columns] with empty T and F cells; a few item numbers inside the grid were lost to the rule detector (e.g. page 15 items 1 and 3, page 61 item 6) although the sentences are complete.
+Severity: LOW
+Action/recommendation: Item numbering can be inferred from order; sentences verified present.
+
 Page: 17
 Problem: unusual characters: ®
 Severity: LOW
 Action/recommendation: inspect
 
-Page: 26
-Problem: uncertain OCR tokens flagged {?…}: _.butimadeit, —verydifferent, cxcl, becauseits...gxcity, Want a (4) relax
+Page: 26  Section: Unit 2 Chapter 1 – Before You Read
+Problem: Tilted postcard artwork: the printed postcard text was transcribed from the de-rotated image; the handwritten portion is not legible and is described in a [POSTCARD: …] note instead of transcribed.
 Severity: MEDIUM
+Action/recommendation: Check the postcard transcript; the handwriting cannot be recovered by OCR.
+
+Page: 28
+Problem: uncertain OCR tokens flagged {?…}: Travel
+Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
 Page: 31
 Problem: unusual characters: ‘Marital
 Severity: LOW
 Action/recommendation: inspect
+
+Page: 34  Section: Unit 3 Chapter 1 – reading passage title
+Problem: Decorative title lettering over a photo may include a stray junk token before the passage title.
+Severity: LOW
+Action/recommendation: Ignore a stray token immediately before the title if present.
 
 Page: 36
 Problem: uncertain OCR tokens flagged {?…}: thatitis
@@ -68,6 +128,16 @@ Action/recommendation: check the flagged words against the page image
 
 Page: 43
 Problem: uncertain OCR tokens flagged {?…}: preblem-solving
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 45  Section: Review Unit 1 – Self Check
+Problem: Writing lines under the free-response questions are only partly detected (some faint ruled lines are dropped); the number of '________' markers may be lower than printed.
+Severity: LOW
+Action/recommendation: Cosmetic: the count of blank lines is not content.
+
+Page: 46
+Problem: uncertain OCR tokens flagged {?…}: [35]
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
@@ -96,10 +166,25 @@ Problem: uncertain OCR tokens flagged {?…}: Doyouconsideryourselfain), Haveyou
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
-Page: 64
-Problem: uncertain OCR tokens flagged {?…}: :, weeks7can '. t
+Page: 59  Section: Unit 4 Chapter 2 – Vocabulary Comprehension
+Problem: Two-column list of dates/records (unruled) is rendered as one paragraph in reading order left→right per row; verify pairing of dates with descriptions.
 Severity: LOW
-Action/recommendation: check the flagged words against the page image
+Action/recommendation: Check the date list against the page.
+
+Page: 63
+Problem: coverage of embedded text layer 0.89 — some words of the text layer are not in the output
+Severity: MEDIUM
+Action/recommendation: compare with page image; text may be photo lettering, dropped junk or genuinely missing
+
+Page: 64
+Problem: coverage of embedded text layer 0.90 — some words of the text layer are not in the output
+Severity: MEDIUM
+Action/recommendation: compare with page image; text may be photo lettering, dropped junk or genuinely missing
+
+Page: 64  Section: Unit 5 Chapter 1 – Vocabulary Skill (root words)
+Problem: Root-word matching chart (root • | • meaning, unruled) was reconstructed manually as a [TABLE 2 columns] from the page image.
+Severity: LOW
+Action/recommendation: Verified visually; spot-check if needed.
 
 Page: 64
 Problem: unusual characters: ‘I
@@ -111,6 +196,16 @@ Problem: uncertain OCR tokens flagged {?…}: with (3), only get (5)
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
+Page: 69  Section: Unit 5 – Real Life Skill (phone-book list)
+Problem: Root/Meaning table reconstructed from rules; the doctor phone list (name … number with dot leaders) was re-joined line by line from the leader dots. Names and numbers verified against the image.
+Severity: LOW
+Action/recommendation: None (verified).
+
+Page: 70  Section: Unit 5 Chapter 2 – Before You Read
+Problem: A pie chart / infographic appears on the page; only its text labels are captured, not the graphic proportions.
+Severity: LOW
+Action/recommendation: Refer to the PDF for the figure.
+
 Page: 74
 Problem: unusual characters: ®
 Severity: LOW
@@ -120,6 +215,16 @@ Page: 78
 Problem: unusual characters: ‘and
 Severity: LOW
 Action/recommendation: inspect
+
+Page: 83
+Problem: coverage of embedded text layer 0.86 — some words of the text layer are not in the output
+Severity: MEDIUM
+Action/recommendation: compare with page image; text may be photo lettering, dropped junk or genuinely missing
+
+Page: 83  Section: Review Unit 2 – Self Check
+Problem: Same as page 45: some writing lines undetected; decorative torn-notebook artwork removed.
+Severity: LOW
+Action/recommendation: Cosmetic.
 
 Page: 94
 Problem: uncertain OCR tokens flagged {?…}: iyrics
@@ -141,25 +246,40 @@ Problem: uncertain OCR tokens flagged {?…}: I’dliketohaveain)
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
+Page: 106  Section: Unit 8 Chapter 2 – Vocabulary Skill
+Problem: Item number '(1)' printed inside a circle was read as '(✓)' by the check-mark detector in the original run; corrected where verified, but a residual '(✓)' may remain where '(1)' is printed.
+Severity: LOW
+Action/recommendation: Check items marked (✓) at the start of a blank in this exercise.
+
+Page: 106
+Problem: uncertain OCR tokens flagged {?…}: adventur
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
 Page: 107
 Problem: uncertain OCR tokens flagged {?…}: Qvehidesiones
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
+Page: 109  Section: Unit 9 Chapter 1 – Reading Skill
+Problem: First line of the Reading Skill panel ('Not all articles present events in order;') was garbled by OCR and repaired from the page image.
+Severity: LOW
+Action/recommendation: None (verified).
+
+Page: 110  Section: Unit 9 Chapter 1 – reading passage (A Brief History of Chocolate)
+Problem: A small upside-down answer key printed at the foot of the page (rotated text) OCRs as garbage ('Jeq 338/020 …'); it is left flagged rather than reconstructed.
+Severity: MEDIUM
+Action/recommendation: Rotate the page in the PDF to read the answer key; the main passage text is complete.
+
 Page: 110
-Problem: uncertain OCR tokens flagged {?…}: xocolatl,, xocolatl, 000°L, SS0p, (SISMSUY
+Problem: uncertain OCR tokens flagged {?…}: xocolatl,, xocolatl, cne/OJOl/J, 000°L, Sunjuip, SS0p, (SISMSUY
 Severity: MEDIUM
 Action/recommendation: check the flagged words against the page image
 
 Page: 110
-Problem: unusual characters: °L, ‘Z, €
+Problem: unusual characters: °L, ‘Z
 Severity: LOW
 Action/recommendation: inspect
-
-Page: 112
-Problem: uncertain OCR tokens flagged {?…}: (ircl
-Severity: LOW
-Action/recommendation: check the flagged words against the page image
 
 Page: 113
 Problem: uncertain OCR tokens flagged {?…}: F "
@@ -186,15 +306,45 @@ Problem: uncertain OCR tokens flagged {?…}: activel Z 1
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
+Page: 134  Section: Unit 10 Chapter 2 – Vocabulary Skill
+Problem: Same '(✓)' vs '(1)' ambiguity as page 106 for the first blank of the exercise.
+Severity: LOW
+Action/recommendation: Check the first item marker.
+
+Page: 145  Section: Unit 12 – Real Life Skill (measures)
+Problem: Units-of-measure conversion table reconstructed from rules; '2.5' had been read as '25' and was corrected from the image.
+Severity: LOW
+Action/recommendation: None (verified).
+
 Page: 145
-Problem: unusual characters: °, °F
+Problem: unusual characters: °, °C, °F
 Severity: LOW
 Action/recommendation: inspect
+
+Page: 146  Section: Unit 12 Chapter 1 – opener / answer sheet artwork
+Problem: The multiple-choice answer-sheet artwork (rows of A B C D bubbles) is decorative; bubble letters were suppressed as artwork. A few stray 'D' tokens may remain.
+Severity: LOW
+Action/recommendation: Ignore stray single letters in the artwork area.
+
+Page: 148
+Problem: uncertain OCR tokens flagged {?…}: http://www.asrinfo.heinle.com/cleanup
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
+
+Page: 152
+Problem: uncertain OCR tokens flagged {?…}: [35]
+Severity: LOW
+Action/recommendation: check the flagged words against the page image
 
 Page: 154
 Problem: uncertain OCR tokens flagged {?…}: a(n), stated style and ari (8)
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
+
+Page: 155  Section: Review Unit 4 – Fluency Strategy (numbers table)
+Problem: Written/Spoken numbers table reconstructed; the spoken form of 10,000 is flagged {?ten thousand} because the print is partly covered by artwork.
+Severity: LOW
+Action/recommendation: Confirm the flagged cell.
 
 Page: 155
 Problem: uncertain OCR tokens flagged {?…}: ten thousand
@@ -210,6 +360,11 @@ Page: 162
 Problem: paragraph identical to one on page 86: Time yourself as you read through the passage. Try…
 Severity: MEDIUM
 Action/recommendation: verify (review units legitimately repeat instructions)
+
+Page: 164  Section: Vocabulary Index
+Problem: IPA pronunciations between slashes are not recoverable by OCR (rendered as flagged {?…} strings); headwords, parts of speech, definitions and example sentences are intact. The same applies to pages 164–175.
+Severity: MEDIUM
+Action/recommendation: Do not rely on the phonetic transcriptions; use the PDF for pronunciations.
 
 Page: 164
 Problem: uncertain OCR tokens flagged {?…}: /en’ksridz/, /'hrendz 1 on/, /in’gri:diantz/, /'kitfon/, / 1 kwol::1/a1d/, /pa:r/, /sprei/
@@ -227,7 +382,7 @@ Severity: MEDIUM
 Action/recommendation: check the flagged words against the page image
 
 Page: 167
-Problem: uncertain OCR tokens flagged {?…}: / red 1 vals /, /'zvarid3/, /, 1 ed3u 1 ke1J Nn/, h:rn/, /'intorast,, 'mtrist/, /splhit/, /trrensp Nr 1 te1J Nn/
+Problem: uncertain OCR tokens flagged {?…}: / red 1 vals /, /'zvarid3/, 1 ed3u 1 ke1J Nn/, h:rn/, /'intorast,, 'mtrist/, /splhit/, /trrensp Nr 1 te1J Nn/
 Severity: MEDIUM
 Action/recommendation: check the flagged words against the page image
 
@@ -257,7 +412,7 @@ Severity: MEDIUM
 Action/recommendation: check the flagged words against the page image
 
 Page: 173
-Problem: uncertain OCR tokens flagged {?…}: /3’lau/, /im’ploi/, /tren’zifon/, /'fri:xdom/, /'greedzowal:i/, /,inda’pendant/, /, 1 ouv r kAm/
+Problem: uncertain OCR tokens flagged {?…}: /3’lau/, /im’ploi/, /tren’zifon/, /'fri:xdom/, /'greedzowal:i/, /,inda’pendant/, 1 ouv r kAm/
 Severity: MEDIUM
 Action/recommendation: check the flagged words against the page image
 
@@ -271,7 +426,32 @@ Problem: uncertain OCR tokens flagged {?…}: /di’lait/, /di’klea/, /ob’te
 Severity: LOW
 Action/recommendation: check the flagged words against the page image
 
+Page: 176  Section: Prefixes, Roots and Suffixes
+Problem: Three-column reference chart (affix / meaning / examples) rendered row by row with ' | ' separators; hyphenated affixes at line ends (e.g. 'cross-') are kept literally.
+Severity: LOW
+Action/recommendation: Spot-check a few rows.
+
+Page: 177  Section: Reading Rate Chart
+Problem: The reading-rate graph (wpm axis vs comprehension quadrants) is a figure; only its axis labels and quadrant names are extracted as a [TABLE].
+Severity: MEDIUM
+Action/recommendation: Use the PDF for the chart itself; the explanatory text below it is complete.
+
+Page: 178  Section: Series information / ISBN table
+Problem: ISBN component table (Text, Text + Audio CD, Classroom Audio CDs, Teacher's Guide, Assessment CD-ROM per level) is an unruled grid; it is emitted as rows of ISBNs whose column assignment should be verified.
+Severity: MEDIUM
+Action/recommendation: Verify the ISBN grid columns against the page.
+
 Page: 178
 Problem: duplicated paragraph(s): Text Text/Audio CD Package Classroom Audio CDs Teacher’s Gui…
 Severity: MEDIUM
 Action/recommendation: remove duplicate if not genuine repetition
+
+Page: 179  Section: Back cover
+Problem: Back-cover marketing text over artwork; ISBN and CEF level captured. Logo lettering omitted.
+Severity: LOW
+Action/recommendation: None.
+
+Page: 179
+Problem: uncertain OCR tokens flagged {?…}: ExamView*
+Severity: LOW
+Action/recommendation: check the flagged words against the page image

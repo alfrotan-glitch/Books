@@ -35,6 +35,23 @@ REGION_TEXT = {
         (r"isn’t\. for me", "isn’t for me"),
         (r"meanings of oot : words", "meanings of root words"),
     ],
+    2: [
+        (r"## A =\n\n## C =\n\n## T =\n\n## V =\n\n## E =\n\n## Activate Prior Knowledge", "## A = Activate Prior Knowledge"),
+        (r"## Cultivate Vocabulary", "## C = Cultivate Vocabulary"),
+        (r"## Think About Meaning", "## T = Think About Meaning"),
+        (r"## Increase Reading Fluency", "## I = Increase Reading Fluency"),
+        (r"## Verify Strategies", "## V = Verify Strategies"),
+        (r"## Evaluate Progress", "## E = Evaluate Progress"),
+    ],
+    34: [
+        (r"# in NES\n\n\[5\]\n\nWho makes movies\?", "# Behind the Scenes\n\nWho makes movies?"),
+    ],
+    109: [
+        (r"Not all articles press wer 3 in order;", "Not all articles present events in order;"),
+    ],
+    133: [
+        (r"Consumers could vote for the winner\. / a \|", "Consumers could vote for the winner. |"),
+    ],
     124: [
         (r"\{\?a moleaish\} dich", "a mole dish"),
     ],
