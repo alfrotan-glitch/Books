@@ -7,7 +7,7 @@ sys.path.insert(0, "/home/user/Books/tools/qa"); sys.path.insert(0, "/home/user/
 from split_master import load
 from quality import is_word
 PDF = "/home/user/Books/Active_Skills_for_Reading_2_Book_[languagecentre.ir]-1.pdf"
-head, pages, tail = load()
+head, pages, tail = load(sys.argv[1] if len(sys.argv) > 1 else None)
 doc = pymupdf.open(PDF)
 def norm(s):
     s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"').replace("—", "-").replace("–", "-").replace("\u00ad", "")

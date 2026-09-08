@@ -251,7 +251,7 @@ c(58, "The suffix -ous means to have or to\n\n**be full of.**\n\n________\n\n## 
 
 # ---- Motivational Tip boxes split into '## heading' + orphan paragraph: re-joined (verified p89 on image; 'Sucess/suceed' are printed thus) ----
 c(65, '## Motivational Tip: What do others say about learning English? Have you read\n\nanything recently in a newspaper or a magazine about the importance of being a good reader? Who made the statement? Many influential people want to improve reading skills among people in their country. Do the leaders in your country have the same goals? How can you support those goals?', 'Motivational Tip: What do others say about learning English? Have you read anything recently in a newspaper or a magazine about the importance of being a good reader? Who made the statement? Many influential people want to improve reading skills among people in their country. Do the leaders in your country have the same goals? How can you support those goals?', 'Motivational Tip paragraph re-joined')
-c(79, '## Motivational Tip: How can this be applied beyond the textbook? Reading is\n\na very important life skill and is used every day to accomplish real life tasks. How can the real life skill of doing research on the Internet be used in everyday life? ________', 'Motivational Tip: How can this be applied beyond the textbook? Reading is a very important life skill and is used every day to accomplish real life tasks. How can the real life skill of doing research on the Internet be used in everyday life? ________', 'Motivational Tip paragraph re-joined')
+c(79, 'other useful websites?\n\n________\n\n## Motivational Tip: How can this be applied beyond the textbook? Reading is\n\na very important life skill and is used every day to accomplish real life tasks. How can the real life skill of doing research on the Internet be used in everyday life? ________\n\n________\n\n## What do you think?', 'other useful websites?\n\nMotivational Tip: How can this be applied beyond the textbook? Reading is a very important life skill and is used every day to accomplish real life tasks. How can the real life skill of doing research on the Internet be used in everyday life?\n\n## What do you think?', 'Motivational Tip paragraph re-joined; box-frame artifacts dropped (image-verified)')
 c(89, '## Moti Tip Sucess or Effort or bility? When you suceed, is it\n\nbecause of your effort or your ability? Sucess can be a combination of both, but effort is perhaps more important. When you suceed, remember that it is because of the time you spent working on it. When you fail, remember it is not because you are not good enough, but because you need to spend more time and energy on the task', "Motivational Tip: Sucess or failure? Effort or ability? [sic — printed 'Sucess'] When you suceed, is it because of your effort or your ability? Sucess can be a combination of both, but effort is perhaps more important. When you suceed, remember that it is because of the time you spent working on it. When you fail, remember it is not because you are not good enough, but because you need to spend more time and energy on the task", 'Motivational Tip paragraph re-joined')
 c(113, '## Motivational Tip: Strengthen your personal relationships. Your friends can help you\n\nachieve your reading goals. Sharing your goals can also strengthen your personal relationships. As you begin this unit, share with a friend what you hope to learn in this unit about chocolate that will help you become a better user of English.', 'Motivational Tip: Strengthen your personal relationships. Your friends can help you achieve your reading goals. Sharing your goals can also strengthen your personal relationships. As you begin this unit, share with a friend what you hope to learn in this unit about chocolate that will help you become a better user of English.', 'Motivational Tip paragraph re-joined')
 c(135, '## Motivational Tip: Review your reading fluency progress. Refer to the reading rate\n\nand reading comprehension charts at the end of the beok. How would you evaluate your progress? Are your scores gradually going up? Use these charts to evaluate the progress you are making. What goals can you set for yourself as you continue to the next unit?', 'Motivational Tip: Review your reading fluency progress. Refer to the reading rate and reading comprehension charts at the end of the beok. How would you evaluate your progress? Are your scores gradually going up? Use these charts to evaluate the progress you are making. What goals can you set for yourself as you continue to the next unit?', 'Motivational Tip paragraph re-joined')
@@ -639,3 +639,125 @@ c(172, 'rmed a marriage ceremony. check in ', 'rmed a marriage ceremony.\n\nchec
 c(174, 'ated with thunder storms. break up ', 'ated with thunder storms.\n\nbreak up ', 'entry split')
 c(173, "employs 18 people. no longer /nou 'la:nga/ expression adv.", "employs 18 people.\n\nno longer /nou 'la:nga/ expression adv.", "entry split")
 c(175, "on the highway? immense Nmens/ adj. very large", "on the highway?\n\nimmense {?/i’mens/} adj. very large", "entry split; IPA flagged")
+
+# ---- p176 Prefixes, Roots and Suffixes (image-verified) ----
+c(176, "up higher or improved: uphill, upgrade, update; welldone well or a lot: well-known, well-liked", "up higher or improved: uphill, upgrade, update; well- done well or a lot: well-known, well-liked", "hyphenated prefix 'well-' (line break in print)")
+c(176, "ation/ution/ ition used to make a noun", "ation/ution/ition used to make a noun", "line break in print")
+c(176, "logy/ology the study of. geology", "logy/ology the study of: geology", "OCR")
+c(176, "ous/ious to have or to be full of. adventurous", "ous/ious to have or to be full of: adventurous", "OCR")
+c(46, "This was not mentioned’in the book", "This was not mentioned in the book", "artifact")
+c(34, "Jim Carrey’'s makeup artist", "Jim Carrey’s makeup artist", "artifact")
+c(162, "absorb the sun'’s heat", "absorb the sun’s heat", "artifact")
+c(175, "request /ri'’kwest/ v.", "request {?/ri’kwest/} v.", "artifact; IPA flagged")
+
+# ---- p96 sidebar box (image-verified) ----
+c(96, "\n\n0 0\n\n“In this unit, you' ve seen the words effect and affect. Words like this are often confused because they are spelled in a similar way, and : in spoken English, are sometimes pronounced alike.\n\n", "\n\n", "sidebar box moved next to its heading")
+c(96, "**Easily Confused Words**\n\n", "**Easily Confused Words**\n\nIn this unit, you’ve seen the words effect and affect. Words like this are often confused because they are spelled in a similar way, and in spoken English, are sometimes pronounced alike.\n\n", "sidebar box text (artifacts removed)")
+c(30, "with the: “noun caution, meaning care. Pre-.can be combined", "with the noun caution, meaning care. Pre- can be combined", "artifacts")
+c(63, "how our bodies work. : b Our body", "how our bodies work.\n\nb Our body", "artifact; option on own line")
+c(102, "7 ________ puts.out fires", "7 ________ puts out fires", "artifact")
+c(116, "feel restless or.unable to sleep", "feel restless or unable to sleep", "artifact")
+
+# ---- multiple-choice options glued to the question line / two options on one line ----
+c(91, "they are studying. a many\n\nb very few", "they are studying.\n\na many\n\nb very few", "option on own line")
+c(91, "a celebrate traditional music b plan music events", "a celebrate traditional music\n\nb plan music events", "options separated")
+c(91, "recorded ________ a studio. a in\n\nb outside", "recorded ________ a studio.\n\na in\n\nb outside", "option on own line")
+c(39, "a a biography b a newspaper article c a critical review", "a a biography\n\nb a newspaper article\n\nc a critical review", "options separated")
+c(111, "a how to make flowers grow b how to cut a potato", "a how to make flowers grow\n\nb how to cut a potato", "options separated")
+c(150, "a kept on a computer b thrown into a trash can", "a kept on a computer\n\nb thrown into a trash can", "options separated")
+c(129, "in paragraph 2 because ________ a consumers pay extra for clothing with logos", "in paragraph 2 because ________\n\na consumers pay extra for clothing with logos", "option on own line")
+c(129, "you ________ notice it. a immediately", "you ________ notice it.\n\na immediately", "option on own line")
+c(130, "6 Which is a more interactive activity? a reading a book", "6 Which is a more interactive activity?\n\na reading a book", "option on own line")
+c(130, "you like its ________ a words and pictures", "you like its ________\n\na words and pictures", "option on own line")
+c(131, "the main topic of the passage is? a advertisements that no one liked", "the main topic of the passage is?\n\na advertisements that no one liked", "option on own line")
+c(93, "Motivat Tip: Share with others.", "Motivational Tip: Share with others.", "OCR (image-verified)")
+c(71, "Motivational Tip: Are you a risk taker? pont be afraid of making mistakes! Mistakes are\n\na natural part", "Motivational Tip: Are you a risk taker? Don’t be afraid of making mistakes! Mistakes are a natural part", "OCR + paragraph join (image-verified)")
+c(129, "by “engagement”? a A company puts", "by “engagement”?\n\na A company puts", "option on own line")
+c(129, "advertisers face today? a Advertising costs", "advertisers face today?\n\na Advertising costs", "option on own line")
+c(130, "7 If you get access to a building, you a are allowed to enter it", "7 If you get access to a building, you\n\na are allowed to enter it", "option on own line")
+c(33, "________\n\nio ip: Sit in differen seat today. In most classrooms, students sit in the\n\nsame seat near their friends. Today, I challenge you today to sit in a different seat, next to someone you don’t know very well. In this class, when invited by your teacher, share what you are learning from today’s chapter with your new partner. ________ ________\n\n", "Motivational Tip: Sit in a different seat today. In most classrooms, students sit in the same seat near their friends. Today, I challenge you today to sit in a different seat, next to someone you don’t know very well. In this class, when invited by your teacher, share what you are learning from today’s chapter with your new partner.\n\n", "Motivational Tip heading OCR + join (image-verified); junk rules dropped")
+c(33, "[running foot: 32 UNIT 3 Chapter]", "[running foot: 32 UNIT 3 Chapter 1]", "image-verified")
+c(25, "[running foot: 24 UNIT Chapter]", "[running foot: 24 UNIT 2 Chapter 1]", "image-verified")
+c(63, "[running foot: 62 UNIT 5 Chapter]", "[running foot: 62 UNIT 5 Chapter 1]", "image-verified")
+c(73, "[running foot: 72 UNIT 6 Chapter]", "[running foot: 72 UNIT 6 Chapter 1]", "image-verified")
+c(10, "If you want to become a more fluent reader, read more!\n\n", "If you want to become a more fluent reader, read more!\n\n[IMAGE — NO TEXT]\n\n[running foot: 9]\n\n", "page number printed on photo (image-verified)")
+
+# ---- quote / colon artifacts (image-verified where noted) ----
+c(130, "doing away with “Casual\n\nFridays.” This is because", "doing away with “Casual Fridays.” This is because", "line join inside paragraph (image-verified)")
+c(46, "Edward and Bella ‘come to life,”", "Edward and Bella “come to life,”", "quote mark")
+c(46, "While many:fans and critics", "While many fans and critics", "artifact")
+c(56, 'a 9 on a scale of 10."', "a 9 on a scale of 10.”", "quote mark")
+c(34, 'ask, “How did they do that?" In movies', "ask, “How did they do that?” In movies", "quote mark")
+c(162, 'included in the "local food movement.”', "included in the “local food movement.”", "quote mark")
+c(82, "7 What does line 46-47 something he appreciates. average moviegoer mean?", "7 What does line 46–47 something he appreciates. .. average moviegoer mean?", "en dash + printed ellipsis (image-verified)")
+c(143, "in lines 23—24 mean?", "in lines 23–24 mean?", "en dash (image-verified)")
+c(115, "in her quote in lines 21-23?", "in her quote in lines 21–23?", "en dash (image-verified)")
+c(115, "mother and grandmother in line 267?", "mother and grandmother in line 26?", "OCR (image-verified)")
+c(115, "## Check Your Understanding\n\n# Critical Thinking\n\n", "## Check Your Understanding\n\n", "sidebar heading misplaced (image-verified)")
+c(115, "[/TABLE]\n\nDiscuss the following questions with a partner.", "[/TABLE]\n\n## Critical Thinking\n\nC Discuss the following questions with a partner.", "sidebar heading + exercise letter (image-verified)")
+
+# ---- p133 top: heading split by OCR + T/F table (image-verified) ----
+c(133, '\nReading\n\nA Read the following sentences. Check (✓) true (T) or false (F).\n\n## Comprehension\n\n## Check Your Understanding\n\n**T F**\n\n________\n\n1 Companies usually avoid holding contests. ________\n\n2 A company cannot control who enters a contest, but they can control who wins.\n\n3 Nancy Upton did not enter the contest because she thought it was offensive to women.\n\n4 The few negative videos of the Tahoe were watched by many people.\n\n________\n\n5 The contests were unsuccessful because they were not popular enough.\n\n', '\n## Reading Comprehension\n\n## Check Your Understanding\n\nA Read the following sentences. Check (✓) true (T) or false (F).\n\n[TABLE 3 columns]\n | T | F\n1 Companies usually avoid holding contests. |  | \n2 A company cannot control who enters a contest, but they can control who wins. |  | \n3 Nancy Upton did not enter the contest because she thought it was offensive to women. |  | \n4 The few negative videos of the Tahoe were watched by many people. |  | \n5 The contests were unsuccessful because they were not popular enough. |  | \n[/TABLE]\n\n', "heading 'Reading Comprehension' split; T/F exercise reconstructed as table (image-verified)")
+c(91, "According to the article\n\n1 Traditional music", "According to the article . . .\n\n1 Traditional music", "printed ellipsis (image-verified)")
+
+# ---- p16 word web + word box (image-verified) ----
+c(16, 'How do your ideas connect to each other?\n\n________\n\n________\n\n________\n\n________\n\n________\n\n________\n\n________\n\n________\n\nB On a sheet of paper, create a word web using one of the categories in the box below (or one of your own). See how many branches and words you can add. Share your ideas with a partner. ________ travel music the future food ________\n\n', 'How do your ideas connect to each other?\n\n[WORD WEB — centre: learning]\nlearning → memorize\nlearning → remember\nlearning → understand\nlearning → practice\n\nB On a sheet of paper, create a word web using one of the categories in the box below (or one of your own). See how many branches and words you can add. Share your ideas with a partner.\n\n[WORD BOX] travel   music   the future   food\n\n', "word-web ovals (memorize, remember, understand, practice around 'learning') restored from image; empty rule lines dropped; word box tagged")
+
+# ---- p78 word box + item 4 (image-verified) ----
+c(78, "to these associations? ________ commuting hobby e-mail common download enjoy hectic ________\n\n", "to these associations?\n\n[WORD BOX] commuting   hobby   e-mail   common   download   enjoy   hectic\n\n", "word box tagged; rule artifacts dropped")
+c(78, "4 leisure: relax\n\n________\n\n5 pressure", "4 leisure: ________ relax\n\n5 pressure", "blank belongs before 'relax' (image-verified)")
+c(78, "for example hobby ‘and activity.", "for example hobby and activity.", "artifact")
+c(130, "to make them negative.\n\n________ ________\n\n________\n\na possible\n\nb patient c ________ concerned d ________ secure\n\ne ________ aware f ________ certain g ________ correct h ________ identified ________ ________\n\n", "to make them negative.\n\n[WORD BOX]\na ________possible\nb ________patient\nc ________concerned\nd ________secure\ne ________aware\nf ________certain\ng ________correct\nh ________identified\n\n", "word box with prefix blanks a–h (image-verified); rule artifacts dropped")
+c(130, "7 If you get access to a building, you\n\na are allowed to enter it", "7 If you get access to a building, you ________.\n\na are allowed to enter it", "blank restored (image-verified)")
+
+# ---- p102 / p103 word boxes (image-verified) ----
+c(102, "make a compound noun.\n\n________ computer travel book taxi police fire office car hair) ________\n\n1 ________ manager\n\n2 ________ agent\n\n3 ________ dealer\n\n4 ________ programmer 5 ________ dresser 6 ________ driver\n\n7 ________ fighter\n\n8 ________ keeper 9 ________ officer\n\n", "make a compound noun.\n\n[WORD BOX] computer   travel   book   taxi   police   fire   office   car   hair\n\n1 ________ manager\n\n2 ________ agent\n\n3 ________ dealer\n\n4 ________ programmer\n\n5 ________ dresser\n\n6 ________ driver\n\n7 ________ fighter\n\n8 ________ keeper\n\n9 ________ officer\n\n", "word box tagged; 3-column items one per line")
+c(103, "B Skim the different personality groups in the article and y. decide which group sounds the most similar to your personality. Gir the\n\n________\n\ngroup in the box below.\n\nRealistic Investigative Social Enterprising\n\nArtistic Conventional\n\nRead the entire article carefully.", "B Skim the different personality groups in the article and quickly decide which group sounds the most similar to your personality. Circle the group in the box below.\n\n[WORD BOX] Realistic   Investigative   Artistic   Social   Enterprising   Conventional\n\nC Read the entire article carefully.", "OCR ('quickly', oval 'Circle'), paragraph join, word box (row order), exercise letter C")
+
+# ---- empty rule/box artifacts ("________" runs that are not writing lines) — image-verified ----
+c(48, "# Organic Farming:\n\n# The New Vacation\n\n", "# Organic Farming: The New Vacation\n\n", "two-line title joined (image-verified)")
+c(48, "**Reading Review 2: Organic Farming: The New Vacation**\n\n________\n\n## Fluency Practice", "**Reading Review 2: Organic Farming: The New Vacation**\n\n## Fluency Practice", "decorative rule, not a writing line")
+c(48, "spend your energy on?\n\n________\n\n**400 words", "spend your energy on?\n\n**400 words", "decorative rule")
+c(47, "## Reading Comprehension\n\n________ ________ ________\n\n1 What is", "## Reading Comprehension\n\n1 What is", "decorative rule")
+c(47, "d a discussion of how books are made into movies\n\n________\n\n[running foot", "d a discussion of how books are made into movies\n\n[running foot", "decorative rule")
+c(49, "## Reading Comprehension\n\n________\n\n1 Why did Sue", "## Reading Comprehension\n\n1 Why did Sue", "decorative rule")
+c(85, "## Reading Comprehension\n\n________\n\n1 What is this passage", "## Reading Comprehension\n\n1 What is this passage", "decorative rule")
+c(85, "d adult athletes\n\n________\n\n[running foot", "d adult athletes\n\n[running foot", "decorative rule")
+c(122, "**Review Reading 5: The People Behind the Music**\n\n________ ________ ________\n\n________\n\n## Fluency Practice", "**Review Reading 5: The People Behind the Music**\n\n## Fluency Practice", "decorative rules")
+c(122, "on the next page.\n\n________\n\n# The People Behind the Music", "on the next page.\n\n# The People Behind the Music", "decorative rule")
+c(124, "on the next page.\n\n________\n\nCandy, cake,", "on the next page.\n\nCandy, cake,", "decorative rule")
+c(125, "## Reading Comprehension\n\n________ ________ ________\n\n1 The writer", "## Reading Comprehension\n\n1 The writer", "decorative rule")
+c(157, "**Increase Reading Fluency**\n\n________ ________\n\nTo increase", "**Increase Reading Fluency**\n\nTo increase", "decorative rule")
+c(157, "**Verify Strategies**\n\n________ ________ ________\n\nTo build", "**Verify Strategies**\n\nTo build", "decorative rule")
+c(160, "on the next page.\n\n________\n\n① You’ve seen", "on the next page.\n\n① You’ve seen", "decorative rule")
+c(163, "## Reading Comprehension\n\n________ ________\n\n1 What is this article", "## Reading Comprehension\n\n1 What is this article", "decorative rule")
+c(32, "Why, or why not?\n\n________ ________\n\n[running foot: 31]", "Why, or why not?\n\n[running foot: 31]", "box frame artifact")
+c(30, "A Read the article below and Sall of the pre- words you find.\n\n________\n\n", "A Read the article below and circle all of the pre- words you find.\n\n", "oval 'circle' restored (image-verified); rule artifact")
+c(30, "4 What are a few things that expire?\n\n________\n\n", "4 What are a few things that expire?\n\n", "section rule artifact")
+c(79, "B Look at the following topics. the key words you would use", "B Look at the following topics. Circle the key words you would use", "oval 'Circle' restored (image-verified)")
+c(79, "1 learning how to use a digital camera to take photographs Other words: ________\n\n2 keeping tropical fish in an aquarium at home Other words: ________\n\n3 simple recipes for beginners to learn cooking Other words: ________\n\n4 biographies of film actors and actresses Other words: ________ ________\n\n", "1 learning how to use a digital camera to take photographs\nOther words: ________\n\n2 keeping tropical fish in an aquarium at home\nOther words: ________\n\n3 simple recipes for beginners to learn cooking\nOther words: ________\n\n4 biographies of film actors and actresses\nOther words: ________\n\n", "'Other words:' printed on its own line under each topic (image-verified); stray rule dropped")
+c(79, "Topic: ________ Sites that were useful: ________\n\n________ ________\n\n________\n\nCan the information on a website be trusted? Remember to ask yourself: -\n\n", "Topic: ________\n\nSites that were useful: ________\n\n________\n\n[BOX]\nCan the information on a website be trusted? Remember to ask yourself:\n\n", "two separate lines; second writing line kept; box tag; stray dash")
+
+# ---- p80 Review Unit 2: heading style unified with Reviews 1/3/4; box/rule artifacts ----
+c(80, "## Fluency Strategy: PQR+E", "**Fluency Strategy: PQR+E**", "same banner style as Reviews 1, 3, 4")
+c(80, "## Parsing\n\n", "**Parsing**\n\n", "sub-step heading style as in other Review units")
+c(80, "## Questioning\n\n", "**Questioning**\n\n", "sub-step heading style as in other Review units")
+c(80, "meaning of the sentence.\n\n________\n\nWhen you think of the cinema, the phrase watching a movie probably comes to mind, and, indeed, moviemakers work very hard to make their films interesting visually. ________\n\nWhen you think /", "meaning of the sentence.\n\n[BOX] When you think of the cinema, the phrase watching a movie probably comes to mind, and, indeed, moviemakers work very hard to make their films interesting visually.\n\nWhen you think /", "quoted-sentence box (image-verified); frame artifacts dropped")
+c(80, "in order to enjoy. ________\n\n________\n\n", "in order to enjoy.\n\n", "quoted-sentence box frame artifacts")
+c(80, "Movies also contain dialogue, music, and sound effects —things", "[BOX] Movies also contain dialogue, music, and sound effects—things", "box tag; spaced dash")
+c(80, "\n\n2\n\n[running foot", "\n\n2 ________\n\n[running foot", "writing line (image-verified)")
+
+# ---- p99 / p101 (image-verified) ----
+c(99, "or a writers opinion,", "or a writer’s opinion,", "apostrophe (embedded text layer: writer's)")
+c(99, "on page 100.\n\n________\n\nMotivational Tip", "on page 100.\n\nMotivational Tip", "box-frame artifact")
+c(99, "sense of satisfaction.\n\n________\n\n[running foot", "sense of satisfaction.\n\n[running foot", "box-frame artifact")
+c(101, "in the correct area.\n\n________\n\nBrian\n\nWhitney\n\n________\n\nZac\n\n", "in the correct area.\n\n[DIAGRAM — Venn diagram of three overlapping circles labelled Brian, Whitney, and Zac]\n\n", "Venn diagram described; rule artifacts dropped")
+c(101, "c afresh sports drink", "c a fresh sports drink", "run-together")
+
+# ---- p107 (image-verified) ----
+c(107, "3 ________ Nance", "3 ________ Finance", "OCR")
+c(107, "with a definition.\n\n________ a full-time\n\nb part-time\n\nc contract/temporary (temp)\n\n________\n\n1 ________ works", "with a definition.\n\n[WORD BOX] a full-time   b part-time   c contract/temporary (temp)\n\n1 ________ works", "word box tagged; frame artifacts dropped")
+c(107, "1 ________ works about 5-20 hours per week", "1 ________ works about 5–20 hours per week", "en dash")
+c(107, "Website: ________ Job Description (title, location, pay, working hours): ________ ________ ________ ________\n\n", "Website: ________\n\nJob Description (title, location, pay, working hours):\n\n________\n\n________\n\n________\n\n", "separate lines as printed")
+c(117, "consume Vv. 1 to eat and drink; 2 to destroy", "[DICTIONARY BOX]\nconsume v. 1 to eat and drink; 2 to destroy", "OCR 'Vv.'; box tag (image-verified)")
+c(117, "1 ________\n\n________\n\n2 ________\n\n________\n\n3 ________ ________\n\n## What", "1 ________\n\n________\n\n2 ________\n\n________\n\n3 ________\n\n________\n\n## What", "two writing lines per item (image-verified)")
