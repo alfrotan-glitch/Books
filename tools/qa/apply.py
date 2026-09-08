@@ -28,6 +28,11 @@ lm_log = []; lm = 0
 for pn in range(1, 180):
     nb, c_ = fix_linemarks(pn, pages[pn][1], lm_log)
     pages[pn] = (pages[pn][0], nb); lm += c_
+from joins import fix_joins
+jn_log = []; jn = 0
+for pn in range(1, 180):
+    nb, c_ = fix_joins(pn, pages[pn][1], jn_log)
+    pages[pn] = (pages[pn][0], nb); jn += c_
 try:
     from corrections_post import CORR_POST
 except ImportError:
@@ -43,6 +48,6 @@ json.dump(log, open("/home/user/Books/tools/qa/reorder_log.json", "w"), indent=0
 open("/home/user/Books/tools/qa/master_out.txt", "w", encoding="utf-8").write(out)   # always: preview of result
 if "--write" in sys.argv:
     open(MASTER, "w", encoding="utf-8").write(out)
-    print("written", applied, "corrections;", moved, "sidebar heading groups re-ordered;", lm, "line-marker fixes")
+    print("written", applied, "corrections;", moved, "sidebar heading groups re-ordered;", lm, "line-marker fixes;", jn, "sentence re-joins")
 else:
-    print("dry run OK:", applied, "corrections;", moved, "sidebar heading groups would be re-ordered;", lm, "line-marker fixes")
+    print("dry run OK:", applied, "corrections;", moved, "sidebar heading groups would be re-ordered;", lm, "line-marker fixes;", jn, "sentence re-joins")

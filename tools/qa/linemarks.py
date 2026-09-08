@@ -37,7 +37,8 @@ def fix_linemarks(pn, body, log):
             prev = out[-1]
             prev_is_tag = prev.startswith("[") and not MARK.match(prev)
             prose = (not prev.startswith(("#", "**", "☐", "|")) and not prev_is_tag and len(prev) > 40
-                     and not re.match(r"^\d+ ", prev) and not END.search(prev)
+                     and not re.match(r"^\d+ ", prev) and (not END.search(prev) or re.search(r"[,‘“(]’?\s*$|’\s*$", prev)
+                          or (re.search(r"[a-z]”\s*$", prev) and re.match(r"^\[\d+\] [a-z]", q)))
                      and not re.match(r"^[A-E] [A-Z]", prev)
                      and (len(q) > len(m.group(0)) + 20 or re.search(r"[.!?]$", q)))   # short marker lines only if they end the sentence
             if prose:
