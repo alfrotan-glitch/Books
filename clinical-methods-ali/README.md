@@ -15,7 +15,7 @@ Upload the manuscript (`.md`, `.txt` or `.docx`) to
 ## Phase 0 – Production plan (assumptions are marked; all can be reversed)
 | Phase | Plan |
 |---|---|
-| 0 Intake | Author: *unknown (TODO)*. Audience: *assumed* medical students. 14 chapters + normal values + ECG (per the author's description). |
+| 0 Intake | Author: Dr Allah Yar Frotan (Dari spelling to confirm). Audience: *assumed* medical students. 14 chapters + normal values + ECG (per the author's description). |
 | 1 Structure | Heading hierarchy audit, chapter order, cross-references. |
 | 2 Medical accuracy | Normal values, diagnostic criteria and any drug/dose statements checked; safety trip-wires flagged first. |
 | 3 Terminology | Build `glossary.csv`; run a separate Afghan-Dari vs Iranian-Persian audit; `tools/terminology_scanner.py`. |
@@ -37,6 +37,6 @@ returned 0 errors / 0 warnings on the test sample. XeLaTeX isn't available here,
 Typst is used as the PDF engine.
 
 ## Open questions for the author (human-review gate)
-- Author name, publisher and copyright holder (left as `TODO` in `metadata.yaml`; not invented).
+- Author: **Dr Allah Yar Frotan** (confirmed by user). Still needed: the Dari spelling of the name for the title page, the publisher, and the copyright holder (left as `TODO` in `metadata.yaml`; not invented).
 - Print or screen only? If print, what trim size?
 - Is there a national protocol or reference textbook the normal values should be checked against?
