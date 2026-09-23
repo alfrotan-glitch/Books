@@ -62,6 +62,15 @@
 #let note(body) = block(width: 100%, breakable: true, above: 1.1em, below: 1.1em,
   fill: rgb("#fbf6ea"), inset: (x: 11pt, y: 8pt), radius: 3pt,
   stroke: (right: 3.5pt + gold))[#set par(spacing: 0.7em); #body]
+#let objectives(body) = block(width: 100%, breakable: true, above: 0.4em, below: 1.4em,
+  fill: rgb("#eef5f5"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + teal))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let keypoints(body) = block(width: 100%, breakable: true, above: 1.8em, below: 1.0em,
+  fill: rgb("#0f2744").lighten(92%), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: 0.8pt + rgb("#0f2744"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let selftest(body) = block(width: 100%, breakable: true, above: 1.0em, below: 1.2em,
+  inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (paint: gold, thickness: 0.8pt, dash: "dashed"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
 #let figph(body) = block(width: 100%, breakable: false, above: 1em, below: 1em,
   inset: (x: 10pt, y: 7pt), radius: 3pt,
   stroke: (paint: rgb("#9fb8bb"), thickness: 0.6pt, dash: "dashed"))[

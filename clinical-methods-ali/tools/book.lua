@@ -12,11 +12,15 @@ end
 
 function Div(el)
   local cls = el.classes[1]
-  if cls ~= "note" and cls ~= "figure-ph" then return nil end
+  local map = { note = {"note", "Note"}, ["figure-ph"] = {"figph", "Figure Placeholder"},
+                objectives = {"objectives", "Objectives"}, keypoints = {"keypoints", "Key Points"},
+                selftest = {"selftest", "Self Test"} }
+  local m = map[cls]
+  if not m then return nil end
   if FORMAT:match("typst") then
-    return typst_wrap(cls == "note" and "note" or "figph", el.content)
+    return typst_wrap(m[1], el.content)
   elseif FORMAT:match("docx") then
-    el.attributes["custom-style"] = (cls == "note") and "Note" or "Figure Placeholder"
+    el.attributes["custom-style"] = m[2]
     return el
   end
   return el

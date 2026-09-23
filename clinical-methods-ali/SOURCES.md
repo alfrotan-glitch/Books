@@ -27,3 +27,10 @@ All 57 figures in this edition are **schematic teaching diagrams drawn for this 
 (source code in `tools/figures/`). ECG traces are synthetic, drawn to the standard
 calibration of 25 mm/s and 10 mm/mV. They are not copied from any other book, so there are no copyright issues.
 Real chest X-ray images for chapter 5 have **not** been added, because no licensed images are available.
+
+## Added in v1.1
+| Topic | Source |
+|---|---|
+| Tendon-reflex grading 0–4+ | NINDS Myotatic Reflex Scale (Hallett 1993), recommended by the AAN |
+| CHB escape rates: junctional 40–60 (narrow QRS), ventricular 20–40 (wide QRS) | Standard ECG references (e.g. ECG Guru, teachIM) |
+| SFH ≈ weeks ± 2 cm from 24 weeks | NICE antenatal care guideline NG201; ACOG |

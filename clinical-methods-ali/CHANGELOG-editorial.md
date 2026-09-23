@@ -148,3 +148,20 @@ These changes replace the earlier "flagged, not changed" status of items M1–M1
 - 16 additional teaching figures, mind maps and summary tables were added (chapters 1–7, 9, 10, 12, 13). Each one summarises only content that is already in the text.
 - Chapter 5 X-ray list: kept as a "suggested radiographs" list with a note. No real images were added.
 - Source code for all figures is in `tools/figures/` (Typst + Python), and they are rebuilt with `python3 tools/figures/render.py`.
+
+## Language & pedagogy pass v1.1 (`tools/style_pass.py`, report: `build/style-report.txt`)
+- **Editorial:** 28 long or tangled sentences (over 45 words) were rewritten or split. The meaning is kept.
+  - The old/new text of each one is in `tools/style_pass.py` (list `RW`).
+- **Editorial:** 136 cases of «موجود می‌باشد / نمی‌باشد / می‌باشند» were changed to «وجود دارد / ندارد / دارند».
+- **Editorial:** 34 cases of «فلهذا / بناءً / لذا» were changed to «بنابراین». Also: «بالآخره» → «بالاخره», «اینست» → «این است» and «از باعث» → «از سبب».
+- **Editorial:** 11 vague cross-references were changed to explicit chapter numbers.
+- **Scientific correction:** in complete heart block, the ventricular rate «۲۰-۶۰» was changed to junctional escape 40–60 with narrow QRS, or ventricular escape 20–40 with wide QRS (standard ECG references).
+- **Scientific correction:** tendon-reflex grading «۱ = نارمل، ۲ = تند» was changed to the NINDS scale: 0, 1+, 2+ normal, 3+ brisk, 4+ with clonus.
+- **Scientific correction:** SFH «inches = weeks; cm = weeks − 2» was changed to «SFH in cm ≈ gestational weeks ± 2 from 24 weeks» (NICE/ACOG).
+- **Scientific/clinical clarification:**
+  - Doll's-eye: the text implied that the eyes move with the head in a normal person. It now says the eyes move opposite to the head when the brainstem is intact.
+  - The Kernig manoeuvre now specifies the patient's position.
+  - The Rinne principle now says AC > BC.
+- **Pedagogy:** each of the 14 chapters now has learning objectives, key points and a self-test. The answers are in a new appendix.
+  - All of this content is drawn only from the book's own text (`tools/pedagogy/*.md`).
+- The five-perspective evaluation and the roadmap to 10/10 are in `EVALUATION.md`.

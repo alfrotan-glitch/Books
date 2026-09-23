@@ -1,10 +1,10 @@
 # میتودهای کلینیکی علی (داکتر الله یار فروتن)
 
-**Status: final edition v1.0 (September 2026).** The finished files are in `release/`:
+**Status: final edition v1.1 (September 2026).** Evaluation and roadmap: `EVALUATION.md`. The finished files are in `release/`:
 
 | File | Use |
 |---|---|
-| `release/clinical-methods-ali.pdf` | Print / screen, A5, RTL, 382 pages |
+| `release/clinical-methods-ali.pdf` | Print / screen, A5, RTL, 404 pages |
 | `release/clinical-methods-ali.epub` | E-book (EPUB 3, RTL; epubcheck: 0 errors, 0 warnings) |
 | `release/clinical-methods-ali.docx` | Editable Word version |
 
@@ -29,6 +29,6 @@
 ## Rebuild
 ```bash
 python3 tools/figures/make_ecg_data.py && python3 tools/figures/render.py   # figures
-python3 tools/edit_master.py && ./build.sh                                   # book
+python3 tools/edit_master.py && python3 tools/style_pass.py && ./build.sh                                 # book
 cp build/clinical-methods-ali.{pdf,epub,docx} release/
 ```
