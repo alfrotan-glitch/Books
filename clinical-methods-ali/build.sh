@@ -12,17 +12,18 @@ mkdir -p "$OUT"
 # Strip the GitHub-only RTL <div> wrapper for production formats.
 SRC=$(mktemp --suffix=.md)
 grep -v -E '^\s*</?div( dir="rtl" align="right")?>\s*$' "$MASTER" > "$SRC"
+python3 tools/normalize_md.py "$SRC" "$SRC"
 
 echo "DOCX..."
 "$PANDOC" metadata.yaml "$SRC" -f markdown -t docx --toc --toc-depth=2 \
   $( [ -f reference.docx ] && echo --reference-doc=reference.docx ) -o "$OUT/$SLUG.docx"
 
 echo "PDF (Typst)..."
-"$PANDOC" metadata.yaml "$SRC" -f markdown -t typst --standalone --toc --toc-depth=2 \
-  -V mainfont=Vazirmatn -o "$OUT/$SLUG.typ"
-python3 - "$OUT/$SLUG.typ" "$OUT/$SLUG.pdf" <<'PY'
+"$PANDOC" metadata.yaml "$SRC" -f markdown -t typst --standalone --template=templates/book.typst -o "$OUT/$SLUG.typ"
+cp "$OUT/$SLUG.typ" ./.book.typ
+python3 - ./.book.typ "$OUT/$SLUG.pdf" <<'PY'
 import sys, typst
-typst.compile(sys.argv[1], output=sys.argv[2], font_paths=["fonts"], ignore_system_fonts=True)
+typst.compile(sys.argv[1], output=sys.argv[2], root=".", font_paths=["fonts"], ignore_system_fonts=True)
 PY
 
 echo "EPUB3..."
@@ -33,5 +34,5 @@ echo "epubcheck..."
 JAVA=$(python3 -c "import jdk4py;print(jdk4py.JAVA)")
 JAR=$(python3 -c "import epubcheck,os;print(os.path.join(os.path.dirname(epubcheck.__file__),'epubcheck.jar'))")
 "$JAVA" -jar "$JAR" "$OUT/$SLUG.epub"
-rm -f "$SRC"
+rm -f "$SRC" ./.book.typ
 echo "Outputs in $OUT/"

@@ -1,0 +1,167 @@
+// ─────────────────────────────────────────────────────────────
+//  Book template — «میتودهای کلینیکی علی»
+//  A5, RTL Dari, Vazirmatn. Used by build.sh via pandoc --template.
+// ─────────────────────────────────────────────────────────────
+#let navy  = rgb("#0f2744")
+#let teal  = rgb("#136f73")
+#let gold  = rgb("#b8913a")
+#let soft  = rgb("#eef5f5")
+
+#let horizontalrule = align(center, block(above: 1em, below: 1em,
+  text(fill: gold, size: 10pt)[❖ #h(0.6em) ❖ #h(0.6em) ❖]))
+
+#show terms.item: it => block(breakable: false)[
+  #text(weight: "bold")[#it.term]
+  #block(inset: (right: 1.5em, top: -0.4em))[#it.description]
+]
+
+#set document(title: "$title$"$if(author)$, author: "$for(author)$$author$$sep$, $endfor$"$endif$)
+#set text(font: ("Vazirmatn",), size: $if(fontsize)$$fontsize$$else$10.5pt$endif$, lang: "fa", dir: rtl, fill: rgb("#1b1b1b"))
+#set par(justify: true, leading: 0.95em, spacing: 1.1em, first-line-indent: 0pt)
+
+// ── tables ──
+#set table(stroke: 0.5pt + rgb("#9fb8bb"), inset: (x: 7pt, y: 5pt),
+  fill: (x, y) => if y == 0 { teal } else if calc.even(y) { soft } else { white })
+#show table.cell.where(y: 0): set text(fill: white, weight: "bold")
+#show figure.where(kind: table): set figure.caption(position: top)
+#show figure.caption: set text(size: 9pt, fill: teal, weight: "bold")
+
+// ── lists ──
+#set list(marker: text(fill: teal)[●], indent: 0.4em, body-indent: 0.6em)
+#set enum(numbering: "۱.", indent: 0.4em, body-indent: 0.6em)
+
+// ── headings ──
+#set heading(numbering: none)
+#show heading.where(level: 1): it => {
+  pagebreak(weak: true, to: "odd")
+  [#metadata("chapter-start") <chapter-start>]
+  v(18%)
+  align(center, block(width: 100%)[
+    #text(fill: gold, size: 14pt)[❖]
+    #v(0.4em)
+    #text(size: 21pt, weight: "bold", fill: navy)[#it.body]
+    #v(0.2em)
+    #line(length: 45%, stroke: 1.2pt + gold)
+  ])
+  v(2.2em)
+}
+#show heading.where(level: 2): it => block(above: 1.8em, below: 0.9em, width: 100%,
+  fill: soft, inset: (x: 10pt, y: 7pt), radius: 3pt,
+  stroke: (right: 3.5pt + teal))[#text(size: 13.5pt, weight: "bold", fill: navy)[#it.body]]
+#show heading.where(level: 3): it => block(above: 1.4em, below: 0.6em)[
+  #text(size: 11.5pt, weight: "bold", fill: teal)[◆ #it.body]]
+#show heading.where(level: 4): it => block(above: 1.2em, below: 0.5em)[
+  #text(size: 10.5pt, weight: "bold", fill: navy)[#it.body]]
+#show strong: set text(fill: navy)
+
+// ════════════════ COVER ════════════════
+#page(paper: "a5", margin: 0pt, numbering: none, header: none, footer: none,
+  background: image("assets/cover-art.jpg", width: 100%, height: 100%))[
+  #v(15%)
+  #align(center)[
+    #text(fill: gold, size: 12pt, tracking: 2pt)[❖ ❖ ❖]
+    #v(0.6em)
+    #text(fill: white, size: 30pt, weight: "bold")[$title$]
+    #v(0.1em)
+    $if(subtitle)$#text(fill: rgb("#d9e8e8"), size: 13pt)[$subtitle$]$endif$
+    #v(0.5em)
+    #line(length: 35%, stroke: 1pt + gold)
+    #v(0.6em)
+    #text(fill: gold, size: 13pt, weight: "bold")[$for(author)$$author$$sep$ ، $endfor$]
+  ]
+]
+
+// ════════════════ FRONT MATTER ════════════════
+#set page(paper: "a5",
+  margin: (inside: 2.1cm, outside: 1.6cm, top: 2.2cm, bottom: 2cm),
+  binding: right, numbering: none, header: none, footer: none)
+
+// half-title
+#page[#align(center + horizon)[#text(size: 22pt, weight: "bold", fill: navy)[$title$]]]
+#page[]  // blank verso
+
+// title page
+#page[
+  #align(center)[
+    #v(14%)
+    #text(size: 26pt, weight: "bold", fill: navy)[$title$]
+    #v(0.2em)
+    $if(subtitle)$#text(size: 13pt, fill: teal)[$subtitle$]$endif$
+    #v(0.8em)
+    #line(length: 40%, stroke: 1pt + gold)
+    #v(2.5em)
+    #text(size: 10pt, fill: rgb("#555"))[تألیف]
+    #v(0.2em)
+    #text(size: 15pt, weight: "bold")[$for(author)$$author$$sep$ ، $endfor$]
+    #v(1fr)
+    $if(publisher)$#text(size: 10pt)[$publisher$]$endif$
+    $if(date-display)$\ #text(size: 10pt)[$date-display$]$endif$
+  ]
+]
+
+// copyright / imprint page
+#page[
+  #v(1fr)
+  #set text(size: 8.5pt)
+  #set align(right)
+  #set par(justify: false, leading: 0.8em)
+  #table(columns: (auto, 1fr), stroke: none, fill: none, inset: 3pt,
+    [*نام کتاب:*], [$title$],
+    [*مؤلف:*], [$for(author)$$author$$sep$ ، $endfor$],
+    $if(publisher)$[*ناشر:*], [$publisher$],$endif$
+    $if(edition)$[*نوبت چاپ:*], [$edition$],$endif$
+    $if(date-display)$[*سال نشر:*], [$date-display$],$endif$
+    $if(isbn)$[*شابک (ISBN):*], [$isbn$],$endif$
+  )
+  #v(0.6em)
+  $if(rights)$#text[$rights$]$endif$
+  #v(0.6em)
+  #text(fill: rgb("#555"))[این کتاب صرف برای مقاصد آموزشی تهیه گردیده است و جانشین قضاوت کلینیکی داکتر معالج نمی‌باشد.]
+]
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+// table of contents
+#page(numbering: none)[
+  #align(center)[#text(size: 18pt, weight: "bold", fill: navy)[$if(toc-title)$$toc-title$$else$فهرست مطالب$endif$]]
+  #v(0.4em)
+  #align(center)[#line(length: 30%, stroke: 1pt + gold)]
+  #v(1em)
+  #show outline.entry.where(level: 1): it => { v(0.5em); strong(it) }
+  #outline(title: none, depth: $if(toc-depth)$$toc-depth$$else$2$endif$, indent: 1.2em)
+]
+
+// ════════════════ BODY ════════════════
+#set page(
+  numbering: "۱",
+  header: context {
+    let p = here().page()
+    let starts = query(<chapter-start>).filter(m => m.location().page() == p)
+    let before = query(heading.where(level: 1).before(here()))
+    if starts.len() == 0 and before.len() > 0 {
+      let ct = before.last().body
+      set text(size: 8pt, fill: rgb("#666"))
+      grid(columns: (1fr, 1fr),
+        align(right)[$title$], align(left)[#ct])
+      v(-0.4em)
+      line(length: 100%, stroke: 0.4pt + gold)
+    }
+  },
+  footer: context {
+    set text(size: 9pt, fill: navy)
+    align(center)[— #counter(page).display("۱") —]
+  },
+)
+#counter(page).update(1)
+
+$if(draft-watermark)$
+#set page(background: rotate(-35deg, text(size: 34pt, fill: rgb(200, 30, 30, 35), weight: "bold")[$draft-watermark$]))
+$endif$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$

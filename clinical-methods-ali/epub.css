@@ -5,3 +5,9 @@ h1, h2, h3 { line-height: 1.4; }
 table { border-collapse: collapse; margin: 1em 0; }
 th, td { border: 1px solid #999; padding: .3em .6em; }
 code { font-family: monospace; }
+ol { list-style-type: persian; }
+h1 { text-align: center; color: #0f2744; margin-top: 2em; border-bottom: 2px solid #b8913a; padding-bottom: .3em; }
+h2 { color: #0f2744; background: #eef5f5; border-right: 4px solid #136f73; padding: .25em .5em; }
+h3 { color: #136f73; }
+th { background: #136f73; color: #fff; }
+hr { border: 0; text-align: center; }

@@ -1,17 +1,22 @@
 ---
 title: "میتودهای کلینیکی علی"
 subtitle: "متن کامل معاینات کلینیکی"
-author: "Dr Allah Yar Frotan"          # as supplied by user; Dari spelling (e.g. داکتر الله‌یار فروتن) to be confirmed by author
+author: "داکتر الله‌یار فروتن"      # Dari transliteration of "Dr Allah Yar Frotan" (user-supplied) — spelling to be confirmed by author
+author-en: "Dr Allah Yar Frotan"
 lang: fa-AF
 dir: rtl
-rights: "TODO: confirm copyright holder with author"
+rights: "© ۲۰۲۶ داکتر الله‌یار فروتن. تمام حقوق محفوظ است."   # proposed wording — confirm with author
 description: "کتاب درسی معاینات کلینیکی به زبان دری."
-publisher: "TODO"
+# publisher: ""                       # TODO: author to supply (not invented)
 toc: true
 toc-depth: 2
 toc-title: "فهرست مطالب"
 mainfont: "Vazirmatn"
-fontsize: 11pt
+fontsize: 10.5pt
+date: "2026"
+date-display: "۱۴۰۵ هجری شمسی"
+draft-watermark: "پیش‌نویس"          # remove only after QA passes and author signs off
+cover-image: "assets/cover.jpg"
 papersize: a5
 epub-css: "epub.css"
 ---
