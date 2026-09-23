@@ -14,7 +14,8 @@ function Div(el)
   local cls = el.classes[1]
   local map = { note = {"note", "Note"}, ["figure-ph"] = {"figph", "Figure Placeholder"},
                 objectives = {"objectives", "Objectives"}, keypoints = {"keypoints", "Key Points"},
-                selftest = {"selftest", "Self Test"} }
+                selftest = {"selftest", "Self Test"},
+                redflags = {"redflags", "Red Flags"}, case = {"casebox", "Clinical Case"} }
   local m = map[cls]
   if not m then return nil end
   if FORMAT:match("typst") then
@@ -38,6 +39,26 @@ function Header(el)
   if label then
     return pandoc.RawBlock("typst",
       "#heading(level: 1, supplement: [" .. esc(label) .. "])[" .. esc(title) .. "]")
+  end
+  return pandoc.RawBlock("typst", "#heading(level: 1, supplement: [بخش])[" .. esc(txt) .. "]")
+end
+
+-- Ordered-list items with no Arabic-script text (English references) are set LTR.
+function OrderedList(el)
+  local all_ltr = true
+  for _, item in ipairs(el.content) do
+    if pandoc.utils.stringify(item):match("[\216-\219][\128-\191]") then
+      all_ltr = false
+    end
+  end
+  if not all_ltr then return nil end
+  if FORMAT:match("typst") then
+    return { pandoc.RawBlock("typst", "#block(width: 100%)[#set text(dir: ltr, lang: \"en\", size: 9pt); #set par(justify: false); #set enum(numbering: n => [#n.])"),
+             el, pandoc.RawBlock("typst", "]") }
+  elseif FORMAT:match("html") or FORMAT:match("epub") then
+    return pandoc.Div({el}, pandoc.Attr("", {"ltr"}, {{"dir", "ltr"}}))
+  elseif FORMAT:match("docx") then
+    return pandoc.Div({el}, pandoc.Attr("", {}, {{"dir", "ltr"}}))
   end
 end
 

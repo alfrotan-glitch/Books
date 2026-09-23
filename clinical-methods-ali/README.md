@@ -1,10 +1,10 @@
 # میتودهای کلینیکی علی (داکتر الله یار فروتن)
 
-**Status: final edition v1.1 (September 2026).** Evaluation and roadmap: `EVALUATION.md`. The finished files are in `release/`:
+**Status: final edition v1.2 (September 2026).** Evaluation and roadmap: `EVALUATION.md`. The finished files are in `release/`:
 
 | File | Use |
 |---|---|
-| `release/clinical-methods-ali.pdf` | Print / screen, A5, RTL, 404 pages |
+| `release/clinical-methods-ali.pdf` | Print / screen, A5, RTL, 426 pages |
 | `release/clinical-methods-ali.epub` | E-book (EPUB 3, RTL; epubcheck: 0 errors, 0 warnings) |
 | `release/clinical-methods-ali.docx` | Editable Word version |
 
@@ -17,6 +17,11 @@
 
   All are original schematics. The ECGs are synthetic, drawn at 25 mm/s and 10 mm/mV.
 - **No ISBN yet.** The imprint page states this.
+
+## v1.2 additions
+- Full language pass: 1,350 verb-register fixes and 74 long sentences rewritten.
+- Every chapter now has objectives, red flags, key points, a clinical case and a self-test.
+- 5 algorithms, an ABCDE/NEWS2/POCUS section, a glossary, a subject index and references.
 
 ## Known limitations
 - Chapter 5 (chest X-ray) has no real radiographs, because no licensed images were available. The list of suggested images is kept.

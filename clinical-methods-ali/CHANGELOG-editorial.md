@@ -165,3 +165,33 @@ These changes replace the earlier "flagged, not changed" status of items M1–M1
 - **Pedagogy:** each of the 14 chapters now has learning objectives, key points and a self-test. The answers are in a new appendix.
   - All of this content is drawn only from the book's own text (`tools/pedagogy/*.md`).
 - The five-perspective evaluation and the roadmap to 10/10 are in `EVALUATION.md`.
+
+## v1.2: full language pass and teaching apparatus
+- **Editorial (verb register):** 1,350 formal auxiliaries were converted to natural Afghan-Dari forms:
+  - می‌باشد → است
+  - می‌نماید → می‌کند
+  - نمایید → کنید
+  - نموده → کرده
+  - گردید → شد
+  - می‌گردد → می‌شود, and so on.
+
+  The lexical verb «برگشتن / برمی‌گردد» is protected. This is a rule list in `tools/style_pass.py` (VERBS), with counts in `build/style-report.txt`.
+- **Editorial:** 46 more long sentences were rewritten (`tools/rewrites_v12.py`), for 74 in total. Average sentence length fell from 14.6 to 12.5 words.
+- **Scientific clarifications inside the rewrites:**
+  - Kerley B lines are caused by interlobular septal oedema, not "thickened vessels".
+  - Glabellar tap: Myerson sign in Parkinsonism.
+  - Smell testing: avoid ammonia, because it stimulates CN V.
+  - Froment sign mechanism (FPL compensation).
+  - The sural-nerve exception.
+  - Waddling gait is caused by proximal weakness.
+  - WPW pseudo-infarct pattern.
+  - Transmitted versus expansile pulsation.
+  - Cheyne-Stokes described as cyclical.
+  - Schamroth window named.
+- **New content:** each item is either drawn from the book's own text or from a cited source.
+  - A "How to use this book" guide.
+  - Red-flag boxes in all 14 chapters (sources: standard texts; WHO IMCI for paediatric danger signs).
+  - One clinical case per chapter, with answers.
+  - 5 algorithms: ABCDE, chest pain, dyspnoea, jaundice and weakness localisation.
+  - A new section in chapter 3 on ABCDE, NEWS2 (RCP 2017) and POCUS.
+  - Appendices: a glossary (76 terms), a subject index (87 entries, by chapter) and 17 numbered references.

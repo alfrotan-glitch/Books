@@ -1,0 +1,88 @@
+Apex beat
+Austin-Flint murmur
+Babinski
+Bell
+Buerger
+Caput medusae
+Cheyne Stokes
+Clubbing
+Cyanosis
+Doll's eye
+Froment
+GALS
+Glasgow Coma Scale
+Hegar
+Hutchinson
+JVP
+Kerley
+Kernig
+Kussmaul
+Murphy
+Naegele
+NEWS2
+Pap smear
+Pericarditis
+POCUS
+Pulsus paradoxus
+Rinne
+Romberg
+Succussion splash
+Weber
+WPW
+Water hammer pulse
+Opening snap
+Pleural effusion
+Pneumothorax
+Pneumonia
+Bronchiectasis
+Atrial fibrillation
+Atrial flutter
+Ventricular tachycardia
+Ventricular fibrillation
+Hyperkalemia
+Hypokalemia
+Myxedema
+Digitalis
+CTR
+Clonus
+Hemoptysis
+Menorrhagia
+Pre-eclampsia
+Erythema ab igne
+Virchow
+Troponin
+آفت نیورون حرکی علوی
+آفت نیورون حرکی سفلی
+اذیما
+اعصاب قحفی
+اصغا
+انوریزم
+تب متداوم
+تنفس bronchial
+تضیق دسام ابهر
+تضیق دسام مایترل
+عدم کفایه دسام ابهر
+عدم کفایه دسام مایترل
+عدم کفایه قلب
+خسافت
+سردردی
+شخی گردن
+عسرت تنفس
+عقدات لمفاوی
+فشار خون
+قرع
+کبد
+طحال
+کیسه صفرا
+مرمر
+محور قلبی
+بلاک
+احتشای مایوکارد
+یرقان
+درد صدری
+درد راجعه
+مقویت عضلی
+عکسات وتری
+قدرت عضلی
+ناشنوایی
+fontanel

@@ -18,14 +18,20 @@ REPORT = []
 t = DST.read_text(encoding="utf-8")
 
 
+RULES = []
+
+
 def rx(pat, rep, label):
     global t
+    RULES.append((pat, rep))
     t, n = re.subn(pat, rep, t)
     REPORT.append(f"{n:5d}  {label}")
 
 
 def lit(old, new, label, count=1):
     global t
+    for pat, rep in RULES:
+        old = re.sub(pat, rep, old)
     n = t.count(old)
     if n != count:
         sys.exit(f"ABORT style '{label}': found {n}x, expected {count}\n  {old[:90]}")
@@ -46,6 +52,21 @@ rx(r"اینست(?![\u0600-\u06FF])", "این است", "اینست -> این اس
 rx(r"از باعث ", "از سبب ", "از باعث -> از سبب")
 rx(r"خواهد افتید", "می‌افتد", "خواهد افتید -> می‌افتد")
 rx(r"نمی‌داشته باشد", "ندارد", "نمی‌داشته باشد -> ندارد")
+
+
+# ── 1b. verb register: formal auxiliaries -> natural Afghan-Dari forms ─────
+W = r"[\u0621-\u063A\u0641-\u065F\u0670-\u06D3\u200c]"
+VERBS = [
+    ("نمی‌باشند", "نیستند"), ("می‌باشند", "هستند"), ("نمی‌باشد", "نیست"), ("می‌باشد", "است"),
+    ("نمی‌نمایند", "نمی‌کنند"), ("می‌نمایند", "می‌کنند"), ("نمی‌نماید", "نمی‌کند"), ("می‌نماید", "می‌کند"),
+    ("ننمایید", "نکنید"), ("نمایید", "کنید"), ("ننماید", "نکند"), ("نماید", "کند"), ("نمایند", "کنند"),
+    ("نماییم", "کنیم"), ("نمودن", "کردن"), ("ننموده", "نکرده"), ("نموده", "کرده"), ("نمود", "کرد"),
+    ("گردیده‌اند", "شده‌اند"), ("گردیده", "شده"), ("گردید", "شد"),
+    ("نمی‌گردد", "نمی‌شود"), ("می‌گردند", "می‌شوند"), ("می‌گردد", "می‌شود"), ("گردند", "شوند"), ("گردد", "شود"),
+]
+for a, b in VERBS:
+    # never touch the lexical verb «بر گشتن/برگردیدن» (to return)
+    rx(rf"(?<!{W})(?<!بر )(?<!بر){a}(?!{W})", b, f"verb: {a} -> {b}")
 
 # ── 2. vague cross-references -> chapter numbers ───────────────────────────
 XR = [
@@ -149,14 +170,15 @@ RW = [
 ("برای دانستن این که آیا موجه Q از سبب احتشای مایوکارد است یا کدام حالت دیگر، لازم است تا لید III را هنگام شهیق ثبت نماییم؛ اگر موجه Q تا هنوز هم موجود باشد نشان‌دهنده احتشا است.",
  "برای تفریق، لید III را هنگام شهیق عمیق دوباره ثبت کنید: موجه Q که با شهیق از بین نرود، به احتشا بیشتر دلالت می‌کند."),
 ]
+sys.path.insert(0, str(ROOT / "tools"))
+from rewrites_v12 import RW2
+RW = RW + RW2
 for i, (old, new) in enumerate(RW, 1):
-    # rules above ran first, so allow the pre-normalised or normalised form
-    cand = [old]
-    for a, b in [("موجود می‌باشد", "وجود دارد"), ("بناءً", "بنابراین"), ("اینست", "این است"),
-                 ("بالآخره", "بالاخره"), ("از باعث ", "از سبب "), ("خواهد افتید", "می‌افتد")]:
-        cand.append(cand[-1].replace(a, b))
-    hit = next((c for c in reversed(cand) if c in t), None)
-    if hit is None:
+    # global rules above already ran on t, so normalise the literal the same way
+    hit = old
+    for pat, rep in RULES:
+        hit = re.sub(pat, rep, hit)
+    if hit not in t:
         sys.exit(f"ABORT rewrite #{i}: not found\n  {old[:100]}")
     t = t.replace(hit, new, 1)
     REPORT.append(f"    1  rewrite #{i}")
@@ -164,10 +186,10 @@ for i, (old, new) in enumerate(RW, 1):
 # ── 5. pedagogy: objectives at chapter start, key points + self-test at end ─
 ped_dir = ROOT / "tools/pedagogy"
 ped = {}
-for f in sorted(ped_dir.glob("ch*.md")):
+for f in sorted(ped_dir.glob("ch*.md")) + [ped_dir / "redflags.md", ped_dir / "cases.md"]:
     cur = None
     for line in f.read_text(encoding="utf-8").splitlines():
-        m = re.match(r"^@@ (\d+) (obj|key|quiz)$", line)
+        m = re.match(r"^@@ (\d+) (obj|key|quiz|red|case)$", line)
         if m:
             cur = (int(m.group(1)), m.group(2)); ped.setdefault(cur, []); continue
         if cur and line.strip():
@@ -178,6 +200,7 @@ ORD = ["اول", "دوم", "سوم", "چهارم", "پنجم", "ششم", "هفت
 parts = re.split(r"(?m)^(?=# )", t)
 out, nobj, nkey = [], 0, 0
 ANSWERS = []
+CASE_ANS = []
 for p in parts:
     m = re.match(r"# فصل (\S+):", p)
     if not m or m.group(1) not in ORD:
@@ -190,8 +213,17 @@ for p in parts:
         blk = ("\n::: objectives\n**اهداف آموزشی این فصل:** بعد از مطالعه این فصل باید بتوانید:\n\n"
                + "\n".join(obj) + "\n:::\n"); nobj += 1
     tail = ""
+    red = ped.get((n, "red")); case = ped.get((n, "case"))
+    if red:
+        tail += "\n\n::: redflags\n**نشانه‌های خطر (Red flags)**\n\n" + "\n".join(red) + "\n:::\n"
     if key:
         tail += "\n\n::: keypoints\n**نکات کلیدی فصل**\n\n" + "\n".join(key) + "\n:::\n"; nkey += 1
+    if case:
+        stem = [l for l in case if not l.startswith(("? ", "= "))]
+        qq = [l[2:] for l in case if l.startswith("? ")]
+        aa = [l[2:] for l in case if l.startswith("= ")]
+        tail += ("\n::: case\n**کیس کلینیکی**\n\n" + "\n\n".join(stem) + "\n\n**سؤال:** " + " ".join(qq) + "\n:::\n")
+        CASE_ANS.append((m.group(1), " ".join(aa)))
     if quiz:
         qs, ans = [], []
         for k, q in enumerate(quiz, 1):
@@ -199,7 +231,9 @@ for p in parts:
             qs.append(f"{k}. {qq.strip()}")
             ans.append(f"{k}. {aa.strip()}")
         tail += ("\n::: selftest\n**سؤالات خودآزمایی** (جواب‌ها در آخر کتاب)\n\n" + "\n".join(qs) + "\n:::\n")
-        ANSWERS.append(f"## فصل {m.group(1)}\n\n" + "\n".join(ans) + "\n")
+        ca = [a for c, a in CASE_ANS if c == m.group(1)]
+        ANSWERS.append(f"## فصل {m.group(1)}\n\n" + "\n".join(ans) + "\n"
+                       + (f"\n**کیس کلینیکی:** {ca[0]}\n" if ca else ""))
     out.append(head + "\n" + blk + body.rstrip("\n") + tail + "\n\n")
 t = "".join(out).rstrip("\n") + "\n\n# ضمیمه: جواب سؤالات خودآزمایی\n\n" + "\n".join(ANSWERS)
 REPORT.append(f"{nobj:5d}  chapters given learning objectives")
@@ -209,3 +243,64 @@ DST.write_text(t, encoding="utf-8")
 (ROOT / "build").mkdir(exist_ok=True)
 (ROOT / "build/style-report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
 print(f"style pass OK: {len(REPORT)} rules; {len(RW)} rewrites")
+
+# ── 6. v1.2 additions: algorithms, ABCDE/NEWS2 section, glossary, index ───
+t = DST.read_text(encoding="utf-8")
+def fig(name, cap):
+    return f"![{cap}](assets/figures/{name}.png){{.bookfig}}\n"
+INS = [
+    ("## درد (Pain)\n", fig("alg-chestpain", "الگوریتم ۲.۲: برخورد با مریض دارای درد صدری")),
+    ("## عسرت تنفس (Dyspnea)\n", fig("alg-dyspnea", "الگوریتم ۲.۳: تشخیص تفریقی عسرت تنفس")),
+    ("### یرقان (Jaundice)\n", fig("alg-jaundice", "الگوریتم ۳.۲: تفریق انواع یرقان")),
+    ("### ۷) معاینه سیستم حرکی\n", fig("alg-weakness", "الگوریتم ۹.۴: تعیین محل آفت در ضعف اطراف")),
+]
+for anchor, block in INS:
+    if t.count(anchor) != 1:
+        sys.exit("ABORT v1.2 anchor: " + anchor)
+    t = t.replace(anchor, anchor + "\n" + block + "\n", 1)
+
+ABCDE = (ROOT / "tools/pedagogy/abcde.md").read_text(encoding="utf-8").strip() + "\n\n"
+anchor = "## معاینه فزیکی عمومی\n"
+if t.count(anchor) != 1:
+    sys.exit("ABORT abcde anchor")
+t = t.replace(anchor, ABCDE + anchor, 1)
+REPORT.append("    5  v1.2 algorithms/ABCDE section inserted")
+DST.write_text(t, encoding="utf-8")
+(ROOT / "build/style-report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
+print("v1.2 inserts OK")
+
+# ── 7. glossary + subject index (appendices) ─────────────────────────────
+t = DST.read_text(encoding="utf-8")
+rows = [l.split("\t") for l in (ROOT / "tools/pedagogy/glossary.tsv").read_text(encoding="utf-8").splitlines() if "\t" in l]
+g = "# ضمیمه: فهرست اصطلاحات (دری ـ انگلیسی)\n\n| اصطلاح دری | English term |\n|---|---|\n"
+g += "".join(f"| {a} | {b} |\n" for a, b in rows) + "\n"
+# subject index: key terms; the PDF build adds page numbers (Typst), EPUB/DOCX get the list with chapter
+IDX = [l.strip() for l in (ROOT / "tools/pedagogy/index-terms.txt").read_text(encoding="utf-8").splitlines() if l.strip()]
+chap = re.split(r"(?m)^(?=# )", t)
+ORDN = {o: i + 1 for i, o in enumerate(ORD)}
+loc = {}
+for c in chap:
+    m = re.match(r"# فصل (\S+):", c)
+    if not m:
+        continue
+    n = ORD.index(m.group(1)) + 1
+    body = c.split("::: keypoints")[0]
+    for term in IDX:
+        if re.search(r"(?<![\w\u0600-\u06FF])" + re.escape(term) + r"(?![\w\u0600-\u06FF])", body, re.I):
+            loc.setdefault(term, []).append(n)
+DIG = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
+ix = "# ضمیمه: فهرست موضوعی\n\nاعداد شماره فصل را نشان می‌دهند.\n\n"
+def key(s):
+    return (0 if re.match(r"[\u0600-\u06FF]", s) else 1, s.lower())
+for term in sorted(loc, key=key):
+    ix += f"- **{term}**: " + "، ".join(str(n).translate(DIG) for n in loc[term]) + "\n"
+REFS = (ROOT / "tools/pedagogy/references.md").read_text(encoding="utf-8").strip() + "\n"
+HOW = (ROOT / "tools/pedagogy/howto.md").read_text(encoding="utf-8").strip() + "\n\n"
+i = t.index("# فصل اول:")
+t = t[:i] + HOW + t[i:]
+t = t.rstrip("\n") + "\n\n" + g + ix + "\n" + REFS
+REPORT.append(f"{len(rows):5d}  glossary terms")
+REPORT.append(f"{len(loc):5d}  index entries")
+DST.write_text(t, encoding="utf-8")
+(ROOT / "build/style-report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
+print("glossary/index OK", len(rows), len(loc))

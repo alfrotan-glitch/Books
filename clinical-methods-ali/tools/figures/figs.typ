@@ -345,6 +345,91 @@
     fa("نارمل", size: 7pt), fa("مثبت (AC > BC)", size: 7pt), fa("در وسط", size: 7pt),
     fa("کری انتقالی (conductive)", size: 7pt), fa("منفی (BC > AC)", size: 7pt), fa("به طرف گوش مصاب", size: 7pt),
     fa("کری حسی‑عصبی (sensorineural)", size: 7pt), fa("مثبت (هر دو کاهش یافته)", size: 7pt), fa("به طرف گوش سالم", size: 7pt)),
+  // ─────────────── Algorithms (v1.2) ───────────────
+  "alg-abcde": {
+    let row(l, t, d, c) = grid(columns: (14mm, 96mm), column-gutter: 2mm,
+      box(width: 14mm, height: 13mm, fill: c, radius: 3pt, align(center + horizon, text(size: 15pt, weight: "bold", fill: white, lang: "en", l))),
+      box(width: 96mm, height: 13mm, fill: soft, stroke: 0.6pt + c, radius: 3pt, inset: (x: 5pt, y: 3pt),
+        align(right + horizon, stack(dir: ttb, spacing: 1.6mm, fa([*#t*], size: 8pt), fa(d, size: 6.8pt)))))
+    stack(dir: ttb, spacing: 1.8mm,
+      row("A", "Airway — طرق هوایی", "آیا مریض صحبت می‌کند؟ stridor، خرخر، جسم اجنبی؛ باز کردن طرق هوایی", red),
+      row("B", "Breathing — تنفس", "ریت تنفس، SpO₂، حرکات صدر، شزن، اصغا؛ اکسیجن در صورت ضرورت", rgb("#c2571a")),
+      row("C", "Circulation — دوران", "نبض، فشار خون، capillary refill، اطراف سرد، ادرار؛ مایع وریدی", gold),
+      row("D", "Disability — حالت عصبی", "AVPU یا GCS، حدقه‌ها، گلوکوز خون", teal),
+      row("E", "Exposure — معاینه کامل بدن", "درجه حرارت، طفح، خونریزی، ترضیض؛ حفظ حرارت و حریم مریض", navy),
+      align(center, node("هر مشکل را در همان مرحله تداوی کنید، بعد به مرحله بعدی بروید؛ بعد از هر مداخله دوباره از A شروع کنید", fill: white, stroke: red, tc: red, size: 7pt, w: 112mm)))
+  },
+  "alg-chestpain": {
+    let Q(t) = node(t, fill: gold.lighten(65%), stroke: gold, size: 7pt, w: 50mm)
+    let R(t) = node(t, fill: rgb("#fbe9e7"), stroke: red, tc: red, size: 7pt, w: 50mm)
+    let N(t) = node(t, size: 7pt, w: 50mm)
+    let ar = align(center, text(size: 9pt, fill: teal, "↓"))
+    stack(dir: ttb, spacing: 1.5mm,
+      align(center, node([*درد صدری*], fill: navy, stroke: navy, tc: white, size: 9pt, w: 50mm)), ar,
+      align(center, N("ABCDE + علایم حیاتی + ECG در ۱۰ دقیقه")), ar,
+      grid(columns: 2, column-gutter: 4mm, row-gutter: 2mm,
+        Q("درد فشاری خلف قص، انتشار به بازو/فک، عرق"), R("Acute coronary syndrome → ECG، troponin"),
+        Q("درد ناگهانی پاره‌کننده به پشت؛ تفاوت نبض دو بازو"), R("Aortic dissection"),
+        Q("درد پلوریتیک + عسرت تنفس + تکی‌کاردیا؛ DVT"), R("Pulmonary embolism"),
+        Q("درد ناگهانی + hyper-resonance یک طرف"), R("Pneumothorax"),
+        Q("درد تیز، بهتر در نشستن و خم شدن به پیش؛ rub"), N("Pericarditis → صعود مقعر منتشر ST"),
+        Q("سوزش epigastric، مرتبط با غذا"), N("GERD / peptic ulcer"),
+        Q("درد موضعی، با فشار دادن جدار صدر تولید می‌شود"), N("درد عضلی‌ـ‌اسکلیتی (بعد از رد علل خطرناک)")))
+  },
+  "alg-dyspnea": {
+    let Q(t) = node(t, fill: gold.lighten(65%), stroke: gold, size: 7pt, w: 50mm)
+    let N(t) = node(t, size: 7pt, w: 50mm)
+    let ar = align(center, text(size: 9pt, fill: teal, "↓"))
+    stack(dir: ttb, spacing: 1.5mm,
+      align(center, node([*عسرت تنفس*], fill: navy, stroke: navy, tc: white, size: 9pt, w: 50mm)), ar,
+      align(center, N("SpO₂، ریت تنفس، آیا یک جمله کامل گفته می‌تواند؟")), ar,
+      grid(columns: 2, column-gutter: 4mm, row-gutter: 2mm,
+        Q("ویزینگ، سابقه استما/سگرت"), N("Asthma / COPD"),
+        Q("orthopnea، PND، JVP بلند، کریپیتیشن قاعده‌ها، اذیما"), N("عدم کفایه قلب چپ"),
+        Q("تب، سرفه با بلغم، dullness و تنفس bronchial"), N("Pneumonia"),
+        Q("stony dullness، کاهش آوازهای تنفسی"), N("Pleural effusion"),
+        Q("آغاز ناگهانی، hyper-resonance"), N("Pneumothorax"),
+        Q("آغاز ناگهانی، صدر پاک، تکی‌کاردیا، ریسک DVT"), N("Pulmonary embolism"),
+        Q("خسافت، خستگی، صدر نارمل"), N("انیمی / علل متابولیک (acidosis)")))
+  },
+  "alg-jaundice": {
+    let col(t, c, items) = stack(dir: ttb, spacing: 1.6mm,
+      node([*#t*], fill: c.lighten(75%), stroke: c, size: 7.5pt, w: 38mm),
+      ..items.map(i => node(i, size: 6.6pt, w: 38mm, fill: white, stroke: c)))
+    stack(dir: ttb, spacing: 2mm,
+      align(center, node([*یرقان — بیلیروبین سیروم بیشتر از ۲٫۵ mg/dL*], fill: navy, stroke: navy, tc: white, size: 8.5pt, w: 90mm)),
+      align(center, text(size: 9pt, fill: teal, "↓   ادرار، مواد غایطه، خارش   ↓")),
+      grid(columns: 3, column-gutter: 3mm,
+        col("قبل‌الکبدی (همولیتیک)", gold, ("ادرار نارمل (acholuric)", "مواد غایطه نارمل", "خسافت، طحال بزرگ", "بیلیروبین غیر مستقیم ↑")),
+        col("کبدی (hepatocellular)", teal, ("ادرار تیره", "مواد غایطه کم‌رنگ یا نارمل", "کبد بزرگ و حساس؛ علایم مرض مزمن کبد", "ALT و AST ↑↑")),
+        col("بعدالکبدی (انسدادی)", red, ("ادرار تیره", "مواد غایطه خاکی‌رنگ", "خارش؛ کیسه صفرای قابل جس (Courvoisier)", "ALP و GGT ↑↑"))))
+  },
+  "alg-weakness": {
+    let Q(t) = node(t, fill: gold.lighten(65%), stroke: gold, size: 7pt, w: 50mm)
+    let N(t) = node(t, size: 7pt, w: 50mm)
+    stack(dir: ttb, spacing: 2mm,
+      align(center, node([*ضعف اطراف — محل آفت کجاست؟*], fill: navy, stroke: navy, tc: white, size: 8.5pt, w: 90mm)),
+      grid(columns: 2, column-gutter: 4mm, row-gutter: 2mm,
+        Q("hemiplegia + اعصاب قحفی همان طرف، اختلالات قشری (aphasia)"), N("قشر دماغ / کپسول داخلی (UMN)"),
+        Q("hemiplegia + اعصاب قحفی طرف مقابل (crossed)"), N("ساق دماغ"),
+        Q("paraplegia + سویه حسی + اختلال مثانه"), N("نخاع شوکی"),
+        Q("ضعف و بی‌حسی در ساحه یک ریشه/عصب؛ عکسه همان سویه کم"), N("ریشه یا عصب محیطی (LMN)"),
+        Q("ضعف دیستال دو طرفه، بی‌حسی جوراب‌ـ‌دستکشی، عکسات کم"), N("Polyneuropathy"),
+        Q("ضعف با خستگی‌پذیری، ptosis، حسیت نارمل"), N("اتصال عصبی‌ـ‌عضلی (myasthenia)"),
+        Q("ضعف پروکسیمال دو طرفه، حسیت و عکسات نارمل"), N("Myopathy")))
+  },
+  "tbl-news2": { set text(dir: rtl); stack(dir: ttb, spacing: 0pt, table(columns: (27mm, 15mm, 15mm, 20mm, 20mm, 20mm, 16mm, 23mm), stroke: 0.5pt + rgb("#9fb8bb"), inset: 3.5pt, align: center + horizon,
+    fill: (x, y) => if y == 0 { navy } else if x == 0 { soft } else { white },
+    ..("پارامتر", "۳", "۲", "۱", "۰", "۱", "۲", "۳").map(h => fa(h, size: 7pt, fill: white, weight: "bold")),
+    fa("ریت تنفس", size: 6.8pt), en("≤8", size: 6.8pt), en("", size: 6.8pt), en("9–11", size: 6.8pt), en("12–20", size: 6.8pt), en("", size: 6.8pt), en("21–24", size: 6.8pt), en("≥25", size: 6.8pt),
+    fa("SpO₂ (مقیاس ۱) ٪", size: 6.8pt), en("≤91", size: 6.8pt), en("92–93", size: 6.8pt), en("94–95", size: 6.8pt), en("≥96", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt),
+    fa("اکسیجن اضافی", size: 6.8pt), en("", size: 6.8pt), fa("بلی", size: 6.8pt), en("", size: 6.8pt), fa("نخیر", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt),
+    fa("فشار سستولیک", size: 6.8pt), en("≤90", size: 6.8pt), en("91–100", size: 6.8pt), en("101–110", size: 6.8pt), en("111–219", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("≥220", size: 6.8pt),
+    fa("نبض", size: 6.8pt), en("≤40", size: 6.8pt), en("", size: 6.8pt), en("41–50", size: 6.8pt), en("51–90", size: 6.8pt), en("91–110", size: 6.8pt), en("111–130", size: 6.8pt), en("≥131", size: 6.8pt),
+    fa("شعور", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), fa("Alert", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("New C/V/P/U", size: 6.4pt),
+    fa("درجه حرارت °C", size: 6.8pt), en("≤35.0", size: 6.8pt), en("", size: 6.8pt), en("35.1–36.0", size: 6.8pt), en("36.1–38.0", size: 6.8pt), en("38.1–39.0", size: 6.8pt), en("≥39.1", size: 6.8pt), en("", size: 6.8pt),
+    ), box(width: 156mm, fill: rgb("#fbf6ea"), stroke: 0.5pt + rgb("#9fb8bb"), inset: 4pt, fa("مجموع ۰–۴: خطر کم (نظارت معمول) • یک پارامتر ۳ یا مجموع ۵–۶: خطر متوسط (ارزیابی عاجل داکتر) • مجموع ۷ یا بیشتر: خطر بلند (ارزیابی عاجل تیم حالات عاجل)", size: 6.6pt))) },
+
 )
 
 #figs.at(which)

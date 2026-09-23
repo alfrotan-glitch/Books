@@ -28,3 +28,8 @@ figcaption { color: #136f73; font-weight: bold; font-size: .9em; margin-top: .4e
 .keypoints { background:#eef1f5; border:1px solid #0f2744; padding:.6em .9em; margin:1.6em 0 1em; border-radius:4px; }
 .selftest { border:1px dashed #b8913a; padding:.6em .9em; margin:1em 0; border-radius:4px; }
 .objectives p, .keypoints p, .selftest p { margin:.3em 0; }
+
+.redflags { background:#fdf0ee; border-right:4px solid #b3261e; padding:.6em .9em; margin:1.4em 0 1em; border-radius:4px; }
+.redflags strong { color:#b3261e; }
+.case { background:#f3f0fa; border-right:4px solid #5b4a9e; padding:.6em .9em; margin:1em 0; border-radius:4px; }
+.redflags p, .case p { margin:.3em 0; }

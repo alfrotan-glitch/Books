@@ -71,6 +71,12 @@
 #let selftest(body) = block(width: 100%, breakable: true, above: 1.0em, below: 1.2em,
   inset: (x: 12pt, y: 9pt), radius: 4pt,
   stroke: (paint: gold, thickness: 0.8pt, dash: "dashed"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let redflags(body) = block(width: 100%, breakable: true, above: 1.6em, below: 1.0em,
+  fill: rgb("#fdf0ee"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + rgb("#b3261e")))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #show strong: set text(fill: rgb("#b3261e")); #body]
+#let casebox(body) = block(width: 100%, breakable: true, above: 1.0em, below: 1.0em,
+  fill: rgb("#f3f0fa"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + rgb("#5b4a9e")))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
 #let figph(body) = block(width: 100%, breakable: false, above: 1em, below: 1em,
   inset: (x: 10pt, y: 7pt), radius: 3pt,
   stroke: (paint: rgb("#9fb8bb"), thickness: 0.6pt, dash: "dashed"))[
