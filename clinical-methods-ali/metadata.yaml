@@ -1,0 +1,17 @@
+---
+title: "میتودهای کلینیکی علی"
+subtitle: "متن کامل معاینات کلینیکی"
+author: "TODO: نام مؤلف"            # NOT INVENTED — author must supply
+lang: fa-AF
+dir: rtl
+rights: "TODO: confirm copyright holder with author"
+description: "کتاب درسی معاینات کلینیکی به زبان دری."
+publisher: "TODO"
+toc: true
+toc-depth: 2
+toc-title: "فهرست مطالب"
+mainfont: "Vazirmatn"
+fontsize: 11pt
+papersize: a5
+epub-css: "epub.css"
+---

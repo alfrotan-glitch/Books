@@ -1,0 +1,7 @@
+@font-face { font-family: "Vazirmatn"; src: url("../fonts/Vazirmatn-Regular.ttf"); }
+@font-face { font-family: "Vazirmatn"; font-weight: bold; src: url("../fonts/Vazirmatn-Bold.ttf"); }
+html, body { text-align: right; font-family: "Vazirmatn", sans-serif; line-height: 1.8; }
+h1, h2, h3 { line-height: 1.4; }
+table { border-collapse: collapse; margin: 1em 0; }
+th, td { border: 1px solid #999; padding: .3em .6em; }
+code { font-family: monospace; }
