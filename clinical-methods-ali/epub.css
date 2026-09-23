@@ -11,3 +11,12 @@ h2 { color: #0f2744; background: #eef5f5; border-right: 4px solid #136f73; paddi
 h3 { color: #136f73; }
 th { background: #136f73; color: #fff; }
 hr { border: 0; text-align: center; }
+.note { background: #fbf6ea; border-right: 4px solid #b8913a; padding: .5em .8em; margin: 1em 0; border-radius: 3px; }
+.note p { margin: .3em 0; }
+.figure-ph { border: 1px dashed #9fb8bb; color: #136f73; text-align: center; padding: .4em; margin: 1em 0; font-size: .9em; }
+.figure-ph p { margin: 0; }
+tr:nth-child(even) td { background: #eef5f5; }
+ul li::marker { color: #136f73; }
+p { margin: .5em 0; text-align: justify; }
+section.level1 > h1 { page-break-before: always; }
+.ltr { text-align: left; }

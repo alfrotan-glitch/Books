@@ -35,16 +35,31 @@
 #show heading.where(level: 1): it => {
   pagebreak(weak: true, to: "odd")
   [#metadata("chapter-start") <chapter-start>]
-  v(18%)
+  v(16%)
   align(center, block(width: 100%)[
     #text(fill: gold, size: 14pt)[❖]
-    #v(0.4em)
+    #v(0.3em)
+    #if it.supplement != none and it.supplement != [] [
+      #text(size: 12pt, fill: teal, weight: "bold", tracking: 1pt)[#it.supplement]
+      #v(0.1em)
+    ]
     #text(size: 21pt, weight: "bold", fill: navy)[#it.body]
     #v(0.2em)
     #line(length: 45%, stroke: 1.2pt + gold)
   ])
   v(2.2em)
 }
+
+// ── reading aids ──
+#let note(body) = block(width: 100%, breakable: true, above: 1.1em, below: 1.1em,
+  fill: rgb("#fbf6ea"), inset: (x: 11pt, y: 8pt), radius: 3pt,
+  stroke: (right: 3.5pt + gold))[#set par(spacing: 0.7em); #body]
+#let figph(body) = block(width: 100%, breakable: false, above: 1em, below: 1em,
+  inset: (x: 10pt, y: 7pt), radius: 3pt,
+  stroke: (paint: rgb("#9fb8bb"), thickness: 0.6pt, dash: "dashed"))[
+  #set text(size: 9pt, fill: teal)
+  #set align(center)
+  ▣ #h(0.3em) #body]
 #show heading.where(level: 2): it => block(above: 1.8em, below: 0.9em, width: 100%,
   fill: soft, inset: (x: 10pt, y: 7pt), radius: 3pt,
   stroke: (right: 3.5pt + teal))[#text(size: 13.5pt, weight: "bold", fill: navy)[#it.body]]
@@ -129,7 +144,12 @@ $endfor$
   #v(0.4em)
   #align(center)[#line(length: 30%, stroke: 1pt + gold)]
   #v(1em)
-  #show outline.entry.where(level: 1): it => { v(0.5em); strong(it) }
+  #show outline.entry.where(level: 1): it => {
+    v(0.55em)
+    let sup = it.element.supplement
+    let lbl = if sup != none and sup != [] and sup != [Section] and sup != [بخش] { text(fill: teal)[#sup: ] } else { [] }
+    strong(link(it.element.location(), it.indented(none, [#lbl#it.element.body #box(width: 1fr, repeat[.]) #it.page()])))
+  }
   #outline(title: none, depth: $if(toc-depth)$$toc-depth$$else$2$endif$, indent: 1.2em)
 ]
 

@@ -15,11 +15,12 @@ grep -v -E '^\s*</?div( dir="rtl" align="right")?>\s*$' "$MASTER" > "$SRC"
 python3 tools/normalize_md.py "$SRC" "$SRC"
 
 echo "DOCX..."
-"$PANDOC" metadata.yaml "$SRC" -f markdown -t docx --toc --toc-depth=2 \
+"$PANDOC" metadata.yaml "$SRC" -f markdown -t docx --lua-filter=tools/book.lua --toc --toc-depth=2 \
   $( [ -f reference.docx ] && echo --reference-doc=reference.docx ) -o "$OUT/$SLUG.docx"
 
 echo "PDF (Typst)..."
-"$PANDOC" metadata.yaml "$SRC" -f markdown -t typst --standalone --template=templates/book.typst -o "$OUT/$SLUG.typ"
+"$PANDOC" metadata.yaml "$SRC" -f markdown -t typst --lua-filter=tools/book.lua --standalone --template=templates/book.typst -o "$OUT/$SLUG.typ"
+sed -i 's/numbering: "1\./numbering: "۱./g' "$OUT/$SLUG.typ"
 cp "$OUT/$SLUG.typ" ./.book.typ
 python3 - ./.book.typ "$OUT/$SLUG.pdf" <<'PY'
 import sys, typst
@@ -27,7 +28,7 @@ typst.compile(sys.argv[1], output=sys.argv[2], root=".", font_paths=["fonts"], i
 PY
 
 echo "EPUB3..."
-"$PANDOC" metadata.yaml "$SRC" -f markdown -t epub3 --toc --toc-depth=2 \
+"$PANDOC" metadata.yaml "$SRC" -f markdown -t epub3 --lua-filter=tools/book.lua --epub-title-page=false --split-level=1 --template=templates/epub3.html --epub-cover-image=assets/cover.jpg --toc --toc-depth=2 \
   --epub-embed-font='fonts/*.ttf' --css epub.css -o "$OUT/$SLUG.epub"
 
 echo "epubcheck..."
