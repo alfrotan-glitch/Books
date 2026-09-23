@@ -24,7 +24,15 @@
   fill: (x, y) => if y == 0 { teal } else if calc.even(y) { soft } else { white })
 #show table.cell.where(y: 0): set text(fill: white, weight: "bold")
 #show figure.where(kind: table): set figure.caption(position: top)
-#show figure.caption: set text(size: 9pt, fill: teal, weight: "bold")
+#show figure.caption: set text(size: 8.5pt, fill: teal, weight: "bold")
+#set figure(numbering: none, gap: 0.6em, supplement: none)
+#show figure.where(kind: image): it => block(width: 100%, breakable: false, above: 1.2em, below: 1.2em,
+  inset: (x: 6pt, y: 7pt), radius: 3pt, stroke: 0.5pt + rgb("#cfdede"))[
+  #set image(width: 100%)
+  #align(center, box(width: 100%, it.body))
+  #v(0.2em)
+  #align(center, it.caption.body)
+]
 
 // ── lists ──
 #set list(marker: text(fill: teal)[●], indent: 0.4em, body-indent: 0.6em)
@@ -126,11 +134,13 @@
     $if(publisher)$[*ناشر:*], [$publisher$],$endif$
     $if(edition)$[*نوبت چاپ:*], [$edition$],$endif$
     $if(date-display)$[*سال نشر:*], [$date-display$],$endif$
-    $if(isbn)$[*شابک (ISBN):*], [$isbn$],$endif$
+    $if(isbn)$[*شابک (ISBN):*], [$isbn$],$else$$if(isbn-display)$[*شابک (ISBN):*], [$isbn-display$],$endif$$endif$
   )
   #v(0.6em)
   $if(rights)$#text[$rights$]$endif$
   #v(0.6em)
+  #text(fill: rgb("#555"))[تمام شکل‌ها، شیماها و نقشه‌های ذهنی این کتاب به صورت شیماتیک برای همین نسخه ترسیم شده‌اند؛ ECGها مصنوعی بوده و از مریض واقعی گرفته نشده‌اند. اندازه‌های نارمل مطابق رهنمودهای معتبر بین‌المللی (تا سال ۲۰۲۶) بازبینی گردیده‌اند.]
+  #v(0.4em)
   #text(fill: rgb("#555"))[این کتاب صرف برای مقاصد آموزشی تهیه گردیده است و جانشین قضاوت کلینیکی داکتر معالج نمی‌باشد.]
 ]
 

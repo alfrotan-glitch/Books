@@ -1,4 +1,4 @@
-# سؤال‌ها برای تأیید مؤلف — داکتر الله‌یار فروتن
+# سؤال‌ها برای تأیید مؤلف — داکتر الله یار فروتن
 # Author queries (must be answered before the book is published)
 
 Rule: medical correctness outranks style, and nothing is invented. Every item below is
@@ -34,9 +34,13 @@ Rule: medical correctness outranks style, and nothing is invented. Every item be
 | S6 | **The 41 figures (and the 17 in the chapter 5 list) have no images** | Shown as placeholder boxes «▣ شکل …» | **Blocker:** the images must be supplied, or permission obtained to draw them |
 
 ## ج) نشر (Publishing data)
-- The spelling of the author's name on the cover: «داکتر الله‌یار فروتن». Confirm or correct.
-- Copyright wording: «© ۲۰۲۶ داکتر الله‌یار فروتن. تمام حقوق محفوظ است.»
+- The spelling of the author's name on the cover: «داکتر الله یار فروتن». Confirm or correct.
+- Copyright wording: «© ۲۰۲۶ داکتر الله یار فروتن. تمام حقوق محفوظ است.»
 - Year: ۱۴۰۵ ه‌ش / 2026.
-- Publisher and ISBN: none yet. Nothing has been invented.
+- Publisher and ISBN: none yet (user-confirmed). The imprint page says «هنوز اخذ نگردیده است».
 - Size: A5. Is it suitable for print?
 - Are the figures originally the author's own, or are they from another book? If they are from another source, permission is needed.
+
+
+## Status update (Scientific review v2)
+M1–M13: **resolved**. At the user's request, the values were checked against current references and corrected (see `CHANGELOG-editorial.md` → "Scientific review v2" and `SOURCES.md`). The author may still review these changes.

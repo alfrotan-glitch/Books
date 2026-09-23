@@ -65,3 +65,24 @@ function Table(tbl)
   end
   return tbl
 end
+
+-- Size book figures from their natural width (PNG rendered at 300 ppi) relative to the
+-- A5 text block (~110 mm), so small diagrams are not blown up.
+local function png_width(path)
+  local f = io.open(path, "rb"); if not f then return nil end
+  local d = f:read(24); f:close()
+  if not d or #d < 24 then return nil end
+  local b1, b2, b3, b4 = d:byte(17, 20)
+  return ((b1 * 256 + b2) * 256 + b3) * 256 + b4
+end
+
+function Image(img)
+  if not img.classes:includes("bookfig") then return nil end
+  local px = png_width(img.src)
+  if px then
+    local mm = px / 300 * 25.4
+    local pct = math.min(100, math.floor(mm * 1.25 / 110 * 100 + 0.5))
+    img.attributes["width"] = tostring(pct) .. "%"
+  end
+  return img
+end

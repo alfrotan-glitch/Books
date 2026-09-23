@@ -20,3 +20,6 @@ ul li::marker { color: #136f73; }
 p { margin: .5em 0; text-align: justify; }
 section.level1 > h1 { page-break-before: always; }
 .ltr { text-align: left; }
+figure { margin: 1.2em 0; padding: .5em; border: 1px solid #cfdede; border-radius: 4px; text-align: center; page-break-inside: avoid; }
+figure img { max-width: 100%; height: auto; }
+figcaption { color: #136f73; font-weight: bold; font-size: .9em; margin-top: .4em; }
