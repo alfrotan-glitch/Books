@@ -103,3 +103,8 @@
 | ۲۱ | علایم خطر عمومی؛ تنفس سریع ۶۰/۵۰/۴۰؛ درجه‌بندی کم‌آبی؛ نوزاد: تب ≥۳۷٫۵، سردی <۳۵٫۵ | WHO IMCI Chart Booklet 2014؛ Young Infants Clinical Signs Study Group. Lancet 2008;371:135–42 | ✔ |
 | ۲۱ | MUAC <۱۱۵ mm شدید، ۱۱۵–<۱۲۵ متوسط؛ پندیدگی دوطرفه | WHO SAM guideline 2013 | ✔ |
 | ۲۱ | علامه‌های حیاتی به عمر؛ Apgar؛ مراحل تکامل؛ CRT >۳ ثانیه؛ آزار طفل | APLS 6th ed.؛ Fleming S et al. Lancet 2011;377:1011–8؛ Helping Babies Breathe؛ NICE CG89/NG143 | ◐ |
+| ۲۲ | معیارهای Beers (ضد کولینرژیک‌ها، بنزودیازپین‌ها، NSAID، سلفونیل‌یوریای طولانی) | AGS 2023 Beers Criteria. J Am Geriatr Soc 2023;71:2052–81 | ✔ |
+| ۲۲ | سرعت راه رفتن و بقا؛ ۰٫۸ m/s حدود امید زندگی متوسط؛ ۹ مطالعه، >۳۴٬۰۰۰ نفر | Studenski S et al. JAMA 2011;305:50–8 | ✔ |
+| ۲۲ | فنوتایپ ضعف پیری (۳ از ۵) | Fried LP et al. J Gerontol A 2001;56:M146–56 | ✔ |
+| ۲۲ | حدود یک سوم حمله قلبی بدون درد صدر، بیشتر در سالمندان | Canto JG et al. JAMA 2000;283:3223–9 | ✔ |
+| ۲۲ | TUG ≥۱۲ ثانیه؛ پنج I؛ CGA | CDC STEADI؛ Ellis G et al. Cochrane 2017 (CGA) | ◐ |
