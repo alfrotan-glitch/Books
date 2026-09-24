@@ -21,3 +21,16 @@
 | 4 | Likelihood-ratio shortcuts (±15 / 30 / 45%) | McGee S. J Gen Intern Med 2002;17:647–50 |
 | 4 | System 1 / System 2 | Kahneman D. Thinking, Fast and Slow, 2011 |
 | 4 | Cognitive biases in diagnosis | Croskerry P. Acad Med 2003;78:775–80 |
+
+## فصل ۵ و ۶
+
+| ادعا | منبع |
+|---|---|
+| SBAR، منشأ بحریه امریکا و انتشار در شفاخانه‌ها | Haig KM et al. Jt Comm J Qual Patient Saf 2006;32:167–75 |
+| LR ویژگی‌های درد صدری | Swap CJ, Nagurney JT. JAMA 2005;294:2623–9 |
+| معیارهای شدت AS و MS | Otto CM et al. 2020 ACC/AHA VHD Guideline. Circulation 2021;143:e72–e227 |
+| نبض تناقضی در تامپوناد | Roy CL et al. JAMA 2007;297:1810–8 |
+| JVP ≤۳ cm بالای زاویه قص؛ تست بطنی‌وداجی | McGee S. Evidence-Based Physical Diagnosis, 5th ed. |
+| درجه‌بندی Levine | Levine SA, Harvey WP. Clinical Auscultation of the Heart, 1949 |
+| تشخیص اکوکاردیوگرافیک RHD | WHF 2012 criteria; 2023 WHF guideline (Rwebembera J et al. Nat Rev Cardiol 2024) |
+| وقایه ثانوی با بنزاتین پنسلین هر ۳–۴ هفته | WHO Guideline on prevention and diagnosis of RF/RHD, 2024 |

@@ -18,7 +18,7 @@ rep = []; tot = hit = 0
 for ch in sorted((R / "chapters").glob("*.md")):
     w = words(ch.read_text(encoding="utf-8"))
     grams = [tuple(w[i:i+N]) for i in range(len(w) - N + 1)]
-    h = [g for g in grams if g in old]
+    h = [g for g in grams if g in old and any(re.search(r"[\u0600-\u06FF]", x) for x in g)]
     tot += len(grams); hit += len(h)
     rep.append(f"{ch.name}: {len(h)}/{len(grams)} shared {N}-grams ({100*len(h)/max(1,len(grams)):.2f}%)")
     for g in h[:20]: rep.append("    " + " ".join(g))

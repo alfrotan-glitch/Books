@@ -46,3 +46,5 @@ figcaption { color: #136f73; font-weight: bold; font-size: .9em; margin-top: .4e
 .summary { background:#eef1f5; border:1px solid #0f2744; padding:.6em .9em; margin:1.6em 0 1em; border-radius:4px; }
 .practice { border:1px dashed #136f73; padding:.6em .9em; margin:1em 0; border-radius:4px; }
 .story p, .rule p, .evidence p, .pitfall p, .expert p, .summary p, .practice p, .bigidea p { margin:.3em 0; }
+.osce { border:1px dashed #b8913a; padding:.6em .9em; margin:1em 0; border-radius:4px; }
+.osce p { margin:.3em 0; }

@@ -18,7 +18,7 @@ function Div(el)
                 redflags = {"redflags", "Red Flags"}, case = {"casebox", "Clinical Case"},
                 story = {"story", "Story"}, bigidea = {"bigidea", "Big Idea"}, rule = {"rule", "Bedside Rule"},
                 evidence = {"evidence", "Evidence"}, pitfall = {"pitfall", "Pitfall"}, expert = {"expert", "Expert"},
-                summary = {"summary", "Summary"}, practice = {"practice", "Practice"} }
+                summary = {"summary", "Summary"}, practice = {"practice", "Practice"}, osce = {"selftest", "OSCE"} }
   local m = map[cls]
   if not m then return nil end
   if FORMAT:match("typst") then

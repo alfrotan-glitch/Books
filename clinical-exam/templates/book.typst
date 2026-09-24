@@ -24,6 +24,7 @@
 #set table(stroke: 0.5pt + rgb("#9fb8bb"), inset: (x: 7pt, y: 5pt),
   fill: (x, y) => if y == 0 { teal } else if calc.even(y) { soft } else { white })
 #show table.cell.where(y: 0): set text(fill: white, weight: "bold")
+#show table.cell.where(y: 0): it => { show strong: set text(fill: white); it }
 #show table.cell: set par(justify: false)
 #show figure.where(kind: table): set figure.caption(position: top)
 #show figure.where(kind: table): set block(breakable: true)
