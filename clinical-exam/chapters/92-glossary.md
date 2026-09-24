@@ -19,13 +19,14 @@
 | التهاب شریان صدغی | giant cell arteritis |
 | التهاب لگن | pelvic inflammatory disease |
 | التهاب ملتحمه | conjunctivitis |
+| انشقاق ابهر | aortic dissection |
+| انصباب پلورا | pleural effusion |
 | برآمدگی چشم | exophthalmos |
 | بربخ | epididymis |
 | برچسپ زدن مریض | framing |
 | بلاک شاخه | bundle branch block |
 | بلاک کامل قلب | complete heart block |
 | بیهوشی گذرا | syncope |
-| پارگی ابهر | aortic dissection |
 | پاکت‌سال | pack-years |
 | پرکاری تایراید | hyperthyroidism |
 | پندیدگی دیسک بصری | papilloedema |
@@ -92,7 +93,7 @@
 | عقب ماندن پلک | lid lag |
 | فاشئیت نکروزدهنده | necrotising fasciitis |
 | فاصله انیونی | anion gap |
-| فبریلیشن اذین | atrial fibrillation |
+| فبریلیشن اذینی | atrial fibrillation |
 | فرتوتی | frailty |
 | فرج | vulva |
 | فرورفتن پایین قفسه صدری | chest indrawing |
@@ -118,7 +119,6 @@
 | لرزش چشم | nystagmus |
 | لکه | macule |
 | لنگر انداختن (خطای شناختی) | anchoring bias |
-| مایع پرده | pleural effusion |
 | مجرای منوی | vas deferens |
 | محور قلب | cardiac axis |
 | مراقبت یکپارچه امراض اطفال | IMCI |
