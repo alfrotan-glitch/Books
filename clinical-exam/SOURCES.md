@@ -52,3 +52,10 @@
 | ۸ | سرفه حاد <۳ هفته، مزمن >۸ هفته؛ مقیاس MRC | ACCP cough guideline 2006; Fletcher CM 1959 / MRC | ◐ |
 | ۸ | پلس اکسی‌متر carboxyhaemoglobin را از oxyhaemoglobin جدا نمی‌کند | فزیولوژی دستگاه (Jubran A. Crit Care 2015;19:272) | ◐ |
 | ۸ | آزمایش مالیکولی سریع (Xpert MTB/RIF) به عنوان آزمایش اولیه | WHO consolidated guidelines on tuberculosis, Module 3: Diagnosis | ◐ |
+| ۹ | اپندیسیت: درد RLQ LR+ ۷٫۳–۸٫۵؛ سختی ۳٫۸؛ انتقال درد ۳٫۲؛ درد پیش از قی ۲٫۸؛ Psoas ۲٫۴؛ تب ۱٫۹؛ نبود درد RLQ LR− ۰–۰٫۲۸ | Wagner JM et al. JAMA 1996;276:1589–94 | ✔ |
+| ۹ | التهاب کیسه صفرا: هیچ یافته تنها کافی نیست؛ Murphy LR+ ۲٫۸ | Trowbridge RL et al. JAMA 2003;289:80–6 | ✔ |
+| ۹ | حبن: موج مایع ۶٫۰/۰٫۴؛ پندیدگی بطن ۴٫۲/۰٫۲؛ پندیدگی قوزک ۲٫۸/۰٫۱؛ shifting ۲٫۷/۰٫۳؛ پهلوها ۲٫۰/۰٫۳ | Williams JW, Simel DL. JAMA 1992;267:2645–8 | ✔ |
+| ۹ | معاینه طحال در احتمال پیش‌آزمون بلند؛ هر دو مثبت = تأیید | Grover SA et al. JAMA 1993;270:2218–21 | ✔ |
+| ۹ | دوای مخدر در درد حاد بطن خطای تشخیص را زیاد نمی‌کند | Manterola C et al. Cochrane Database Syst Rev 2011;(1):CD005660 | ✔ |
+| ۹ | قانون Courvoisier و توضیح آن | Courvoisier LG 1890؛ مرورهای ثانوی | ✔ |
+| ۹ | منشأ جنینی و جای درد احشا؛ ۵ F؛ نشانه‌های Rovsing، Psoas، Obturator، Carnett؛ عقده Virchow | کتاب‌های درسی معاینه و جراحی | ◐ |
