@@ -216,4 +216,5 @@
 | Carvedilol ۶.۲۵ ← ۱۲.۵ mg/روز؛ Propranolol | Baveno VII | 🟡 |
 | TDF ۳۰۰، ETV ۰.۵/۱ mg، TAF ۲۵؛ SOF/VEL ۱۲ هفته ± RBV؛ UDCA ۱۳–۱۵ mg/kg؛ Cholestyramine؛ Rifampicin؛ Baclofen؛ Midodrine/Octreotide | AASLD/EASL | 🟡 |
 | تغذیه: ۳۵ kcal/kg و پروتین ۱.۲–۱.۵ g/kg | EASL 2019 | 🟡 |
-| Resmetirom (FDA 2024)؛ Semaglutide برای MASH (2025) | — | 🟡 باید تأیید شود |
+| Semaglutide ۲.۴ mg هفته‌وار برای MASH F2–F3 بدون سیروز (FDA اگست ۲۰۲۵) | NEJM Journal Watch | ✅ |
+| Resmetirom (FDA 2024) | — | 🟡 |

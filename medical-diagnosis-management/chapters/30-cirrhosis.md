@@ -111,7 +111,7 @@
 - **HBV:** **Tenofovir disoproxil fumarate (TDF) ۳۰۰ mg فمی روزانه** یا **Entecavir ۰.۵ mg فمی روزانه** (در جبران‌نشده **Entecavir ۱ mg**) یا **Tenofovir alafenamide (TAF) ۲۵ mg روزانه** — **در همهٔ مریضان سیروزی با HBV DNA قابل کشف، بدون توجه به ALT** — **دوامدار** (فصل ۳۲).
 - **HCV:** **DAA** — مثلاً **Sofosbuvir/Velpatasvir (۴۰۰/۱۰۰ mg) یک تابلیت روزانه × ۱۲ هفته** (در جبران‌نشده + **Ribavirin**؛ ⚠️ **مهارکننده‌های Protease — Glecaprevir، Voxilaprevir — در Child B/C ممنوع**) (فصل ۳۲).
 - **الکول:** **قطع کامل** (مؤثرترین «دوا»)؛ کمک: **Baclofen** (۵ mg سه بار در روز ← تا ۱۰–۲۰ mg سه بار) یا **Acamprosate** (مطابق وظیفهٔ گرده)؛ ⚠️ **Disulfiram و Naltrexone در سیروز پیشرفته نه**.
-- **MASLD:** کاهش وزن **۷–۱۰ فیصد**، کنترول دیابت (**GLP-1 RA**، SGLT2i)، **Resmetirom** (تأیید FDA 2024 برای MASH با فایبروز F2–F3 — **نه در سیروز جبران‌نشده**)؛ **Semaglutide** (تأیید FDA 2025 برای MASH F2–F3).
+- **MASLD:** کاهش وزن **۷–۱۰ فیصد**، کنترول دیابت (**GLP-1 RA**، SGLT2i)، **Resmetirom** (تأیید FDA 2024 برای MASH با فایبروز F2–F3 — **نه در سیروز جبران‌نشده**)؛ **Semaglutide ۲.۴ mg SC هفته‌وار** (با افزایش تدریجی ۰.۲۵ ← ۰.۵ ← ۱ ← ۱.۷ ← ۲.۴ mg؛ تأیید تسریع‌شدهٔ FDA در اگست ۲۰۲۵ برای MASH بدون سیروز با فایبروز F2–F3 — [NEJM Journal Watch](https://clinician.nejm.org/semaglutide-approved-treatment-metabolic-dysfunctionassociated-steatohepatitis-fibrosis-CLINdwNA59206)).
 - **AIH:** Prednisolone ± Azathioprine؛ **PBC:** **UDCA ۱۳–۱۵ mg/kg/روز**؛ **Wilson:** Penicillamine/Trientine + Zinc.
 
 #### ۲. آسیت — AASLD 2021، EASL 2018
