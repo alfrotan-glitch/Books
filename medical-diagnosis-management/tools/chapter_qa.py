@@ -21,6 +21,9 @@ def check(fn):
                 'Quick Differential', 'Investigations', 'Diagnostic Criteria',
                 'Management', 'Complications', 'Prognosis', 'Memory Joggers',
                 'Red Flags', 'References', 'قدم کوچک', 'اتصال به فصل', 'مرور ۶۰ ثانیه']
+    APPROACH = {'01','02','03','04','05','15','24','36','45','53','59','66','71'}
+    if Path(fn).name[:2] in APPROACH:
+        required = ['Memory Joggers','Red Flags','References','قدم کوچک','اتصال به فصل','مرور ۶۰ ثانیه']
     for r in required:
         if r not in t:
             issues.append(f'MISSING SECTION: {r}')
@@ -46,7 +49,7 @@ def check(fn):
     if not lines or not lines[0].startswith('# '):
         issues.append('NO H1 ON LINE 1')
     # 5) dosing table presence
-    if 'Dose' not in t and 'دوز' not in t:
+    if Path(fn).name[:2] not in APPROACH and 'Dose' not in t and 'دوز' not in t:
         issues.append('NO DOSING SECTION?')
     return issues
 
