@@ -113,3 +113,6 @@
 | ۲۳ | <C>ABCDE، پنج جای خونریزی | ATLS 10th ed. (2018) | ✔ |
 | ۲۳ | مسمومیت ارگانوفاسفات؛ اتروپین دوبرابرشونده تا شش خشک، ضربان >۸۰، سیستولیک >۸۰ | Eddleston M et al. Lancet 2008;371:597–607 | ✔ |
 | ۲۳ | سه دسته بیهوشی؛ CO و پالس‌اکسیمتری؛ hypothermia/heat stroke؛ locked-in؛ RUSH | کتاب‌های معیاری (Plum and Posner's Diagnosis of Stupor and Coma; Oxford Handbook of Emergency Medicine)؛ ERC 2021 special circumstances | ◐ |
+| ۲۴ | HEART: ۰–۳ خطر ۱٫۷٪ در ۶ هفته؛ ۷–۱۰ حدود ۵۰٪ | Backus BE et al. Int J Cardiol 2013;168:2153–8 | ✔ |
+| ۲۴ | CCHF بومی افغانستان؛ اوج در ماه‌های عید قربان؛ بیشترین موارد ۲۰۲۳؛ مرگ ۱۰–۴۰٪ | Hamdard E et al. J Infect Public Health 2025;18:102591؛ WHO CCHF fact sheet | ✔ |
+| ۲۴ | کاهش وزن مهم >۵٪ در ۶–۱۲ ماه؛ فرق فشار بازوها >۲۰ mmHg در پارگی ابهر؛ الگوهای تب، زردی، اذیما، سرچرخی | کتاب‌های معیاری (Symptom to Diagnosis; Macleod's)؛ ESC 2018 Syncope؛ ESC 2014/2024 Aortic | ◐ |
