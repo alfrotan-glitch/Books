@@ -9,7 +9,7 @@ from pathlib import Path
 GARBLED = ['aql', 'بلاکر', 'کونجستیو', 'کونگیستیو', 'انگیدوما', 'سبتوبند', 'Clemetizole',
            'دوالوپ', 'تودالوپ', 'کاستی وریدی', 'کاتالیزور', 'مالاتیو', 'بتابلاکر',
            'بیتابلکّر', 'بتابلکّر', 'بیتابلکر', 'سوپرهشن', 'CCKD', 'ګریس', 'کورتیکنوئید',
-           'بلاک', 'کاشه', 'کاشیه', 'بلاک قلبی']
+           'کاشه', 'کاشیه',]
 
 def check(fn):
     t = open(fn, encoding='utf-8').read()
@@ -40,7 +40,7 @@ def check(fn):
             issues.append(f'L{i} DECMISS?: {ln.strip()[:100]}')
         if re.search(r'[۰-۹]/[۰-۹]{1,2}\b', ln) and not re.search(r'[۰-۹]{2,3}/[۰-۹]{2,3}', ln):
             # e.g. 18/120 pattern (asymmetry)
-            for m in re.finditer(r'([۰-۹]{1,3})/([۰-9۰-۹]{1,3})', ln):
+            for m in re.finditer(r'([۰-۹]{1,3})/([۰-۹]{1,3})', ln):
                 a, b = m.group(1), m.group(2)
                 if len(a) != len(b) and (len(a) == 1 or len(b) == 1):
                     issues.append(f'L{i} RATIO?: {ln.strip()[:100]}')

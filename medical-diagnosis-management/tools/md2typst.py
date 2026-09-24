@@ -30,7 +30,9 @@ def inline(t: str) -> str:
         if p.startswith("`") and p.endswith("`") and len(p) > 2:
             out.append(p)
         else:
-            out.append(esc(p))
+            s = esc(p)
+            s = s.replace('//', '\/\/').replace('/*', '\/*').replace('*/', '*\/')
+            out.append(s)
     return "".join(out)
 
 def table_rows(tbl):
