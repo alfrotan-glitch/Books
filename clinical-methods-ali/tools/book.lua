@@ -105,9 +105,50 @@ function Image(img)
   if not img.classes:includes("bookfig") then return nil end
   local px = png_width(img.src)
   if px then
-    local mm = px / 300 * 25.4
+    local mm = px / 400 * 25.4   -- figures are rendered at 400 ppi
     local pct = math.min(100, math.floor(mm * 1.25 / 110 * 100 + 0.5))
     img.attributes["width"] = tostring(pct) .. "%"
   end
+  if FORMAT == "typst" then  -- vector figure in the PDF
+    local svg = img.src:gsub("assets/figures/([%w%-]+)%.png$", "assets/figures/svg/%1.svg")
+    local f = io.open(svg, "r")
+    if f then f:close(); img.src = svg end
+  end
   return img
+end
+
+-- PDF only: back-matter marker + subject index with real page numbers (Typst queries <idx> markers)
+function Pandoc(doc)
+  if FORMAT ~= "typst" then return nil end
+  local out, in_index = {}, false
+  for _, b in ipairs(doc.blocks) do
+    local is_h1 = (b.t == "Header" and b.level == 1) or (b.t == "RawBlock" and b.text:find("#heading%(level: 1") ~= nil)
+    if is_h1 then
+      local txt = b.t == "Header" and pandoc.utils.stringify(b) or b.text
+      if txt:find("فهرست اصطلاحات") then
+        table.insert(out, pandoc.RawBlock("typst", '#metadata("backmatter") <backmatter>'))
+      end
+      in_index = txt:find("فهرست موضوعی") ~= nil
+      table.insert(out, b)
+    elseif in_index and b.t == "Para" and pandoc.utils.stringify(b):find("شماره فصل") then
+      table.insert(out, pandoc.Para({pandoc.Str("اعداد"), pandoc.Space(), pandoc.Str("شماره"), pandoc.Space(), pandoc.Str("صفحه"), pandoc.Space(), pandoc.Str("را"), pandoc.Space(), pandoc.Str("نشان"), pandoc.Space(), pandoc.Str("می‌دهند.")}))
+    elseif in_index and b.t == "BulletList" then
+      local terms = {}
+      for _, item in ipairs(b.content) do
+        local first = item[1]
+        local term = nil
+        if first and first.content then
+          for _, il in ipairs(first.content) do
+            if il.t == "Strong" then term = pandoc.utils.stringify(il); break end
+          end
+        end
+        if term then table.insert(terms, '"' .. term:gsub('\\', '\\\\'):gsub('"', '\\"') .. '"') end
+      end
+      table.insert(out, pandoc.RawBlock("typst", "#book-index((" .. table.concat(terms, ", ") .. ",))"))
+    else
+      table.insert(out, b)
+    end
+  end
+  doc.blocks = out
+  return doc
 end

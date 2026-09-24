@@ -102,6 +102,56 @@ lit("- **تخمین تقریبی:** با انچ‌ها، ارتفاع fundal م�
     "- **تخمین تقریبی:** از هفته ۲۴ حمل به بعد، SFH به سانتی‌متر تقریباً مساوی به تعداد هفته‌های حمل است (± ۲ سانتی‌متر). این قاعده تا حدود هفته ۳۶ صدق می‌کند،",
     "MED: SFH (cm) ≈ gestational weeks ±2 from 24 wk (NICE/ACOG)")
 
+
+# ── 3b. v1.3 editorial fixes (author typos, headings, TOC hygiene) ───────
+lit("از مریض بخواهید تا چهل چهل یا چهل و چهار را اداء نماید.", "از مریض بخواهید تا «چهار»، «چهل» یا «چهل و چهار» بگوید.", "typo: چهل چهل -> چهار، چهل")
+lit("این سایکل بار بار تکرار می‌شود.", "این سایکل پی‌درپی تکرار می‌شود.", "style: بار بار -> پی‌درپی")
+lit("- مریض بسیار کوچک کوچک می‌نویسد (micrographia).", "- خط مریض بسیار ریز می‌شود (micrographia).", "style: کوچک کوچک")
+lit("**ریت غیر منظم منظم (Regularly irregular heart rate):**", "**ریتم منظماً غیر منظم (Regularly irregular rhythm):**", "term: regularly irregular")
+HEAD = [
+    ("## Hemoptysis\n", "## خون‌آمدن با سرفه (Hemoptysis)\n"),
+    ("## CARDIOMYOPATHY\n", "## کاردیومایوپاتی (Cardiomyopathy)\n"),
+    ("## Blood\n", "## کیمیای خون (Blood chemistry)\n"),
+    ("## Hematology\n", "## هیماتولوژی (Hematology)\n"),
+    ("## Absolute values\n", "## شاخص‌های حجرات سرخ (Absolute values)\n"),
+    ("## CSF\n", "## مایع دماغی شوکی (CSF)\n"),
+    ("## Urine\n", "## ادرار (Urine)\n"),
+    ("## Stool\n", "## مواد غایطه (Stool)\n"),
+    ("## Semen\n", "## مایع منوی (Semen)\n"),
+    ("### Clubbing\n", "### منظره چوب طبل انگشتان (Clubbing)\n"),
+    ("### Koilonychia\n", "### ناخن قاشقی (Koilonychia)\n"),
+    ("### Pneumonia\n", "### سینه‌بغل (Pneumonia)\n"),
+    ("### Pleural effusion\n", "### انصباب پلورا (Pleural effusion)\n"),
+    ("### Pneumothorax\n", "### پنوموتوراکس (Pneumothorax)\n"),
+    ("### Tension pneumothorax\n", "### پنوموتوراکس فشاری (Tension pneumothorax)\n"),
+    ("### Bronchiectasis\n", "### توسع قصبات (Bronchiectasis)\n"),
+    ("### Infective endocarditis\n", "### اندوکاردیت انتانی (Infective endocarditis)\n"),
+    ("### Myxedema\n", "### میکزیدیما (Myxedema)\n"),
+    ("### Pericarditis\n", "### التهاب پریکارد (Pericarditis)\n"),
+    ("### Dextrocardia\n", "### قلب راست‌جا (Dextrocardia)\n"),
+]
+for a, b in HEAD:
+    n = t.count(a)
+    if n < 1:
+        sys.exit("ABORT heading: " + a)
+    t = t.replace(a, b)
+    REPORT.append(f"{n:5d}  heading: {a.strip()} -> {b.strip()}")
+# a bare «یادداشت» H2 pollutes the TOC -> note box
+t, n = re.subn(r"(?m)^## یادداشت\n\n((?:.+\n)+?(?:\n(?:[۰-۹]+\..+\n)+)?)", lambda m: "::: note\n**یادداشت:** " + m.group(1).rstrip("\n") + "\n:::\n", t, count=1)
+REPORT.append(f"{n:5d}  ch1 «یادداشت» heading -> note box")
+
+
+# note boxes that end with ":" must contain the list that follows
+t, n = re.subn(r"(?m)^(::: note\n(?:.+\n)*?.+:)\n:::\n\n((?:(?:- |[۰-۹]+\. |\d+\. ).+\n)+)",
+               lambda m: m.group(1) + "\n\n" + m.group(2) + ":::\n", t)
+REPORT.append(f"{n:5d}  note boxes: trailing list moved inside")
+
+
+# Unicode subscripts (₂ ₃) are missing from Vazirmatn -> real subscripts (Typst #sub / HTML <sub>)
+SUBS = str.maketrans("₀₁₂₃₄₅₆₇₈₉", "0123456789")
+t, n = re.subn(r"[₀-₉]+", lambda m: "~" + m.group(0).translate(SUBS) + "~", t)
+REPORT.append(f"{n:5d}  unicode subscripts -> markdown ~sub~")
+
 # ── 4. sentence-level rewrites (readability; meaning unchanged) ───────────
 RW = [
 # ch1
@@ -294,6 +344,15 @@ def key(s):
     return (0 if re.match(r"[\u0600-\u06FF]", s) else 1, s.lower())
 for term in sorted(loc, key=key):
     ix += f"- **{term}**: " + "، ".join(str(n).translate(DIG) for n in loc[term]) + "\n"
+
+# PDF page-number index: Typst attaches <idx> markers to term occurrences (see templates/book.typst)
+import json as _json
+def _rx_esc(x):
+    return "".join("\\" + ch if ch in ".+*?()|[]{}^$#&-~\\" else ch for ch in x)
+(ROOT / "build").mkdir(exist_ok=True)
+(ROOT / "build/index-terms.json").write_text(_json.dumps({
+    "pattern": "(?i)\\b(?:" + "|".join(_rx_esc(x) for x in sorted(loc, key=len, reverse=True)) + ")\\b",
+}, ensure_ascii=False), encoding="utf-8")
 REFS = (ROOT / "tools/pedagogy/references.md").read_text(encoding="utf-8").strip() + "\n"
 HOW = (ROOT / "tools/pedagogy/howto.md").read_text(encoding="utf-8").strip() + "\n\n"
 i = t.index("# فصل اول:")
@@ -304,3 +363,25 @@ REPORT.append(f"{len(loc):5d}  index entries")
 DST.write_text(t, encoding="utf-8")
 (ROOT / "build/style-report.txt").write_text("\n".join(REPORT) + "\n", encoding="utf-8")
 print("glossary/index OK", len(rows), len(loc))
+
+t = DST.read_text(encoding="utf-8")
+t = re.sub(r"[₀-₉]+", lambda m: "~" + m.group(0).translate(SUBS) + "~", t)
+DST.write_text(t, encoding="utf-8")
+
+# ── v1.3: figure numbering & placeholder radiograph list ──
+t = DST.read_text(encoding="utf-8")
+# the author's list of radiographs that are not (yet) in the book: drop the misleading "شکل ۵.n:" numbers
+t, n_x = re.subn(r"^- شکل ۵\.[۰-۹]+: ", "- ", t, flags=re.M)
+t = t.replace("**فهرست رادیوگرافی‌های پیشنهادی این فصل**", "**یافته‌های رادیوگرافیک که باید در اطلس رادیولوژی دیده شوند**")
+# renumber every caption sequentially inside its chapter (one shared counter per chapter)
+_D = "۰۱۲۳۴۵۶۷۸۹"
+_fa = lambda k: "".join(_D[int(c)] for c in str(k))
+_TYPES = r"(?:شکل|شیما|نقشه ذهنی|الگوریتم|جدول خلاصه|جدول)"
+_seq = {}
+def _renum(m):
+    ch = m.group(2)
+    _seq[ch] = _seq.get(ch, 0) + 1
+    return f"![{m.group(1)} {ch}.{_fa(_seq[ch])}"
+t, n_c = re.subn(r"^!\[(" + _TYPES + r") ([۰-۹]+)\.[۰-۹]+", _renum, t, flags=re.M)
+DST.write_text(t, encoding="utf-8")
+print(f"v1.3 numbering: {n_c} captions renumbered, {n_x} placeholder numbers removed")

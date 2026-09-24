@@ -34,3 +34,7 @@ Real chest X-ray images for chapter 5 have **not** been added, because no licens
 | Tendon-reflex grading 0–4+ | NINDS Myotatic Reflex Scale (Hallett 1993), recommended by the AAN |
 | CHB escape rates: junctional 40–60 (narrow QRS), ventricular 20–40 (wide QRS) | Standard ECG references (e.g. ECG Guru, teachIM) |
 | SFH ≈ weeks ± 2 cm from 24 weeks | NICE antenatal care guideline NG201; ACOG |
+| NEWS2 chart and trigger thresholds (ch. 3) | Royal College of Physicians. National Early Warning Score (NEWS) 2. London: RCP; 2017 |
+| SpO₂ target 88–92% in patients at risk of hypercapnia (ch. 3 note) | British Thoracic Society guideline for oxygen use in adults, 2017 |
+| IMCI general danger signs in children (ch. 12 case and red flags) | WHO/UNICEF Integrated Management of Childhood Illness (IMCI) chart booklet, 2014 |
+| Bell phenomenon (up and out); mastoid abscess displaces the auricle down and forward | Standard neurology and ENT texts (e.g. Bailey & Love's Short Practice of Surgery, 28th ed.) |

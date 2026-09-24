@@ -15,7 +15,7 @@
   #block(inset: (right: 1.5em, top: -0.4em))[#it.description]
 ]
 
-#set document(title: "$title$"$if(author)$, author: "$for(author)$$author$$sep$, $endfor$"$endif$)
+#set document(title: "میتودهای کلینیکی علی", author: "داکتر الله یار فروتن", keywords: ("معاینه کلینیکی", "clinical examination", "Dari", "medical education", "ECG"), date: datetime(year: 2026, month: 9, day: 24))
 #set text(font: ("Vazirmatn",), size: $if(fontsize)$$fontsize$$else$10.5pt$endif$, lang: "fa", dir: rtl, fill: rgb("#1b1b1b"))
 #set par(justify: true, leading: 0.95em, spacing: 1.1em, first-line-indent: 0pt)
 
@@ -23,7 +23,9 @@
 #set table(stroke: 0.5pt + rgb("#9fb8bb"), inset: (x: 7pt, y: 5pt),
   fill: (x, y) => if y == 0 { teal } else if calc.even(y) { soft } else { white })
 #show table.cell.where(y: 0): set text(fill: white, weight: "bold")
+#show table.cell: set par(justify: false)
 #show figure.where(kind: table): set figure.caption(position: top)
+#show figure.where(kind: table): set block(breakable: true)
 #show figure.caption: set text(size: 8.5pt, fill: teal, weight: "bold")
 #set figure(numbering: none, gap: 0.6em, supplement: none)
 #show figure.where(kind: image): it => block(width: 100%, breakable: false, above: 1.2em, below: 1.2em,
@@ -40,8 +42,9 @@
 
 // ── headings ──
 #set heading(numbering: none)
+#show pagebreak.where(to: "odd"): set page(header: none, footer: none)
 #show heading.where(level: 1): it => {
-  pagebreak(weak: true, to: "odd")
+  pagebreak(weak: true$if(print-edition)$, to: "odd"$endif$)
   [#metadata("chapter-start") <chapter-start>]
   v(16%)
   align(center, block(width: 100%)[
@@ -83,16 +86,17 @@
   #set text(size: 9pt, fill: teal)
   #set align(center)
   ▣ #h(0.3em) #body]
-#show heading.where(level: 2): it => block(above: 1.8em, below: 0.9em, width: 100%,
+#show heading.where(level: 2): it => block(sticky: true, breakable: false, above: 1.8em, below: 0.9em, width: 100%,
   fill: soft, inset: (x: 10pt, y: 7pt), radius: 3pt,
   stroke: (right: 3.5pt + teal))[#text(size: 13.5pt, weight: "bold", fill: navy)[#it.body]]
-#show heading.where(level: 3): it => block(above: 1.4em, below: 0.6em)[
+#show heading.where(level: 3): it => block(sticky: true, above: 1.4em, below: 0.6em)[
   #text(size: 11.5pt, weight: "bold", fill: teal)[◆ #it.body]]
-#show heading.where(level: 4): it => block(above: 1.2em, below: 0.5em)[
+#show heading.where(level: 4): it => block(sticky: true, above: 1.2em, below: 0.5em)[
   #text(size: 10.5pt, weight: "bold", fill: navy)[#it.body]]
 #show strong: set text(fill: navy)
 
 // ════════════════ COVER ════════════════
+$if(print-edition)$$else$
 #page(paper: "a5", margin: 0pt, numbering: none, header: none, footer: none,
   background: image("assets/cover-art.jpg", width: 100%, height: 100%))[
   #v(15%)
@@ -108,6 +112,7 @@
     #text(fill: gold, size: 13pt, weight: "bold")[$for(author)$$author$$sep$ ، $endfor$]
   ]
 ]
+$endif$
 
 // ════════════════ FRONT MATTER ════════════════
 #set page(paper: "a5",
@@ -179,6 +184,7 @@ $endfor$
 ]
 
 // ════════════════ BODY ════════════════
+$if(print-edition)$#pagebreak(to: "odd", weak: true)$endif$
 #set page(
   numbering: "۱",
   header: context {
@@ -195,11 +201,44 @@ $endfor$
     }
   },
   footer: context {
+    let p = here().page()
     set text(size: 9pt, fill: navy)
     align(center)[— #counter(page).display("۱") —]
   },
 )
 #counter(page).update(1)
+// ── subject index with page numbers: mark every occurrence of an index term ──
+#let idx-re = regex(json("build/index-terms.json").pattern)
+#show idx-re: it => it + [#metadata(lower(it.text)) <idx>]
+#let book-index(terms) = context {
+  let stop = query(<backmatter>)
+  let stop-page = if stop.len() > 0 { stop.first().location().page() } else { 100000 }
+  let start-page = query(<chapter-start>).first().location().page()
+  let marks = query(<idx>).filter(m => m.location().page() >= start-page and m.location().page() < stop-page and m.location().position().y > 2.1cm)
+  let pages = (:)
+  for m in marks {
+    let k = m.value
+    let n = counter(page).at(m.location()).first()
+    let prev = pages.at(k, default: ())
+    if n not in prev { prev.push(n) }
+    pages.insert(k, prev)
+  }
+  let fmt(n) = numbering("۱", n)
+  set par(justify: false, first-line-indent: 0pt, hanging-indent: 1em, spacing: 0.45em)
+  set text(size: 9pt)
+  columns(2, gutter: 1.2em, for t in terms {
+    let ps = pages.at(lower(t), default: ())
+    // collapse runs of consecutive pages into ranges
+    let out = (); let i = 0
+    while i < ps.len() {
+      let j = i
+      while j + 1 < ps.len() and ps.at(j + 1) == ps.at(j) + 1 { j += 1 }
+      out.push(box(if j > i { fmt(ps.at(i)) + "–" + fmt(ps.at(j)) } else { fmt(ps.at(i)) }))
+      i = j + 1
+    }
+    block(breakable: false)[*#t*#h(0.4em)#text(fill: rgb("#136f73"))[#out.join([، ])]]
+  })
+}
 
 $if(draft-watermark)$
 #set page(background: rotate(-35deg, text(size: 34pt, fill: rgb(200, 30, 30, 35), weight: "bold")[$draft-watermark$]))

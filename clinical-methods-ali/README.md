@@ -1,19 +1,21 @@
 # میتودهای کلینیکی علی (داکتر الله یار فروتن)
 
-**Status: final edition v1.2 (September 2026).** Evaluation and roadmap: `EVALUATION.md`. The finished files are in `release/`:
+**Status: edition v1.3, pre-press audited (September 2026).** Evaluation: `EVALUATION.md`. Print specification and checklist: `PUBLISHING.md`. The finished files are in `release/`:
 
 | File | Use |
 |---|---|
-| `release/clinical-methods-ali.pdf` | Print / screen, A5, RTL, 426 pages |
+| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 426 pages, no cover, chapters open on recto, vector figures |
+| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 23.4 mm spine + front, 3 mm bleed) |
+| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 416 pages, subject index with page numbers |
 | `release/clinical-methods-ali.epub` | E-book (EPUB 3, RTL; epubcheck: 0 errors, 0 warnings) |
 | `release/clinical-methods-ali.docx` | Editable Word version |
 
 ## What this edition contains
 - The full edited text of all 14 chapters and the lab-values appendix, in Afghan Dari.
 - **Scientific review v2.** 56 values and statements were cross-checked against current references and corrected. See `CHANGELOG-editorial.md` (each change has the original wording) and `SOURCES.md`.
-- **57 figures drawn for this edition:**
+- **63 figures drawn for this edition:**
   - 41 schematic ECG diagrams (chapter 14)
-  - 16 mind maps, schematics and summary tables (chapters 1–13)
+  - 22 mind maps, algorithms, schematics and summary tables (chapters 1–13)
 
   All are original schematics. The ECGs are synthetic, drawn at 25 mm/s and 10 mm/mV.
 - **No ISBN yet.** The imprint page states this.
@@ -23,8 +25,15 @@
 - Every chapter now has objectives, red flags, key points, a clinical case and a self-test.
 - 5 algorithms, an ABCDE/NEWS2/POCUS section, a glossary, a subject index and references.
 
+## v1.3 additions (pre-publication audit)
+- Editorial: author typos fixed, Dari names for English-only headings, sequential figure numbering, real chemical subscripts.
+- Layout: sticky headings, breakable tables with repeated headers, clean blank pages, print edition with recto chapter openings.
+- Design: NEWS2 chart redrawn legibly; all figures are vector in the PDF.
+- Publishing: cover wrap, page-numbered subject index, full EPUB/PDF/DOCX metadata (stable EPUB identifier, accessibility), `PUBLISHING.md`.
+
 ## Known limitations
-- Chapter 5 (chest X-ray) has no real radiographs, because no licensed images were available. The list of suggested images is kept.
+- Chapter 5 (chest X-ray) has no real radiographs, because no licensed images were available. The list of findings to look up in an atlas is kept.
+- The front-cover artwork is about 145 dpi at A5; a 300 dpi version is needed for offset printing (see `PUBLISHING.md`).
 - The corrected values follow international guidelines as of 2026. The author may review them (`AUTHOR-QUERIES.md`).
 
 ## Source files
@@ -35,5 +44,6 @@
 ```bash
 python3 tools/figures/make_ecg_data.py && python3 tools/figures/render.py   # figures
 python3 tools/edit_master.py && python3 tools/style_pass.py && ./build.sh                                 # book
-cp build/clinical-methods-ali.{pdf,epub,docx} release/
+python3 tools/cover/make_cover.py [--caliper 0.055]                                                     # cover wrap
+cp build/clinical-methods-ali{.pdf,.epub,.docx,-print-interior.pdf,-cover-wrap.pdf} release/
 ```

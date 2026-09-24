@@ -418,17 +418,17 @@
         Q("ضعف با خستگی‌پذیری، ptosis، حسیت نارمل"), N("اتصال عصبی‌ـ‌عضلی (myasthenia)"),
         Q("ضعف پروکسیمال دو طرفه، حسیت و عکسات نارمل"), N("Myopathy")))
   },
-  "tbl-news2": { set text(dir: rtl); stack(dir: ttb, spacing: 0pt, table(columns: (27mm, 15mm, 15mm, 20mm, 20mm, 20mm, 16mm, 23mm), stroke: 0.5pt + rgb("#9fb8bb"), inset: 3.5pt, align: center + horizon,
+  "tbl-news2": { set text(dir: rtl); let enb(b, size: 7.6pt) = box(en(b, size: size)); stack(dir: ttb, spacing: 0pt, table(columns: (21mm, 11mm, 12mm, 14mm, 14mm, 14mm, 12mm, 12mm), stroke: 0.5pt + rgb("#9fb8bb"), inset: (x: 1.5pt, y: 3.5pt), align: center + horizon,
     fill: (x, y) => if y == 0 { navy } else if x == 0 { soft } else { white },
-    ..("پارامتر", "۳", "۲", "۱", "۰", "۱", "۲", "۳").map(h => fa(h, size: 7pt, fill: white, weight: "bold")),
-    fa("ریت تنفس", size: 6.8pt), en("≤8", size: 6.8pt), en("", size: 6.8pt), en("9–11", size: 6.8pt), en("12–20", size: 6.8pt), en("", size: 6.8pt), en("21–24", size: 6.8pt), en("≥25", size: 6.8pt),
-    fa("SpO₂ (مقیاس ۱) ٪", size: 6.8pt), en("≤91", size: 6.8pt), en("92–93", size: 6.8pt), en("94–95", size: 6.8pt), en("≥96", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt),
-    fa("اکسیجن اضافی", size: 6.8pt), en("", size: 6.8pt), fa("بلی", size: 6.8pt), en("", size: 6.8pt), fa("نخیر", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt),
-    fa("فشار سستولیک", size: 6.8pt), en("≤90", size: 6.8pt), en("91–100", size: 6.8pt), en("101–110", size: 6.8pt), en("111–219", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("≥220", size: 6.8pt),
-    fa("نبض", size: 6.8pt), en("≤40", size: 6.8pt), en("", size: 6.8pt), en("41–50", size: 6.8pt), en("51–90", size: 6.8pt), en("91–110", size: 6.8pt), en("111–130", size: 6.8pt), en("≥131", size: 6.8pt),
-    fa("شعور", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), fa("Alert", size: 6.8pt), en("", size: 6.8pt), en("", size: 6.8pt), en("New C/V/P/U", size: 6.4pt),
-    fa("درجه حرارت °C", size: 6.8pt), en("≤35.0", size: 6.8pt), en("", size: 6.8pt), en("35.1–36.0", size: 6.8pt), en("36.1–38.0", size: 6.8pt), en("38.1–39.0", size: 6.8pt), en("≥39.1", size: 6.8pt), en("", size: 6.8pt),
-    ), box(width: 156mm, fill: rgb("#fbf6ea"), stroke: 0.5pt + rgb("#9fb8bb"), inset: 4pt, fa("مجموع ۰–۴: خطر کم (نظارت معمول) • یک پارامتر ۳ یا مجموع ۵–۶: خطر متوسط (ارزیابی عاجل داکتر) • مجموع ۷ یا بیشتر: خطر بلند (ارزیابی عاجل تیم حالات عاجل)", size: 6.6pt))) },
+    ..("پارامتر", "۳", "۲", "۱", "۰", "۱", "۲", "۳").map(h => fa(h, size: 8pt, fill: white, weight: "bold")),
+    fa("ریت تنفس", size: 7.6pt), enb("≤8", size: 7.6pt), enb("", size: 7.6pt), enb("9–11", size: 7.6pt), enb("12–20", size: 7.6pt), enb("", size: 7.6pt), enb("21–24", size: 7.6pt), enb("≥25", size: 7.6pt),
+    fa("SpO₂ (مقیاس ۱) ٪", size: 7.6pt), enb("≤91", size: 7.6pt), enb("92–93", size: 7.6pt), enb("94–95", size: 7.6pt), enb("≥96", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt),
+    fa("اکسیجن اضافی", size: 7.6pt), enb("", size: 7.6pt), fa("بلی", size: 7.6pt), enb("", size: 7.6pt), fa("نخیر", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt),
+    fa("فشار سستولیک", size: 7.6pt), enb("≤90", size: 7.6pt), enb("91–100", size: 7.6pt), enb("101–110", size: 7.6pt), enb("111–219", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt), enb("≥220", size: 7.6pt),
+    fa("نبض", size: 7.6pt), enb("≤40", size: 7.6pt), enb("", size: 7.6pt), enb("41–50", size: 7.6pt), enb("51–90", size: 7.6pt), enb("91–110", size: 7.6pt), enb("111–130", size: 7.6pt), enb("≥131", size: 7.6pt),
+    fa("شعور", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt), fa("Alert", size: 7.6pt), enb("", size: 7.6pt), enb("", size: 7.6pt), enb("New CVPU", size: 6.6pt),
+    [#fa("درجه حرارت", size: 7.6pt) #enb("°C", size: 7.6pt)], enb("≤35.0", size: 7.6pt), enb("", size: 7.6pt), enb("35.1–36.0", size: 7.6pt), enb("36.1–38.0", size: 7.6pt), enb("38.1–39.0", size: 7.6pt), enb("≥39.1", size: 7.6pt), enb("", size: 7.6pt),
+    ), box(width: 110mm, fill: rgb("#fbf6ea"), stroke: 0.5pt + rgb("#9fb8bb"), inset: 4pt, fa("مجموع ۰–۴: خطر کم (نظارت معمول) • یک پارامتر ۳ یا مجموع ۵–۶: خطر متوسط (ارزیابی عاجل داکتر) • مجموع ۷ یا بیشتر: خطر بلند (ارزیابی عاجل تیم حالات عاجل)", size: 7.4pt))) },
 
 )
 

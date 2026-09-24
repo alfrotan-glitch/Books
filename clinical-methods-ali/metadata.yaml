@@ -7,7 +7,22 @@ lang: fa-AF
 dir: rtl
 page-progression-direction: rtl
 rights: "© ۲۰۲۶ داکتر الله یار فروتن. تمام حقوق محفوظ است."
-description: "کتاب درسی معاینات کلینیکی به زبان دری."
+description: "رهنمای درسی معاینات کلینیکی به زبان دری: تاریخچه‌گیری، معاینه عمومی و سیستمیک (قلبی‌وعایی، تنفسی، هضمی، عصبی، حرکی)، معاینه ولادی، نسایی، اطفال، گوش و بینی و گلو، و خوانش ECG؛ با ۶۳ شکل، ۱۵ کیس کلینیکی، سؤالات خودآزمایی، جدول اندازه‌های نارمل و فهرست اصطلاحات."
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:9bf26109-bf92-52c2-9133-548a0fe31251"
+subject:
+  - "طب کلینیکی"
+  - "معاینه فزیکی"
+  - "Physical examination"
+  - "Clinical medicine"
+  - "Medical education — Dari"
+keywords: ["معاینه کلینیکی", "تاریخچه‌گیری", "ECG", "طب دری", "clinical examination", "physical examination"]
+accessModes: ["textual", "visual"]
+accessModeSufficient: ["textual,visual", "textual"]
+accessibilityFeatures: ["alternativeText", "readingOrder", "structuralNavigation", "tableOfContents", "displayTransformability"]
+accessibilityHazards: ["none"]
+accessibilitySummary: "متن کتاب کاملاً متنی و قابل تغییر اندازه است؛ همه شکل‌ها متن جایگزین (alt) دارند؛ فصل‌ها و عنوان‌ها ساختار ناویگیشن دارند. Fully reflowable text; every figure has alternative text; structured headings and table of contents."
 # publisher: ""                       # TODO: author to supply (not invented)
 toc: true
 toc-depth: 2

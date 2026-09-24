@@ -27,6 +27,15 @@ import sys, typst
 typst.compile(sys.argv[1], output=sys.argv[2], root=".", font_paths=["fonts"], ignore_system_fonts=True)
 PY
 
+echo "PDF print interior (no cover, chapters open on recto)..."
+"$PANDOC" metadata.yaml "$SRC" -f markdown -t typst --lua-filter=tools/book.lua --standalone --template=templates/book.typst -M print-edition=true -o "$OUT/$SLUG-print.typ"
+sed -i 's/numbering: "1\./numbering: "۱./g' "$OUT/$SLUG-print.typ"
+cp "$OUT/$SLUG-print.typ" ./.book.typ
+python3 - ./.book.typ "$OUT/$SLUG-print-interior.pdf" <<'PY'
+import sys, typst
+typst.compile(sys.argv[1], output=sys.argv[2], root=".", font_paths=["fonts"], ignore_system_fonts=True)
+PY
+
 echo "EPUB3..."
 "$PANDOC" metadata.yaml "$SRC" -f markdown -t epub3 --lua-filter=tools/book.lua --epub-title-page=false --split-level=1 --template=templates/epub3.html --epub-cover-image=assets/cover.jpg --toc --toc-depth=2 \
   --epub-embed-font='fonts/*.ttf' --css epub.css -o "$OUT/$SLUG.epub"

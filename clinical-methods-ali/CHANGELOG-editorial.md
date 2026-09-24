@@ -195,3 +195,43 @@ These changes replace the earlier "flagged, not changed" status of items M1–M1
   - 5 algorithms: ABCDE, chest pain, dyspnoea, jaundice and weakness localisation.
   - A new section in chapter 3 on ABCDE, NEWS2 (RCP 2017) and POCUS.
   - Appendices: a glossary (76 terms), a subject index (87 entries, by chapter) and 17 numbered references.
+
+## v1.3: pre-publication audit (editing, layout, design, publishing)
+
+### Scientific wording changes made in v1.2, logged now (produced by `tools/rewrites_v12.py`)
+| Location | Classification | Change | Original wording |
+|---|---|---|---|
+| Ch. 9, facial nerve | Scientific | Bell phenomenon: the eyeball rolls **up and out** | «به طرف علوی و انسی» (up and in) |
+| Ch. 13, mastoid abscess | Scientific | Auricle pushed **down and forward** (Bailey & Love) | «به طرف سفلی و خلفی» (down and back) |
+| Ch. 7, striae | Terminology | striae albicans | «linea albicans» |
+| Ch. 3, Hutchinson pupil | Clarification | Ipsilateral constriction, then dilatation, then the other side; marked as a danger sign of raised pressure / brainstem compression | same facts, unclear wording |
+| Ch. 7, IVC obstruction | Scientific (added) | Collateral flow runs **upwards** (below → above), which distinguishes it from caput medusae | flow direction not stated |
+| Ch. 7, erythema ab igne | Clarification | Reticulated (net-like) brown pigmentation from repeated hot-water bottles | «تصبغ خال‌مانند» |
+| Ch. 14, Cheyne–Stokes | Language | duplicated clause («، و این دوره تکرار می‌شود») removed | — |
+
+### Editorial fixes (`tools/style_pass.py`, block 3b)
+| Location | Classification | Change | Original wording |
+|---|---|---|---|
+| Whole book | Typo | «چهل چهل» → «چهار»/«چهل»/«چهل و چهار» by context | «چهل چهل» |
+| Whole book | Typo | «بار بار» → «پی‌درپی»; «کوچک کوچک» → «خط مریض بسیار ریز می‌شود» | duplicated words |
+| Ch. 14 | Scientific term | «ریتم منظماً غیر منظم (Regularly irregular rhythm)» | «ریت غیر منظم منظم» |
+| 9 H2 + 11 H3 headings | Terminology | Dari name added to English-only headings (Hemoptysis, CARDIOMYOPATHY, appendix sections, Clubbing … Dextrocardia) | English only |
+| Ch. 1 | Structural | «## یادداشت» heading → note box; a list following a note ending in «:» moved into the box | — |
+| Whole book | Typography | Unicode subscripts (O₂, CO₂, HCO₃) → real subscripts (the Vazirmatn font lacks ₂ ₃) | — |
+| Ch. 5 | Structural | Placeholder list of radiographs no longer uses «شکل ۵.n» numbers (these images do not exist; the numbers clashed with the real figures and 5.9 was missing). Retitled «یافته‌های رادیوگرافیک که باید در اطلس رادیولوژی دیده شوند» | «فهرست رادیوگرافی‌های پیشنهادی…»، «شکل ۵.۱ … ۵.۱۷» |
+| All captions | Structural | 63 captions renumbered in order of appearance inside each chapter (before: «الگوریتم ۲.۲» came before «۲.۱», and there were two «۳.۰») | — |
+
+### Layout and design (`templates/book.typst`, `tools/book.lua`, `tools/figures/`)
+- H2–H4 headings are `sticky`: a heading never sits alone at the bottom of a page.
+- Long tables break across pages (the pandoc `figure` wrapper was unbreakable, which left a blank page before the lab appendix) and repeat their header row. Table cells are no longer justified (there were wide gaps in the value columns).
+- **Print edition** (`-M print-edition=true`): no cover page; every chapter opens on a recto (odd) page; inserted blank pages carry no running head or folio. The screen PDF has no forced blank pages (416 pages; the print interior has 426).
+- NEWS2 chart redrawn at text width (7.6 pt text; it was scaled to about 4.7 pt).
+- Figures: PNG at 400 ppi (EPUB/DOCX) and **vector SVG** in the PDF (0 raster images in the interior).
+- Subject index in the PDF with **page numbers** (Typst marks every occurrence of the term); page runs are shown as ranges. EPUB/DOCX keep chapter numbers.
+- PDF metadata: the title and author no longer contain a newline; keywords and date added.
+
+### Publishing
+- `tools/cover/make_cover.py`: full cover wrap (front + spine + back with blurb, 3 mm bleed; spine computed from the page count and paper caliper).
+- EPUB: stable identifier (UUID v5 instead of a new random one on every build), `dc:subject`, a fuller description, and accessibility metadata (`accessMode` textual+visual, `accessibilitySummary`, `displayTransformability`). epubcheck: 0 errors, 0 warnings.
+- DOCX: keywords in the core properties.
+- `PUBLISHING.md`: metadata sheet, print specification and a pre-press checklist.
