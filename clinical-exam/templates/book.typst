@@ -139,7 +139,7 @@ $if(print-edition)$$else$
     #v(0.1em)
     $if(subtitle)$#text(fill: rgb("#e8d7b0"), size: 17pt, weight: "bold")[$subtitle$]$endif$
     #v(0.3em)
-    #text(fill: rgb("#d9e8e8"), size: 11pt)[رهنمای عملی برای محصلان طب و داکتران جوان]
+    #text(fill: rgb("#d9e8e8"), size: 11pt)[رهنمای کنار بستر برای محصلان طب، داکتران جوان و متخصصان]
     #v(0.5em)
     #line(length: 35%, stroke: 1pt + gold)
     #v(0.6em)
@@ -164,6 +164,8 @@ $endif$
     #text(size: 26pt, weight: "bold", fill: navy)[$title$]
     #v(0.2em)
     $if(subtitle)$#text(size: 13pt, fill: teal)[$subtitle$]$endif$
+    $if(tagline)$#v(0.3em)
+    #text(size: 9.5pt, fill: rgb("#555"))[$tagline$]$endif$
     #v(0.8em)
     #line(length: 40%, stroke: 1pt + gold)
     #v(2.5em)
@@ -184,7 +186,8 @@ $endif$
   #set par(justify: false, leading: 0.8em)
   #show table.cell: set text(fill: black, weight: "regular")
   #grid(columns: (auto, 1fr), column-gutter: 6pt, row-gutter: 6pt,
-    [*نام کتاب:*], [$title$$if(subtitle)$: $subtitle$$endif$],
+    [*نام کتاب:*], [$title$$if(subtitle)$: $subtitle$$endif$$if(tagline)$ — $tagline$$endif$],
+    $if(title-en)$[*نام انگلیسی:*], [#text(dir: ltr)[$title-en$]],$endif$
     [*مؤلف:*], [$for(author)$$author$$sep$ ، $endfor$],
     $if(publisher)$[*ناشر:*], [$publisher$],$endif$
     $if(edition)$[*نوبت چاپ:*], [$edition$],$endif$

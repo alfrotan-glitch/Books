@@ -21,6 +21,7 @@ def meta(key):
 TITLE, SUB, AUTHOR = meta('title'), meta('subtitle'), meta('author')
 EDITION, DATE, RIGHTS = meta('edition'), meta('date-display'), meta('rights')
 PUBLISHER, ISBN = meta('publisher'), meta('isbn')
+TAGLINE, TITLE_EN = meta('tagline'), meta('title-en')
 
 tmp = tempfile.mkdtemp()
 with zipfile.ZipFile(src) as z:
@@ -80,12 +81,15 @@ for fn in sorted(os.listdir(T)):
     if et in ('index', 'glossary', 'bibliography'): landmarks[et] = anchor
 
 # ---- title page + copyright page ----
-rows = [('نام کتاب', f'{TITLE}: {SUB}' if SUB else TITLE), ('مؤلف', AUTHOR)]
+full = (f'{TITLE}: {SUB}' if SUB else TITLE) + (f' — {TAGLINE}' if TAGLINE else '')
+rows = [('نام کتاب', full)]
+if TITLE_EN: rows.append(('نام انگلیسی', TITLE_EN))
+rows.append(('مؤلف', AUTHOR))
 if PUBLISHER: rows.append(('ناشر', PUBLISHER))
 if EDITION: rows.append(('نوبت چاپ', EDITION))
 if DATE: rows.append(('سال نشر', DATE))
 if ISBN: rows.append(('شابک (ISBN)', ISBN))
-dl = '\n'.join(f'<div><dt>{html.escape(a)}:</dt> <dd>{html.escape(b)}</dd></div>' for a, b in rows)
+dl = '\n'.join(f'<div><dt>{html.escape(a)}:</dt> <dd' + (' dir="ltr" lang="en"' if a == 'نام انگلیسی' else '') + f'>{html.escape(b)}</dd></div>' for a, b in rows)
 head = lambda title: f'''<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="fa-AF" xml:lang="fa-AF" dir="rtl">
@@ -101,6 +105,7 @@ open(os.path.join(T, 'titlepage.xhtml'), 'w', encoding='utf-8').write(head(TITLE
 <section class="titlepage" epub:type="titlepage">
   <h1 class="book-title">{html.escape(TITLE)}</h1>
   <p class="book-subtitle">{html.escape(SUB)}</p>
+  {f'<p class="book-tagline">{html.escape(TAGLINE)}</p>' if TAGLINE else ''}
   <hr class="gold" />
   <p class="book-by">تألیف</p>
   <p class="book-author">{html.escape(AUTHOR)}</p>
@@ -157,6 +162,8 @@ if dm:
 else:
     opf = opf.replace('<itemref idref="nav" />', '<itemref idref="titlepage" />\n    <itemref idref="nav" />', 1)
 extra = ''
+if TITLE_EN and 'alternate-script' not in opf:
+    extra += f'    <meta refines="#epub-title-1" property="alternate-script" xml:lang="en">{html.escape(TITLE_EN)}</meta>\n'
 if 'ibooks:specified-fonts' not in opf:
     extra += '    <meta property="ibooks:specified-fonts">true</meta>\n'
 if 'accessibilityFeature">ARIA' not in opf:

@@ -42,7 +42,7 @@ src = f'''
     #v(0.1em)
     #text(fill: rgb("#e8d7b0"), size: 17pt, weight: "bold")[از تاریخچه تا تشخیص]
     #v(0.3em)
-    #text(fill: rgb("#d9e8e8"), size: 11pt)[رهنمای عملی برای محصلان طب و داکتران جوان]
+    #text(fill: rgb("#d9e8e8"), size: 11pt)[رهنمای کنار بستر برای محصلان طب، داکتران جوان و متخصصان]
     #v(0.5em)
     #line(length: 35%, stroke: 1pt + gold)
     #v(0.6em)
