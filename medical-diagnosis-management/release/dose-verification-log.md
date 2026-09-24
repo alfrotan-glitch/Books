@@ -206,3 +206,14 @@
 | Meropenem/Imipenem در نکروز انتان‌یافته؛ Insulin ۰.۱ U/kg/h در TG بلند؛ Calcium gluconate؛ Enoxaparin ۴۰ mg | فورمولری | 🟡 |
 | PERT ۴۰–۵۰ هزار / ۲۰–۲۵ هزار واحد Lipase؛ Pregabalin ۷۵–۳۰۰ mg دو بار؛ Tramadol؛ Prednisolone در AIP | UEG 2017؛ AGA 2023؛ Olesen 2011 | 🟡 |
 | Indomethacin/Diclofenac ۱۰۰ mg مقعدی پیش از ERCP | ESGE/ASGE | 🟡 |
+
+## فصل ۳۰ — سیروز
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Spironolactone ۱۰۰ + Furosemide ۴۰ (حد اکثر ۴۰۰/۱۶۰)؛ البومین ۶–۸ g/L برای LVP بیش از ۵ L | AASLD 2021؛ EASL 2018 | 🟡 (از دانش) |
+| SBP: PMN ≥۲۵۰؛ Cefotaxime ۲ g هر ۸ ساعت / Ceftriaxone؛ البومین ۱.۵ g/kg روز ۱ + ۱ g/kg روز ۳؛ پیشگیری Norfloxacin ۴۰۰ / Ciprofloxacin ۵۰۰ روزانه | AASLD 2021؛ Sort 1999 | 🟡 |
+| HRS-AKI: البومین ۱ g/kg × ۲ روز؛ Terlipressin ۱ mg هر ۴–۶ ساعت یا ۲ mg/روز انفیوژن، حد اکثر ۱۲ mg/روز، ≤ ۱۴ روز؛ منع SpO₂ کمتر از ۹۰ | ICA؛ CONFIRM؛ برچسب FDA | 🟡 |
+| Carvedilol ۶.۲۵ ← ۱۲.۵ mg/روز؛ Propranolol | Baveno VII | 🟡 |
+| TDF ۳۰۰، ETV ۰.۵/۱ mg، TAF ۲۵؛ SOF/VEL ۱۲ هفته ± RBV؛ UDCA ۱۳–۱۵ mg/kg؛ Cholestyramine؛ Rifampicin؛ Baclofen؛ Midodrine/Octreotide | AASLD/EASL | 🟡 |
+| تغذیه: ۳۵ kcal/kg و پروتین ۱.۲–۱.۵ g/kg | EASL 2019 | 🟡 |
+| Resmetirom (FDA 2024)؛ Semaglutide برای MASH (2025) | — | 🟡 باید تأیید شود |
