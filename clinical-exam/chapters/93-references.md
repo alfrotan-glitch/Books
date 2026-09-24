@@ -49,6 +49,21 @@
 31. Bus SA, et al. IWGDF Guidelines on the Prevention and Management of Diabetes-Related Foot Disease. Diabetes Metab Res Rev 2024;40:e3651.
 32. Umpierrez GE, et al. Hyperglycemic Crises in Adults With Diabetes: A Consensus Report. Diabetes Care 2024;47:1257–1275.
 33. WHO EMRO. WHO and national health partners complete malaria programme review in Afghanistan. 2026.
+34. British Thoracic Society, SIGN. British Guideline on the Management of Asthma (SIGN 158). Edinburgh: SIGN; 2019.
+35. Workowski KA, et al. Sexually Transmitted Infections Treatment Guidelines, 2021. MMWR Recomm Rep 2021;70(4):1–187.
+36. Centers for Disease Control and Prevention. STEADI: Timed Up and Go (TUG) Assessment. Atlanta: CDC; 2017.
+37. Munro MG, et al. The two FIGO systems for normal and abnormal uterine bleeding symptoms (2018 revision). Int J Gynaecol Obstet 2018;143:393–408.
+38. Ayres-de-Campos D, et al. FIGO consensus guidelines on intrapartum fetal monitoring: cardiotocography. Int J Gynaecol Obstet 2015;131:13–24.
+39. NICE CG122. Ovarian Cancer: Recognition and Initial Management. London; 2011 (updated).
+40. WHO. Guidelines on Basic Newborn Resuscitation. Geneva; 2012; American Academy of Pediatrics. Helping Babies Breathe. 2nd ed.
+
+## گزارش‌های صحت عامه
+
+1. IARC. Smokeless Tobacco and Some Tobacco-specific N-Nitrosamines. IARC Monographs Vol. 89. Lyon; 2007; Vol. 100E. Lyon; 2012.
+2. UN Inter-agency Group for Child Mortality Estimation (UN IGME). Levels and Trends in Child Mortality. New York: UNICEF; 2024.
+3. WHO, UNICEF, UNFPA, World Bank Group, UNDESA/Population Division. Trends in Maternal Mortality 2000 to 2020. Geneva: WHO; 2023.
+4. WHO. World Report on Vision. Geneva: WHO; 2019.
+5. WHO EMRO. Cutaneous leishmaniasis in Afghanistan (country profile).
 
 ## مقاله‌های تحقیقی
 
@@ -57,30 +72,50 @@
 3. Backus BE, et al. A prospective validation of the HEART score for chest pain patients. Int J Cardiol 2013;168:2153–2158.
 4. Banks PA, et al. Classification of acute pancreatitis—2012: revision of the Atlanta classification and definitions by international consensus. Gut 2013;62:102–111.
 5. Barton MB, Harris R, Fletcher SW. Does this patient have breast cancer? JAMA 1999;282:1270–1280.
-6. Bruce BB, et al. Nonmydriatic ocular fundus photography in the emergency department. N Engl J Med 2011;364:387–389.
-7. Canto JG, et al. Prevalence of patients with acute myocardial infarction presenting without chest pain. JAMA 2000;283:3223–3229.
-8. Centor RM, et al. The diagnosis of strep throat in adults in the emergency room. Med Decis Making 1981;1:239–246.
-9. Croskerry P. The importance of cognitive errors in diagnosis. Acad Med 2003;78:775–780.
-10. Eddleston M, et al. Management of acute organophosphorus pesticide poisoning. Lancet 2008;371:597–607.
-11. Fleming S, et al. Normal ranges of heart rate and respiratory rate in children. Lancet 2011;377:1011–1018.
-12. Fried LP, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A 2001;56:M146–M156.
-13. Hamdard E, et al. Silent public threat: Crimean-Congo hemorrhagic fever outbreak spikes during Eid-al-Adha in Afghanistan. J Infect Public Health 2025;18:102591.
-14. Hampton JR, et al. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis. BMJ 1975;2:486–489.
-15. Heritage J, et al. Reducing patients' unmet concerns in primary care. J Gen Intern Med 2007;22:1429–1433.
-16. Inouye SK, et al. Clarifying confusion: the Confusion Assessment Method. Ann Intern Med 1990;113:941–948.
-17. Kattah JC, et al. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke 2009;40:3504–3510.
-18. Langewitz W, et al. Spontaneous talking time at start of consultation. BMJ 2002;325:682–683.
-19. Lim WS, et al. Defining community acquired pneumonia severity on presentation (CURB-65). Thorax 2003;58:377–382.
-20. Marvel MK, et al. Soliciting the patient's agenda. JAMA 1999;281:283–287.
-21. Peterson MC, et al. Contributions of the history, physical examination, and laboratory investigation in making medical diagnoses. West J Med 1992;156:163–165.
-22. Saver JL. Time is brain—quantified. Stroke 2006;37:263–266.
-23. Schein RM, et al. Clinical antecedents to in-hospital cardiopulmonary arrest. Chest 1990;98:1388–1392.
-24. Singer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 2016;315:801–810.
-25. Singh Ospina N, et al. Eliciting the patient's agenda. J Gen Intern Med 2019;34:36–40.
-26. Sjoding MW, et al. Racial bias in pulse oximetry measurement. N Engl J Med 2020;383:2477–2478.
-27. Starmer AJ, et al. Changes in medical errors after implementation of a handoff program. N Engl J Med 2014;371:1803–1812.
-28. Studenski S, et al. Gait speed and survival in older adults. JAMA 2011;305:50–58.
-29. Teasdale G, Jennett B. Assessment of coma and impaired consciousness. Lancet 1974;2:81–84.
-30. Verghese A, et al. Inadequacies of physical examination as a cause of medical errors and adverse events. Am J Med 2015;128:1322–1324.
-31. Wells PS, et al. Evaluation of D-dimer in the diagnosis of suspected deep-vein thrombosis. N Engl J Med 2003;349:1227–1235.
-32. Young Infants Clinical Signs Study Group. Clinical signs that predict severe illness in children under age 2 months. Lancet 2008;371:135–142.
+6. Benjaminse A, Gokeler A, van der Schans CP. Clinical diagnosis of an anterior cruciate ligament rupture: a meta-analysis. J Orthop Sports Phys Ther 2006;36:267–288.
+7. Bruce BB, et al. Nonmydriatic ocular fundus photography in the emergency department. N Engl J Med 2011;364:387–389.
+8. Canto JG, et al. Prevalence of patients with acute myocardial infarction presenting without chest pain. JAMA 2000;283:3223–3229.
+9. Centor RM, et al. The diagnosis of strep throat in adults in the emergency room. Med Decis Making 1981;1:239–246.
+10. Croskerry P. The importance of cognitive errors in diagnosis. Acad Med 2003;78:775–780.
+11. Dazzi T, et al. Does asking about suicide and related behaviours induce suicidal ideation? What is the evidence? Psychol Med 2014;44:3361–3363.
+12. Doherty M, et al. The 'GALS' locomotor screen. Ann Rheum Dis 1992;51:1165–1169.
+13. Eddleston M, et al. Management of acute organophosphorus pesticide poisoning. Lancet 2008;371:597–607.
+14. Fleming S, et al. Normal ranges of heart rate and respiratory rate in children. Lancet 2011;377:1011–1018.
+15. Fried LP, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A 2001;56:M146–M156.
+16. Gaddey HL, Riegel AM. Unexplained lymphadenopathy: evaluation and differential diagnosis. Am Fam Physician 2016;94:896–903.
+17. Grover SA, Barkun AN, Sackett DL. Does this patient have splenomegaly? JAMA 1993;270:2218–2221.
+18. Hamdard E, et al. Silent public threat: Crimean-Congo hemorrhagic fever outbreak spikes during Eid-al-Adha in Afghanistan. J Infect Public Health 2025;18:102591.
+19. Hampton JR, et al. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis. BMJ 1975;2:486–489.
+20. Heritage J, et al. Reducing patients' unmet concerns in primary care. J Gen Intern Med 2007;22:1429–1433.
+21. Inouye SK, et al. Clarifying confusion: the Confusion Assessment Method. Ann Intern Med 1990;113:941–948.
+22. Kattah JC, et al. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke 2009;40:3504–3510.
+23. Kovess-Masfety V, et al. A national survey on depressive and anxiety disorders in Afghanistan: a highly traumatized population. BMC Psychiatry 2021;21:314.
+24. Langewitz W, et al. Spontaneous talking time at start of consultation. BMJ 2002;325:682–683.
+25. Lederle FA, Simel DL. Does this patient have abdominal aortic aneurysm? JAMA 1999;281:77–82.
+26. Lim WS, et al. Defining community acquired pneumonia severity on presentation (CURB-65). Thorax 2003;58:377–382.
+27. Marvel MK, et al. Soliciting the patient's agenda. JAMA 1999;281:283–287.
+28. McGee S. Simplifying likelihood ratios. J Gen Intern Med 2002;17:647–650.
+29. Metlay JP, Kapoor WN, Fine MJ. Does this patient have community-acquired pneumonia? JAMA 1997;278:1440–1445.
+30. Myers KA, Farquhar DR. Does this patient have clubbing? JAMA 2001;286:341–347.
+31. Peterson MC, et al. Contributions of the history, physical examination, and laboratory investigation in making medical diagnoses. West J Med 1992;156:163–165.
+32. Roy CL, et al. Does this patient with a pericardial effusion have cardiac tamponade? JAMA 2007;297:1810–1818.
+33. Saver JL. Time is brain—quantified. Stroke 2006;37:263–266.
+34. Schein RM, et al. Clinical antecedents to in-hospital cardiopulmonary arrest. Chest 1990;98:1388–1392.
+35. Siminoski K. Does this patient have a goiter? JAMA 1995;273:813–817.
+36. Singer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 2016;315:801–810.
+37. Singh Ospina N, et al. Eliciting the patient's agenda. J Gen Intern Med 2019;34:36–40.
+38. Sjoding MW, et al. Racial bias in pulse oximetry measurement. N Engl J Med 2020;383:2477–2478.
+39. Starmer AJ, et al. Changes in medical errors after implementation of a handoff program. N Engl J Med 2014;371:1803–1812.
+40. Straus SE, et al. The accuracy of patient history, wheezing, and laryngeal measurements in diagnosing obstructive airway disease. JAMA 2000;283:1853–1857.
+41. Studenski S, et al. Gait speed and survival in older adults. JAMA 2011;305:50–58.
+42. Swap CJ, Nagurney JT. Value and limitations of chest pain history in the evaluation of patients with suspected acute coronary syndromes. JAMA 2005;294:2623–2629.
+43. Teasdale G, Jennett B. Assessment of coma and impaired consciousness. Lancet 1974;2:81–84.
+44. Thomas KE, et al. The diagnostic accuracy of Kernig's sign, Brudzinski's sign, and nuchal rigidity in adults with suspected meningitis. Clin Infect Dis 2002;35:46–52.
+45. Trowbridge RL, Rutkowski NK, Shojania KG. Does this patient have acute cholecystitis? JAMA 2003;289:80–86.
+46. Verghese A, et al. Inadequacies of physical examination as a cause of medical errors and adverse events. Am J Med 2015;128:1322–1324.
+47. Wagner JM, McKinney WP, Carpenter JL. Does this patient have appendicitis? JAMA 1996;276:1589–1594.
+48. Wells PS, et al. Evaluation of D-dimer in the diagnosis of suspected deep-vein thrombosis. N Engl J Med 2003;349:1227–1235.
+49. WHO Expert Consultation. Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies. Lancet 2004;363:157–163.
+50. Williams JW Jr, Simel DL. Does this patient have ascites? JAMA 1992;267:2645–2648.
+51. Wong CL, Holroyd-Leduc J, Straus SE. Does this patient have a pleural effusion? JAMA 2009;301:309–317.
+52. Young Infants Clinical Signs Study Group. Clinical signs that predict severe illness in children under age 2 months. Lancet 2008;371:135–142.
