@@ -19,19 +19,19 @@
   let y0 = if y0 == none { h * 0.62 } else { y0 }
   box(width: w * 1mm, height: h * 1mm, clip: true, stroke: 0.4pt + pink, {
     for x in range(0, w + 1) {
-      place(line(start: (x * 1mm, 0mm), end: (x * 1mm, h * 1mm),
+      place(top + left, line(start: (x * 1mm, 0mm), end: (x * 1mm, h * 1mm),
         stroke: if calc.rem(x, 5) == 0 { 0.45pt + pink } else { 0.18pt + pinkl }))
     }
     for y in range(0, h + 1) {
-      place(line(start: (0mm, y * 1mm), end: (w * 1mm, y * 1mm),
+      place(top + left, line(start: (0mm, y * 1mm), end: (w * 1mm, y * 1mm),
         stroke: if calc.rem(y, 5) == 0 { 0.45pt + pink } else { 0.18pt + pinkl }))
     }
     let P = pts.map(p => (p.at(0) * 1mm, (y0 - p.at(1)) * 1mm))
-    place(curve(stroke: (paint: black, thickness: 0.85pt, join: "round"),
+    place(top + left, curve(stroke: (paint: black, thickness: 0.85pt, join: "round"),
       curve.move(P.at(0)), ..P.slice(1).map(p => curve.line(p))))
     for m in marks {
       // m = (x_mm, y_mm_above_baseline, text, color)
-      place(dx: m.at(0) * 1mm - 3mm, dy: (y0 - m.at(1)) * 1mm - 3mm,
+      place(top + left, dx: m.at(0) * 1mm - 3mm, dy: (y0 - m.at(1)) * 1mm - 3mm,
         box(width: 6mm, height: 4mm, align(center + horizon,
           text(size: 7pt, weight: "bold", fill: m.at(3), lang: "en", m.at(2)))))
     }
@@ -109,3 +109,9 @@
   dot(cx, y0 + 36, r: 0.5, fill: navy)
   for sgn in (-1, 1) { dot(cx + sgn * 4.5, y0 + 24, r: 0.5, fill: navy) }
 }
+
+// flow box: top-left (x,y), size w×h mm, centred content
+#let bx(x, y, w, h, body, fill: soft, c: teal, r: 2.5, size: 6.8pt, tc: navy, weight: "regular") = at(x, y,
+  box(width: w * 1mm, height: h * 1mm, fill: fill, stroke: 0.6pt + c, radius: r * 1pt, inset: 2pt,
+    align(center + horizon, text(size: size, fill: tc, weight: weight, body))))
+#let fad(n) = str(n).clusters().map(c => if c in "0123456789" { "۰۱۲۳۴۵۶۷۸۹".clusters().at(int(c)) } else { c }).join()
