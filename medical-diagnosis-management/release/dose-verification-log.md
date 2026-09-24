@@ -172,3 +172,11 @@
 | Propranolol / Carvedilol (حد اکثر ۱۲.۵ mg/روز)؛ Lactulose | Baveno VII | 🟡 |
 | GTN ۰.۴ فیصد، Diltiazem ۲ فیصد؛ Metronidazole + Paromomycin؛ Azithromycin در شیگلا؛ آهن فمی | از دانش | 🟡 |
 | TXA روتین نه | HALT-IT 2020 | ✅ |
+
+## فصل ۲۶ — قرحه، H. pylori، GERD
+| مورد | منبع | وضعیت |
+|---|---|---|
+| BQT ۱۴ روز (PPI دو بار، Bismuth ۱۲۰ mg یا ۳۰۰ mg چهار بار، Tetracycline ۵۰۰ mg چهار بار، Metronidazole ۵۰۰ mg سه تا چهار بار)؛ Vonoprazan ۲۰ mg دو بار + Amoxicillin ۱ g سه بار؛ Rifabutin triple | ACG 2024؛ Maastricht VI (از دانش) | 🟡 |
+| Vonoprazan ۲۰ mg ← ۱۰ mg در EE؛ Famotidine ۲۰ mg دو بار؛ دوزهای استندرد PPI | ACG 2022؛ برچسب FDA | 🟡 |
+| Pantoprazole ۴۰ mg IV در پیشگیری از قرحهٔ استرسی | REVISE 2024 | 🟡 |
+| Misoprostol ۲۰۰ mcg؛ Omeprazole ۶۰ mg در ZES؛ Amitriptyline ۱۰–۲۵ mg | از دانش | 🟡 |
