@@ -121,3 +121,7 @@
 | ۲۵ | V4R در حمله قلبی پایینی؛ احتیاط نایتروگلیسرین؛ ECG تکراری؛ بلاک شاخه چپ با درد اسکیمیک = برخورد مانند STEMI | ESC 2023 ACS Guidelines | ✔ |
 | ۲۵ | QTc >۵۰۰ یا افزایش >۶۰ ms خطر تورساد؛ بیداکویلین/موکسی‌فلوکساسین/کلوفازیمین | WHO consolidated guidelines TB Module 4 (2022)؛ AHA/ACCF 2010 scientific statement on drug-induced QT | ✔ |
 | ۲۵ | ترتیب تغییرات هایپرکالیمی؛ کلسیم وریدی؛ S1Q3T3 غیرحساس؛ سوکولوف-لیون ≥۳۵ mm؛ ولنز، دی‌وینتر، سگاربوسا، بروگادا | Resuscitation Council UK 2021؛ کتاب‌های معیاری | ◐ |
+| ۲۶ | PA/AP؛ کیفیت (چرخش، ۶ قبرغه قدامی/۹–۱۰ خلفی، نفوذ)؛ نسبت قلب به صدر <۰٫۵؛ نشانه سایه؛ الگوها | Corne J, Kumaran M. Chest X-Ray Made Easy (4th ed.)؛ Felson's Principles of Chest Roentgenology | ✔ |
+| ۲۶ | عکس صدر ابزار غربالگری سل با حساسیت بلند؛ تشخیص با تست مالیکولی؛ سرفه ≥۲ هفته | WHO consolidated guidelines on TB, Module 2 (2021), Module 3 (2024) | ✔ |
+| ۲۶ | نوک تیوب داخل نای ~۵ cm (۳–۷) بالای دوشاخه؛ تأیید جای تیوب معده پیش از غذا | کتاب‌های معیاری مراقبت‌های ویژه؛ NHS Improvement NG tube Patient Safety Alert 2016 | ◐ |
+| ۲۶ | کیست هایداتید شایع در افغانستان؛ الترا ساوند حساس‌تر برای مایع و پنوموتوراکس | WHO echinococcosis fact sheet؛ کتاب‌های معیاری | ◐ |
