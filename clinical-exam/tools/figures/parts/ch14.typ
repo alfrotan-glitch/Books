@@ -12,14 +12,14 @@
 #let pig = rgb("#8a5a44")
 #let figs = (
   "skin-lesions": grid(columns: 3, column-gutter: 5mm, row-gutter: 4mm,
-    cell("ماکول", "macule", "هموار، کمتر از ۱ سانتی‌متر", at(10, 5, rect(width: 6mm, height: 1.2mm, fill: pig))),
+    cell("لکه", "macule", "هموار، کمتر از ۱ سانتی‌متر", at(10, 5, rect(width: 6mm, height: 1.2mm, fill: pig))),
     cell("پچ", "patch", "هموار، بیشتر از ۱ سانتی‌متر", at(3, 5, rect(width: 20mm, height: 1.2mm, fill: pig))),
-    cell("پاپول", "papule", "برجسته و جامد، کمتر از ۱", at(9.5, 2.2, ellipse(width: 7mm, height: 5.5mm, fill: rgb("#d98f7a"), stroke: 0.5pt + pig))),
-    cell("نودول", "nodule", "عمیق‌تر، بیشتر از ۱ سانتی‌متر", at(8, 2.5, ellipse(width: 10mm, height: 8.5mm, fill: rgb("#d98f7a"), stroke: 0.5pt + pig))),
+    cell("دانه", "papule", "برجسته و جامد، کمتر از ۱", at(9.5, 2.2, ellipse(width: 7mm, height: 5.5mm, fill: rgb("#d98f7a"), stroke: 0.5pt + pig))),
+    cell("گره", "nodule", "عمیق‌تر، بیشتر از ۱ سانتی‌متر", at(8, 2.5, ellipse(width: 10mm, height: 8.5mm, fill: rgb("#d98f7a"), stroke: 0.5pt + pig))),
     cell("پلاک", "plaque", "پهن و هموار، بیشتر از ۱", at(3, 3, rect(width: 20mm, height: 2.6mm, radius: 1mm, fill: rgb("#d98f7a"), stroke: 0.5pt + pig))),
-    cell("ویل", "wheal", "پندیده و گذرا (ساعت‌ها)", at(5, 2.6, ellipse(width: 16mm, height: 5mm, fill: rgb("#f2b8b0"), stroke: (paint: rgb("#d9776a"), thickness: 0.5pt, dash: "dashed")))),
-    cell("وزیکول", "vesicle", "مایع صاف، کمتر از ۰٫۵", at(10, 2.4, ellipse(width: 6mm, height: 5mm, fill: rgb("#d8ecf7"), stroke: 0.6pt + rgb("#3d6fa6")))),
-    cell("بولا", "bulla", "مایع صاف، بیشتر از ۰٫۵", at(6, 0.6, ellipse(width: 14mm, height: 8.5mm, fill: rgb("#d8ecf7"), stroke: 0.6pt + rgb("#3d6fa6")))),
-    cell("پوستول", "pustule", "پُر از چرک", at(10, 2.4, ellipse(width: 6mm, height: 5mm, fill: rgb("#f1e08a"), stroke: 0.6pt + rgb("#b0901c")))),
+    cell("کهیر", "wheal", "پندیده و گذرا (ساعت‌ها)", at(5, 2.6, ellipse(width: 16mm, height: 5mm, fill: rgb("#f2b8b0"), stroke: (paint: rgb("#d9776a"), thickness: 0.5pt, dash: "dashed")))),
+    cell("آبله کوچک", "vesicle", "مایع صاف، کمتر از ۰٫۵", at(10, 2.4, ellipse(width: 6mm, height: 5mm, fill: rgb("#d8ecf7"), stroke: 0.6pt + rgb("#3d6fa6")))),
+    cell("آبله بزرگ", "bulla", "مایع صاف، بیشتر از ۰٫۵", at(6, 0.6, ellipse(width: 14mm, height: 8.5mm, fill: rgb("#d8ecf7"), stroke: 0.6pt + rgb("#3d6fa6")))),
+    cell("چرک‌دانه", "pustule", "پُر از چرک", at(10, 2.4, ellipse(width: 6mm, height: 5mm, fill: rgb("#f1e08a"), stroke: 0.6pt + rgb("#b0901c")))),
   ),
 )

@@ -63,7 +63,7 @@
     let lungR(fill: cL) = at(2, 6, rect(width: 7.5mm, height: 18mm, radius: (top: 3.5mm, bottom: 1.2mm), fill: fill, stroke: sk))
     let lungL(dx: 0, fill: cL) = at(12.5 + dx, 6, rect(width: 7.5mm, height: 18mm, radius: (top: 3.5mm, bottom: 1.2mm), fill: fill, stroke: sk))
     stack(dir: ttb, spacing: 2.5mm, grid(columns: 4, column-gutter: 2mm,
-      panel("کانسولیدیشن", { lungR(); lungL(); at(2.3, 15, rect(width: 6.9mm, height: 8.7mm, radius: (bottom: 1mm), fill: tiling(size: (1.4mm, 1.4mm), place(dx: 0.3mm, dy: 0.3mm, circle(radius: 0.35mm, fill: red))))) },
+      panel("تکاثف", { lungR(); lungL(); at(2.3, 15, rect(width: 6.9mm, height: 8.7mm, radius: (bottom: 1mm), fill: tiling(size: (1.4mm, 1.4mm), place(dx: 0.3mm, dy: 0.3mm, circle(radius: 0.35mm, fill: red))))) },
         0, "قرع: مبهم", "آواز: قصبی", "قصبه‌الریه: وسط", red),
       panel("انصباب", { lungR(); lungL(); at(2.3, 14, rect(width: 6.9mm, height: 9.7mm, radius: (bottom: 1mm), fill: rgb("#8fb8e0")))
           poly(((2.3, 14), (5, 15.2), (9.2, 13.2)), s: 0.6pt + rgb("#3d6fa6")) },
