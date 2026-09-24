@@ -7,7 +7,6 @@
 | آبله بزرگ | bulla |
 | آبله کوچک | vesicle |
 | آسیب حاد گرده | acute kidney injury |
-| آمبولی ریوی | pulmonary embolism |
 | ابسه دور لوزه | quinsy; peritonsillar abscess |
 | احتکاک پلورا | pleural rub |
 | احتمال پیش از آزمون | pretest probability |
@@ -19,6 +18,7 @@
 | التهاب شریان صدغی | giant cell arteritis |
 | التهاب لگن | pelvic inflammatory disease |
 | التهاب ملتحمه | conjunctivitis |
+| امبولی ریوی | pulmonary embolism |
 | انشقاق ابهر | aortic dissection |
 | انصباب پلورا | pleural effusion |
 | برآمدگی چشم | exophthalmos |
