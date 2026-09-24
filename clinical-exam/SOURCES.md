@@ -81,3 +81,5 @@
 | ۱۵ | حساسیت معاینه کلینیکی ثدیه ~۵۴٪، ویژگی ~۹۴٪ | Barton MB, Harris R, Fletcher SW. JAMA 1999;282:1270–80 | ✔ |
 | ۱۵ | خطر سرطان در بزرگی بی‌توضیح عقده: ۰٫۴٪ زیر ۴۰، ۴٪ بالای ۴۰؛ خطر بالای عقده بالای ترقوه | Gaddey HL, Riegel AM. Am Fam Physician 2016;94:896–903 | ✔ |
 | ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ◐ |
+| ۱۶ | دست‌کم ۲٫۲ میلیارد انسان مشکل دید؛ دست‌کم یک میلیارد قابل پیشگیری یا درمان‌نشده | WHO. World report on vision. 2019 | ✔ |
+| ۱۶ | Snellen ۶/۶؛ pinhole؛ RAPD؛ جدول فوندوس؛ جدول چشم سرخ؛ کاهش ناگهانی دید؛ شستشوی کیمیاوی ۲۰–۳۰ دقیقه؛ GCA؛ ویتامین A؛ تراخوم | کتاب‌های معیاری (Kanski's Clinical Ophthalmology; Macleod's)؛ WHO trachoma & VAD fact sheets؛ BSR/ACR GCA guidance | ◐ |
