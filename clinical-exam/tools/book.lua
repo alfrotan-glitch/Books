@@ -31,7 +31,13 @@ function Div(el)
   local m = map[cls]
   if not m then return nil end
   if FORMAT:match("typst") then
-    return typst_wrap(m[1], el.content)
+    local out = typst_wrap(m[1], el.content)
+    if cls == "osce" then
+      -- a checklist is used as one unit: never split it across pages
+      table.insert(out, 1, pandoc.RawBlock("typst", "#block(breakable: false, width: 100%)["))
+      table.insert(out, pandoc.RawBlock("typst", "]"))
+    end
+    return out
   elseif FORMAT:match("docx") then
     el.attributes["custom-style"] = m[2]
     return el

@@ -13,7 +13,7 @@
 | ۲ | میانه ۱۱ ثانیه پیش از قطع کردن | Singh Ospina N et al. J Gen Intern Med 2019;34:36–40 | ✔ |
 | ۲ | حرف زدن بدون قطع: اوسط ۹۲ ثانیه؛ ۷۸٪ در دو دقیقه | Langewitz W et al. BMJ 2002;325:682–3 | ✔ |
 | ۲ | سؤال «something else» نگرانی‌های ناگفته را نسبت به ملاقات عادی ۷۸٪ کم کرد؛ «anything else» تفاوت معنادار نداشت | Heritage J et al. J Gen Intern Med 2007;22:1429–33 | ✔ (متن کتاب مطابق اصلاح شد) |
-| ۲ | مرض اکلیلی پیش از وقت در خانواده: مرد <۵۵، زن <۶۵ | ACC/AHA prevention guidelines (Arnett DK et al. Circulation 2019) | ◐ |
+| ۲ | مرض اکلیلی پیش از وقت در خانواده: مرد <۵۵، زن <۶۵ | ACC/AHA prevention guidelines (Arnett DK et al. Circulation 2019) | ✔ |
 | ۳ | ضربان استراحت ۶۰–۱۰۰؛ سرحد پایین ۵۰ در رهنمود | Kusumoto FM et al. 2018 ACC/AHA/HRS bradycardia guideline | ✔ |
 | ۳ | طرز اندازه و طبقه‌بندی فشار خون | Whelton PK et al. Hypertension 2018;71:e13–e115; WHO 2021 | ✔ |
 | ۳ | فشار پایین وضعیتی: کاهش ≥۲۰ سیستولیک یا ≥۱۰ دیاستولیک در ۳ دقیقه | Freeman R et al. Clin Auton Res 2011;21:69–72 | ✔ |
@@ -42,14 +42,14 @@
 | ۷ | حساسیت لمس AAA: ۲۹٪ / ۵۰٪ / ۷۶٪ | Lederle FA, Simel DL. JAMA 1999;281:77–82 | ✔ |
 | ۷ | معیارهای Wells برای DVT؛ مدل دوطبقه‌ای (≥۲ محتمل) | Wells PS et al. N Engl J Med 2003;349:1227–35 | ✔ |
 | ۷ | پای دیابتیک: مونوفیلامنت ۱۰ گرم؛ معاینه سالانه، در خطر بلند هر ۱–۳ ماه | Bus SA et al. IWGDF 2023. Diabetes Metab Res Rev 2024;40:e3651 | ✔ |
-| ۷ | زاویه Buerger <۲۰ درجه = اسکیمی شدید | کتاب‌های درسی معاینه (Bailey & Love; Macleod's) | ◐ |
+| ۷ | زاویه Buerger <۲۰ درجه = اسکیمی شدید | کتاب‌های درسی معاینه (Bailey & Love; Macleod's)؛ مقابله با مرورهای آنلاین ۲۰۲۶ | ✔ |
 | ۸ | پیش‌بینی COPD: >۴۰ پاکت‌سال LR ۸٫۳؛ خودگزارشی ۷٫۳؛ ارتفاع حنجره ≤۴ cm ۲٫۸؛ عمر ≥۴۵ ۱٫۳؛ هیچ کدام ۰٫۱۳ | Straus SE et al. JAMA 2000;283:1853–7 | ✔ |
 | ۸ | چوب طبل شدن: زاویه پروفایل >۱۸۰°، نسبت ضخامت بند >۱ | Myers KA, Farquhar DR. JAMA 2001;286:341–7 | ✔ |
 | ۸ | انصباب پلورا: قرع مبهم LR+ ۸٫۷؛ نبود کاهش اهتزاز LR− ۰٫۲۱ | Wong CL et al. JAMA 2009;301:309–17 | ✔ |
 | ۸ | نمونیا: هیچ یافته‌ای ثابت نمی‌کند؛ نارمل بودن هر سه علامه حیاتی LR− ۰٫۱۸ | Metlay JP et al. JAMA 1997;278:1440–5 | ✔ |
 | ۸ | CURB-65 | Lim WS et al. Thorax 2003;58:377–82 | ✔ |
-| ۸ | شدت حمله استما (PEF ۳۳–۵۰٪، RR ≥۲۵، HR ≥۱۱۰؛ SpO₂ <۹۲٪، صدر خاموش) | BTS/SIGN British Guideline on the Management of Asthma 2019 | ◐ |
-| ۸ | سرفه حاد <۳ هفته، مزمن >۸ هفته؛ مقیاس MRC | ACCP cough guideline 2006; Fletcher CM 1959 / MRC | ◐ |
+| ۸ | شدت حمله استما (PEF ۳۳–۵۰٪، RR ≥۲۵، HR ≥۱۱۰؛ SpO₂ <۹۲٪، صدر خاموش) | BTS/SIGN SIGN 158 (2019), Acute asthma in adults | ✔ |
+| ۸ | سرفه حاد <۳ هفته، مزمن >۸ هفته؛ مقیاس MRC | Irwin RS et al. ACCP cough guideline. Chest 2006;129(1 Suppl):1S–23S; MRC dyspnoea scale (Fletcher 1959) | ✔ |
 | ۸ | پلس اکسی‌متر carboxyhaemoglobin را از oxyhaemoglobin جدا نمی‌کند | فزیولوژی دستگاه (Jubran A. Crit Care 2015;19:272) | ◐ |
 | ۸ | آزمایش مالیکولی سریع (Xpert MTB/RIF) به عنوان آزمایش اولیه | WHO consolidated guidelines on tuberculosis, Module 3: Diagnosis | ◐ |
 | ۹ | اپندیسیت: درد RLQ LR+ ۷٫۳–۸٫۵؛ سختی ۳٫۸؛ انتقال درد ۳٫۲؛ درد پیش از قی ۲٫۸؛ Psoas ۲٫۴؛ تب ۱٫۹؛ نبود درد RLQ LR− ۰–۰٫۲۸ | Wagner JM et al. JAMA 1996;276:1589–94 | ✔ |
@@ -115,7 +115,9 @@
 | ۲۳ | سه دسته بیهوشی؛ CO و پالس‌اکسیمتری؛ hypothermia/heat stroke؛ locked-in؛ RUSH | کتاب‌های معیاری (Plum and Posner's Diagnosis of Stupor and Coma; Oxford Handbook of Emergency Medicine)؛ ERC 2021 special circumstances | ◐ |
 | ۲۴ | HEART: ۰–۳ خطر ۱٫۷٪ در ۶ هفته؛ ۷–۱۰ حدود ۵۰٪ | Backus BE et al. Int J Cardiol 2013;168:2153–8 | ✔ |
 | ۲۴ | CCHF بومی افغانستان؛ اوج در ماه‌های عید قربان؛ بیشترین موارد ۲۰۲۳؛ مرگ ۱۰–۴۰٪ | Hamdard E et al. J Infect Public Health 2025;18:102591؛ WHO CCHF fact sheet | ✔ |
-| ۲۴ | کاهش وزن مهم >۵٪ در ۶–۱۲ ماه؛ فرق فشار بازوها >۲۰ mmHg در پارگی ابهر؛ الگوهای تب، زردی، اذیما، سرچرخی | کتاب‌های معیاری (Symptom to Diagnosis; Macleod's)؛ ESC 2018 Syncope؛ ESC 2014/2024 Aortic | ◐ |
+| ۲۴ | کاهش وزن مهم >۵٪ در ۶–۱۲ ماه | Harrison's Principles of Internal Medicine 21st ed., ch. Unintentional Weight Loss | ✔ |
+| ۲۴ | فرق فشار سیستولیک بازوها >۲۰ mmHg با پارگی ابهر مرتبط است؛ نبض ناقرینه دقیق‌تر | Um SW, Ohle R, Perry JJ. Emerg Med J 2018;35:556–8 | ✔ |
+| ۲۴ | الگوهای تب، زردی، اذیما، سرچرخی | کتاب‌های معیاری (Symptom to Diagnosis; Macleod's)؛ ESC 2018 Syncope | ◐ |
 | ۲۵ | کاغذ ۲۵ mm/s؛ خانه کوچک ۰٫۰۴ s؛ PR ۰٫۱۲–۰٫۲۰؛ QRS <۰٫۱۲؛ QTc ~۴۵۰/۴۶۰ | کتاب‌های معیاری ECG (Hampton, The ECG Made Easy; AHA/ACCF/HRS 2009 ECG standardization) | ✔ |
 | ۲۵ | معیار بلندی ST: ۱ mm؛ V2–V3: ۲ (مرد ≥۴۰)، ۲٫۵ (مرد <۴۰)، ۱٫۵ (زن)؛ V7–V9: ۰٫۵ | Thygesen K et al. Circulation 2018;138:e618–51 | ✔ |
 | ۲۵ | V4R در حمله قلبی پایینی؛ احتیاط نایتروگلیسرین؛ ECG تکراری؛ بلاک شاخه چپ با درد اسکیمیک = برخورد مانند STEMI | ESC 2023 ACS Guidelines | ✔ |
@@ -123,7 +125,7 @@
 | ۲۵ | ترتیب تغییرات هایپرکالیمی؛ کلسیم وریدی؛ S1Q3T3 غیرحساس؛ سوکولوف-لیون ≥۳۵ mm؛ ولنز، دی‌وینتر، سگاربوسا، بروگادا | Resuscitation Council UK 2021؛ کتاب‌های معیاری | ◐ |
 | ۲۶ | PA/AP؛ کیفیت (چرخش، ۶ قبرغه قدامی/۹–۱۰ خلفی، نفوذ)؛ نسبت قلب به صدر <۰٫۵؛ نشانه سایه؛ الگوها | Corne J, Kumaran M. Chest X-Ray Made Easy (4th ed.)؛ Felson's Principles of Chest Roentgenology | ✔ |
 | ۲۶ | عکس صدر ابزار غربالگری سل با حساسیت بلند؛ تشخیص با تست مالیکولی؛ سرفه ≥۲ هفته | WHO consolidated guidelines on TB, Module 2 (2021), Module 3 (2024) | ✔ |
-| ۲۶ | نوک تیوب داخل نای ~۵ cm (۳–۷) بالای دوشاخه؛ تأیید جای تیوب معده پیش از غذا | کتاب‌های معیاری مراقبت‌های ویژه؛ NHS Improvement NG tube Patient Safety Alert 2016 | ◐ |
+| ۲۶ | نوک تیوب داخل نای ~۵ cm (۳–۷) بالای دوشاخه؛ تأیید جای تیوب معده پیش از غذا | Radiology Masterclass؛ Postprocedural chest radiograph (PMC4173625): ۵–۷ cm در گردن نیمه‌نارمل، تغییر ~۲ cm با خم و راست کردن گردن؛ NHS Improvement NG tube alert 2016 | ✔ |
 | ۲۶ | کیست هایداتید شایع در افغانستان؛ الترا ساوند حساس‌تر برای مایع و پنوموتوراکس | WHO echinococcosis fact sheet؛ کتاب‌های معیاری | ◐ |
 | ۲۷ | حد نورمال = ۹۵٪ سالم‌ها؛ ۲۰ تست → احتمال ≥۱ غیرنورمال ≈ ۶۴٪ (محاسبه: ۱−۰٫۹۵^۲۰) | محاسبه آماری؛ کتاب‌های معیاری | ✔ |
 | ۲۷ | کم‌خونی: مرد <۱۳، زن <۱۲، حامله <۱۱، طفل ۶–۵۹ ماه <۱۱ g/dL | WHO Haemoglobin concentrations for the diagnosis of anaemia (2011; 2024 guideline) | ✔ |
@@ -133,3 +135,4 @@
 | ۲۷ | هیپاتیت دواهای سل: ALT >۳× با علایم یا >۵× بدون علایم → توقف | ATS/CDC/IDSA 2016 TB treatment guideline؛ ATS statement Saukkonen 2006 | ✔ |
 | ۲۷ | ترپونین صدک ۹۹ و الگوی بالا/پایین | Thygesen 2018؛ ESC 2023 ACS | ✔ |
 | ۲۷ | لاکتیت >۲ و >۴؛ فاصله انیونی ~۸–۱۲؛ نایتریت اختصاصی؛ باکتری بی‌علامت در کلان‌سال درمان نمی‌خواهد | Surviving Sepsis 2021؛ IDSA 2019 asymptomatic bacteriuria؛ کتاب‌های معیاری | ✔/◐ |
+| ۲۱ | CRT طفل: ۳ ثانیه یا بیشتر = علامه خطر متوسط (amber) | NICE NG143 rec. 1.2.9 | ✔ |
