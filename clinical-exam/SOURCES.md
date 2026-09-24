@@ -72,3 +72,6 @@
 | ۱۲ | Lachman ۸۵٪/۹۴٪؛ pivot shift ۲۴٪/۹۸٪؛ anterior drawer مزمن ۹۲٪/۹۱٪ | Benjaminse A et al. J Orthop Sports Phys Ther 2006;36:267–88 | ✔ |
 | ۱۲ | GALS screen | Doherty M et al. Ann Rheum Dis 1992;51:1165–9 | ✔ |
 | ۱۲ | سختی صبحگاهی >۳۰ دقیقه در التهابی؛ قوس دردناک ۶۰–۱۲۰°؛ Schober >۵ cm؛ کمپارتمنت؛ اسکافوئید؛ علایم خطر کمردرد | کتاب‌های معیاری (Apley & Solomon; Macleod's; NICE NG59) | ◐ |
+| ۱۳ | دقت معاینه گواتر: LR ~۲۵ برای بزرگ‌تر از دو برابر؛ ~۰٫۱۵ برای نارمل؛ ~۱٫۹ برای کوچک؛ «قاعده شست» | Siminoski K. JAMA 1995;273:813–7؛ JAMAevidence Rational Clinical Examination: Goiter | ✔ |
+| ۱۳ | جدول پرکاری/کم‌کاری؛ نشانه‌های چشم Graves؛ Pemberton؛ DKA/کمی قند؛ Cushing/Addison/اکرومیگالی؛ طوفان تایراید؛ HHS | کتاب‌های معیاری (Macleod's; Williams Textbook of Endocrinology) | ◐ |
+| ۱۳ | کمی قند طولانی با گلی‌بنکلامید؛ خطر روزه با دواهای قند | BNF؛ IDF-DAR Diabetes and Ramadan Guidelines 2021 | ◐ |
