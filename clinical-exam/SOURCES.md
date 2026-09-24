@@ -59,3 +59,7 @@
 | ۹ | دوای مخدر در درد حاد بطن خطای تشخیص را زیاد نمی‌کند | Manterola C et al. Cochrane Database Syst Rev 2011;(1):CD005660 | ✔ |
 | ۹ | قانون Courvoisier و توضیح آن | Courvoisier LG 1890؛ مرورهای ثانوی | ✔ |
 | ۹ | منشأ جنینی و جای درد احشا؛ ۵ F؛ نشانه‌های Rovsing، Psoas، Obturator، Carnett؛ عقده Virchow | کتاب‌های درسی معاینه و جراحی | ◐ |
+| ۱۰ | NICE NG12: عمر ≥۴۵ با خون قابل دید بی‌توضیح در ادرار ← راجع عاجل | NICE NG12 Suspected cancer: recognition and referral (2015, updated) | ✔ |
+| ۱۰ | تعریف AKI (۰٫۳ mg/dl در ۴۸ ساعت؛ ۱٫۵× در ۷ روز؛ <۰٫۵ ml/kg/h برای ۶ ساعت) | KDIGO AKI Guideline. Kidney Int Suppl 2012;2:1–138 | ✔ |
+| ۱۰ | پیچ خوردن خصیه: نجات ۹۰–۱۰۰٪ در ۶ ساعت؛ کاهش شدید بعد از ۱۲ و ۲۴ ساعت؛ رفلکس کریماستر غایب | مرورهای معیاری (AMBOSS؛ TeachMeSurgery؛ EAU Paediatric Urology Guidelines) | ✔ |
+| ۱۰ | رهیافت پندیدگی کیسه خصیه؛ فتق مغبنی و فخذی نسبت به برجستگی عانه؛ پروستات | کتاب‌های درسی معاینه و جراحی (Bailey & Love; Macleod's) | ◐ |
