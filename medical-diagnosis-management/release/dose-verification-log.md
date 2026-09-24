@@ -180,3 +180,11 @@
 | Vonoprazan ۲۰ mg ← ۱۰ mg در EE؛ Famotidine ۲۰ mg دو بار؛ دوزهای استندرد PPI | ACG 2022؛ برچسب FDA | 🟡 |
 | Pantoprazole ۴۰ mg IV در پیشگیری از قرحهٔ استرسی | REVISE 2024 | 🟡 |
 | Misoprostol ۲۰۰ mcg؛ Omeprazole ۶۰ mg در ZES؛ Amitriptyline ۱۰–۲۵ mg | از دانش | 🟡 |
+
+## فصل ۲۷ — بطن حاد
+| مورد | منبع | وضعیت |
+|---|---|---|
+| انتی‌بیوتیک داخل بطنی (Ceftriaxone + Metronidazole، Co-amoxiclav، Pip/Tazo، Meropenem)؛ ۴ روز پس از کنترول منبع | SIS 2017؛ STOP-IT | 🟡 دوزها از دانش؛ مدت ✅ |
+| Antibiotics-first در آپاندیسیت (Ertapenem ← فمی، ۷–۱۰ روز) | CODA 2020 | 🟡 |
+| Morphine ۰.۰۵–۰.۱ mg/kg؛ Diclofenac ۷۵ mg IM؛ Ketorolac؛ Ondansetron ۴ mg؛ Metoclopramide ۱۰ mg | فورمولری | 🟡 |
+| Heparin ۸۰ U/kg ← ۱۸ U/kg/h در ایسکیمی مساریقی؛ Gastrografin ۱۰۰ ml | ESVS 2017؛ Bologna 2017 | 🟡 |
