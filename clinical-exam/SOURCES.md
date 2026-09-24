@@ -75,3 +75,6 @@
 | ۱۳ | دقت معاینه گواتر: LR ~۲۵ برای بزرگ‌تر از دو برابر؛ ~۰٫۱۵ برای نارمل؛ ~۱٫۹ برای کوچک؛ «قاعده شست» | Siminoski K. JAMA 1995;273:813–7؛ JAMAevidence Rational Clinical Examination: Goiter | ✔ |
 | ۱۳ | جدول پرکاری/کم‌کاری؛ نشانه‌های چشم Graves؛ Pemberton؛ DKA/کمی قند؛ Cushing/Addison/اکرومیگالی؛ طوفان تایراید؛ HHS | کتاب‌های معیاری (Macleod's; Williams Textbook of Endocrinology) | ◐ |
 | ۱۳ | کمی قند طولانی با گلی‌بنکلامید؛ خطر روزه با دواهای قند | BNF؛ IDF-DAR Diabetes and Ramadan Guidelines 2021 | ◐ |
+| ۱۴ | کابل بزرگ‌ترین کانون سالک انسانی جهان؛ ۱۷٬۴۲۵ از ۴۱٬۰۷۲ مورد در ۲۰۰۹؛ بیشتر زیر ۱۵ سال، چهره و بازو | WHO EMRO: Cutaneous leishmaniasis in Afghanistan | ✔ |
+| ۱۴ | معیارهای ABCDE ملانوما | Abbasi NR et al. JAMA 2004;292:2771–6 | ✔ |
+| ۱۴ | رشد ناخن حدود ۰٫۱ mm در روز؛ SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته؛ جدول ضایعات، ناخن‌ها، فاشئیت نکروزدهنده | کتاب‌های معیاری (Rook's Textbook of Dermatology; Macleod's)؛ RegiSCAR | ◐ |
