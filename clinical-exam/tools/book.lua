@@ -131,8 +131,106 @@ function Image(img)
 end
 
 -- PDF only: back-matter marker + subject index with real page numbers (Typst queries <idx> markers)
+local function is_ar_lead(b) return b and b >= 0xD8 and b <= 0xDB end
+-- does `text` contain `term` as a whole word (no Arabic/Latin letter glued before; no letter glued after)?
+local function has_term(text, term)
+  local init = 1
+  while true do
+    local i, j = text:find(term, init, true)
+    if not i then return false end
+    local ok = true
+    if i > 2 and is_ar_lead(text:byte(i - 2)) then ok = false end
+    if i > 1 and text:sub(i - 1, i - 1):match("[%w]") then ok = false end
+    local nb = text:byte(j + 1)
+    if is_ar_lead(nb) or (nb and string.char(nb):match("[%w]")) then ok = false end
+    if ok then return true end
+    init = j + 1
+  end
+end
+
+local function h1text(b)
+  if b.t == "Header" and b.level == 1 then return pandoc.utils.stringify(b) end
+  if b.t == "RawBlock" and b.text:find("#heading%(level: 1") then return b.text end
+  return nil
+end
+
+-- collect index terms from the index appendix
+local function index_terms(blocks)
+  local in_index, terms = false, {}
+  for _, b in ipairs(blocks) do
+    local h = h1text(b)
+    if h then
+      in_index = h:find("فهرست موضوعی") ~= nil
+    elseif in_index and b.t == "BulletList" then
+      for _, item in ipairs(b.content) do terms[#terms + 1] = pandoc.utils.stringify(item[1]) end
+    end
+  end
+  return terms
+end
+
+-- mark the first occurrence of each term in every level-1/2 section with #metadata(term) <idx>
+local function mark_terms(blocks, terms)
+  local seen, stop, pending = {}, false, {}
+  local function tstr(t) return '"' .. t:gsub('\\', '\\\\'):gsub('"', '\\"') .. '"' end
+  local visit
+  local function mark_inlines(el)
+    local txt = pandoc.utils.stringify(el)
+    for _, t in ipairs(terms) do
+      if not seen[t] and has_term(txt, t) then
+        seen[t] = true
+        el.content:insert(pandoc.RawInline("typst", "#metadata(" .. tstr(t) .. ") <idx>"))
+      end
+    end
+  end
+  visit = function(bl)
+    for _, b in ipairs(bl) do
+      if stop then return end
+      local h = h1text(b)
+      if h then
+        if h:find("ضمیمه") then stop = true; return end
+        seen = {}
+      elseif b.t == "Header" and b.level >= 2 then
+        -- a term in a section heading marks the main discussion (metadata goes into a following block)
+        local txt = pandoc.utils.stringify(b)
+        local hits = {}
+        for _, t in ipairs(terms) do
+          if has_term(txt, t) then hits[#hits + 1] = "#metadata(" .. tstr(t) .. ") <idx>"; seen[t] = true end
+        end
+        if #hits > 0 then pending[#pending + 1] = {b, table.concat(hits, " ")} end
+      elseif b.t == "Para" or b.t == "Plain" then mark_inlines(b)
+      elseif b.t == "Div" or b.t == "BlockQuote" then visit(b.content)
+      elseif b.t == "BulletList" or b.t == "OrderedList" then
+        for _, item in ipairs(b.content) do visit(item) end
+      elseif b.t == "Table" then
+        for _, body in ipairs(b.bodies) do
+          for _, row in ipairs(body.body) do
+            for _, cell in ipairs(row.cells) do visit(cell.contents) end
+          end
+        end
+      end
+    end
+  end
+  visit(blocks)
+  for _, pr in ipairs(pending) do
+    for i, b in ipairs(blocks) do
+      if b == pr[1] then table.insert(blocks, i + 1, pandoc.RawBlock("typst", pr[2])); break end
+    end
+  end
+end
+
 function Pandoc(doc)
-  if FORMAT ~= "typst" then return nil end
+  if FORMAT ~= "typst" then
+    -- no page numbers outside the PDF: drop the subject index
+    local out, skip = {}, false
+    for _, b in ipairs(doc.blocks) do
+      if b.t == "Header" and b.level == 1 then skip = pandoc.utils.stringify(b):find("فهرست موضوعی") ~= nil end
+      if not skip then out[#out + 1] = b end
+    end
+    doc.blocks = out
+    return doc
+  end
+  local terms = index_terms(doc.blocks)
+  if #terms > 0 then mark_terms(doc.blocks, terms) end
   local out, in_index = {}, false
   for _, b in ipairs(doc.blocks) do
     local is_h1 = (b.t == "Header" and b.level == 1) or (b.t == "RawBlock" and b.text:find("#heading%(level: 1") ~= nil)

@@ -251,14 +251,14 @@ $if(print-edition)$#pagebreak(to: "odd", weak: true)$endif$
   let marks = query(<idx>).filter(m => m.location().page() >= start-page and m.location().page() < stop-page and m.location().position().y > 2.1cm)
   let pages = (:)
   for m in marks {
-    let k = m.value
+    let k = lower(m.value)
     let n = counter(page).at(m.location()).first()
     let prev = pages.at(k, default: ())
     if n not in prev { prev.push(n) }
     pages.insert(k, prev)
   }
   let fmt(n) = numbering("۱", n)
-  set par(justify: false, first-line-indent: 0pt, hanging-indent: 1em, spacing: 0.45em)
+  set par(justify: false, first-line-indent: 0pt, hanging-indent: 1.2em, spacing: 0.45em, leading: 0.45em)
   set text(size: 9pt)
   columns(2, gutter: 1.2em, for t in terms {
     let ps = pages.at(lower(t), default: ())
@@ -270,7 +270,7 @@ $if(print-edition)$#pagebreak(to: "odd", weak: true)$endif$
       out.push(box(if j > i { fmt(ps.at(i)) + "–" + fmt(ps.at(j)) } else { fmt(ps.at(i)) }))
       i = j + 1
     }
-    block(breakable: false)[*#t*#h(0.4em)#text(fill: rgb("#136f73"))[#out.join([، ])]]
+    block(breakable: false, below: 0.75em)[*#t*#h(0.4em)#text(fill: rgb("#136f73"))[#out.join([، ])]]
   })
 }
 
