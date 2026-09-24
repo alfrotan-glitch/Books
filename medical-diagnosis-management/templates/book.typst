@@ -1,0 +1,46 @@
+// ─────────────────────────────────────────────────────────────
+//  Book template — «رهنمای جامع تشخیص و اهتمامات طب داخلی»
+//  A4, RTL Dari, Vazirmatn, navy/teal/gold theme
+// ─────────────────────────────────────────────────────────────
+#let navy  = rgb("#0f2744")
+#let teal  = rgb("#136f73")
+#let gold  = rgb("#b8913a")
+
+#set document(title: "رهنمای جامع تشخیص و اهتمامات طب داخلی", author: "تیم بورد تخصصی طب داخلی", keywords: ("طب داخلی", "تشخیص", "تداوی", "داکتران جوان", "محصلین طب"), date: datetime(year: 2026, month: 9, day: 24))
+#set text(font: ("Vazirmatn",), size: 10.5pt, lang: "fa", dir: rtl, fill: rgb("#1b1b1b"))
+#set par(justify: true, leading: 0.98em, spacing: 0.5em)
+
+#set page(paper: "a4", margin: (top: 21mm, bottom: 20mm, left: 17mm, right: 17mm), number-align: center)
+
+// ── lists ──
+#set list(marker: text(fill: teal)[●], indent: 0.5em, body-indent: 0.65em)
+#set enum(numbering: "۱.", indent: 0.5em, body-indent: 0.65em)
+
+// ── headings ──
+#set heading(numbering: none)
+#show heading.where(level: 1): it => {
+  pagebreak()
+  block(breakable: false, below: 1.1em)[
+    #set text(fill: gold, weight: "bold", size: 11pt)
+    #v(0.1em)
+    #set par(leading: 1.2em)
+    #text(fill: teal, weight: "bold", size: 20pt)[#it]
+    #v(0.4em)
+    #line(length: 100%, stroke: 1.4pt + navy)
+    #v(0.2em)
+    #line(length: 42%, stroke: 0.8pt + gold)
+  ]
+}
+#show heading.where(level: 2): it => block(breakable: false, above: 1.3em, below: 0.4em)[
+  #text(fill: navy, weight: "bold", size: 15pt)[#it]
+  #v(0.25em)
+  #line(length: 100%, stroke: 0.7pt + gold)
+]
+#show heading.where(level: 3): it => block(breakable: false, above: 0.95em, below: 0.25em)[
+  #text(fill: teal, weight: "bold", size: 12.5pt)[#it]
+]
+#show heading.where(level: 4): it => block(breakable: false, above: 0.75em, below: 0.2em)[
+  #text(weight: "bold", size: 11pt)[#it]
+]
+
+#include "__BOOK__"

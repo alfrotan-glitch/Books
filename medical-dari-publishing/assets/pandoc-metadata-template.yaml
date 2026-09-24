@@ -1,0 +1,31 @@
+---
+title: "Book Title Here"
+subtitle: "Optional subtitle"
+author: "Author Name"
+lang: fa-AF        # Dari (Afghanistan); use en-US etc. for English-language projects
+dir: rtl           # rtl for Dari content, ltr for English content
+rights: "© Year Author. All rights reserved."
+description: "One or two sentence book description for EPUB/PDF metadata."
+publisher: "Publisher or self-published imprint name"
+date: "YYYY-MM-DD"
+
+# --- DOCX ---
+reference-doc: "reference.docx"   # see assets/docx-reference-styles-notes.md
+
+# --- PDF (XeLaTeX) ---
+mainfont: "Vazirmatn"             # or your chosen Dari-capable body font
+mainfontoptions:
+  - "Scale=1.0"
+sansfont: "Work Sans"             # for Latin/English runs if separated
+fontsize: 11pt
+papersize: a5                     # set to actual trim size
+geometry:
+  - margin=2cm
+toc: true
+toc-depth: 2
+numbersections: false
+
+# --- EPUB ---
+epub-cover-image: "cover.png"
+epub-metadata: "epub-metadata.xml"   # optional extra OPF metadata if needed
+---
