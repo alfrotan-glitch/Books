@@ -218,3 +218,11 @@
 | تغذیه: ۳۵ kcal/kg و پروتین ۱.۲–۱.۵ g/kg | EASL 2019 | 🟡 |
 | Semaglutide ۲.۴ mg هفته‌وار برای MASH F2–F3 بدون سیروز (FDA اگست ۲۰۲۵) | NEJM Journal Watch | ✅ |
 | Resmetirom (FDA 2024) | — | 🟡 |
+
+## فصل ۳۱ — ALF و انسفالوپاتی کبدی
+| مورد | منبع | وضعیت |
+|---|---|---|
+| NAC ۱۵۰/۵۰/۱۰۰ mg/kg (۱/۴/۱۶ ساعت)؛ SNAP ۱۰۰/۲۰۰ mg/kg (۲/۱۰ ساعت)؛ ادامه ۶.۲۵ mg/kg/h؛ زغال ۵۰ g | AASLD؛ SNAP 2014 | 🟡 (از دانش) |
+| NAC غیر Paracetamol ۷۲ ساعت (۱۵۰ ← ۱۲.۵ ← ۶.۲۵ mg/kg/h) | Lee 2009 | 🟡 |
+| Mannitol ۰.۵–۱ g/kg؛ Na هدف ۱۴۵–۱۵۵؛ Hydrocortisone ۵۰ mg هر ۶ ساعت؛ Acyclovir ۱۰ mg/kg هر ۸ ساعت؛ Methylprednisolone ۶۰ mg؛ Silibinin ۲۰ mg/kg/روز؛ HVP ۸–۱۲ L × ۳ روز | EASL 2017؛ Larsen 2016 | 🟡 |
+| Lactulose ۲۵ ml هر ۱–۲ ساعت ← ۲–۳ اجابت؛ انیما ۳۰۰ ml در ۷۰۰ ml؛ PEG ۴ L؛ Rifaximin ۵۵۰ mg دو بار؛ LOLA؛ Thiamine | AASLD/EASL 2014؛ EASL 2022؛ Bass 2010؛ HELP | 🟡 |
