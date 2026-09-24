@@ -159,8 +159,8 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 | **ریشه‌کنی استرپتوکوک** | **Benzathine penicillin G** | **۱.۲ میلیون واحد** (وزن ≥ ۳۰ kg — در بعضی رهنمودها ≥ ۲۰ kg)؛ **۶۰۰٬۰۰۰ واحد** (وزن کمتر) | IM، **یک دوز** | سپس پیشگیری ثانوی (پایین) |
 | | یا **Phenoxymethylpenicillin (Penicillin V)** | بزرگسال ۵۰۰ mg؛ کودک ۲۵۰ mg | PO، ۲–۳ بار در روز | **۱۰ روز** |
 | | حساسیت به پنسلین: **Azithromycin** | ۱۲ mg/kg (حداکثر ۵۰۰ mg) | PO، روزانه | **۵ روز** |
-| **آرتریت/کاردیت خفیف** | **Aspirin** | بزرگسال ۵۰–۶۰ mg/kg/روز؛ کودک ۵۰–۶۰ mg/kg/روز (در بعضی رهنمودها تا ۸۰–۱۰۰) | PO، تقسیم در ۴ دوز | تا کنترول علایم، سپس کاهش تدریجی طی ۲–۴ هفته |
-| | یا **Naproxen** | ۱۰–۲۰ mg/kg/روز (حداکثر ۱ g/روز) | PO، تقسیم در ۲ دوز | جایگزین Aspirin |
+| **آرتریت/کاردیت خفیف** | **Aspirin** | **۵۰–۶۰ mg/kg/روز**؛ در صورت لزوم افزایش تا حداکثر ۸۰–۱۰۰ mg/kg/روز | PO، تقسیم در ۴–۵ دوز | تا ختم علایم و ۱–۲ هفته پس از آن؛ دوز بالا را پس از بهبود به ۵۰–۶۰ کاهش بده (سمیت: وزوز گوش، GI) |
+| | یا **Naproxen** | ۱۰–۲۰ mg/kg/روز (حداکثر ۱۲۵۰ mg/روز) | PO، تقسیم در ۲ دوز | جایگزین Aspirin؛ تجربهٔ کمتر اما مصئون‌تر و دوز دو بار |
 | **کاردیت شدید (عدم کفایهٔ قلب)** | **Prednisolone** | ۱–۲ mg/kg/روز (حداکثر ۸۰ mg) | PO، روزانه | معمولاً ۲–۳ هفته، سپس کاهش تدریجی؛ شواهد تغییر پروگنوز دریچه‌ای محدود است |
 | **Chorea شدید** | **Carbamazepine** | ۷–۲۰ mg/kg/روز | PO، تقسیم در ۲–۳ دوز | یا Valproate؛ Chorea خودمحدود است |
 
@@ -276,6 +276,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 - Gerber MA, et al. Prevention of Rheumatic Fever and Diagnosis and Treatment of Acute Streptococcal Pharyngitis (AHA). Circulation 2009;119:1541–1551.
 - Connolly SJ, et al. Rivaroxaban in Rheumatic Heart Disease–Associated Atrial Fibrillation (INVICTUS). NEJM 2022;387:978–988.
 - WHO. Rheumatic fever and rheumatic heart disease: Technical Report Series 923, 2004; and WHO guideline on prevention and diagnosis of rheumatic fever and RHD, 2024.
+- RHDAustralia / Australian Prescriber. Prescribing for people with acute rheumatic fever, 2017 (Aspirin ۵۰–۶۰ تا ۸۰–۱۰۰ mg/kg/روز؛ Naproxen ۱۰–۲۰ mg/kg/روز).
 - Harrison's Principles of Internal Medicine, 21st Ed — Aortic and mitral valve disease; Rheumatic fever.
 
 ---
