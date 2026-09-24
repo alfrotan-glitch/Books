@@ -24,7 +24,7 @@
       at(10, 58, box(width: 32mm, height: 6mm, radius: 3mm, fill: rgb("#e9e4f4"), stroke: 0.5pt + purple, align(center + horizon, text(size: 6pt, "قشر بینایی (پس سر)"))))
       let mk(x, y, k) = { dot(x, y, r: 2.2, fill: red); cl(x, y + 0.2, k, w: 4, size: 6.5pt, fill: white, weight: "bold", dir: ltr) }
       mk(36, 17, "1"); mk(26, 24, "2"); mk(37, 40, "3")
-      cl(26, 28.5, "چلیپا", w: 12, size: 6pt, fill: navy)
+      cl(26, 28.5, "کیازما", w: 12, size: 6pt, fill: navy)
     })
     let row(k, t, s, m) = grid(columns: (6mm, 24mm, 24mm), column-gutter: 2mm, align: horizon,
       box(width: 6mm, height: 6mm, radius: 3mm, fill: red, align(center + horizon, text(size: 7pt, fill: white, weight: "bold", k))),
@@ -34,8 +34,8 @@
       stack(dir: ttb, spacing: 5mm,
         grid(columns: (6mm, 24mm, 11mm, 11mm), column-gutter: 2mm, [], [], align(center, text(size: 6.2pt, fill: grey, "راست")), align(center, text(size: 6.2pt, fill: grey, "چپ"))),
         row("1", "عصب بینایی راست", "کوری تمام چشم راست", ("none", "full")),
-        row("2", "چلیپای بینایی", "کوری نیمه خارجی هر دو چشم", ("left", "right")),
-        row("3", "راه بینایی راست (پشت چلیپا)", "کوری نیمه چپ هر دو چشم (همسان)", ("left", "left")),
-        text(size: 6pt, fill: grey)[رشته‌های نیمه داخلی (بینی) هر شبکیه در چلیپا عبور می‌کنند.]))
+        row("2", "کیازمای بصری", "همی‌انوپیای بای‌تمپورال", ("left", "right")),
+        row("3", "راه بینایی راست (پشت کیازما)", "همی‌انوپیای همونیموس چپ", ("left", "left")),
+        text(size: 6pt, fill: grey)[رشته‌های نیمه داخلی (بینی) هر شبکیه در کیازما عبور می‌کنند.]))
   },
 )

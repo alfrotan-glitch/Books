@@ -4,15 +4,17 @@
 
 | دری | English |
 |------------------------------|------------------------------|
-| آبله بزرگ | bulla |
-| آبله کوچک | vesicle |
 | آسیب حاد کلیه | acute kidney injury |
 | ابسه دور لوزه | quinsy; peritonsillar abscess |
+| اپیدیدیمس | epididymis |
+| اتونی رحم | uterine atony |
 | احتکاک پلورا | pleural rub |
 | احتمال پیش از آزمون | pretest probability |
 | ادرار شبانه | nocturia |
 | اذیما؛ پندیدگی | oedema |
 | ارزیابی جامع سالمندی | comprehensive geriatric assessment |
+| استریدور | stridor |
+| استریکسیس | asterixis |
 | افتادگی رحم | uterine prolapse |
 | افت فشار ایستاده | orthostatic hypotension |
 | التهاب شریان صدغی | giant cell arteritis |
@@ -21,37 +23,36 @@
 | امبولی ریوی | pulmonary embolism |
 | انشقاق ابهر | aortic dissection |
 | انصباب پلورا | pleural effusion |
+| ایستموس تایراید | thyroid isthmus |
 | برآمدگی چشم | exophthalmos |
-| بربخ | epididymis |
 | برچسپ زدن مریض | framing |
+| بروئی | bruit |
 | بلاک شاخه | bundle branch block |
 | بلاک کامل قلب | complete heart block |
+| بولا | bulla |
 | بیهوشی گذرا | syncope |
+| پاپول | papule |
+| پاپیل‌اذیما | papilloedema |
 | پاکت‌سال | pack-years |
 | پرکاری تایراید | hyperthyroidism |
-| پندیدگی دیسک بصری | papilloedema |
 | پندیدگی زیر جلد | angioedema |
 | پنوموتوراکس فشاری | tension pneumothorax |
+| پوستول | pustule |
 | پُرطنین | hyperresonant |
 | تب کریمه‌کانگو | Crimean-Congo haemorrhagic fever |
 | تغییرات متقابل | reciprocal changes |
-| تکاثف | consolidation |
 | تکی‌کاردی بطینی | ventricular tachycardia |
-| تنفس صدادار | stridor |
-| تنگه تایراید | thyroid isthmus |
 | تورساد | torsades de pointes |
 | توهم | hallucination |
 | جدا شدن جفت | placental abruption |
-| جلد پوست مالته | peau d'orange |
-| جوف تنباکو | anatomical snuffbox |
+| جلد پوست نارنجی | peau d'orange |
 | جهت‌یابی | orientation |
-| چرک‌دانه | pustule |
 | چوب طبل شدن انگشتان | clubbing |
 | حالت صرعی | status epilepticus |
 | حالت هایپراسمولار | hyperosmolar hyperglycaemic state |
-| حساسیت برگشتی | rebound tenderness |
 | حساسیت به روشنی | photophobia |
 | حساسیت حرکت عنق رحم | cervical motion tenderness |
+| حساسیت ریباوند | rebound tenderness |
 | حس وضعیت | proprioception |
 | حفره حرقفی راست | right iliac fossa |
 | ختم زودهنگام | premature closure |
@@ -59,10 +60,9 @@
 | خونریزی‌های خطی ناخن | splinter haemorrhages |
 | داد سر | tinea capitis |
 | دامنه جگر | liver span |
-| دانه | papule |
 | درد قولنجی | colicky pain |
 | دسترس‌پذیری (خطای شناختی) | availability bias |
-| دفاع ارادی | voluntary guarding |
+| دلیریم | delirium |
 | دنباله بغلی ثدیه | axillary tail |
 | دور وسط بازو | MUAC |
 | دیمنشیا | dementia |
@@ -75,31 +75,30 @@
 | سرطان حجرات سنگفرشی | squamous cell carcinoma |
 | سرطان حجرات قاعده‌ای | basal cell carcinoma |
 | سل ارزنی | miliary tuberculosis |
-| سندرم ذنب اسپ | cauda equina syndrome |
+| سناف‌باکس اناتومیک | anatomical snuffbox |
+| سندرم کودا اکواینا | cauda equina syndrome |
 | سینه‌بغل | pneumonia |
 | شاخص شاک | shock index |
 | شتاب تشخیص | diagnosis momentum |
 | شرسوف | epigastrium |
-| شلی رحم | uterine atony |
-| صدای جریان | bruit |
-| صدای گوش | tinnitus |
 | صفت تالاسیمی | thalassaemia trait |
 | صفحات دموی | platelets |
 | ضد تخثر | anticoagulant |
+| طنین گوش | tinnitus |
 | طوفان تایراید | thyroid storm |
 | عاطفه | affect |
-| عصبون حرکی بالایی | upper motor neuron |
-| عصبون حرکی پایینی | lower motor neuron |
 | عقب ماندن پلک | lid lag |
+| فاسیکولیشن | fasciculations |
 | فاشئیت نکروزدهنده | necrotising fasciitis |
 | فاصله انیونی | anion gap |
 | فبریلیشن اذینی | atrial fibrillation |
-| فرتوتی | frailty |
 | فرج | vulva |
 | فرورفتن پایین قفسه صدری | chest indrawing |
+| فریلتی | frailty |
 | قصبه‌الریه | trachea |
 | قولنج کلیوی | renal colic |
 | کالیبراسیون | calibration |
+| کانسولیدیشن | consolidation |
 | کاهش تون | hypotonia |
 | کرپیتیشن درشت | coarse crackles |
 | کرپیتیشن نرم | fine crackles |
@@ -110,17 +109,12 @@
 | کم‌کاری تایراید | hypothyroidism |
 | کمی قند | hypoglycaemia |
 | کندی حرکت | bradykinesia |
-| کوری نیمه خارجی هر دو چشم | bitemporal hemianopia |
-| کهیر | wheal; urticaria |
 | کیتواسیدوز دیابتی | diabetic ketoacidosis |
 | کیست هایداتید | hydatid cyst; echinococcosis |
+| گاردینگ ارادی | voluntary guarding |
 | گال | scabies |
-| گره | nodule |
-| لرزش‌های کوچک عضله | fasciculations |
-| لرزش بال‌زدنی | asterixis |
-| لرزش چشم | nystagmus |
-| لکه | macule |
 | لنگر انداختن (خطای شناختی) | anchoring bias |
+| ماکول | macule |
 | مجرای منوی | vas deferens |
 | محور قلب | cardiac axis |
 | مراقبت یکپارچه امراض اطفال | IMCI |
@@ -129,12 +123,17 @@
 | ناخن قاشقی | koilonychia |
 | ناله در بازدم | grunting |
 | نسبت احتمال | likelihood ratio |
-| نشانه سایه | silhouette sign |
+| نشانه سیلوئت | silhouette sign |
 | نقصان نبض | pulse deficit |
-| نقص مردمک وابسته | relative afferent pupillary defect |
 | نمره هشداردهنده | early warning score |
-| وترهای کلاهک چرخاننده | rotator cuff |
-| هذیان | delirium |
-| هذیان فکری | delusion |
+| نودول | nodule |
+| نیستاگموس | nystagmus |
+| نیورون حرکی بالایی | upper motor neuron |
+| نیورون حرکی پایینی | lower motor neuron |
+| وترهای روتیتور کف | rotator cuff |
+| وزیکول | vesicle |
+| ویل؛ اورتیکاریا | wheal; urticaria |
+| هذیان | delusion |
+| همی‌انوپیای بای‌تمپورال | bitemporal hemianopia |
 | هیپاتیت ناشی از دوا | drug-induced liver injury |
 | یرقان؛ زردی | jaundice |

@@ -47,13 +47,13 @@
     cl(46, 40.5, "حجره شاخ قدامی", w: 22, size: 6.2pt, fill: gold)
     // brackets
     at(50, 44, box(width: 44mm, fill: white, stroke: 0.6pt + teal, radius: 3pt, inset: 3.5pt, stack(dir: ttb, spacing: 1.5mm,
-      text(size: 7.4pt, weight: "bold", fill: teal, "ضایعه عصبون حرکی بالایی"),
+      text(size: 7.4pt, weight: "bold", fill: teal, "ضایعه نیورون حرکی بالایی"),
       text(size: 6.6pt)[تون زیاد · رفلکس‌ها تشدیدیافته · Babinski مثبت · حجم عضله تقریباً نارمل])))
     at(2, 48, box(width: 44mm, fill: white, stroke: 0.6pt + gold, radius: 3pt, inset: 3.5pt, stack(dir: ttb, spacing: 1.5mm,
-      text(size: 7.4pt, weight: "bold", fill: rgb("#8a6a22"), "ضایعه عصبون حرکی پایینی"),
-      text(size: 6.6pt)[کاهش حجم · لرزش زیر جلد · تون کم · رفلکس کم یا غایب])))
+      text(size: 7.4pt, weight: "bold", fill: rgb("#8a6a22"), "ضایعه نیورون حرکی پایینی"),
+      text(size: 6.6pt)[کاهش حجم · فاسیکولیشن · تون کم · رفلکس کم یا غایب])))
     ln(66, 26, 66, 43.5, s: (paint: teal, thickness: 0.5pt, dash: "dotted"))
     ln(24, 40, 24, 47.5, s: (paint: gold, thickness: 0.5pt, dash: "dotted"))
-    at(2, 3, box(width: 60mm, fill: soft, radius: 3pt, inset: 4pt, text(size: 6.7pt)[راه حرکی دو عصبون دارد: عصبون بالایی از قشر دماغ تا نخاع، و عصبون پایینی از شاخ قدامی نخاع تا عضله. جای ضایعه، نوع نشانه‌ها را تعیین می‌کند.]))
+    at(2, 3, box(width: 60mm, fill: soft, radius: 3pt, inset: 4pt, text(size: 6.7pt)[راه حرکی دو نیورون دارد: نیورون بالایی از قشر دماغ تا نخاع، و نیورون پایینی از شاخ قدامی نخاع تا عضله. جای ضایعه، نوع نشانه‌ها را تعیین می‌کند.]))
   }),
 )
