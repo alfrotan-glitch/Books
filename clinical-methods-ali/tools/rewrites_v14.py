@@ -31,6 +31,7 @@ GLOBAL = [
     (r"متناقص (می‌شو|شده)", r"کم \1", "متناقص → کم"),
     (r"متزاید (می‌شو|شده)", r"زیاد \1", "متزاید → زیاد"),
     (r"(مرض|اسم|دست|رأس)‌اش(?=[\s،.؛:])", r"\1ش", "ـ‌اش after consonant → ـش"),
+    (r"اجرا (آن|این|تست|معاینه) ", r"اجرای \1 ", "ezafe: اجرای"),
     (r"سؤاشکال", "سوءتشکلات", "spelling سوء"),
     (r"سؤشکل", "سوءشکل", "spelling سوء"),
     (r"(?i)cervical spondylitis", "cervical spondylosis", "neck degenerative = spondylosis"),
