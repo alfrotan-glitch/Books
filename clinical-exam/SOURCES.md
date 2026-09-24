@@ -63,3 +63,8 @@
 | ۱۰ | تعریف AKI (۰٫۳ mg/dl در ۴۸ ساعت؛ ۱٫۵× در ۷ روز؛ <۰٫۵ ml/kg/h برای ۶ ساعت) | KDIGO AKI Guideline. Kidney Int Suppl 2012;2:1–138 | ✔ |
 | ۱۰ | پیچ خوردن خصیه: نجات ۹۰–۱۰۰٪ در ۶ ساعت؛ کاهش شدید بعد از ۱۲ و ۲۴ ساعت؛ رفلکس کریماستر غایب | مرورهای معیاری (AMBOSS؛ TeachMeSurgery؛ EAU Paediatric Urology Guidelines) | ✔ |
 | ۱۰ | رهیافت پندیدگی کیسه خصیه؛ فتق مغبنی و فخذی نسبت به برجستگی عانه؛ پروستات | کتاب‌های درسی معاینه و جراحی (Bailey & Love; Macleod's) | ◐ |
+| ۱۱ | از دست رفتن ۱٫۹ ملیون عصبون در هر دقیقه سکته بزرگ؛ ۳٫۶ سال پیری در هر ساعت | Saver JL. Time is brain—quantified. Stroke 2006;37:263–6 | ✔ |
+| ۱۱ | حساسیت Kernig و Brudzinski ۵٪، سختی گردن ۳۰٪ | Thomas KE et al. Clin Infect Dis 2002;35:46–52 | ✔ |
+| ۱۱ | مقیاس GCS و ثبت اجزای آن | Teasdale & Jennett. Lancet 1974;2:81–4؛ Teasdale et al. Lancet Neurol 2014;13:844–54 | ✔ |
+| ۱۱ | پنجره درمان ترومبولیتیک تا ۴٫۵ ساعت؛ status epilepticus بیش از ۵ دقیقه | AHA/ASA Acute Ischemic Stroke Guideline 2019؛ ILAE 2015 definition | ✔ |
+| ۱۱ | MRC 0–5، ریشه‌های رفلکس‌ها، درماتوم‌ها، جدول UMN/LMN، راه رفتن‌ها، BE FAST، Hoover | کتاب‌های معیاری (Macleod's; Aids to the Examination of the PNS) | ◐ |
