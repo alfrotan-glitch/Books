@@ -125,3 +125,11 @@
 | ۲۶ | عکس صدر ابزار غربالگری سل با حساسیت بلند؛ تشخیص با تست مالیکولی؛ سرفه ≥۲ هفته | WHO consolidated guidelines on TB, Module 2 (2021), Module 3 (2024) | ✔ |
 | ۲۶ | نوک تیوب داخل نای ~۵ cm (۳–۷) بالای دوشاخه؛ تأیید جای تیوب معده پیش از غذا | کتاب‌های معیاری مراقبت‌های ویژه؛ NHS Improvement NG tube Patient Safety Alert 2016 | ◐ |
 | ۲۶ | کیست هایداتید شایع در افغانستان؛ الترا ساوند حساس‌تر برای مایع و پنوموتوراکس | WHO echinococcosis fact sheet؛ کتاب‌های معیاری | ◐ |
+| ۲۷ | حد نورمال = ۹۵٪ سالم‌ها؛ ۲۰ تست → احتمال ≥۱ غیرنورمال ≈ ۶۴٪ (محاسبه: ۱−۰٫۹۵^۲۰) | محاسبه آماری؛ کتاب‌های معیاری | ✔ |
+| ۲۷ | کم‌خونی: مرد <۱۳، زن <۱۲، حامله <۱۱، طفل ۶–۵۹ ماه <۱۱ g/dL | WHO Haemoglobin concentrations for the diagnosis of anaemia (2011; 2024 guideline) | ✔ |
+| ۲۷ | AKI: ≥۰٫۳ mg/dL در ۴۸ ساعت، ≥۱٫۵× در ۷ روز، ادرار <۰٫۵ ml/kg/h برای ۶ ساعت | KDIGO AKI Guideline 2012 | ✔ |
+| ۲۷ | اصلاح سودیم مزمن ≤۸–۱۰ mmol/L در ۲۴ ساعت | Spasovski G et al. Eur J Endocrinol 2014 (European hyponatraemia guideline)؛ Verbalis 2013 US expert panel | ✔ |
+| ۲۷ | شکر: ناشتا ≥۱۲۶، HbA1c ≥۶٫۵٪، تصادفی ≥۲۰۰ با علایم؛ قند پایین <۷۰ و <۵۴ | ADA Standards of Care 2024–2025 | ✔ |
+| ۲۷ | هیپاتیت دواهای سل: ALT >۳× با علایم یا >۵× بدون علایم → توقف | ATS/CDC/IDSA 2016 TB treatment guideline؛ ATS statement Saukkonen 2006 | ✔ |
+| ۲۷ | ترپونین صدک ۹۹ و الگوی بالا/پایین | Thygesen 2018؛ ESC 2023 ACS | ✔ |
+| ۲۷ | لاکتیت >۲ و >۴؛ فاصله انیونی ~۸–۱۲؛ نایتریت اختصاصی؛ باکتری بی‌علامت در کلان‌سال درمان نمی‌خواهد | Surviving Sepsis 2021؛ IDSA 2019 asymptomatic bacteriuria؛ کتاب‌های معیاری | ✔/◐ |
