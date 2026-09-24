@@ -139,3 +139,20 @@
 | Osimertinib ۸۰ mg؛ Alectinib ۶۰۰ mg دو بار؛ Lorlatinib ۱۰۰ mg؛ Pembrolizumab ۲۰۰ mg هر ۳ هفته / ۴۰۰ mg هر ۶ هفته؛ Durvalumab ۱۰ mg/kg هر ۲ هفته / ۱۵۰۰ mg هر ۴ هفته؛ Carbo AUC5 + Pemetrexed ۵۰۰ mg/m² با Folate/B12 | برچسب‌های FDA / NCCN (از دانش) | 🟡 |
 | Dexamethasone در فشردگی نخاع و متاستاز مغزی؛ Zoledronic acid ۴ mg؛ Denosumab ۱۲۰ mg | از دانش | 🟡 |
 | ابسه: Amp/Sulb ۳ g هر ۶ ساعت؛ Clindamycin؛ Co-amoxiclav ۸۷۵/۱۲۵ mg دو بار؛ Pip/Tazo؛ Meropenem | از دانش | 🟡 |
+
+## فصل ۲۲ — کفایهٔ تنفسی و ARDS
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Vt ۴–۸ (۶) ml/kg PBW؛ Plateau ≤۳۰؛ Prone ۱۲–۱۶ ساعت اگر P/F کمتر از ۱۵۰ | ARDSNet 2000؛ PROSEVA 2013؛ ATS 2024 | ✅ (مراجع شناخته‌شده؛ از دانش) |
+| DEXA-ARDS: Dexamethasone ۲۰ mg × ۵ روز ← ۱۰ mg × ۵ روز؛ COVID: ۶ mg × ۱۰ روز | DEXA-ARDS؛ RECOVERY | 🟡 |
+| RSI: Ketamine ۱–۲، Etomidate ۰.۳، Rocuronium ۱.۲، Sux ۱–۱.۵ mg/kg؛ Cisatracurium ۰.۱۵ mg/kg ← ۳۷.۵ mg/h؛ Naloxone ۰.۴ mg | فورمولری (از دانش) | 🟡 |
+| اهداف اکسیجن و جدول وسایل؛ رنگ‌های Venturi (متفاوت میان تولیدکنندگان) | BTS 2017 | 🟡 |
+| PaO₂ نورمال در ارتفاع کابل | تقریبی | 🟡 باید با منبع محلی تأیید شود |
+
+## فصل ۲۳ — سرفه و همپتیزی
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Gabapentin تا ۹۰۰ mg دو بار؛ Morphine SR ۵ mg دو بار؛ Gefapixant ۴۵ mg دو بار (EU/جاپان) | Ryan 2012؛ Morice 2007؛ COUGH-1/2 | 🟡 |
+| TXA نیبولایزر ۵۰۰ mg هر ۸ ساعت؛ IV ۱ g هر ۸ ساعت | Wand 2018 | 🟡 |
+| اصلاح انتی‌کواگولانت (Vit K، PCC، Idarucizumab ۵ g) | فورمولری | 🟡 |
+| Fluticasone بینی، Chlorphenamine، Omeprazole ۲۰–۴۰ mg دو بار، Azithromycin برای سیاه‌سرفه، Codeine | از دانش | 🟡 |
