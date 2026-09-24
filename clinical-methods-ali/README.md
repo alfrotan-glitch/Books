@@ -1,5 +1,8 @@
 # معاینه کلینیکی: از تاریخچه تا تشخیص (داکتر الله یار فروتن)
 
+> ⚠️ **NOT FOR PUBLICATION.** This project is an edited derivative of the copyrighted book «میتودهای کلینیکی علی». It is kept only as an internal reference and editing record. It must not be published or sold under any author's name without written permission from the rights holder. The new, original book is in `../clinical-exam/`.
+
+
 _Formerly titled «میتودهای کلینیکی علی»; file names keep the `clinical-methods-ali-*` prefix._
 
 **Status: edition v1.5, final title, vector cover, clean front matter (September 2026).** Evaluation: `EVALUATION.md`. Print specification and checklist: `PUBLISHING.md`. The finished files are in `release/`:
