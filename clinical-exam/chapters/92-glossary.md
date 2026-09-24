@@ -97,16 +97,16 @@
 | فرتوتی | frailty |
 | فرج | vulva |
 | فرورفتن پایین قفسه صدری | chest indrawing |
-| قند پایین | hypoglycaemia |
 | کالیبراسیون | calibration |
 | کاهش تون | hypotonia |
 | کرپیتیشن درشت | coarse crackles |
 | کرپیتیشن نرم | fine crackles |
-| کریوات سرخ | red blood cells |
-| کریوات سفید | white blood cells |
+| کرویات سرخ | red blood cells |
+| کرویات سفید | white blood cells |
 | کلپس شش | lung collapse |
 | کم‌خونی | anaemia |
 | کم‌کاری تایراید | hypothyroidism |
+| کمی قند | hypoglycaemia |
 | کندی حرکت | bradykinesia |
 | کوری نیمه خارجی هر دو چشم | bitemporal hemianopia |
 | کهیر | wheal; urticaria |
