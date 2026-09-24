@@ -95,3 +95,7 @@
 | ۱۹ | تعریف فشار بلند حاملگی ≥۱۴۰/۹۰؛ پره‌اکلامپسی؛ شدید ≥۱۶۰/۱۱۰؛ مگنیزیم سلفیت | ISSHP 2021 (Magee LA et al. Pregnancy Hypertens 2022;27:148–69)؛ ACOG PB 222 (2020) | ✔ |
 | ۱۹ | ضربان نارمل قلب طفل ۱۱۰–۱۶۰ | FIGO 2015 (Ayres-de-Campos D et al. Int J Gynaecol Obstet 2015;131:13–24) | ✔ |
 | ۱۹ | تغییرات فیزیولوژیک؛ ارتفاع رحم ±۲ cm از ۲۰–۳۶ هفته؛ Naegele؛ Leopold؛ جفت پیش‌رو/جدا شدن جفت؛ خونریزی بعد از ولادت؛ perimortem caesarean در ۴ دقیقه | کتاب‌های معیاری (Williams Obstetrics)؛ WHO PCPNC؛ RCOG GTG 52؛ ERC/AHA resuscitation in pregnancy | ◐ |
+| ۲۰ | خونریزی بعد از یائسگی در ≥۵۵ سال: راجع مشکوک به سرطان | NICE NG12 (endometrial cancer) | ✔ |
+| ۲۰ | غربالگری عنق رحم از ۳۰ سالگی با HPV هر ۵–۱۰ سال؛ HIV از ۲۵؛ VIA با اسید اسیتیک ۳–۵٪ | WHO guideline for screening and treatment of cervical pre-cancer lesions, 2nd ed. 2021 | ✔ |
+| ۲۰ | علایم سرطان تخمدان؛ CA125 | NICE CG122 | ✔ |
+| ۲۰ | دوره نارمل ۲۱–۳۵ روز و تا ۸ روز؛ الگوهای PID، پیچ خوردن تخمدان، PCOS، فیستول ولادی؛ تکنیک معاینه | FIGO AUB System 1 (Munro 2018)؛ کتاب‌های معیاری (Berek & Novak; Macleod's)؛ WHO obstetric fistula fact sheet | ◐ |
