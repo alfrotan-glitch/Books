@@ -1,0 +1,38 @@
+---
+title: "معاینه کلینیکی"
+subtitle: "از تاریخچه تا تشخیص"
+author: "داکتر الله یار فروتن"
+author-en: "Dr Allah Yar Frotan"
+lang: fa-AF
+dir: rtl
+page-progression-direction: rtl
+rights: "© ۲۰۲۶ داکتر الله یار فروتن. تمام حقوق محفوظ است."
+description: "کتاب درسی و رهنمای کنار بستر به زبان دری برای محصلان طب، داکتران جوان و متخصصان: از گرفتن تاریخچه تا استدلال کلینیکی، معاینه همه سیستم‌ها، مریضان خاص و رهیافت به شکایات شایع؛ با قصه‌های کنار بستر، قانون‌های به‌یادماندنی، شواهد علمی و چک‌لیست‌های OSCE."
+identifier:
+  - scheme: UUID
+    text: "urn:uuid:fee4d5ec-8a56-5ede-a289-b4e54b6556e0"
+subject:
+  - "طب کلینیکی"
+  - "معاینه فزیکی"
+  - "Physical examination"
+  - "Clinical medicine"
+  - "Medical education — Dari"
+keywords: ["معاینه کلینیکی", "تاریخچه‌گیری", "ECG", "طب دری", "clinical examination", "physical examination"]
+accessModes: ["textual", "visual"]
+accessModeSufficient: ["textual,visual", "textual"]
+accessibilityFeatures: ["alternativeText", "readingOrder", "structuralNavigation", "tableOfContents", "displayTransformability"]
+accessibilityHazards: ["none"]
+accessibilitySummary: "متن کتاب کاملاً متنی و قابل تغییر اندازه است؛ همه شکل‌ها متن جایگزین (alt) دارند؛ فصل‌ها و عنوان‌ها ساختار ناویگیشن دارند. Fully reflowable text; every figure has alternative text; structured headings and table of contents."
+# publisher / isbn: add here when obtained (both are then printed automatically on the imprint page)
+toc: true
+toc-depth: 2
+toc-title: "فهرست مطالب"
+mainfont: "Vazirmatn"
+fontsize: 10.5pt
+date: "2026"
+date-display: "۱۴۰۵ هجری شمسی"
+edition: "اول (۱۴۰۵)"
+cover-image: "assets/cover.jpg"
+papersize: a5
+epub-css: "epub.css"
+---

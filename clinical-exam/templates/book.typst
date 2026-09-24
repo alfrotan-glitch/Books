@@ -1,0 +1,289 @@
+// ─────────────────────────────────────────────────────────────
+//  Book template — «معاینه کلینیکی: از تاریخچه تا تشخیص»
+//  A5, RTL Dari, Vazirmatn. Used by build.sh via pandoc --template.
+// ─────────────────────────────────────────────────────────────
+#let navy  = rgb("#0f2744")
+#let teal  = rgb("#136f73")
+#let gold  = rgb("#b8913a")
+#let soft  = rgb("#eef5f5")
+
+#let horizontalrule = align(center, block(above: 1em, below: 1em,
+  text(fill: gold, size: 10pt)[❖ #h(0.6em) ❖ #h(0.6em) ❖]))
+
+#show terms.item: it => block(breakable: false)[
+  #text(weight: "bold")[#it.term]
+  #block(inset: (right: 1.5em, top: -0.4em))[#it.description]
+]
+
+#import "tools/cover/art.typ": cover-art
+#set document(title: "معاینه کلینیکی: از تاریخچه تا تشخیص", author: "داکتر الله یار فروتن", keywords: ("معاینه کلینیکی", "clinical examination", "Dari", "medical education", "ECG"), date: datetime(year: 2026, month: 9, day: 24))
+#set text(font: ("Vazirmatn",), size: $if(fontsize)$$fontsize$$else$10.5pt$endif$, lang: "fa", dir: rtl, fill: rgb("#1b1b1b"))
+#set par(justify: true, leading: 0.95em, spacing: 1.1em, first-line-indent: 0pt)
+
+// ── tables ──
+#set table(stroke: 0.5pt + rgb("#9fb8bb"), inset: (x: 7pt, y: 5pt),
+  fill: (x, y) => if y == 0 { teal } else if calc.even(y) { soft } else { white })
+#show table.cell.where(y: 0): set text(fill: white, weight: "bold")
+#show table.cell: set par(justify: false)
+#show figure.where(kind: table): set figure.caption(position: top)
+#show figure.where(kind: table): set block(breakable: true)
+#show figure.caption: set text(size: 8.5pt, fill: teal, weight: "bold")
+#set figure(numbering: none, gap: 0.6em, supplement: none)
+#show figure.where(kind: image): it => block(width: 100%, breakable: false, above: 1.2em, below: 1.2em,
+  inset: (x: 6pt, y: 7pt), radius: 3pt, stroke: 0.5pt + rgb("#cfdede"))[
+  #set image(width: 100%)
+  #align(center, box(width: 100%, it.body))
+  #v(0.2em)
+  #align(center, it.caption.body)
+]
+
+// ── lists ──
+#set list(marker: text(fill: teal)[●], indent: 0.4em, body-indent: 0.6em)
+#set enum(numbering: "۱.", indent: 0.4em, body-indent: 0.6em)
+
+// ── headings ──
+#set heading(numbering: none)
+#show pagebreak.where(to: "odd"): set page(header: none, footer: none)
+#show heading.where(level: 1): it => {
+  pagebreak(weak: true$if(print-edition)$, to: "odd"$endif$)
+  [#metadata("chapter-start") <chapter-start>]
+  v(16%)
+  align(center, block(width: 100%)[
+    #text(fill: gold, size: 14pt)[❖]
+    #v(0.3em)
+    #if it.supplement != none and it.supplement != [] [
+      #text(size: 12pt, fill: teal, weight: "bold", tracking: 1pt)[#it.supplement]
+      #v(0.1em)
+    ]
+    #text(size: 21pt, weight: "bold", fill: navy)[#it.body]
+    #v(0.2em)
+    #line(length: 45%, stroke: 1.2pt + gold)
+  ])
+  v(2.2em)
+}
+
+// ── reading aids ──
+#let note(body) = block(width: 100%, breakable: true, above: 1.1em, below: 1.1em,
+  fill: rgb("#fbf6ea"), inset: (x: 11pt, y: 8pt), radius: 3pt,
+  stroke: (right: 3.5pt + gold))[#set par(spacing: 0.7em); #body]
+#let objectives(body) = block(width: 100%, breakable: true, above: 0.4em, below: 1.4em,
+  fill: rgb("#eef5f5"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + teal))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let keypoints(body) = block(width: 100%, breakable: true, above: 1.8em, below: 1.0em,
+  fill: rgb("#0f2744").lighten(92%), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: 0.8pt + rgb("#0f2744"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let selftest(body) = block(width: 100%, breakable: true, above: 1.0em, below: 1.2em,
+  inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (paint: gold, thickness: 0.8pt, dash: "dashed"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let redflags(body) = block(width: 100%, breakable: true, above: 1.6em, below: 1.0em,
+  fill: rgb("#fdf0ee"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + rgb("#b3261e")))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #show strong: set text(fill: rgb("#b3261e")); #body]
+#let casebox(body) = block(width: 100%, breakable: true, above: 1.0em, below: 1.0em,
+  fill: rgb("#f3f0fa"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + rgb("#5b4a9e")))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+// ── new-book boxes ──
+#let story(body) = block(width: 100%, breakable: true, above: 0.6em, below: 1.4em,
+  fill: rgb("#f6f3ec"), inset: (x: 14pt, y: 11pt), radius: 4pt)[
+  #set par(spacing: 0.75em, leading: 0.85em); #set text(size: 10pt, fill: rgb("#2b2b2b")); #show strong: set text(fill: teal); #body]
+#let bigidea(body) = block(width: 100%, breakable: false, above: 1.4em, below: 1.6em)[
+  #set align(center)
+  #line(length: 30%, stroke: 0.8pt + gold)
+  #v(0.2em)
+  #block(inset: (x: 8pt))[#set text(size: 12.5pt, fill: navy); #set par(justify: false, leading: 0.9em); #body]
+  #v(0.2em)
+  #line(length: 30%, stroke: 0.8pt + gold)]
+#let rule(body) = block(width: 100%, breakable: false, above: 1.3em, below: 1.3em,
+  fill: rgb("#fbf6ea"), inset: (x: 13pt, y: 10pt), radius: 5pt,
+  stroke: 1pt + gold)[#set par(spacing: 0.5em, justify: false); #set text(size: 10.5pt); #show strong: set text(fill: rgb("#8a6a22")); #text(fill: gold)[❖] #h(0.3em) #body]
+#let evidence(body) = block(width: 100%, breakable: true, above: 1.2em, below: 1.2em,
+  fill: rgb("#eef5f5"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + teal))[#set par(spacing: 0.6em); #set text(size: 9.5pt); #show strong: set text(fill: teal); #body]
+#let pitfall(body) = block(width: 100%, breakable: true, above: 1.2em, below: 1.2em,
+  fill: rgb("#fdf0ee"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + rgb("#b3261e")))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #show strong: set text(fill: rgb("#b3261e")); #body]
+#let expert(body) = block(width: 100%, breakable: true, above: 1.2em, below: 1.2em,
+  fill: rgb("#f3f0fa"), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (right: 3.5pt + rgb("#5b4a9e")))[#set par(spacing: 0.6em); #set text(size: 9.5pt); #show strong: set text(fill: rgb("#5b4a9e")); #body]
+#let summary(body) = block(width: 100%, breakable: true, above: 1.8em, below: 1.0em,
+  fill: rgb("#0f2744").lighten(92%), inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: 0.8pt + rgb("#0f2744"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #body]
+#let practice(body) = block(width: 100%, breakable: false, above: 1.0em, below: 1.2em,
+  inset: (x: 12pt, y: 9pt), radius: 4pt,
+  stroke: (paint: teal, thickness: 0.9pt, dash: "dashed"))[#set par(spacing: 0.6em); #set text(size: 9.8pt); #show strong: set text(fill: teal); #body]
+#let figph(body) = block(width: 100%, breakable: false, above: 1em, below: 1em,
+  inset: (x: 10pt, y: 7pt), radius: 3pt,
+  stroke: (paint: rgb("#9fb8bb"), thickness: 0.6pt, dash: "dashed"))[
+  #set text(size: 9pt, fill: teal)
+  #set align(center)
+  ▣ #h(0.3em) #body]
+#show heading.where(level: 2): it => block(sticky: true, breakable: false, above: 1.8em, below: 0.9em, width: 100%,
+  fill: soft, inset: (x: 10pt, y: 7pt), radius: 3pt,
+  stroke: (right: 3.5pt + teal))[#text(size: 13.5pt, weight: "bold", fill: navy)[#it.body]]
+#show heading.where(level: 3): it => block(sticky: true, above: 1.4em, below: 0.6em)[
+  #text(size: 11.5pt, weight: "bold", fill: teal)[◆ #it.body]]
+#show heading.where(level: 4): it => block(sticky: true, above: 1.2em, below: 0.5em)[
+  #text(size: 10.5pt, weight: "bold", fill: navy)[#it.body]]
+#show strong: set text(fill: navy)
+
+// ════════════════ COVER ════════════════
+$if(print-edition)$$else$
+#page(paper: "a5", margin: 0pt, numbering: none, header: none, footer: none,
+  background: place(top + left, dx: -3mm, dy: -3mm, cover-art()))[
+  #v(8%)
+  #align(center)[
+    #text(fill: gold, size: 12pt, tracking: 2pt)[❖ ❖ ❖]
+    #v(0.6em)
+    #text(fill: white, size: 32pt, weight: "bold")[$title$]
+    #v(0.1em)
+    $if(subtitle)$#text(fill: rgb("#e8d7b0"), size: 17pt, weight: "bold")[$subtitle$]$endif$
+    #v(0.3em)
+    #text(fill: rgb("#d9e8e8"), size: 11pt)[رهنمای عملی برای محصلان طب و داکتران جوان]
+    #v(0.5em)
+    #line(length: 35%, stroke: 1pt + gold)
+    #v(0.6em)
+    #text(fill: gold, size: 13pt, weight: "bold")[$for(author)$$author$$sep$ ، $endfor$]
+  ]
+]
+$endif$
+
+// ════════════════ FRONT MATTER ════════════════
+#set page(paper: "a5",
+  margin: (inside: 2.1cm, outside: 1.6cm, top: 2.2cm, bottom: 2cm),
+  binding: right, numbering: none, header: none, footer: none)
+
+// half-title
+#page[#align(center + horizon)[#text(size: 22pt, weight: "bold", fill: navy)[$title$]]]
+#page[]  // blank verso
+
+// title page
+#page[
+  #align(center)[
+    #v(14%)
+    #text(size: 26pt, weight: "bold", fill: navy)[$title$]
+    #v(0.2em)
+    $if(subtitle)$#text(size: 13pt, fill: teal)[$subtitle$]$endif$
+    #v(0.8em)
+    #line(length: 40%, stroke: 1pt + gold)
+    #v(2.5em)
+    #text(size: 10pt, fill: rgb("#555"))[تألیف]
+    #v(0.2em)
+    #text(size: 15pt, weight: "bold")[$for(author)$$author$$sep$ ، $endfor$]
+    #v(1fr)
+    $if(publisher)$#text(size: 10pt)[$publisher$]$endif$
+    $if(date-display)$\ #text(size: 10pt)[$date-display$]$endif$
+  ]
+]
+
+// copyright / imprint page
+#page[
+  #v(1fr)
+  #set text(size: 8.5pt)
+  #set align(right)
+  #set par(justify: false, leading: 0.8em)
+  #show table.cell: set text(fill: black, weight: "regular")
+  #table(columns: (auto, 1fr), stroke: none, fill: none, inset: 3pt,
+    [*نام کتاب:*], [$title$$if(subtitle)$: $subtitle$$endif$],
+    [*مؤلف:*], [$for(author)$$author$$sep$ ، $endfor$],
+    $if(publisher)$[*ناشر:*], [$publisher$],$endif$
+    $if(edition)$[*نوبت چاپ:*], [$edition$],$endif$
+    $if(date-display)$[*سال نشر:*], [$date-display$],$endif$
+    $if(isbn)$[*شابک (ISBN):*], [$isbn$],$else$$if(isbn-display)$[*شابک (ISBN):*], [$isbn-display$],$endif$$endif$
+  )
+  #v(0.6em)
+  $if(rights)$#text[$rights$]$endif$
+  #v(0.6em)
+  #text(fill: rgb("#555"))[مریضان و قصه‌های این کتاب فرضی اند؛ هر شباهت با اشخاص واقعی تصادفی است.]
+  #v(0.4em)
+  #text(fill: rgb("#555"))[این کتاب صرف برای مقاصد آموزشی تهیه گردیده است و جانشین قضاوت کلینیکی داکتر معالج نمی‌باشد.]
+]
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+// table of contents
+#page(numbering: none)[
+  #align(center)[#text(size: 18pt, weight: "bold", fill: navy)[$if(toc-title)$$toc-title$$else$فهرست مطالب$endif$]]
+  #v(0.4em)
+  #align(center)[#line(length: 30%, stroke: 1pt + gold)]
+  #v(1em)
+  #show outline.entry.where(level: 1): it => {
+    v(0.55em)
+    let sup = it.element.supplement
+    let lbl = if sup != none and sup != [] and sup != [Section] and sup != [بخش] { text(fill: teal)[#sup: ] } else { [] }
+    strong(link(it.element.location(), it.indented(none, [#lbl#it.element.body #box(width: 1fr, repeat[.]) #it.page()])))
+  }
+  #outline(title: none, depth: $if(toc-depth)$$toc-depth$$else$2$endif$, indent: 1.2em)
+]
+
+// ════════════════ BODY ════════════════
+$if(print-edition)$#pagebreak(to: "odd", weak: true)$endif$
+#set page(
+  numbering: "۱",
+  header: context {
+    let p = here().page()
+    let starts = query(<chapter-start>).filter(m => m.location().page() == p)
+    let before = query(heading.where(level: 1).before(here()))
+    if starts.len() == 0 and before.len() > 0 {
+      let ct = before.last().body
+      set text(size: 8pt, fill: rgb("#666"))
+      grid(columns: (1fr, 1fr),
+        align(right)[$title$], align(left)[#ct])
+      v(-0.4em)
+      line(length: 100%, stroke: 0.4pt + gold)
+    }
+  },
+  footer: context {
+    let p = here().page()
+    set text(size: 9pt, fill: navy)
+    align(center)[— #counter(page).display("۱") —]
+  },
+)
+#counter(page).update(1)
+// ── subject index with page numbers: mark every occurrence of an index term ──
+#let idx-re = regex(json("build/index-terms.json").pattern)
+#show idx-re: it => it + [#metadata(lower(it.text)) <idx>]
+#let book-index(terms) = context {
+  let stop = query(<backmatter>)
+  let stop-page = if stop.len() > 0 { stop.first().location().page() } else { 100000 }
+  let start-page = query(<chapter-start>).first().location().page()
+  let marks = query(<idx>).filter(m => m.location().page() >= start-page and m.location().page() < stop-page and m.location().position().y > 2.1cm)
+  let pages = (:)
+  for m in marks {
+    let k = m.value
+    let n = counter(page).at(m.location()).first()
+    let prev = pages.at(k, default: ())
+    if n not in prev { prev.push(n) }
+    pages.insert(k, prev)
+  }
+  let fmt(n) = numbering("۱", n)
+  set par(justify: false, first-line-indent: 0pt, hanging-indent: 1em, spacing: 0.45em)
+  set text(size: 9pt)
+  columns(2, gutter: 1.2em, for t in terms {
+    let ps = pages.at(lower(t), default: ())
+    // collapse runs of consecutive pages into ranges
+    let out = (); let i = 0
+    while i < ps.len() {
+      let j = i
+      while j + 1 < ps.len() and ps.at(j + 1) == ps.at(j) + 1 { j += 1 }
+      out.push(box(if j > i { fmt(ps.at(i)) + "–" + fmt(ps.at(j)) } else { fmt(ps.at(i)) }))
+      i = j + 1
+    }
+    block(breakable: false)[*#t*#h(0.4em)#text(fill: rgb("#136f73"))[#out.join([، ])]]
+  })
+}
+
+$if(draft-watermark)$
+#set page(background: rotate(-35deg, text(size: 34pt, fill: rgb(200, 30, 30, 35), weight: "bold")[$draft-watermark$]))
+$endif$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+$if(print-edition)$
+// print: make the total page count even (blank last verso)
+#context if calc.odd(here().page()) { page(header: none, footer: none)[] }
+$endif$
