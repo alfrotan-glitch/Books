@@ -71,7 +71,7 @@
 | زمان پُر شدن مویرگی | capillary refill time |
 | زونا | herpes zoster |
 | سرچرخی | dizziness; vertigo |
-| سرچرخی موضعی حمله‌ای خوش‌خیم | BPPV |
+| سرچرخی وضعیتی حمله‌ای خوش‌خیم | BPPV |
 | سرطان حجرات سنگفرشی | squamous cell carcinoma |
 | سرطان حجرات قاعده‌ای | basal cell carcinoma |
 | سل ارزنی | miliary tuberculosis |
