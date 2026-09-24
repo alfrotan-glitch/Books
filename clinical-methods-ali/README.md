@@ -1,12 +1,14 @@
-# میتودهای کلینیکی علی (داکتر الله یار فروتن)
+# معاینه کلینیکی: از تاریخچه تا تشخیص (داکتر الله یار فروتن)
 
-**Status: edition v1.4, deep language & science review (September 2026).** Evaluation: `EVALUATION.md`. Print specification and checklist: `PUBLISHING.md`. The finished files are in `release/`:
+_Formerly titled «میتودهای کلینیکی علی»; file names keep the `clinical-methods-ali-*` prefix._
+
+**Status: edition v1.5, final title, vector cover, clean front matter (September 2026).** Evaluation: `EVALUATION.md`. Print specification and checklist: `PUBLISHING.md`. The finished files are in `release/`:
 
 | File | Use |
 |---|---|
-| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 438 pages, no cover, chapters open on recto, vector figures |
-| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 24.1 mm spine + front, 3 mm bleed) |
-| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 430 pages, subject index with page numbers |
+| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 440 pages, no cover, chapters open on recto, vector figures |
+| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 24.2 mm spine + front, 3 mm bleed) |
+| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 431 pages, subject index with page numbers |
 | `release/clinical-methods-ali.epub` | E-book (EPUB 3, RTL; epubcheck: 0 errors, 0 warnings) |
 | `release/clinical-methods-ali.docx` | Editable Word version |
 
@@ -18,7 +20,14 @@
   - 22 mind maps, algorithms, schematics and summary tables (chapters 1–13)
 
   All are original schematics. The ECGs are synthetic, drawn at 25 mm/s and 10 mm/mV.
-- **No ISBN yet.** The imprint page states this.
+- **No ISBN/publisher yet.** Nothing about this is printed in the book; add `isbn:` / `publisher:` to `metadata.yaml` when obtained and rebuild.
+
+## v1.5 additions
+- New title «معاینه کلینیکی: از تاریخچه تا تشخیص»; cover tagline «رهنمای عملی برای محصلان طب و داکتران جوان».
+- Cover art redrawn as pure vector Typst (`tools/cover/art.typ`); EPUB cover rendered at 300 dpi (1749×2481).
+- All editorial/meta notes removed from inside the book (no version numbers, no "added in later editions", no ISBN placeholders).
+- Imprint table fixed (title was rendered white); print interior padded to an even page count (440).
+- Author sign-off list: `AUTHOR-REVIEW.md`.
 
 ## v1.2 additions
 - Full language pass: 1,350 verb-register fixes and 74 long sentences rewritten.

@@ -1,5 +1,5 @@
 // ─────────────────────────────────────────────────────────────
-//  Book template — «میتودهای کلینیکی علی»
+//  Book template — «معاینه کلینیکی: از تاریخچه تا تشخیص»
 //  A5, RTL Dari, Vazirmatn. Used by build.sh via pandoc --template.
 // ─────────────────────────────────────────────────────────────
 #let navy  = rgb("#0f2744")
@@ -15,7 +15,8 @@
   #block(inset: (right: 1.5em, top: -0.4em))[#it.description]
 ]
 
-#set document(title: "میتودهای کلینیکی علی", author: "داکتر الله یار فروتن", keywords: ("معاینه کلینیکی", "clinical examination", "Dari", "medical education", "ECG"), date: datetime(year: 2026, month: 9, day: 24))
+#import "tools/cover/art.typ": cover-art
+#set document(title: "معاینه کلینیکی: از تاریخچه تا تشخیص", author: "داکتر الله یار فروتن", keywords: ("معاینه کلینیکی", "clinical examination", "Dari", "medical education", "ECG"), date: datetime(year: 2026, month: 9, day: 24))
 #set text(font: ("Vazirmatn",), size: $if(fontsize)$$fontsize$$else$10.5pt$endif$, lang: "fa", dir: rtl, fill: rgb("#1b1b1b"))
 #set par(justify: true, leading: 0.95em, spacing: 1.1em, first-line-indent: 0pt)
 
@@ -98,14 +99,16 @@
 // ════════════════ COVER ════════════════
 $if(print-edition)$$else$
 #page(paper: "a5", margin: 0pt, numbering: none, header: none, footer: none,
-  background: image("assets/cover-art.jpg", width: 100%, height: 100%))[
-  #v(15%)
+  background: place(top + left, dx: -3mm, dy: -3mm, cover-art()))[
+  #v(8%)
   #align(center)[
     #text(fill: gold, size: 12pt, tracking: 2pt)[❖ ❖ ❖]
     #v(0.6em)
-    #text(fill: white, size: 30pt, weight: "bold")[$title$]
+    #text(fill: white, size: 32pt, weight: "bold")[$title$]
     #v(0.1em)
-    $if(subtitle)$#text(fill: rgb("#d9e8e8"), size: 13pt)[$subtitle$]$endif$
+    $if(subtitle)$#text(fill: rgb("#e8d7b0"), size: 17pt, weight: "bold")[$subtitle$]$endif$
+    #v(0.3em)
+    #text(fill: rgb("#d9e8e8"), size: 11pt)[رهنمای عملی برای محصلان طب و داکتران جوان]
     #v(0.5em)
     #line(length: 35%, stroke: 1pt + gold)
     #v(0.6em)
@@ -148,8 +151,9 @@ $endif$
   #set text(size: 8.5pt)
   #set align(right)
   #set par(justify: false, leading: 0.8em)
+  #show table.cell: set text(fill: black, weight: "regular")
   #table(columns: (auto, 1fr), stroke: none, fill: none, inset: 3pt,
-    [*نام کتاب:*], [$title$],
+    [*نام کتاب:*], [$title$$if(subtitle)$: $subtitle$$endif$],
     [*مؤلف:*], [$for(author)$$author$$sep$ ، $endfor$],
     $if(publisher)$[*ناشر:*], [$publisher$],$endif$
     $if(edition)$[*نوبت چاپ:*], [$edition$],$endif$
@@ -159,7 +163,7 @@ $endif$
   #v(0.6em)
   $if(rights)$#text[$rights$]$endif$
   #v(0.6em)
-  #text(fill: rgb("#555"))[تمام شکل‌ها، شیماها و نقشه‌های ذهنی این کتاب به صورت شیماتیک برای همین نسخه ترسیم شده‌اند؛ ECGها مصنوعی بوده و از مریض واقعی گرفته نشده‌اند. اندازه‌های نارمل مطابق رهنمودهای معتبر بین‌المللی (تا سال ۲۰۲۶) بازبینی گردیده‌اند.]
+  #text(fill: rgb("#555"))[شکل‌ها، شیماها و نقشه‌های ذهنی این کتاب شیماتیک اند؛ ECGها نمونه‌های آموزشی اند و از مریض واقعی گرفته نشده‌اند.]
   #v(0.4em)
   #text(fill: rgb("#555"))[این کتاب صرف برای مقاصد آموزشی تهیه گردیده است و جانشین قضاوت کلینیکی داکتر معالج نمی‌باشد.]
 ]
@@ -249,3 +253,8 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
+
+$if(print-edition)$
+// print: make the total page count even (blank last verso)
+#context if calc.odd(here().page()) { page(header: none, footer: none)[] }
+$endif$

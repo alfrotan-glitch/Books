@@ -257,7 +257,7 @@ for anchor, name, cap in ADD:
 REPORT.append(f"{k:5d}  additional teaching figures / mind maps inserted")
 # chapter-5 list of X-ray images: images not reproducible -> short note instead of a dangling list
 t = t.replace("**فهرست اشکال و دیاگرام‌های فصل**\n",
-  "::: note\n**یادداشت:** رادیوگرافی‌های واقعی این فصل (فهرست ذیل) در نسخه‌های بعدی علاوه خواهند شد؛ برای دیدن نمونه‌ها به اطلس‌های معتبر رادیولوژی مراجعه نمایید.\n:::\n\n**فهرست رادیوگرافی‌های پیشنهادی این فصل**\n", 1)
+  "::: note\n**یادداشت:** برای دیدن رادیوگرافی‌های واقعیِ حالات فهرست ذیل، به اطلس‌های معتبر رادیولوژی مراجعه کنید.\n:::\n\n**فهرست رادیوگرافی‌های پیشنهادی این فصل**\n", 1)
 DST.write_text(t, encoding="utf-8")
 with open(ROOT / "build/edit-report.txt", "a", encoding="utf-8") as f:
     f.write("\n".join(REPORT[-3:]) + "\n")

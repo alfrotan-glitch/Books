@@ -26,9 +26,9 @@
 **یادداشت:** نکات عملی و توضیحات مهم در داخل متن.
 :::
 
-**شکل‌ها و الگوریتم‌ها:** شکل‌ها، نقشه‌های ذهنی و الگوریتم‌های این کتاب به صورت شیماتیک برای همین نسخه ترسیم شده‌اند. ECGها مصنوعی‌اند و بر اساس کاغذ استندرد (۲۵ mm/s و ۱۰ mm/mV) رسم شده‌اند.
+**شکل‌ها و الگوریتم‌ها:** شکل‌ها، نقشه‌های ذهنی و الگوریتم‌های این کتاب به صورت شیماتیک ترسیم شده‌اند. ECGها مصنوعی‌اند و بر اساس کاغذ استندرد (۲۵ mm/s و ۱۰ mm/mV) رسم شده‌اند.
 
-**اندازه‌های نارمل:** اندازه‌ها و معیارها بر اساس رهنمودهای معتبر بین‌المللی تا سال ۲۰۲۶ بازبینی شده‌اند. فهرست منابع در ضمیمه آخر کتاب آمده است. اندازه‌های نارمل لابراتوار ممکن از یک لابراتوار به لابراتوار دیگر کمی فرق کند؛ همیشه حدود نارمل همان لابراتوار را در نظر بگیرید.
+**اندازه‌های نارمل:** اندازه‌ها و معیارها مطابق رهنمودهای معتبر بین‌المللی ذکر شده‌اند. فهرست منابع در ضمیمه آخر کتاب آمده است. اندازه‌های نارمل لابراتوار ممکن از یک لابراتوار به لابراتوار دیگر کمی فرق کند؛ همیشه حدود نارمل همان لابراتوار را در نظر بگیرید.
 
 **اصطلاحات:** اصطلاحات طبی به دری و به دنبال آن معادل انگلیسی آمده‌اند. فهرست اصطلاحات دری ـ انگلیسی و فهرست موضوعی در آخر کتاب است.
 
@@ -2654,7 +2654,7 @@ Pulmonary knuckle بلافاصله پایین‌تر از aortic knuckle قرا�
 ۳. **Hydropneumothorax:** سطح افقی هوا‌ـ‌مایع (air-fluid level) در جوف پلورا تشخیصیه hydropneumothorax است.
 
 ::: note
-**یادداشت:** رادیوگرافی‌های واقعی این فصل (فهرست ذیل) در نسخه‌های بعدی علاوه خواهند شد؛ برای دیدن نمونه‌ها به اطلس‌های معتبر رادیولوژی مراجعه کنید.
+**یادداشت:** برای دیدن رادیوگرافی‌های واقعیِ حالات فهرست ذیل، به اطلس‌های معتبر رادیولوژی مراجعه کنید.
 :::
 
 **یافته‌های رادیوگرافیک که باید در اطلس رادیولوژی دیده شوند**
@@ -8529,5 +8529,9 @@ ECGهایی که به اقدام فوری ضرورت دارند:
 15. Roberts ME, et al. British Thoracic Society Guideline for pleural disease. *Thorax*. 2023;78(Suppl 3):s1–s42.
 16. World Health Organization. *Integrated Management of Childhood Illness (IMCI) Chart Booklet*. Geneva: WHO; 2014.
 17. Sokolow M, Lyon TP. The ventricular complex in left ventricular hypertrophy as obtained by unipolar precordial and limb leads. *Am Heart J*. 1949;37:161–186.
-
-جزئیات هر اصلاح علمی، همراه با متن اصلی مؤلف، در یادداشت‌های ویرایشی کتاب (CHANGELOG-editorial.md) ثبت شده است.
+18. Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). *Circulation*. 2018;138:e618–e651.
+19. Flynn JT, et al. Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents. *Pediatrics*. 2017;140:e20171904.
+20. Munro MG, et al. The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions. *Int J Gynaecol Obstet*. 2018;143:393–408.
+21. World Health Organization. *WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention*. 2nd ed. Geneva: WHO; 2021.
+22. Light RW, et al. Pleural effusions: the diagnostic separation of transudates and exudates. *Ann Intern Med*. 1972;77:507–513.
+23. Advanced Life Support Group. *Advanced Paediatric Life Support: A Practical Approach to Emergencies*. 6th ed. Wiley-Blackwell; 2016.

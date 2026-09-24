@@ -20,5 +20,9 @@
 15. Roberts ME, et al. British Thoracic Society Guideline for pleural disease. *Thorax*. 2023;78(Suppl 3):s1–s42.
 16. World Health Organization. *Integrated Management of Childhood Illness (IMCI) Chart Booklet*. Geneva: WHO; 2014.
 17. Sokolow M, Lyon TP. The ventricular complex in left ventricular hypertrophy as obtained by unipolar precordial and limb leads. *Am Heart J*. 1949;37:161–186.
-
-جزئیات هر اصلاح علمی، همراه با متن اصلی مؤلف، در یادداشت‌های ویرایشی کتاب (CHANGELOG-editorial.md) ثبت شده است.
+18. Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). *Circulation*. 2018;138:e618–e651.
+19. Flynn JT, et al. Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents. *Pediatrics*. 2017;140:e20171904.
+20. Munro MG, et al. The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of abnormal uterine bleeding in the reproductive years: 2018 revisions. *Int J Gynaecol Obstet*. 2018;143:393–408.
+21. World Health Organization. *WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention*. 2nd ed. Geneva: WHO; 2021.
+22. Light RW, et al. Pleural effusions: the diagnostic separation of transudates and exudates. *Ann Intern Med*. 1972;77:507–513.
+23. Advanced Life Support Group. *Advanced Paediatric Life Support: A Practical Approach to Emergencies*. 6th ed. Wiley-Blackwell; 2016.
