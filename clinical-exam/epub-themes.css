@@ -1,0 +1,22 @@
+/* Apple Books Sepia/Gray/Night theme hooks. Kept in a separate file: strict CSS2 engines
+   (Adobe RMSDK, MuPDF) reject the attribute-substring selectors, and must not drop the main sheet. */
+:root[__ibooks_internal_theme*="Night"] h1, :root[__ibooks_internal_theme*="Night"] h2,
+:root[__ibooks_internal_theme*="Night"] h4, :root[__ibooks_internal_theme*="Night"] .bigidea,
+:root[__ibooks_internal_theme*="Night"] nav#toc a,
+:root[__ibooks_internal_theme*="Gray"] h1, :root[__ibooks_internal_theme*="Gray"] h2,
+:root[__ibooks_internal_theme*="Gray"] h4, :root[__ibooks_internal_theme*="Gray"] .bigidea { color: #e9eef5; }
+:root[__ibooks_internal_theme*="Night"] h3, :root[__ibooks_internal_theme*="Night"] a,
+:root[__ibooks_internal_theme*="Night"] .h1-label, :root[__ibooks_internal_theme*="Night"] figcaption,
+:root[__ibooks_internal_theme*="Gray"] h3, :root[__ibooks_internal_theme*="Gray"] .h1-label,
+:root[__ibooks_internal_theme*="Gray"] figcaption { color: #7fd0d3; }
+:root[__ibooks_internal_theme*="Night"] .story, :root[__ibooks_internal_theme*="Night"] .rule,
+:root[__ibooks_internal_theme*="Night"] .evidence, :root[__ibooks_internal_theme*="Night"] .pitfall,
+:root[__ibooks_internal_theme*="Night"] .expert, :root[__ibooks_internal_theme*="Night"] .case,
+:root[__ibooks_internal_theme*="Night"] .summary,
+:root[__ibooks_internal_theme*="Gray"] .story, :root[__ibooks_internal_theme*="Gray"] .rule,
+:root[__ibooks_internal_theme*="Gray"] .evidence, :root[__ibooks_internal_theme*="Gray"] .pitfall,
+:root[__ibooks_internal_theme*="Gray"] .expert, :root[__ibooks_internal_theme*="Gray"] .case,
+:root[__ibooks_internal_theme*="Gray"] .summary { background: rgba(255,255,255,.06); }
+:root[__ibooks_internal_theme*="Night"] .rule strong { color: #e0c07a; }
+:root[__ibooks_internal_theme*="Night"] .pitfall strong { color: #ff8a80; }
+:root[__ibooks_internal_theme*="Night"] tbody tr:nth-child(even) td { background: rgba(255,255,255,.05); }

@@ -1,50 +1,138 @@
-@font-face { font-family: "Vazirmatn"; src: url("../fonts/Vazirmatn-Regular.ttf"); }
-@font-face { font-family: "Vazirmatn"; font-weight: bold; src: url("../fonts/Vazirmatn-Bold.ttf"); }
-html, body { text-align: right; font-family: "Vazirmatn", sans-serif; line-height: 1.8; }
-h1, h2, h3 { line-height: 1.4; }
-table { border-collapse: collapse; margin: 1em 0; }
-th, td { border: 1px solid #999; padding: .3em .6em; }
-code { font-family: monospace; }
+/* ═══════════ معاینه کلینیکی — EPUB 3 stylesheet ═══════════
+   Palette: navy #0f2744 · teal #136f73 · gold #b8913a
+   Designed for Apple Books, Google Play Books, Kobo, Thorium/Readium, Lithium, PocketBook.
+   Light by default; dark/night overrides at the end. No fixed font size: the reader decides. */
+
+@font-face { font-family: "Vazirmatn"; font-weight: normal; font-style: normal; src: url("../fonts/Vazirmatn-Regular.ttf"); }
+@font-face { font-family: "Vazirmatn"; font-weight: bold;   font-style: normal; src: url("../fonts/Vazirmatn-Bold.ttf"); }
+
+
+body {
+  font-family: "Vazirmatn", "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif;
+  line-height: 1.85;
+  text-align: right;
+  margin: 0 3%;
+  font-variant-numeric: normal;
+  -webkit-hyphens: none; hyphens: none;
+  orphans: 2; widows: 2;
+}
+p { margin: 0 0 .65em 0; text-align: justify; text-align-last: right; }
+strong, b { font-weight: bold; }
+a { color: #136f73; text-decoration: none; }
+hr { border: 0; border-top: 1px solid #d9c9a3; margin: 1.5em 20%; }
+.ltr, [dir="ltr"] { text-align: left; }
+.ltr p, [dir="ltr"] p { text-align: left; }
+
+/* ─── headings ─── */
+h1, h2, h3, h4 { line-height: 1.45; text-align: right; page-break-after: avoid; break-after: avoid; -webkit-column-break-after: avoid; }
+h1 {
+  font-size: 1.55em; color: #0f2744; text-align: center;
+  margin: 1.6em 0 1.2em 0; padding-bottom: .5em;
+  border-bottom: 2px solid #b8913a;
+}
+section.level1 > h1 { page-break-before: always; break-before: page; }
+.h1-label { display: block; font-size: .58em; font-weight: normal; color: #136f73; letter-spacing: 0; margin-bottom: .35em; }
+.h1-sep { display: none; }
+.h1-title { display: block; }
+h2 {
+  font-size: 1.2em; color: #0f2744;
+  margin: 1.8em 0 .6em 0; padding: .2em .6em .25em 0;
+  border-right: 4px solid #136f73;
+}
+h3 { font-size: 1.05em; color: #136f73; margin: 1.4em 0 .4em 0; }
+h4 { font-size: 1em; color: #0f2744; margin: 1.2em 0 .3em 0; }
+
+/* part openers: a quiet full page */
+section.part { text-align: center; padding-top: 30%; }
+section.part > h1 { border: 0; font-size: 1.9em; }
+section.part > h1 .h1-label { font-size: .5em; color: #8a6a22; margin-bottom: .6em; }
+section.part > h1::after { content: ""; display: block; width: 30%; margin: .8em auto 0; border-bottom: 2px solid #b8913a; }
+
+/* ─── lists ─── */
+ul, ol { margin: .4em 0 .8em 0; padding-right: 1.6em; padding-left: 0; }
+li { margin: .2em 0; }
 ol { list-style-type: persian; }
-h1 { text-align: center; color: #0f2744; margin-top: 2em; border-bottom: 2px solid #b8913a; padding-bottom: .3em; }
-h2 { color: #0f2744; background: #eef5f5; border-right: 4px solid #136f73; padding: .25em .5em; }
-h3 { color: #136f73; }
-th { background: #136f73; color: #fff; }
-hr { border: 0; text-align: center; }
-.note { background: #fbf6ea; border-right: 4px solid #b8913a; padding: .5em .8em; margin: 1em 0; border-radius: 3px; }
-.note p { margin: .3em 0; }
-.figure-ph { border: 1px dashed #9fb8bb; color: #136f73; text-align: center; padding: .4em; margin: 1em 0; font-size: .9em; }
-.figure-ph p { margin: 0; }
-tr:nth-child(even) td { background: #eef5f5; }
 ul li::marker { color: #136f73; }
-p { margin: .5em 0; text-align: justify; }
-section.level1 > h1 { page-break-before: always; }
-.ltr { text-align: left; }
-figure { margin: 1.2em 0; padding: .5em; border: 1px solid #cfdede; border-radius: 4px; text-align: center; page-break-inside: avoid; }
-figure img { max-width: 100%; height: auto; }
-figcaption { color: #136f73; font-weight: bold; font-size: .9em; margin-top: .4em; }
+.ltr ol, [dir="ltr"] ol { list-style-type: decimal; padding-left: 1.8em; padding-right: 0; }
 
-.objectives { background:#eef5f5; border-right:4px solid #136f73; padding:.6em .9em; margin:.6em 0 1.2em; border-radius:4px; }
-.keypoints { background:#eef1f5; border:1px solid #0f2744; padding:.6em .9em; margin:1.6em 0 1em; border-radius:4px; }
-.selftest { border:1px dashed #b8913a; padding:.6em .9em; margin:1em 0; border-radius:4px; }
-.objectives p, .keypoints p, .selftest p { margin:.3em 0; }
+/* ─── tables: scroll sideways on small screens instead of overflowing ─── */
+.table-wrap { overflow-x: auto; margin: 1em 0 1.2em 0; page-break-inside: avoid; break-inside: avoid; }
+table { border-collapse: collapse; width: 100%; font-size: .88em; line-height: 1.6; }
+th, td { border: 1px solid #c9d6d6; padding: .35em .5em; vertical-align: top; text-align: right; }
+th, thead td { background: #136f73; color: #ffffff; font-weight: bold; }
+tbody tr:nth-child(even) td { background: #f1f7f7; }
+td .ltr, td [dir="ltr"] { text-align: left; }
 
-.redflags { background:#fdf0ee; border-right:4px solid #b3261e; padding:.6em .9em; margin:1.4em 0 1em; border-radius:4px; }
-.redflags strong { color:#b3261e; }
-.case { background:#f3f0fa; border-right:4px solid #5b4a9e; padding:.6em .9em; margin:1em 0; border-radius:4px; }
-.redflags p, .case p { margin:.3em 0; }
+/* ─── figures: white card so transparent diagrams stay legible in night mode ─── */
+figure { margin: 1.4em 0; text-align: center; page-break-inside: avoid; break-inside: avoid; }
+figure img { max-width: 100%; height: auto; background: #ffffff; padding: .4em; border-radius: 6px; box-sizing: border-box; }
+figcaption { font-size: .85em; color: #136f73; font-weight: bold; margin-top: .5em; line-height: 1.6; text-align: center; }
 
-/* new-book boxes */
-.story { background:#f6f3ec; padding:.8em 1em; margin:.6em 0 1.4em; border-radius:4px; }
-.bigidea { text-align:center; color:#0f2744; font-size:1.15em; border-top:1px solid #b8913a; border-bottom:1px solid #b8913a; padding:.6em 1em; margin:1.4em 10%; }
-.rule { background:#fbf6ea; border:1px solid #b8913a; padding:.6em .9em; margin:1.2em 0; border-radius:5px; }
-.rule strong { color:#8a6a22; }
-.evidence { background:#eef5f5; border-right:4px solid #136f73; padding:.6em .9em; margin:1.2em 0; border-radius:4px; font-size:.95em; }
-.pitfall { background:#fdf0ee; border-right:4px solid #b3261e; padding:.6em .9em; margin:1.2em 0; border-radius:4px; }
-.pitfall strong { color:#b3261e; }
-.expert { background:#f3f0fa; border-right:4px solid #5b4a9e; padding:.6em .9em; margin:1.2em 0; border-radius:4px; font-size:.95em; }
-.summary { background:#eef1f5; border:1px solid #0f2744; padding:.6em .9em; margin:1.6em 0 1em; border-radius:4px; }
-.practice { border:1px dashed #136f73; padding:.6em .9em; margin:1em 0; border-radius:4px; }
-.story p, .rule p, .evidence p, .pitfall p, .expert p, .summary p, .practice p, .bigidea p { margin:.3em 0; }
-.osce { border:1px dashed #b8913a; padding:.6em .9em; margin:1em 0; border-radius:4px; }
-.osce p { margin:.3em 0; }
+/* ─── the book's boxes ─── */
+.story, .bigidea, .rule, .evidence, .pitfall, .expert, .summary, .practice, .case, .osce {
+  margin: 1.3em 0; padding: .75em 1em; border-radius: 8px;
+  page-break-inside: avoid; break-inside: avoid;
+}
+.story p, .bigidea p, .rule p, .evidence p, .pitfall p, .expert p, .summary p, .practice p, .case p, .osce p { margin: .35em 0; }
+.story    { background: #f7f3ea; border-right: 3px solid #b8913a; font-size: .98em; }
+.bigidea  { background: transparent; border-top: 1px solid #b8913a; border-bottom: 1px solid #b8913a; border-radius: 0;
+            text-align: center; color: #0f2744; font-size: 1.1em; margin: 1.6em 6%; padding: .8em .4em; }
+.bigidea p { text-align: center; text-align-last: center; }
+.rule     { background: #fbf6ea; border: 1px solid #d9c9a3; border-right: 5px solid #b8913a; }
+.rule strong { color: #8a6a22; }
+.evidence { background: #eef6f6; border-right: 5px solid #136f73; font-size: .95em; }
+.pitfall  { background: #fcefed; border-right: 5px solid #b3261e; }
+.pitfall strong { color: #a3231c; }
+.expert   { background: #f3f1f9; border-right: 5px solid #5b4a9e; font-size: .95em; }
+.case     { background: #f3f1f9; border-right: 5px solid #5b4a9e; }
+.summary  { background: #eef1f6; border: 1px solid #0f2744; }
+.practice { background: transparent; border: 1.5px dashed #136f73; }
+.osce     { background: transparent; border: 1.5px dashed #b8913a; }
+.evidence em, .story em { color: #444; }
+
+/* ─── table of contents (nav) ─── */
+nav#toc h1 { border-bottom: 2px solid #b8913a; }
+nav#toc ol { list-style: none; padding-right: 0; }
+nav#toc > ol > li { margin: .55em 0; font-weight: bold; }
+nav#toc ol ol { padding-right: 1.2em; font-weight: normal; font-size: .92em; }
+nav#toc a { color: #0f2744; }
+nav#toc ol ol a { color: #333; }
+
+/* ─── title page & imprint ─── */
+.titlepage { text-align: center; padding-top: 18%; page-break-after: always; break-after: page; }
+.titlepage p { text-align: center; text-align-last: center; }
+.book-title { font-size: 2.1em; border: 0; margin: 0 0 .2em 0; padding: 0; color: #0f2744; }
+.book-subtitle { font-size: 1.15em; color: #136f73; margin: 0; }
+hr.gold { border-top: 2px solid #b8913a; margin: 1.2em 30%; }
+.book-by { color: #666; font-size: .9em; margin-top: 2.5em; }
+.book-author { font-size: 1.3em; font-weight: bold; color: #0f2744; }
+.book-date, .book-publisher { color: #555; margin-top: 3em; }
+.imprint { font-size: .85em; padding-top: 40%; }
+.imprint p { text-align: right; text-align-last: right; }
+.imprint-list { margin: 0 0 1em 0; }
+.imprint-list div { margin: .2em 0; }
+.imprint-list dt { display: inline; font-weight: bold; }
+.imprint-list dd { display: inline; margin: 0; }
+.muted { color: #666; }
+
+/* ─── back matter ─── */
+section.index ul { list-style: none; padding-right: 0; }
+section.index li { margin: .15em 0; }
+section.glossary table td:last-child { text-align: left; }
+@media (min-width: 40em) {
+  section.index ul { -webkit-column-count: 2; column-count: 2; -webkit-column-gap: 2em; column-gap: 2em; }
+}
+
+/* ═══════════ night / dark themes ═══════════ */
+@media (prefers-color-scheme: dark) {
+  h1, h2, h4, .bigidea, .book-title, .book-author, nav#toc a { color: #e9eef5; }
+  h3, a, .h1-label, figcaption, .book-subtitle { color: #7fd0d3; }
+  nav#toc ol ol a, .evidence em, .story em, .muted, .book-by, .book-date { color: #b9c2cc; }
+  .story, .rule, .evidence, .pitfall, .expert, .case, .summary { background: rgba(255,255,255,.06); }
+  .summary { border-color: #7fa3c9; }
+  .rule strong { color: #e0c07a; }
+  .pitfall strong { color: #ff8a80; }
+  th { background: #0f5457; }
+  th, td { border-color: #3c4a4f; }
+  tbody tr:nth-child(even) td { background: rgba(255,255,255,.05); }
+}
