@@ -87,3 +87,7 @@
 | ۱۷ | تنباکوی بی‌دود سرطان‌زای قطعی (Group 1) | IARC Monographs Vol. 89 (2007) و 100E (2012) | ✔ |
 | ۱۷ | خشونت صدای بی‌توضیح دوامدار در ≥۴۵ سال: راجع | NICE NG12 | ✔ |
 | ۱۷ | Rinne/Weber؛ کری ناگهانی حسی‌عصبی عاجل؛ کلستیاتوما؛ خونریزی بینی ۱۰–۱۵ دقیقه فشار؛ زخم دهن >۳ هفته؛ کتله گردن >۴۰ سال؛ HINTS؛ BPPV | AAO-HNS Sudden Hearing Loss Guideline 2019؛ Scott-Brown's Otorhinolaryngology؛ Kattah et al. Stroke 2009 (HINTS) | ◐ |
+| ۱۸ | سروی ملی ۴۴۴۵ کاهل: ۷۸٪ شاهد حادثه ترضیضی؛ پریشانی روانی ۴۷٪ | Kovess-Masfety V et al. BMC Psychiatry 2021;21:314 | ✔ |
+| ۱۸ | CAM: حساسیت ۹۴–۱۰۰٪، ویژگی ۹۰–۹۵٪ | Inouye SK et al. Ann Intern Med 1990;113:941–8 | ✔ |
+| ۱۸ | پرسیدن درباره خودکشی افکار آن را زیاد نمی‌کند (۱۳ مطالعه) | Dazzi T et al. Psychol Med 2014;44:3361–3 | ✔ |
+| ۱۸ | ساختار MSE؛ AMT4؛ جدول هذیان/دیمنشیا؛ علت‌های هذیان؛ علایم مسمومیت و قطع اوپیوئید؛ NMS/سندرم سیروتونین؛ سایکوز بعد از ولادت | کتاب‌های معیاری (Oxford Handbook of Psychiatry; Macleod's)؛ NICE CG103 Delirium | ◐ |
