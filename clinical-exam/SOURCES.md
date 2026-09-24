@@ -91,3 +91,7 @@
 | ۱۸ | CAM: حساسیت ۹۴–۱۰۰٪، ویژگی ۹۰–۹۵٪ | Inouye SK et al. Ann Intern Med 1990;113:941–8 | ✔ |
 | ۱۸ | پرسیدن درباره خودکشی افکار آن را زیاد نمی‌کند (۱۳ مطالعه) | Dazzi T et al. Psychol Med 2014;44:3361–3 | ✔ |
 | ۱۸ | ساختار MSE؛ AMT4؛ جدول هذیان/دیمنشیا؛ علت‌های هذیان؛ علایم مسمومیت و قطع اوپیوئید؛ NMS/سندرم سیروتونین؛ سایکوز بعد از ولادت | کتاب‌های معیاری (Oxford Handbook of Psychiatry; Macleod's)؛ NICE CG103 Delirium | ◐ |
+| ۱۹ | مرگ مادران افغانستان ۶۲۰ در ۱۰۰٬۰۰۰ ولادت زنده (۲۰۲۰)، بلندترین در آسیا | WHO et al. Trends in maternal mortality 2000–2020 (2023) | ✔ |
+| ۱۹ | تعریف فشار بلند حاملگی ≥۱۴۰/۹۰؛ پره‌اکلامپسی؛ شدید ≥۱۶۰/۱۱۰؛ مگنیزیم سلفیت | ISSHP 2021 (Magee LA et al. Pregnancy Hypertens 2022;27:148–69)؛ ACOG PB 222 (2020) | ✔ |
+| ۱۹ | ضربان نارمل قلب طفل ۱۱۰–۱۶۰ | FIGO 2015 (Ayres-de-Campos D et al. Int J Gynaecol Obstet 2015;131:13–24) | ✔ |
+| ۱۹ | تغییرات فیزیولوژیک؛ ارتفاع رحم ±۲ cm از ۲۰–۳۶ هفته؛ Naegele؛ Leopold؛ جفت پیش‌رو/جدا شدن جفت؛ خونریزی بعد از ولادت؛ perimortem caesarean در ۴ دقیقه | کتاب‌های معیاری (Williams Obstetrics)؛ WHO PCPNC؛ RCOG GTG 52؛ ERC/AHA resuscitation in pregnancy | ◐ |
