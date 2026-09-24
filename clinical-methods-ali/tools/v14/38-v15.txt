@@ -1,0 +1,8 @@
+<<< **عکس چنگ زدن (Grasp reflex):**
+>>> **عکسه چنگ زدن (Grasp reflex):**
+<<< | Pressure | 7-20 cm H~2~O |
+>>> | Pressure (lateral position) | 9-18 cm H~2~O (90-180 mm H~2~O) |
+<<< | Color index | 0.9 |
+>>> | Color index | 0.9-1.1 |
+<<< | Chlorides | 680-760 mg% |
+>>> | Chlorides | 116-130 mEq/L (680-760 mg% as NaCl) |

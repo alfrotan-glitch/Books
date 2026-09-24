@@ -6,9 +6,9 @@ _Formerly titled «میتودهای کلینیکی علی»; file names keep the
 
 | File | Use |
 |---|---|
-| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 440 pages, no cover, chapters open on recto, vector figures |
-| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 24.2 mm spine + front, 3 mm bleed) |
-| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 431 pages, subject index with page numbers |
+| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 452 pages, no cover, chapters open on recto, vector figures |
+| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 24.9 mm spine + front, 3 mm bleed) |
+| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 442 pages, subject index with page numbers |
 | `release/clinical-methods-ali.epub` | E-book (EPUB 3, RTL; epubcheck: 0 errors, 0 warnings) |
 | `release/clinical-methods-ali.docx` | Editable Word version |
 
@@ -28,6 +28,9 @@ _Formerly titled «میتودهای کلینیکی علی»; file names keep the
 - All editorial/meta notes removed from inside the book (no version numbers, no "added in later editions", no ISBN placeholders).
 - Imprint table fixed (title was rendered white); print interior padded to an even page count (440).
 - Author sign-off list: `AUTHOR-REVIEW.md`.
+- Glossary expanded 76 → 299 terms (all harvested from the book's own Dari (English) pairs, `tools/qa/harvest_terms.py`), Dari alphabetical order with letter headings; subject index also Dari-sorted.
+- Lab appendix aligned with chapter text (CSF pressure, CSF chloride in mEq/L, colour index range). Typo «عکس چنگ زدن» → «عکسه چنگ زدن».
+- Automated QA: `tools/qa/lint.py` (text) — zero findings; layout scan — no overflow, no missing glyphs.
 
 ## v1.2 additions
 - Full language pass: 1,350 verb-register fixes and 74 long sentences rewritten.

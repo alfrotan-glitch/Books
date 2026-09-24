@@ -322,8 +322,21 @@ print("v1.2 inserts OK")
 # ── 7. glossary + subject index (appendices) ─────────────────────────────
 t = DST.read_text(encoding="utf-8")
 rows = [l.split("\t") for l in (ROOT / "tools/pedagogy/glossary.tsv").read_text(encoding="utf-8").splitlines() if "\t" in l]
+_ALPHA = "اآبپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی"
+_NORM = str.maketrans({"آ": "ا", "أ": "ا", "إ": "ا", "ؤ": "و", "ئ": "ی", "ي": "ی", "ك": "ک", "ة": "ه", "\u200c": ""})
+def dari_key(s):
+    s = s.translate(_NORM)
+    return [(_ALPHA.index(ch) if ch in _ALPHA else (200 if ch == " " else 100 + ord(ch) % 50)) for ch in s]
+rows.sort(key=lambda r: dari_key(r[0]))
 g = "# ضمیمه: فهرست اصطلاحات (دری ـ انگلیسی)\n\n| اصطلاح دری | English term |\n|---|---|\n"
-g += "".join(f"| {a} | {b} |\n" for a, b in rows) + "\n"
+_prev = None
+for a, b in rows:
+    _l = a.translate(_NORM)[0]
+    if _l != _prev:
+        g += f"| **{_l}** | |\n"
+        _prev = _l
+    g += f"| {a} | {b} |\n"
+g += "\n"
 # subject index: key terms; the PDF build adds page numbers (Typst), EPUB/DOCX get the list with chapter
 IDX = [l.strip() for l in (ROOT / "tools/pedagogy/index-terms.txt").read_text(encoding="utf-8").splitlines() if l.strip()]
 chap = re.split(r"(?m)^(?=# )", t)
@@ -341,7 +354,7 @@ for c in chap:
 DIG = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
 ix = "# ضمیمه: فهرست موضوعی\n\nاعداد شماره فصل را نشان می‌دهند.\n\n"
 def key(s):
-    return (0 if re.match(r"[\u0600-\u06FF]", s) else 1, s.lower())
+    return (0, dari_key(s)) if re.match(r"[\u0600-\u06FF]", s) else (1, [ord(c) for c in s.lower()])
 for term in sorted(loc, key=key):
     ix += f"- **{term}**: " + "، ".join(str(n).translate(DIG) for n in loc[term]) + "\n"
 

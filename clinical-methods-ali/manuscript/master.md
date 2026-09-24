@@ -4804,7 +4804,7 @@ spider nevi، palmar erythema، splenomegaly، ascites، collateral venous ها 
 
 - **عکسه جلو آمدن لب‌ها (Pout reflex):** مالش زنخ مریض باعث خواهد شد تا وی لب‌های خود را به شکل غنچه بیرون بیاورد.
 - **عکسه راحی ذقنی (Palmomental reflex):** با خراشیدن کف دست مریض، عضله ذقنی (mentalis) همان طرف تقلص می‌کند.
-- **عکس چنگ زدن (Grasp reflex):** یک تنبیه متحرک را با دست تان در بین شست و انگشت شهادت مریض وارد کنید. مریض دفعتاً دست شما را در دست خود خواهد گرفت و مشت وی به آسانی باز نخواهد شد.
+- **عکسه چنگ زدن (Grasp reflex):** یک تنبیه متحرک را با دست تان در بین شست و انگشت شهادت مریض وارد کنید. مریض دفعتاً دست شما را در دست خود خواهد گرفت و مشت وی به آسانی باز نخواهد شد.
 - **عکسه گرفتن کف پا (plantar grasp):** کف پای مریض را با یک شی کند تنبیه کنید؛ انگشتان پا قبض شده گویا چیزی را می‌گیرند. این عکسه همتای grasp reflex در طرف سفلی است (با عکسه plantar و علامه Babinski فرق دارد).
 - **عکسه پوزه زدن/وجهی (Facial / snout reflex):** لب‌های مریض را با انگشت خود به یک طرف با ملایمت کش کنید. سپس توسط انگشت دیگر ضربه‌ای به این انگشت وارد کنید، لب‌های مریض پیش خواهند آمد. این حالت در آفت دو طرفه نیورون حرکی علوی دیده می‌شود.
 - **عکسه Glabellar tap:** با ضربه‌های مکرر بین دو ابرو (glabella)، شخص نارمل ۲ تا ۳ بار پلک می‌زند و بعد پلک زدن متوقف می‌شود. ادامه پلک زدن با هر ضربه (Myerson sign) در parkinsonism، dementia و تخریب وسیع فص جبهی دیده می‌شود.
@@ -8171,7 +8171,7 @@ ECGهایی که به اقدام فوری ضرورت دارند:
 
 | آزمایش (Test) | اندازه نارمل (Normal value) |
 |---|---|
-| Color index | 0.9 |
+| Color index | 0.9-1.1 |
 | M.C.V. | 80-100 fl |
 | M.C.H. | 27-32 pg |
 | M.C.H.C. | 32-36 g/dl |
@@ -8180,10 +8180,10 @@ ECGهایی که به اقدام فوری ضرورت دارند:
 
 | آزمایش (Test) | اندازه نارمل (Normal value) |
 |---|---|
-| Pressure | 7-20 cm H~2~O |
+| Pressure (lateral position) | 9-18 cm H~2~O (90-180 mm H~2~O) |
 | Glucose | 45-80 mg/100ml (≈ 60% of blood glucose) |
 | Proteins | 15-45 mg% |
-| Chlorides | 680-760 mg% |
+| Chlorides | 116-130 mEq/L (680-760 mg% as NaCl) |
 | Cells | less than 5 c.m.m (all lymphocytes) |
 
 ## ادرار (Urine)
@@ -8338,93 +8338,345 @@ ECGهایی که به اقدام فوری ضرورت دارند:
 
 | اصطلاح دری | English term |
 |---|---|
+| **ا** | |
+| آبسه آمیبی کبد | Amoebic liver abscess |
 | ابهر | Aorta |
 | اتساع صدر | Chest expansion |
+| احتشای ریوی | Pulmonary embolism / infarction |
+| احتشای مایوکارد | Myocardial infarction |
+| احولال | Squint |
 | اختلاج | Seizure / Fits |
+| اختلال آواز | Dysphonia |
 | اذیما | Oedema |
 | اذین | Atrium |
+| اذین راست | Right atrium |
+| ارتفاع فندس | Symphysis–fundal height |
+| اریتمی | Arrhythmia |
+| اریتمیای جیبی | Sinus arrhythmia |
 | استجواب | Interrogation (history taking) |
 | استفراغ | Vomiting |
+| استمای قصبی | Bronchial asthma |
+| استمای مسلکی | Occupational asthma |
 | اسهال | Diarrhoea |
 | اصغا | Auscultation |
 | اصمیت | Dullness (percussion) |
+| اعتلان | Presentation (fetal) |
 | اعصاب قحفی | Cranial nerves |
 | آفت | Lesion |
+| افرازات گوش | Otorrhoea |
+| اگزودت | Exudate |
+| التهاب بلعوم | Pharyngitis |
+| التهاب پانقراس | Pancreatitis |
+| التهاب پریکارد | Pericarditis |
+| التهاب پلورا | Pleurisy |
+| التهاب تانسل‌ها | Tonsillitis |
+| التهاب گوش خارجی | Otitis externa |
+| التهاب گوش متوسط | Otitis media |
+| التهاب معده | Gastritis |
+| انتروال | Interval (ECG) |
 | انتقال عظمی | Bone conduction |
 | انتقال هوایی | Air conduction |
-| انتروال | Interval (ECG) |
+| انحراف محور | Axis deviation |
+| اندوکاردیت انتانی | Infective endocarditis |
+| انشقاق ابهر | Aortic dissection |
+| انصباب پلورا | Pleural effusion |
+| انصباب تحت ریوی | Subpulmonary effusion |
+| انقطاع طمث | Menopause |
+| انوریزم بطینی | Ventricular aneurysm |
+| آوازهای اضافی | Added sounds |
+| آواز صدری نجوایی | Whispering pectoriloquy |
+| اهتزازات صوتی قابل جس | Tactile vocal fremitus |
 | اهتزازات صوتی قابل لمس | Tactile vocal fremitus (TVF) |
+| اهتزاز اصطکاکی | Friction fremitus |
+| اهتزاز مایع | Fluid thrill |
+| **ب** | |
 | بذل | Aspiration / Tap |
+| بذل قطنی | Lumbar puncture |
+| برنگس گوش | Tinnitus |
+| بزرگ بودن اندازه قلب | Cardiomegaly |
+| بسط | Extension |
 | بصله | Medulla oblongata |
 | بطین | Ventricle |
+| بطین چپ | Left ventricle |
+| بلاک قلبی | Heart block |
 | بلغم | Sputum |
+| بواسیر | Haemorrhoids |
+| بی‌توجهی حسی | Sensory inattention |
+| بی‌حال | Lethargic |
+| بی‌حسی ناحیه عجان | Saddle anaesthesia |
+| **پ** | |
+| پدیده برگشت | Rebound phenomenon |
+| پرولپس دسام مایترل | Mitral valve prolapse |
+| پنوموتوراکس | Pneumothorax |
+| پنوموتوراکس فشاری | Tension pneumothorax |
+| **ت** | |
+| تاریخچه اجتماعی | Social history |
+| تاریخچه تداوی | Treatment history |
+| تاریخچه خانواده‌گی | Family history |
+| تاریخچه شخصی | Personal history |
+| تاریخچه گذشته | Past history |
 | تاریخچه مرض فعلی | History of presenting illness |
+| تاریخ متوقعه ولادت | Expected date of delivery (EDD) |
 | تب | Fever / Pyrexia |
+| تب روماتیک | Rheumatic fever |
 | تپش قلبی | Palpitation |
+| تخریش سحایا | Meningeal irritation |
+| ترانسودت | Transudate |
+| ترس از روشنی | Photophobia |
+| تست انگشت بینی | Finger–nose test |
+| تست پاشنه ساق | Heel–shin test |
+| تست تفکیک دو نقطه | Two-point discrimination test |
+| تست دریچه شمروت | Schamroth window test |
+| تست نجوا کردن | Whisper test |
+| تصبغ زیاد | Hyperpigmentation |
 | تضیق | Stenosis |
+| تضیق دسام ابهر | Aortic stenosis |
+| تضیق مایترل | Mitral stenosis |
+| تطابق | Accommodation |
 | تعصیب | Innervation |
+| تغییر مکان درد | Shifting of pain |
 | تفتیش | Inspection |
 | تفریط فشار وضعیتی | Postural hypotension |
+| تقبض حدقه | Miosis |
+| تکاثف | Consolidation |
+| تکان فک | Jaw jerk |
+| تکرر ادرار | Frequency (urinary) |
+| تکلس | Calcification |
+| تکی‌کاردیای بطینی | Ventricular tachycardia |
+| تموج | Fluctuation |
+| تنفس کودکانه | Puerile breathing |
 | تنفس bronchial | Bronchial breathing |
+| تنگی قلفه | Phimosis |
+| تورم | Swelling |
+| توسع قصبات | Bronchiectasis |
+| تیزی دید | Visual acuity |
+| **ج** | |
 | جس | Palpation |
+| جنین | Fetus |
+| **چ** | |
+| چشمان برجسته | Exophthalmos |
+| **ح** | |
 | حدبه | Pons |
 | حدقه | Pupil |
+| حرکات غیرارادی | Involuntary movements |
+| حساسیت | Tenderness |
 | حساسیت رجعی | Rebound tenderness |
+| حسیت سه بعدی | Stereognosis |
+| حسیت عمیقه | Proprioception |
 | حمل | Pregnancy |
+| **خ** | |
+| خباثت | Malignancy |
 | خسافت | Pallor |
+| خشونت آواز | Hoarseness |
+| خطوط حاملگی | Striae gravidarum |
+| خطوط عرضانی | Beau's lines |
+| خط سیاه | Linea nigra |
+| خط وسط ترقوه | Midclavicular line |
 | خناق | Angina |
+| خونریزی تراشه‌ای | Splinter haemorrhage |
+| خون بینی | Epistaxis |
+| خون در ادرار | Haematuria |
+| **د** | |
+| درجه حرارت | Temperature |
+| درد راجعه | Referred pain |
+| درد صدری | Chest pain |
+| درد قلبی | Cardiac pain |
+| درد گوش | Otalgia |
 | دسام | Valve |
+| دفع ادرار کم | Oliguria |
+| دهانه قلب | Cardiac output |
 | دیاستول | Diastole |
+| **ذ** | |
 | ذروه قلب (ضربان ذروه) | Apex beat |
+| **ر** | |
+| راه رفتن پارکنسنی | Festinant gait |
+| راه رفتن دهلیزی | Vestibular gait |
+| راه رفتن قیچی مانند | Scissor gait |
+| راه رفتن مرغابی‌مانند | Waddling gait |
+| رعشه | Tremor |
+| رعشه استراحتی | Resting tremor |
+| رعشه قصدی | Intention tremor |
+| رعشه نازک | Fine tremor |
 | ریت | Rate |
+| ریتم عقدوی | Nodal (junctional) rhythm |
+| **ز** | |
+| زاویه ضلعی حجاب حاجزی | Costophrenic angle |
+| **س** | |
+| ساحه دید | Visual field |
 | ساق دماغ | Brainstem |
+| سایکل عادت ماهوار | Menstrual cycle |
 | سحایا | Meninges |
+| سرچرخی | Vertigo |
+| سرخکان | Measles |
+| سرخی کف دست | Palmar erythema |
 | سردردی | Headache |
 | سرفه | Cough |
+| سره | Umbilicus |
+| سرین | Breech |
 | سیستول | Systole |
+| سقوط بند دست | Wrist drop |
+| سقوط پلک | Ptosis |
+| سقوط قدم | Foot drop |
 | سکته دماغی | Stroke |
+| سندروم ورید اجوف علوی | SVC obstruction |
+| سوزش هنگام تبول | Dysuria |
+| سوفل رحمی | Uterine souffle |
 | سویه شعور | Level of consciousness |
+| سوءشکل ستون فقرات | Scoliosis |
+| سیانوز | Cyanosis |
+| سیاه زخم | Anthrax |
+| سیاه سرفه | Whooping cough |
+| سیروز کبد | Liver cirrhosis |
+| **ش** | |
+| شخی | Rigidity |
 | شخی گردن | Neck stiffness |
+| شرایین اکلیلی | Coronary arteries |
+| شریان ریوی | Pulmonary artery |
 | شزن | Trachea |
+| شکایات عمده | Chief complaints |
 | شکایات فعلی | Presenting complaints |
+| شکل کبوتر مانند | Pectus carinatum |
+| شیار بزرگ | Major (oblique) fissure |
+| شیار کوچک | Minor (horizontal) fissure |
+| **ص** | |
+| صدر بیرل مانند | Barrel chest |
+| صدر خاموش | Silent chest |
+| صدر قیف مانند | Pectus excavatum |
+| صرع | Epilepsy |
 | صعود سگمنت ST | ST elevation |
+| صلبیه | Sclera |
+| صیوان | Pinna |
+| **ض** | |
 | ضخامه | Enlargement / Hypertrophy |
+| ضربان‌های اکتوپیک | Ectopic beats |
+| ضفیره عضدی | Brachial plexus |
+| ضلع رقبی | Cervical rib |
+| ضیاع مکمل احساس بو | Anosmia |
+| **ط** | |
+| طبلی | Tympanitic |
 | طحال | Spleen |
+| طرز ایستادن | Stance |
 | طرز راه رفتن | Gait |
+| **ع** | |
+| عدم تعرق | Anhidrosis |
 | عدم کفایه | Incompetence / Regurgitation (valve); Failure (organ) |
+| عدم کفایه ابهر | Aortic incompetence |
+| عدم کفایه مایترل | Mitral incompetence |
 | عسرت بلع | Dysphagia |
 | عسرت تنفس | Dyspnoea |
 | عقدات لمفاوی | Lymph nodes |
+| عکسات | Reflexes |
 | عکسات وتری | Tendon reflexes |
+| عکسه چنگ زدن | Grasp reflex |
+| عکسه روشنی | Light reflex |
+| عکسه عینی دهلیزی | Oculovestibular reflex |
+| عکسه قرنی | Corneal reflex |
+| عکسه همخوانی | Consensual reflex |
+| **غ** | |
+| غشای طبل | Tympanic membrane |
 | غور رحم (فندس) | Uterine fundus |
+| **ف** | |
+| فایبروز | Fibrosis |
+| فبریلیشن اذینی | Atrial fibrillation |
+| فبریلیشن بطینی | Ventricular fibrillation |
+| فرج | Vulva |
 | فرط فشار خون | Hypertension |
 | فرط فشار ورید باب | Portal hypertension |
+| فرط مقویت | Hypertonia |
+| فرورفتن قسمت سفلی صدر | Chest indrawing |
+| فقدان شعور | Unconsciousness |
+| فلاتر اذینی | Atrial flutter |
+| فلج بصلی کاذب | Pseudobulbar palsy |
+| فلج بل | Bell's palsy |
+| فلج دماغی | Cerebral palsy |
+| فوهات فتقیه | Hernial orifices |
+| **ق** | |
+| قبض | Flexion |
+| قدرت عضلات | Muscle power |
 | قرع | Percussion |
 | قشر دماغ | Cerebral cortex |
 | قص | Sternum |
+| قلب راست‌جا | Dextrocardia |
+| قنات شریانی باز | Patent ductus arteriosus |
+| قوس ابهر | Aortic arch |
+| قوقعه | Cochlea |
+| **ک** | |
+| کانال‌های نیم‌دایروی | Semicircular canals |
 | کبد | Liver |
 | کتله | Mass |
+| کرختی یا سوزن‌سوزن شدن | Paraesthesia |
+| کله‌چرک | Mumps |
+| کم‌آبی | Dehydration |
+| کم شدن ارتجاعیت جلد | Reduced skin turgor |
+| کهف | Cavity |
 | کیسه صفرا | Gallbladder |
+| کیمیای خون | Blood chemistry |
+| **گ** | |
+| گواتر توکسیک | Toxic goitre |
+| **ل** | |
+| لب‌های غنچه | Pursed lips |
+| لکنت زبان | Stammering |
+| لکه‌های نزفی | Haemorrhagic spots |
+| لیدهای اندام‌ها | Limb leads |
+| لیدهای تقویت شده | Augmented leads |
+| لیدهای صدری | Chest leads |
+| **م** | |
+| مانور تقویت | Reinforcement (Jendrassik) |
+| مایع داخل جوف پریتوان | Ascites |
+| مایع منوی | Semen |
+| محور قلبی | Cardiac axis |
 | مخیخ | Cerebellum |
+| مرض ریه دهقان | Farmer's lung |
 | مرمر | Murmur |
+| مسافات بین الضلعی | Intercostal spaces |
+| معاینه حوصلی دودستی | Bimanual pelvic examination |
+| معاینه سیستمیک | Systemic examination |
+| معاینه مهبلی | Vaginal examination |
 | مقویت عضلی | Muscle tone |
+| منصف | Mediastinum |
+| منظره چوب طبل انگشتان | Clubbing |
+| منظره عمومی | General appearance |
+| منظره مرمی توپ | Cannon-ball appearance |
+| مواد غایطه | Stool |
+| موجودیت خون در استفراغ | Haematemesis |
+| موجودیت خون در بلغم | Haemoptysis |
+| مهبل | Vagina |
+| **ن** | |
+| ناحیه انفی‌بلعومی | Nasopharynx |
+| ناخن قاشقی | Koilonychia |
+| ناشنوایی انتقالی | Conductive deafness |
+| ناشنوایی حسی عصبی | Sensorineural deafness |
+| ناهماهنگی حرکی | Ataxia |
 | نبض | Pulse |
+| نبض کعبری | Radial pulse |
+| نبض وریدی | Venous pulse |
 | نخاع شوکی | Spinal cord |
+| نشانه‌های خطر | Red flags |
+| نقرس | Gout |
+| نوع چاقوی ضامن‌دار | Clasp-knife rigidity |
+| نوع چرخ دندانه‌دار | Cogwheel rigidity |
+| نیوروپاتی محیطی | Peripheral neuropathy |
 | نیورون حرکی سفلی | Lower motor neurone (LMN) |
 | نیورون حرکی علوی | Upper motor neurone (UMN) |
+| **و** | |
+| وجه مهتابی | Moon face |
 | وضاحت صوتی | Vocal resonance |
+| **ه** | |
+| هایپرتروفی بطینی | Ventricular hypertrophy |
+| هماهنگی حرکات | Coordination |
+| **ی** | |
 | یرقان | Jaundice |
 
 # ضمیمه: فهرست موضوعی
 
 اعداد شماره فصل را نشان می‌دهند.
 
-- **آفت نیورون حرکی سفلی**: ۹
-- **آفت نیورون حرکی علوی**: ۹
 - **احتشای مایوکارد**: ۱، ۶، ۱۴
 - **اذیما**: ۳، ۵، ۶، ۸، ۱۰
 - **اصغا**: ۴، ۶، ۷، ۱۰، ۱۲
 - **اعصاب قحفی**: ۹
+- **آفت نیورون حرکی سفلی**: ۹
+- **آفت نیورون حرکی علوی**: ۹
 - **انوریزم**: ۵، ۶، ۷، ۱۳، ۱۴
 - **بلاک**: ۶، ۱۴
 - **تب متداوم**: ۳
@@ -8446,12 +8698,12 @@ ECGهایی که به اقدام فوری ضرورت دارند:
 - **فشار خون**: ۲، ۳، ۴، ۵، ۶، ۷، ۹، ۱۰، ۱۲
 - **قدرت عضلی**: ۹
 - **قرع**: ۴، ۶، ۷، ۱۰، ۱۲
+- **کبد**: ۱، ۴، ۵، ۶، ۷، ۹، ۱۲
+- **کیسه صفرا**: ۲، ۷
 - **محور قلبی**: ۱۴
 - **مرمر**: ۶، ۹، ۱۰، ۱۲
 - **مقویت عضلی**: ۹
 - **ناشنوایی**: ۷، ۹، ۱۳
-- **کبد**: ۱، ۴، ۵، ۶، ۷، ۹، ۱۲
-- **کیسه صفرا**: ۲، ۷
 - **یرقان**: ۳، ۷، ۹، ۱۲
 - **Apex beat**: ۴، ۶، ۱۲
 - **Atrial fibrillation**: ۶، ۱۴

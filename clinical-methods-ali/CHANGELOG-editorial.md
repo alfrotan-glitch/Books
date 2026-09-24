@@ -273,3 +273,7 @@ Items still needing a human decision: the book title (options proposed separatel
 | Imprint | The book title was invisible (white header-row style) and is now visible. No ISBN/publisher placeholders are printed. | Layout |
 | Print interior | Padded to an even count (440 pages). The spine is 24.2 mm. | Publishing |
 | Cover | The raster art was replaced with vector art (`tools/cover/art.typ`). The EPUB cover is 1749×2481 px (300 dpi). The EPUB has a structured main title and subtitle. | Design |
+| Glossary / index | Glossary grew from 76 to 299 terms. Every pair was harvested from the book's own «دری (English)» occurrences; nothing was invented. Both lists now follow Dari alphabetical order, and the glossary has letter headings. | Pedagogy |
+| Ch. 9 | «عکس چنگ زدن» → «عکسه چنگ زدن» (typo). | Typo |
+| Lab appendix, CSF | Pressure changed from 7–20 cm H₂O to 9–18 cm H₂O (90–180 mm H₂O), matching the Ch. 9 LP text (Medscape). Chlorides now read 116–130 mEq/L (= 680–760 mg% as NaCl). | Scientific (consistency) |
+| Lab appendix, haematology | Colour index changed from 0.9 to 0.9–1.1 (a range instead of a single value). | Scientific |
