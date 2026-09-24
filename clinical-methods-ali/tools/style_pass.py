@@ -385,3 +385,24 @@ def _renum(m):
 t, n_c = re.subn(r"^!\[(" + _TYPES + r") ([۰-۹]+)\.[۰-۹]+", _renum, t, flags=re.M)
 DST.write_text(t, encoding="utf-8")
 print(f"v1.3 numbering: {n_c} captions renumbered, {n_x} placeholder numbers removed")
+
+# ── v1.4 deep language edit (tools/rewrites_v14.py) ──
+import importlib.util as _ilu
+_spec = _ilu.spec_from_file_location("rw14", ROOT / "tools/rewrites_v14.py"); _rw14 = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_rw14)
+t = DST.read_text(encoding="utf-8")
+_n14 = 0
+for pat, rep, label in _rw14.GLOBAL:
+    t, k = re.subn(pat, rep, t); _n14 += k
+    print(f"  v1.4 global {k:4d}  {label}")
+_miss = []
+for item in _rw14.FIX:
+    old, new = item[0], item[1]
+    cnt = item[2] if len(item) > 2 else 1
+    k = t.count(old)
+    if k != cnt:
+        _miss.append((k, old[:70])); continue
+    t = t.replace(old, new); _n14 += 1
+DST.write_text(t, encoding="utf-8")
+print(f"v1.4 language edit: {_n14} changes, {len(_rw14.FIX)} literal fixes, {len(_miss)} missing")
+for k, o in _miss: print("   MISS", k, o)
+if _miss: raise SystemExit("v1.4 fixes did not match")
