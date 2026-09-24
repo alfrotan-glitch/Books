@@ -99,3 +99,7 @@
 | ۲۰ | غربالگری عنق رحم از ۳۰ سالگی با HPV هر ۵–۱۰ سال؛ HIV از ۲۵؛ VIA با اسید اسیتیک ۳–۵٪ | WHO guideline for screening and treatment of cervical pre-cancer lesions, 2nd ed. 2021 | ✔ |
 | ۲۰ | علایم سرطان تخمدان؛ CA125 | NICE CG122 | ✔ |
 | ۲۰ | دوره نارمل ۲۱–۳۵ روز و تا ۸ روز؛ الگوهای PID، پیچ خوردن تخمدان، PCOS، فیستول ولادی؛ تکنیک معاینه | FIGO AUB System 1 (Munro 2018)؛ کتاب‌های معیاری (Berek & Novak; Macleod's)؛ WHO obstetric fistula fact sheet | ◐ |
+| ۲۱ | مرگ زیر پنج سال افغانستان حدود ۵۵ در ۱۰۰۰ (۲۰۲۳) | UN IGME / World Bank data 2024 | ✔ |
+| ۲۱ | علایم خطر عمومی؛ تنفس سریع ۶۰/۵۰/۴۰؛ درجه‌بندی کم‌آبی؛ نوزاد: تب ≥۳۷٫۵، سردی <۳۵٫۵ | WHO IMCI Chart Booklet 2014؛ Young Infants Clinical Signs Study Group. Lancet 2008;371:135–42 | ✔ |
+| ۲۱ | MUAC <۱۱۵ mm شدید، ۱۱۵–<۱۲۵ متوسط؛ پندیدگی دوطرفه | WHO SAM guideline 2013 | ✔ |
+| ۲۱ | علامه‌های حیاتی به عمر؛ Apgar؛ مراحل تکامل؛ CRT >۳ ثانیه؛ آزار طفل | APLS 6th ed.؛ Fleming S et al. Lancet 2011;377:1011–8؛ Helping Babies Breathe؛ NICE CG89/NG143 | ◐ |
