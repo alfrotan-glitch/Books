@@ -99,3 +99,10 @@
 | گروه‌های ABE، LABA+LAMA ابتدایی، سه‌گانه با BEC ≥۳۰۰، آستانهٔ ۱۰۰، Dupilumab (BEC ≥۳۰۰ + برانشیت مزمن)، Ensifentrine، Roflumilast (FEV₁<50%)، Azithromycin (سگرتی سابق) | GOLD 2025 Pocket Guide؛ Pulmonology Advisor؛ SFHP | ✅ |
 | Prednisolone ۴۰ mg × ۵ روز؛ NIV pH ≤۷.۳۵ و PaCO₂ ≥۴۵؛ هدف SpO₂ ۸۸–۹۲؛ LTOT | GOLD 2025 (از دانش)؛ REDUCE | 🟡 |
 | دوز انهیلرها، Varenicline، Roflumilast ۲۵۰→۵۰۰، Dupilumab ۳۰۰ q2w، Mepolizumab ۱۰۰ q4w، انتی‌بیوتیک‌ها | لیبل‌های محصول (از دانش) | 🟡 |
+
+## فصل ۱۷ — آسما
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Track 1/2؛ MART قدم ۳ (۱ یک/دو بار) و ۴ (۲ دو بار)؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg × ۵–۷ روز (اطفال ۱–۲ mg/kg تا ۴۰ mg × ۳–۵)؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه × ۳؛ Mg IV در پاسخ ناکافی | GINA Summary Guide 2025؛ Alabama GINA summary؛ Arch Bronconeumol 2021 | ✅ |
+| Mg ۲ g در ۲۰ دقیقه؛ معیارهای شدت BTS | SIGN 158 (از دانش) | 🟡 |
+| جدول دوز ICS، بیولوژیک‌ها، Tiotropium، Azithromycin | GINA / لیبل (از دانش) | 🟡 |
