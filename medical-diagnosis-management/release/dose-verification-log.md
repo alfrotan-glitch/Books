@@ -106,3 +106,10 @@
 | Track 1/2؛ MART قدم ۳ (۱ یک/دو بار) و ۴ (۲ دو بار)؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg × ۵–۷ روز (اطفال ۱–۲ mg/kg تا ۴۰ mg × ۳–۵)؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه × ۳؛ Mg IV در پاسخ ناکافی | GINA Summary Guide 2025؛ Alabama GINA summary؛ Arch Bronconeumol 2021 | ✅ |
 | Mg ۲ g در ۲۰ دقیقه؛ معیارهای شدت BTS | SIGN 158 (از دانش) | 🟡 |
 | جدول دوز ICS، بیولوژیک‌ها، Tiotropium، Azithromycin | GINA / لیبل (از دانش) | 🟡 |
+
+## فصل ۱۸ — پنومونی
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Amoxicillin ۱ g TID؛ Doxycycline ۱۰۰ BID؛ Azithro ۵۰۰→۲۵۰؛ Clarithro ۵۰۰ BID؛ مقاومت <۲۵٪؛ Ceftriaxone ۱–۲ g + Azithro ۵۰۰؛ Cefotaxime ۱–۲ g q8h؛ Amp/Sulb ۳ g q6h؛ حد اقل ۵ روز؛ ۴۸–۷۲ ساعت بدون تب | ATS/IDSA 2019 via Clinical Advisor، Contagion Live، droracle | ✅ |
+| Hydrocortisone ۲۰۰ mg/روز × ۴ روز → ۸ یا ۱۴ روز با کاهش | CAPE COD NEJM 2023 | ✅ |
+| HAP/VAP رژیم‌ها و ۷ روز؛ Oseltamivir؛ Vancomycin؛ تعدیل کلیوی | IDSA 2016 / لیبل (از دانش) | 🟡 |
