@@ -58,29 +58,29 @@
 | ۹ | معاینه طحال در احتمال پیش‌آزمون بلند؛ هر دو مثبت = تأیید | Grover SA et al. JAMA 1993;270:2218–21 | ✔ |
 | ۹ | دوای مخدر در درد حاد بطن خطای تشخیص را زیاد نمی‌کند | Manterola C et al. Cochrane Database Syst Rev 2011;(1):CD005660 | ✔ |
 | ۹ | قانون Courvoisier و توضیح آن | Courvoisier LG 1890؛ مرورهای ثانوی | ✔ |
-| ۹ | منشأ جنینی و جای درد احشا؛ ۵ F؛ نشانه‌های Rovsing، Psoas، Obturator، Carnett؛ عقده Virchow | کتاب‌های درسی معاینه و جراحی | ◐ |
+| ۹ | منشأ جنینی و جای درد احشا؛ ۵ F؛ نشانه‌های Rovsing، Psoas، Obturator، Carnett؛ عقده Virchow | کتاب‌های درسی معاینه و جراحی | ✔ ساحه‌های درد احشایی با StatPearls (Anatomy, Abdomen; NBK553104) و Tintinalli (Table 71-1) مقابله شد؛ مرز روده میانی/پسین دقیق شد (دو سوم کولون مستعرض). عقده Virchow و مانورها: متن معیاری؛ بازبینی متخصص جراحی توصیه می‌شود |
 | ۱۰ | NICE NG12: عمر ≥۴۵ با خون قابل دید بی‌توضیح در ادرار ← راجع عاجل | NICE NG12 Suspected cancer: recognition and referral (2015, updated) | ✔ |
 | ۱۰ | تعریف AKI (۰٫۳ mg/dl در ۴۸ ساعت؛ ۱٫۵× در ۷ روز؛ <۰٫۵ ml/kg/h برای ۶ ساعت) | KDIGO AKI Guideline. Kidney Int Suppl 2012;2:1–138 | ✔ |
 | ۱۰ | پیچ خوردن خصیه: نجات ۹۰–۱۰۰٪ در ۶ ساعت؛ کاهش شدید بعد از ۱۲ و ۲۴ ساعت؛ رفلکس کریماستر غایب | مرورهای معیاری (AMBOSS؛ TeachMeSurgery؛ EAU Paediatric Urology Guidelines) | ✔ |
-| ۱۰ | رهیافت پندیدگی کیسه خصیه؛ فتق مغبنی و فخذی نسبت به برجستگی عانه؛ پروستات | کتاب‌های درسی معاینه و جراحی (Bailey & Love; Macleod's) | ◐ |
+| ۱۰ | رهیافت پندیدگی کیسه خصیه؛ فتق مغبنی و فخذی نسبت به برجستگی عانه؛ پروستات | کتاب‌های درسی معاینه و جراحی (Bailey & Love; Macleod's) | ✔ فتق مغبنی بالا و داخل / فخذی پایین و خارج برجستگی عانه با Geeky Medics OSCE guide و Clin Med Invest 2021 مقابله شد؛ بقیه متن معیاری |
 | ۱۱ | از دست رفتن ۱٫۹ ملیون عصبون در هر دقیقه سکته بزرگ؛ ۳٫۶ سال پیری در هر ساعت | Saver JL. Time is brain—quantified. Stroke 2006;37:263–6 | ✔ |
 | ۱۱ | حساسیت Kernig و Brudzinski ۵٪، سختی گردن ۳۰٪ | Thomas KE et al. Clin Infect Dis 2002;35:46–52 | ✔ |
 | ۱۱ | مقیاس GCS و ثبت اجزای آن | Teasdale & Jennett. Lancet 1974;2:81–4؛ Teasdale et al. Lancet Neurol 2014;13:844–54 | ✔ |
 | ۱۱ | پنجره درمان ترومبولیتیک تا ۴٫۵ ساعت؛ status epilepticus بیش از ۵ دقیقه | AHA/ASA Acute Ischemic Stroke Guideline 2019؛ ILAE 2015 definition | ✔ |
-| ۱۱ | MRC 0–5، ریشه‌های رفلکس‌ها، درماتوم‌ها، جدول UMN/LMN، راه رفتن‌ها، BE FAST، Hoover | کتاب‌های معیاری (Macleod's; Aids to the Examination of the PNS) | ◐ |
+| ۱۱ | MRC 0–5، ریشه‌های رفلکس‌ها، درماتوم‌ها، جدول UMN/LMN، راه رفتن‌ها، BE FAST، Hoover | کتاب‌های معیاری (Macleod's; Aids to the Examination of the PNS) | ✔ ریشه‌های رفلکس با StatPearls (NBK562238؛ Brachioradialis Reflex) مقابله شد و بازویی‌کعبری به C5–C6 اصلاح شد (متن و شکل)؛ نقاط درماتوم با ISNCSCI Key Sensory Points (ASIA) مقابله شد؛ MRC 0–5 معیاری |
 | ۱۲ | قواعد Ottawa: حساسیت نزدیک ۱۰۰٪، کاهش ۳۰–۴۰٪ عکس‌ها، ۲۷ مطالعه، >۱۵۰۰۰ مریض | Bachmann LM et al. BMJ 2003;326:417–23 | ✔ |
 | ۱۲ | Lachman ۸۵٪/۹۴٪؛ pivot shift ۲۴٪/۹۸٪؛ anterior drawer مزمن ۹۲٪/۹۱٪ | Benjaminse A et al. J Orthop Sports Phys Ther 2006;36:267–88 | ✔ |
 | ۱۲ | GALS screen | Doherty M et al. Ann Rheum Dis 1992;51:1165–9 | ✔ |
 | ۱۲ | سختی صبحگاهی >۳۰ دقیقه در التهابی؛ قوس دردناک ۶۰–۱۲۰°؛ Schober >۵ cm؛ کمپارتمنت؛ اسکافوئید؛ علایم خطر کمردرد | کتاب‌های معیاری (Apley & Solomon; Macleod's; NICE NG59) | ✔ |
 | ۱۳ | دقت معاینه گواتر: LR ~۲۵ برای بزرگ‌تر از دو برابر؛ ~۰٫۱۵ برای نارمل؛ ~۱٫۹ برای کوچک؛ «قاعده شست» | Siminoski K. JAMA 1995;273:813–7؛ JAMAevidence Rational Clinical Examination: Goiter | ✔ |
-| ۱۳ | جدول پرکاری/کم‌کاری؛ نشانه‌های چشم Graves؛ Pemberton؛ DKA/کمی قند؛ Cushing/Addison/اکرومیگالی؛ طوفان تایراید؛ HHS | کتاب‌های معیاری (Macleod's; Williams Textbook of Endocrinology) | ◐ |
+| ۱۳ | جدول پرکاری/کم‌کاری؛ نشانه‌های چشم Graves؛ Pemberton؛ DKA/کمی قند؛ Cushing/Addison/اکرومیگالی؛ طوفان تایراید؛ HHS | کتاب‌های معیاری (Macleod's; Williams Textbook of Endocrinology) | ✔ نشانه Pemberton با Anders/Mayo (JCEM 2014;99:1949) مقابله شد؛ DKA با اجماع ۲۰۲۴؛ جدول پرکاری/کم‌کاری: متن معیاری؛ بازبینی متخصص غدوات توصیه می‌شود |
 | ۱۳ | کمی قند طولانی با گلی‌بنکلامید؛ خطر روزه با دواهای قند | BNF؛ IDF-DAR Diabetes and Ramadan Guidelines 2021 | ✔ |
 | ۱۴ | کابل بزرگ‌ترین کانون سالک انسانی جهان؛ ۱۷٬۴۲۵ از ۴۱٬۰۷۲ مورد در ۲۰۰۹؛ بیشتر زیر ۱۵ سال، چهره و بازو | WHO EMRO: Cutaneous leishmaniasis in Afghanistan | ✔ |
 | ۱۴ | معیارهای ABCDE ملانوما | Abbasi NR et al. JAMA 2004;292:2771–6 | ✔ |
 | ۱۴ | رشد ناخن حدود ۰٫۱ mm در روز (مقابله شد: Yaemsiri S et al. JEADV 2010، ۳٫۴۷ mm در ماه)؛ SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته؛ جدول ضایعات، ناخن‌ها، فاشئیت نکروزدهنده | کتاب‌های معیاری (Rook's Textbook of Dermatology; Macleod's)؛ RegiSCAR | ✔ |
 | ۱۵ | حساسیت معاینه کلینیکی ثدیه ~۵۴٪، ویژگی ~۹۴٪ | Barton MB, Harris R, Fletcher SW. JAMA 1999;282:1270–80 | ✔ |
 | ۱۵ | خطر سرطان در بزرگی بی‌توضیح عقده: ۰٫۴٪ زیر ۴۰، ۴٪ بالای ۴۰؛ خطر بالای عقده بالای ترقوه | Gaddey HL, Riegel AM. Am Fam Physician 2016;94:896–903 | ✔ |
-| ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ◐ |
+| ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ✔ B symptoms (تب بالای ۳۸، عرق شبانه، کاهش وزن بیشتر از ۱۰٪ در ۶ ماه) با NCBI MedGen C1706867 مقابله شد؛ NICE NG12 قبلاً ✔ |
 | ۱۶ | دست‌کم ۲٫۲ میلیارد انسان مشکل دید؛ دست‌کم یک میلیارد قابل پیشگیری یا درمان‌نشده | WHO. World report on vision. 2019 | ✔ |
 | ۱۶ | Snellen ۶/۶؛ pinhole؛ RAPD؛ جدول فوندوس؛ جدول چشم سرخ؛ کاهش ناگهانی دید؛ شستشوی کیمیاوی ۲۰–۳۰ دقیقه؛ GCA؛ ویتامین A؛ تراخوم | کتاب‌های معیاری (Kanski's Clinical Ophthalmology; Macleod's)؛ WHO trachoma & VAD fact sheets؛ BSR/ACR GCA guidance | ✔ شستشو ≥۲۰–۳۰ دقیقه/تا pH نارمل (EyeWiki; RCEM) مقابله شد؛ جدول‌ها ◐ |
 | ۱۷ | معیارهای Centor (تب، چرک لوزه، عقدات قدامی دردناک، نبود سرفه) | Centor RM et al. Med Decis Making 1981;1:239–46 | ✔ |
@@ -102,7 +102,7 @@
 | ۲۱ | مرگ زیر پنج سال افغانستان حدود ۵۵ در ۱۰۰۰ (۲۰۲۳) | UN IGME / World Bank data 2024 | ✔ |
 | ۲۱ | علایم خطر عمومی؛ تنفس سریع ۶۰/۵۰/۴۰؛ درجه‌بندی کم‌آبی؛ نوزاد: تب ≥۳۷٫۵، سردی <۳۵٫۵ | WHO IMCI Chart Booklet 2014؛ Young Infants Clinical Signs Study Group. Lancet 2008;371:135–42 | ✔ |
 | ۲۱ | MUAC <۱۱۵ mm شدید، ۱۱۵–<۱۲۵ متوسط؛ پندیدگی دوطرفه | WHO SAM guideline 2013 | ✔ |
-| ۲۱ | علامه‌های حیاتی به عمر؛ Apgar؛ مراحل تکامل؛ CRT >۳ ثانیه؛ آزار طفل | APLS 6th ed.؛ Fleming S et al. Lancet 2011;377:1011–8؛ Helping Babies Breathe؛ NICE CG89/NG143 | ✔ CRT ≥۳ ثانیه (NICE NG143) مقابله شد؛ جدول‌های عمر ◐ |
+| ۲۱ | علامه‌های حیاتی به عمر؛ Apgar؛ مراحل تکامل؛ CRT >۳ ثانیه؛ آزار طفل | APLS 6th ed.؛ Fleming S et al. Lancet 2011;377:1011–8؛ Helping Babies Breathe؛ NICE CG89/NG143 | ✔ جدول تنفس و ضربان به عمر با جدول APLS (6th ed.) مطابق ساخته شد (قبلاً حدود وسیع‌تر)؛ CRT ≥۳ ثانیه (NICE NG143)؛ IMCI 2014 ✔ |
 | ۲۲ | معیارهای Beers (ضد کولینرژیک‌ها، بنزودیازپین‌ها، NSAID، سلفونیل‌یوریای طولانی) | AGS 2023 Beers Criteria. J Am Geriatr Soc 2023;71:2052–81 | ✔ |
 | ۲۲ | سرعت راه رفتن و بقا؛ ۰٫۸ m/s حدود امید زندگی متوسط؛ ۹ مطالعه، >۳۴٬۰۰۰ نفر | Studenski S et al. JAMA 2011;305:50–8 | ✔ |
 | ۲۲ | فنوتایپ ضعف پیری (۳ از ۵) | Fried LP et al. J Gerontol A 2001;56:M146–56 | ✔ |
@@ -112,7 +112,7 @@
 | ۲۳ | رهیافت ABCDE؛ CRT >۲ ثانیه در کاهل؛ ادرار <۰٫۵ ml/kg/h | Resuscitation Council UK. The ABCDE approach (2021) | ✔ |
 | ۲۳ | <C>ABCDE، پنج جای خونریزی | ATLS 10th ed. (2018) | ✔ |
 | ۲۳ | مسمومیت ارگانوفاسفات؛ اتروپین دوبرابرشونده تا شش خشک، ضربان >۸۰، سیستولیک >۸۰ | Eddleston M et al. Lancet 2008;371:597–607 | ✔ |
-| ۲۳ | سه دسته بیهوشی؛ CO و پالس‌اکسیمتری؛ hypothermia/heat stroke؛ locked-in؛ RUSH | کتاب‌های معیاری (Plum and Posner's Diagnosis of Stupor and Coma; Oxford Handbook of Emergency Medicine)؛ ERC 2021 special circumstances | ◐ |
+| ۲۳ | سه دسته بیهوشی؛ CO و پالس‌اکسیمتری؛ hypothermia/heat stroke؛ locked-in؛ RUSH | کتاب‌های معیاری (Plum and Posner's Diagnosis of Stupor and Coma; Oxford Handbook of Emergency Medicine)؛ ERC 2021 special circumstances | ✔ حرارت پایین کمتر از ۳۵ و heat stroke بالای ۴۰ با پریشانی (مرورهای ScienceDirect/Autoimmun Rev 2024) مقابله شد؛ دسته‌بندی بیهوشی: Plum & Posner؛ بازبینی متخصص عاجل توصیه می‌شود |
 | ۲۴ | HEART: ۰–۳ خطر ۱٫۷٪ در ۶ هفته؛ ۷–۱۰ حدود ۵۰٪ | Backus BE et al. Int J Cardiol 2013;168:2153–8 | ✔ |
 | ۲۴ | CCHF بومی افغانستان؛ اوج در ماه‌های عید قربان؛ بیشترین موارد ۲۰۲۳؛ مرگ ۱۰–۴۰٪ | Hamdard E et al. J Infect Public Health 2025;18:102591؛ WHO CCHF fact sheet | ✔ |
 | ۲۴ | کاهش وزن مهم >۵٪ در ۶–۱۲ ماه | Harrison's Principles of Internal Medicine 21st ed., ch. Unintentional Weight Loss | ✔ |
@@ -167,3 +167,13 @@
 - فصل ۲۰: طول نارمل دوره عادت ماهوار از «۲۱ تا ۳۵» به «۲۴ تا ۳۸» روز اصلاح شد (FIGO System 1، Munro 2018؛ MSD Manual).
 - فصل ۴: مثال McGee با حساب دقیق Bayes تکمیل شد (۳۰٪ با LR ۵ ← ۶۸٪؛ با LR ۰٫۱ ← حدود ۴٪).
 - فصل ۲۶: «نای» به «قصبه‌الریه» اصلاح شد.
+
+## دور چهارم (بعد از commit 3156c96)
+
+- فصل ۱۱: ریشه رفلکس بازویی‌کعبری از «C6» به **C5–C6** اصلاح شد (StatPearls NBK562238)؛ در شکل ۱۱-۲ هم.
+- فصل ۹: مرز روده میانی و پسین دقیق شد: «نیمه راست/چپ کولون» ← «کولون صاعد و دو سوم اول کولون مستعرض» / «یک سوم آخر کولون مستعرض، کولون نازل» (Tintinalli Table 71-1؛ StatPearls NBK553104).
+- فصل ۲۱: جدول علامه‌های حیاتی به عمر با APLS مطابق شد: کمتر از ۱ سال ۳۰–۴۰ / ۱۱۰–۱۶۰؛ ۱–۲ سال ۲۵–۳۵ / ۱۰۰–۱۵۰؛ ۲–۵ سال ۲۵–۳۰ / ۹۵–۱۴۰؛ ۵–۱۲ سال ۲۰–۲۵ / ۸۰–۱۲۰؛ بالای ۱۲ سال ۱۵–۲۰ / ۶۰–۱۰۰.
+- فصل ۱۳: شکل تازه مونوفیلامنت (سه نقطه: کف بند آخر شست، سر استخوان اول و پنجم کف پا؛ دو جواب درست از سه) بر اساس رهنمود عملی IWGDF.
+- فصل ۲۰: شکل FIGO 2018 (دوره ۲۴–۳۸ روز؛ تا ۸ روز؛ منظم: فرق ۷ تا ۹ روز یا کمتر).
+- ضمیمه تازه «قوت یافته‌ها در یک نگاه»: تنها LR هایی که در فصل‌ها با منبع آمده اند.
+

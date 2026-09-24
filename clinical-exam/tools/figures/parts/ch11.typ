@@ -25,7 +25,7 @@
     let y0 = 2; let cx = 48
     let hit(x, y, c) = { dot(x, y, r: 1.3, fill: c); at(x - 0.5, y - 1, text(size: 5.7pt, fill: white, weight: "bold", "")) }
     hit(cx - 13, y0 + 32, teal); ln(cx - 14.4, y0 + 32, 25, 22, s: 0.4pt + teal); tag(1, 16, "C5–C6", "دوسر بازو (قات آرنج)", w: 24)
-    hit(cx - 15.7, y0 + 45, gold); ln(cx - 17.1, y0 + 45, 25, 40, s: 0.4pt + gold); tag(1, 34, "C6", "بازویی‌کعبری (نزدیک مچ)", w: 24, c: gold)
+    hit(cx - 15.7, y0 + 45, gold); ln(cx - 17.1, y0 + 45, 25, 40, s: 0.4pt + gold); tag(1, 34, "C5–C6", "بازویی‌کعبری (نزدیک مچ)", w: 24, c: gold)
     hit(cx + 13, y0 + 32, rgb("#5b4a9e")); ln(cx + 14.4, y0 + 32, 71, 22, s: 0.4pt + rgb("#5b4a9e")); tag(71, 16, "C7", "سه‌سر بازو (پشت آرنج)", w: 24, c: rgb("#5b4a9e"))
     hit(cx - 6, y0 + 66, navy); ln(cx - 7.4, y0 + 66, 25, 62, s: 0.4pt + navy); tag(1, 56, "L3–L4", "زانو (وتر زیر کاسه زانو)", w: 24, c: navy)
     hit(cx + 6, y0 + 82, red); ln(cx + 7.4, y0 + 82, 71, 74, s: 0.4pt + red); tag(71, 68, "S1", "قوزک (وتر Achilles در پشت)", w: 24, c: red)
