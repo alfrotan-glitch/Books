@@ -43,3 +43,12 @@
 | ۷ | معیارهای Wells برای DVT؛ مدل دوطبقه‌ای (≥۲ محتمل) | Wells PS et al. N Engl J Med 2003;349:1227–35 | ✔ |
 | ۷ | پای دیابتیک: مونوفیلامنت ۱۰ گرم؛ معاینه سالانه، در خطر بلند هر ۱–۳ ماه | Bus SA et al. IWGDF 2023. Diabetes Metab Res Rev 2024;40:e3651 | ✔ |
 | ۷ | زاویه Buerger <۲۰ درجه = اسکیمی شدید | کتاب‌های درسی معاینه (Bailey & Love; Macleod's) | ◐ |
+| ۸ | پیش‌بینی COPD: >۴۰ پاکت‌سال LR ۸٫۳؛ خودگزارشی ۷٫۳؛ ارتفاع حنجره ≤۴ cm ۲٫۸؛ عمر ≥۴۵ ۱٫۳؛ هیچ کدام ۰٫۱۳ | Straus SE et al. JAMA 2000;283:1853–7 | ✔ |
+| ۸ | چوب طبل شدن: زاویه پروفایل >۱۸۰°، نسبت ضخامت بند >۱ | Myers KA, Farquhar DR. JAMA 2001;286:341–7 | ✔ |
+| ۸ | انصباب پلورا: قرع مبهم LR+ ۸٫۷؛ نبود کاهش اهتزاز LR− ۰٫۲۱ | Wong CL et al. JAMA 2009;301:309–17 | ✔ |
+| ۸ | نمونیا: هیچ یافته‌ای ثابت نمی‌کند؛ نارمل بودن هر سه علامه حیاتی LR− ۰٫۱۸ | Metlay JP et al. JAMA 1997;278:1440–5 | ✔ |
+| ۸ | CURB-65 | Lim WS et al. Thorax 2003;58:377–82 | ✔ |
+| ۸ | شدت حمله استما (PEF ۳۳–۵۰٪، RR ≥۲۵، HR ≥۱۱۰؛ SpO₂ <۹۲٪، صدر خاموش) | BTS/SIGN British Guideline on the Management of Asthma 2019 | ◐ |
+| ۸ | سرفه حاد <۳ هفته، مزمن >۸ هفته؛ مقیاس MRC | ACCP cough guideline 2006; Fletcher CM 1959 / MRC | ◐ |
+| ۸ | پلس اکسی‌متر carboxyhaemoglobin را از oxyhaemoglobin جدا نمی‌کند | فزیولوژی دستگاه (Jubran A. Crit Care 2015;19:272) | ◐ |
+| ۸ | آزمایش مالیکولی سریع (Xpert MTB/RIF) به عنوان آزمایش اولیه | WHO consolidated guidelines on tuberculosis, Module 3: Diagnosis | ◐ |
