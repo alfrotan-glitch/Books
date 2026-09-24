@@ -42,7 +42,7 @@ def table_rows(tbl):
         if row.endswith("|"): row = row[:-1]
         return [c.strip() for c in row.split("|")]
     header = cells(tbl[0])
-    body = [cells(r) for r in tbl[2:]]
+    body = [cells(r) for r in tbl[1:]]
     n = len(header)
     body = [row + [""] * (n - len(row)) for row in body]
     return header, body
@@ -75,12 +75,12 @@ def convert(md: str) -> str:
         s = ln.strip()
         if s.startswith("```"):
             if in_code:
-                out.append('#block(breakable: true, fill: rgb("#f4f7f7"), inset: 9pt, radius: 3pt, stroke: 0.5pt + rgb("#cfdede")) {')
+                out.append('#block(breakable: true, fill: rgb("#f4f7f7"), inset: 9pt, radius: 3pt, stroke: 0.5pt + rgb("#cfdede"))[')
                 out.append('  #set par(leading: 0.75em)')
                 out.append('  #set text(size: 9.5pt)')
                 for cl in code_buf:
-                    out.append("  " + esc(cl) if cl else "  ")
-                out.append("}")
+                    out.append(("  " + esc(cl) + " \\") if cl.strip() else "  #v(0.4em)")
+                out.append("]")
                 out.append("#v(0.3em)")
                 code_buf = []
                 in_code = False
@@ -116,10 +116,10 @@ def convert(md: str) -> str:
             out.append("#v(0.4em)")
             continue
         if s.startswith("> "):
-            out.append('#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em) {')
+            out.append('#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[')
             out.append('  #set text(fill: rgb("#0f2744"))')
             out.append("  " + inline(s[2:]))
-            out.append("}")
+            out.append("]")
             i += 1
             continue
         if s.startswith("- ") or s.startswith("+ "):
