@@ -113,3 +113,10 @@
 | Amoxicillin ۱ g TID؛ Doxycycline ۱۰۰ BID؛ Azithro ۵۰۰→۲۵۰؛ Clarithro ۵۰۰ BID؛ مقاومت <۲۵٪؛ Ceftriaxone ۱–۲ g + Azithro ۵۰۰؛ Cefotaxime ۱–۲ g q8h؛ Amp/Sulb ۳ g q6h؛ حد اقل ۵ روز؛ ۴۸–۷۲ ساعت بدون تب | ATS/IDSA 2019 via Clinical Advisor، Contagion Live، droracle | ✅ |
 | Hydrocortisone ۲۰۰ mg/روز × ۴ روز → ۸ یا ۱۴ روز با کاهش | CAPE COD NEJM 2023 | ✅ |
 | HAP/VAP رژیم‌ها و ۷ روز؛ Oseltamivir؛ Vancomycin؛ تعدیل کلیوی | IDSA 2016 / لیبل (از دانش) | 🟡 |
+
+## فصل ۱۹ — سل
+| مورد | منبع | وضعیت |
+|---|---|---|
+| BPaLM: Bdq ۴۰۰ × ۲ هفته → ۲۰۰ سه بار/هفته؛ Pa ۲۰۰؛ Lzd ۶۰۰؛ Mfx ۴۰۰؛ ۲۶ هفته؛ ≥۱۴ سال؛ استثناها (CNS، استخوان، میلیاری، حاملگی) | WHO tbksp 2025؛ ATS/CDC/ERS/IDSA 2025 | ✅ |
+| HPMZ ۴ ماهه: H ۳۰۰، P ۱۲۰۰، M ۴۰۰ × ۱۷ هفته؛ Z بر اساس وزن × ۸ هفته | ATS 2025 (wikidoc؛ Infectious Disease Advisor) | ✅ |
+| HRZE mg/kg، جدول FDC، TPT، DILI، Dexamethasone TBM، Dolutegravir ۵۰ BID | WHO (از دانش) | 🟡 |
