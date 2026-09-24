@@ -68,3 +68,7 @@
 | ۱۱ | مقیاس GCS و ثبت اجزای آن | Teasdale & Jennett. Lancet 1974;2:81–4؛ Teasdale et al. Lancet Neurol 2014;13:844–54 | ✔ |
 | ۱۱ | پنجره درمان ترومبولیتیک تا ۴٫۵ ساعت؛ status epilepticus بیش از ۵ دقیقه | AHA/ASA Acute Ischemic Stroke Guideline 2019؛ ILAE 2015 definition | ✔ |
 | ۱۱ | MRC 0–5، ریشه‌های رفلکس‌ها، درماتوم‌ها، جدول UMN/LMN، راه رفتن‌ها، BE FAST، Hoover | کتاب‌های معیاری (Macleod's; Aids to the Examination of the PNS) | ◐ |
+| ۱۲ | قواعد Ottawa: حساسیت نزدیک ۱۰۰٪، کاهش ۳۰–۴۰٪ عکس‌ها، ۲۷ مطالعه، >۱۵۰۰۰ مریض | Bachmann LM et al. BMJ 2003;326:417–23 | ✔ |
+| ۱۲ | Lachman ۸۵٪/۹۴٪؛ pivot shift ۲۴٪/۹۸٪؛ anterior drawer مزمن ۹۲٪/۹۱٪ | Benjaminse A et al. J Orthop Sports Phys Ther 2006;36:267–88 | ✔ |
+| ۱۲ | GALS screen | Doherty M et al. Ann Rheum Dis 1992;51:1165–9 | ✔ |
+| ۱۲ | سختی صبحگاهی >۳۰ دقیقه در التهابی؛ قوس دردناک ۶۰–۱۲۰°؛ Schober >۵ cm؛ کمپارتمنت؛ اسکافوئید؛ علایم خطر کمردرد | کتاب‌های معیاری (Apley & Solomon; Macleod's; NICE NG59) | ◐ |
