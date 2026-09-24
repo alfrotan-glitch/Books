@@ -163,3 +163,12 @@
 
 ## فصل ۲۴ — رهیافت بطن
 بدون دوز دوایی (فصل رهیافتی).
+
+## فصل ۲۵ — خونریزی GI
+| مورد | منبع | وضعیت |
+|---|---|---|
+| PPI ۸۰ mg بولوس + ۸ mg/h × ۷۲ ساعت یا ۴۰ mg دو بار؛ سپس دو بار در روز تا ۱۴ روز؛ Erythromycin ۲۵۰ mg IV؛ Hb آستانهٔ ۷/۸؛ GBS ≤۱ | ACG 2021؛ ESGE 2021 (از دانش) | 🟡 |
+| Terlipressin ۲ mg هر ۴ ساعت ← ۱ mg؛ Octreotide ۵۰ mcg + ۵۰ mcg/h؛ Ceftriaxone ۱ g × ≤۷ روز؛ ۲–۵ روز؛ Pre-emptive TIPS | Baveno VII؛ AASLD 2024 (از دانش) | 🟡 |
+| Propranolol / Carvedilol (حد اکثر ۱۲.۵ mg/روز)؛ Lactulose | Baveno VII | 🟡 |
+| GTN ۰.۴ فیصد، Diltiazem ۲ فیصد؛ Metronidazole + Paromomycin؛ Azithromycin در شیگلا؛ آهن فمی | از دانش | 🟡 |
+| TXA روتین نه | HALT-IT 2020 | ✅ |
