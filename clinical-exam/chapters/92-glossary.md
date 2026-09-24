@@ -34,9 +34,9 @@
 | پنوموتوراکس فشاری | tension pneumothorax |
 | پُرطنین | hyperresonant |
 | تب کریمه‌کانگو | Crimean-Congo haemorrhagic fever |
-| تجمع (در شش) | consolidation |
 | تغییرات متقابل | reciprocal changes |
-| تکی‌کاردی بطنی | ventricular tachycardia |
+| تکاثف | consolidation |
+| تکی‌کاردی بطینی | ventricular tachycardia |
 | تنفس صدادار | stridor |
 | تنگه تایراید | thyroid isthmus |
 | تورساد | torsades de pointes |
