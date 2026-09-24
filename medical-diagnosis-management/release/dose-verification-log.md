@@ -227,10 +227,22 @@
 | Mannitol ۰.۵–۱ g/kg؛ Na هدف ۱۴۵–۱۵۵؛ Hydrocortisone ۵۰ mg هر ۶ ساعت؛ Acyclovir ۱۰ mg/kg هر ۸ ساعت؛ Methylprednisolone ۶۰ mg؛ Silibinin ۲۰ mg/kg/روز؛ HVP ۸–۱۲ L × ۳ روز | EASL 2017؛ Larsen 2016 | 🟡 |
 | Lactulose ۲۵ ml هر ۱–۲ ساعت ← ۲–۳ اجابت؛ انیما ۳۰۰ ml در ۷۰۰ ml؛ PEG ۴ L؛ Rifaximin ۵۵۰ mg دو بار؛ LOLA؛ Thiamine | AASLD/EASL 2014؛ EASL 2022؛ Bass 2010؛ HELP | 🟡 |
 
-## فصل ۳۲ — هپاتیت‌های ویروسی (نمونهٔ سبک v2)
+## فصل ۳۲ — هپاتیت‌های ویروسی (نمونهٔ سبک v2؛ ممیزی علمی ۲۰۲۶-۰۹)
 | مورد | منبع | وضعیت |
 |---|---|---|
-| معیارهای تداوی HBV (چهار گزینه: F2/APRI بیش از ۰.۵ یا بیش از ۷ kPa؛ DNA بیش از ۲۰۰۰ + ALT بلند؛ زمینهٔ پرخطر؛ ALT دوامدار بدون DNA)؛ TDF/ETV خط اول؛ TDF+3TC/FTC جانشین؛ ETV/TAF در مرض گرده/استخوان | WHO 2024 (hcplive؛ Gastroenterol Hepatol 2024؛ J Hepatol 2025) | ✅ وب |
-| HCV: SOF/VEL ۱۲ هفته؛ SOF/DCV ۱۲ (سیروز ۲۴)؛ G/P ۸ (سیروز ۱۲)؛ SOF/VEL/VOX برای شکست؛ نظارت فقط آغاز/پایان؛ SVR12 | WHO 2018 (NCBI NBK531720)؛ ACP 2020 | ✅ وب |
-| حاملگی: TDF اگر DNA ≥ ۲۰۰٬۰۰۰ IU/mL (سه‌ماههٔ سوم) | WHO 2024 (Gastroenterol Hepatol 2024) | ✅ وب؛ «HBeAg+ / همه در نبود تست» 🟡 |
-| TDF ۳۰۰ (تنظیم گرده)، ETV ۰.۵/۱ mg، TAF ۲۵، Peg-IFN ۱۸۰ mcg × ۴۸ هفته، Bulevirtide ۲ mg SC، RBV ۱۰۰۰/۱۲۰۰، DCV ۶۰ (۹۰/۳۰)، HBIG ۰.۵ ml، مدت پیشگیری Reactivation (۶/۱۲ ماه)، HEV RBV ۶۰۰–۸۰۰ × ۳ ماه، PPI با VEL | برچسب‌ها؛ AASLD/EASL؛ AGA 2015 | 🟡 (از دانش) |
+| معیارهای تداوی HBV: F2 (APRI بیش از ۰.۵ / TE بیش از ۷ kPa)، سیروز (APRI بیش از ۱ / TE بیش از ۱۲.۵)، DNA بیش از ۲۰۰۰ + ALT بلند (ULN ۳۰ مرد/۱۹ زن) | WHO 2024؛ Lancet GH 2024 | ✅ |
+| TDF ۳۰۰ mg روزانه؛ CrCl ۳۰–۴۹ هر ۴۸h، ۱۰–۲۹ هر ۷۲–۹۶h، HD هفته‌وار پس از دیالیز؛ کمتر از ۱۰ بدون HD: معلومات نیست | Viread label | ✅ |
+| ETV ۰.۵ mg (۱ mg جبران‌نشده/مقاوم به LAM)، معدهٔ خالی؛ جدول تنظیم گرده | Baraclude label | ✅ |
+| TAF ۲۵ mg با غذا؛ CrCl ≥۱۵ و HD بدون تنظیم؛ کمتر از ۱۵ بدون HD و Child B/C توصیه نمی‌شود | Vemlidy label | ✅ |
+| Peg-IFN alfa-2a ۱۸۰ mcg SC هفته‌وار × ۴۸ هفته | Pegasys label؛ EASL 2023 HDV | ✅ |
+| HBV حاد شدید: ETV/TDF/TAF تا پاک شدن HBsAg؛ IFN منع | AASLD 2018 | ✅ |
+| Reactivation: طبقات بیش از ۱۰٪/۱–۱۰٪/کمتر از ۱٪؛ ادامه ≥۶ ماه (≥۱۲ ماه B-cell)؛ نظارت هر ۱–۳ ماه | AGA 2025 | ✅ |
+| حاملگی: TDF اگر DNA ≥۲۰۰٬۰۰۰ یا HBeAg+ (یا همه اگر هیچ‌کدام در دسترس نیست)، از هفتهٔ ۲۴–۲۸ تا حد اقل تولد | WHO 2024؛ WHO 2020 | ✅ |
+| نوزاد: واکسین ≤۲۴h؛ HBIG ۰.۵ mL IM ≤۱۲h؛ کمتر از ۲ kg؛ تست ۹–۱۲ ماه؛ Anti-HBs ≥۱۰ | CDC MMWR 2018؛ WHO | ✅ |
+| SOF/VEL ۴۰۰/۱۰۰ × ۱۲ هفته؛ جبران‌نشده + RBV وزن‌محور؛ PPI/Amiodarone | Epclusa label؛ WHO 2018 | ✅ |
+| SOF/DCV ۱۲ هفته (سیروز ۲۴)؛ DCV ۶۰ / ۳۰ / ۹۰ mg؛ القاکنندهٔ قوی منع | WHO 2018؛ Daclatasvir label | ✅ |
+| G/P ۳×۱۰۰/۴۰ با غذا، ۸ هفته (سیروز جبران‌شده ۱۲ — WHO)؛ Child B/C منع | Mavyret label؛ WHO 2018 | ✅ |
+| Bulevirtide ۲ mg SC روزانه (EMA)؛ ۸.۵ mg (FDA می ۲۰۲۶) | EMA؛ FDA 2026 | ✅ |
+| HEV مزمن: RBV ۱۲ هفته تا ۶ ماه؛ دوز مطابق eGFR/Hb — **رقم دوز عمداً ذکر نشده** | EASL 2018 | ✅ (بدون رقم) |
+| Engerix-B بزرگسال ۲۰ mcg/۱ mL IM، ۰/۱/۶ ماه؛ Havrix ۱۴۴۰ EL.U/۱ mL + تقویتی ۶–۱۲ ماه | CDC 2018؛ Havrix label | ✅ |
+| Paracetamol در هپاتیت حاد — **رقم حذف شد** («کمترین دوز مؤثر»)؛ ضد استفراغ — ارجاع به فصل مربوط | — | ⚪ بدون رقم (عمدی) |
