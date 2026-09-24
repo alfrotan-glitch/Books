@@ -230,13 +230,71 @@ local function mark_terms(blocks, terms)
   end
 end
 
+-- plain text of a block, with a space between table cells, list items and nested blocks
+local function text_of(b)
+  if b.t == "Table" then
+    local out = {}
+    local rows = {}
+    for _, r in ipairs(b.head.rows) do rows[#rows + 1] = r end
+    for _, body in ipairs(b.bodies) do for _, r in ipairs(body.body) do rows[#rows + 1] = r end end
+    for _, r in ipairs(rows) do for _, c in ipairs(r.cells) do for _, cb in ipairs(c.contents) do out[#out + 1] = text_of(cb) end end end
+    return table.concat(out, " ")
+  elseif b.t == "Div" or b.t == "BlockQuote" or b.t == "Figure" then
+    local out = {}
+    for _, cb in ipairs(b.content) do out[#out + 1] = text_of(cb) end
+    if b.t == "Figure" and b.caption and b.caption.long then for _, cb in ipairs(b.caption.long) do out[#out + 1] = text_of(cb) end end
+    return table.concat(out, " ")
+  elseif b.t == "BulletList" or b.t == "OrderedList" then
+    local out = {}
+    for _, item in ipairs(b.content) do for _, cb in ipairs(item) do out[#out + 1] = text_of(cb) end end
+    return table.concat(out, " ")
+  elseif b.t == "RawBlock" then return b.text
+  end
+  return pandoc.utils.stringify(b)
+end
+
 function Pandoc(doc)
   if FORMAT ~= "typst" then
-    -- no page numbers outside the PDF: drop the subject index
-    local out, skip = {}, false
+    -- no page numbers outside the PDF: the subject index points to chapters, as links
+    local fad = function(n) return (tostring(n):gsub("%d", function(d) return ({"۰","۱","۲","۳","۴","۵","۶","۷","۸","۹"})[tonumber(d) + 1] end)) end
+    local chapters, cur, k = {}, nil, 0
     for _, b in ipairs(doc.blocks) do
-      if b.t == "Header" and b.level == 1 then skip = pandoc.utils.stringify(b):find("فهرست موضوعی") ~= nil end
-      if not skip then out[#out + 1] = b end
+      if b.t == "Header" and b.level == 1 then
+        local h = pandoc.utils.stringify(b)
+        if h:find("^ضمیمه") then cur = nil
+        elseif h:find("^فصل") then
+          k = k + 1
+          if b.identifier == "" then b.identifier = "ch-" .. k end
+          cur = {n = k, id = b.identifier, text = {}}
+          chapters[#chapters + 1] = cur
+        end
+      elseif cur then
+        cur.text[#cur.text + 1] = text_of(b)
+      end
+    end
+    for _, c in ipairs(chapters) do c.all = table.concat(c.text, " ") end
+    local out, in_index = {}, false
+    for _, b in ipairs(doc.blocks) do
+      if b.t == "Header" and b.level == 1 then in_index = pandoc.utils.stringify(b):find("فهرست موضوعی") ~= nil; out[#out + 1] = b
+      elseif in_index and b.t == "Para" then
+        out[#out + 1] = pandoc.Para(pandoc.Inlines("اعداد بعد از هر اصطلاح، شماره فصل‌هایی اند که آن موضوع در آن‌ها آمده است؛ روی هر عدد بزنید تا به همان فصل بروید."))
+      elseif in_index and b.t == "BulletList" then
+        local items = {}
+        for _, item in ipairs(b.content) do
+          local term = pandoc.utils.stringify(item[1])
+          local inl = pandoc.Inlines({pandoc.Strong(pandoc.Inlines(term))})
+          local first = true
+          for _, c in ipairs(chapters) do
+            if has_term(c.all, term) then
+              inl:insert(first and pandoc.Space() or pandoc.Str("، "))
+              inl:insert(pandoc.Link(pandoc.Inlines(fad(c.n)), "#" .. c.id))
+              first = false
+            end
+          end
+          items[#items + 1] = {pandoc.Plain(inl)}
+        end
+        out[#out + 1] = pandoc.BulletList(items)
+      else out[#out + 1] = b end
     end
     doc.blocks = out
     return doc
