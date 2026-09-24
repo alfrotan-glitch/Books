@@ -26,11 +26,21 @@
 
 | ادعا | منبع |
 |---|---|
-| SBAR، منشأ بحریه امریکا و انتشار در شفاخانه‌ها | Haig KM et al. Jt Comm J Qual Patient Saf 2006;32:167–75 |
+| SBAR، منشأ بحریه امریکا و انتشار در شفاخانه‌ها | Haig KM, Sutton S, Whittington J. Jt Comm J Qual Patient Saf 2006;32:167–75 (✔ آنلاین تأیید شد) |
 | LR ویژگی‌های درد صدری | Swap CJ, Nagurney JT. JAMA 2005;294:2623–9 |
 | معیارهای شدت AS و MS | Otto CM et al. 2020 ACC/AHA VHD Guideline. Circulation 2021;143:e72–e227 |
 | نبض تناقضی در تامپوناد | Roy CL et al. JAMA 2007;297:1810–8 |
 | JVP ≤۳ cm بالای زاویه قص؛ تست بطنی‌وداجی | McGee S. Evidence-Based Physical Diagnosis, 5th ed. |
 | درجه‌بندی Levine | Levine SA, Harvey WP. Clinical Auscultation of the Heart, 1949 |
-| تشخیص اکوکاردیوگرافیک RHD | WHF 2012 criteria; 2023 WHF guideline (Rwebembera J et al. Nat Rev Cardiol 2024) |
-| وقایه ثانوی با بنزاتین پنسلین هر ۳–۴ هفته | WHO Guideline on prevention and diagnosis of RF/RHD, 2024 |
+| تشخیص اکوکاردیوگرافیک RHD | Reményi B et al. Nat Rev Cardiol 2012;9:297–309; Rwebembera J et al. Nat Rev Cardiol 2024;21:250–63 (✔ آنلاین تأیید شد) |
+| وقایه ثانوی با بنزاتین پنسلین هر ۴ هفته (پرخطر: هر ۳ هفته) | WHO Guideline on prevention and diagnosis of RF/RHD, 2024; AHA Scientific Statement 2009 (Gerber MA et al. Circulation 2009;119:1541–51) |
+
+## فصل ۷
+
+| ادعا | منبع |
+|---|---|
+| طبقه‌بندی ABI (≤۰٫۹۰، ۰٫۹۱–۰٫۹۹، ۱٫۰۰–۱٫۴۰، >۱٫۴۰)؛ درجه‌بندی نبض ۰–۳ | Gornik HL et al. 2024 ACC/AHA Lower Extremity PAD Guideline. Circulation 2024;149:e1313–e1410 (✔ آنلاین تأیید شد)؛ Gerhard-Herman MD et al. 2016 AHA/ACC PAD Guideline |
+| حساسیت لمس AAA بر اساس قطر (۲۹٪، ۵۰٪، ۷۶٪) | Lederle FA, Simel DL. JAMA 1999;281:77–82 (✔ آنلاین تأیید شد) |
+| معیارهای Wells برای DVT و مدل دوطبقه‌ای | Wells PS et al. N Engl J Med 2003;349:1227–35 (معیارها ✔ آنلاین تأیید شد) |
+| معاینه پای دیابتیک، مونوفیلامنت ۱۰ گرم، فاصله‌های معاینه | IWGDF Guidelines 2023 (Schaper NC et al. Diabetes Metab Res Rev 2024) |
+| زاویه Buerger کمتر از ۲۰ درجه = اسکیمی شدید | کتاب‌های درسی معاینه (Macleod's Clinical Examination; Talley & O'Connor) |

@@ -5,7 +5,16 @@
 
 local function typst_wrap(fn, blocks)
   local out = { pandoc.RawBlock("typst", "#" .. fn .. "[") }
-  for _, b in ipairs(blocks) do table.insert(out, b) end
+  for i, b in ipairs(blocks) do
+    -- keep a bold box title on the same page as the text that follows it
+    if i == 1 and #blocks > 1 and b.t == "Para" and b.content[1] and b.content[1].t == "Strong" then
+      table.insert(out, pandoc.RawBlock("typst", "#block(sticky: true, above: 0pt, below: 0.65em)["))
+      table.insert(out, b)
+      table.insert(out, pandoc.RawBlock("typst", "]"))
+    else
+      table.insert(out, b)
+    end
+  end
   table.insert(out, pandoc.RawBlock("typst", "]"))
   return out
 end
