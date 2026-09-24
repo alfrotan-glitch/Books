@@ -24,6 +24,25 @@ accessibilityFeatures: ["alternativeText", "readingOrder", "structuralNavigation
 accessibilityHazards: ["none"]
 accessibilitySummary: "متن کتاب کاملاً متنی و قابل تغییر اندازه است؛ همه شکل‌ها متن جایگزین (alt) دارند؛ فصل‌ها و عنوان‌ها ساختار ناویگیشن دارند. Fully reflowable text; every figure has alternative text; structured headings and table of contents."
 # publisher / isbn: add here when obtained (both are then printed automatically on the imprint page)
+dedication-title: "تقدیم به مادرم"
+dedication:
+  - "فرشته‌ای که آسمانی شد"
+  - ""
+  - "به تو که وقتی پنج‌ساله بودم و پدرم رفت،"
+  - "هم مادرم شدی و هم پدرم؛"
+  - "دست کوچکم را گرفتی و تا دروازه مکتب بردی،"
+  - "و دعایت تا دروازه پوهنتون با من آمد."
+  - ""
+  - "تو رفتی، وقتی من هنوز در سال‌های استاژ بودم؛"
+  - "پیش از آن که مرا با روپوش سفید داکتری ببینی."
+  - ""
+  - "هر مریضی که در این کتاب با حوصله شنیده می‌شود،"
+  - "و هر دستی که با مهربانی معاینه می‌کند،"
+  - "این را از تو آموخته است."
+  - ""
+  - "این کتاب از توست."
+  - "روحت شاد و جایت جنت."
+dedication-sign: "الله یار"
 toc: true
 toc-depth: 2
 toc-title: "فهرست مطالب"

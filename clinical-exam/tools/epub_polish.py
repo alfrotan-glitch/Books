@@ -120,12 +120,42 @@ open(os.path.join(T, 'titlepage.xhtml'), 'w', encoding='utf-8').write(head(TITLE
 </html>
 ''')
 
+# ---- dedication page ----
+mt = open(meta_path, encoding='utf-8').read()
+dm = re.search(r'^dedication:\n((?:  - ".*"\n)+)', mt, re.M)
+if dm:
+    lines = re.findall(r'  - "(.*)"', dm.group(1))
+    stanzas, cur = [], []
+    for ln in lines:
+        if ln == '':
+            if cur: stanzas.append(cur); cur = []
+        else: cur.append(html.escape(ln))
+    if cur: stanzas.append(cur)
+    body = '\n'.join('  <p>' + '<br />'.join(s) + '</p>' for s in stanzas)
+    sign = meta('dedication-sign'); dtitle = meta('dedication-title')
+    open(os.path.join(T, 'dedication.xhtml'), 'w', encoding='utf-8').write(head(dtitle) + f'''<body epub:type="frontmatter">
+<main>
+<section class="dedication" epub:type="dedication" role="doc-dedication">
+  <h1 class="dedication-title">{html.escape(dtitle)}</h1>
+  <hr class="gold" />
+{body}
+  <p class="dedication-sign">{html.escape(sign)}</p>
+</section>
+</main>
+</body>
+</html>
+''')
+
 # ---- OPF: manifest, spine, Apple font flag, ARIA feature ----
 opf_p = os.path.join(E, 'content.opf'); opf = open(opf_p, encoding='utf-8').read()
 shutil.copy(os.path.join(os.path.dirname(os.path.abspath(meta_path)), 'epub-themes.css'), os.path.join(E, 'styles', 'themes.css'))
 opf = opf.replace('<item id="stylesheet1"', '<item id="themes" href="styles/themes.css" media-type="text/css" />\n    <item id="stylesheet1"', 1)
 opf = opf.replace('<item id="nav"', '<item id="titlepage" href="text/titlepage.xhtml" media-type="application/xhtml+xml" />\n    <item id="nav"', 1)
-opf = opf.replace('<itemref idref="nav" />', '<itemref idref="titlepage" />\n    <itemref idref="nav" />', 1)
+if dm:
+    opf = opf.replace('<item id="nav"', '<item id="dedication" href="text/dedication.xhtml" media-type="application/xhtml+xml" />\n    <item id="nav"', 1)
+    opf = opf.replace('<itemref idref="nav" />', '<itemref idref="titlepage" />\n    <itemref idref="dedication" />\n    <itemref idref="nav" />', 1)
+else:
+    opf = opf.replace('<itemref idref="nav" />', '<itemref idref="titlepage" />\n    <itemref idref="nav" />', 1)
 extra = ''
 if 'ibooks:specified-fonts' not in opf:
     extra += '    <meta property="ibooks:specified-fonts">true</meta>\n'

@@ -199,6 +199,24 @@ $endif$
   #text(fill: rgb("#555"))[این کتاب صرف برای مقاصد آموزشی تهیه گردیده است و جانشین قضاوت کلینیکی داکتر معالج نمی‌باشد.]
 ]
 
+$if(dedication)$
+// dedication (recto in print; verso left blank so the contents open on a right-hand page)
+#page[
+  #set par(justify: false, leading: 1.05em)
+  #align(center + horizon)[
+    #text(size: 15pt, weight: "bold", fill: navy)[$dedication-title$]
+    #v(0.3em)
+    #line(length: 25%, stroke: 0.8pt + gold)
+    #v(1.2em)
+    #text(size: 10.5pt, fill: rgb("#333"))[$for(dedication)$$dedication$\
+$endfor$]
+    #v(1.2em)
+    $if(dedication-sign)$#text(size: 10pt, fill: teal)[$dedication-sign$]$endif$
+  ]
+]
+$if(print-edition)$#page[]$endif$
+$endif$
+
 $for(include-before)$
 $include-before$
 $endfor$

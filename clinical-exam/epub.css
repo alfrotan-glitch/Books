@@ -136,3 +136,9 @@ section.glossary table td:last-child { text-align: left; }
   th, td { border-color: #3c4a4f; }
   tbody tr:nth-child(even) td { background: rgba(255,255,255,.05); }
 }
+
+/* ─── dedication ─── */
+.dedication { text-align: center; padding-top: 12%; }
+.dedication p { text-align: center; text-align-last: center; line-height: 2; margin: 0 0 1.1em 0; }
+.dedication-title { border: 0; font-size: 1.4em; margin-bottom: .2em; padding-bottom: 0; }
+.dedication-sign { color: #136f73; margin-top: 1.6em; }
