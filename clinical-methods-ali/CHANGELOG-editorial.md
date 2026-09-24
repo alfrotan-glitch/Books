@@ -235,3 +235,30 @@ These changes replace the earlier "flagged, not changed" status of items M1–M1
 - EPUB: stable identifier (UUID v5 instead of a new random one on every build), `dc:subject`, a fuller description, and accessibility metadata (`accessMode` textual+visual, `accessibilitySummary`, `displayTransformability`). epubcheck: 0 errors, 0 warnings.
 - DOCX: keywords in the core properties.
 - `PUBLISHING.md`: metadata sheet, print specification and a pre-press checklist.
+
+## v1.4 — deep language and science review (September 2026)
+
+Scope: a line-by-line reread of the whole book, from the front matter through chapter 14 and the appendices. The review covered sentence structure, Afghan-Dari style, punctuation, grammar and medical accuracy.
+- **Edits:** 1,188 literal edits (`tools/v14/01–37`) plus about 40 global regex rules (`tools/rewrites_v14.py`). All of them are reproducible with `edit_master.py` → `style_pass.py`.
+- **Full log:** every edit, old → new, is listed in `CHANGELOG-v1.4-fixes.md`.
+- **Language:** most edits are language edits. They cover Iranian → Afghan usage, calques, broken or run-on sentences, ezafe (اجرای), spelling consistency (سؤال, سوءشکل, متاستاز, سیستول) and punctuation.
+- **Requested fix:** «زمینه‌ها» → «زینه‌ها» (stairs) in the HPI severity questions.
+
+### Principal scientific corrections (v1.4)
+| Location | Correction | Source basis |
+|---|---|---|
+| Ch. 9 reflexes and gait | Supinator and knee-jerk strike sites; Hoffmann meaning; absent reflex = lesion in the reflex arc; cerebellar ataxia is not Romberg-positive; Unterberger 50 steps; apraxic gait = frontal/NPH; waddling gait = congenital hip dislocation / osteomalacia / myopathy | standard neurology texts |
+| Ch. 9 autonomic tests | Orthostatic fall ≥20/10 within 3 min; Ewing cut-offs (deep breathing, handgrip) | Ewing battery / consensus |
+| Ch. 9 LMN–UMN table | Rewritten; lesion sites and abdominal reflexes corrected | — |
+| Ch. 9 unconscious patient | Hepatic vs uraemic fetor swapped back; unilateral fixed dilated pupil = uncal herniation; no doll's-eye test if a neck injury is suspected; glucose first; LP only after CT when ICP may be raised | — |
+| Ch. 9 brain death | Cause known and irreversible; SBP ≥100; apnoea PaCO2 ≥60 and ≥20 above baseline; adults 1 exam, children 2 exams 12 h apart; national law applies | AAN 2023 |
+| Ch. 9 localisation | Capsular = dense hemiplegia; medial vs lateral medullary (Wallenberg) syndromes rewritten; Brown-Séquard and cauda equina findings corrected | — |
+| Ch. 9 LP | Contraindications updated (raised ICP/mass → CT first; coagulopathy/platelets; instability); L3–L5 and Tuffier line; lidocaine; opening pressure 90–180 mmH2O; bed rest does not prevent headache, atraumatic needles do | Medscape CSF; LP guidance |
+| Ch. 10 obstetrics | Gravida/parity; Naegele caveat; risk factors expanded; teratogens listed instead of "most drugs harmful"; fundal landmarks 12/20/36 wk; external ballottement 16–28 wk; Hegar 6–10 wk; engagement ≤2/5; APH ≥24 wk: no digital PV until praevia excluded; PROM → sterile speculum; hCG / TVUS timing | RCOG/FIGO standard |
+| Ch. 11 gynaecology | Menstrual history moved into item 10; FIGO cycle 24–38 d; loss <80 mL; polymenorrhoea and oligomenorrhoea redefined (hypomenorrhoea separated); discharge types (+ bacterial vaginosis); rectovaginal technique; Pap/HPV screening intervals; Pap sensitivity 50–70% (the "98%/80% endometrial" claim was removed) | FIGO 2018; WHO 2021; ACOG |
+| Ch. 12 paediatrics | Milestone table corrected; fontanelle 12–18 mo; axillary temperature is *lower* than oral and rectal; cuff sizing; BP by formula 90+2×age (min 70+2×age) with AAP 2017 percentile definition; WHO IMCI fast-breathing cut-offs; apex position <7 y; spleen enlarges towards the RIF; faecal masses in the LIF; extensor plantar normal to about 1 y | APLS; AAP 2017; WHO IMCI |
+| Ch. 13 ENT | Inner ear = cochlea + vestibule + semicircular canals; Eustachian tube → nasopharynx; 512 Hz fork; Weber lateralisation logic; false-negative Rinne; fistula test = labyrinthine fistula (cholesteatoma); OME vs chronic OM; posterior rhinoscopy (soft palate relaxes down); epistaxis causes (anticoagulants, Little's area); CSF rhinorrhoea; hoarseness >3 wk; indirect laryngoscopy view | standard ENT texts |
+| Ch. 14 ECG | SA node subepicardial; aVL/aVF territories; P and T normal inversions; QTc <0.45/0.46 + Bazett; SSS needs a pacemaker (the "do not treat" claim was removed); atrial vs ventricular ectopic pause; VT = AV dissociation; WPW types; Mobitz II PR constant (may be normal); RBBB axis normal, LBBB criteria; LAD needs lead II negative; strain definition; coronary supply percentages; Pardee wave vs coronary T; Q-wave criteria; ST thresholds per the 4th UDMI (2018); exercise-test contraindications modernised; K+ ECG ladder rewritten; dextrocardia = reverse R progression; digoxin effect vs toxicity | 4th UDMI 2018; AHA |
+| Appendix answers and key points | Aligned with the corrected text (Light's criteria, puerile breathing, parity 24 wk, paediatric BP/RR, menstrual loss) | — |
+
+Items still needing a human decision: the book title (options proposed separately), author approval of the scientific changes, and a Dari proofreader.

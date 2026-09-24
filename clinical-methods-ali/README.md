@@ -1,12 +1,12 @@
 # میتودهای کلینیکی علی (داکتر الله یار فروتن)
 
-**Status: edition v1.3, pre-press audited (September 2026).** Evaluation: `EVALUATION.md`. Print specification and checklist: `PUBLISHING.md`. The finished files are in `release/`:
+**Status: edition v1.4, deep language & science review (September 2026).** Evaluation: `EVALUATION.md`. Print specification and checklist: `PUBLISHING.md`. The finished files are in `release/`:
 
 | File | Use |
 |---|---|
-| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 426 pages, no cover, chapters open on recto, vector figures |
-| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 23.4 mm spine + front, 3 mm bleed) |
-| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 416 pages, subject index with page numbers |
+| `release/clinical-methods-ali-print-interior.pdf` | **For the printer**: A5 interior, 438 pages, no cover, chapters open on recto, vector figures |
+| `release/clinical-methods-ali-cover-wrap.pdf` | **For the printer**: full cover (back + 24.1 mm spine + front, 3 mm bleed) |
+| `release/clinical-methods-ali.pdf` | Screen PDF with cover, 430 pages, subject index with page numbers |
 | `release/clinical-methods-ali.epub` | E-book (EPUB 3, RTL; epubcheck: 0 errors, 0 warnings) |
 | `release/clinical-methods-ali.docx` | Editable Word version |
 
@@ -24,6 +24,13 @@
 - Full language pass: 1,350 verb-register fixes and 74 long sentences rewritten.
 - Every chapter now has objectives, red flags, key points, a clinical case and a self-test.
 - 5 algorithms, an ABCDE/NEWS2/POCUS section, a glossary, a subject index and references.
+
+## v1.4 additions (deep language and science review)
+- The whole book was reread line by line. The result is 1,188 literal edits plus global rules, all reproducible via `tools/v14/` and `tools/rewrites_v14.py`.
+- The full old → new log is in `CHANGELOG-v1.4-fixes.md`; the scientific highlights are in `CHANGELOG-editorial.md` § v1.4.
+- The fix «زمینه‌ها» → «زینه‌ها» is done.
+- The rebuilt files are 430 screen pages and 438 print-interior pages. The spine is 24.1 mm at a caliper of 0.055. EPUBCheck reports 0 errors and 0 warnings.
+- Title options were proposed for the author's decision. The title has not been changed yet.
 
 ## v1.3 additions (pre-publication audit)
 - Editorial: author typos fixed, Dari names for English-only headings, sequential figure numbering, real chemical subscripts.
