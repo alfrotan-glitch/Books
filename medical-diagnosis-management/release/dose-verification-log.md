@@ -67,3 +67,28 @@
 | HRZE | ۵/۱۰/۲۵/۱۵ mg/kg؛ ۲+۴ ماه | WHO | 🟡 |
 | Vancomycin + Ceftriaxone (چرکی) | دوزهای استندرد | — | 🟡 (در فصل انتانات تأیید شود) |
 | ICAP | ۳۷.۵ ← ۱۶.۷ فیصد | NEJM 2013 | 🟡 |
+
+## فصل ۱۲ — اندوکاردیت (۲۰۲۶-۰۹-۲۴)
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Ampicillin ۱۲ g/روز؛ Ceftriaxone ۴ g/روز (انتروکوک)؛ (Flu)cloxacillin ۱۲ g؛ Cefazolin ۶ g؛ Vancomycin ۳۰–۶۰ mg/kg؛ Daptomycin ۱۰ mg/kg؛ Rifampicin ۹۰۰ mg؛ Gentamicin ۳ mg/kg | ESC 2023 (متن رهنمود، iscpcardio / boa.unimib) | ✅ |
+| مدت‌ها (۴ NVE / ۶ PVE؛ Gentamicin ۲ هفته) | ESC 2023؛ SWAB | ✅ |
+| Penicillin G ۱۲–۱۸ MU؛ رژیم ۲ هفته‌ای؛ MIC آستانه‌ها | ESC 2023 (از دانش؛ در متن بازشده دیده نشد) | 🟡 |
+| پروفیلاکسی AHA 2021 (Amoxicillin ۲ g؛ Azithro ۵۰۰؛ Doxy ۱۰۰؛ Cephalexin ۲ g؛ حذف Clindamycin) | AHA 2021 (از دانش) | 🟡 |
+| Brucella، Coxiella، فنگس | — | 🟡 |
+| Duke-ISCVID 2023 | Fowler CID 2023 (از دانش) | 🟡 |
+
+## فصل ۱۳ — اورت و PAD
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Rivaroxaban ۲.۵ mg BID + Aspirin؛ DAPT ۱–۶ ماه | ACC/AHA 2024 PAD Guideline-at-a-Glance | ✅ |
+| Esmolol/Metoprolol/Diltiazem | ERC 2021؛ ACC/AHA 2023 (فصل ۱۰) | ✅ |
+| اهداف ضربان کمتر از ۶۰ / SBP ۱۰۰–۱۲۰؛ AAA ۵۵/۵۰ mm | ESC 2024 (از دانش) | 🟡 |
+| Labetalol، Nicardipine، Nitroprusside، Cilostazol، استاتین | لیبل‌های استندرد (از دانش) | 🟡 |
+
+## فصل ۱۴ — VTE/PE
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Apixaban ۱۰×۷ روز ← ۵ ← ۲.۵؛ Rivaroxaban ۱۵ BID × ۲۱ ← ۲۰ ← ۱۰ | Thrombosis Canada 2023؛ PMC11152618 (ESC) | ✅ |
+| Alteplase ۱۰۰ mg/۲ h و ۰.۶ mg/kg (حداکثر ۵۰)؛ Streptokinase ۲۵۰k ← ۱۰۰k/h | ESC 2019 via PMC11152618؛ Thrombosis Canada | ✅ |
+| Enoxaparin، UFH ۸۰/۱۸، Fondaparinux، Edoxaban، Dabigatran، Warfarin، پروفیلاکسی | ESC 2019 / CHEST 2021 (از دانش) | 🟡 |
