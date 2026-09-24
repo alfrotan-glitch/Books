@@ -126,3 +126,8 @@ dari_term,english_term,latin_term,abbreviation,preferred_form,forbidden_forms,so
 پرستار,Nurse,,RN,نرس (Nurse),پرستار,Iranian term - avoid,Use نرس in Afghan texts,00-frontmatter
 درصد,Percentage,%,%,فیصد (Percentage),درصد,Iranian term - avoid,Use فیصد in Afghan texts,00-frontmatter
 اورژانس,Emergency,,ED,عاجل (Emergency),اورژانس,Iranian term - avoid,Use عاجل/بخش عاجل in Afghan texts,00-frontmatter
+سودیم,Sodium,Natrium,Na,سودیم,سدیم,Afghan clinical usage,Electrolyte term,04-labs
+ادیما,Oedema,,,ادیما,ادم,Afghan clinical usage,Swelling; keep standalone word only,01-approach
+سندروم,Syndrome,,,سندروم,سیندرم|سیندر,Afghan clinical usage,,01-approach
+عدم کفایه,Failure / Insufficiency,,,عدم کفایه,نارسایی,Afghan clinical usage,Organ failure,05-cardio-approach
+حلقهٔ معیوب,Vicious cycle,,,حلقهٔ معیوب,حلقه فاصله‌دار,Editorial correction,Mistranslation found in audit,07-heart-failure

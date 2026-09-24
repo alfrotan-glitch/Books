@@ -26,7 +26,7 @@
 **طبقه‌بندی بر اساس فاصله زمانی (Killip برای سکته):**
 - کلاس ۱: بدون علایم عدم کفایه قلب
 - کلاس ۲: عدم کفایه خفیف (رال / S3)
-- کلاس ۳: عدم کفایه شدید (ادم ریوی)
+- کلاس ۳: عدم کفایه شدید (ادیما ریوی)
 - کلاس ۴: شوک
 
 ## 🔹 ۳. Pathophysiology — Step-by-step
@@ -76,7 +76,7 @@
 - **تاکیکاردی** (رایج‌ترین) یا برادی‌کاردی (در inferior MI)
 - **فشار خون بالا** (درد) یا **پایین** (shock / RV infarction)
 - **S3 Gallop** (عدم کفایه حاد)
-- **RAL / ادم ریوی** (Killip III)
+- **RAL / ادیما ریوی** (Killip III)
 - **کاهش پالس / سردی دست‌وپا** (Killip IV)
 - **ECG:** ST elevation (STEMI) / ST depression / T inversion / Q waves
 
@@ -87,7 +87,7 @@
 - ☐ **درد سینه:** ویژگی (SOCRATES: Site, Onset, Character, Radiation, Associated, Time)
 - ☐ **قلب:** ریتم، S3/S4، وزش نو (MR / VSD)
 - ☐ **ریه:** Rales، SpO2
-- ☐ **JVP + ادم پا** (RV infarction در inferior MI)
+- ☐ **JVP + ادیما پا** (RV infarction در inferior MI)
 - ☐ **ECG 12 لید در ۱۰ دقیقه اول** (معیار طلایی)
 - ☐ **پالس محیطی** (دیسکسیون؟)
 - ☐ **معاینه عصبی** (سکته مغزی هم‌زمان؟)
