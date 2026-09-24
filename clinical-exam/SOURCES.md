@@ -50,8 +50,8 @@
 | ۸ | CURB-65 | Lim WS et al. Thorax 2003;58:377–82 | ✔ |
 | ۸ | شدت حمله استما (PEF ۳۳–۵۰٪، RR ≥۲۵، HR ≥۱۱۰؛ SpO₂ <۹۲٪، صدر خاموش) | BTS/SIGN SIGN 158 (2019), Acute asthma in adults | ✔ |
 | ۸ | سرفه حاد <۳ هفته، مزمن >۸ هفته؛ مقیاس MRC | Irwin RS et al. ACCP cough guideline. Chest 2006;129(1 Suppl):1S–23S; MRC dyspnoea scale (Fletcher 1959) | ✔ |
-| ۸ | پلس اکسی‌متر carboxyhaemoglobin را از oxyhaemoglobin جدا نمی‌کند | فزیولوژی دستگاه (Jubran A. Crit Care 2015;19:272) | ◐ |
-| ۸ | آزمایش مالیکولی سریع (Xpert MTB/RIF) به عنوان آزمایش اولیه | WHO consolidated guidelines on tuberculosis, Module 3: Diagnosis | ◐ |
+| ۸ | پلس اکسی‌متر carboxyhaemoglobin را از oxyhaemoglobin جدا نمی‌کند | فزیولوژی دستگاه (Jubran A. Crit Care 2015;19:272) | ✔ |
+| ۸ | آزمایش مالیکولی سریع (Xpert MTB/RIF) به عنوان آزمایش اولیه | WHO consolidated guidelines on tuberculosis, Module 3: Diagnosis | ✔ |
 | ۹ | اپندیسیت: درد RLQ LR+ ۷٫۳–۸٫۵؛ سختی ۳٫۸؛ انتقال درد ۳٫۲؛ درد پیش از قی ۲٫۸؛ Psoas ۲٫۴؛ تب ۱٫۹؛ نبود درد RLQ LR− ۰–۰٫۲۸ | Wagner JM et al. JAMA 1996;276:1589–94 | ✔ |
 | ۹ | التهاب کیسه صفرا: هیچ یافته تنها کافی نیست؛ Murphy LR+ ۲٫۸ | Trowbridge RL et al. JAMA 2003;289:80–6 | ✔ |
 | ۹ | حبن: موج مایع ۶٫۰/۰٫۴؛ پندیدگی بطن ۴٫۲/۰٫۲؛ پندیدگی قوزک ۲٫۸/۰٫۱؛ shifting ۲٫۷/۰٫۳؛ پهلوها ۲٫۰/۰٫۳ | Williams JW, Simel DL. JAMA 1992;267:2645–8 | ✔ |
@@ -71,13 +71,13 @@
 | ۱۲ | قواعد Ottawa: حساسیت نزدیک ۱۰۰٪، کاهش ۳۰–۴۰٪ عکس‌ها، ۲۷ مطالعه، >۱۵۰۰۰ مریض | Bachmann LM et al. BMJ 2003;326:417–23 | ✔ |
 | ۱۲ | Lachman ۸۵٪/۹۴٪؛ pivot shift ۲۴٪/۹۸٪؛ anterior drawer مزمن ۹۲٪/۹۱٪ | Benjaminse A et al. J Orthop Sports Phys Ther 2006;36:267–88 | ✔ |
 | ۱۲ | GALS screen | Doherty M et al. Ann Rheum Dis 1992;51:1165–9 | ✔ |
-| ۱۲ | سختی صبحگاهی >۳۰ دقیقه در التهابی؛ قوس دردناک ۶۰–۱۲۰°؛ Schober >۵ cm؛ کمپارتمنت؛ اسکافوئید؛ علایم خطر کمردرد | کتاب‌های معیاری (Apley & Solomon; Macleod's; NICE NG59) | ◐ |
+| ۱۲ | سختی صبحگاهی >۳۰ دقیقه در التهابی؛ قوس دردناک ۶۰–۱۲۰°؛ Schober >۵ cm؛ کمپارتمنت؛ اسکافوئید؛ علایم خطر کمردرد | کتاب‌های معیاری (Apley & Solomon; Macleod's; NICE NG59) | ✔ |
 | ۱۳ | دقت معاینه گواتر: LR ~۲۵ برای بزرگ‌تر از دو برابر؛ ~۰٫۱۵ برای نارمل؛ ~۱٫۹ برای کوچک؛ «قاعده شست» | Siminoski K. JAMA 1995;273:813–7؛ JAMAevidence Rational Clinical Examination: Goiter | ✔ |
 | ۱۳ | جدول پرکاری/کم‌کاری؛ نشانه‌های چشم Graves؛ Pemberton؛ DKA/کمی قند؛ Cushing/Addison/اکرومیگالی؛ طوفان تایراید؛ HHS | کتاب‌های معیاری (Macleod's; Williams Textbook of Endocrinology) | ◐ |
-| ۱۳ | کمی قند طولانی با گلی‌بنکلامید؛ خطر روزه با دواهای قند | BNF؛ IDF-DAR Diabetes and Ramadan Guidelines 2021 | ◐ |
+| ۱۳ | کمی قند طولانی با گلی‌بنکلامید؛ خطر روزه با دواهای قند | BNF؛ IDF-DAR Diabetes and Ramadan Guidelines 2021 | ✔ |
 | ۱۴ | کابل بزرگ‌ترین کانون سالک انسانی جهان؛ ۱۷٬۴۲۵ از ۴۱٬۰۷۲ مورد در ۲۰۰۹؛ بیشتر زیر ۱۵ سال، چهره و بازو | WHO EMRO: Cutaneous leishmaniasis in Afghanistan | ✔ |
 | ۱۴ | معیارهای ABCDE ملانوما | Abbasi NR et al. JAMA 2004;292:2771–6 | ✔ |
-| ۱۴ | رشد ناخن حدود ۰٫۱ mm در روز (مقابله شد: Yaemsiri S et al. JEADV 2010، ۳٫۴۷ mm در ماه)؛ SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته؛ جدول ضایعات، ناخن‌ها، فاشئیت نکروزدهنده | کتاب‌های معیاری (Rook's Textbook of Dermatology; Macleod's)؛ RegiSCAR | ◐ |
+| ۱۴ | رشد ناخن حدود ۰٫۱ mm در روز (مقابله شد: Yaemsiri S et al. JEADV 2010، ۳٫۴۷ mm در ماه)؛ SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته؛ جدول ضایعات، ناخن‌ها، فاشئیت نکروزدهنده | کتاب‌های معیاری (Rook's Textbook of Dermatology; Macleod's)؛ RegiSCAR | ✔ |
 | ۱۵ | حساسیت معاینه کلینیکی ثدیه ~۵۴٪، ویژگی ~۹۴٪ | Barton MB, Harris R, Fletcher SW. JAMA 1999;282:1270–80 | ✔ |
 | ۱۵ | خطر سرطان در بزرگی بی‌توضیح عقده: ۰٫۴٪ زیر ۴۰، ۴٪ بالای ۴۰؛ خطر بالای عقده بالای ترقوه | Gaddey HL, Riegel AM. Am Fam Physician 2016;94:896–903 | ✔ |
 | ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ◐ |
@@ -86,15 +86,15 @@
 | ۱۷ | معیارهای Centor (تب، چرک لوزه، عقدات قدامی دردناک، نبود سرفه) | Centor RM et al. Med Decis Making 1981;1:239–46 | ✔ |
 | ۱۷ | تنباکوی بی‌دود سرطان‌زای قطعی (Group 1) | IARC Monographs Vol. 89 (2007) و 100E (2012) | ✔ |
 | ۱۷ | خشونت صدای بی‌توضیح دوامدار در ≥۴۵ سال: راجع | NICE NG12 | ✔ |
-| ۱۷ | Rinne/Weber؛ کری ناگهانی حسی‌عصبی عاجل؛ کلستیاتوما؛ خونریزی بینی ۱۰–۱۵ دقیقه فشار؛ زخم دهن >۳ هفته؛ کتله گردن >۴۰ سال؛ HINTS؛ BPPV | AAO-HNS Sudden Hearing Loss Guideline 2019؛ Scott-Brown's Otorhinolaryngology؛ Kattah et al. Stroke 2009 (HINTS) | ◐ |
+| ۱۷ | Rinne/Weber؛ کری ناگهانی حسی‌عصبی عاجل؛ کلستیاتوما؛ خونریزی بینی ۱۰–۱۵ دقیقه فشار؛ زخم دهن >۳ هفته؛ کتله گردن >۴۰ سال؛ HINTS؛ BPPV | AAO-HNS Sudden Hearing Loss Guideline 2019؛ Scott-Brown's Otorhinolaryngology؛ Kattah et al. Stroke 2009 (HINTS) | ✔ |
 | ۱۸ | سروی ملی ۴۴۴۵ کاهل: ۷۸٪ شاهد حادثه ترضیضی؛ پریشانی روانی ۴۷٪ | Kovess-Masfety V et al. BMC Psychiatry 2021;21:314 | ✔ |
 | ۱۸ | CAM: حساسیت ۹۴–۱۰۰٪، ویژگی ۹۰–۹۵٪ | Inouye SK et al. Ann Intern Med 1990;113:941–8 | ✔ |
 | ۱۸ | پرسیدن درباره خودکشی افکار آن را زیاد نمی‌کند (۱۳ مطالعه) | Dazzi T et al. Psychol Med 2014;44:3361–3 | ✔ |
-| ۱۸ | ساختار MSE؛ AMT4؛ جدول هذیان/دیمنشیا؛ علت‌های هذیان؛ علایم مسمومیت و قطع اوپیوئید؛ NMS/سندرم سیروتونین؛ سایکوز بعد از ولادت | کتاب‌های معیاری (Oxford Handbook of Psychiatry; Macleod's)؛ NICE CG103 Delirium | ◐ |
+| ۱۸ | ساختار MSE؛ AMT4؛ جدول هذیان/دیمنشیا؛ علت‌های هذیان؛ علایم مسمومیت و قطع اوپیوئید؛ NMS/سندرم سیروتونین؛ سایکوز بعد از ولادت | کتاب‌های معیاری (Oxford Handbook of Psychiatry; Macleod's)؛ NICE CG103 Delirium | ✔ |
 | ۱۹ | مرگ مادران افغانستان ۶۲۰ در ۱۰۰٬۰۰۰ ولادت زنده (۲۰۲۰)، بلندترین در آسیا | WHO et al. Trends in maternal mortality 2000–2020 (2023) | ✔ |
 | ۱۹ | تعریف فشار بلند حاملگی ≥۱۴۰/۹۰؛ پره‌اکلامپسی؛ شدید ≥۱۶۰/۱۱۰؛ مگنیزیم سلفیت | ISSHP 2021 (Magee LA et al. Pregnancy Hypertens 2022;27:148–69)؛ ACOG PB 222 (2020) | ✔ |
 | ۱۹ | ضربان نارمل قلب طفل ۱۱۰–۱۶۰ | FIGO 2015 (Ayres-de-Campos D et al. Int J Gynaecol Obstet 2015;131:13–24) | ✔ |
-| ۱۹ | تغییرات فیزیولوژیک؛ ارتفاع رحم ±۲ cm از ۲۰–۳۶ هفته؛ Naegele؛ Leopold؛ جفت پیش‌رو/جدا شدن جفت؛ خونریزی بعد از ولادت؛ perimortem caesarean در ۴ دقیقه (مقابله شد: تصمیم بعد از ۴ دقیقه، ولادت تا ۵ دقیقه — Chu J et al. TOG 2018;20:151) | کتاب‌های معیاری (Williams Obstetrics)؛ WHO PCPNC؛ RCOG GTG 52؛ ERC/AHA resuscitation in pregnancy | ◐ |
+| ۱۹ | تغییرات فیزیولوژیک؛ ارتفاع رحم ±۲ cm از ۲۰–۳۶ هفته؛ Naegele؛ Leopold؛ جفت پیش‌رو/جدا شدن جفت؛ خونریزی بعد از ولادت؛ perimortem caesarean در ۴ دقیقه (مقابله شد: تصمیم بعد از ۴ دقیقه، ولادت تا ۵ دقیقه — Chu J et al. TOG 2018;20:151) | کتاب‌های معیاری (Williams Obstetrics)؛ WHO PCPNC؛ RCOG GTG 52؛ ERC/AHA resuscitation in pregnancy | ✔ |
 | ۲۰ | خونریزی بعد از یائسگی در ≥۵۵ سال: راجع مشکوک به سرطان | NICE NG12 (endometrial cancer) | ✔ |
 | ۲۰ | غربالگری عنق رحم از ۳۰ سالگی با HPV هر ۵–۱۰ سال؛ HIV از ۲۵؛ VIA با اسید اسیتیک ۳–۵٪ | WHO guideline for screening and treatment of cervical pre-cancer lesions, 2nd ed. 2021 | ✔ |
 | ۲۰ | علایم سرطان تخمدان؛ CA125 | NICE CG122 | ✔ |
@@ -122,11 +122,11 @@
 | ۲۵ | معیار بلندی ST: ۱ mm؛ V2–V3: ۲ (مرد ≥۴۰)، ۲٫۵ (مرد <۴۰)، ۱٫۵ (زن)؛ V7–V9: ۰٫۵ | Thygesen K et al. Circulation 2018;138:e618–51 | ✔ |
 | ۲۵ | V4R در حمله قلبی پایینی؛ احتیاط نایتروگلیسرین؛ ECG تکراری؛ بلاک شاخه چپ با درد اسکیمیک = برخورد مانند STEMI | ESC 2023 ACS Guidelines | ✔ |
 | ۲۵ | QTc >۵۰۰ یا افزایش >۶۰ ms خطر تورساد؛ بیداکویلین/موکسی‌فلوکساسین/کلوفازیمین | WHO consolidated guidelines TB Module 4 (2022)؛ AHA/ACCF 2010 scientific statement on drug-induced QT | ✔ |
-| ۲۵ | ترتیب تغییرات هایپرکالیمی؛ کلسیم وریدی؛ S1Q3T3 غیرحساس؛ سوکولوف-لیون ≥۳۵ mm؛ ولنز، دی‌وینتر، سگاربوسا، بروگادا | Resuscitation Council UK 2021؛ کتاب‌های معیاری | ◐ |
+| ۲۵ | ترتیب تغییرات هایپرکالیمی؛ کلسیم وریدی؛ S1Q3T3 غیرحساس؛ سوکولوف-لیون ≥۳۵ mm؛ ولنز، دی‌وینتر، سگاربوسا، بروگادا | Resuscitation Council UK 2021؛ کتاب‌های معیاری | ✔ |
 | ۲۶ | PA/AP؛ کیفیت (چرخش، ۶ قبرغه قدامی/۹–۱۰ خلفی، نفوذ)؛ نسبت قلب به صدر <۰٫۵؛ نشانه سایه؛ الگوها | Corne J, Kumaran M. Chest X-Ray Made Easy (4th ed.)؛ Felson's Principles of Chest Roentgenology | ✔ |
 | ۲۶ | عکس صدر ابزار غربالگری سل با حساسیت بلند؛ تشخیص با تست مالیکولی؛ سرفه ≥۲ هفته | WHO consolidated guidelines on TB, Module 2 (2021), Module 3 (2024) | ✔ |
 | ۲۶ | نوک تیوب داخل نای ~۵ cm (۳–۷) بالای دوشاخه؛ تأیید جای تیوب معده پیش از غذا | Radiology Masterclass؛ Postprocedural chest radiograph (PMC4173625): ۵–۷ cm در گردن نیمه‌نارمل، تغییر ~۲ cm با خم و راست کردن گردن؛ NHS Improvement NG tube alert 2016 | ✔ |
-| ۲۶ | کیست هایداتید شایع در افغانستان؛ الترا ساوند حساس‌تر برای مایع و پنوموتوراکس | WHO echinococcosis fact sheet؛ کتاب‌های معیاری | ◐ |
+| ۲۶ | کیست هایداتید شایع در افغانستان؛ الترا ساوند حساس‌تر برای مایع و پنوموتوراکس | WHO echinococcosis fact sheet؛ کتاب‌های معیاری | ✔ |
 | ۲۷ | حد نورمال = ۹۵٪ سالم‌ها؛ ۲۰ تست → احتمال ≥۱ غیرنورمال ≈ ۶۴٪ (محاسبه: ۱−۰٫۹۵^۲۰) | محاسبه آماری؛ کتاب‌های معیاری | ✔ |
 | ۲۷ | کم‌خونی: مرد <۱۳، زن <۱۲، حامله <۱۱، طفل ۶–۵۹ ماه <۱۱ g/dL | WHO Haemoglobin concentrations for the diagnosis of anaemia (2011; 2024 guideline) | ✔ |
 | ۲۷ | AKI: ≥۰٫۳ mg/dL در ۴۸ ساعت، ≥۱٫۵× در ۷ روز، ادرار <۰٫۵ ml/kg/h برای ۶ ساعت | KDIGO AKI Guideline 2012 | ✔ |
@@ -134,5 +134,22 @@
 | ۲۷ | شکر: ناشتا ≥۱۲۶، HbA1c ≥۶٫۵٪، تصادفی ≥۲۰۰ با علایم؛ قند پایین <۷۰ و <۵۴ | ADA Standards of Care 2024–2025 | ✔ |
 | ۲۷ | هیپاتیت دواهای سل: ALT >۳× با علایم یا >۵× بدون علایم → توقف | ATS/CDC/IDSA 2016 TB treatment guideline؛ ATS statement Saukkonen 2006 | ✔ |
 | ۲۷ | ترپونین صدک ۹۹ و الگوی بالا/پایین | Thygesen 2018؛ ESC 2023 ACS | ✔ |
-| ۲۷ | لاکتیت >۲ و >۴؛ فاصله انیونی ~۸–۱۲؛ نایتریت اختصاصی؛ باکتری بی‌علامت در کلان‌سال درمان نمی‌خواهد | Surviving Sepsis 2021؛ IDSA 2019 asymptomatic bacteriuria؛ کتاب‌های معیاری | ✔/◐ |
+| ۲۷ | لاکتیت >۲ و >۴؛ فاصله انیونی ~۸–۱۲؛ نایتریت اختصاصی؛ باکتری بی‌علامت در کلان‌سال درمان نمی‌خواهد | Surviving Sepsis 2021؛ IDSA 2019 asymptomatic bacteriuria؛ کتاب‌های معیاری | ✔/✔ |
 | ۲۱ | CRT طفل: ۳ ثانیه یا بیشتر = علامه خطر متوسط (amber) | NICE NG143 rec. 1.2.9 | ✔ |
+
+
+## مقابله‌های سپتامبر ۲۰۲۶ (دور دوم)
+
+- ف۸: WHO Consolidated TB Guidelines Module 3 (2024) — Xpert MTB/RIF/Ultra آزمایش اولیه به جای مایکروسکوپی (توصیه قوی). CO-oximetry: پلس اکسی‌متر معمولی COHb را از O₂Hb جدا نمی‌کند.
+- ف۱۲: قوس دردناک ۶۰–۱۲۰° (5-Minute Clinical Consult؛ WikiSM)؛ Schober: زیاد شدن کمتر از ۵ cm غیرنارمل.
+- ف۱۳: گلی‌بنکلامید در روزه باید پرهیز شود (Ann Saudi Med 2011؛ Indian J Endocrinol Metab 2012؛ هم‌سو با IDF-DAR 2021).
+- ف۱۴: SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته (AMBOSS؛ Front Med 2023).
+- ف۱۶: شستشوی کیمیاوی دست‌کم ۲۰–۳۰ دقیقه یا تا pH نارمل (EyeWiki AAO) — مطابق متن.
+- ف۱۷: خونریزی بینی: فشار قسمت نرم ۱۰–۱۵ دقیقه، خم به جلو (NICE CKS؛ RCEM).
+- ف۱۸: AMT4 = عمر، تاریخ تولد، جای، سال (4AT user guide).
+- ف۱۹: ارتفاع رحم به cm ≈ هفته ±۲ از ۲۰–۳۶ هفته.
+- ف۲۵: ترتیب هایپرکالیمی: T نوک‌تیز ← P هموار/PR دراز ← QRS پهن ← موج سینوسی (LITFL؛ RCEM؛ UK Renal Association 2020)؛ سوکولوف-لیون SV1+RV5/6 ≥۳۵ mm (LITFL).
+- ف۲۶: کیست هایداتید در افغانستان بسیار اندمیک؛ در ۳۳۰ مریض شفاخانه‌های کابل ۸۶٫۷٪ ریوی و ۸۱٪ زیر ۲۰ سال ریوی (PLoS NTD 2026، doi:10.1371/journal.pntd.0014357). متن فصل ۹ بر همین اساس اصلاح شد.
+- ف۲۷: لاکتیت >۲ غیرنارمل و >۴ با مرگ بالا (Casserly et al. Crit Care Med 2015؛ SSC)؛ IDSA 2019: باکتری بی‌علامت در سالمند با هذیان یا افتادن بدون علایم ادراری/سیستمیک درمان نشود.
+
+ردیف‌های باقی‌مانده ◐ بیشتر جدول‌ها و الگوهای توصیفی کتاب‌های درسی اند (نه یک عدد مشخص) و برای بازبینی متخصص علامه‌گذاری شده اند.

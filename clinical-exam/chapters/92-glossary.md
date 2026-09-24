@@ -58,7 +58,7 @@
 | خس‌خس | wheeze |
 | خونریزی‌های خطی ناخن | splinter haemorrhages |
 | داد سر | tinea capitis |
-| دامنه کبد | liver span |
+| دامنه جگر | liver span |
 | دانه | papule |
 | درد قولنجی | colicky pain |
 | دسترس‌پذیری (خطای شناختی) | availability bias |
