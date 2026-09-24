@@ -188,3 +188,12 @@
 | Antibiotics-first در آپاندیسیت (Ertapenem ← فمی، ۷–۱۰ روز) | CODA 2020 | 🟡 |
 | Morphine ۰.۰۵–۰.۱ mg/kg؛ Diclofenac ۷۵ mg IM؛ Ketorolac؛ Ondansetron ۴ mg؛ Metoclopramide ۱۰ mg | فورمولری | 🟡 |
 | Heparin ۸۰ U/kg ← ۱۸ U/kg/h در ایسکیمی مساریقی؛ Gastrografin ۱۰۰ ml | ESVS 2017؛ Bologna 2017 | 🟡 |
+
+## فصل ۲۸ — صفرا، ابسهٔ کبد، هایداتید
+| مورد | منبع | وضعیت |
+|---|---|---|
+| معیارها و درجه‌بندی TG18؛ مدت انتی‌بیوتیک (۴–۷ روز پس از کنترول منبع) | Tokyo 2018 | 🟡 (از دانش) |
+| Ceftriaxone، Pip/Tazo، Meropenem، Vancomycin؛ Diclofenac/Ketorolac؛ UDCA ۸–۱۰ mg/kg و ۳۰۰ mg دو بار | فورمولری/EASL 2016 | 🟡 |
+| Metronidazole ۷۵۰ mg سه بار × ۷–۱۰ روز؛ Tinidazole ۲ g × ۵ روز؛ Paromomycin ۲۵–۳۵ mg/kg × ۷ روز؛ Diloxanide ۵۰۰ mg سه بار × ۱۰ روز | CDC (از دانش) | 🟡 |
+| Albendazole ۴۰۰ mg دو بار / ۱۵ mg/kg/روز؛ مدت در CE و پیش/پس از PAIR/جراحی | WHO-IWGE 2010 | 🟡 باید مطابقت داده شود |
+| Adrenaline ۰.۵ mg IM در Anaphylaxis | Resuscitation Council UK | ✅ (استندرد شناخته‌شده) |
