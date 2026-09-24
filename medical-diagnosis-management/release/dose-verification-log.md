@@ -265,3 +265,33 @@
 | Tofacitinib، Budesonide MMX، شیاف Tacrolimus/Beclometasone، انتی‌بیوتیک در فیستول، Heparin، آهن | — | ⚪ عمداً بدون رقم |
 | حاملگی: anti-TNF ادامه؛ MTX منع؛ JAK/S1P اجتناب؛ BCG تا ۶ ماه نه | Global Consensus 2025؛ CCF | ✅ |
 | غربالگری CRC ۸ سال، هر ۱–۳ سال؛ PSC سالانه | ACG 2019؛ SCENIC؛ ECCO e-guide | ✅ |
+
+### فصل ۳۳ — بستن موارد باز ممیزی (۲۰۲۶-۰۹-۲۵)
+
+| مورد | تصنیف تصحیح | منبع جدید | وضعیت |
+|---|---|---|---|
+| Ciclosporin ۲ mg/kg/روز IV، بعد تنظیم با سطح سیروم؛ IFX یا CsA در ASUC مقاوم به ستیروئید | Source upgrade (مرور 2014 ← رهنمود) | ECCO Third Consensus UC 2017 Part 2؛ ECCO 2022 UC Part 2 بیانیهٔ ۱.۲ | ✅ (نظارت Mg/کولسترول: فقط مرور 🟡) |
+| TB روده یا CD: آزمایش ۸–۱۲ هفته ATT؛ کولونوسکوپی تکراری؛ ترمیم مخاط | Source upgrade + Clarification (پیگیری در ۸–۱۲ هفته و ۶ ماه اضافه شد؛ ادعای «۵٪ CD» از مطالعهٔ منفرد باقی ماند) | Asia Pacific Consensus CD Part 1 (JGH 2016) بیانیهٔ ۱۲ | ✅ |
+| HSTCL با Anti-TNF + Thiopurine | Wording correction (مطابق متن برچسب؛ عدم قطعیت علیت) | FDA Infliximab label, Boxed warning | ✅ |
+| Anti-HCV/HIV و سیرولوژی پایه | Source upgrade + Scope expansion | ECCO Infections 2021 بیانیه‌های ۳.۱ و ۳.۷ | ✅ |
+
+## فصل ۳۴ — اسهال حاد، Rehydration، یبوست (سبک v2.1 + currentness، ۲۰۲۶-۰۹-۲۵)
+
+| دوز / توصیه | منبع | وضعیت |
+|---|---|---|
+| Plan B: ORS ۷۵ mL/kg در ۴ ساعت؛ کاهلان تا ۷۵۰ mL/ساعت | WHO manual؛ MSF | ✅ |
+| Plan C: RL (یا NS) ۱۰۰ mL/kg — ۳۰ mL/kg در ۳۰ دقیقه، ۷۰ mL/kg در ۲.۵ ساعت؛ تکرار یک Bolus | WHO Plan C (MSF) | ✅ |
+| ORS: Na ۷۵ mEq/L، گلوکوز ۷۵ mmol/L | WHO/UNICEF | ✅ |
+| Azithromycin ۱ g یک دوز یا ۵۰۰ mg×۳ روز؛ Ciprofloxacin ۷۵۰ mg یک دوز یا ۵۰۰ mg×۳ روز؛ Rifaximin ۲۰۰ mg سه بار×۳ روز | ACG 2016؛ رهنمود کوریایی 2019 | ✅ |
+| کولرا: Doxycycline ۳۰۰ mg یک دوز (حاملگی هم)؛ Azithro ۱ g / Cipro ۱ g یک دوز | GTFCC 2025 | ✅ (currentness 2025) |
+| Fidaxomicin ۲۰۰ mg دو بار×۱۰ روز؛ رژیم طولانی؛ Vancomycin ۱۲۵ mg چهار بار×۱۰ روز | IDSA/SHEA 2021؛ ESCMID 2021 | ✅ |
+| Bezlotoxumab — متوقف جنوری 2025 | ASHP/FDA Drug Shortages | ✅ (currentness) |
+| CDI فولمیننت — دوزها | — | ⚪ عمداً بدون رقم (بدهی) |
+| Metronidazole ۷۵۰ mg سه بار×۵–۱۰ روز؛ Child-Pugh C ۳۷۵ mg هر ۸ ساعت | FDA Flagyl label 07/2025 | ✅ |
+| Tinidazole ۲ g×۳ روز (آمیب)؛ ۲ g یک دوز (Giardia) | FDA Tindamax label | ✅ |
+| Paromomycin / Diloxanide | — | ⚪ عمداً بدون رقم (بدهی) |
+| Loperamide ۴ mg، بعد ۲ mg، حداکثر ۱۶ mg/روز؛ هشدار QT | FDA label | ✅ |
+| Zinc اطفال ۵ mg×تا ۱۴ روز | WHO 2024 | ✅ (currentness 2024) |
+| PEG 3350 ۱۷ g روزانه | برچسب MiraLAX؛ AGA–ACG 2023 | ✅ |
+| Lubiprostone ۸ µg دو بار در عدم کفایهٔ متوسط/شدید کبد | AGA–ACG 2023 | ✅ |
+| Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride | AGA–ACG 2023 (جایگاه) | ⚪ دوز عمداً بدون رقم (بدهی) |

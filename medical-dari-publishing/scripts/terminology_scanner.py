@@ -26,6 +26,7 @@ Glossary CSV columns expected (see assets/terminology-glossary-template.csv):
 
 import argparse
 import csv
+import re
 import sys
 from pathlib import Path
 
@@ -38,7 +39,7 @@ def load_glossary(path: Path):
             forbidden_raw = (row.get("forbidden_forms") or "").strip()
             if not forbidden_raw:
                 continue
-            forbidden = [t.strip() for t in forbidden_raw.split(";") if t.strip()]
+            forbidden = [t.strip() for t in re.split(r"[;|]", forbidden_raw) if t.strip()]
             if forbidden:
                 entries.append(
                     {
@@ -50,18 +51,39 @@ def load_glossary(path: Path):
     return entries
 
 
+# Word-boundary logic for Arabic-script text.
+# A plain substring search produced false positives (e.g. forbidden "نای"
+# matched inside "معنایش"). A hit now requires:
+#   * left boundary: previous char is not an Arabic-script letter and not ZWNJ;
+#   * right boundary: next char is not an Arabic-script letter, OR it is ZWNJ
+#     (e.g. "بیمار‌ها"), OR the term is followed by a short inflectional suffix
+#     and then a boundary (e.g. "بیماران", "درمانی").
+# Latin-script forbidden terms use ordinary \b word boundaries.
+_AR_LETTER = r"\u0620-\u064A\u066E-\u06D3\u06D5\u06FA-\u06FF"
+_SUFFIXES = ["ها", "های", "ان", "ی", "ای", "یی", "ات", "ش", "م", "ت"]
+
+
+def _pattern(term: str) -> re.Pattern:
+    if re.search(r"[\u0600-\u06FF]", term):
+        suf = "|".join(sorted((re.escape(s) for s in _SUFFIXES), key=len, reverse=True))
+        return re.compile(
+            rf"(?<![{_AR_LETTER}\u200c]){re.escape(term)}"
+            rf"(?=\u200c|[^{_AR_LETTER}]|$|(?:{suf})(?:[^{_AR_LETTER}]|$))"
+        )
+    return re.compile(rf"\b{re.escape(term)}\b")
+
+
 def scan_file(path: Path, entries):
     text = path.read_text(encoding="utf-8")
     hits = []
+    seen = set()  # duplicate glossary rows must not produce duplicate hits
     for entry in entries:
         for forbidden_term in entry["forbidden"]:
-            start = 0
-            while True:
-                idx = text.find(forbidden_term, start)
-                if idx == -1:
-                    break
-                # crude line number lookup
-                line_no = text.count("\n", 0, idx) + 1
+            for m in _pattern(forbidden_term).finditer(text):
+                if (m.start(), forbidden_term) in seen:
+                    continue
+                seen.add((m.start(), forbidden_term))
+                line_no = text.count("\n", 0, m.start()) + 1
                 hits.append(
                     {
                         "file": str(path),
@@ -71,7 +93,6 @@ def scan_file(path: Path, entries):
                         "authority": entry["source_authority"],
                     }
                 )
-                start = idx + len(forbidden_term)
     return hits
 
 
