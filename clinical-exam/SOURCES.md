@@ -83,3 +83,7 @@
 | ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ◐ |
 | ۱۶ | دست‌کم ۲٫۲ میلیارد انسان مشکل دید؛ دست‌کم یک میلیارد قابل پیشگیری یا درمان‌نشده | WHO. World report on vision. 2019 | ✔ |
 | ۱۶ | Snellen ۶/۶؛ pinhole؛ RAPD؛ جدول فوندوس؛ جدول چشم سرخ؛ کاهش ناگهانی دید؛ شستشوی کیمیاوی ۲۰–۳۰ دقیقه؛ GCA؛ ویتامین A؛ تراخوم | کتاب‌های معیاری (Kanski's Clinical Ophthalmology; Macleod's)؛ WHO trachoma & VAD fact sheets؛ BSR/ACR GCA guidance | ◐ |
+| ۱۷ | معیارهای Centor (تب، چرک لوزه، عقدات قدامی دردناک، نبود سرفه) | Centor RM et al. Med Decis Making 1981;1:239–46 | ✔ |
+| ۱۷ | تنباکوی بی‌دود سرطان‌زای قطعی (Group 1) | IARC Monographs Vol. 89 (2007) و 100E (2012) | ✔ |
+| ۱۷ | خشونت صدای بی‌توضیح دوامدار در ≥۴۵ سال: راجع | NICE NG12 | ✔ |
+| ۱۷ | Rinne/Weber؛ کری ناگهانی حسی‌عصبی عاجل؛ کلستیاتوما؛ خونریزی بینی ۱۰–۱۵ دقیقه فشار؛ زخم دهن >۳ هفته؛ کتله گردن >۴۰ سال؛ HINTS؛ BPPV | AAO-HNS Sudden Hearing Loss Guideline 2019؛ Scott-Brown's Otorhinolaryngology؛ Kattah et al. Stroke 2009 (HINTS) | ◐ |
