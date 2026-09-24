@@ -26,5 +26,8 @@
 #import "parts/ch26.typ": figs as f26
 #import "parts/ch10.typ": figs as f10
 #import "parts/ch18.typ": figs as f18
-#let figs = f10 + f18 + f01 + f02 + f03 + f04 + f07 + f12 + f22 + f26 + f25 + f19 + f21 + f23 + f24 + f27 + f06 + f08 + f09 + f11 + f14 + f15 + f16 + f17
+#import "parts/ch05.typ": figs as f05
+#import "parts/ch13.typ": figs as f13
+#import "parts/ch20.typ": figs as f20
+#let figs = f05 + f13 + f20 + f10 + f18 + f01 + f02 + f03 + f04 + f07 + f12 + f22 + f26 + f25 + f19 + f21 + f23 + f24 + f27 + f06 + f08 + f09 + f11 + f14 + f15 + f16 + f17
 #figs.at(which)

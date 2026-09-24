@@ -145,10 +145,12 @@ local function has_term(text, term)
     local i, j = text:find(term, init, true)
     if not i then return false end
     local ok = true
-    if i > 2 and is_ar_lead(text:byte(i - 2)) then ok = false end
+    -- Arabic punctuation (، ؛ ؟ and Arabic-Indic digits) is a word boundary, not a letter
+    local function ar_letter(b1, b2) return is_ar_lead(b1) and not (b1 == 0xD8 and (b2 == 0x8C or b2 == 0x9B or b2 == 0x9F)) and not (b1 == 0xD9 and b2 >= 0xA0 and b2 <= 0xAD) and not (b1 == 0xDB and b2 >= 0xB0 and b2 <= 0xB9) end
+    if i > 2 and ar_letter(text:byte(i - 2), text:byte(i - 1)) then ok = false end
     if i > 1 and text:sub(i - 1, i - 1):match("[%w]") then ok = false end
     local nb = text:byte(j + 1)
-    if is_ar_lead(nb) or (nb and string.char(nb):match("[%w]")) then ok = false end
+    if ar_letter(nb, text:byte(j + 2)) or (nb and string.char(nb):match("[%w]")) then ok = false end
     if ok then return true end
     init = j + 1
   end
@@ -205,9 +207,13 @@ local function mark_terms(blocks, terms)
         if #hits > 0 then pending[#pending + 1] = {b, table.concat(hits, " ")} end
       elseif b.t == "Para" or b.t == "Plain" then mark_inlines(b)
       elseif b.t == "Div" or b.t == "BlockQuote" then visit(b.content)
+      elseif b.t == "Figure" then visit(b.content); if b.caption and b.caption.long then visit(b.caption.long) end
       elseif b.t == "BulletList" or b.t == "OrderedList" then
         for _, item in ipairs(b.content) do visit(item) end
       elseif b.t == "Table" then
+        for _, row in ipairs(b.head.rows) do
+          for _, cell in ipairs(row.cells) do visit(cell.contents) end
+        end
         for _, body in ipairs(b.bodies) do
           for _, row in ipairs(body.body) do
             for _, cell in ipairs(row.cells) do visit(cell.contents) end
