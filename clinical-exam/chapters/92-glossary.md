@@ -6,7 +6,7 @@
 |------------------------------|------------------------------|
 | آبله بزرگ | bulla |
 | آبله کوچک | vesicle |
-| آسیب حاد گرده | acute kidney injury |
+| آسیب حاد کلیه | acute kidney injury |
 | ابسه دور لوزه | quinsy; peritonsillar abscess |
 | احتکاک پلورا | pleural rub |
 | احتمال پیش از آزمون | pretest probability |
@@ -97,6 +97,8 @@
 | فرتوتی | frailty |
 | فرج | vulva |
 | فرورفتن پایین قفسه صدری | chest indrawing |
+| قصبه‌الریه | trachea |
+| قولنج کلیوی | renal colic |
 | کالیبراسیون | calibration |
 | کاهش تون | hypotonia |
 | کرپیتیشن درشت | coarse crackles |

@@ -182,7 +182,7 @@ $endif$
   #set align(right)
   #set par(justify: false, leading: 0.8em)
   #show table.cell: set text(fill: black, weight: "regular")
-  #table(columns: (auto, 1fr), stroke: none, fill: none, inset: 3pt,
+  #grid(columns: (auto, 1fr), column-gutter: 6pt, row-gutter: 6pt,
     [*نام کتاب:*], [$title$$if(subtitle)$: $subtitle$$endif$],
     [*مؤلف:*], [$for(author)$$author$$sep$ ، $endfor$],
     $if(publisher)$[*ناشر:*], [$publisher$],$endif$
