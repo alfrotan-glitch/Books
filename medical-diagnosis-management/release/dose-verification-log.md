@@ -246,3 +246,22 @@
 | HEV مزمن: RBV ۱۲ هفته تا ۶ ماه؛ دوز مطابق eGFR/Hb — **رقم دوز عمداً ذکر نشده** | EASL 2018 | ✅ (بدون رقم) |
 | Engerix-B بزرگسال ۲۰ mcg/۱ mL IM، ۰/۱/۶ ماه؛ Havrix ۱۴۴۰ EL.U/۱ mL + تقویتی ۶–۱۲ ماه | CDC 2018؛ Havrix label | ✅ |
 | Paracetamol در هپاتیت حاد — **رقم حذف شد** («کمترین دوز مؤثر»)؛ ضد استفراغ — ارجاع به فصل مربوط | — | ⚪ بدون رقم (عمدی) |
+
+## فصل ۳۳ — IBD (سبک v2.1)
+| مورد | منبع | وضعیت |
+|---|---|---|
+| 5-ASA مقعدی ۱ g/روز (Induction و نگهداری proctitis)؛ فمی ≥۲ g (Induction وسیع)، ≥۱.۵ g (نگهداری) | ACG 2025 UC | ✅ |
+| ASUC: Methylprednisolone ۶۰ mg/روز IV یا Hydrocortisone ۱۰۰ mg IV ۳–۴ بار/روز؛ Rescue روز ۳؛ Infliximab ۵ mg/kg (تشدید اگر البومین <۲.۵)؛ VTE prophylaxis | ACG 2025 UC | ✅ |
+| Ciclosporin ۲ mg/kg/روز IV؛ Mg و کولسترول | WJGP 2014 مرور؛ ECCO (از طریق مرور) | ✅ (منبع ثانوی) |
+| Truelove–Witts؛ Oxford day-3 | مرور ASUC 2025 (PMC12561010)؛ ACG 2025 | ✅ |
+| Prednisone ۴۰ mg × ۱–۲ هفته + کاهش؛ Budesonide ایلئال ۹ mg | ACG 2025 CD | ✅ |
+| AZA ۱.۵–۲.۵ mg/kg؛ 6-MP ۰.۷۵–۱.۵ mg/kg؛ TPMT؛ MTX تا ۲۵ mg هفته‌وار IM/SC | ACG 2025 CD | ✅ |
+| Infliximab ۵ mg/kg هفته ۰/۲/۶ سپس هر ۸ هفته؛ ۱۰ mg/kg در loss of response (CD) | FDA label | ✅ |
+| Adalimumab ۱۶۰/۸۰ سپس ۴۰ mg هر ۲ هفته؛ UC قطع اگر تا روز ۵۷ remission نیست | FDA label | ✅ |
+| Vedolizumab ۳۰۰ mg IV ۰/۲/۶ سپس هر ۸ هفته؛ قطع تا هفته ۱۴ | FDA label | ✅ |
+| Ustekinumab IV ۲۶۰/۳۹۰/۵۲۰ سپس ۹۰ mg SC هر ۸ هفته | Stelara label | ✅ |
+| Upadacitinib UC ۴۵×۸ هفته، CD ۴۵×۱۲؛ ۱۵ (۳۰) نگهداری؛ تنظیم گرده/کبد/CYP3A4؛ Hb<۸؛ boxed warning | FDA label؛ CADTH | ✅ |
+| Metronidazole ۱–۲ g/روز پس از resection | ACG 2025 CD | ✅ |
+| Tofacitinib، Budesonide MMX، شیاف Tacrolimus/Beclometasone، انتی‌بیوتیک در فیستول، Heparin، آهن | — | ⚪ عمداً بدون رقم |
+| حاملگی: anti-TNF ادامه؛ MTX منع؛ JAK/S1P اجتناب؛ BCG تا ۶ ماه نه | Global Consensus 2025؛ CCF | ✅ |
+| غربالگری CRC ۸ سال، هر ۱–۳ سال؛ PSC سالانه | ACG 2019؛ SCENIC؛ ECCO e-guide | ✅ |
