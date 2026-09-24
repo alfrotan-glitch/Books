@@ -77,7 +77,7 @@
 | ۱۳ | کمی قند طولانی با گلی‌بنکلامید؛ خطر روزه با دواهای قند | BNF؛ IDF-DAR Diabetes and Ramadan Guidelines 2021 | ◐ |
 | ۱۴ | کابل بزرگ‌ترین کانون سالک انسانی جهان؛ ۱۷٬۴۲۵ از ۴۱٬۰۷۲ مورد در ۲۰۰۹؛ بیشتر زیر ۱۵ سال، چهره و بازو | WHO EMRO: Cutaneous leishmaniasis in Afghanistan | ✔ |
 | ۱۴ | معیارهای ABCDE ملانوما | Abbasi NR et al. JAMA 2004;292:2771–6 | ✔ |
-| ۱۴ | رشد ناخن حدود ۰٫۱ mm در روز؛ SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته؛ جدول ضایعات، ناخن‌ها، فاشئیت نکروزدهنده | کتاب‌های معیاری (Rook's Textbook of Dermatology; Macleod's)؛ RegiSCAR | ◐ |
+| ۱۴ | رشد ناخن حدود ۰٫۱ mm در روز (مقابله شد: Yaemsiri S et al. JEADV 2010، ۳٫۴۷ mm در ماه)؛ SJS/TEN در ۴–۲۸ روز؛ DRESS ۲–۸ هفته؛ جدول ضایعات، ناخن‌ها، فاشئیت نکروزدهنده | کتاب‌های معیاری (Rook's Textbook of Dermatology; Macleod's)؛ RegiSCAR | ◐ |
 | ۱۵ | حساسیت معاینه کلینیکی ثدیه ~۵۴٪، ویژگی ~۹۴٪ | Barton MB, Harris R, Fletcher SW. JAMA 1999;282:1270–80 | ✔ |
 | ۱۵ | خطر سرطان در بزرگی بی‌توضیح عقده: ۰٫۴٪ زیر ۴۰، ۴٪ بالای ۴۰؛ خطر بالای عقده بالای ترقوه | Gaddey HL, Riegel AM. Am Fam Physician 2016;94:896–903 | ✔ |
 | ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ◐ |
@@ -94,7 +94,7 @@
 | ۱۹ | مرگ مادران افغانستان ۶۲۰ در ۱۰۰٬۰۰۰ ولادت زنده (۲۰۲۰)، بلندترین در آسیا | WHO et al. Trends in maternal mortality 2000–2020 (2023) | ✔ |
 | ۱۹ | تعریف فشار بلند حاملگی ≥۱۴۰/۹۰؛ پره‌اکلامپسی؛ شدید ≥۱۶۰/۱۱۰؛ مگنیزیم سلفیت | ISSHP 2021 (Magee LA et al. Pregnancy Hypertens 2022;27:148–69)؛ ACOG PB 222 (2020) | ✔ |
 | ۱۹ | ضربان نارمل قلب طفل ۱۱۰–۱۶۰ | FIGO 2015 (Ayres-de-Campos D et al. Int J Gynaecol Obstet 2015;131:13–24) | ✔ |
-| ۱۹ | تغییرات فیزیولوژیک؛ ارتفاع رحم ±۲ cm از ۲۰–۳۶ هفته؛ Naegele؛ Leopold؛ جفت پیش‌رو/جدا شدن جفت؛ خونریزی بعد از ولادت؛ perimortem caesarean در ۴ دقیقه | کتاب‌های معیاری (Williams Obstetrics)؛ WHO PCPNC؛ RCOG GTG 52؛ ERC/AHA resuscitation in pregnancy | ◐ |
+| ۱۹ | تغییرات فیزیولوژیک؛ ارتفاع رحم ±۲ cm از ۲۰–۳۶ هفته؛ Naegele؛ Leopold؛ جفت پیش‌رو/جدا شدن جفت؛ خونریزی بعد از ولادت؛ perimortem caesarean در ۴ دقیقه (مقابله شد: تصمیم بعد از ۴ دقیقه، ولادت تا ۵ دقیقه — Chu J et al. TOG 2018;20:151) | کتاب‌های معیاری (Williams Obstetrics)؛ WHO PCPNC؛ RCOG GTG 52؛ ERC/AHA resuscitation in pregnancy | ◐ |
 | ۲۰ | خونریزی بعد از یائسگی در ≥۵۵ سال: راجع مشکوک به سرطان | NICE NG12 (endometrial cancer) | ✔ |
 | ۲۰ | غربالگری عنق رحم از ۳۰ سالگی با HPV هر ۵–۱۰ سال؛ HIV از ۲۵؛ VIA با اسید اسیتیک ۳–۵٪ | WHO guideline for screening and treatment of cervical pre-cancer lesions, 2nd ed. 2021 | ✔ |
 | ۲۰ | علایم سرطان تخمدان؛ CA125 | NICE CG122 | ✔ |
@@ -107,7 +107,7 @@
 | ۲۲ | سرعت راه رفتن و بقا؛ ۰٫۸ m/s حدود امید زندگی متوسط؛ ۹ مطالعه، >۳۴٬۰۰۰ نفر | Studenski S et al. JAMA 2011;305:50–8 | ✔ |
 | ۲۲ | فنوتایپ ضعف پیری (۳ از ۵) | Fried LP et al. J Gerontol A 2001;56:M146–56 | ✔ |
 | ۲۲ | حدود یک سوم حمله قلبی بدون درد صدر، بیشتر در سالمندان | Canto JG et al. JAMA 2000;283:3223–9 | ✔ |
-| ۲۲ | TUG ≥۱۲ ثانیه؛ پنج I؛ CGA | CDC STEADI؛ Ellis G et al. Cochrane 2017 (CGA) | ◐ |
+| ۲۲ | TUG ≥۱۲ ثانیه؛ پنج I؛ CGA | CDC STEADI (آستانه ۱۲ ثانیه مقابله شد)؛ Ellis G et al. Cochrane 2017 (CGA) | ✔ |
 | ۲۳ | ۸۴٪ بدتر شدن ثبت‌شده در ۸ ساعت پیش از ایست؛ ۷۰٪ تنفس یا حالت روانی؛ تنفس متوسط ۲۹ | Schein RM et al. Chest 1990;98:1388–92 | ✔ |
 | ۲۳ | رهیافت ABCDE؛ CRT >۲ ثانیه در کاهل؛ ادرار <۰٫۵ ml/kg/h | Resuscitation Council UK. The ABCDE approach (2021) | ✔ |
 | ۲۳ | <C>ABCDE، پنج جای خونریزی | ATLS 10th ed. (2018) | ✔ |
