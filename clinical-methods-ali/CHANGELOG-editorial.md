@@ -262,3 +262,14 @@ Scope: a line-by-line reread of the whole book, from the front matter through ch
 | Appendix answers and key points | Aligned with the corrected text (Light's criteria, puerile breathing, parity 24 wk, paediatric BP/RR, menstrual loss) | — |
 
 Items still needing a human decision: the book title (options proposed separately), author approval of the scientific changes, and a Dari proofreader.
+
+## v1.5 — final title and clean book (September 2026)
+| Location | Change | Classification |
+|---|---|---|
+| Title everywhere | «میتودهای کلینیکی علی» → «معاینه کلینیکی: از تاریخچه تا تشخیص». The cover tagline is «رهنمای عملی برای محصلان طب و داکتران جوان». | Structural |
+| Ch. 5 note on radiographs | The sentence «… در نسخه‌های بعدی علاوه خواهند شد» (an editorial promise) was replaced with a neutral pointer to radiology atlases. | Editorial |
+| Guide section / imprint | Version and year notes were removed. The figure note is now neutral. | Editorial |
+| References | Refs 18–23 added (UDMI-4, AAP 2017, FIGO 2018, WHO 2021 cervical, Light 1972, APLS). The changelog line was removed from the printed list. | Scientific sourcing |
+| Imprint | The book title was invisible (white header-row style) and is now visible. No ISBN/publisher placeholders are printed. | Layout |
+| Print interior | Padded to an even count (440 pages). The spine is 24.2 mm. | Publishing |
+| Cover | The raster art was replaced with vector art (`tools/cover/art.typ`). The EPUB cover is 1749×2481 px (300 dpi). The EPUB has a structured main title and subtitle. | Design |

@@ -37,7 +37,7 @@ typst.compile(sys.argv[1], output=sys.argv[2], root=".", font_paths=["fonts"], i
 PY
 
 echo "EPUB3..."
-"$PANDOC" metadata.yaml "$SRC" -f markdown -t epub3 --lua-filter=tools/book.lua --epub-title-page=false --split-level=1 --template=templates/epub3.html --epub-cover-image=assets/cover.jpg --toc --toc-depth=2 \
+"$PANDOC" metadata.yaml epub-title.yaml "$SRC" -f markdown -t epub3 --lua-filter=tools/book.lua --epub-title-page=false --split-level=1 --template=templates/epub3.html --epub-cover-image=assets/cover.jpg --toc --toc-depth=2 \
   --epub-embed-font='fonts/*.ttf' --css epub.css -o "$OUT/$SLUG.epub"
 
 echo "epubcheck..."

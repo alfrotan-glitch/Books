@@ -1,0 +1,8 @@
+---
+# EPUB-only: structured title (main + subtitle) for reader libraries
+title:
+  - type: main
+    text: "معاینه کلینیکی"
+  - type: subtitle
+    text: "از تاریخچه تا تشخیص"
+...
