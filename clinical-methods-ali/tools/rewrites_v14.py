@@ -12,6 +12,7 @@ GLOBAL = [
     (r"intrascapular", "interscapular", "interscapular (between scapulae)"),
     (r"قید کرده", "نگه داشته", "breath-hold: نگه داشتن"),
     (r"قید کند", "نگه دارد", "breath-hold: نگه داشتن"),
+    (r"ى", "ی", "Arabic alef maksura → Persian yeh"),
     (r"(?<!طرز )رفتار (سپاستیک|قیچی مانند|پارکنسنی|مستانه|مرغابی‌مانند|با گام‌های بلند|دهلیزی)", r"راه رفتن \1", "gait: راه رفتن (Afghan رفتار = behaviour)"),
     (r"طرز رفتار \(Gait\)", "طرز راه رفتن (Gait)", "gait"),
     (r"اشکال غیر نارمل رفتار \(gait\)", "اشکال غیر نارمل راه رفتن (gait)", "gait"),
