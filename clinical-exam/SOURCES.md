@@ -108,3 +108,8 @@
 | ۲۲ | فنوتایپ ضعف پیری (۳ از ۵) | Fried LP et al. J Gerontol A 2001;56:M146–56 | ✔ |
 | ۲۲ | حدود یک سوم حمله قلبی بدون درد صدر، بیشتر در سالمندان | Canto JG et al. JAMA 2000;283:3223–9 | ✔ |
 | ۲۲ | TUG ≥۱۲ ثانیه؛ پنج I؛ CGA | CDC STEADI؛ Ellis G et al. Cochrane 2017 (CGA) | ◐ |
+| ۲۳ | ۸۴٪ بدتر شدن ثبت‌شده در ۸ ساعت پیش از ایست؛ ۷۰٪ تنفس یا حالت روانی؛ تنفس متوسط ۲۹ | Schein RM et al. Chest 1990;98:1388–92 | ✔ |
+| ۲۳ | رهیافت ABCDE؛ CRT >۲ ثانیه در کاهل؛ ادرار <۰٫۵ ml/kg/h | Resuscitation Council UK. The ABCDE approach (2021) | ✔ |
+| ۲۳ | <C>ABCDE، پنج جای خونریزی | ATLS 10th ed. (2018) | ✔ |
+| ۲۳ | مسمومیت ارگانوفاسفات؛ اتروپین دوبرابرشونده تا شش خشک، ضربان >۸۰، سیستولیک >۸۰ | Eddleston M et al. Lancet 2008;371:597–607 | ✔ |
+| ۲۳ | سه دسته بیهوشی؛ CO و پالس‌اکسیمتری؛ hypothermia/heat stroke؛ locked-in؛ RUSH | کتاب‌های معیاری (Plum and Posner's Diagnosis of Stupor and Coma; Oxford Handbook of Emergency Medicine)؛ ERC 2021 special circumstances | ◐ |
