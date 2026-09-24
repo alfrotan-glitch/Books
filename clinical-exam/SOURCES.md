@@ -82,7 +82,7 @@
 | ۱۵ | خطر سرطان در بزرگی بی‌توضیح عقده: ۰٫۴٪ زیر ۴۰، ۴٪ بالای ۴۰؛ خطر بالای عقده بالای ترقوه | Gaddey HL, Riegel AM. Am Fam Physician 2016;94:896–903 | ✔ |
 | ۱۵ | ارزیابی سه‌گانه؛ ماستیت/سرطان التهابی؛ گاینکوماستی؛ سل عقدات؛ B symptoms | کتاب‌های معیاری (Bailey & Love; Macleod's)؛ NICE NG12 | ◐ |
 | ۱۶ | دست‌کم ۲٫۲ میلیارد انسان مشکل دید؛ دست‌کم یک میلیارد قابل پیشگیری یا درمان‌نشده | WHO. World report on vision. 2019 | ✔ |
-| ۱۶ | Snellen ۶/۶؛ pinhole؛ RAPD؛ جدول فوندوس؛ جدول چشم سرخ؛ کاهش ناگهانی دید؛ شستشوی کیمیاوی ۲۰–۳۰ دقیقه؛ GCA؛ ویتامین A؛ تراخوم | کتاب‌های معیاری (Kanski's Clinical Ophthalmology; Macleod's)؛ WHO trachoma & VAD fact sheets؛ BSR/ACR GCA guidance | ◐ |
+| ۱۶ | Snellen ۶/۶؛ pinhole؛ RAPD؛ جدول فوندوس؛ جدول چشم سرخ؛ کاهش ناگهانی دید؛ شستشوی کیمیاوی ۲۰–۳۰ دقیقه؛ GCA؛ ویتامین A؛ تراخوم | کتاب‌های معیاری (Kanski's Clinical Ophthalmology; Macleod's)؛ WHO trachoma & VAD fact sheets؛ BSR/ACR GCA guidance | ✔ شستشو ≥۲۰–۳۰ دقیقه/تا pH نارمل (EyeWiki; RCEM) مقابله شد؛ جدول‌ها ◐ |
 | ۱۷ | معیارهای Centor (تب، چرک لوزه، عقدات قدامی دردناک، نبود سرفه) | Centor RM et al. Med Decis Making 1981;1:239–46 | ✔ |
 | ۱۷ | تنباکوی بی‌دود سرطان‌زای قطعی (Group 1) | IARC Monographs Vol. 89 (2007) و 100E (2012) | ✔ |
 | ۱۷ | خشونت صدای بی‌توضیح دوامدار در ≥۴۵ سال: راجع | NICE NG12 | ✔ |
@@ -98,11 +98,11 @@
 | ۲۰ | خونریزی بعد از یائسگی در ≥۵۵ سال: راجع مشکوک به سرطان | NICE NG12 (endometrial cancer) | ✔ |
 | ۲۰ | غربالگری عنق رحم از ۳۰ سالگی با HPV هر ۵–۱۰ سال؛ HIV از ۲۵؛ VIA با اسید اسیتیک ۳–۵٪ | WHO guideline for screening and treatment of cervical pre-cancer lesions, 2nd ed. 2021 | ✔ |
 | ۲۰ | علایم سرطان تخمدان؛ CA125 | NICE CG122 | ✔ |
-| ۲۰ | دوره نارمل ۲۱–۳۵ روز و تا ۸ روز؛ الگوهای PID، پیچ خوردن تخمدان، PCOS، فیستول ولادی؛ تکنیک معاینه | FIGO AUB System 1 (Munro 2018)؛ کتاب‌های معیاری (Berek & Novak; Macleod's)؛ WHO obstetric fistula fact sheet | ◐ |
+| ۲۰ | دوره نارمل ۲۴–۳۸ روز (اصلاح شد؛ قبلاً ۲۱–۳۵) و تا ۸ روز؛ الگوهای PID، پیچ خوردن تخمدان، PCOS، فیستول ولادی؛ تکنیک معاینه | FIGO AUB System 1 (Munro 2018)؛ کتاب‌های معیاری (Berek & Novak; Macleod's)؛ WHO obstetric fistula fact sheet | ✔ دوره و مدت با FIGO 2018 (Munro, IJGO 2018;143:393–408) مقابله شد؛ الگوها ◐ |
 | ۲۱ | مرگ زیر پنج سال افغانستان حدود ۵۵ در ۱۰۰۰ (۲۰۲۳) | UN IGME / World Bank data 2024 | ✔ |
 | ۲۱ | علایم خطر عمومی؛ تنفس سریع ۶۰/۵۰/۴۰؛ درجه‌بندی کم‌آبی؛ نوزاد: تب ≥۳۷٫۵، سردی <۳۵٫۵ | WHO IMCI Chart Booklet 2014؛ Young Infants Clinical Signs Study Group. Lancet 2008;371:135–42 | ✔ |
 | ۲۱ | MUAC <۱۱۵ mm شدید، ۱۱۵–<۱۲۵ متوسط؛ پندیدگی دوطرفه | WHO SAM guideline 2013 | ✔ |
-| ۲۱ | علامه‌های حیاتی به عمر؛ Apgar؛ مراحل تکامل؛ CRT >۳ ثانیه؛ آزار طفل | APLS 6th ed.؛ Fleming S et al. Lancet 2011;377:1011–8؛ Helping Babies Breathe؛ NICE CG89/NG143 | ◐ |
+| ۲۱ | علامه‌های حیاتی به عمر؛ Apgar؛ مراحل تکامل؛ CRT >۳ ثانیه؛ آزار طفل | APLS 6th ed.؛ Fleming S et al. Lancet 2011;377:1011–8؛ Helping Babies Breathe؛ NICE CG89/NG143 | ✔ CRT ≥۳ ثانیه (NICE NG143) مقابله شد؛ جدول‌های عمر ◐ |
 | ۲۲ | معیارهای Beers (ضد کولینرژیک‌ها، بنزودیازپین‌ها، NSAID، سلفونیل‌یوریای طولانی) | AGS 2023 Beers Criteria. J Am Geriatr Soc 2023;71:2052–81 | ✔ |
 | ۲۲ | سرعت راه رفتن و بقا؛ ۰٫۸ m/s حدود امید زندگی متوسط؛ ۹ مطالعه، >۳۴٬۰۰۰ نفر | Studenski S et al. JAMA 2011;305:50–8 | ✔ |
 | ۲۲ | فنوتایپ ضعف پیری (۳ از ۵) | Fried LP et al. J Gerontol A 2001;56:M146–56 | ✔ |
@@ -160,3 +160,10 @@
 - ف۸ و ف۲۶: قانون سل از «سل است تا خلافش ثابت شود» به «برای سل بررسی کنید» تعدیل شد (WHO: سرفه ≥۲ هفته معیار غربالگری است، نه تشخیص).
 
 ردیف‌های باقی‌مانده ◐ بیشتر جدول‌ها و الگوهای توصیفی کتاب‌های درسی اند (نه یک عدد مشخص) و برای بازبینی متخصص علامه‌گذاری شده اند.
+
+
+## اصلاح‌های دور سوم (سپتامبر ۲۰۲۶)
+
+- فصل ۲۰: طول نارمل دوره عادت ماهوار از «۲۱ تا ۳۵» به «۲۴ تا ۳۸» روز اصلاح شد (FIGO System 1، Munro 2018؛ MSD Manual).
+- فصل ۴: مثال McGee با حساب دقیق Bayes تکمیل شد (۳۰٪ با LR ۵ ← ۶۸٪؛ با LR ۰٫۱ ← حدود ۴٪).
+- فصل ۲۶: «نای» به «قصبه‌الریه» اصلاح شد.

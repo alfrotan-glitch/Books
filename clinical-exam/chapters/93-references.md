@@ -57,28 +57,30 @@
 3. Backus BE, et al. A prospective validation of the HEART score for chest pain patients. Int J Cardiol 2013;168:2153–2158.
 4. Banks PA, et al. Classification of acute pancreatitis—2012: revision of the Atlanta classification and definitions by international consensus. Gut 2013;62:102–111.
 5. Barton MB, Harris R, Fletcher SW. Does this patient have breast cancer? JAMA 1999;282:1270–1280.
-6. Canto JG, et al. Prevalence of patients with acute myocardial infarction presenting without chest pain. JAMA 2000;283:3223–3229.
-7. Centor RM, et al. The diagnosis of strep throat in adults in the emergency room. Med Decis Making 1981;1:239–246.
-8. Croskerry P. The importance of cognitive errors in diagnosis. Acad Med 2003;78:775–780.
-9. Eddleston M, et al. Management of acute organophosphorus pesticide poisoning. Lancet 2008;371:597–607.
-10. Fleming S, et al. Normal ranges of heart rate and respiratory rate in children. Lancet 2011;377:1011–1018.
-11. Fried LP, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A 2001;56:M146–M156.
-12. Hamdard E, et al. Silent public threat: Crimean-Congo hemorrhagic fever outbreak spikes during Eid-al-Adha in Afghanistan. J Infect Public Health 2025;18:102591.
-13. Hampton JR, et al. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis. BMJ 1975;2:486–489.
-14. Heritage J, et al. Reducing patients' unmet concerns in primary care. J Gen Intern Med 2007;22:1429–1433.
-15. Inouye SK, et al. Clarifying confusion: the Confusion Assessment Method. Ann Intern Med 1990;113:941–948.
-16. Kattah JC, et al. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke 2009;40:3504–3510.
-17. Langewitz W, et al. Spontaneous talking time at start of consultation. BMJ 2002;325:682–683.
-18. Lim WS, et al. Defining community acquired pneumonia severity on presentation (CURB-65). Thorax 2003;58:377–382.
-19. Marvel MK, et al. Soliciting the patient's agenda. JAMA 1999;281:283–287.
-20. Peterson MC, et al. Contributions of the history, physical examination, and laboratory investigation in making medical diagnoses. West J Med 1992;156:163–165.
-21. Saver JL. Time is brain—quantified. Stroke 2006;37:263–266.
-22. Schein RM, et al. Clinical antecedents to in-hospital cardiopulmonary arrest. Chest 1990;98:1388–1392.
-23. Singer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 2016;315:801–810.
-24. Singh Ospina N, et al. Eliciting the patient's agenda. J Gen Intern Med 2019;34:36–40.
-25. Sjoding MW, et al. Racial bias in pulse oximetry measurement. N Engl J Med 2020;383:2477–2478.
-26. Studenski S, et al. Gait speed and survival in older adults. JAMA 2011;305:50–58.
-27. Teasdale G, Jennett B. Assessment of coma and impaired consciousness. Lancet 1974;2:81–84.
-28. Verghese A, et al. Inadequacies of physical examination as a cause of medical errors and adverse events. Am J Med 2015;128:1322–1324.
-29. Wells PS, et al. Evaluation of D-dimer in the diagnosis of suspected deep-vein thrombosis. N Engl J Med 2003;349:1227–1235.
-30. Young Infants Clinical Signs Study Group. Clinical signs that predict severe illness in children under age 2 months. Lancet 2008;371:135–142.
+6. Bruce BB, et al. Nonmydriatic ocular fundus photography in the emergency department. N Engl J Med 2011;364:387–389.
+7. Canto JG, et al. Prevalence of patients with acute myocardial infarction presenting without chest pain. JAMA 2000;283:3223–3229.
+8. Centor RM, et al. The diagnosis of strep throat in adults in the emergency room. Med Decis Making 1981;1:239–246.
+9. Croskerry P. The importance of cognitive errors in diagnosis. Acad Med 2003;78:775–780.
+10. Eddleston M, et al. Management of acute organophosphorus pesticide poisoning. Lancet 2008;371:597–607.
+11. Fleming S, et al. Normal ranges of heart rate and respiratory rate in children. Lancet 2011;377:1011–1018.
+12. Fried LP, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A 2001;56:M146–M156.
+13. Hamdard E, et al. Silent public threat: Crimean-Congo hemorrhagic fever outbreak spikes during Eid-al-Adha in Afghanistan. J Infect Public Health 2025;18:102591.
+14. Hampton JR, et al. Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis. BMJ 1975;2:486–489.
+15. Heritage J, et al. Reducing patients' unmet concerns in primary care. J Gen Intern Med 2007;22:1429–1433.
+16. Inouye SK, et al. Clarifying confusion: the Confusion Assessment Method. Ann Intern Med 1990;113:941–948.
+17. Kattah JC, et al. HINTS to diagnose stroke in the acute vestibular syndrome. Stroke 2009;40:3504–3510.
+18. Langewitz W, et al. Spontaneous talking time at start of consultation. BMJ 2002;325:682–683.
+19. Lim WS, et al. Defining community acquired pneumonia severity on presentation (CURB-65). Thorax 2003;58:377–382.
+20. Marvel MK, et al. Soliciting the patient's agenda. JAMA 1999;281:283–287.
+21. Peterson MC, et al. Contributions of the history, physical examination, and laboratory investigation in making medical diagnoses. West J Med 1992;156:163–165.
+22. Saver JL. Time is brain—quantified. Stroke 2006;37:263–266.
+23. Schein RM, et al. Clinical antecedents to in-hospital cardiopulmonary arrest. Chest 1990;98:1388–1392.
+24. Singer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 2016;315:801–810.
+25. Singh Ospina N, et al. Eliciting the patient's agenda. J Gen Intern Med 2019;34:36–40.
+26. Sjoding MW, et al. Racial bias in pulse oximetry measurement. N Engl J Med 2020;383:2477–2478.
+27. Starmer AJ, et al. Changes in medical errors after implementation of a handoff program. N Engl J Med 2014;371:1803–1812.
+28. Studenski S, et al. Gait speed and survival in older adults. JAMA 2011;305:50–58.
+29. Teasdale G, Jennett B. Assessment of coma and impaired consciousness. Lancet 1974;2:81–84.
+30. Verghese A, et al. Inadequacies of physical examination as a cause of medical errors and adverse events. Am J Med 2015;128:1322–1324.
+31. Wells PS, et al. Evaluation of D-dimer in the diagnosis of suspected deep-vein thrombosis. N Engl J Med 2003;349:1227–1235.
+32. Young Infants Clinical Signs Study Group. Clinical signs that predict severe illness in children under age 2 months. Lancet 2008;371:135–142.
