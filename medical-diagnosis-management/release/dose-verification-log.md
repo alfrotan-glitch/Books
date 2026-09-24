@@ -92,3 +92,10 @@
 | Apixaban ۱۰×۷ روز ← ۵ ← ۲.۵؛ Rivaroxaban ۱۵ BID × ۲۱ ← ۲۰ ← ۱۰ | Thrombosis Canada 2023؛ PMC11152618 (ESC) | ✅ |
 | Alteplase ۱۰۰ mg/۲ h و ۰.۶ mg/kg (حداکثر ۵۰)؛ Streptokinase ۲۵۰k ← ۱۰۰k/h | ESC 2019 via PMC11152618؛ Thrombosis Canada | ✅ |
 | Enoxaparin، UFH ۸۰/۱۸، Fondaparinux، Edoxaban، Dabigatran، Warfarin، پروفیلاکسی | ESC 2019 / CHEST 2021 (از دانش) | 🟡 |
+
+## فصل ۱۶ — COPD (۲۰۲۶-۰۹-۲۴)
+| مورد | منبع | وضعیت |
+|---|---|---|
+| گروه‌های ABE، LABA+LAMA ابتدایی، سه‌گانه با BEC ≥۳۰۰، آستانهٔ ۱۰۰، Dupilumab (BEC ≥۳۰۰ + برانشیت مزمن)، Ensifentrine، Roflumilast (FEV₁<50%)، Azithromycin (سگرتی سابق) | GOLD 2025 Pocket Guide؛ Pulmonology Advisor؛ SFHP | ✅ |
+| Prednisolone ۴۰ mg × ۵ روز؛ NIV pH ≤۷.۳۵ و PaCO₂ ≥۴۵؛ هدف SpO₂ ۸۸–۹۲؛ LTOT | GOLD 2025 (از دانش)؛ REDUCE | 🟡 |
+| دوز انهیلرها، Varenicline، Roflumilast ۲۵۰→۵۰۰، Dupilumab ۳۰۰ q2w، Mepolizumab ۱۰۰ q4w، انتی‌بیوتیک‌ها | لیبل‌های محصول (از دانش) | 🟡 |
