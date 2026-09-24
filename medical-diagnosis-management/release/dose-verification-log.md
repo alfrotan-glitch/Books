@@ -197,3 +197,12 @@
 | Metronidazole ۷۵۰ mg سه بار × ۷–۱۰ روز؛ Tinidazole ۲ g × ۵ روز؛ Paromomycin ۲۵–۳۵ mg/kg × ۷ روز؛ Diloxanide ۵۰۰ mg سه بار × ۱۰ روز | CDC (از دانش) | 🟡 |
 | Albendazole ۴۰۰ mg دو بار / ۱۵ mg/kg/روز؛ مدت در CE و پیش/پس از PAIR/جراحی | WHO-IWGE 2010 | 🟡 باید مطابقت داده شود |
 | Adrenaline ۰.۵ mg IM در Anaphylaxis | Resuscitation Council UK | ✅ (استندرد شناخته‌شده) |
+
+## فصل ۲۹ — پانکراتیت
+| مورد | منبع | وضعیت |
+|---|---|---|
+| LR بولوس ۱۰ ml/kg (هایپوولمی) ← ۱.۵ ml/kg/h | WATERFALL 2022 (NEJM) | ✅ (مرجع شناخته‌شده) |
+| انتی‌بیوتیک پیشگیرانه نه؛ تغذیهٔ فمی زود؛ ERCP فقط در کلانژیت؛ کولی‌سیستکتومی در همان بستری | ACG 2024؛ APEC؛ PONCHO | 🟡 (از دانش) |
+| Meropenem/Imipenem در نکروز انتان‌یافته؛ Insulin ۰.۱ U/kg/h در TG بلند؛ Calcium gluconate؛ Enoxaparin ۴۰ mg | فورمولری | 🟡 |
+| PERT ۴۰–۵۰ هزار / ۲۰–۲۵ هزار واحد Lipase؛ Pregabalin ۷۵–۳۰۰ mg دو بار؛ Tramadol؛ Prednisolone در AIP | UEG 2017؛ AGA 2023؛ Olesen 2011 | 🟡 |
+| Indomethacin/Diclofenac ۱۰۰ mg مقعدی پیش از ERCP | ESGE/ASGE | 🟡 |
