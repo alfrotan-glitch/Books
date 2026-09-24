@@ -120,3 +120,12 @@
 | BPaLM: Bdq ۴۰۰ × ۲ هفته → ۲۰۰ سه بار/هفته؛ Pa ۲۰۰؛ Lzd ۶۰۰؛ Mfx ۴۰۰؛ ۲۶ هفته؛ ≥۱۴ سال؛ استثناها (CNS، استخوان، میلیاری، حاملگی) | WHO tbksp 2025؛ ATS/CDC/ERS/IDSA 2025 | ✅ |
 | HPMZ ۴ ماهه: H ۳۰۰، P ۱۲۰۰، M ۴۰۰ × ۱۷ هفته؛ Z بر اساس وزن × ۸ هفته | ATS 2025 (wikidoc؛ Infectious Disease Advisor) | ✅ |
 | HRZE mg/kg، جدول FDC، TPT، DILI، Dexamethasone TBM، Dolutegravir ۵۰ BID | WHO (از دانش) | 🟡 |
+
+## فصل ۲۰ — امراض پلورا
+| مورد | منبع | وضعیت |
+|---|---|---|
+| tPA ۱۰ mg + DNase ۵ mg داخل پلورا، هر ۱۲ ساعت × ۳ روز | MIST-2 (NEJM 2011) | ✅ (از دانش؛ مرجع شناخته‌شده) |
+| Co-amoxiclav ۱.۲ g IV هر ۸ ساعت؛ Ceftriaxone + Metronidazole؛ Clindamycin؛ Pip/Tazo | BTS 2023 / فورمولری | 🟡 |
+| Talc ۴ g؛ Lidocaine داخل پلورا ۳ mg/kg (حداکثر ۲۵۰ mg) | BTS | 🟡 |
+| مدت انتی‌بیوتیک در امپییما (SLIM 2023) | — | 🟡 باید با منبع اصلی مطابقت داده شود |
+| محل فشارزدایی سوزنی (ATLS 10) | ATLS | ✅ |
