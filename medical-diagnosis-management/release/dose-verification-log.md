@@ -129,3 +129,13 @@
 | Talc ۴ g؛ Lidocaine داخل پلورا ۳ mg/kg (حداکثر ۲۵۰ mg) | BTS | 🟡 |
 | مدت انتی‌بیوتیک در امپییما (SLIM 2023) | — | 🟡 باید با منبع اصلی مطابقت داده شود |
 | محل فشارزدایی سوزنی (ATLS 10) | ATLS | ✅ |
+
+## فصل ۲۱ — ILD، سرطان ریه، ابسهٔ ریه
+| مورد | منبع | وضعیت |
+|---|---|---|
+| Nerandomilast ۱۸ mg دو بار در روز؛ کاهش به ۹ mg دو بار (مگر با Pirfenidone) | برچسب FDA (Pharmacy Times، اکتوبر ۲۰۲۵) | ✅ |
+| Nintedanib ۱۵۰/۱۰۰ mg دو بار؛ Pirfenidone با افزایش تدریجی ۲۶۷←۵۳۴←۸۰۱ mg سه بار | برچسب‌های FDA (از دانش) | 🟡 |
+| سارکوئیدوز: Prednisolone ۲۰–۴۰ mg؛ MTX ۱۰–۱۵ mg یک بار در هفته؛ HP ۰.۵ mg/kg؛ MMF ۱۵۰۰ mg دو بار | ERS 2021 / SLS II (از دانش) | 🟡 |
+| Osimertinib ۸۰ mg؛ Alectinib ۶۰۰ mg دو بار؛ Lorlatinib ۱۰۰ mg؛ Pembrolizumab ۲۰۰ mg هر ۳ هفته / ۴۰۰ mg هر ۶ هفته؛ Durvalumab ۱۰ mg/kg هر ۲ هفته / ۱۵۰۰ mg هر ۴ هفته؛ Carbo AUC5 + Pemetrexed ۵۰۰ mg/m² با Folate/B12 | برچسب‌های FDA / NCCN (از دانش) | 🟡 |
+| Dexamethasone در فشردگی نخاع و متاستاز مغزی؛ Zoledronic acid ۴ mg؛ Denosumab ۱۲۰ mg | از دانش | 🟡 |
+| ابسه: Amp/Sulb ۳ g هر ۶ ساعت؛ Clindamycin؛ Co-amoxiclav ۸۷۵/۱۲۵ mg دو بار؛ Pip/Tazo؛ Meropenem | از دانش | 🟡 |
