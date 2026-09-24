@@ -116,3 +116,8 @@
 | ۲۴ | HEART: ۰–۳ خطر ۱٫۷٪ در ۶ هفته؛ ۷–۱۰ حدود ۵۰٪ | Backus BE et al. Int J Cardiol 2013;168:2153–8 | ✔ |
 | ۲۴ | CCHF بومی افغانستان؛ اوج در ماه‌های عید قربان؛ بیشترین موارد ۲۰۲۳؛ مرگ ۱۰–۴۰٪ | Hamdard E et al. J Infect Public Health 2025;18:102591؛ WHO CCHF fact sheet | ✔ |
 | ۲۴ | کاهش وزن مهم >۵٪ در ۶–۱۲ ماه؛ فرق فشار بازوها >۲۰ mmHg در پارگی ابهر؛ الگوهای تب، زردی، اذیما، سرچرخی | کتاب‌های معیاری (Symptom to Diagnosis; Macleod's)؛ ESC 2018 Syncope؛ ESC 2014/2024 Aortic | ◐ |
+| ۲۵ | کاغذ ۲۵ mm/s؛ خانه کوچک ۰٫۰۴ s؛ PR ۰٫۱۲–۰٫۲۰؛ QRS <۰٫۱۲؛ QTc ~۴۵۰/۴۶۰ | کتاب‌های معیاری ECG (Hampton, The ECG Made Easy; AHA/ACCF/HRS 2009 ECG standardization) | ✔ |
+| ۲۵ | معیار بلندی ST: ۱ mm؛ V2–V3: ۲ (مرد ≥۴۰)، ۲٫۵ (مرد <۴۰)، ۱٫۵ (زن)؛ V7–V9: ۰٫۵ | Thygesen K et al. Circulation 2018;138:e618–51 | ✔ |
+| ۲۵ | V4R در حمله قلبی پایینی؛ احتیاط نایتروگلیسرین؛ ECG تکراری؛ بلاک شاخه چپ با درد اسکیمیک = برخورد مانند STEMI | ESC 2023 ACS Guidelines | ✔ |
+| ۲۵ | QTc >۵۰۰ یا افزایش >۶۰ ms خطر تورساد؛ بیداکویلین/موکسی‌فلوکساسین/کلوفازیمین | WHO consolidated guidelines TB Module 4 (2022)؛ AHA/ACCF 2010 scientific statement on drug-induced QT | ✔ |
+| ۲۵ | ترتیب تغییرات هایپرکالیمی؛ کلسیم وریدی؛ S1Q3T3 غیرحساس؛ سوکولوف-لیون ≥۳۵ mm؛ ولنز، دی‌وینتر، سگاربوسا، بروگادا | Resuscitation Council UK 2021؛ کتاب‌های معیاری | ◐ |
