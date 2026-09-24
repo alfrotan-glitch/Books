@@ -30,13 +30,13 @@
 #show figure.where(kind: table): set block(breakable: true)
 #show figure.caption: set text(size: 8.5pt, fill: teal, weight: "bold")
 #set figure(numbering: none, gap: 0.6em, supplement: none)
-#show figure.where(kind: image): it => block(width: 100%, breakable: false, above: 1.2em, below: 1.2em,
+#show figure.where(kind: image): it => place(auto, float: true, clearance: 1.1em, block(width: 100%, breakable: false,
   inset: (x: 6pt, y: 7pt), radius: 3pt, stroke: 0.5pt + rgb("#cfdede"))[
   #set image(width: 100%)
   #align(center, box(width: 100%, it.body))
   #v(0.2em)
   #align(center, it.caption.body)
-]
+])
 
 // ── lists ──
 #set list(marker: text(fill: teal)[●], indent: 0.4em, body-indent: 0.6em)
@@ -46,6 +46,7 @@
 #set heading(numbering: none)
 #show pagebreak.where(to: "odd"): set page(header: none, footer: none)
 #show heading.where(level: 1): it => {
+  place.flush()
   pagebreak(weak: true$if(print-edition)$, to: "odd"$endif$)
   [#metadata("chapter-start") <chapter-start>]
   v(16%)
