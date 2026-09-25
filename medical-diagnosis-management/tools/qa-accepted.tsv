@@ -1,0 +1,12 @@
+# chapter	check	text-prefix	reason — false positives reviewed by hand; one row per accepted line
+chapters/03-cxr.md	RATIO	> «CXR PA ایستاده، ۲۴/۹، چرخش ندارد، شهیق کافی (۶ ضلع قدامی)	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/06-hypertension.md	DIGIT	1. **فردا صبح** اولین مریض فشار بلند خون: فشار را در **هر دو	عدد کوچک درست است (فرق فشار دو بازو ۱۰ mmHg؛ Prednisone ۰.۲–۰.۵ mg/kg؛ CGM زیر ۷۰/۵۴ mg/dL) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/11-pericardial.md	DIGIT	| **Prednisone** | **۰.۲–۰.۵ mg/kg/روز** (دوز پایین تا متوسط	عدد کوچک درست است (فرق فشار دو بازو ۱۰ mmHg؛ Prednisone ۰.۲–۰.۵ mg/kg؛ CGM زیر ۷۰/۵۴ mg/dL) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/16-copd.md	RATIO	| **LABA + LAMA** | Umeclidinium/Vilanterol | ۶۲.۵/۲۵ mcg | 	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/16-copd.md	RATIO	| | Budesonide/Glycopyrronium/Formoterol | ۱۶۰/۷.۲/۴.۸ mcg |	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/17-asthma.md	RATIO	| یا **Budesonide–Formoterol** (در مراکز تجربه‌دار) | ۲۰۰/۶ 	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/17-asthma.md	RATIO	**دوزهای عملی Track 1 (Budesonide–Formoterol DPI ۲۰۰/۶ mcg m	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/17-asthma.md	RATIO	| **جایگزین:** Beclometasone–Formoterol pMDI ۱۰۰/۶ mcg | MAR	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/17-asthma.md	RATIO	2. نسخهٔ MART قدم ۴ با Budesonide–Formoterol ۲۰۰/۶؟ ← *۲ است	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/42-electrolytes.md	RATIO	- **ادرار:** مایعات در کم‌آبی؛ Loop diuretic در مریض پرحجم ب	قوت ترکیبی دوا یا کسر معتبر (مثلاً ۲۰۰/۶ mcg، ۵ mmol/L در ۲۴ ساعت، ارجاع فصل ۷/۳۸) — بازبینی دستی ۲۰۲۶-۰۹-۲۵
+chapters/46-diabetes.md	DIGIT	| CGM | **Time in range بیشتر از ۷۰٪**؛ زمان زیر ۷۰ mg/dL کم	عدد کوچک درست است (فرق فشار دو بازو ۱۰ mmHg؛ Prednisone ۰.۲–۰.۵ mg/kg؛ CGM زیر ۷۰/۵۴ mg/dL) — بازبینی دستی ۲۰۲۶-۰۹-۲۵

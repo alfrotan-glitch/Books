@@ -50,13 +50,29 @@ def check(fn):
         issues.append('NO DOSING SECTION?')
     return issues
 
+def _load_accepted():
+    acc = set()
+    f = Path(__file__).with_name('qa-accepted.tsv')
+    if f.exists():
+        for ln in f.read_text(encoding='utf-8').splitlines():
+            if ln.startswith('#') or not ln.strip():
+                continue
+            c, k, pre = ln.split('\t')[:3]
+            acc.add((c, k, pre))
+    return acc
+_ACC = _load_accepted()
+def _accepted(fn, issue):
+    import re as _re
+    m = _re.match(r'L\d+ (\w+)\?: (.*)', issue)
+    return bool(m) and (fn, m.group(1), m.group(2)[:60]) in _ACC
+
 if __name__ == '__main__':
     files = sys.argv[1:] or sorted(glob.glob('chapters/*.md'))
     total = 0
     for fn in files:
         if Path(fn).name.startswith('00'):
             continue
-        iss = check(fn)
+        iss = [x for x in check(fn) if not _accepted(fn, x)]
         total += len(iss)
         if iss:
             print(f'== {fn} ==')
