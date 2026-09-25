@@ -89,7 +89,7 @@ Air bronchogram برونکوس پر از هوا در میان آلوئول پر 
 
 گزارش یک تصمیم است نه توصیف شاعرانه: «PA ایستاده، شهیق کافی، چرخش خفیف. کدورت متجانس قاعدهٔ راست با Air bronchogram و محو شدن دیافراگم راست. CTR ۰.۴۵. افیوژن یا هوای آزاد نیست.» بعد یک جملهٔ بعدی: «۴۸ ساعت بعد فلم کنترول برای دیدن باز شدن». هر فلمی که دنباله نداشته باشد، بخشی از دوسیه نیست.
 
-## 📚 References
+## منابع
 
 - Royal College of Radiologists / NHS Improvement. Nasogastric tube misplacement — confirmation of position.
 - Light RW. Pleural Diseases (radiological detection of effusions).

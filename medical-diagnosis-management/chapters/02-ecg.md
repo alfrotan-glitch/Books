@@ -97,7 +97,7 @@ QT را از آغاز QRS تا پایان T بگیر و با Rate اصلاح ک�
 
 اگر درد ماند و نوار اول نورمال بود، هر ۱۵ تا ۳۰ دقیقه تکرار کن. تفسیر خودکار، به‌ویژه QT، تنها قابل اعتماد نیست. نوار قدیمی را پیدا کن — Strain قدیمی را با ایسکیمی نو عوض نکن، و برعکس، ST «ذاتی» همان مریض را نادیده نگیر.
 
-## 📚 References
+## منابع
 
 - Thygesen K, et al. Fourth Universal Definition of Myocardial Infarction (2018). Eur Heart J 2019.
 - Byrne RA, et al. 2023 ESC Guidelines for the management of acute coronary syndromes. Eur Heart J 2023.
