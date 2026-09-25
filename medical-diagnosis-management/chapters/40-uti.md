@@ -233,7 +233,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 | **AKI** | فصل ۳۸ |
 | حاملگی: ولادت پیش از وقت | تداوی Asymptomatic bacteriuria |
 | **Prostatitis مزمن** | تداوی طولانی |
-| **عوارض دوا** | *C. difficile*؛ عوارض Fluoroquinolone؛ ریه و کبد با Nitrofurantoin |
+| **عوارض دوا** | *C. difficile*؛ عوارض Fluoroquinolone؛ شش و کبد با Nitrofurantoin |
 
 ---
 

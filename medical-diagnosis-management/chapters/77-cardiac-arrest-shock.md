@@ -79,19 +79,19 @@
 |---|---|---|---|---|
 | **Hypovolaemic** | خونریزی (فصل ۲۵)، اسهال و استفراغ (فصل ۲۹)، سوختگی (فصل ۸۱) | **پایین** | سرد | **مایع یا خون**، و توقف خونریزی |
 | **Distributive** | **Sepsis** (فصل ۶۷)، **Anaphylaxis** (فصل ۸۱)، Neurogenic، Adrenal crisis (فصل ۵۰) | پایین یا عادی | **گرم** (اوایل) | مایع + Noradrenaline؛ **Adrenaline در Anaphylaxis**؛ Hydrocortisone در Adrenal |
-| **Cardiogenic** | **MI** (فصل ۸)، Arrhythmia، عدم کفایهٔ حاد قلب (فصل ۷) | **بلند**، رال ریه | سرد | **مایع زیاد نه**؛ Inotrope؛ Revascularization |
-| **Obstructive** | **Tamponade**، **Tension pneumothorax**، **PE شدید** (فصل ۱۴) | **بلند**، ریه پاک | سرد | **رفع انسداد**: Pericardiocentesis، کشیدن هوا، Thrombolysis |
+| **Cardiogenic** | **MI** (فصل ۸)، Arrhythmia، عدم کفایهٔ حاد قلب (فصل ۷) | **بلند**، رال شش | سرد | **مایع زیاد نه**؛ Inotrope؛ Revascularization |
+| **Obstructive** | **Tamponade**، **Tension pneumothorax**، **PE شدید** (فصل ۱۴) | **بلند**، شش پاک | سرد | **رفع انسداد**: Pericardiocentesis، کشیدن هوا، Thrombolysis |
 
 **سه سؤال در کنار بستر:**
 1. **JVP بلند است یا پایین؟** (پر یا خالی)
 2. **پوست گرم است یا سرد؟**
-3. **ریه‌ها رال دارد یا پاک است؟**
+3. **شش‌ها رال دارد یا پاک است؟**
 
-**Ultrasound کنار بستر** (قلب، IVC، ریه، بطن) نوع شوک را سریع‌تر روشن می‌کند.
+**Ultrasound کنار بستر** (قلب، IVC، شش، بطن) نوع شوک را سریع‌تر روشن می‌کند.
 
 ### اصول
 - **دو خط وریدی بزرگ**؛ Lactate؛ قند؛ کلچر در شک به Sepsis.
-- **مایع به اندازه، و دوباره ارزیابی**: پس از هر Bolus، فشار، ادرار، ریه و JVP را ببین. **مایع زیاد در Cardiogenic می‌کشد.**
+- **مایع به اندازه، و دوباره ارزیابی**: پس از هر Bolus، فشار، ادرار، شش و JVP را ببین. **مایع زیاد در Cardiogenic می‌کشد.**
 - **Noradrenaline** وازوپرسور اول در اکثر شوک‌ها (فصل ۶۷). *(دوزها → SD-68.)*
 - **Hydrocortisone** در Adrenal crisis (فصل ۵۰) و Septic shock مقاوم (فصل ۶۷).
 
@@ -118,7 +118,7 @@
 3. **VF/pVT: شاک اول؛ Asystole/PEA: Epinephrine زود.**
 4. **Epinephrine ۱ mg هر ۳–۵ دقیقه؛ Amiodarone ۳۰۰ سپس ۱۵۰ در VF مقاوم.**
 5. **در PEA، H و T را بجوی.**
-6. **شوک: JVP، پوست، ریه — سه سؤال برای چهار نوع.**
+6. **شوک: JVP، پوست، شش — سه سؤال برای چهار نوع.**
 7. **مایع به اندازه، و پس از هر Bolus دوباره ارزیابی کن.**
 
 ## ⚠️ Red Flags
@@ -132,7 +132,7 @@
 1. نسبت فشار به تنفس بدون راه هوایی پیشرفته؟ ← ۳۰:۲.
 2. Epinephrine در Asystole کی؟ ← هر چه زودتر.
 3. Amiodarone در VF مقاوم؟ ← ۳۰۰ mg، سپس ۱۵۰ mg.
-4. JVP بلند + ریه پاک + فشار پایین؟ ← Obstructive (Tamponade، PE، Tension pneumothorax).
+4. JVP بلند + شش پاک + فشار پایین؟ ← Obstructive (Tamponade، PE، Tension pneumothorax).
 5. چرا تهویهٔ زیاد نه؟ ← فشار داخل صدر را بلند و جریان خون را کم می‌کند.
 
 ## 📚 References

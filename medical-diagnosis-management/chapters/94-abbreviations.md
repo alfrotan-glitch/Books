@@ -41,7 +41,7 @@
 | **CKD** | Chronic kidney disease | مرض مزمن گرده |
 | **CNS** | Central nervous system | سیستم عصبی مرکزی |
 | **CO** | Carbon monoxide / Cardiac output | کاربن مونوکساید / برون‌ده قلب (مطابق متن) |
-| **COPD** | Chronic obstructive pulmonary disease | مرض انسدادی مزمن ریه |
+| **COPD** | Chronic obstructive pulmonary disease | مرض انسدادی مزمن شش |
 | **CPR** | Cardiopulmonary resuscitation | احیای قلبی–ریوی |
 | **CRP** | C-reactive protein | پروتین واکنشی C |
 | **CT / CTA** | Computed tomography (angiography) | توموگرافی کمپیوتری (انجیوگرافی) |
@@ -75,7 +75,7 @@
 | **HUS** | Haemolytic uraemic syndrome | سندروم همولیتیک یوریمیک |
 | **IBD** | Inflammatory bowel disease | مرض التهابی روده |
 | **ICU** | Intensive care unit | شعبهٔ مراقبت‌های جدی |
-| **ILD** | Interstitial lung disease | مرض بینابینی ریه |
+| **ILD** | Interstitial lung disease | مرض بینابینی شش |
 | **IM / IV / SC / PO** | Intramuscular / Intravenous / Subcutaneous / Per os | عضلی / وریدی / زیر جلدی / فمی |
 | **IMCI** | Integrated Management of Childhood Illness | اهتمامات یکپارچهٔ امراض اطفال |
 | **INR** | International normalized ratio | نسبت نورمال‌شدهٔ بین‌المللی |

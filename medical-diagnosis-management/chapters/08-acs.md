@@ -84,7 +84,7 @@
 - **تاکیکاردی** (رایج‌ترین) یا برادی‌کاردی (در inferior MI)
 - **فشار خون بالا** (درد) یا **پایین** (shock / RV infarction)
 - **S3 Gallop** (عدم کفایه حاد)
-- **Crackles / ادیمای ریه** (Killip III)
+- **Crackles / ادیمای شش** (Killip III)
 - **نبض ضعیف و اطراف سرد** (Killip IV)
 - **ECG:** ST elevation (STEMI) / ST depression / T inversion / Q waves
 
@@ -94,7 +94,7 @@
 - ☐ علایم حیاتی: BP (هر دو بازو)، HR، RR، SpO2، دما
 - ☐ **درد صدر:** با SOCRATES بپرس (Site, Onset, Character, Radiation, Associations, Timing, Exacerbating/relieving, Severity)
 - ☐ **قلب:** ریتم، S3/S4، مرمر نو (MR / VSD)
-- ☐ **ریه:** Rales، SpO2
+- ☐ **شش:** Rales، SpO2
 - ☐ **JVP + ادیما پا** (RV infarction در inferior MI)
 - ☐ **ECG ۱۲ لید در ۱۰ دقیقهٔ اول** رسیدن مریض
 - ☐ **پالس محیطی** (دایسکشن؟)
@@ -301,7 +301,7 @@
 
 ## ⚠️ Red Flags (اقدام فوری)
 1. **درد صدر + ST elevation** → STEMI — PCI / Fibrinolytic فوری.
-2. **MI سفلی + فشار پایین + JVP بلند + ریهٔ پاک** → RV infarction — Nitroglycerin ممنوع؛ مایع وریدی با احتیاط.
+2. **MI سفلی + فشار پایین + JVP بلند + شش پاک** → RV infarction — Nitroglycerin ممنوع؛ مایع وریدی با احتیاط.
 3. **درد صدر + فرق فشار دو بازو / نبض نامتقارن** → دایسکشن اورت — CTA + جراحی.
 4. **VF / VT** → Defibrillation فوری (CPR).
 5. **سینکوپ + تاکی‌کاردی / برادی‌کاردی** → Arrhythmia — Monitor + Atropine / Pace.

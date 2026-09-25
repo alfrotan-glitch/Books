@@ -155,7 +155,7 @@
 - NHS Abdominal Aortic Aneurysm Screening Programme (NAAASP) — فواصل پیگیری.
 - Harrison's Principles of Internal Medicine, 21st Ed — Diseases of the Aorta; Arterial Diseases of the Extremities.
 
-## فصل ۱۴ — ترومبوآمبولی وریدی: DVT و آمبولی ریه (Venous Thromboembolism: DVT & Pulmonary Embolism)
+## فصل ۱۴ — ترومبوآمبولی وریدی: DVT و آمبولی شش (Venous Thromboembolism: DVT & Pulmonary Embolism)
 
 - 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026; doi:10.1161/CIR.0000000000001415.
 
@@ -176,7 +176,7 @@
 - WHO. **Consolidated guidelines on tuberculosis. Module 3: Diagnosis** (GeneXpert به عنوان تست تشخیصی اولیه).
 - Harrison's Principles of Internal Medicine, 21st Ed — Approach to the Patient with Disease of the Respiratory System.
 
-## فصل ۱۶ — مرض انسدادی مزمن ریه (Chronic Obstructive Pulmonary Disease — COPD)
+## فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
 
 - Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
 
@@ -233,7 +233,7 @@
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
 - *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 
-## فصل ۲۱ — امراض بینابینی ریه، سرطان ریه و ابسهٔ ریه (ILD, Lung Cancer & Lung Abscess)
+## فصل ۲۱ — امراض بینابینی شش، سرطان شش و ابسهٔ شش (ILD, Lung Cancer & Lung Abscess)
 
 - Raghu G, et al. **Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.** Am J Respir Crit Care Med. 2022;205:e18–e47.
 - Richeldi L, et al. **Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis (FIBRONEER-IPF).** N Engl J Med. 2025; و تأیید FDA برای Jascayd (اکتوبر ۲۰۲۵): دوز ۱۸ mg دو بار در روز، کاهش به ۹ mg دو بار مگر با Pirfenidone. [Pharmacy Times](https://www.pharmacytimes.com/view/nerandomilast-receives-fda-approval-for-idiopathic-pulmonary-fibrosis)
@@ -247,7 +247,7 @@
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی انکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در حالات عاجل سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
+- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی انکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در حالات عاجل سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ شش در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 
 ## فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 
