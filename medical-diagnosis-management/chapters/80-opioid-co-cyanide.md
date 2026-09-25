@@ -1,6 +1,6 @@
 # فصل ۸۰ — Opioid، کاربن مونوکساید و Cyanide
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: دوزهای پادزهر از **Antidote Use Guideline 2023** (New Jersey Poison Information & Education System، مستقیم) و مرور PMC 2017 دربارهٔ دوز Naloxone؛ 2023 AHA focused update on toxicology مستقیم خوانده نشد. شواهد Hyperbaric oxygen در CO، و دوزهای اطفال → SD-71.*
+> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: دوزهای پادزهر از **Antidote Use Guideline 2023** (New Jersey Poison Information & Education System، مستقیم) و مرور PMC 2017 دربارهٔ دوز Naloxone؛ جدول ۲ سند رسمی AHA 2023 Toxicology (Highlights، مستقیم ۲۰۲۶-۰۹-۲۵) برای Naloxone، Hydroxocobalamin، Nitrite و Thiosulfate. شواهد Hyperbaric oxygen و مدت اکسیجن در CO → SD-71.*
 
 ## یک شب زمستان در کابل
 
@@ -27,10 +27,10 @@
 | وضعیت | رهیافت (NJPIES 2023؛ مرور PMC) |
 |---|---|
 | **وابسته به Opioid** (معتاد، یا مریض سرطان با مسکن مزمن)، **هنوز نفس می‌کشد** | **دوز کم وریدی: ۰.۰۲–۰.۰۴ mg**؛ هر ۲–۳ دقیقه **دو چند کن** تا تنفس کافی شود |
-| **Apnoea یا ایست تنفسی** | دوز بزرگ‌تر (بسته‌ها ۰.۴ mg تا ۲ mg عضلی/وریدی)؛ تهویه ادامه یابد *(دوز دقیق → SD-71)* |
+| **Apnoea یا ایست تنفسی** | **۰٫۲–۲ mg** وریدی، داخل استخوان (IO) یا عضلی، یا **۲–۴ mg** از راه بینی؛ هر ۲–۳ دقیقه در صورت ضرورت تکرار؛ طفل **۰٫۱ mg/kg** (از دوز کاهل بیشتر نشود) (AHA 2023)؛ **تهویه با Bag-mask تا تنفس خودی ادامه یابد** |
 
 - **هدف: تنفس کافی، نه بیداری کامل.** دوز زیاد در وابسته‌ها **Withdrawal شدید** (بی‌قراری، استفراغ، Aspiration، و حتی ادیم شش) می‌سازد.
-- **اثر Naloxone کوتاه‌تر** از اکثر Opioidهاست (به ویژه Methadone و آهسته‌رهش) → **مریض دوباره به خواب می‌رود**. **نظارت برای ساعت‌ها**؛ شاید انفیوژن. *(رژیم انفیوژن → SD-71.)*
+- **اثر Naloxone کوتاه‌تر** از اکثر Opioidهاست (به ویژه Methadone و آهسته‌رهش) → **مریض دوباره به خواب می‌رود**. **نظارت در شفاخانه تا هوشیاری و علایم حیاتی نورمال شود**؛ اگر دوباره خواب رفت، انفیوژن: **دو سوم دوزی که مریض را بیدار کرد، در هر ساعت** (AHA 2023).
 - **بی‌جوابی به دوز کافی** → به علت دیگر فکر کن: Benzodiazepine، الکول، Hypoglycaemia، ترضیض سر، Hypoxia.
 3. **Tramadol:** تشنج → Benzodiazepine (فصل ۵۵).
 
@@ -95,8 +95,8 @@
    - **مجموع اعظمی ۱۰ g**.
    - **منتظر تأیید لابراتوار نمان.**
    - Hydroxocobalamin پوست و ادرار را **سرخ** می‌کند، و بعضی تست‌های لابراتوار را خراب می‌کند → **خون را پیش از آن بگیر**.
-3. **Sodium thiosulfate** ممکن است پس از Hydroxocobalamin داده شود (NJPIES). *(دوز → SD-71.)*
-4. **در افغانستان Hydroxocobalamin اکثراً موجود نیست.** Kit‌های قدیمی (Nitrite + Thiosulfate) ممکن است باشد. **Nitrite Methaemoglobin می‌سازد** و در **مسمومیت همزمان CO** (قربانی آتش) **خطرناک است**. → SD-71.
+3. **Sodium thiosulfate** پس از Hydroxocobalamin یا Nitrite: کاهل **۱۲٫۵ g**، طفل **۲۵۰ mg/kg** وریدی؛ آهسته‌تر اثر می‌کند ولی دفع Cyanide را تیز می‌سازد (AHA 2023).
+4. **در افغانستان Hydroxocobalamin اکثراً موجود نیست.** Kit‌های قدیمی (Nitrite + Thiosulfate) ممکن است باشد. **Nitrite Methaemoglobin می‌سازد** و در **مسمومیت همزمان CO** (قربانی آتش) **خطرناک است**. اگر Hydroxocobalamin نیست، AHA 2023 **Sodium nitrite** را بدیل می‌داند: کاهل **۳۰۰ mg**، طفل **۶ mg/kg** وریدی؛ **فشار را نظارت کن** (Hypotension). در قربانی آتش با شک به CO، فقط با احتیاط زیاد و مشورهٔ متخصص.
 
 ---
 
@@ -143,4 +143,4 @@
 ## 📚 References
 1. New Jersey Poison Information & Education System (NJPIES). Antidote Use Guideline. 2023.
 2. Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. *Ther Adv Drug Saf.* 2018;9(1):63–88.
-3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. (مستقیم خوانده نشد → SD-71.)
+3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. جدول ۲ از سند رسمی Highlights آن (cpr.heart.org) مستقیم خوانده شد.

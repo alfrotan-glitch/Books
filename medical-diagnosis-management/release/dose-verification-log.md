@@ -610,3 +610,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۸: ESC 2023 ACS (PDF ehad191، جدول ۶ و ضمیمهٔ S11) — Aspirin LD ۱۵۰–۳۰۰ mg فمی/۷۵–۲۵۰ mg IV و منع مطلق سکتهٔ ایسکیمیک ۶ ماه تأیید؛ SD-99 → VERIFIED.
 - ✅ فصل ۶۰: WHO 2024 Hb cutoffs (iris.who.int، جدول ۴ و ۵) — تعدیل ارتفاع و سگرت تأیید؛ ردیف‌های ۲۵۰۰–۳۹۹۹ متر افزوده شد.
 - ✅ فصل ۷۸: AHA 2023 Toxicology Highlights جدول ۲ (cpr.heart.org) — Glucagon ۲–۱۰ mg/۰٫۰۵–۰٫۱۵ mg/kg، انفیوژن ۱–۱۵ mg/hr؛ Insulin ۱ واحد/kg، ۱–۱۰ واحد/kg/hr؛ SD-100 → VERIFIED.
+- ✅ فصل ۸۰: AHA 2023 Highlights جدول ۲ — Naloxone (کاهل/طفل/انفیوژن)، Sodium thiosulfate، Sodium nitrite درج شد؛ SD-71 بخش CO باز است.
