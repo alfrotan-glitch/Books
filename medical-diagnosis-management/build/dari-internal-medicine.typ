@@ -14395,19 +14395,20 @@ Potassium اکثراً **داخل حجره** است. فرق غلظت داخل و
   caption: none,
 )
 #v(0.4em)
-== 🔹 ۵–۶. Symptoms, Signs & Exam
+== 🔹 ۵. Symptoms & Signs
 - اکثراً **بی‌علامت** — تشخیص از لابراتوار یا ECG.
 - ضعف عضلات، فلج صعودی، Paraesthesia.
 - Bradycardia، ضربان نامنظم.
-- معاینه: حجم مایع، علایم علت (Uraemia، DKA، Addison).
-== 🔹 ۷. Quick DDx
+== 🔹 ۶. Clinical Examination
+- معاینه: حجم مایع، نبض و ریتم، قدرت عضلات و رفلکس‌ها، علایم علت (Uraemia، DKA، Addison).
+== 🔹 ۷. Quick Differential Diagnosis
 Pseudohyperkalaemia · AKI/CKD · دوا · DKA · Addison · Rhabdomyolysis/Tumour lysis.
 == 🔹 ۸. Investigations
 - **ECG ۱۲-لیدی فوراً** + مانیتور قلبی.
 - K⁺ تکراری (گاز خون وریدی/شریانی برای نتیجهٔ سریع).
 - Urea، Creatinine، Glucose، گاز خون (اسیدوز)، CK (Rhabdomyolysis)، Digoxin level اگر مصرف می‌کند.
 - مرور لست دواها.
-== 🔹 ۹. Diagnosis
+== 🔹 ۹. Diagnosis & Diagnostic Criteria
 K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گرده؟ دوا؟ انتقال؟).
 == 🔹 ۱۰. Management — UKKA 2023 (تأییدشده از متن رهنمود)
 === قدم ۱ — محافظت قلب (اگر ECG تغییر دارد)
