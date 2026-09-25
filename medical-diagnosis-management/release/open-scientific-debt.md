@@ -42,6 +42,8 @@
 | SD-30 | ۴۴ | تأییدنشده: حدود عددی شدت Hyponatraemia (۱۳۰/۱۲۵)، زمان ODS، حدود Osmolality/Sodium ادرار در SIADH، دوز Urea/Desmopressin/Loop+نمک، سرعت اصلاح Hypernatraemia و فورمول کمبود آب؛ عدد دوزی وارد نشد | UNVERIFIED — OPEN |
 | SD-31 | ۴۴ | نسخهٔ جدید رهنمود اروپایی Hyponatraemia و شواهد 2023–2025 دربارهٔ حدود اصلاح کامل جستجو نشد؛ SALSA و Verbalis 2013 فقط از منابع ثانوی | CURRENTNESS NOTE |
 | SD-32 | ۴۵ | هشدار FDA دربارهٔ Biotin (2017/2019) در این نشست دوباره خوانده نشد؛ مدت قطع Biotin پیش از نمونه نظر به لابراتوار — عدد نیامد | CURRENTNESS NOTE |
+| SD-33 | ۴۶ | دوزهای Metformin، SGLT2i، GLP-1 RA، Tirzepatide، DPP-4i، Pioglitazone، Sulfonylurea، Insulin (شروع و تیتر) و مقدار گرام Glucose در Hypoglycaemia از منبع اولیهٔ دوایی تأیید نشد؛ جزئیات کامل جدول ۹.۲ برای GLP-1 RA خوانده نشد؛ «Glibenclamide خطر بیشتر» secondary | UNVERIFIED — OPEN |
+| SD-34 | ۴۶ | KDIGO 2022 دیابت در CKD و IDF–DAR 2021 رمضان دوباره بررسی نشد | CURRENTNESS NOTE |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
