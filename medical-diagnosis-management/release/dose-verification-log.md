@@ -473,3 +473,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 ## فصل ۶۵ — Tetanus، SSTI
 - VERIFIED (CDPH quicksheet citing CDC/AAP Red Book): TIG تداوی ۵۰۰ IU عضلی یک دوز؛ TIG پروفیلاکسی ۲۵۰ U عضلی برای همه سنین، همزمان با واکسین؛ IVIG اگر TIG نیست.
 - UNVERIFIED (SD-57): فواصل ۵/۱۰ سال جدول (دانش استندرد CDC، مستقیم خوانده نشد)؛ سایر دوزها نوشته نشد.
+
+## فصل ۶۶ — رهیافت مفاصل
+- دوز نوشته نشد.
+
+## فصل ۶۷ — RA
+- ثانوی-همخوان (Rheumatology Advisor/Medscape/Healio خلاصهٔ EULAR و ACR): MTX حدود ۰.۳ mg/kg/هفته در ۴–۶ هفته (EULAR)؛ حد اقل ۱۵ mg/هفته در ۴–۶ هفته (ACR)؛ ارزیابی ۱–۳ ماه، تغییر در ۳/۶ ماه؛ GC Bridging قطع در ۳ ماه. منبع اولیه → SD-58 UNVERIFIED.
