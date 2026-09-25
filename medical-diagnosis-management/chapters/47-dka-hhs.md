@@ -87,7 +87,7 @@
 |---|---|
 | پُرادراری، تشنگی | پُرادراری، تشنگی طولانی، ضعف |
 | **دلبدی، استفراغ، درد بطن** | کم‌آبی شدید |
-| تنفس **Kussmaul**، بوی Ketone | **اختلال شعور**، علایم بؤرهٔ عصبی، اختلاج |
+| تنفس **Kussmaul**، بوی Ketone | **اختلال شعور**، علایم عصبی بؤری، اختلاج |
 | Tachycardia، فشار پایین | فشار پایین، شوک |
 | خواب‌آلودگی در شدید | کوما در Osmolality بسیار بلند |
 
@@ -99,9 +99,9 @@
 
 - **ABC**، GCS، علایم حیاتی، **درجهٔ حرارت** (انتان — اما Hypothermia هم ممکن است).
 - وضع حجم: مخاط، پُرشدن مویرگی، فشار، ادرار.
-- منبع انتان: سینه، ادرار، جلد، **پای دیابتی**، دندان.
+- منبع انتان: صدر، ادرار، جلد، **پای دیابتی**، دندان.
 - قلب: علایم سکتهٔ قلبی (اکثراً بی‌درد در دیابتی).
-- عصبی: علایم بؤرهٔ (Stroke در مقابل HHS).
+- عصبی: علایم بؤری (Stroke در مقابل HHS).
 - محل‌های زرق Insulin؛ پمپ Insulin (خرابی/قطع).
 
 ---
@@ -116,7 +116,7 @@
 | Salicylate/Methanol/Ethylene glycol | Osmolal gap، سابقه (فصل ۴۳) |
 | Uraemia | Creatinine بسیار بلند |
 | **Euglycaemic DKA** | SGLT2i، حاملگی، گرسنگی — **قند نورمال فریب می‌دهد** |
-| Stroke/Meningitis با قند بلند | علایم بؤرهٔ، تب، گردن شخ |
+| Stroke/Meningitis با قند بلند | علایم بؤری، تب، گردن شخ |
 
 ---
 
@@ -128,7 +128,7 @@
 - **Na⁺، K⁺**، Cl⁻، Urea، Creatinine، **Osmolality** (محاسبه‌شده/سنجیده)، Phosphate، Magnesium.
 - CBC (Leucocytosis در DKA ممکن است بدون انتان باشد)، CRP.
 - **ECG** (K⁺، سکتهٔ قلبی)، Troponin نظر به تابلو.
-- کلچر (خون، ادرار)، X-ray سینه.
+- کلچر (خون، ادرار)، X-ray صدر.
 - Amylase/Lipase (ممکن است در DKA بدون پانکراتیت کمی بلند باشد).
 - β-hCG در زنان سن باروری.
 
@@ -199,7 +199,7 @@
 
 ### ۱۰.۷ وقایه از تکرار — پیش از رخصت
 - آموزش **قواعد روز مریضی**: Insulin را هرگز قطع نکن؛ قند و Ketone را ببین؛ مایع بنوش؛ کی به شفاخانه بیاید.
-- **دسترسی به Insulin** — در افغانستان علت شایع تکرار DKA قطع Insulin به خاطر هزینه/نبود است (تفسیر ثانوی) → با مددکار اجتماعی و برنامه‌های حمایتی.
+- **دسترسی به Insulin** — در افغانستان علت شایع تکرار DKA قطع Insulin به خاطر هزینه/نبود است (تفسیر ثانوی) → با کارکن اجتماعی و برنامه‌های حمایتی.
 - SGLT2i: آموزش خطر DKA، قطع پیش از جراحی/مرض شدید (فصل ۴۶).
 - پیگیری در ۱–۲ هفته.
 
@@ -254,11 +254,10 @@
 
 ## 📚 References
 
-- Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
-
 1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).
 3. Kitabchi AE, et al. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335 — (نسخهٔ قبلی برای مقایسه).
+4. Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** Consensus بین‌المللی 2024 جدیدترین مرجع است (جایگزین ADA 2009). تغییرات کلیدی: β-OHB مرکزی، حد قند ۲۰۰/سابقهٔ دیابت، Bicarbonate ۱۸، Insulin زیرجلدی در DKA خفیف/متوسط، معیارهای رفع جدید، حدود جدید HHS. **اختلاف ثانوی:** خلاصهٔ Healio می‌گوید Bicarbonate «حذف» شده؛ الگوریتم اصلی Consensus می‌گوید «فقط اگر pH کمتر از ۷.۰ در نظر گرفته شود» — متن اصلی مبنا قرار گرفت. **CURRENTNESS NOTE:** JBDS-IP (UK) نسخهٔ جدید جداگانه بررسی نشد (SD-35).
 
@@ -266,7 +265,7 @@
 
 ## ↩️ برگشت به کیس: زهرا و کاکا نبی
 
-- **زهرا (DKA):** مشکل اصلی اسید است. پس endpoint تداوی بسته شدن Anion gap و برطرف شدن Ketone است، نه تنها پایین آمدن قند. وقتی قند پایین آمد ولی Ketone باقی بود، Insulin را قطع نمی‌کنیم؛ Dextrose اضافه می‌کنیم تا Insulin ادامه یابد.
+- **زهرا (DKA):** مشکل اصلی اسید است. پس هدف نهایی تداوی برطرف شدن Ketone (کمتر از ۰.۶ mmol/L) و اصلاح pH یا Bicarbonate است، نه پایین آمدن قند؛ Anion gap معیار رفع نیست. وقتی قند پایین آمد ولی Ketone باقی بود، Insulin را قطع نمی‌کنیم؛ Dextrose اضافه می‌کنیم تا Insulin ادامه یابد.
 - **کاکا نبی (HHS):** مشکل اصلی کم‌آبی و Osmolality است. پس ستون اصلی تداوی مایع است و Osmolality باید **آهسته** پایین بیاید. کاهش خیلی سریع خطر Cerebral oedema دارد.
 - **در هر دو:** پیش از Insulin، Potassium را بدان (همان ترتیب مایع → Potassium → Insulin). منبع را کنترول کن: انتان کاکا نبی و قطع Insulin زهرا عامل آغازکنندهٔ بحران بودند.
 

@@ -623,11 +623,10 @@
 
 ## فصل ۴۷ — بحران‌های هایپرگلایسمیک: DKA و HHS (Diabetic Ketoacidosis & Hyperosmolar Hyperglycaemic State)
 
-- Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
-
 1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).
 3. Kitabchi AE, et al. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335 — (نسخهٔ قبلی برای مقایسه).
+4. Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** Consensus بین‌المللی 2024 جدیدترین مرجع است (جایگزین ADA 2009). تغییرات کلیدی: β-OHB مرکزی، حد قند ۲۰۰/سابقهٔ دیابت، Bicarbonate ۱۸، Insulin زیرجلدی در DKA خفیف/متوسط، معیارهای رفع جدید، حدود جدید HHS. **اختلاف ثانوی:** خلاصهٔ Healio می‌گوید Bicarbonate «حذف» شده؛ الگوریتم اصلی Consensus می‌گوید «فقط اگر pH کمتر از ۷.۰ در نظر گرفته شود» — متن اصلی مبنا قرار گرفت. **CURRENTNESS NOTE:** JBDS-IP (UK) نسخهٔ جدید جداگانه بررسی نشد (SD-35).
 
