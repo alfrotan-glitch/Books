@@ -608,3 +608,5 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۷: ESC 2021 جدول‌های ضمیمهٔ ۲۱ و ۴ (متن PDF ضمیمه) — Nitroglycerin/Nitroprusside مطابق؛ ISDN ۱→۱۰ mg/h افزوده؛ حدود K⁺/eGFR برای MRA (احتیاط، نصف دوز، قطع) درج شد.
 - ✅ فصل ۷: ESC 2021 بخش ۱۱.۱ (Wiley) — آستانه‌های رد BNP/NT-proBNP/MR-proANP در HF حاد مطابق؛ Rule-in سنی NT-proBNP افزوده شد.
 - ✅ فصل ۸: ESC 2023 ACS (PDF ehad191، جدول ۶ و ضمیمهٔ S11) — Aspirin LD ۱۵۰–۳۰۰ mg فمی/۷۵–۲۵۰ mg IV و منع مطلق سکتهٔ ایسکیمیک ۶ ماه تأیید؛ SD-99 → VERIFIED.
+- ✅ فصل ۶۰: WHO 2024 Hb cutoffs (iris.who.int، جدول ۴ و ۵) — تعدیل ارتفاع و سگرت تأیید؛ ردیف‌های ۲۵۰۰–۳۹۹۹ متر افزوده شد.
+- ✅ فصل ۷۸: AHA 2023 Toxicology Highlights جدول ۲ (cpr.heart.org) — Glucagon ۲–۱۰ mg/۰٫۰۵–۰٫۱۵ mg/kg، انفیوژن ۱–۱۵ mg/hr؛ Insulin ۱ واحد/kg، ۱–۱۰ واحد/kg/hr؛ SD-100 → VERIFIED.
