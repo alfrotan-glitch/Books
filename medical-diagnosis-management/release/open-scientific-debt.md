@@ -68,6 +68,7 @@
 | SD-56 | ۶۴ | دوزهای Co-trimoxazole، Fluconazole (پیش‌گیرانه/پروفیلاکسی)، ترکیب mg TLD، تعدیل Tenofovir در CrCl پایین، زمان ART در مننژیت، رژیم PEP، منبع اولیهٔ U=U، ارقام HIV افغانستان؛ پروتوکول ملی مقایسه نشد | UNVERIFIED |
 | SD-57 | ۶۵ | Tetanus: دوز Metronidazole، Benzodiazepine و Magnesium از منبع ثانوی (Medscape) و نوشته نشد؛ جدول پروفیلاکسی زخم از CDPH quicksheet (جدول کامل CDC مستقیم خوانده نشد)؛ SSTI: متن IDSA 2014 خوانده نشد، دوزها و رژیم Necrotizing fasciitis نوشته نشد | UNVERIFIED |
 | SD-58 | ۶۷ | متن اصلی EULAR 2022 و ACR 2021 خوانده نشد (فقط خلاصه‌ها)؛ معیارهای ACR/EULAR 2010 خوانده نشد؛ دوز شروع و اعظمی Methotrexate، Folic acid، دوز Bridging Glucocorticoid، دوزهای Leflunomide/Sulfasalazine/HCQ/Biologic، زمان قطع MTX پیش از حاملگی نوشته نشد | UNVERIFIED |
+| SD-59 | ۶۸ | معیارهای EULAR/ACR 2019 (تیتر ANA ۱:۸۰، وزن حوزه‌ها) خوانده نشد؛ جدول معاینهٔ شبکیه؛ HCQ در حاملگی؛ مدت آرامش پیش از حاملگی؛ دوزهای MMF، AZA، CYC، Belimumab، Anifrolumab، CNI نوشته نشد | UNVERIFIED |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt

@@ -19803,6 +19803,11 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 3. ANA مثبت در زن بدون علایم؟ ← SLE نیست؛ تفسیر با تصویر بالینی.
 4. Oligoarthritis پاها پس از اسهال؟ ← Reactive arthritis.
 5. چرا Steroid روتین برای درد بند مضر است؟ ← مرض را پنهان می‌کند و عوارض جدی دارد.
+== 📚 References
+این فصل رهیافت بالینی است و ادعای عددی تازه ندارد. منابع رهنمودی هر مرض در فصل خودش آمده است:
+1. RA — EULAR 2022 و ACR 2021 (فصل ۶۷).
+2. ارتریت سپتیک، نقرس و OA — فصل‌های ۶۹ و ۷۰.
+3. Brucellosis — فصل ۶۲.
 = فصل ۶۷ — Rheumatoid arthritis
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -19930,3 +19935,163 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18. (از خلاصه‌ها → SD-58.)
 2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939. (از خلاصه‌ها → SD-58.)
 3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
+= فصل ۶۸ — Systemic lupus erythematosus (SLE)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش نهم — روماتولوژی** · *Currentness audit: **EULAR recommendations for SLE: 2023 update** (Fanouriakis A et al., Ann Rheum Dis 2024;83:15–29) — متن ard.eular.org و شکل الگوریتم آن مستقیم خوانده شد. معیارهای طبقه‌بندی **EULAR/ACR 2019** از منبع اولیه خوانده نشد → SD-59. تداوی Lupus nephritis با KDIGO 2024 (فصل ۴۲) هماهنگ است.*
+]
+== «چرا هیچ کس نمی‌فهمد مرا چه شده؟»
+**مریم** ۲۶ ساله، معلم از هرات. در دو سال گذشته به پنج داکتر مراجعه کرده بود:
+- **داکتر جلد:** برای سرخی رخسار که در آفتاب بدتر می‌شد؛
+- **داکتر ارتوپید:** برای درد بندهای دست؛
+- **داکتر عمومی:** برای خستگی و تب‌های خفیف («تب ویروسی»)؛
+- **داکتر دندان:** برای زخم‌های دهن؛
+- و حالا **داکتر ولادی و نسایی**: دو سقط پشت سر هم.
+هر داکتر یک تکه را دید. **هیچ کس تکه‌ها را کنار هم نگذاشت.** امروز پاهایش پندیده و ادرارش کف‌دار است.
+**SLE مرض «تکه‌تکه» است. تشخیص آن با جمع کردن تکه‌ها می‌آید.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. SLE چیست؟
+- **مرض خودایمن سیستمیک:** بدن علیه اجزای **هستهٔ حجرات خودش** Antibody می‌سازد (ANA).
+- Immune complexها در **عضوهای مختلف** رسوب می‌کنند: جلد، مفاصل، گرده، خون، سیروزها، مغز، و...
+- **شایع در زنان جوان** (سنین حاملگی). سیر آن **Flare و آرامش** است.
+- **مرگ** از:
+- **Nephritis**؛
+- **انتان** (از مرض و از تداوی)؛
+- **مرض قلبی–عروقی زودرس**.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. کی به SLE فکر کنیم؟ — تکه‌ها
+**زن جوان با دو یا چند سیستم درگیر، بدون توضیح دیگر:**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*سیستم*], [*تکه*],
+    [جلد و مخاط], [**بثورات رخسار (Malar)** که Nasolabial fold را سالم می‌گذارد؛ **حساسیت به آفتاب**؛ زخم دهن (اکثراً بی‌درد)؛ ریزش مو؛ Discoid lupus],
+    [مفاصل], [**ارتریت** مفاصل کوچک، اکثراً **بدون Erosion** (برخلاف RA)],
+    [عمومی], [خستگی، تب، کاهش وزن],
+    [خون], [**Leukopenia، Lymphopenia، Thrombocytopenia**، انمی همولیتیک (فصل ۵۴، ۵۵)],
+    [**گرده**], [**پروتین یا خون در ادرار**، پندیدگی، فشار بلند (فصل ۴۲)],
+    [سیروزها], [Pleuritis، Pericarditis],
+    [عصبی], [تشنج، Psychosis],
+    [حاملگی], [**سقط‌های مکرر**، ترومبوز → **Antiphospholipid syndrome** (فصل ۵۷)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**مریم:** جلد + مفاصل + تب + زخم دهن + سقط مکرر + حالا ادرار کف‌دار. **شش تکه.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. تشخیص
+=== تست‌ها — منطق ترتیب
+1. **ANA** (با Immunofluorescence):
+- **حساس است.** تقریباً همهٔ مریضان SLE آن را دارند. در **معیارهای EULAR/ACR 2019، ANA مثبت (تیتر ۱:۸۰ یا بیشتر) شرط ورود است** *(→ SD-59)*.
+- **ANA منفی SLE را تقریباً رد می‌کند.**
+- **ANA مثبت به تنهایی SLE نیست**، چون در بسیاری افراد سالم هم مثبت است (فصل ۶۶).
+2. **اگر ANA مثبت و تصویر بالینی سازگار است:**
+- **anti-dsDNA** (اختصاصی؛ با Nephritis و فعالیت ارتباط دارد)؛
+- anti-Sm (بسیار اختصاصی)؛
+- **C3 و C4** (پایین در مرض فعال)؛
+- **Antiphospholipid antibodies** (Lupus anticoagulant، anti-cardiolipin، anti-β2GPI).
+3. **همیشه، در هر ویزیت:**
+- **معاینهٔ ادرار** (پروتین، خون، Cast)؛
+- **نسبت پروتین به Creatinine ادرار**؛
+- **Creatinine**؛
+- CBC؛
+- فشار خون.
+- **Nephritis اکثراً بی‌علامه آغاز می‌شود.**
+4. **Biopsy گرده** در شک به Nephritis (پروتینوریا یا رسوب فعال) → **Class** تداوی را تعیین می‌کند (فصل ۴۲).
+**معیارهای طبقه‌بندی EULAR/ACR 2019:** شرط ورود ANA است. بعد حوزه‌های بالینی و ایمونولوژیک وزن‌دار نمره می‌گیرند. **این معیارها برای طبقه‌بندی‌اند؛ تشخیص بالینی است** *(جزئیات → SD-59)*.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. تداوی (EULAR 2023)
+=== (۱) هدف
+- **Remission یا فعالیت کم مرض** در همهٔ عضوها، **جلوگیری از Flare**، و **کمترین Glucocorticoid**.
+- فعالیت مرض را **در هر ویزیت** با یک نمرهٔ معتبر اندازه کن (EULAR 2023).
+=== (۲) Hydroxychloroquine — برای همه
+- **Hydroxychloroquine (HCQ) برای همهٔ مریضان SLE** توصیه می‌شود، مگر منع داشته باشد (EULAR 2023: 1b/A).
+- **چرا؟**
+- Flare را کم می‌کند؛
+- گرده را حفاظت می‌کند؛
+- ترومبوز و خطر قلبی را کم می‌کند؛
+- و بقا را بهتر می‌سازد.
+- **قطع آن Flare می‌آورد.**
+- **دوز هدف: ۵ mg/kg وزن واقعی بدن در روز** (EULAR 2023)، که بر اساس خطر Flare و خطر سمیت شبکیه فردی می‌شود.
+- در مرض متوسط یا شدید، دوز ابتدایی بلندتر از ۵ mg/kg (**اما نه بیشتر از ۴۰۰ mg/روز**) ممکن است، و پس از بهبود کم شود.
+- **سمیت شبکیه:** معاینهٔ چشم در شروع و به طور منظم. خطر بیشتر در **مرض گرده**، مرض قبلی شبکیه، و Tamoxifen (EULAR 2023). *(جدول زمانی → SD-59.)*
+- **حاملگی:** HCQ ادامه یابد. *(→ SD-59.)*
+=== (۳) Glucocorticoid — پل کوتاه، نه خانه
+- **فقط در صورت ضرورت**، به عنوان **Bridging** در دورهٔ فعالیت مرض (EULAR 2023).
+- **دوز نگهداری: ۵ mg/روز Prednisone یا معادل آن، یا کمتر**، و **در صورت امکان قطع** شود. این حد از ۷.۵ mg در EULAR 2019 **پایین‌تر آورده شده** است.
+- **مرض شدید یا تهدیدکنندهٔ عضو:** **Pulse وریدی Methylprednisolone** (۲۵۰–۱۰۰۰ mg/روز برای ۱–۳ روز)، بعد فمی **۰.۳–۰.۵ mg/kg/روز** با کاهش (الگوریتم EULAR 2023).
+- **منطق:** عوارض Glucocorticoid (انتان، Osteoporosis، Avascular necrosis، دیابت، قلبی–عروقی) علت بزرگ آسیب دایمی در SLE است.
+=== (۴) کم کردن Steroid — دواهای سرکوب ایمنی
+اگر با HCQ و Steroid کم به هدف نرسیدی، یا Steroid کم نمی‌شود (EULAR 2023):
+- **Methotrexate، Azathioprine، یا Mycophenolate**؛
+- و/یا دواهای Biologic: **Belimumab** یا **Anifrolumab**.
+- **Cyclophosphamide** در مرض تهدیدکنندهٔ عضو؛ **Rituximab** در مرض مقاوم.
+- *(دوزها → SD-59.)*
+=== (۵) Lupus nephritis (EULAR 2023؛ فصل ۴۲)
+- **دواهای لنگر:** Glucocorticoid + **Mycophenolate** یا **Cyclophosphamide وریدی دوز پایین** (رژیم Euro-Lupus).
+- **اضافه کردن Belimumab یا یک Calcineurin inhibitor** (Voclosporin یا Tacrolimus) در نظر گرفته شود، به ویژه در Nephritis شدید.
+- **نگهداری:** Mycophenolate یا Azathioprine، و **تداوی حد اقل ۳ سال** ادامه یابد.
+- **حفاظت گرده:** ACE inhibitor یا ARB برای پروتینوریا، و کنترول فشار.
+- *(دوزها → SD-59؛ هماهنگ با KDIGO 2024 در فصل ۴۲.)*
+=== (۶) حاملگی — پلان، نه تصادف
+- **حاملگی را در دورهٔ آرامش مرض** (حد اقل چند ماه) پلان کن. *(مدت → SD-59.)*
+- **Mycophenolate، Methotrexate و Cyclophosphamide** در حاملگی **منع‌اند**. پیش از حاملگی به دواهای مجاز تبدیل کن.
+- **Antiphospholipid antibodies** را پیش از حاملگی چک کن (فصل ۵۷).
+- **anti-Ro/SSA** → خطر **Heart block مادرزادی** نوزاد.
+- تداوی حاملگی با APS → فصل ۵۷ و ۸۴.
+=== (۷) عوامل همراه
+- **آفتاب:** کریم ضد آفتاب و پوشش؛
+- **ترک سگرت** (HCQ را هم کم‌اثر می‌کند)؛
+- **خطر قلبی** را کنترول کن (فصل ۹)؛
+- **واکسین‌ها**؛
+- حفاظت استخوان با Steroid؛
+- **حمایت روانی**.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⚠️ تب در مریض SLE: Flare یا انتان؟
+**مهم‌ترین تصمیم روزمره:**
+- **انتان را اول رد کن.** مریض سرکوب ایمنی است و Steroid بیشتر برای انتان کشنده است.
+- **سرنخ‌ها:**
+- **CRP بسیار بلند** بیشتر به انتان اشاره می‌کند (در Flare SLE، CRP اکثراً کمتر بلند است)؛
+- **C3 و C4 پایین** و **anti-dsDNA بلند** به Flare اشاره می‌کنند.
+- **شک داری → کلچر، و تا رد انتان Steroid را بلند نبر.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به مریم
+- **ANA ۱:۶۴۰**، **anti-dsDNA مثبت**، **C3 و C4 پایین**، Lymphopenia.
+- **Lupus anticoagulant مثبت** در دو نوبت با فاصلهٔ ۱۲ هفته → **APS** (علت سقط‌ها).
+- **ادرار:** پروتین ۲.۵ g/g و RBC Cast → **Biopsy گرده:** Lupus nephritis Class IV.
+- **تداوی:**
+- Pulse Methylprednisolone، بعد Prednisolone فمی با کاهش سریع؛
+- Mycophenolate (+ بحث دربارهٔ Belimumab)؛
+- HCQ ۵ mg/kg وزن واقعی؛
+- ACE inhibitor؛
+- مانع حاملگی (Mycophenolate منع حاملگی است)؛
+- معاینهٔ چشم در شروع.
+- **شش ماه بعد:** پروتین ۰.۴ g/g؛ Prednisolone ۵ mg.
+- **پلان:** حاملگی پس از ثبات، با تبدیل Mycophenolate به Azathioprine و تداوی APS (فصل ۵۷).
+**درس:** پنج داکتر، پنج تکه. **یک سؤال — «چه چیزهای دیگر هم تو را اذیت می‌کند؟» — و یک معاینهٔ ادرار** دو سال را کوتاه می‌کرد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **زن جوان + چند سیستم = SLE را بجوی. تکه‌ها را جمع کن.**
+2. **ANA منفی تقریباً رد می‌کند؛ ANA مثبت به تنهایی تشخیص نیست.**
+3. **ادرار را در هر ویزیت ببین. Nephritis بی‌علامه آغاز می‌شود.**
+4. **HCQ برای همه، ۵ mg/kg وزن واقعی؛ معاینهٔ چشم.**
+5. **Steroid نگهداری ۵ mg یا کمتر، یا قطع (EULAR 2023).**
+6. **تب در SLE → اول انتان را رد کن.**
+7. **حاملگی پلان‌شده: آرامش مرض، دواهای مجاز، APS و anti-Ro.**
+== ⚠️ Red Flags
+- ادرار کف‌دار، پندیدگی، یا فشار بلند تازه (Nephritis).
+- تشنج، Psychosis، یا سردردی شدید (Neuropsychiatric lupus، یا انتان CNS).
+- Platelet بسیار پایین یا انمی همولیتیک.
+- درد صدری تنفسی یا تنگی نفس (Pleuritis، Pericarditis، PE با APS).
+- تب در مریض با Steroid و سرکوب ایمنی.
+== ⏱️ مرور ۶۰ ثانیه
+1. دوز هدف HCQ در EULAR 2023؟ ← ۵ mg/kg وزن واقعی در روز (دوز ابتدایی اعظمی ۴۰۰ mg).
+2. دوز نگهداری اعظمی Prednisone؟ ← ۵ mg/روز، یا قطع.
+3. تست که SLE را تقریباً رد می‌کند؟ ← ANA منفی.
+4. دواهای لنگر Lupus nephritis؟ ← Glucocorticoid + Mycophenolate یا Cyclophosphamide دوز پایین؛ اضافه کردن Belimumab یا CNI.
+5. تب در SLE با CRP بسیار بلند؟ ← اول انتان.
+== 📚 References
+1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
+2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)

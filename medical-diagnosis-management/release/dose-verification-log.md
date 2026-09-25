@@ -479,3 +479,7 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۶۷ — RA
 - ثانوی-همخوان (Rheumatology Advisor/Medscape/Healio خلاصهٔ EULAR و ACR): MTX حدود ۰.۳ mg/kg/هفته در ۴–۶ هفته (EULAR)؛ حد اقل ۱۵ mg/هفته در ۴–۶ هفته (ACR)؛ ارزیابی ۱–۳ ماه، تغییر در ۳/۶ ماه؛ GC Bridging قطع در ۳ ماه. منبع اولیه → SD-58 UNVERIFIED.
+
+## فصل ۶۸ — SLE
+- VERIFIED (EULAR 2023، ard.eular.org و الگوریتم): HCQ ۵ mg/kg وزن واقعی/روز، ابتدایی بلندتر تا ۴۰۰ mg/روز؛ Prednisone نگهداری ۵ mg/روز یا کمتر (از ۷.۵ در 2019)؛ Methylprednisolone ۲۵۰–۱۰۰۰ mg/روز × ۱–۳ روز بعد ۰.۳–۰.۵ mg/kg/روز؛ LN حد اقل ۳ سال.
+- UNVERIFIED (SD-59): سایر دوزها نوشته نشد.
