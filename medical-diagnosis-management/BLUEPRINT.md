@@ -48,6 +48,8 @@
 | 56 | نوشته شده: FN (IDSA/ASCO)، Leukaemia حاد و سه عاجل (APL، Leukostasis، TLS)، CML مختصر، AA (BSH 2024)؛ SD-49 |
 | 57 | نوشته شده: رهیافت خون‌ریزی، TTP/HUS، ITP (ASH 2019)، HIT (ASH 2018)، DIC (ISTH)؛ SD-50 |
 | 58 | نوشته شده: Myeloma (IMWG 2014)، Lymphoma، CLL (iwCLL 2018)، MDS؛ عاجل‌ها؛ SD-51 |
+| 59 | نوشته شده: رهیافت تب (شدت، منبع، جغرافیا، میزبان)؛ SSC 2026 |
+| 60 | نوشته شده: سپسیس (SSC 2026 + 2021، Sepsis-3)؛ SD-52 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

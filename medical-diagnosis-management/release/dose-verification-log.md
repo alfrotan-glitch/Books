@@ -449,3 +449,8 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۵۸ — Lymphoma، Myeloma، MDS
 - دوز نوشته نشد. VERIFIED: IMWG 2014 (۱۰ فیصد؛ Ca ۰.۲۵/۲.۷۵؛ CrCl کمتر از ۴۰ یا Cr بیشتر از ۱۷۷؛ SLiM ۶۰ فیصد، FLC ۱۰۰ با ۱۰۰ mg/L) از IMF و Medscape؛ iwCLL 2018 (۵ × ۱۰⁹/L برای ۳ ماه؛ اندیکاسیون‌ها؛ علایم مرض).
+
+## فصل ۵۹–۶۰ — تب و سپسیس
+- VERIFIED (SSC 2026 صفحهٔ SCCM/Springer): ۳۰ mL/kg کریستالوئید در ۳ ساعت؛ وزن واقعی/تعدیل‌شده در BMI بیشتر از ۳۰؛ MAP ۶۵ و ۶۰–۶۵ در ۶۵ سال یا بیشتر؛ ترتیب Norepinephrine → Vasopressin → Epinephrine.
+- VERIFIED (SSC 2021): Hydrocortisone ۲۰۰ mg/روز در NE ۰.۲۵ µg/kg/min یا بیشتر برای ۴ ساعت یا بیشتر؛ Hb ۷۰؛ قند ۱۸۰/۱۴۴–۱۸۰؛ Tidal ۶ mL/kg، Plateau ۳۰ یا کمتر.
+- UNVERIFIED (SD-52): دوز Hydrocortisone در 2026؛ دوز Norepinephrine؛ دوز Antibiotic FN.
