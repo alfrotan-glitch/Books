@@ -97,7 +97,7 @@
   - **تصویربرداری کاروتید**؛
   - ECG و نظارت برای **AF**؛
   - قند و Lipid.
-- **TIA پرخطر یا سکتهٔ خفیف (غیرکاردیوامبولیک):** **DAPT کوتاه‌مدت** (Aspirin + Clopidogrel) خطر سکته را در هفته‌های اول کم می‌کند، بعد یک دوا. *(دوز Loading و مدت دقیق → SD-62.)*
+- **TIA پرخطر یا سکتهٔ خفیف (غیرکاردیوامبولیک):** **DAPT کوتاه‌مدت** (Aspirin + Clopidogrel) خطر سکته را در هفته‌های اول کم می‌کند، بعد یک دوا. **AHA 2021 (متن توضیحی):** برای سکتهٔ خفیف (NIHSS ۳ یا کمتر) یا TIA پرخطر (ABCD2 ۴ یا بیشتر)، در ۲۴ ساعت اول شروع شود، **۲۱–۹۰ روز**، بعد یک دوا؛ فایده بیشتر در ۲۱ روز اول است و ادامهٔ DAPT بیش از ۹۰ روز فقط خونریزی را زیاد می‌کند. دوزهای دو کارآزمایی: CHANCE — Clopidogrel **۳۰۰ mg** Loading سپس ۷۵ mg روزانه، Aspirin ۷۵–۳۰۰ mg Loading سپس ۷۵ mg (۲۱ روز)؛ POINT — Clopidogrel **۶۰۰ mg** Loading سپس ۷۵ mg، Aspirin ۵۰–۳۲۵ mg روزانه (۹۰ روز). این الگوریتم برای مریضی که Thrombolysis گرفته صدق نمی‌کند. *(رهنمود 2026 AIS در این نشست خوانده نشد → SD-62.)*
 
 ---
 
@@ -150,5 +150,5 @@
 
 ## 📚 References
 1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
-2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (خوانده نشد → SD-62.)
+2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
 3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)

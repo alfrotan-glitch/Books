@@ -622,3 +622,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۴۷: ADA/EASD/JBDS/AACE Consensus 2024 متن کامل — Sodium اصلاح، TDD انتقال، Phosphate؛ SD-35 → VERIFIED.
 - ✅ فصل ۴۴: رهنمود اروپایی Hyponatraemia 2014 (متن اولیه) — حدود شدت، معیار SIAD، دوز Urea (SD-30 جزئی).
 - ✅ فصل ۵۴: AHA/ASA 2022 ICH (متن توضیحی) — هدف SBP ۱۴۰، نه کمتر از ۱۳۰، CPP، زمان Heparin پروفیلاکتیک (SD-62 جزئی).
+- ✅ فصل ۵۴: AHA/ASA 2021 پیش‌گیری ثانوی §5.19 — DAPT (CHANCE/POINT دوزها، ۲۱–۹۰ روز).
