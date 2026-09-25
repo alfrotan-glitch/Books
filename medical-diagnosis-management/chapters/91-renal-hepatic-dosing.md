@@ -16,7 +16,7 @@
 | دوا / گروه | فصل | نوع |
 |---|---|---|
 | Hydrochlorothiazide (در eGFR پایین، Loop diuretic) | ۶ | گرده |
-| Spironolactone، Eplerenone | ۷ | گرده، پتاسیم |
+| Spironolactone، Eplerenone | ۷ | گرده، پوتاشیم |
 | Dapagliflozin، Empagliflozin | ۷، ۳۹ | حد شروع eGFR |
 | Furosemide (دوز بلندتر در eGFR پایین) | ۷ | گرده |
 | Enoxaparin (تداوی و وقایه) | ۸، ۱۴ | CrCl |

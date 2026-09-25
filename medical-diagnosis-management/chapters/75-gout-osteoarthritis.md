@@ -116,7 +116,7 @@
    - **Hydrochlorothiazide به Losartan تبدیل شد.**
    - یک سال بعد: بدون حمله.
 2. **بی‌بی گل:** OA زانو.
-   - **Dexamethasone تزریقی قطع شد.**
+   - **Dexamethasone زرقی قطع شد.**
    - برنامهٔ ورزش تقویت عضلهٔ ران با فزیوتراپ، و کاهش وزن.
    - **جل Diclofenac موضعی** به جای Diclofenac فمی روزانه.
    - یک Steroid داخل مفصل برای Flare شدید.

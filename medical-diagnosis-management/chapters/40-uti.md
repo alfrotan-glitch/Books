@@ -153,12 +153,12 @@
 
 | انتخاب | دوا | دوز · راه · تکرار · مدت |
 |---|---|---|
-| **اول** | **Nitrofurantoin** (eGFR ۴۵ یا بیشتر) | **۱۰۰ mg MR فمی دو بار در روز** (یا ۵۰ mg چهار بار) — **۷ روز**. ⚠️ **نزدیک زایمان (Term) نه** — خطر همولیز نوزاد |
+| **اول** | **Nitrofurantoin** (eGFR ۴۵ یا بیشتر) | **۱۰۰ mg MR فمی دو بار در روز** (یا ۵۰ mg چهار بار) — **۷ روز**. ⚠️ **نزدیک ولادت (Term) نه** — خطر همولیز نوزاد |
 | دوم | **Amoxicillin** (فقط اگر کلچر حساس) | **۵۰۰ mg فمی سه بار در روز — ۷ روز** |
 | دوم | **Cefalexin** | **۵۰۰ mg فمی دو بار در روز — ۷ روز** |
 
 - **کلچر پیش از تداوی** و بازبینی با نتیجه.
-- **Asymptomatic bacteriuria در حاملگی تداوی می‌شود** (خطر Pyelonephritis و زایمان زودرس) — از Nitrofurantoin، Amoxicillin یا Cefalexin بر پایهٔ کلچر (NG109 1.2.1–1.2.2).
+- **Asymptomatic bacteriuria در حاملگی تداوی می‌شود** (خطر Pyelonephritis و ولادت پیش از وقت) — از Nitrofurantoin، Amoxicillin یا Cefalexin بر پایهٔ کلچر (NG109 1.2.1–1.2.2).
 - **نسرین** (ماه هفتم): کلچر + Nitrofurantoin ۷ روز یا Cefalexin؛ نزدیک Term Nitrofurantoin نه.
 
 ### ۱۰.۴ UTI پایین در مرد (NICE NG109، جدول ۳)
@@ -231,7 +231,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 | **Emphysematous pyelonephritis** | در دیابتی؛ گاز در نسج گرده؛ جراحی/درناژ |
 | **Pyonephrosis** | انسداد + چرک = عاجل |
 | **AKI** | فصل ۳۸ |
-| حاملگی: زایمان زودرس | تداوی Asymptomatic bacteriuria |
+| حاملگی: ولادت پیش از وقت | تداوی Asymptomatic bacteriuria |
 | **Prostatitis مزمن** | تداوی طولانی |
 | **عوارض دوا** | *C. difficile*؛ عوارض Fluoroquinolone؛ ریه و کبد با Nitrofurantoin |
 

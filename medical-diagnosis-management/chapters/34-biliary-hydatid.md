@@ -151,7 +151,7 @@
 | **کولیک صفراوی (علامه‌دار)** | **Laparoscopic cholecystectomy انتخابی** |
 | **کولی‌سیستیت حاد (Grade I–II)** | **Laparoscopic cholecystectomy زود — در ۷۲ ساعت** (تا ۷–۱۰ روز از شروع اعراض قابل انجام) — **بهتر از جراحی تأخیری** (کمتر راجعه، بستری کوتاه‌تر) |
 | **Grade III یا مریض پرخطر جراحی** | **درناژ کیسه از راه جلد (Percutaneous cholecystostomy)** یا **EUS-guided gallbladder drainage** ← جراحی بعداً در صورت امکان |
-| **سنگ CBD** | **ERCP + Sphincterotomy + برداشتن سنگ** ← **کولی‌سیستکتومی در همان بستری** (پیش از ترخیص) |
+| **سنگ CBD** | **ERCP + Sphincterotomy + برداشتن سنگ** ← **کولی‌سیستکتومی در همان بستری** (پیش از رخصت) |
 | **پانکراتیت صفراوی خفیف** | **کولی‌سیستکتومی در همان بستری** (PONCHO trial) — فصل ۳۵ |
 | **کلانژیت** | **ERCP** (Sphincterotomy + برداشتن سنگ یا **Stent**)؛ ناکامی ← **PTBD** |
 | **Gallstone ileus** | Enterolithotomy |

@@ -92,7 +92,7 @@
 - **Acidaemia شدید:** تنفس Kussmaul، فشار پایین (کاهش انقباض قلب و پاسخ به Vasopressor)، Arrhythmia، اختلال شعور.
 - **Alkalaemia شدید:** Paraesthesia، کرمپ، Tetany (Ionized calcium ↓)، Arrhythmia، Hypokalaemia.
 - **Hypercapnia:** سردرد، خواب‌آلودگی، Flapping tremor، **CO₂ narcosis** تا کوما.
-- **Hypocapnia حاد:** سرگیجه، Paraesthesia گرد دهن، کرمپ دست.
+- **Hypocapnia حاد:** سرچرخی، Paraesthesia گرد دهن، کرمپ دست.
 
 ---
 

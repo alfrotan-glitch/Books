@@ -248,7 +248,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 - Schistocyte در لام.
 - Platelet که ۵–۱۰ روز پس از Heparin افتاده، یا لختهٔ تازه در مریض تحت Heparin.
 - خون‌ریزی از محل کانول‌ها در مریض سپتیک.
-- Thrombocytopenia در حاملگی با فشار بلند یا درد شکم (HELLP؛ فصل ۸۳).
+- Thrombocytopenia در حاملگی با فشار بلند یا درد بطن (HELLP؛ فصل ۸۳).
 
 ## ⏱️ مرور ۶۰ ثانیه
 1. کدام حد Platelet را ASH برای شروع Steroid در ITP پیشنهاد می‌کند؟ ← کمتر از ۳۰ × ۱۰⁹/L.

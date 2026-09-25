@@ -6,7 +6,7 @@
 
 | اختصار | انگلیسی | معنی به دری |
 |---|---|---|
-| **AAA** | Abdominal aortic aneurysm | انوریزم اورت شکمی |
+| **AAA** | Abdominal aortic aneurysm | انوریزم اورت بطنی |
 | **ABC / ABCDE** | Airway, Breathing, Circulation (Disability, Exposure) | راه هوایی، تنفس، دوران (شعور، معاینهٔ کامل) |
 | **ABG** | Arterial blood gas | گازات خون شریانی |
 | **ABPM** | Ambulatory blood pressure monitoring | نظارت ۲۴ ساعتهٔ فشار خون |
