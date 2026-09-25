@@ -536,3 +536,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 85
 - دوز mg نوشته نشد؛ تغییرات Beers 2023 از سه خلاصه (UIC مستقیم) VERIFIED-ثانوی.
+
+## فصل 86
+- VERIFIED: IMCI علایم خطر (WHO مستقیم)؛ Zinc ۲۰ mg/۱۰ mg ۱۰–۱۴ روز (خلاصهٔ WHO)؛ دوزهای ارجاعی از ۷۳ (ENLS/AES)، ۷۵ (ESCMID)، ۸۲ (RCUK) تکرار شده.
