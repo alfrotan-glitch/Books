@@ -509,3 +509,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 76
 - VERIFIED (EAN/PNS 2023 متن): IVIg ۰.۴ g/kg روزانه ۵ روز (در ۲ هفته، GPP تا ۴)؛ PE ۱۲–۱۵ L در ۴–۵ جلسه؛ Steroid نه؛ دوز دوم IVIg نه. MG: جدول دواها از Consensus 2016 (AANEM).
+
+## فصل 77
+- هیچ دوز mg نوشته نشد (فقط اصول) → SD-67.

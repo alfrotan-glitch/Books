@@ -21183,3 +21183,126 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. van Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of Guillain–Barré syndrome. *Eur J Neurol.* 2023;30:3646–3674.
 2. Sanders DB, Wolfe GI, Benatar M, et al. International consensus guidance for management of myasthenia gravis. *Neurology.* 2016;87:419–425.
 3. Narayanaswami P, Sanders DB, Wolfe G, et al. International consensus guidance for management of myasthenia gravis: 2020 update. *Neurology.* 2021;96:114–122.
+= فصل ۷۷ — Parkinson، Dementia و Delirium: مغز سالخورده
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش دهم — نورولوژی** · *Currentness audit: اصول از NICE NG71 (Parkinson's disease، 2017)، NICE NG97 (Dementia، 2018)، و NICE CG103 (Delirium، به‌روز ۲۰۲۳)، و معیارهای MDS برای Parkinson. **در این جلسه هیچ‌کدام مستقیم خوانده نشد** → SD-67. فصل دوز mg ندارد؛ اصول و خطرها را درس می‌دهد.*
+]
+== «پدرم دیوانه شده»
+پسر **حاجی سلطان** ۷۸ ساله او را آورده است: «دیروز خوب بود. دیشب ما را نشناخت، فریاد می‌زد که دزد در خانه است، و حالا خواب‌آلود است.»
+- حاجی سلطان از دو سال پیش **دست راستش هنگام استراحت می‌لرزد** و آهسته راه می‌رود.
+- از یک سال پیش **نام نواسه‌هایش را فراموش می‌کند**.
+- سه روز پیش برای سرفه **شربت ضد سرفه** و برای بی‌خوابی یک **تابلت خواب** از دواخانه خریده.
+در یک مریض، هر سه: **Parkinson** (سال‌ها)، **Dementia** (ماه‌ها)، و **Delirium** (ساعت‌ها). **فقط Delirium عاجل است و اکثراً قابل برگشت.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. کلید: زمان
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [**], [***Delirium***], [***Dementia***],
+    [شروع], [**ساعت‌ها تا روزها**], [ماه‌ها تا سال‌ها],
+    [سیر], [**نوسانی** (شب بدتر)], [آهسته پیشرونده],
+    [**توجه**], [**مختل** (نمی‌تواند تمرکز کند)], [در اوایل سالم],
+    [شعور], [کم یا زیاد], [عادی],
+    [برگشت‌پذیر؟], [**اکثراً بلی، اگر علت پیدا شود**], [اکثراً نه],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**Dementia بزرگ‌ترین عامل خطر Delirium است.** وقتی مریض Dementia «ناگهان بدتر شد»، **Delirium را جستجو کن**؛ «پیری است» نگو.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. Delirium — عاجل پنهان
+- **شایع** در سالخوردگان شفاخانه، پس از جراحی، و در ICU؛ **مرگ را بلند می‌برد**.
+- **Hypoactive** (خواب‌آلود و آرام) بیشتر از **Hyperactive** (بی‌قرار) **از دست می‌رود**.
+- **تشخیص:** شروع حاد و نوسان + **اختلال توجه** (مثلاً ماه‌های سال را از آخر به اول بگوید) + فکر پراکنده یا تغییر شعور. *(ابزارهای 4AT و CAM → SD-67.)*
+=== علت را بجوی — اکثراً چند علت با هم
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*گروه*], [*مثال*],
+    [**دوا** (شایع‌ترین)], [**Anticholinergic** (ضد حساسیت قدیمی، ضد سرفه‌ها، Amitriptyline)، **Benzodiazepine و تابلت خواب**، Opioid، دواهای Parkinson، Steroid],
+    [**انتان**], [التهاب مثانه، سینه‌بغل (فصل ۱۸)، Sepsis],
+    [**متابولیک**], [**Hyponatraemia**، Hypercalcaemia (فصل ۴۴)؛ Hypoglycaemia؛ Uraemia؛ عدم کفایهٔ کبد],
+    [**Hypoxia**], [عدم کفایهٔ قلب یا تنفس],
+    [**احتباس**], [**احتباس ادرار، قبضیت**],
+    [**قطع**], [الکهول، Benzodiazepine],
+    [**درد**], [درد تداوی‌نشده],
+    [**مغز**], [سکته (فصل ۷۲)، Subdural haematoma، تشنج غیرتشنجی (فصل ۷۳)],
+    [**محیط**], [کمبود خواب، عینک و سمعک گم، اتاق ناآشنا],
+  ),
+  caption: none,
+)
+#v(0.4em)
+=== تداوی
+1. **علت‌ها را تداوی کن**؛ دواهای مضر را قطع کن.
+2. **غیر دوایی (اصل تداوی):** فامیل در کنار؛ ساعت و نور روز؛ **عینک و سمعک**؛ آب و غذا؛ حرکت؛ خواب شب؛ **بستن نکن**.
+3. **دوای ضد روانی** فقط وقتی مریض برای خود یا دیگران **خطرناک** است یا بسیار پریشان است، با **کمترین دوز و کوتاه‌ترین مدت**. *(دوز → SD-67.)*
+- **⚠️ در Parkinson و Lewy body dementia، Haloperidol و ضد روانی‌های قوی نه** — سختی شدید و حتی مرگ.
+4. **Benzodiazepine** Delirium را بدتر می‌کند؛ **فقط در قطع الکهول یا Benzodiazepine**.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. Dementia
+- **کاهش تدریجی حافظه و دیگر توانایی‌ها** که کار روزانه را مختل می‌سازد.
+- **انواع:** Alzheimer (شایع‌ترین)، Vascular (پس از سکته‌ها، پلکانی)، **Lewy body** (نوسان، **دیدن چیزهای ناموجود**، Parkinsonism)، و Frontotemporal (تغییر شخصیت، سن پایین‌تر).
+- **علل قابل تداوی را رد کن:**
+- **Hypothyroidism** (فصل ۴۸)؛ **کمبود B12** (فصل ۵۴)؛ **افسردگی** («Pseudodementia»)؛
+- **HIV**، Syphilis؛ **Normal pressure hydrocephalus** (راه رفتن + بی‌اختیاری ادرار + Dementia)؛ Subdural؛
+- **دواها**.
+- **تست‌ها:** CBC، الکترولیت‌ها، Calcium، کارکرد گرده و کبد، TSH، B12؛ تصویربرداری مغز.
+- **تداوی:**
+- **Cholinesterase inhibitor** (Donepezil، …) در Alzheimer خفیف تا متوسط، و در Lewy body. **Memantine** در متوسط تا شدید. *(دوزها و معیارها → SD-67.)*
+- **مهم‌تر از دوا:** حمایت فامیل، ایمنی خانه، تصمیم‌های قانونی زودتر، و **حمایت از مراقب** (خسته شدن مراقب شایع است).
+- **فرهنگ افغانی:** فامیل بزرگ مراقبت را **نعمت** می‌داند، اما اکثراً **Dementia را «پیری» یا «جادو»** می‌پندارد. توضیح بده که **مرض مغز** است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. Parkinson's disease
+- **Bradykinesia (آهستگی)** + **لرزش هنگام استراحت** یا **سختی (Rigidity)**؛ اکثراً **یک‌طرفه** شروع می‌شود.
+- **علایم غیر حرکتی:** قبضیت، کاهش حس بویایی، افسردگی، اختلال خواب، **Hypotension وضعیتی**، و Dementia در مراحل بعدی.
+- **تشخیص بالینی است.**
+- **⚠️ Parkinsonism دوایی را رد کن:** **Metoclopramide**، **Haloperidol** و ضد روانی‌ها، و Prochlorperazine. **در افغانستان Metoclopramide بسیار استعمال می‌شود.** دوا را قطع کن.
+- **تداوی:**
+- **Levodopa** (با Carbidopa یا Benserazide) مؤثرترین دواست.
+- Dopamine agonist و MAO-B inhibitor بدیل‌ها در جوانان‌اند.
+- Dopamine agonist با **اختلال کنترول تکانه** (قمار، خرید) همراه است؛ از مریض و فامیل بپرس.
+- *(دوزها → SD-67.)*
+- **⚠️ Levodopa را ناگهان قطع نکن** (مثلاً هنگام جراحی یا NPO): خطر **سختی شدید و تب** شبیه Neuroleptic malignant syndrome. اگر بلع نمی‌شود، راه بدیل پیدا کن.
+- **در شفاخانه:** دوای Parkinson را **سر وقت** بده. تأخیر حتی چند ساعته مریض را بی‌حرکت می‌کند.
+- **ضد استفراغ در Parkinson:** Metoclopramide و Haloperidol نه؛ **Domperidone** *(احتیاط QT)*.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به حاجی سلطان
+1. **Delirium** بود: شروع حاد، نوسان، و ماه‌ها را از آخر به اول گفته نمی‌توانست.
+2. **علت‌ها (چند با هم):**
+- شربت ضد سرفه (**Anticholinergic**) و تابلت خواب (**Benzodiazepine**) → قطع شدند.
+- **احتباس ادرار** (از Anticholinergic): ۸۰۰ ml با Catheter.
+- Sodium ۱۲۸.
+3. **فامیل در کنار، عینک، نور روز.** دوای ضد روانی لازم نشد؛ **Haloperidol نه** (Parkinson).
+4. پس از چهار روز، به حالت قبلی خود بازگشت.
+5. **سپس** (نه در Delirium) Dementia ارزیابی شد: B12 و TSH عادی؛ Parkinson disease dementia → Rivastigmine با متخصص.
+6. به فامیل: «هر دوای تازه، حتی شربت سرفه، را اول از داکتر بپرسید.»
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **تغییر حاد ذهنی در سالخورده = Delirium تا خلاف آن ثابت شود؛ «پیری است» نگو.**
+2. **اول دواها را ببین — Anticholinergic، تابلت خواب، Opioid.**
+3. **احتباس ادرار و قبضیت را بجوی.**
+4. **Delirium: تداوی غیر دوایی اصل است؛ Benzodiazepine نه (جز در قطع الکهول).**
+5. **در Parkinson و Lewy body: Haloperidol و Metoclopramide نه.**
+6. **Dementia را در حالت Delirium تشخیص نده.**
+7. **Levodopa را ناگهان قطع نکن و سر وقت بده.**
+== ⚠️ Red Flags
+- تغییر ذهنی حاد یا نوسانی.
+- Delirium با تب، سفتی گردن، یا علایم موضعی.
+- Dementia سریع (هفته‌ها تا ماه‌ها).
+- تب و سختی شدید در مریض Parkinson.
+- سالخورده که پس از افتادن گیچ است (Subdural).
+== ⏱️ مرور ۶۰ ثانیه
+1. کلیدی‌ترین تفاوت Delirium و Dementia؟ ← شروع حاد و اختلال توجه.
+2. شایع‌ترین علت قابل برگشت Delirium؟ ← دوا.
+3. چرا Haloperidol در Parkinson نه؟ ← سختی شدید و خطر مرگ.
+4. سه علت قابل تداوی Dementia؟ ← Hypothyroidism، کمبود B12، افسردگی.
+5. Parkinsonism دوایی شایع در افغانستان؟ ← Metoclopramide.
+== 📚 References
+1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023. (خوانده نشد → SD-67.)
+2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018. (خوانده نشد → SD-67.)
+3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017. (خوانده نشد → SD-67.)

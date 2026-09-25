@@ -77,6 +77,7 @@
 | SD-64 | 74 | سردردی: هیچ منبعی مستقیم خوانده نشد — AHA/ASA 2023 aSAH (حد ۶ ساعت CT، Nimodipine)، Ottawa SAH rule، ACR 2021 GCA (دوز Steroid، Tocilizumab)، AHS 2021 (دوز Triptan/NSAID، پیش‌گیری)، معیار MOH، Estrogen در میگرن با Aura | UNVERIFIED |
 | SD-65 | 75 | مننژیت: مدت Aciclovir در HSV؛ رژیم و مدت TB meningitis و نوع/دوز Steroid؛ مدت Antibiotic برای هر میکروب؛ مقاومت Pneumococcus در افغانستان (Vancomycin)؛ Dexamethasone در کشورهای کم‌درآمد؛ Cryptococcus | UNVERIFIED |
 | SD-66 | 76 | GBS/MG: دوز Pyridostigmine و Steroid در MG؛ حد عددی VC برای Intubation؛ جزئیات گزارش AFP در افغانستان | UNVERIFIED |
+| SD-67 | 77 | Parkinson/Dementia/Delirium: هیچ منبعی مستقیم خوانده نشد — NICE CG103/NG97/NG71؛ 4AT/CAM؛ دوز ضد روانی در Delirium؛ دوز Cholinesterase inhibitor/Memantine/Levodopa | UNVERIFIED |
 
 ## B. Terminology debt
 
