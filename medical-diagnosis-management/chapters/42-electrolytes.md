@@ -1,6 +1,6 @@
 # فصل ۴۲ — اختلالات Potassium، Calcium، Magnesium و Phosphate
 
-> **بخش پنجم — گرده** · *با Currentness audit (UKKA 2023 Hyperkalaemia؛ Society for Endocrinology)*
+> **بخش ششم — گرده** · *با Currentness audit (UKKA 2023 Hyperkalaemia؛ Society for Endocrinology)*
 >
 > Sodium و آب (Hyponatraemia، SIADH، DI) در **فصل ۴۴** آمده‌اند؛ اسید–قلوی در **فصل ۴۳**.
 
@@ -127,7 +127,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 ## 🔹 ۱–۳. Core, Definition, Pathophysiology
 
 - K⁺ پایین → غشا بیش از حد منفی (Hyperpolarization) در عضله و تغییر بازقطبی قلب → ضعف، Ileus، Arrhythmia.
-- علل سه گروه‌اند: **ضیاع گوارشی** (اسهال، استفراغ — فصل ۳۴)، **ضیاع گرده‌ای** (Diuretics، Hyperaldosteronism، Hypomagnesaemia، RTA)، **انتقال به حجره** (Insulin، Beta-agonist، Alkalosis، Thyrotoxic periodic paralysis).
+- علل سه گروه‌اند: **ضیاع گوارشی** (اسهال، استفراغ — فصل ۲۹)، **ضیاع گرده‌ای** (Diuretics، Hyperaldosteronism، Hypomagnesaemia، RTA)، **انتقال به حجره** (Insulin، Beta-agonist، Alkalosis، Thyrotoxic periodic paralysis).
 - 💡 **Hypokalaemia مقاوم = Magnesium را ببین.** کمبود Mg ضیاع K⁺ از گرده را ادامه می‌دهد.
 
 ## 🔹 ۵–۸. Symptoms, Exam, Investigations
@@ -308,7 +308,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 ## 🔗 اتصال به فصل‌ها
 
 - **فصل ۷:** عدم کفایهٔ قلب — ACEi/MRA و K⁺.
-- **فصل ۳۴:** اسهال — Hypokalaemia.
+- **فصل ۲۹:** اسهال — Hypokalaemia.
 - **فصل ۳۸–۳۹:** AKI و CKD.
 - **فصل ۴۱:** سنگ گرده و Hypercalciuria.
 - **فصل ۴۳:** اسید–قلوی.

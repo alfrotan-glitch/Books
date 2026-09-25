@@ -4,11 +4,11 @@
 
 ## ۱. اصول
 
-1. **کارکرد گرده را حساب کن، حدس نزن.** کریاتینین «عادی» در سالخورده، زن لاغر، یا مریض بی‌حرکت ممکن است GFR کم را پنهان کند (فصل ۴، ۳۹، ۸۵).
+1. **کارکرد گرده را حساب کن، حدس نزن.** کریاتینین «عادی» در سالخورده، زن لاغر، یا مریض بی‌حرکت ممکن است GFR کم را پنهان کند (فصل ۴، ۳۹، ۸۴).
 2. **کدام معادله؟** برای مرحله‌بندی CKD، **eGFR (CKD-EPI 2021)**؛ برای تعدیل دوز بسیاری دواها (به ویژه DOAC و بعضی Antibioticها)، برچسب دوا بر **CrCl (Cockcroft–Gault)** بنا شده است (فصل ۴، ۱۰، ۱۴؛ فورمول در ضمیمهٔ ۹۲).
 3. **AKI:** کریاتینین در حال تغییر است و eGFR اعتبار ندارد؛ دوز را با احتیاط و روزانه بازبینی کن (فصل ۳۸).
 4. **دوز بارگیری (Loading)** اکثراً تغییر نمی‌کند؛ **دوز نگهداری یا فاصله** تغییر می‌کند.
-5. **کبد:** معیار واحدی مثل eGFR ندارد. **Child-Pugh** در برچسب بعضی دواها به کار می‌رود (فصل ۳۰). در سیروز، **NSAID، آرام‌بخش‌ها، و Aminoglycoside** خطرناک‌اند.
+5. **کبد:** معیار واحدی مثل eGFR ندارد. **Child-Pugh** در برچسب بعضی دواها به کار می‌رود (فصل ۳۲). در سیروز، **NSAID، آرام‌بخش‌ها، و Aminoglycoside** خطرناک‌اند.
 6. **دواهای با حاشیهٔ تداوی کم** (Aminoglycoside، Vancomycin، Digoxin، Lithium، ضد انعقادها): سطح خون یا نظارت نزدیک.
 
 ## ۲. فهرست: تعدیل گرده که در کتاب آمده است
@@ -28,23 +28,23 @@
 | Amoxicillin، Levofloxacin، Oseltamivir | ۱۸ | CrCl |
 | دواهای TB (Pyrazinamide، Ethambutol) در CKD و دیالیز | ۱۹ | CrCl |
 | Famotidine | ۲۶ | CrCl |
-| دواهای ضد HBV | ۳۲ | CrCl |
-| Upadacitinib | ۳۳ | eGFR و Child-Pugh |
+| دواهای ضد HBV | ۳۱ | CrCl |
+| Upadacitinib | ۲۸ | eGFR و Child-Pugh |
 | Metformin (ممنوع در eGFR کمتر از ۳۰) | ۴۶ | eGFR |
 | ACEi/ARB، SGLT2i، Statin در CKD | ۳۹ | eGFR |
-| Levetiracetam (نگهداری) | ۷۳ | گرده |
-| Aciclovir | ۷۵ | گرده؛ آب کافی |
-| Magnesium sulfate (ادرار کم → تجمع) | ۸۴ | گرده |
-| Beers 2023: جداول گرده | ۸۵ | → SD-75 |
+| Levetiracetam (نگهداری) | ۵۵ | گرده |
+| Aciclovir | ۵۷ | گرده؛ آب کافی |
+| Magnesium sulfate (ادرار کم → تجمع) | ۸۳ | گرده |
+| Beers 2023: جداول گرده | ۸۴ | → SD-75 |
 
 ## ۳. دواهایی که در سیروز یا عدم کفایهٔ کبد احتیاط خاص دارند (در کتاب)
 
 | دوا / گروه | فصل |
 |---|---|
-| NSAID، Aminoglycoside، آرام‌بخش‌ها؛ دوز Paracetamol | ۳۰، ۳۱ |
+| NSAID، Aminoglycoside، آرام‌بخش‌ها؛ دوز Paracetamol | ۳۲، ۳۳ |
 | دواهای TB — نظارت ALT و قطع | ۱۹ |
-| Valproate (مرض کبدی: نه) | ۷۳ |
-| Upadacitinib (Child-Pugh) | ۳۳ |
+| Valproate (مرض کبدی: نه) | ۵۵ |
+| Upadacitinib (Child-Pugh) | ۲۸ |
 | Colchicine | ۱۱ |
 
 ## 📚 References

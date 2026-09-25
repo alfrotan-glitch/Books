@@ -1,6 +1,6 @@
 # فصل ۴۳ — اختلالات اسید–قلوی (Acid–Base Disorders)
 
-> **بخش پنجم — گرده** · *با Currentness audit (BICAR-ICU 2018 → BICARICU-2 2025)*
+> **بخش ششم — گرده** · *با Currentness audit (BICAR-ICU 2018 → BICARICU-2 2025)*
 
 ## یک گاز خون، سه سؤال
 
@@ -68,7 +68,7 @@
 **Metabolic acidosis — Anion gap نورمال:**
 | علت | کلید |
 |---|---|
-| **اسهال** (فصل ۳۴)، Fistula، Ureterosigmoidostomy | ضیاع HCO₃⁻ از روده |
+| **اسهال** (فصل ۲۹)، Fistula، Ureterosigmoidostomy | ضیاع HCO₃⁻ از روده |
 | **Renal tubular acidosis** (RTA) | نوع ۱ (Distal)، نوع ۲ (Proximal)، نوع ۴ (Hypoaldosteronism — K⁺ بلند) |
 | Saline زیاد وریدی | Hyperchloraemia |
 | Acetazolamide | — |
@@ -287,7 +287,7 @@
 
 ## 🔗 اتصال به فصل‌ها
 
-- **فصل ۳۴:** اسهال — Non-AG acidosis.
+- **فصل ۲۹:** اسهال — Non-AG acidosis.
 - **فصل ۳۸–۳۹:** AKI/CKD — اسیدوز Uraemic؛ اندیکاسیون دیالیز.
 - **فصل ۴۲:** K⁺ و اسید–قلوی.
 - **فصل ۴۴:** آب و Sodium.

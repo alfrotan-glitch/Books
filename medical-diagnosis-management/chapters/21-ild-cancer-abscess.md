@@ -136,7 +136,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - **دوری کامل از انتی‌جن** (مهم‌ترین قدم).
 - **Prednisolone ۰.۵ mg/kg/روز** (حداکثر حدود ۴۰–۶۰ mg) برای ۴–۸ هفته و سپس کاهش تدریجی، در مرض شدید یا پیشرونده (شواهد محدود)؛ **Mycophenolate** یا **Azathioprine** برای کاهش ستیروئید؛ **Nintedanib** اگر فایبروز پیشرونده است.
 
-**۴. CTD-ILD:** Mycophenolate mofetil (در SSc-ILD — SLS II: **تا ۱۵۰۰ mg دو بار در روز**)، Tocilizumab، Rituximab، Nintedanib — با روماتولوژیست (فصل ۶۸).
+**۴. CTD-ILD:** Mycophenolate mofetil (در SSc-ILD — SLS II: **تا ۱۵۰۰ mg دو بار در روز**)، Tocilizumab، Rituximab، Nintedanib — با روماتولوژیست (فصل ۷۴).
 
 ### ج) Non-pharmacological Management
 - **قطع سگرت** — ⚠️ در HP و IPF.

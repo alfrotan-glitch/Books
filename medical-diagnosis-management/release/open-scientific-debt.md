@@ -10,20 +10,20 @@
 
 | ID | فصل | موضوع | وضعیت |
 |---|---|---|---|
-| SD-01 | ۶–۳۱ | **۷۵ ردیف 🟡** در `dose-verification-log.md` (فصل‌های ۹–۱۴، ۱۶–۲۳، ۲۵–۳۱). بیشترینه: ۳۰ (۷)، ۱۱ (۶)، ۹ و ۲۱ (۵). | OPEN — Global audit |
-| SD-02 | ۳۳ | دوز Tofacitinib، Budesonide MMX، شیاف Tacrolimus/Beclometasone، انتی‌بیوتیک در فیستول Crohn — عمداً بدون رقم | OPEN (رقم فقط با برچسب/رهنمود) |
-| SD-03 | ۳۳ | Ciclosporin: دوز از ECCO 2017 (Third Consensus) و ECCO 2022 بیانیهٔ ۱.۲ تأیید شد؛ نظارت Mg/کولسترول فقط از مرورها | PARTIAL |
-| SD-03b | ۳۳ | ادعای «ترمیم مخاط در حدود ۵٪ CD پس از ATT» از یک مطالعهٔ منفرد است | OPEN |
-| SD-04 | ۳۳ | اپیدمیولوژی IBD در افغانستان — منبع پیدا نشد | OPEN |
-| SD-05 | ۳۲ | دورهٔ کمون HEV؛ Bulevirtide 8.5 mg (برچسب نهایی FDA) | OPEN |
-| SD-07 | ۳۴ | دوز CDI فولمیننت؛ Paromomycin/Diloxanide؛ Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride — عمداً بدون رقم | OPEN |
-| SD-08 | ۳۴ | جدول دهایدریشن WHO برای اطفال طراحی شده؛ معیار معتبر کاهلان (منبع مستقل) | OPEN |
-| SD-09 | ۳۴ | تعریف زمانی persistent/chronic (۱۴–۳۰ روز / بیشتر از ۳۰ روز) از خلاصهٔ ACG؛ متن اصلی ACG 2016 مستقیماً خوانده نشد | OPEN |
-| SD-10 | ۳۵ | دوزهای بدون رقم: Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics، آهن، فولات، ویتامین D، کلسیم، Tetracycline+فولات در Tropical sprue، Rifaximin در SIBO | OPEN |
-| SD-11 | ۳۵ | B12 IM: رژیم برچسب دوا (Medsafe Hydroxocobalamin Datasheet §4.2) و راه/پیگیری NG239 = **VERIFIED**. فقط رژیم بارگیری BNF «۳ بار/هفته × ۲ هفته» از منبع ثانوی است. **اصلاح:** نگهداری غیرنیورولوژیک از «هر ۳ ماه» به «هر ۲–۳ ماه» (Precision correction) | **UNVERIFIED (فقط رژیم BNF)** — OPEN |
-| SD-12 | ۳۵ | Linaclotide ۲۹۰ µg / Plecanatide ۳ mg از متن ACG 2021 (دوز مطالعه)، نه برچسب | PARTIAL |
-| SD-13 | ۳۵ | BSG 2026 REC 6 (تشخیص بدون بیوپسی) از متن اصلی تأیید شد | **VERIFIED — CLOSED** |
-| SD-14 | ۳۵ | پیگیری Coeliac: BSG 2026 GPS 13–17 = VERIFIED؛ فاصلهٔ tTG تکراری در ACG 2023 (متن اصلی در دسترس نبود) | **UNVERIFIED** — OPEN |
+| SD-01 | ۶–۳۳ | **۷۵ ردیف 🟡** در `dose-verification-log.md` (فصل‌های ۹–۱۴، ۱۶–۲۳، ۲۵–۳۳). بیشترینه: ۳۰ (۷)، ۱۱ (۶)، ۹ و ۲۱ (۵). | OPEN — Global audit |
+| SD-02 | ۲۸ | دوز Tofacitinib، Budesonide MMX، شیاف Tacrolimus/Beclometasone، انتی‌بیوتیک در فیستول Crohn — عمداً بدون رقم | OPEN (رقم فقط با برچسب/رهنمود) |
+| SD-03 | ۲۸ | Ciclosporin: دوز از ECCO 2017 (Third Consensus) و ECCO 2022 بیانیهٔ ۱.۲ تأیید شد؛ نظارت Mg/کولسترول فقط از مرورها | PARTIAL |
+| SD-03b | ۲۸ | ادعای «ترمیم مخاط در حدود ۵٪ CD پس از ATT» از یک مطالعهٔ منفرد است | OPEN |
+| SD-04 | ۲۸ | اپیدمیولوژی IBD در افغانستان — منبع پیدا نشد | OPEN |
+| SD-05 | ۳۱ | دورهٔ کمون HEV؛ Bulevirtide 8.5 mg (برچسب نهایی FDA) | OPEN |
+| SD-07 | ۲۹ | دوز CDI فولمیننت؛ Paromomycin/Diloxanide؛ Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride — عمداً بدون رقم | OPEN |
+| SD-08 | ۲۹ | جدول دهایدریشن WHO برای اطفال طراحی شده؛ معیار معتبر کاهلان (منبع مستقل) | OPEN |
+| SD-09 | ۲۹ | تعریف زمانی persistent/chronic (۱۴–۳۰ روز / بیشتر از ۳۰ روز) از خلاصهٔ ACG؛ متن اصلی ACG 2016 مستقیماً خوانده نشد | OPEN |
+| SD-10 | ۳۰ | دوزهای بدون رقم: Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics، آهن، فولات، ویتامین D، کلسیم، Tetracycline+فولات در Tropical sprue، Rifaximin در SIBO | OPEN |
+| SD-11 | ۳۰ | B12 IM: رژیم برچسب دوا (Medsafe Hydroxocobalamin Datasheet §4.2) و راه/پیگیری NG239 = **VERIFIED**. فقط رژیم بارگیری BNF «۳ بار/هفته × ۲ هفته» از منبع ثانوی است. **اصلاح:** نگهداری غیرنیورولوژیک از «هر ۳ ماه» به «هر ۲–۳ ماه» (Precision correction) | **UNVERIFIED (فقط رژیم BNF)** — OPEN |
+| SD-12 | ۳۰ | Linaclotide ۲۹۰ µg / Plecanatide ۳ mg از متن ACG 2021 (دوز مطالعه)، نه برچسب | PARTIAL |
+| SD-13 | ۳۰ | BSG 2026 REC 6 (تشخیص بدون بیوپسی) از متن اصلی تأیید شد | **VERIFIED — CLOSED** |
+| SD-14 | ۳۰ | پیگیری Coeliac: BSG 2026 GPS 13–17 = VERIFIED؛ فاصلهٔ tTG تکراری در ACG 2023 (متن اصلی در دسترس نبود) | **UNVERIFIED** — OPEN |
 | SD-15 | ۳۶ | جدول خطر AUA/SUFU 2025 (عمر، پاکت-سال، RBC/HPF، عوامل خطر اضافی) از الگوریتم رسمی 12 مارچ 2025 و متن رهنمود استخراج و در فصل ثبت شد | **VERIFIED — CLOSED** |
 | SD-16 | ۳۶ | KDIGO 2012 AKI هنوز رهنمود منتشرشده است. KDIGO 2026 AKI/AKD فقط public-review draft است (مارچ 2026، kdigo.org)؛ از آن توصیه‌ای وارد نشد | **CURRENTNESS NOTE** — Global Audit پیش از نشر |
 | SD-17 | ۳۷ | دوز Loop diuretic در اذیمای نفروتیک (KDIGO دوز ثابت نمی‌دهد)؛ دوزهای MN/FSGS/IgAN (Rituximab، CNI، Cyclophosphamide، Sparsentan، Nefecon، SGLT2i) و RPGN عمداً وارد نشد | UNVERIFIED — OPEN |
@@ -55,40 +55,40 @@
 | SD-43 | ۵۰ | منابع اولیه خوانده نشد: اجماع Pituitary Society 2021 (تشخیص/تداوی Cushing)، رهنمودهای Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های Pituitary؛ این موضوعات در فصل تحریر نشده‌اند | UNVERIFIED — OPEN |
 | SD-44 | ۵۱ | منبع اولیه خوانده نشد: متن کامل NOGG 2022 (توصیه‌ها از خلاصه‌های ثانوی)؛ برچسب Reclast (دوز ۵ mg از منابع ثانوی)؛ دوز Cinacalcet، Teriparatide و Romosozumab؛ رژیم Vitamin D در Osteomalacia؛ حد Calcium ادرار برای FHH؛ فهرست رسمی تست‌های علت ثانوی | UNVERIFIED — OPEN |
 | SD-45 | ۵۲ | منبع اولیه خوانده نشد: متن کامل Endocrine Society 2009 (حدود Insulin/C-peptide/Proinsulin از Endotext/RACGP)؛ غلظت/حجم Dextrose وریدی؛ جملهٔ برچسب Glucagon دربارهٔ ذخیرهٔ Glycogen؛ محل‌یابی/تداوی Insulinoma و هایپوگلایسیمی پس از Bariatric؛ متن اولیهٔ ESC/EAS Focused update 2025؛ Statin در حاملگی و تداخل‌ها؛ معیارهای سندروم متابولیک | UNVERIFIED — OPEN |
-| SD-46 | ۵۳ | منبع اولیه خوانده نشد: شاخص Mentzer و حد HbA2؛ حد Neutropenia شدید (در فصل ۵۶ تأیید شود)؛ معیار اندازهٔ عقدهٔ لمفاوی و زمان بیوپسی؛ ارتفاع کابل از منبع جغرافیایی عمومی | UNVERIFIED — OPEN |
-| SD-47 | ۵۴ | منبع اولیه خوانده نشد: متن NICE NG239 (رژیم Hydroxocobalamin از رهنمود NHS مبتنی بر آن؛ حدود B12 و MMA)؛ رژیم معادل Cyanocobalamin تزریقی و دوز فمی؛ دوز و مدت Folic acid؛ مقدار آهن عنصری و مدت ادامهٔ آهن پس از نورمال شدن Hb؛ مستحضرات آهن وریدی؛ منبع نظارت Potassium در شروع تداوی B12 | UNVERIFIED — OPEN |
-| SD-48 | ۵۵ | منبع اولیه خوانده نشد: فاصلهٔ تکرار G6PD پس از حمله؛ تداوی Cold agglutinin disease؛ رژیم Rituximab (از منابع ثانوی)؛ توصیهٔ ترانسفیوژن در AIHA؛ دوز Folic acid در همولیز مزمن؛ تداوی Thalassaemia major/Chelation؛ پروتوکول واکنش حاد ترانسفیوژن و منبع رسمی امنیت هویت | UNVERIFIED — OPEN |
-| SD-49 | ۵۶ | منبع اولیه خوانده نشد: متن اولیهٔ IDSA 2010 (رژیم و دوز Cefepime/Pip-tazo/Meropenem؛ اندیکاسیون Vancomycin؛ منع معاینهٔ رکتال)؛ ELN APL (ATRA بر اساس شک، دوز)؛ حد WBC در Leukostasis؛ دوز Allopurinol/Rasburicase در TLS؛ تداوی SAA (ATG، Ciclosporin، Eltrombopag، پیوند) و توصیهٔ ترانسفیوژن اقارب؛ Neutropenia نژادی خوش‌خیم در جمعیت افغان | UNVERIFIED — OPEN |
-| SD-50 | ۵۷ | منبع اولیه خوانده نشد: ISTH 2020 TTP (رژیم تبادل پلازما، Steroid، Caplacizumab، Rituximab؛ FFP به عنوان پل؛ منع Platelet)؛ PLASMIC؛ حد ADAMTS13 ۱۰ فیصد؛ فهرست سکرین ثانوی ITP در ASH؛ دوز IVIG (از ASH 2011)؛ پروتوکول خون‌ریزی تهدیدکننده در ITP؛ امتیازدهی 4Ts؛ دوز Anticoagulantهای غیر Heparin؛ متن اولیهٔ ISTH DIC (اختلاف ۰/۲/۳ و ۰/۱/۲) و حدود فرآورده‌ها | UNVERIFIED — OPEN |
-| SD-51 | ۵۸ | منبع اولیه خوانده نشد: متن IMWG 2014 (حد انمی CRAB و ضایعات استخوانی؛ «بیشتر از یک» در MRI)؛ پیگیری MGUS؛ دوز Dexamethasone در فشار بر نخاع؛ مرحله‌بندی Lugano؛ تداوی Lymphoma/Myeloma/MDS (تخصصی، عمداً ننوشته) | UNVERIFIED — OPEN |
-| SD-52 | ۵۹–۶۰ | SSC 2026 (Prescott 2026) جانشین SSC 2021؛ فقط صفحهٔ SCCM/Springer و خلاصه‌ها خوانده شد: دوز Hydrocortisone 2026، کنترول منبع ۶ ساعت، جزئیات Vasopressin؛ تعریف Sepsis-3 از JAMA 2016 مستقیم خوانده نشد؛ دوز/رقیق‌سازی Norepinephrine تأیید نشد؛ دوزهای Antibiotic Febrile Neutropenia (معوق از ۵۶) هنوز منبع ندارند | UNVERIFIED |
-| SD-53 | ۶۱ | متن اصلی WHO malaria guidelines/Severe Malaria Handbook مستقیم خوانده نشد (دوزها از MSF، severemalaria.org، pocket manual مبتنی بر WHO)؛ معیارهای عددی ملاریای شدید؛ ACT خط اول و پروتوکول ملی افغانستان؛ Primaquine در شیردهی/حد سنی؛ ارقام اپیدمیولوژی ملاریا، Dengue، CCHF؛ مقدار مایع وریدی Dengue؛ فهرست کامل علایم هشدار WHO 2025؛ Ribavirin در CCHF | UNVERIFIED |
-| SD-54 | ۶۲ | Brucellosis: متن Ioannina 2007/WHO 2006 خوانده نشد — دوز و مدت Doxycycline/Streptomycin/Gentamicin/Rifampicin، رژیم حاملگی، حد تیتر SAT نوشته نشد؛ Typhoid: دوز و مدت Azithromycin، Ceftriaxone، Meropenem از منبع اولیه تأیید نشد؛ پروتوکول ملی افغانستان مقایسه نشد | UNVERIFIED |
-| SD-55 | ۶۳ | جدول نشانه‌های Dehydration و جدول ۴ (تقسیم ۳۰/۷۰ mL/kg) GTFCC تصویری بود و خوانده نشد (از منابع ثانوی WHO)؛ Antibiotic دیزانتری (Shigella) و تداوی Amoebiasis از منبع اولیه تأیید نشد و نوشته نشد | UNVERIFIED |
-| SD-56 | ۶۴ | دوزهای Co-trimoxazole، Fluconazole (پیش‌گیرانه/پروفیلاکسی)، ترکیب mg TLD، تعدیل Tenofovir در CrCl پایین، زمان ART در مننژیت، رژیم PEP، منبع اولیهٔ U=U، ارقام HIV افغانستان؛ پروتوکول ملی مقایسه نشد | UNVERIFIED |
-| SD-57 | ۶۵ | Tetanus: دوز Metronidazole، Benzodiazepine و Magnesium از منبع ثانوی (Medscape) و نوشته نشد؛ جدول پروفیلاکسی زخم از CDPH quicksheet (جدول کامل CDC مستقیم خوانده نشد)؛ SSTI: متن IDSA 2014 خوانده نشد، دوزها و رژیم Necrotizing fasciitis نوشته نشد | UNVERIFIED |
-| SD-58 | ۶۷ | متن اصلی EULAR 2022 و ACR 2021 خوانده نشد (فقط خلاصه‌ها)؛ معیارهای ACR/EULAR 2010 خوانده نشد؛ دوز شروع و اعظمی Methotrexate، Folic acid، دوز Bridging Glucocorticoid، دوزهای Leflunomide/Sulfasalazine/HCQ/Biologic، زمان قطع MTX پیش از حاملگی نوشته نشد | UNVERIFIED |
-| SD-59 | ۶۸ | معیارهای EULAR/ACR 2019 (تیتر ANA ۱:۸۰، وزن حوزه‌ها) خوانده نشد؛ جدول معاینهٔ شبکیه؛ HCQ در حاملگی؛ مدت آرامش پیش از حاملگی؛ دوزهای MMF، AZA، CYC، Belimumab، Anifrolumab، CNI نوشته نشد | UNVERIFIED |
-| SD-60 | ۶۹ | ACR 2020 gout متن کامل خوانده نشد (استطباب‌های مشروط ULT، حد اعظمی Allopurinol در CKD، Febuxostat)؛ دوز NSAID/Glucocorticoid در حمله؛ دوز Colchicine پروفیلاکسی؛ EULAR 2016 مستقیم خوانده نشد؛ شیوع HLA-B*58:01 در افغانستان؛ ACR 2019 OA خوانده نشد (NSAID موضعی، Glucosamine، Opioid، دفعات Steroid داخل مفصل) | UNVERIFIED |
-| SD-61 | ۷۰ | ارتریت سپتیک: رهنمود واحد تازه نیافتم؛ حدود WBC مایع مفصل و رژیم/دوز/مدت Antibiotic نوشته نشد؛ ASAS-EULAR 2022 و IDSA 2015 فقط از خلاصه‌ها؛ دوزهای NSAID، Sulfasalazine، Biologic و رژیم‌های Osteomyelitis نوشته نشد | UNVERIFIED |
-| SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
-| SD-62 | 72 | متن اصلی AHA/ASA 2026 AIS خوانده نشد (خلاصه‌ها)؛ فهرست منع‌های Thrombolysis؛ AHA 2021 پیش‌گیری ثانوی (DAPT Loading/مدت، زمان ضد انعقاد پس از سکته)؛ AHA 2022 ICH (هدف فشار، Aspirin/Heparin) خوانده نشد | UNVERIFIED |
-| SD-63 | 73 | Status/صرع: دوز کاهل Phenobarbital؛ معیار شروع دوا پس از اولین تشنج؛ دوزهای نگهداری دواهای ضد صرع؛ جزئیات EMA/MHRA Valproate؛ دوز Folic acid؛ قوانین موتر راندن | UNVERIFIED |
-| SD-64 | 74 | سردردی: هیچ منبعی مستقیم خوانده نشد — AHA/ASA 2023 aSAH (حد ۶ ساعت CT، Nimodipine)، Ottawa SAH rule، ACR 2021 GCA (دوز Steroid، Tocilizumab)، AHS 2021 (دوز Triptan/NSAID، پیش‌گیری)، معیار MOH، Estrogen در میگرن با Aura | UNVERIFIED |
-| SD-65 | 75 | مننژیت: مدت Aciclovir در HSV؛ رژیم و مدت TB meningitis و نوع/دوز Steroid؛ مدت Antibiotic برای هر میکروب؛ مقاومت Pneumococcus در افغانستان (Vancomycin)؛ Dexamethasone در کشورهای کم‌درآمد؛ Cryptococcus | UNVERIFIED |
-| SD-66 | 76 | GBS/MG: دوز Pyridostigmine و Steroid در MG؛ حد عددی VC برای Intubation؛ جزئیات گزارش AFP در افغانستان | UNVERIFIED |
-| SD-67 | 77 | Parkinson/Dementia/Delirium: هیچ منبعی مستقیم خوانده نشد — NICE CG103/NG97/NG71؛ 4AT/CAM؛ دوز ضد روانی در Delirium؛ دوز Cholinesterase inhibitor/Memantine/Levodopa | UNVERIFIED |
-| SD-68 | 78 | ایست/شوک: مراقبت پس از ROSC (هدف حرارت، فشار، SpO2)؛ دوز دوم Lidocaine؛ معیارهای توقف CPR؛ دوزهای وازوپرسور | UNVERIFIED |
-| SD-69 | 79 | مسمومیت: Activated charcoal (حد زمانی، دوز)؛ زمان‌بندی Intermediate syndrome؛ Aluminium phosphide (مرگ‌ومیر، تداوی‌های پیشنهادی)؛ شواهد Pralidoxime متناقض — CURRENTNESS: رهنمود WHO/رسمی خوانده نشد | UNVERIFIED |
-| SD-70 | 80 | Paracetamol: حد زمانی/دوز Activated charcoal؛ رژیم NAC در Massive؛ معیار پایان NAC؛ انتخاب خط ۱۰۰ برای افغانستان تصمیم نویسنده است | UNVERIFIED |
-| SD-71 | 81 | Opioid/CO/Cyanide: 2023 AHA toxicology update مستقیم خوانده نشد؛ دوز Naloxone در Apnoea و رژیم انفیوژن؛ مدت اکسیجن و HBO در CO (شواهد متناقض)؛ ارقام علایم عصبی تأخیری؛ دوز Thiosulfate؛ Kit Nitrite در افغانستان؛ دوزهای اطفال | UNVERIFIED |
-| SD-72 | 82 | Anaphylaxis/سوختگی: دوز انفیوژن Adrenaline؛ مدت نظارت پس از Anaphylaxis؛ فیصدی بدون علایم پوستی؛ مدت سرد کردن سوختگی؛ ادرار هدف اطفال و Albumin؛ معیارهای ارجاع؛ متن کامل ABA 2023 خوانده نشد | UNVERIFIED |
-| SD-73 | 83 | گرمی/سردی: توصیهٔ رسمی WMS دربارهٔ Antipyretic؛ Hypothermia (WMS 2019، ERC 2021) مستقیم خوانده نشد — حدود مراحل، Swiss staging، مدت جستجوی نبض، دوا/شاک در حرارت پایین، ECMO؛ Frostbite | UNVERIFIED |
-| SD-74 | 84 | حاملگی: WHO 2011 Preeclampsia خوانده نشد؛ قدم‌های بعدی Labetalol و تکرار Nifedipine؛ هدف عددی فشار؛ رژیم عضلی Pritchard و مدت Magnesium؛ دوز Calcium gluconate؛ حد Preeclampsia پس از ولادت؛ Aspirin وقایوی؛ خطر VTE؛ دوز اشعه؛ رهنمودهای GDM/Thyroid/VTE حاملگی | UNVERIFIED |
-| SD-75 | 85 | سالخورده: ابزارهای Frailty و STOPP/START؛ World Falls Guidelines 2022؛ فهرست کامل Beers و جداول گرده؛ جزئیات PPI؛ اهداف عددی در Frail | UNVERIFIED |
-| SD-76 | 86 | اطفال: علایم حیاتی نورمال؛ دوز Paracetamol/Ibuprofen/Antibiotic اطفال؛ دوز Dextrose؛ حدود تنفس سریع IMCI؛ حد سنی Aspirin (Reye)؛ ضد اسهال در اطفال — منبع اولیه خوانده نشد | UNVERIFIED |
-| SD-77 | 87 | FUO/کاهش وزن/عقده: هیچ رهنمود رسمی خوانده نشد — تعریف دقیق FUO، حد کاهش وزن، مدت و معیارهای Biopsy عقده (Excision در برابر FNA/Core) | UNVERIFIED |
-| SD-78 | 88 | تغذیه: پروتوکول WHO SAM (حدود MUAC، مایع، F-75/F-100)؛ دوز Thiamine در Wernicke؛ دوز Supplement K/Phos/Mg؛ طبقه‌بندی BMI و MUAC کاهلان؛ دوز ویتامین A (WHO)؛ Pellagra؛ منبع شیوع Scurvy در افغانستان | UNVERIFIED |
+| SD-46 | ۶۰ | منبع اولیه خوانده نشد: شاخص Mentzer و حد HbA2؛ حد Neutropenia شدید (در فصل ۶۳ تأیید شود)؛ معیار اندازهٔ عقدهٔ لمفاوی و زمان بیوپسی؛ ارتفاع کابل از منبع جغرافیایی عمومی | UNVERIFIED — OPEN |
+| SD-47 | ۶۱ | منبع اولیه خوانده نشد: متن NICE NG239 (رژیم Hydroxocobalamin از رهنمود NHS مبتنی بر آن؛ حدود B12 و MMA)؛ رژیم معادل Cyanocobalamin تزریقی و دوز فمی؛ دوز و مدت Folic acid؛ مقدار آهن عنصری و مدت ادامهٔ آهن پس از نورمال شدن Hb؛ مستحضرات آهن وریدی؛ منبع نظارت Potassium در شروع تداوی B12 | UNVERIFIED — OPEN |
+| SD-48 | ۶۲ | منبع اولیه خوانده نشد: فاصلهٔ تکرار G6PD پس از حمله؛ تداوی Cold agglutinin disease؛ رژیم Rituximab (از منابع ثانوی)؛ توصیهٔ ترانسفیوژن در AIHA؛ دوز Folic acid در همولیز مزمن؛ تداوی Thalassaemia major/Chelation؛ پروتوکول واکنش حاد ترانسفیوژن و منبع رسمی امنیت هویت | UNVERIFIED — OPEN |
+| SD-49 | ۶۳ | منبع اولیه خوانده نشد: متن اولیهٔ IDSA 2010 (رژیم و دوز Cefepime/Pip-tazo/Meropenem؛ اندیکاسیون Vancomycin؛ منع معاینهٔ رکتال)؛ ELN APL (ATRA بر اساس شک، دوز)؛ حد WBC در Leukostasis؛ دوز Allopurinol/Rasburicase در TLS؛ تداوی SAA (ATG، Ciclosporin، Eltrombopag، پیوند) و توصیهٔ ترانسفیوژن اقارب؛ Neutropenia نژادی خوش‌خیم در جمعیت افغان | UNVERIFIED — OPEN |
+| SD-50 | ۶۴ | منبع اولیه خوانده نشد: ISTH 2020 TTP (رژیم تبادل پلازما، Steroid، Caplacizumab، Rituximab؛ FFP به عنوان پل؛ منع Platelet)؛ PLASMIC؛ حد ADAMTS13 ۱۰ فیصد؛ فهرست سکرین ثانوی ITP در ASH؛ دوز IVIG (از ASH 2011)؛ پروتوکول خون‌ریزی تهدیدکننده در ITP؛ امتیازدهی 4Ts؛ دوز Anticoagulantهای غیر Heparin؛ متن اولیهٔ ISTH DIC (اختلاف ۰/۲/۳ و ۰/۱/۲) و حدود فرآورده‌ها | UNVERIFIED — OPEN |
+| SD-51 | ۶۵ | منبع اولیه خوانده نشد: متن IMWG 2014 (حد انمی CRAB و ضایعات استخوانی؛ «بیشتر از یک» در MRI)؛ پیگیری MGUS؛ دوز Dexamethasone در فشار بر نخاع؛ مرحله‌بندی Lugano؛ تداوی Lymphoma/Myeloma/MDS (تخصصی، عمداً ننوشته) | UNVERIFIED — OPEN |
+| SD-52 | ۶۶–۶۷ | SSC 2026 (Prescott 2026) جانشین SSC 2021؛ فقط صفحهٔ SCCM/Springer و خلاصه‌ها خوانده شد: دوز Hydrocortisone 2026، کنترول منبع ۶ ساعت، جزئیات Vasopressin؛ تعریف Sepsis-3 از JAMA 2016 مستقیم خوانده نشد؛ دوز/رقیق‌سازی Norepinephrine تأیید نشد؛ دوزهای Antibiotic Febrile Neutropenia (معوق از ۵۶) هنوز منبع ندارند | UNVERIFIED |
+| SD-53 | ۶۸ | متن اصلی WHO malaria guidelines/Severe Malaria Handbook مستقیم خوانده نشد (دوزها از MSF، severemalaria.org، pocket manual مبتنی بر WHO)؛ معیارهای عددی ملاریای شدید؛ ACT خط اول و پروتوکول ملی افغانستان؛ Primaquine در شیردهی/حد سنی؛ ارقام اپیدمیولوژی ملاریا، Dengue، CCHF؛ مقدار مایع وریدی Dengue؛ فهرست کامل علایم هشدار WHO 2025؛ Ribavirin در CCHF | UNVERIFIED |
+| SD-54 | ۶۹ | Brucellosis: متن Ioannina 2007/WHO 2006 خوانده نشد — دوز و مدت Doxycycline/Streptomycin/Gentamicin/Rifampicin، رژیم حاملگی، حد تیتر SAT نوشته نشد؛ Typhoid: دوز و مدت Azithromycin، Ceftriaxone، Meropenem از منبع اولیه تأیید نشد؛ پروتوکول ملی افغانستان مقایسه نشد | UNVERIFIED |
+| SD-55 | ۲۹ | جدول نشانه‌های Dehydration و جدول ۴ (تقسیم ۳۰/۷۰ mL/kg) GTFCC تصویری بود و خوانده نشد (از منابع ثانوی WHO)؛ Antibiotic دیزانتری (Shigella) و تداوی Amoebiasis از منبع اولیه تأیید نشد و نوشته نشد؛ پس از ادغام فصل اسهال: اختلاف دوز Zinc اطفال (GTFCC ۲۰ mg × ۱۰ روز در برابر WHO 2024 ۵ mg) — هر دو با دلیل در فصل ۲۹ نوشته شد | UNVERIFIED |
+| SD-56 | ۷۰ | دوزهای Co-trimoxazole، Fluconazole (پیش‌گیرانه/پروفیلاکسی)، ترکیب mg TLD، تعدیل Tenofovir در CrCl پایین، زمان ART در مننژیت، رژیم PEP، منبع اولیهٔ U=U، ارقام HIV افغانستان؛ پروتوکول ملی مقایسه نشد | UNVERIFIED |
+| SD-57 | ۷۱ | Tetanus: دوز Metronidazole، Benzodiazepine و Magnesium از منبع ثانوی (Medscape) و نوشته نشد؛ جدول پروفیلاکسی زخم از CDPH quicksheet (جدول کامل CDC مستقیم خوانده نشد)؛ SSTI: متن IDSA 2014 خوانده نشد، دوزها و رژیم Necrotizing fasciitis نوشته نشد | UNVERIFIED |
+| SD-58 | ۷۳ | متن اصلی EULAR 2022 و ACR 2021 خوانده نشد (فقط خلاصه‌ها)؛ معیارهای ACR/EULAR 2010 خوانده نشد؛ دوز شروع و اعظمی Methotrexate، Folic acid، دوز Bridging Glucocorticoid، دوزهای Leflunomide/Sulfasalazine/HCQ/Biologic، زمان قطع MTX پیش از حاملگی نوشته نشد | UNVERIFIED |
+| SD-59 | ۷۴ | معیارهای EULAR/ACR 2019 (تیتر ANA ۱:۸۰، وزن حوزه‌ها) خوانده نشد؛ جدول معاینهٔ شبکیه؛ HCQ در حاملگی؛ مدت آرامش پیش از حاملگی؛ دوزهای MMF، AZA، CYC، Belimumab، Anifrolumab، CNI نوشته نشد | UNVERIFIED |
+| SD-60 | ۷۵ | ACR 2020 gout متن کامل خوانده نشد (استطباب‌های مشروط ULT، حد اعظمی Allopurinol در CKD، Febuxostat)؛ دوز NSAID/Glucocorticoid در حمله؛ دوز Colchicine پروفیلاکسی؛ EULAR 2016 مستقیم خوانده نشد؛ شیوع HLA-B*58:01 در افغانستان؛ ACR 2019 OA خوانده نشد (NSAID موضعی، Glucosamine، Opioid، دفعات Steroid داخل مفصل) | UNVERIFIED |
+| SD-61 | ۷۶ | ارتریت سپتیک: رهنمود واحد تازه نیافتم؛ حدود WBC مایع مفصل و رژیم/دوز/مدت Antibiotic نوشته نشد؛ ASAS-EULAR 2022 و IDSA 2015 فقط از خلاصه‌ها؛ دوزهای NSAID، Sulfasalazine، Biologic و رژیم‌های Osteomyelitis نوشته نشد | UNVERIFIED |
+| SD-06 | ۳/۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
+| SD-62 | 54 | متن اصلی AHA/ASA 2026 AIS خوانده نشد (خلاصه‌ها)؛ فهرست منع‌های Thrombolysis؛ AHA 2021 پیش‌گیری ثانوی (DAPT Loading/مدت، زمان ضد انعقاد پس از سکته)؛ AHA 2022 ICH (هدف فشار، Aspirin/Heparin) خوانده نشد | UNVERIFIED |
+| SD-63 | 55 | Status/صرع: دوز کاهل Phenobarbital؛ معیار شروع دوا پس از اولین تشنج؛ دوزهای نگهداری دواهای ضد صرع؛ جزئیات EMA/MHRA Valproate؛ دوز Folic acid؛ قوانین موتر راندن | UNVERIFIED |
+| SD-64 | 56 | سردردی: هیچ منبعی مستقیم خوانده نشد — AHA/ASA 2023 aSAH (حد ۶ ساعت CT، Nimodipine)، Ottawa SAH rule، ACR 2021 GCA (دوز Steroid، Tocilizumab)، AHS 2021 (دوز Triptan/NSAID، پیش‌گیری)، معیار MOH، Estrogen در میگرن با Aura | UNVERIFIED |
+| SD-65 | 57 | مننژیت: مدت Aciclovir در HSV؛ رژیم و مدت TB meningitis و نوع/دوز Steroid؛ مدت Antibiotic برای هر میکروب؛ مقاومت Pneumococcus در افغانستان (Vancomycin)؛ Dexamethasone در کشورهای کم‌درآمد؛ Cryptococcus | UNVERIFIED |
+| SD-66 | 58 | GBS/MG: دوز Pyridostigmine و Steroid در MG؛ حد عددی VC برای Intubation؛ جزئیات گزارش AFP در افغانستان | UNVERIFIED |
+| SD-67 | 59 | Parkinson/Dementia/Delirium: هیچ منبعی مستقیم خوانده نشد — NICE CG103/NG97/NG71؛ 4AT/CAM؛ دوز ضد روانی در Delirium؛ دوز Cholinesterase inhibitor/Memantine/Levodopa | UNVERIFIED |
+| SD-68 | 77 | ایست/شوک: مراقبت پس از ROSC (هدف حرارت، فشار، SpO2)؛ دوز دوم Lidocaine؛ معیارهای توقف CPR؛ دوزهای وازوپرسور | UNVERIFIED |
+| SD-69 | 78 | مسمومیت: Activated charcoal (حد زمانی، دوز)؛ زمان‌بندی Intermediate syndrome؛ Aluminium phosphide (مرگ‌ومیر، تداوی‌های پیشنهادی)؛ شواهد Pralidoxime متناقض — CURRENTNESS: رهنمود WHO/رسمی خوانده نشد | UNVERIFIED |
+| SD-70 | 79 | Paracetamol: حد زمانی/دوز Activated charcoal؛ رژیم NAC در Massive؛ معیار پایان NAC؛ انتخاب خط ۱۰۰ برای افغانستان تصمیم نویسنده است | UNVERIFIED |
+| SD-71 | 80 | Opioid/CO/Cyanide: 2023 AHA toxicology update مستقیم خوانده نشد؛ دوز Naloxone در Apnoea و رژیم انفیوژن؛ مدت اکسیجن و HBO در CO (شواهد متناقض)؛ ارقام علایم عصبی تأخیری؛ دوز Thiosulfate؛ Kit Nitrite در افغانستان؛ دوزهای اطفال | UNVERIFIED |
+| SD-72 | 81 | Anaphylaxis/سوختگی: دوز انفیوژن Adrenaline؛ مدت نظارت پس از Anaphylaxis؛ فیصدی بدون علایم پوستی؛ مدت سرد کردن سوختگی؛ ادرار هدف اطفال و Albumin؛ معیارهای ارجاع؛ متن کامل ABA 2023 خوانده نشد | UNVERIFIED |
+| SD-73 | 82 | گرمی/سردی: توصیهٔ رسمی WMS دربارهٔ Antipyretic؛ Hypothermia (WMS 2019، ERC 2021) مستقیم خوانده نشد — حدود مراحل، Swiss staging، مدت جستجوی نبض، دوا/شاک در حرارت پایین، ECMO؛ Frostbite | UNVERIFIED |
+| SD-74 | 83 | حاملگی: WHO 2011 Preeclampsia خوانده نشد؛ قدم‌های بعدی Labetalol و تکرار Nifedipine؛ هدف عددی فشار؛ رژیم عضلی Pritchard و مدت Magnesium؛ دوز Calcium gluconate؛ حد Preeclampsia پس از ولادت؛ Aspirin وقایوی؛ خطر VTE؛ دوز اشعه؛ رهنمودهای GDM/Thyroid/VTE حاملگی | UNVERIFIED |
+| SD-75 | 84 | سالخورده: ابزارهای Frailty و STOPP/START؛ World Falls Guidelines 2022؛ فهرست کامل Beers و جداول گرده؛ جزئیات PPI؛ اهداف عددی در Frail | UNVERIFIED |
+| SD-76 | 85 | اطفال: علایم حیاتی نورمال؛ دوز Paracetamol/Ibuprofen/Antibiotic اطفال؛ دوز Dextrose؛ حدود تنفس سریع IMCI؛ حد سنی Aspirin (Reye)؛ ضد اسهال در اطفال — منبع اولیه خوانده نشد | UNVERIFIED |
+| SD-77 | 86 | FUO/کاهش وزن/عقده: هیچ رهنمود رسمی خوانده نشد — تعریف دقیق FUO، حد کاهش وزن، مدت و معیارهای Biopsy عقده (Excision در برابر FNA/Core) | UNVERIFIED |
+| SD-78 | 87 | تغذیه: پروتوکول WHO SAM (حدود MUAC، مایع، F-75/F-100)؛ دوز Thiamine در Wernicke؛ دوز Supplement K/Phos/Mg؛ طبقه‌بندی BMI و MUAC کاهلان؛ دوز ویتامین A (WHO)؛ Pellagra؛ منبع شیوع Scurvy در افغانستان | UNVERIFIED |
 | SD-79 | 91 | ضمیمهٔ ۹۱: تعدیل گرده/کبد برای دواهایی که در کتاب تأیید نشده‌اند؛ جداول گرده Beers | UNVERIFIED |
 
 ## B. Terminology debt
@@ -98,8 +98,8 @@
 | ID | موضوع | وضعیت |
 |---|---|---|
 | TD-01 | ۵ ردیف PROVISIONAL (سودیم، ادیما، سندروم، عدم کفایه، حلقهٔ معیوب) + تغییرات ۰۰/۰۳/۰۶/۰۹/۱۰ | UNVERIFIED — pending Afghan professional usage review |
-| TD-02 | «انثقاب (Perforation)» — فصل ۳۳ | UNVERIFIED — pending glossary audit |
-| TD-03 | «توسع توکسیک کولون» (Toxic megacolon) — فصل ۳۳ | UNVERIFIED — pending glossary audit |
+| TD-02 | «انثقاب (Perforation)» — فصل ۲۸ | UNVERIFIED — pending glossary audit |
+| TD-03 | «توسع توکسیک کولون» (Toxic megacolon) — فصل ۲۸ | UNVERIFIED — pending glossary audit |
 | TD-05 | Scanner: substring matching اصلاح شد (مرز کلمه برای خط عربی، پسوندهای صرفی، حذف تکرار)؛ glossary rows تکراری هنوز موجودند | UNVERIFIED — scanner fixed; duplicate glossary rows still to clean |
 
 

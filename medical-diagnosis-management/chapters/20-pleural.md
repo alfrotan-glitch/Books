@@ -220,7 +220,7 @@
 #### ۳. Transudate
 - **تداوی علت:**
   - **عدم کفایهٔ قلب:** دیورتیک (Furosemide) و GDMT — فصل ۷.
-  - **Hepatic hydrothorax:** محدودیت سودیم + **Spironolactone ۱۰۰ mg + Furosemide ۴۰ mg** (به نسبت ۱۰۰:۴۰) — فصل ۳۰؛ **TIPS** در موارد مقاوم؛ ⚠️ **درن سینه ممنوع** (از دست رفتن پروتین و مایع، انتان).
+  - **Hepatic hydrothorax:** محدودیت سودیم + **Spironolactone ۱۰۰ mg + Furosemide ۴۰ mg** (به نسبت ۱۰۰:۴۰) — فصل ۳۲؛ **TIPS** در موارد مقاوم؛ ⚠️ **درن سینه ممنوع** (از دست رفتن پروتین و مایع، انتان).
   - **نفروتیک:** فصل ۳۷.
 
 #### ۴. افیوژن سرطانی (Malignant pleural effusion)

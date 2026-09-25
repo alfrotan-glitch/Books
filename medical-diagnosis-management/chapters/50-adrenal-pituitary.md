@@ -1,6 +1,6 @@
 # فصل ۵۰ — امراض ادرنال و Pituitary (Adrenal & Pituitary Disorders)
 
-> **بخش ششم — اندوکراین** · *با Currentness audit (ES 2016 PAI و Hypopituitarism؛ ESE/ES 2024؛ ES 2025 Primary aldosteronism؛ ESE 2023 Incidentaloma؛ ES 2014 PPGL؛ ES 2008 Cushing)*
+> **بخش هفتم — اندوکراین** · *با Currentness audit (ES 2016 PAI و Hypopituitarism؛ ESE/ES 2024؛ ES 2025 Primary aldosteronism؛ ESE 2023 Incidentaloma؛ ES 2014 PPGL؛ ES 2008 Cushing)*
 
 ## شاکی که به Saline جواب نداد
 

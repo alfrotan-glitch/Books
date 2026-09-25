@@ -189,7 +189,7 @@
 | Morphine ۰.۰۵–۰.۱ mg/kg؛ Diclofenac ۷۵ mg IM؛ Ketorolac؛ Ondansetron ۴ mg؛ Metoclopramide ۱۰ mg | فورمولری | 🟡 |
 | Heparin ۸۰ U/kg ← ۱۸ U/kg/h در ایسکیمی مساریقی؛ Gastrografin ۱۰۰ ml | ESVS 2017؛ Bologna 2017 | 🟡 |
 
-## فصل ۲۸ — صفرا، ابسهٔ کبد، هایداتید
+## فصل ۳۴ — صفرا، ابسهٔ کبد، هایداتید
 | مورد | منبع | وضعیت |
 |---|---|---|
 | معیارها و درجه‌بندی TG18؛ مدت انتی‌بیوتیک (۴–۷ روز پس از کنترول منبع) | Tokyo 2018 | 🟡 (از دانش) |
@@ -198,7 +198,7 @@
 | Albendazole ۴۰۰ mg دو بار / ۱۵ mg/kg/روز؛ مدت در CE و پیش/پس از PAIR/جراحی | WHO-IWGE 2010 | 🟡 باید مطابقت داده شود |
 | Adrenaline ۰.۵ mg IM در Anaphylaxis | Resuscitation Council UK | ✅ (استندرد شناخته‌شده) |
 
-## فصل ۲۹ — پانکراتیت
+## فصل ۳۵ — پانکراتیت
 | مورد | منبع | وضعیت |
 |---|---|---|
 | LR بولوس ۱۰ ml/kg (هایپوولمی) ← ۱.۵ ml/kg/h | WATERFALL 2022 (NEJM) | ✅ (مرجع شناخته‌شده) |
@@ -207,7 +207,7 @@
 | PERT ۴۰–۵۰ هزار / ۲۰–۲۵ هزار واحد Lipase؛ Pregabalin ۷۵–۳۰۰ mg دو بار؛ Tramadol؛ Prednisolone در AIP | UEG 2017؛ AGA 2023؛ Olesen 2011 | 🟡 |
 | Indomethacin/Diclofenac ۱۰۰ mg مقعدی پیش از ERCP | ESGE/ASGE | 🟡 |
 
-## فصل ۳۰ — سیروز
+## فصل ۳۲ — سیروز
 | مورد | منبع | وضعیت |
 |---|---|---|
 | Spironolactone ۱۰۰ + Furosemide ۴۰ (حد اکثر ۴۰۰/۱۶۰)؛ البومین ۶–۸ g/L برای LVP بیش از ۵ L | AASLD 2021؛ EASL 2018 | 🟡 (از دانش) |
@@ -219,7 +219,7 @@
 | Semaglutide ۲.۴ mg هفته‌وار برای MASH F2–F3 بدون سیروز (FDA اگست ۲۰۲۵) | NEJM Journal Watch | ✅ |
 | Resmetirom (FDA 2024) | — | 🟡 |
 
-## فصل ۳۱ — ALF و انسفالوپاتی کبدی
+## فصل ۳۳ — ALF و انسفالوپاتی کبدی
 | مورد | منبع | وضعیت |
 |---|---|---|
 | NAC ۱۵۰/۵۰/۱۰۰ mg/kg (۱/۴/۱۶ ساعت)؛ SNAP ۱۰۰/۲۰۰ mg/kg (۲/۱۰ ساعت)؛ ادامه ۶.۲۵ mg/kg/h؛ زغال ۵۰ g | AASLD؛ SNAP 2014 | 🟡 (از دانش) |
@@ -227,7 +227,7 @@
 | Mannitol ۰.۵–۱ g/kg؛ Na هدف ۱۴۵–۱۵۵؛ Hydrocortisone ۵۰ mg هر ۶ ساعت؛ Acyclovir ۱۰ mg/kg هر ۸ ساعت؛ Methylprednisolone ۶۰ mg؛ Silibinin ۲۰ mg/kg/روز؛ HVP ۸–۱۲ L × ۳ روز | EASL 2017؛ Larsen 2016 | 🟡 |
 | Lactulose ۲۵ ml هر ۱–۲ ساعت ← ۲–۳ اجابت؛ انیما ۳۰۰ ml در ۷۰۰ ml؛ PEG ۴ L؛ Rifaximin ۵۵۰ mg دو بار؛ LOLA؛ Thiamine | AASLD/EASL 2014؛ EASL 2022؛ Bass 2010؛ HELP | 🟡 |
 
-## فصل ۳۲ — هپاتیت‌های ویروسی (ممیزی علمی ۲۰۲۶-۰۹)
+## فصل ۳۱ — هپاتیت‌های ویروسی (ممیزی علمی ۲۰۲۶-۰۹)
 | مورد | منبع | وضعیت |
 |---|---|---|
 | معیارهای تداوی HBV: F2 (APRI بیش از ۰.۵ / TE بیش از ۷ kPa)، سیروز (APRI بیش از ۱ / TE بیش از ۱۲.۵)، DNA بیش از ۲۰۰۰ + ALT بلند (ULN ۳۰ مرد/۱۹ زن) | WHO 2024؛ Lancet GH 2024 | ✅ |
@@ -247,7 +247,7 @@
 | Engerix-B بزرگسال ۲۰ mcg/۱ mL IM، ۰/۱/۶ ماه؛ Havrix ۱۴۴۰ EL.U/۱ mL + تقویتی ۶–۱۲ ماه | CDC 2018؛ Havrix label | ✅ |
 | Paracetamol در هپاتیت حاد — **رقم حذف شد** («کمترین دوز مؤثر»)؛ ضد استفراغ — ارجاع به فصل مربوط | — | ⚪ بدون رقم (عمدی) |
 
-## فصل ۳۳ — IBD
+## فصل ۲۸ — IBD
 | مورد | منبع | وضعیت |
 |---|---|---|
 | 5-ASA مقعدی ۱ g/روز (Induction و نگهداری proctitis)؛ فمی ≥۲ g (Induction وسیع)، ≥۱.۵ g (نگهداری) | ACG 2025 UC | ✅ |
@@ -266,7 +266,7 @@
 | حاملگی: anti-TNF ادامه؛ MTX منع؛ JAK/S1P اجتناب؛ BCG تا ۶ ماه نه | Global Consensus 2025؛ CCF | ✅ |
 | غربالگری CRC ۸ سال، هر ۱–۳ سال؛ PSC سالانه | ACG 2019؛ SCENIC؛ ECCO e-guide | ✅ |
 
-### فصل ۳۳ — بستن موارد باز ممیزی (۲۰۲۶-۰۹-۲۵)
+### فصل ۲۸ — بستن موارد باز ممیزی (۲۰۲۶-۰۹-۲۵)
 
 | مورد | تصنیف تصحیح | منبع جدید | وضعیت |
 |---|---|---|---|
@@ -275,7 +275,7 @@
 | HSTCL با Anti-TNF + Thiopurine | Wording correction (مطابق متن برچسب؛ عدم قطعیت علیت) | FDA Infliximab label, Boxed warning | ✅ |
 | Anti-HCV/HIV و سیرولوژی پایه | Source upgrade + Scope expansion | ECCO Infections 2021 بیانیه‌های ۳.۱ و ۳.۷ | ✅ |
 
-## فصل ۳۴ — اسهال حاد، Rehydration، یبوست (currentness، ۲۰۲۶-۰۹-۲۵)
+## فصل ۲۹ — اسهال حاد، Rehydration، یبوست (currentness، ۲۰۲۶-۰۹-۲۵)
 
 | دوز / توصیه | منبع | وضعیت |
 |---|---|---|
@@ -296,7 +296,7 @@
 | Lubiprostone ۸ µg دو بار در عدم کفایهٔ متوسط/شدید کبد | AGA–ACG 2023 | ✅ |
 | Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride | AGA–ACG 2023 (جایگاه) | ⚪ دوز عمداً بدون رقم (بدهی) |
 
-## فصل ۳۵ — سوء جذب و IBS (currentness، ۲۰۲۶-۰۹-۲۵)
+## فصل ۳۰ — سوء جذب و IBS (currentness، ۲۰۲۶-۰۹-۲۵)
 
 | دوز / توصیه | منبع | وضعیت |
 |---|---|---|
@@ -312,7 +312,7 @@
 | Tegaserod — برداشته‌شده ۳۰ جون 2022 | Alfasigma notice | ✅ (currentness) |
 | Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics؛ آهن، فولات، ویتامین D، کلسیم؛ Tetracycline+فولات (Tropical sprue)؛ Rifaximin در SIBO | — | ⚪ عمداً بدون رقم (بدهی) |
 
-### فصل ۳۵ — تکمیل محدود (۲۰۲۶-۰۹-۲۵)
+### فصل ۳۰ — تکمیل محدود (۲۰۲۶-۰۹-۲۵)
 
 | مورد | تصنیف | منبع | وضعیت |
 |---|---|---|---|
@@ -426,70 +426,70 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (ESC/EAS 2019، تأیید با EAS commentary و Medscape 2026 update 2025): اهداف LDL ۵۵/۷۰/۱۰۰/۱۱۶ mg/dL و کاهش ۵۰ فیصد.
 - دوزهای Statin/Ezetimibe از فصل ۸ و ۱۳ (تکرار نشد).
 
-## فصل ۵۳ — رهیافت خون
+## فصل ۶۰ — رهیافت خون
 - دوز ندارد. VERIFIED: حدود WHO 2024 (۱۳۰/۱۲۰/۱۱۰/۱۰۵ g/L، شدت، تعدیل ارتفاع ۰/۴/۸/۱۱/۱۴ و سگرت ۳/۵/۶)؛ AABB 2023 (۷ g/dL؛ ۷.۵ جراحی قلب؛ ۸ ارتوپیدی/مرض قلبی).
 
-## فصل ۵۴ — فقر آهن و Megaloblastic
+## فصل ۶۱ — فقر آهن و Megaloblastic
 - VERIFIED (BSG 2021 متن اولیه در Gut): یک Tablet در روز Ferrous sulfate/fumarate/gluconate؛ در عدم تحمل یک روز در میان؛ Ferritin ۱۵/۳۰/۴۵/۱۵۰؛ Hb +۱۰ g/L در ۲ هفته؛ Coeliac ۳–۵ فیصد؛ وریدی در منع/عدم تأثیر/عدم تحمل.
 - VERIFIED (AGA 2020): Ferritin کمتر از ۴۵ (Sens ۸۵، Spec ۹۲)؛ Bidirectional endoscopy قوی در مرد و پس از یائسگی، مشروط پیش از یائسگی.
 - ثانوی (SD-47): Hydroxocobalamin ۱ mg IM سه بار در هفته ۲ هفته / یک روز در میان با علایم عصبی؛ نگهداری ۲–۳ ماه / ۲ ماه.
 
-## فصل ۵۵ — همولیتیک
+## فصل ۶۲ — همولیتیک
 - VERIFIED (WHO G6PD policy brief + WHO PQ SmPC MA176 2024): Primaquine ۰.۲۵–۰.۵ mg/kg ×۱۴ روز (بالغ ۵۰–۱۰۰ kg: ۱۵ mg)؛ ۰.۵ mg/kg ×۷ روز (WHO 2022)؛ کمبود: ۰.۷۵ mg/kg هفته‌وار ×۸ هفته (حد اکثر ۴۵ mg)؛ حد ۳۰ فیصد؛ زنان heterozygous؛ منع: حاملگی، کمتر از ۶ ماه، شیردهی.
 - VERIFIED (Jäger 2020 متن اولیه): Prednisolone ۱ mg/kg؛ بیشتر از ۱–۱.۵ فایده ندارد؛ کاهش از هفتهٔ ۲–۳؛ قطع ۳–۶ ماه؛ Rituximab خط دوم ترجیحی؛ خطر VTE.
 - ثانوی (SD-48): Rituximab ۳۷۵ mg/m² ×۴ یا ۱ g روز ۱ و ۱۵.
 
-## فصل ۵۶ — Aplastic، Leukaemia، تب در Neutropenia
+## فصل ۶۳ — Aplastic، Leukaemia، تب در Neutropenia
 - دوز نوشته نشد (عمداً؛ SD-49). VERIFIED: تعریف FN (IDSA 2010: ۳۸.۳ یا ۳۸.۰ برای ۱ ساعت؛ ANC کمتر از ۵۰۰ یا انتظار در ۴۸ ساعت)؛ Antibiotic در ۶۰ دقیقه (ASCO/IDSA 2018 از منابع مبتنی بر آن)؛ BSH 2024 AA: ۱۰۰/۵۰/۱.۵؛ SAA ۲۵ فیصد + ۰.۵/۲۰/۶۰؛ VSAA ۰.۲.
 
-## فصل ۵۷ — انعقاد و Platelet
+## فصل ۶۴ — انعقاد و Platelet
 - VERIFIED (ASH 2019 ITP متن اولیه): Steroid اگر کمتر از ۳۰ (مشروط)؛ نظارت اگر ۳۰ یا بیشتر (قوی)؛ Prednisone ۰.۵–۲.۰ mg/kg یا Dexamethasone ۴۰ mg ×۴ روز؛ مدت کل ۶ هفته یا کمتر (قوی)؛ مرور 2022 بدون تغییر.
 - VERIFIED (ASH 2018 HIT): 4Ts پایین → علیه قطع؛ متوسط → قطع (قوی) + غیر Heparin (مشروط)؛ بلند → قطع + غیر Heparin (قوی)؛ Warfarin پیش از بهبود نه؛ DOAC بر Warfarin.
 - ثانوی (SD-50): ISTH DIC Score؛ IVIG ۱ g/kg.
 
-## فصل ۵۸ — Lymphoma، Myeloma، MDS
+## فصل ۶۵ — Lymphoma، Myeloma، MDS
 - دوز نوشته نشد. VERIFIED: IMWG 2014 (۱۰ فیصد؛ Ca ۰.۲۵/۲.۷۵؛ CrCl کمتر از ۴۰ یا Cr بیشتر از ۱۷۷؛ SLiM ۶۰ فیصد، FLC ۱۰۰ با ۱۰۰ mg/L) از IMF و Medscape؛ iwCLL 2018 (۵ × ۱۰⁹/L برای ۳ ماه؛ اندیکاسیون‌ها؛ علایم مرض).
 
-## فصل ۵۹–۶۰ — تب و سپسیس
+## فصل ۶۶–۶۷ — تب و سپسیس
 - VERIFIED (SSC 2026 صفحهٔ SCCM/Springer): ۳۰ mL/kg کریستالوئید در ۳ ساعت؛ وزن واقعی/تعدیل‌شده در BMI بیشتر از ۳۰؛ MAP ۶۵ و ۶۰–۶۵ در ۶۵ سال یا بیشتر؛ ترتیب Norepinephrine → Vasopressin → Epinephrine.
 - VERIFIED (SSC 2021): Hydrocortisone ۲۰۰ mg/روز در NE ۰.۲۵ µg/kg/min یا بیشتر برای ۴ ساعت یا بیشتر؛ Hb ۷۰؛ قند ۱۸۰/۱۴۴–۱۸۰؛ Tidal ۶ mL/kg، Plateau ۳۰ یا کمتر.
 - UNVERIFIED (SD-52): دوز Hydrocortisone در 2026؛ دوز Norepinephrine؛ دوز Antibiotic FN.
 
-## فصل ۶۱ — ملاریا، Dengue، CCHF
+## فصل ۶۸ — ملاریا، Dengue، CCHF
 - ثانوی-همخوان (MSF + severemalaria.org + pocket manual WHO-based + NHS): Artesunate ۲.۴ mg/kg در ۰/۱۲/۲۴ ساعت بعد روزانه، ۳ mg/kg در کمتر از ۲۰ kg؛ AL ۴ تابلیت ۰/۸/۲۴/۳۶/۴۸/۶۰؛ Chloroquine ۲۵ mg/kg base (۶۰۰/۳۰۰/۳۰۰/۳۰۰)؛ Primaquine ۰.۲۵–۰.۵ mg/kg × ۱۴ روز (۱۵ mg)، ۰.۷۵ mg/kg هفته‌وار × ۸ در کمبود خفیف G6PD. منبع اولیه WHO → SD-53 (UNVERIFIED).
 - VERIFIED (WHO arboviral 2025 خلاصه): NSAID نه؛ Corticosteroid نه؛ Platelet پروفیلاکتیک نه در کمتر از ۵۰٬۰۰۰؛ CRT و Lactate.
 
-## فصل ۶۲ — Brucellosis، Typhoid
+## فصل ۶۹ — Brucellosis، Typhoid
 - هیچ دوز mg نوشته نشد (SD-54 UNVERIFIED). VERIFIED (CDC 2024): Fluoroquinolone تجربی نه؛ Azithromycin برای بدون عارضه و Carbapenem برای با عارضه در تماس پاکستان/عراق؛ Widal نه؛ عود ۱۰ فیصد، حامل ۱–۴ فیصد؛ مغز استخوان ۸۰ فیصد. CDC Yellow Book: تب ۳–۵ روز، ارزیابی پس از ۵ روز.
 
-## فصل ۶۳ — اسهال حاد، Cholera
+## فصل ۲۹ — اسهال حاد، Cholera
 - VERIFIED (GTFCC Field Manual §7 + Technical Note 2025): Doxycycline ۳۰۰ mg یک دوز (کاهل و حامله)، ۲–۴ mg/kg (کمتر از ۱۲ سال)؛ Azithromycin ۱ g / ۲۰ mg/kg؛ Ciprofloxacin ۱ g / ۲۰ mg/kg؛ استطباب‌ها؛ پلان B ۷۵ mL/kg در ۴ ساعت؛ پلان C مجموع ۱۰۰ mL/kg Ringer lactate، ارزیابی ۳/۶ ساعت، هر ۱۵–۳۰ دقیقه؛ Zinc ۲۰ mg × ۱۰ روز.
 - UNVERIFIED (SD-55): تقسیم ۳۰/۷۰ mL/kg؛ دوزهای دیزانتری و Amoebiasis نوشته نشد.
 
-## فصل ۶۴ — HIV
+## فصل ۷۰ — HIV
 - VERIFIED (WHO TB handbook §4.2): Dolutegravir ۵۰ mg دو بار در روز با Rifampicin. VERIFIED (WHO 2021/2025): ART در ۷ روز/همان روز؛ CrAg در CD4 کمتر از ۱۰۰ (قوی)، کمتر از ۲۰۰ (مشروط)؛ Fluconazole بدون CrAg در کمتر از ۱۰۰؛ AHD CD4 ۲۰۰ یا کمتر.
 - UNVERIFIED (SD-56): سایر دوزها نوشته نشد.
 
-## فصل ۶۵ — Tetanus، SSTI
+## فصل ۷۱ — Tetanus، SSTI
 - VERIFIED (CDPH quicksheet citing CDC/AAP Red Book): TIG تداوی ۵۰۰ IU عضلی یک دوز؛ TIG پروفیلاکسی ۲۵۰ U عضلی برای همه سنین، همزمان با واکسین؛ IVIG اگر TIG نیست.
 - UNVERIFIED (SD-57): فواصل ۵/۱۰ سال جدول (دانش استندرد CDC، مستقیم خوانده نشد)؛ سایر دوزها نوشته نشد.
 
-## فصل ۶۶ — رهیافت مفاصل
+## فصل ۷۲ — رهیافت مفاصل
 - دوز نوشته نشد.
 
-## فصل ۶۷ — RA
+## فصل ۷۳ — RA
 - ثانوی-همخوان (Rheumatology Advisor/Medscape/Healio خلاصهٔ EULAR و ACR): MTX حدود ۰.۳ mg/kg/هفته در ۴–۶ هفته (EULAR)؛ حد اقل ۱۵ mg/هفته در ۴–۶ هفته (ACR)؛ ارزیابی ۱–۳ ماه، تغییر در ۳/۶ ماه؛ GC Bridging قطع در ۳ ماه. منبع اولیه → SD-58 UNVERIFIED.
 
-## فصل ۶۸ — SLE
+## فصل ۷۴ — SLE
 - VERIFIED (EULAR 2023، ard.eular.org و الگوریتم): HCQ ۵ mg/kg وزن واقعی/روز، ابتدایی بلندتر تا ۴۰۰ mg/روز؛ Prednisone نگهداری ۵ mg/روز یا کمتر (از ۷.۵ در 2019)؛ Methylprednisolone ۲۵۰–۱۰۰۰ mg/روز × ۱–۳ روز بعد ۰.۳–۰.۵ mg/kg/روز؛ LN حد اقل ۳ سال.
 - UNVERIFIED (SD-59): سایر دوزها نوشته نشد.
 
-## فصل ۶۹ — نقرس، OA
+## فصل ۷۵ — نقرس، OA
 - VERIFIED (ACR 2020 خلاصه/متن جزئی): Allopurinol شروع ۱۰۰ mg یا کمتر، کمتر در CKD ۳ یا بالاتر؛ دوز اکثراً بیشتر از ۳۰۰؛ حد اعظمی FDA ۸۰۰؛ Colchicine ۱.۲ بعد ۰.۶ mg پس از ۱ ساعت؛ HLA-B*58:01 در جنوب شرق آسیا و African American؛ استطباب‌های قوی ULT.
 - ثانوی (Medscape): Colchicine در GFR کمتر از ۵۰ نصف، کمتر از ۱۰ نه؛ هدف یوریک ۶ و پروفیلاکسی ۳–۶ ماه (ACR 2020 از خلاصه‌ها).
 - UNVERIFIED (SD-60): Colchicine ۱ mg بعد ۰.۵ mg (EULAR)؛ سایر دوزها.
 
-## فصل ۷۰ — ارتریت سپتیک، SpA، Osteomyelitis
+## فصل ۷۶ — ارتریت سپتیک، SpA، Osteomyelitis
 - هیچ دوز mg نوشته نشد. VERIFIED (IDSA 2015 via Guideline Central): ۶ هفته برای NVO باکتریایی، ۳ ماه برای Brucella؛ نگه‌داشتن Antibiotic تجربی در مریض ثابت. VERIFIED (ASAS-EULAR 2022 خلاصه): NSAID تا دوز اعظمی؛ Steroid سیستمیک دراز مدت و csDMARD در Axial نه.
 
 ## فصل 71

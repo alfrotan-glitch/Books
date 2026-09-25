@@ -1,6 +1,6 @@
 # فصل ۵۱ — پاراتایروئید و استخوان: Hyperparathyroidism، Osteoporosis و Osteomalacia
 
-> **بخش ششم — اندوکراین** · *با Currentness audit (Fifth International Workshop PHPT 2022؛ NOGG 2022 با مرور 2024؛ برچسب‌های FDA Alendronate 2026 و Prolia 2026)*
+> **بخش هفتم — اندوکراین** · *با Currentness audit (Fifth International Workshop PHPT 2022؛ NOGG 2022 با مرور 2024؛ برچسب‌های FDA Alendronate 2026 و Prolia 2026)*
 
 ## شکستگی که «از افتادن ساده» بود
 
@@ -64,9 +64,9 @@ Osteoporosis در مسن‌ها شایع است، اما «Osteoporosis سن» �
 | گروه | مثال | چرا مهم است؟ |
 |---|---|---|
 | **اندوکراین** | **Primary hyperparathyroidism**، Hyperthyroidism یا تداوی بیش از حد Levothyroxine (فصل ۴۸–۴۹)، Cushing و Glucocorticoid خارجی (فصل ۵۰)، Hypogonadism | علت را تداوی کنی، استخوان هم بهتر می‌شود |
-| **کمبود** | کمبود Vitamin D و Calcium، سوء جذب (Coeliac — فصل ۳۵) | Osteomalacia شبیه Osteoporosis است، ولی تداوی آن فرق دارد |
+| **کمبود** | کمبود Vitamin D و Calcium، سوء جذب (Coeliac — فصل ۳۰) | Osteomalacia شبیه Osteoporosis است، ولی تداوی آن فرق دارد |
 | **دوایی** | Glucocorticoid، Anticonvulsantها، مهارکننده‌های Aromatase، تداوی محرومیت Androgen | دوا را بازنگری کن |
-| **خون و گرده** | Multiple myeloma (فصل ۵۸)، CKD (فصل ۳۹) | Myeloma را در مسن با کمردردی و Anaemia از دست نده |
+| **خون و گرده** | Multiple myeloma (فصل ۶۵)، CKD (فصل ۳۹) | Myeloma را در مسن با کمردردی و Anaemia از دست نده |
 
 **تست‌های پایه** (بر اساس مسیر بالا):
 - Calcium، Phosphate، Albumin؛

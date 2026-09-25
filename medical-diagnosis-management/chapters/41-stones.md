@@ -1,6 +1,6 @@
 # فصل ۴۱ — سنگ گرده و حالب (Renal and Ureteric Stones, Urolithiasis)
 
-> **بخش پنجم — گرده** · *با Currentness audit (NICE NG118 + EAU Urolithiasis 2025)*
+> **بخش ششم — گرده** · *با Currentness audit (NICE NG118 + EAU Urolithiasis 2025)*
 
 ## دو درد پهلو، دو سرنوشت
 

@@ -1,6 +1,6 @@
 # فصل ۴۹ — کم‌کاری تایروئید (Hypothyroidism) و Myxoedema coma
 
-> **بخش ششم — اندوکراین** · *با Currentness audit (ATA 2014؛ NICE NG145 2019؛ برچسب FDA)*
+> **بخش هفتم — اندوکراین** · *با Currentness audit (ATA 2014؛ NICE NG145 2019؛ برچسب FDA)*
 
 ## خستگی که «عادی» پنداشته شد
 
