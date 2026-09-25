@@ -469,3 +469,7 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 ## فصل ۶۴ — HIV
 - VERIFIED (WHO TB handbook §4.2): Dolutegravir ۵۰ mg دو بار در روز با Rifampicin. VERIFIED (WHO 2021/2025): ART در ۷ روز/همان روز؛ CrAg در CD4 کمتر از ۱۰۰ (قوی)، کمتر از ۲۰۰ (مشروط)؛ Fluconazole بدون CrAg در کمتر از ۱۰۰؛ AHD CD4 ۲۰۰ یا کمتر.
 - UNVERIFIED (SD-56): سایر دوزها نوشته نشد.
+
+## فصل ۶۵ — Tetanus، SSTI
+- VERIFIED (CDPH quicksheet citing CDC/AAP Red Book): TIG تداوی ۵۰۰ IU عضلی یک دوز؛ TIG پروفیلاکسی ۲۵۰ U عضلی برای همه سنین، همزمان با واکسین؛ IVIG اگر TIG نیست.
+- UNVERIFIED (SD-57): فواصل ۵/۱۰ سال جدول (دانش استندرد CDC، مستقیم خوانده نشد)؛ سایر دوزها نوشته نشد.

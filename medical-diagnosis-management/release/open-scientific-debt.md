@@ -66,6 +66,7 @@
 | SD-54 | ۶۲ | Brucellosis: متن Ioannina 2007/WHO 2006 خوانده نشد — دوز و مدت Doxycycline/Streptomycin/Gentamicin/Rifampicin، رژیم حاملگی، حد تیتر SAT نوشته نشد؛ Typhoid: دوز و مدت Azithromycin، Ceftriaxone، Meropenem از منبع اولیه تأیید نشد؛ پروتوکول ملی افغانستان مقایسه نشد | UNVERIFIED |
 | SD-55 | ۶۳ | جدول نشانه‌های Dehydration و جدول ۴ (تقسیم ۳۰/۷۰ mL/kg) GTFCC تصویری بود و خوانده نشد (از منابع ثانوی WHO)؛ Antibiotic دیزانتری (Shigella) و تداوی Amoebiasis از منبع اولیه تأیید نشد و نوشته نشد | UNVERIFIED |
 | SD-56 | ۶۴ | دوزهای Co-trimoxazole، Fluconazole (پیش‌گیرانه/پروفیلاکسی)، ترکیب mg TLD، تعدیل Tenofovir در CrCl پایین، زمان ART در مننژیت، رژیم PEP، منبع اولیهٔ U=U، ارقام HIV افغانستان؛ پروتوکول ملی مقایسه نشد | UNVERIFIED |
+| SD-57 | ۶۵ | Tetanus: دوز Metronidazole، Benzodiazepine و Magnesium از منبع ثانوی (Medscape) و نوشته نشد؛ جدول پروفیلاکسی زخم از CDPH quicksheet (جدول کامل CDC مستقیم خوانده نشد)؛ SSTI: متن IDSA 2014 خوانده نشد، دوزها و رژیم Necrotizing fasciitis نوشته نشد | UNVERIFIED |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt
