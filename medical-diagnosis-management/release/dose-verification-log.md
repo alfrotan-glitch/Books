@@ -503,3 +503,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 74
 - هیچ دوز mg نوشته نشد (فقط اصول) → SD-64.
+
+## فصل 75
+- VERIFIED: ESCMID 2016 مستقیم — Dexamethasone ۱۰ mg هر ۶ ساعت ۴ روز (اطفال ۰.۱۵ mg/kg اعظمی ۱۰)، تا ۴ ساعت پس از Antibiotic؛ وقایه: Ciprofloxacin ۵۰۰ mg یک دوز، Ceftriaxone ۲۵۰ mg IM، Rifampicin ۶۰۰ mg هر ۱۲ ساعت ۲ روز. NHS Highland مستقیم — Ceftriaxone ۲ g هر ۱۲ ساعت؛ Amoxicillin ۲ g هر ۴ ساعت؛ Aciclovir ۱۰ mg/kg هر ۸ ساعت؛ ۱۰ روز در مشکوک.
+
+## فصل 76
+- VERIFIED (EAN/PNS 2023 متن): IVIg ۰.۴ g/kg روزانه ۵ روز (در ۲ هفته، GPP تا ۴)؛ PE ۱۲–۱۵ L در ۴–۵ جلسه؛ Steroid نه؛ دوز دوم IVIg نه. MG: جدول دواها از Consensus 2016 (AANEM).

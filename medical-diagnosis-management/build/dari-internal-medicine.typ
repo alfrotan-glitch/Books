@@ -20901,3 +20901,285 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
 2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
 3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
+= فصل ۷۵ — مننژیت و انسفالیت
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش دهم — نورولوژی** · *Currentness audit: **ESCMID 2016 acute bacterial meningitis guideline** (van de Beek D et al., Clin Microbiol Infect 2016) — بخش Dexamethasone و وقایه مستقیم خوانده شد؛ رژیم‌های Antibiotic کاهلان از **NHS Highland Antimicrobial Guidance** (به‌روز ۲۰۲۶) مستقیم؛ Dexamethasone در TB meningitis از خلاصهٔ **Neurocritical Care Society** (Cerebral oedema guideline). مدت Aciclovir، رژیم TB meningitis، و Cryptococcus → SD-65.*
+]
+== «فقط تب و سردردی است»
+**ساعت ۴ صبح**، **وحیدالله** ۱۹ ساله، محصل لیلیه، با تب ۳۹.۸، سردردی شدید و استفراغ آمد. از دیشب شروع شده. کمی گیچ است و نور چشمش را اذیت می‌کند. روی ساقش **چند لکهٔ کوچک ارغوانی** است که با فشار **رنگ نمی‌بازد**.
+داکتر شب می‌خواهد «اول CT و LP کنیم، بعد Antibiotic». **این تأخیر ممکن است او را بکشد.** مننژیت باکتریایی از مرض‌هایی است که **ساعت‌ها** تعیین‌کننده‌اند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. سه سؤال اول
+1. **آیا مننژیت است؟** سردردی، تب، سفتی گردن، تغییر شعور، ترس از نور. این «سه‌گانهٔ کلاسیک» اکثراً کامل نیست؛ **فقدان یکی مننژیت را رد نمی‌کند**.
+- **Kernig و Brudzinski** حساسیت کم دارند؛ **منفی بودن آن‌ها چیزی را رد نمی‌کند**.
+2. **آیا انسفالیت است؟** یعنی خود **مغز** درگیر است: **تغییر شخصیت و رفتار، گیچی، تشنج، علایم موضعی**، با تب. اکثراً ویروسی، به ویژه **HSV**.
+3. **حاد یا مزمن؟**
+- **ساعت‌ها تا یک دو روز:** باکتریایی (یا ویروسی).
+- **روزها تا هفته‌ها** (تب خفیف، کاهش وزن، سردردی تدریجی، فلج اعصاب قحفی): **TB meningitis**؛ در HIV، **Cryptococcus** (فصل ۶۴)؛ Brucella (فصل ۶۲).
+**در افغانستان، TB meningitis را همیشه به یاد داشته باش** (فصل ۱۹).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. ترتیب کار در مننژیت باکتریایی مشکوک — هر دقیقه مهم است
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*قدم*], [*کار*],
+    [۱], [ABC؛ **کلچر خون** (پیش از Antibiotic، اما بدون تأخیر)],
+    [۲], [**آیا CT پیش از LP لازم است؟** فقط در: تغییر شدید شعور، علایم عصبی موضعی، تشنج تازه، Papilloedema، یا Immunosuppression شدید],
+    [۳a], [**CT لازم نیست → LP فوری، سپس Antibiotic**],
+    [۳b], [**CT لازم است → اول Dexamethasone و Antibiotic، بعد CT، بعد LP**],
+    [۴], [**Antibiotic را به خاطر LP یا CT هرگز به تأخیر نینداز.**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**بثورات ارغوانی که رنگ نمی‌بازد (Petechiae / Purpura)** با تب → **Meningococcaemia** → **Antibiotic همین حالا**، حتی پیش از کلچر خون اگر کلچر تأخیر می‌سازد.
+=== Antibiotic تجربی در کاهلان (NHS Highland)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*گروه*], [*رژیم*],
+    [**کمتر از ۶۰ سال، شک به Listeria نیست**], [**Ceftriaxone ۲ g وریدی هر ۱۲ ساعت**],
+    [**۶۰ سال یا بیشتر، یا ضعف معافیت** (الکهول، حاملگی، مرض کبدی، دیابت) → برای **Listeria**], [**Ceftriaxone ۲ g هر ۱۲ ساعت + Amoxicillin (یا Ampicillin) ۲ g وریدی هر ۴ ساعت**],
+    [**شک به انسفالیت HSV یا VZV**], [**اضافه کن: Aciclovir ۱۰ mg/kg وریدی هر ۸ ساعت** (دوز را در عدم کفایهٔ گرده کم کن)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **Pneumococcus مقاوم به Cephalosporin:** در مناطقی که شایع است، **Vancomycin** اضافه می‌شود. معلومات مقاومت محلی افغانستان کم است → SD-65.
+- **مدت:** در موارد مشکوک که تأیید نشده، ۱۰ روز Ceftriaxone (NHS Highland). مدت برای هر میکروب → SD-65.
+=== Dexamethasone (ESCMID 2016)
+- **کاهلان: ۱۰ mg وریدی هر ۶ ساعت برای ۴ روز.** اطفال: ۰.۱۵ mg/kg هر ۶ ساعت (اعظمی ۱۰ mg) برای ۴ روز.
+- **همراه یا پیش از اولین دوز Antibiotic.** اگر Antibiotic قبلاً شروع شده، هنوز **تا ۴ ساعت** پس از آن (ESCMID).
+- **قطع کن** اگر مننژیت باکتریایی نیست، یا میکروب غیر از **Pneumococcus** یا **H. influenzae** است (ESCMID؛ بعضی متخصصین ادامه را ترجیح می‌دهند).
+- **فایده:** کاهش مرگ (در Pneumococcus) و **کاهش کری**.
+- *(ESCMID این را برای کشورهای با درآمد بلند توصیه می‌کند؛ شواهد در کشورهای با درآمد کم کمتر روشن است → SD-65.)*
+- **در نوزادان نه.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. LP — تفسیر
+#figure(
+  table(columns: (auto, auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [**], [*باکتریایی*], [*ویروسی*], [*TB / فنگسی*],
+    [ظاهر], [کدر], [صاف], [صاف یا کمی کدر؛ «تار عنکبوت» در TB],
+    [حجرات], [**صدها تا هزاران، Neutrophil**], [ده‌ها تا صدها، **Lymphocyte**], [ده‌ها تا صدها، **Lymphocyte**],
+    [Protein], [**بلند**], [عادی یا کمی بلند], [**بسیار بلند**],
+    [Glucose (نسبت به خون)], [**بسیار کم**], [عادی], [**کم**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**دام‌ها:**
+- **Antibiotic قبلی** (در افغانستان بسیار شایع است) LP باکتریایی را «ویروسی‌نما» می‌سازد و کلچر را منفی می‌کند.
+- **TB meningitis اوایل** ممکن است Neutrophil غالب داشته باشد.
+- **Glucose خون را همزمان بگیر.**
+**تست‌ها:** Gram stain، کلچر، **PCR** (HSV، Enterovirus، باکتری‌ها)، **GeneXpert** مایع (TB)، **Cryptococcal antigen** (در HIV؛ فصل ۶۴).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. انسفالیت HSV — «Aciclovir را زود شروع کن»
+- تب + **تغییر رفتار، گیچی، تشنج، اختلال گپ زدن یا حافظه**.
+- **MRI:** درگیری لوب **Temporal**؛ **EEG**؛ **PCR HSV** در مایع.
+- **Aciclovir ۱۰ mg/kg وریدی هر ۸ ساعت** را **به محض شک** شروع کن، بدون انتظار نتیجه. **مدت کامل → SD-65.**
+- **Aciclovir و گرده:** آب کافی بده؛ دوز را با کارکرد گرده تنظیم کن (فصل ۴۳).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۵. TB meningitis
+- تدریجی (هفته‌ها)؛ **فلج اعصاب قحفی** (به ویژه VI)؛ **Hydrocephalus**؛ **سکتهٔ مغزی** (Vasculitis).
+- **یک LP منفی رد نمی‌کند**؛ مایع کافی برای GeneXpert بفرست و تکرار کن.
+- **تداوی را بر اساس شک بالینی شروع کن**؛ منتظر کلچر نمان.
+- **Glucocorticoid مرگ را کم می‌سازد** (Neurocritical Care Society: توصیهٔ قوی)؛ نوع و دوز معین نیست.
+- **رژیم و مدت ضد سل** → فصل ۱۹ و SD-65.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۶. وقایه — Meningococcus (ESCMID 2016)
+**تماس‌های نزدیک** (هم‌خانه، هم‌اتاق لیلیه) Chemoprophylaxis می‌گیرند:
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*دوز کاهل*], [*ملاحظه*],
+    [**Ciprofloxacin**], [**۵۰۰ mg فمی، یک دوز**], [در حاملگی نه],
+    [**Ceftriaxone**], [**۲۵۰ mg عضلی، یک دوز**], [انتخاب اول در حاملگی],
+    [**Rifampicin**], [**۶۰۰ mg فمی هر ۱۲ ساعت برای ۲ روز**], [در حاملگی فقط پس از سه ماه اول؛ ادرار سرخ؛ تداخل با مانع حاملگی],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**اطلاع به صحت عامه** (مرض قابل گزارش).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به وحیدالله
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*ساعت*], [*اقدام*],
+    [۴:۰۰], [تب، گیچی، **Purpura** → **Meningococcaemia مشکوک**],
+    [۴:۰۵], [کلچر خون؛ **Dexamethasone ۱۰ mg + Ceftriaxone ۲ g وریدی**],
+    [۴:۱۰], [مایع؛ نظارت فشار (خطر Septic shock — فصل ۶۰)],
+    [۵:۳۰], [CT لازم نبود (گیچی خفیف، بدون علایم موضعی) → **LP:** کدر، ۲۲۰۰ حجره (۹۰٪ Neutrophil)، Glucose بسیار کم],
+    [۲۴ ساعت], [کلچر: *N. meningitidis* → Dexamethasone **قطع شد** (ESCMID)],
+    [], [**هم‌اتاقی‌ها:** Ciprofloxacin ۵۰۰ mg یک دوز؛ اطلاع به صحت عامه],
+  ),
+  caption: none,
+)
+#v(0.4em)
+وحیدالله بدون کری از شفاخانه رفت. **تصمیم ساعت ۴:۰۵** او را نجات داد، نه LP.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **شک به مننژیت باکتریایی → Antibiotic و Dexamethasone در دقیقه‌ها؛ LP و CT منتظر می‌مانند، Antibiotic نه.**
+2. **تب + Purpura که رنگ نمی‌بازد = Meningococcaemia → همین حالا.**
+3. **بالای ۶۰ یا ضعف معافیت → Amoxicillin/Ampicillin برای Listeria.**
+4. **تب + تغییر رفتار = انسفالیت HSV → Aciclovir فوراً.**
+5. **مننژیت تدریجی در افغانستان = TB تا رد شود؛ Steroid مرگ را کم می‌کند.**
+6. **تماس‌های نزدیک Meningococcus → وقایه.**
+== ⚠️ Red Flags
+- تب با Purpura.
+- تب با تغییر شعور یا رفتار.
+- تشنج یا علایم موضعی با تب.
+- فلج اعصاب قحفی با سردردی مزمن.
+- شوک در مریض مننژیت.
+== ⏱️ مرور ۶۰ ثانیه
+1. چه وقت CT پیش از LP؟ ← تغییر شدید شعور، علایم موضعی، تشنج، Papilloedema، Immunosuppression — و Antibiotic را پیش از CT بده.
+2. دوز Dexamethasone کاهل؟ ← ۱۰ mg هر ۶ ساعت، ۴ روز، همراه اولین Antibiotic.
+3. Listeria را کی بپوشان؟ ← ۶۰ سال یا بیشتر، ضعف معافیت، حاملگی.
+4. LP TB؟ ← Lymphocyte، Protein بسیار بلند، Glucose کم.
+5. وقایهٔ تماس حامله؟ ← Ceftriaxone ۲۵۰ mg عضلی.
+== 📚 References
+1. van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. *Clin Microbiol Infect.* 2016;22(Suppl 3):S37–S62.
+2. NHS Highland. Treatment of bacterial meningitis following admission to secondary care (Antimicrobial guidance). Right Decisions; 2026.
+3. Cook AM, Morgan Jones G, Hawryluk GWJ, et al. Guidelines for the acute treatment of cerebral edema in neurocritical care patients. *Neurocrit Care.* 2020;32:647–666.
+= فصل ۷۶ — ضعف حاد: Guillain-Barré و Myasthenia gravis
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش دهم — نورولوژی** · *Currentness audit: **EAN/PNS 2023 GBS guideline** (van Doorn PA et al., Eur J Neurol 2023) — خلاصه و بخش تداوی مستقیم خوانده شد؛ **International Consensus Guidance for MG** (Sanders DB et al., Neurology 2016؛ Narayanaswami P et al., 2020 update) — جدول دواهای خطرناک از متن AANEM و خلاصهٔ تداوی خوانده شد. دوزهای Pyridostigmine و Steroid، و معیارهای عددی Intubation → SD-66.*
+]
+== «پاهایم مثل چوب شده»
+**محمد ظاهر** ۳۴ ساله، ده روز پیش **اسهال** داشت. سه روز است که **پاهایش ضعیف شده**؛ امروز بدون کمک از زینه بالا شده نمی‌تواند. نوک انگشتانش «مورمور» می‌کند. **Reflex زانو و بجلک ندارد.**
+در همین ماه، **زرغونه** ۲۹ ساله آمد: **پلک‌هایش شام‌ها پایین می‌افتد**، **دوبینی** دارد، و در آخر نان خوردن **جویدن برایش سخت** می‌شود. صبح‌ها بهتر است.
+هر دو «ضعف» دارند؛ اما **جای ضایعه** و **خطر** فرق دارد. هر دو می‌توانند **در چند ساعت تنفس را متوقف کنند**.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. ضعف حاد: جای ضایعه کجاست؟ (فصل ۷۱)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*جای ضایعه*], [*سرنخ*],
+    [**مغز / نخاع (UMN)**], [Reflex بلند (در حاد ممکن است کم باشد)، Babinski، **سطح حسی** و ادرار (نخاع → MRI عاجل)],
+    [**عصب محیطی (GBS)**], [ضعف صعودی، **Reflex از بین رفته**، علایم حسی خفیف],
+    [**اتصال عصب–عضله (MG، Botulism، Organophosphate)**], [**خستگی‌پذیری**، چشم و بلع، **حس سالم**، Reflex عادی],
+    [**عضله**], [ضعف قریب، حس و Reflex عادی؛ CK],
+    [**متابولیک**], [**Hypokalaemia** (فصل ۴۴)، Hypophosphataemia],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**افغانستان:**
+- **فلج شل حاد (AFP) در کمتر از ۱۵ سال** → **Polio** را در نظر بگیر و **به نظام نظارت AFP گزارش بده** (افغانستان از آخرین کشورهای دارای Polio وحشی است). *(جزئیات گزارش → SD-66.)*
+- **Organophosphate** (فصل ۷۹)، **مار گزیدگی**، و **Botulism** (غذای کنسروی خانگی؛ شروع از چشم و بلع، نزولی).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. Guillain-Barré syndrome (GBS)
+- **پس از انتان** (اسهال — *Campylobacter* — یا انتان تنفسی) در ۱–۶ هفته.
+- **ضعف صعودی متقارن**، **Areflexia**، مورمور، و **درد کمر یا پا** (شایع و گمراه‌کننده).
+- **خطرها:**
+- **عدم کفایهٔ تنفسی** (EAN/PNS: خطر را با **mEGRIS** تخمین بزن).
+- **اختلال Autonomic:** Arrhythmia، نوسان شدید فشار، و احتباس ادرار.
+- **تشخیص:** بالینی، با:
+- **LP:** **Protein بلند با حجرات عادی** (Albuminocytologic dissociation). **در هفتهٔ اول ممکن است عادی باشد.**
+- **مطالعات عصبی (Nerve conduction).**
+- **حجرات بلند در LP** (بیشتر از ۵۰) → به تشخیص دیگر فکر کن (HIV، Lyme، Lymphoma، Polio).
+=== نظارت — مهم‌ترین کار
+- **Vital capacity** (یا شمارش تنفس با یک نفس)، قدرت گردن، سرفه و بلع — **چند بار در روز**.
+- **نشانه‌های خطر:** ضعف گردن، ضعف صورت یا بلع، پیشرفت سریع، ناتوانی از بلند کردن سر → **ICU**. *(حد عددی VC → SD-66.)*
+- **SpO₂ دیر پایین می‌آید.** منتظر آن نمان.
+=== تداوی (EAN/PNS 2023)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [**], [**],
+    [**چه کسی؟**], [مریضی که **بدون کمک راه رفته نمی‌تواند**],
+    [**IVIg**], [**۰.۴ g/kg روزانه برای ۵ روز** (مجموع ۲ g/kg)، در **۲ هفتهٔ اول** (و تا ۴ هفته — Good practice)],
+    [**یا Plasma exchange**], [**۱۲–۱۵ لیتر در ۴–۵ جلسه در ۱–۲ هفته**، در **۴ هفتهٔ اول**],
+    [**نه**], [**Corticosteroid فمی (قویاً نه)**، Methylprednisolone وریدی (نه)؛ **دوز دوم IVIg** (نه)؛ PE و بلافاصله IVIg (نه)],
+    [**درد**], [Gabapentinoid، Tricyclic، یا Carbamazepine],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**IVIg در افغانستان** گران و کمیاب است. Plasma exchange هم فقط در چند مرکز است. **مراقبت حمایوی خوب** (نظارت تنفس، جلوگیری از DVT، مراقبت از زخم فشاری، فزیوتراپی) نجات‌دهنده است، حتی بدون IVIg.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. Myasthenia gravis (MG)
+- **Antibody** ضد Acetylcholine receptor (یا MuSK).
+- **خستگی‌پذیری:** ضعف با استفاده بدتر، با استراحت بهتر؛ **شام‌ها بدتر**.
+- **چشم:** افتادن پلک (Ptosis)، دوبینی — اکثراً اولین علامه.
+- **Bulbar:** اختلال جویدن، بلع و گپ زدن؛ **ضعف گردن**.
+- **حس و Reflex عادی.**
+- **تشخیص:** Antibody (AChR، MuSK)؛ EMG؛ **CT صدر برای Thymoma**.
+=== تداوی (International Consensus Guidance)
+- **Pyridostigmine** برای علایم، در اکثر مریضان در شروع. *(دوز → SD-66.)*
+- **Corticosteroid** وقتی Pyridostigmine کافی نیست. **⚠️ شروع Steroid با دوز بلند ممکن است ضعف را موقتاً بدتر کند.** *(دوز و برنامه → SD-66.)*
+- **Immunosuppressant غیر Steroid** (Azathioprine، Mycophenolate، …) برای کم کردن Steroid.
+- **Thymectomy** در Thymoma، و در بعضی مریضان جوان با AChR مثبت.
+=== ⚠️ دواهایی که MG را بدتر می‌کنند (Consensus Guidance)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*ملاحظه*],
+    [**Aminoglycoside** (Gentamicin)], [با احتیاط، اگر بدیل نیست],
+    [**Fluoroquinolone** (Ciprofloxacin، Levofloxacin)], [FDA هشدار «Black box» دارد؛ اگر ممکن است، نه],
+    [**Macrolide** (Azithromycin)], [ممکن است بدتر کند],
+    [**Beta-blocker**], [ممکن است بدتر کند],
+    [**Magnesium وریدی**], [**خطرناک** (مثلاً در Eclampsia یا Hypomagnesaemia)؛ فقط اگر مطلقاً ضروری، با نظارت],
+    [**Botulinum toxin**], [نه],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**Compound:** زن حامله با MG و **Eclampsia** — Magnesium خطرناک است (فصل ۸۴). **پیش از هر نسخه در مریض MG، این جدول را ببین.**
+=== بحران Myasthenic
+- ضعف تنفسی یا بلع شدید؛ اکثراً با **انتان** یا **دوای بد**.
+- **ICU**؛ نظارت VC؛ **IVIg یا Plasma exchange** (در MG شدید به یک اندازه مؤثرند؛ در **MuSK** PE بهتر)؛ **همزمان Steroid یا Immunosuppressant** را شروع کن.
+- **Pyridostigmine** را در مریض Intubate شده قطع می‌کنند (ترشحات را زیاد می‌کند).
+- **بحران Cholinergic** (دوز زیاد Pyridostigmine) امروز نادر است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به دو مریض
+1. **محمد ظاهر — GBS:**
+- پس از اسهال، ضعف صعودی، Areflexia.
+- **LP روز ۴: عادی** (زود بود). مطالعهٔ عصبی Demyelinating.
+- **شب دوم نمی‌توانست سر خود را از بالشت بلند کند و با یک نفس فقط تا ۱۰ شمرده می‌توانست** → ICU. Intubation لازم نشد.
+- IVIg نبود → **Plasma exchange** در کابل. پس از سه ماه با عصا راه می‌رفت.
+2. **زرغونه — MG:** AChR مثبت؛ CT صدر: Thymoma → Pyridostigmine، Steroid، و Thymectomy.
+- **ماه بعد**، به خاطر التهاب مثانه، **Ciprofloxacin** برایش نوشته شد و بلع او بدتر شد → دوا با Antibiotic مصئون عوض شد. **در کارتش «MG — Fluoroquinolone، Aminoglycoside، Magnesium نه» نوشته شد.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **ضعف حاد: جای ضایعه را پیدا کن (UMN، عصب، اتصال، عضله، متابولیک).**
+2. **فلج شل حاد در طفل → Polio را گزارش بده.**
+3. **GBS: تنفس را اندازه کن، منتظر SpO₂ نمان.**
+4. **GBS: IVIg (۰.۴ g/kg × ۵ روز) یا PE؛ Steroid نه.**
+5. **MG: قبل از هر نسخه، جدول دواهای خطرناک را ببین.**
+6. **LP عادی در هفتهٔ اول GBS را رد نمی‌کند.**
+== ⚠️ Red Flags
+- ضعف گردن، صورت یا بلع در ضعف حاد.
+- پیشرفت سریع ضعف در ساعت‌ها.
+- سطح حسی یا اختلال ادرار (فشار بر نخاع).
+- Arrhythmia یا نوسان فشار در GBS.
+- فلج شل حاد در طفل.
+== ⏱️ مرور ۶۰ ثانیه
+1. GBS در LP؟ ← Protein بلند، حجرات عادی؛ در هفتهٔ اول ممکن است عادی.
+2. دوز IVIg در GBS؟ ← ۰.۴ g/kg روزانه، ۵ روز.
+3. Steroid در GBS؟ ← نه.
+4. سه دوای خطرناک در MG؟ ← Aminoglycoside، Fluoroquinolone، Magnesium وریدی (و Macrolide، Beta-blocker).
+5. MG از GBS چطور؟ ← خستگی‌پذیری، چشم و بلع، حس و Reflex سالم.
+== 📚 References
+1. van Doorn PA, Van den Bergh PYK, Hadden RDM, et al. European Academy of Neurology/Peripheral Nerve Society guideline on diagnosis and treatment of Guillain–Barré syndrome. *Eur J Neurol.* 2023;30:3646–3674.
+2. Sanders DB, Wolfe GI, Benatar M, et al. International consensus guidance for management of myasthenia gravis. *Neurology.* 2016;87:419–425.
+3. Narayanaswami P, Sanders DB, Wolfe G, et al. International consensus guidance for management of myasthenia gravis: 2020 update. *Neurology.* 2021;96:114–122.

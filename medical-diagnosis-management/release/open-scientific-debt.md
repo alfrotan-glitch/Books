@@ -75,6 +75,8 @@
 | SD-62 | 72 | متن اصلی AHA/ASA 2026 AIS خوانده نشد (خلاصه‌ها)؛ فهرست منع‌های Thrombolysis؛ AHA 2021 پیش‌گیری ثانوی (DAPT Loading/مدت، زمان ضد انعقاد پس از سکته)؛ AHA 2022 ICH (هدف فشار، Aspirin/Heparin) خوانده نشد | UNVERIFIED |
 | SD-63 | 73 | Status/صرع: دوز کاهل Phenobarbital؛ معیار شروع دوا پس از اولین تشنج؛ دوزهای نگهداری دواهای ضد صرع؛ جزئیات EMA/MHRA Valproate؛ دوز Folic acid؛ قوانین موتر راندن | UNVERIFIED |
 | SD-64 | 74 | سردردی: هیچ منبعی مستقیم خوانده نشد — AHA/ASA 2023 aSAH (حد ۶ ساعت CT، Nimodipine)، Ottawa SAH rule، ACR 2021 GCA (دوز Steroid، Tocilizumab)، AHS 2021 (دوز Triptan/NSAID، پیش‌گیری)، معیار MOH، Estrogen در میگرن با Aura | UNVERIFIED |
+| SD-65 | 75 | مننژیت: مدت Aciclovir در HSV؛ رژیم و مدت TB meningitis و نوع/دوز Steroid؛ مدت Antibiotic برای هر میکروب؛ مقاومت Pneumococcus در افغانستان (Vancomycin)؛ Dexamethasone در کشورهای کم‌درآمد؛ Cryptococcus | UNVERIFIED |
+| SD-66 | 76 | GBS/MG: دوز Pyridostigmine و Steroid در MG؛ حد عددی VC برای Intubation؛ جزئیات گزارش AFP در افغانستان | UNVERIFIED |
 
 ## B. Terminology debt
 
