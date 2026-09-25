@@ -16,7 +16,7 @@
 
 💡 **دو قاعدهٔ طلایی:** «**بدون اسید، قرحه نیست**» (Schwarz 1910) و «**بدون H. pylori و NSAID، قرحه بسیار نادر است**».
 
-> 🔗 **اتصال به گذشته:** در فصل ۲۴ **درد شرسوفی** و **ALARM** را دیدی؛ در فصل ۲۵ **قرحهٔ خونریزی‌دهنده**، **Forrest** و **PPI IV**؛ در فصل ۸ **Aspirin و DAPT** (خطر GI)؛ و در فصل ۲۳ **GERD به حیث علت سرفهٔ مزمن**.
+> در فصل ۲۴ **درد شرسوفی** و **ALARM** را دیدی؛ در فصل ۲۵ **قرحهٔ خونریزی‌دهنده**، **Forrest** و **PPI IV**؛ در فصل ۸ **Aspirin و DAPT** (خطر GI)؛ و در فصل ۲۳ **GERD به حیث علت سرفهٔ مزمن**.
 
 ---
 
@@ -25,7 +25,7 @@
 ## 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `قرحه = (H. pylori یا NSAID/Aspirin) + اسید ← تداوی = ریشه‌کنی H. pylori + قطع NSAID + PPI ۴–۸ هفته ← تأیید ریشه‌کنی`
 
-> 💡 **Memory Jogger:** «**Test and treat** — هر قرحه را برای H. pylori تست کن، هر مثبت را تداوی کن، و ریشه‌کنی را **تأیید** کن.»
+> 💡 «**Test and treat** — هر قرحه را برای H. pylori تست کن، هر مثبت را تداوی کن، و ریشه‌کنی را **تأیید** کن.»
 
 ## 🔹 ۲. Definition & Classification
 - **قرحه (Ulcer):** شکست مخاط **≥ ۵ mm** که تا **Muscularis mucosae** یا عمیق‌تر می‌رسد؛ **اروزیون** سطحی‌تر است.
@@ -157,7 +157,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 
 ---
 
-## 💡 Memory Joggers
+## نکته‌های ماندگار
 - 💡 «**۱۴ روز، ۴ دوا، Bismuth.**»
 - 💡 «**Clarithromycin بدون تست حساسیت = نه.**»
 - 💡 «**PPI ۲ هفته، انتی‌بیوتیک ۴ هفته پیش از تست.**»
@@ -260,7 +260,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - **Barrett بدون دیسپلازی:** اندوسکوپی هر **۳–۵ سال** (مطابق طول)؛ **Low-grade dysplasia** ← **Endoscopic eradication (RFA)** یا پیگیری ۱۲ ماهه؛ **High-grade dysplasia** ← **Endoscopic resection + ablation** (ACG 2022).
 - **LA C/D:** اندوسکوپی دوباره پس از ۸ هفته PPI برای تأیید بهبود و رد Barrett.
 
-## 💡 Memory Joggers
+## نکته‌های ماندگار
 - 💡 «**PPI پیش از صبحانه، نه پس از آن.**»
 - 💡 «**کاهش وزن + سر بستر بلند + ۳ ساعت پیش از خواب نخور.**»
 - 💡 «**دیسفاژی در GERD = اندوسکوپی.**»
@@ -284,14 +284,14 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
 - *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole پیشگیرانه با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 
-## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
+## کنار بستر
 1. هر سوء هاضمه: **ALARM + سن + NSAID** را بپرس.
 2. هر تست H. pylori: **PPI ۲ هفته قطع** — و **نه سیرولوژی**.
 3. هر ریشه‌کنی: **۱۴ روز Bismuth quadruple** + **تأیید پس از ۴ هفته**.
 4. هر قرحهٔ معده: **بیوپسی + اندوسکوپی دوباره**.
 5. هر نسخهٔ PPI: **اندیکاسیون و مدت** را بنویس.
 
-## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
+## فصل‌های مرتبط دیگر
 - **فصل ۸ (Aspirin/DAPT)**، **فصل ۱۹ (Levofloxacin و Rifabutin در سل)**، **فصل ۲۳ (GERD و سرفه)**، **فصل ۲۴ (درد شرسوفی، ALARM)**، **فصل ۲۵ (قرحهٔ خونریزی‌دهنده)**.
 - **فصل‌های بعدی:** ۲۷ (بطن حاد — انثقاب)، ۳۴ (کولیک صفراوی)، ۳۵ (پانکراتیت)، ۳۰ (IBS)، و ۶۱ (کمبود B12 و آهن).
 

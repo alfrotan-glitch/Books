@@ -18,7 +18,7 @@
 
 💡 **دو «مرحلهٔ» سیروز:** **جبران‌شده (Compensated)** — مریض خوب به نظر می‌رسد؛ **جبران‌نشده (Decompensated)** — **آسیت، خونریزی واریسی، انسفالوپاتی، یا یرقان** ← پروگنوز ناگهان بدتر می‌شود.
 
-> 🔗 **اتصال به گذشته:** در فصل ۲۴ **آثار مرض مزمن کبد** را معاینه کردی (Spider naevi، Palmar erythema، Caput medusae، **Shifting dullness**)؛ در فصل ۴ **LFT**؛ در فصل ۲۵ **خونریزی واریسی** (Terlipressin، Ceftriaxone، EBL، TIPS)؛ و در فصل ۲۰ **Hepatic hydrothorax**.
+> در فصل ۲۴ **آثار مرض مزمن کبد** را معاینه کردی (Spider naevi، Palmar erythema، Caput medusae، **Shifting dullness**)؛ در فصل ۴ **LFT**؛ در فصل ۲۵ **خونریزی واریسی** (Terlipressin، Ceftriaxone، EBL، TIPS)؛ و در فصل ۲۰ **Hepatic hydrothorax**.
 
 ## 🔹 ۱. Core Concept (مفهوم بنیادی)
 
@@ -26,7 +26,7 @@
 
 ⚗️ **فرمول تداوی:** `(۱) علت را تداوی کن + (۲) اختلاطات را پیشگیری و تداوی کن + (۳) HCC را هر ۶ ماه غربال کن + (۴) پیوند را به موقع ارجاع کن`
 
-> 💡 **Memory Jogger:** «**علت، اختلاطات، غربالگری، پیوند.**»
+> 💡 «**علت، اختلاطات، غربالگری، پیوند.**»
 
 ## 🔹 ۲. Definition & Classification (تعریف و تصنیف)
 **سیروز** = مرحلهٔ آخر فیبروز منتشر کبد با **تشکیل ندول‌های بازسازی (Regenerative nodules)** و **تخریب ساختمان عروقی**.
@@ -237,7 +237,7 @@
 
 ---
 
-## 💡 Memory Joggers
+## نکته‌های ماندگار
 - 💡 «**علت + اختلاطات + HCC هر ۶ ماه + پیوند.**»
 - 💡 «**۱۰۰:۴۰** — Spironolactone : Furosemide (حد اکثر ۴۰۰:۱۶۰).»
 - 💡 «**بیش از ۵ لیتر کشیدی ← ۸ g البومین برای هر لیتر.**»
@@ -273,14 +273,14 @@
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
 - *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرامپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 
-## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
+## کنار بستر
 1. هر مریض سیروزی: **Child-Pugh و MELD** را در دوسیه بنویس.
 2. هر آسیت در بستری: **پاراسنتز تشخیصی (PMN + کلچر در بوتل خون)** در روز اول.
 3. هر پاراسنتز بیش از ۵ لیتر: **البومین ۸ g/L**.
 4. هر سیروزی: **سونوگرافی ± AFP هر ۶ ماه** — تاریخ بعدی را بنویس.
 5. هر نسخه: **NSAID، ACEi، PPI غیرضروری، Benzodiazepine** را حذف کن.
 
-## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
+## فصل‌های مرتبط دیگر
 - **فصل ۴ (LFT)**، **فصل ۹ (عدم کفایهٔ ترایکسپید — سیروز قلبی)**، **فصل ۲۰ (Hepatic hydrothorax)**، **فصل ۲۴ (آثار مرض مزمن کبد)**، **فصل ۲۵ (خونریزی واریسی)**، **فصل ۳۴ (PBC، PSC — کولستاز)**.
 - **فصل‌های مرتبط دیگر:** ۲۸ (PSC با Ulcerative colitis)، ۳۱ (HBV، HCV، HDV)، ۳۳ (انسفالوپاتی و عدم کفایهٔ حاد کبد)، ۳۸ (AKI)، ۴۴ (سودیم)، ۴۶ (دیابت و MASLD).
 

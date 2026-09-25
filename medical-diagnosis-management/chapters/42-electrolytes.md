@@ -285,8 +285,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-## 💡 Memory Joggers
-
+## نکته‌های ماندگار
 - 💡 **K⁺ بلند: «C BIG K Drop»** — **C**alcium · **B**eta-agonist · **I**nsulin + **G**lucose · **K** binder · **D**ialysis.
 - 💡 **Calcium هیچ Potassium را پایین نمی‌آورد؛ فقط وقت می‌خرد.**
 - 💡 **Hypokalaemia یا Hypocalcaemia مقاوم؟ → Magnesium.**
@@ -321,8 +320,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-## 🎯 قدم کوچک در کنار بستر
-
+## کنار بستر
 1. هر K⁺ بلند → **ECG در ۵ دقیقه**.
 2. پیش از Insulin: قند خون؛ بعد از آن: پلان Glucose و اندازه‌گیری منظم.
 3. هر Hypokalaemia → Magnesium هم بفرست.
@@ -331,8 +329,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-## 🔗 اتصال به فصل‌ها
-
+## فصل‌های مرتبط دیگر
 - **فصل ۷:** عدم کفایهٔ قلب — ACEi/MRA و K⁺.
 - **فصل ۲۹:** اسهال — Hypokalaemia.
 - **فصل ۳۸–۳۹:** AKI و CKD.
