@@ -53,6 +53,7 @@
 | SD-41 | ۵۰ | رهنمود PAI 2016 هنوز جدیدترین است (Guideline Central مرور Dec 2025)؛ متن کامل ESE/ES 2024 و رهنمود SfE عاجل از منبع اولیه خوانده نشد؛ حد Cortisol در assayهای جدید (مثلاً LC-MS/MS) بررسی نشد | CURRENTNESS NOTE |
 | SD-42 | ۵۰ | تأییدنشده: دوز MRA (Spironolactone/Eplerenone) در PA؛ جزئیات AVS/تعیین طرف ES 2025؛ نام، دوز و تیتر Alpha-blocker (Phenoxybenzamine/Doxazosin) و زمان افزودن Beta-blocker در PPGL؛ متن کامل توصیهٔ 4.1 | UNVERIFIED — OPEN |
 | SD-43 | ۵۰ | منابع اولیه خوانده نشد: اجماع Pituitary Society 2021 (تشخیص/تداوی Cushing)، رهنمودهای Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های Pituitary؛ این موضوعات در فصل تحریر نشده‌اند | UNVERIFIED — OPEN |
+| SD-44 | ۵۱ | منبع اولیه خوانده نشد: متن کامل NOGG 2022 (توصیه‌ها از خلاصه‌های ثانوی)؛ برچسب Reclast (دوز ۵ mg از منابع ثانوی)؛ دوز Cinacalcet، Teriparatide و Romosozumab؛ رژیم Vitamin D در Osteomalacia؛ حد Calcium ادرار برای FHH؛ فهرست رسمی تست‌های علت ثانوی | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt

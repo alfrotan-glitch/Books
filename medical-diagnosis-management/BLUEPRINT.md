@@ -40,6 +40,7 @@
 | 32–42 | نوشته شده؛ ممیزی علمی + currentness؛ بدهی‌ها SD-01…SD-28 |
 | 43–49 | نوشته شده؛ ممیزی علمی + currentness + سبک؛ بدهی‌ها SD-29…SD-39 |
 | 50 | نوشته شده: عدم کفایه/بحران، PA (ES 2025)، Cushing (ES 2008)، PPGL (ES 2014)، Incidentaloma (ESE 2023)، Pituitary (محدود)؛ SD-40…43؛ Prolactinoma/Acromegaly باقی |
+| 51 | نوشته شده: PHPT (Workshop 2022)، Osteoporosis (NOGG 2022، برچسب‌های Alendronate/Prolia 2026)، Osteomalacia؛ SD-44 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

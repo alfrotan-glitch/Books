@@ -413,3 +413,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
   - ES 2008 Cushing: DST ۱.۸ mcg/dL (۵۰ nmol/L)؛ بزاق شبانه ۱۴۵ ng/dL (۴ nmol/L).
   - ESE 2023: ۱۰ HU یا کمتر همگون → تصویربرداری بیشتر لازم نیست؛ DST ۵۰ nmol/L.
   - ES 2014: Alpha-blockade ۷–۱۴ روز.
+
+## فصل ۵۱ — پاراتایروئید و استخوان
+- VERIFIED (برچسب FDA Alendronate 6/2026): ۷۰ mg هفته‌وار یا ۱۰ mg روزانه؛ ۶–۸ oz آب ساده، ۳۰ دقیقه پیش از غذا، ۳۰ دقیقه دراز نکشیدن؛ CrCl کمتر از ۳۵ توصیه نمی‌شود؛ منع: Achalasia/تنگی مری، Hypocalcaemia؛ قطع پس از ۳–۵ سال در خطر پایین.
+- VERIFIED (برچسب Prolia 7/2026): ۶۰ mg SC هر ۶ ماه؛ Calcium ۱۰۰۰ mg + Vitamin D حد اقل ۴۰۰ IU؛ هشدار جعبه‌ای CKD پیشرفته؛ منع: Hypocalcaemia، حاملگی؛ شکستگی مهره پس از قطع.
+- VERIFIED (Workshop PHPT 2022): حدود جراحی (Ca بیش از ۱ mg/dL، T ≤−۲.۵، eGFR/CrCl کمتر از ۶۰، ادرار ۲۵۰/۳۰۰ mg، سن کمتر از ۵۰).
+- ثانوی (SD-44): Zoledronic acid ۵ mg سالانه، ۱۵ دقیقه، CrCl کمتر از ۳۵ منع؛ حدود NOGG (Prednisolone ۷.۵ mg، T ≤−۳.۵، مدت ۵/۳ سال).
