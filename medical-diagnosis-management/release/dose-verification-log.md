@@ -425,3 +425,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (برچسب FDA Glucagon): ۱ mg SC/IM/IV در بالغ و بالای ۲۵ kg؛ تکرار ۱ mg پس از ۱۵ دقیقه؛ منع: Pheochromocytoma، Insulinoma.
 - VERIFIED (ESC/EAS 2019، تأیید با EAS commentary و Medscape 2026 update 2025): اهداف LDL ۵۵/۷۰/۱۰۰/۱۱۶ mg/dL و کاهش ۵۰ فیصد.
 - دوزهای Statin/Ezetimibe از فصل ۸ و ۱۳ (تکرار نشد).
+
+## فصل ۵۳ — رهیافت خون
+- دوز ندارد. VERIFIED: حدود WHO 2024 (۱۳۰/۱۲۰/۱۱۰/۱۰۵ g/L، شدت، تعدیل ارتفاع ۰/۴/۸/۱۱/۱۴ و سگرت ۳/۵/۶)؛ AABB 2023 (۷ g/dL؛ ۷.۵ جراحی قلب؛ ۸ ارتوپیدی/مرض قلبی).

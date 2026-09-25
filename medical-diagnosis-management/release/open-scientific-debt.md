@@ -55,6 +55,7 @@
 | SD-43 | ۵۰ | منابع اولیه خوانده نشد: اجماع Pituitary Society 2021 (تشخیص/تداوی Cushing)، رهنمودهای Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های Pituitary؛ این موضوعات در فصل تحریر نشده‌اند | UNVERIFIED — OPEN |
 | SD-44 | ۵۱ | منبع اولیه خوانده نشد: متن کامل NOGG 2022 (توصیه‌ها از خلاصه‌های ثانوی)؛ برچسب Reclast (دوز ۵ mg از منابع ثانوی)؛ دوز Cinacalcet، Teriparatide و Romosozumab؛ رژیم Vitamin D در Osteomalacia؛ حد Calcium ادرار برای FHH؛ فهرست رسمی تست‌های علت ثانوی | UNVERIFIED — OPEN |
 | SD-45 | ۵۲ | منبع اولیه خوانده نشد: متن کامل Endocrine Society 2009 (حدود Insulin/C-peptide/Proinsulin از Endotext/RACGP)؛ غلظت/حجم Dextrose وریدی؛ جملهٔ برچسب Glucagon دربارهٔ ذخیرهٔ Glycogen؛ محل‌یابی/تداوی Insulinoma و هایپوگلایسیمی پس از Bariatric؛ متن اولیهٔ ESC/EAS Focused update 2025؛ Statin در حاملگی و تداخل‌ها؛ معیارهای سندروم متابولیک | UNVERIFIED — OPEN |
+| SD-46 | ۵۳ | منبع اولیه خوانده نشد: شاخص Mentzer و حد HbA2؛ حد Neutropenia شدید (در فصل ۵۶ تأیید شود)؛ معیار اندازهٔ عقدهٔ لمفاوی و زمان بیوپسی؛ ارتفاع کابل از منبع جغرافیایی عمومی | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt
