@@ -73,6 +73,8 @@
 | SD-61 | ۷۰ | ارتریت سپتیک: رهنمود واحد تازه نیافتم؛ حدود WBC مایع مفصل و رژیم/دوز/مدت Antibiotic نوشته نشد؛ ASAS-EULAR 2022 و IDSA 2015 فقط از خلاصه‌ها؛ دوزهای NSAID، Sulfasalazine، Biologic و رژیم‌های Osteomyelitis نوشته نشد | UNVERIFIED |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 | SD-62 | 72 | متن اصلی AHA/ASA 2026 AIS خوانده نشد (خلاصه‌ها)؛ فهرست منع‌های Thrombolysis؛ AHA 2021 پیش‌گیری ثانوی (DAPT Loading/مدت، زمان ضد انعقاد پس از سکته)؛ AHA 2022 ICH (هدف فشار، Aspirin/Heparin) خوانده نشد | UNVERIFIED |
+| SD-63 | 73 | Status/صرع: دوز کاهل Phenobarbital؛ معیار شروع دوا پس از اولین تشنج؛ دوزهای نگهداری دواهای ضد صرع؛ جزئیات EMA/MHRA Valproate؛ دوز Folic acid؛ قوانین موتر راندن | UNVERIFIED |
+| SD-64 | 74 | سردردی: هیچ منبعی مستقیم خوانده نشد — AHA/ASA 2023 aSAH (حد ۶ ساعت CT، Nimodipine)، Ottawa SAH rule، ACR 2021 GCA (دوز Steroid، Tocilizumab)، AHS 2021 (دوز Triptan/NSAID، پیش‌گیری)، معیار MOH، Estrogen در میگرن با Aura | UNVERIFIED |
 
 ## B. Terminology debt
 

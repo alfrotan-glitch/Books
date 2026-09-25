@@ -497,3 +497,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 72
 - ثانوی-همخوان (چند خلاصهٔ AHA 2026): Tenecteplase ۰.۲۵ mg/kg اعظمی ۲۵ mg؛ Alteplase ۰.۹ mg/kg اعظمی ۹۰ mg؛ TNK ۰.۴ نه؛ فشار ۱۸۵/۱۱۰، ۱۸۰/۱۰۵، ۲۲۰/۱۲۰؛ EVT تا ۲۴ ساعت؛ SBP کمتر از ۱۴۰ پس از EVT مضر. UNVERIFIED (SD-62): سایر.
+
+## فصل 73
+- VERIFIED (ENLS 5.0 مستقیم + AES 2016 جدول): Lorazepam ۰.۱ mg/kg اعظمی ۴ mg تکرار یک بار؛ Diazepam ۰.۱۵ mg/kg اعظمی ۱۰ mg؛ Midazolam ۱۰ mg عضلی (بیشتر از ۴۰ kg)؛ Levetiracetam ۶۰ mg/kg اعظمی ۴.۵ g؛ Valproate ۴۰ mg/kg در ۱۰ دقیقه؛ Fosphenytoin ۲۰ mg PE/kg تا ۱۵۰/min؛ Phenytoin ۲۰ mg/kg تا ۵۰/min؛ Midazolam انفیوژن ۰.۲ bolus، ۰.۰۵–۲ mg/kg/ساعت
+
+## فصل 74
+- هیچ دوز mg نوشته نشد (فقط اصول) → SD-64.

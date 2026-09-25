@@ -20529,7 +20529,7 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 - **Stroke mimics** (فصل ۷۱): **قند را اول بسنج.**
 - **NIHSS:** شدت را اندازه می‌کند. اما **نقیصهٔ ناتوان‌کننده** (مثلاً Aphasia تنها) با NIHSS پایین هم مستحق تداوی است (AHA 2026).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== ۳. ساعت اول — ترتیب کار (AHA/ASA 2026)
+== ۳. کار در ساعت اول — ترتیب (AHA/ASA 2026)
 === (۱) ABC، قند، و CT فوری
 - **CT بدون Contrast فوراً**، برای رد خون‌ریزی.
 - **Thrombolysis را به خاطر تصویربرداری اضافی (CTA، CT perfusion، MRI) به تأخیر نینداز** در مریضی که در ۴.۵ ساعت و مستحق است (AHA 2026: توصیهٔ قوی). CTA برای شناختن انسداد رگ بزرگ و **Thrombectomy** مهم است، **اما همزمان**، نه پیش از Thrombolysis.
@@ -20647,3 +20647,257 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
 2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (خوانده نشد → SD-62.)
 3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (خوانده نشد → SD-62.)
+= فصل ۷۳ — تشنج، صرع و Status epilepticus
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش دهم — نورولوژی** · *Currentness audit: Status epilepticus — **ENLS 5.0 Status Epilepticus Protocol** (Neurocritical Care Society) مستقیم و **AES 2016** (Glauser T et al., Epilepsy Curr 2016) از جدول مقایسوی و مرور AES 2020 خوانده شد؛ مطالعهٔ ESETT برابری سه دوای خط دوم را نشان داد. صرع مزمن — اصول ILAE؛ محدودیت‌های Valproate در زنان از رهنمودهای تنظیمی (EMA/MHRA) — متن اصلی خوانده نشد → SD-63.*
+]
+== پنج دقیقه
+**ساعت ۱۱ شب**، **نجیب‌الله** ۲۵ ساله را به عاجل آوردند. **هشت دقیقه** است که تمام بدنش تکان می‌خورد و بیدار نشده. مادرش می‌گوید: «از طفلی مرگی دارد. یک ماه است که دوایش تمام شده، پول نداشتیم.»
+یک نرس می‌گوید: «صبر کنیم، خودش ایستاد می‌شود.» **نه.** پس از **۵ دقیقه**، تشنج احتمالاً خودش نمی‌ایستد، و هر دقیقهٔ بعدی دوا را کم‌اثرتر و آسیب مغز را بیشتر می‌سازد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. تشنج چیست؟ و آیا واقعاً تشنج بود؟
+- **تشنج (Seizure):** فعالیت الکتریکی غیرعادی و همزمان حجرات عصبی.
+- **صرع (Epilepsy):** تمایل دایمی به تشنج‌های **بدون تحریک** (عملاً دو تشنج بدون تحریک، یا یک تشنج با خطر بلند تکرار).
+- **تشنج تحریک‌شده (Provoked)** صرع نیست. علت را تداوی کن:
+- **Hypoglycaemia**؛ **Hyponatraemia**، Hypocalcaemia (فصل ۴۴)؛
+- **قطع الکهول یا Benzodiazepine**؛
+- دواها (Tramadol، Isoniazid بدون Pyridoxine)؛
+- **انتان CNS** (فصل ۷۵)؛ **ملاریای مغزی** (فصل ۶۱)؛
+- سکته، ترضیض، تومور؛
+- **Eclampsia** (هر زن حامله یا تازه ولادت کرده با تشنج → فصل ۸۴).
+=== تشنج یا غش (Syncope)؟ — مهم‌ترین تفریق (فصل ۱۱)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [**], [*تشنج*], [*غش*],
+    [پیش از حمله], [Aura، یا بدون هشدار], [سیاهی چشم، عرق، حالت تهوع، **ایستاده**],
+    [حمله], [تکان‌های ریتمیک طولانی، **زبان گزیدن کنار زبان**، رنگ کبود], [چند تکان کوتاه ممکن است؛ رنگ پریده],
+    [پس از حمله], [**گیچی دقیقه‌ها تا ساعت‌ها** (Postictal)], [**بیداری سریع و واضح**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**شاهد عینی** مهم‌ترین تست است. از خانواده بخواه که فلم تلفن بگیرند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. Status epilepticus — عاجل (ENLS؛ AES 2016)
+**تعریف عملی:** تشنج **بیشتر از ۵ دقیقه**، یا تشنج‌های مکرر **بدون بازگشت به شعور** در میان آن‌ها.
+=== مرحلهٔ ۰ (دقیقهٔ ۰–۵): ثبات
+- ABC؛ مریض را به پهلو بگذار؛ **چیزی به دهنش نکن**؛ اکسیجن.
+- **قند خون فوراً.** در Hypoglycaemia: Dextrose وریدی (یا Glucagon عضلی اگر خط نیست) (ENLS).
+- **در شک به کمبود Thiamine** (الکهول، سوء تغذیه): Thiamine پیش از یا همراه Glucose (فصل ۸۸).
+- خط وریدی؛ الکترولیت‌ها، Calcium، Magnesium، CBC، سطح دوای ضد صرع، و تست حاملگی.
+=== مرحلهٔ ۱ (دقیقهٔ ۵–۲۰): Benzodiazepine — دوز کامل
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*راه*], [*دوز کاهل (ENLS / AES)*],
+    [**وریدی (اگر خط هست)**], [**Lorazepam ۰.۱ mg/kg** (اعظمی **۴ mg** در هر دوز) در ۲ دقیقه؛ اگر مؤثر نبود، **یک بار تکرار** پس از ۳–۵ دقیقه],
+    [بدیل وریدی], [**Diazepam ۰.۱۵ mg/kg** (اعظمی **۱۰ mg**)],
+    [**بدون خط وریدی**], [**Midazolam ۱۰ mg عضلی** (کاهل بیشتر از ۴۰ kg)؛ بدیل‌ها: Diazepam مقعدی ۲۰ mg، یا Midazolam دهانی یا بینی],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ **دام شایع: دوز کم Benzodiazepine.** مطالعات نشان داده که Lorazepam اکثراً کمتر از دوز توصیه‌شده داده می‌شود، و این با پیشرفت به Status مقاوم همراه بوده است. **ترس از تنفس نباید دوز را کم کند**؛ تشنج ادامه‌دار برای تنفس خطرناک‌تر است.
+=== مرحلهٔ ۲ (دقیقهٔ ۲۰–۴۰): دوای خط دوم — یکی را انتخاب کن
+**ESETT (AES 2020):** این سه دوا در Status ثابت پس از Benzodiazepine **به یک اندازه مؤثرند**:
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*دوز کاهل (ENLS)*], [*احتیاط*],
+    [**Levetiracetam**], [**۶۰ mg/kg** وریدی (اعظمی **۴.۵ g**)], [تداخل کم؛ مصئون در کبد؛ دوز را در CKD برای نگهداری تنظیم کن],
+    [**Valproate**], [**۴۰ mg/kg** وریدی در ۱۰ دقیقه], [**مرض کبدی، مرض Mitochondrial، و حاملگی: نه**؛ Pancreatitis],
+    [**Fosphenytoin**], [**۲۰ mg PE/kg** وریدی (تا ۱۵۰ mg PE/min)], [Hypotension، Arrhythmia → نظارت قلبی],
+    [Phenytoin], [**۲۰ mg/kg** وریدی (تا ۵۰ mg/min)], [مثل بالا؛ التهاب ورید],
+  ),
+  caption: none,
+)
+#v(0.4em)
+*(Phenobarbital بدیل دیگر است؛ دوز آن در ENLS برای اطفال ۴۰ mg/kg آمده؛ دوز کاهل → SD-63.)*
+**انتخاب در افغانستان:** دوایی که **موجود است** و منع ندارد. در زن جوان، **Levetiracetam** بر Valproate ترجیح دارد.
+=== مرحلهٔ ۳ (بیشتر از ۴۰ دقیقه): Status مقاوم (Refractory)
+- **Intubation و ICU**؛ انفیوژن **Midazolam** (ENLS: Bolus ۰.۲ mg/kg، تکرار تا اعظمی ۲ mg/kg؛ انفیوژن ۰.۱ mg/kg/ساعت شروع، نگهداری ۰.۰۵–۲ mg/kg/ساعت) یا Propofol؛ **EEG** در صورت امکان.
+- **Status غیرتشنجی (Non-convulsive):** مریضی که پس از تشنج **بیدار نمی‌شود** → EEG. تکان نداشتن یعنی تشنج نیست، **نه همیشه**.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. پس از اولین تشنج
+- **تاریخچه و شاهد**؛ معاینهٔ عصبی؛ قند، الکترولیت‌ها؛ **ECG** (Arrhythmia با غش ممکن است شبیه تشنج باشد؛ فصل ۱۱).
+- **تصویربرداری مغز** (MRI بهتر از CT) و **EEG**.
+- **LP** در تب یا شک به انتان (فصل ۷۵).
+- **شروع دوای ضد صرع پس از یک تشنج** وقتی خطر تکرار بلند است (مثلاً ضایعهٔ مغز، EEG صرعی). تصمیم با متخصص → SD-63.
+- **موتر راندن و کار با ماشین یا در ارتفاع**: مشوره بده. *(قوانین → SD-63.)*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. صرع مزمن — اصول تداوی
+- **یک دوا**، با دوز کم شروع و آهسته بالا ببر، تا کنترول یا عوارض.
+- **انتخاب دوا بر اساس نوع تشنج** (Focal یا Generalized)، سن، جنس، حاملگی، و دواهای همراه:
+- **Levetiracetam** و **Lamotrigine**: وسیع‌الطیف و مناسب زنان جوان؛
+- **Carbamazepine**: در Focal؛ Generalized را بدتر می‌کند؛ تداخل زیاد؛ خطر SJS؛
+- **Valproate**: مؤثر در Generalized؛ اما در زنان محدودیت دارد (پایین).
+- *(دوزها → SD-63.)*
+- **⚠️ Valproate و زنان در سن باروری:** Valproate در حاملگی **تشوهات مادرزادی و اختلالات تکاملی** شدید می‌سازد. رهنمودهای تنظیمی (EMA/MHRA) آن را در زنان و دختران فقط وقتی اجازه می‌دهند که بدیل مؤثر نباشد، با **برنامهٔ جلوگیری از حاملگی**. *(جزئیات → SD-63.)*
+- **Folic acid** برای زنان در سن باروری که دوای ضد صرع می‌خورند. *(دوز → SD-63.)*
+- **تداخل با مانع حاملگی:** Carbamazepine، Phenytoin و Phenobarbital (Enzyme inducer) مانع‌های هورمونی را بی‌اثر می‌سازند.
+- **پابندی:** مهم‌ترین علت Status در افغانستان **قطع دوا** است، به دلیل هزینه، دسترسی، یا باور که «خوب شدم». **صرع بدنامی نیست**؛ با مریض و فامیل گپ بزن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به نجیب‌الله
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دقیقه*], [*اقدام*],
+    [۸], [به پهلو؛ اکسیجن؛ **قند ۹۸**],
+    [۹], [خط وریدی نبود → **Midazolam ۱۰ mg عضلی**],
+    [۱۲], [خط گرفته شد؛ هنوز تشنج → **Lorazepam ۴ mg وریدی** (۰.۱ mg/kg، وزن ۶۵ kg → ۶.۵ mg؛ اعظمی ۴ mg)],
+    [۱۸], [هنوز تشنج → **Levetiracetam ۶۰ mg/kg** (۳.۹ g) وریدی],
+    [۲۵], [تشنج ایستاد؛ تنفس کافی],
+    [۶۰], [بیدار شد و جواب داد (Status غیرتشنجی نبود)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **علت:** قطع دوا. Valproate قبلی او با **Levetiracetam** تداوم یافت (موجود و ارزان در شفاخانه).
+- مددکار اجتماعی برای دسترسی به دوای رایگان.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **تشنج بیشتر از ۵ دقیقه = Status → تداوی کن، منتظر نمان.**
+2. **قند اول. Thiamine در الکهول و سوء تغذیه.**
+3. **Benzodiazepine دوز کامل: Lorazepam ۰.۱ mg/kg (اعظمی ۴ mg) یا Midazolam ۱۰ mg عضلی.**
+4. **خط دوم: Levetiracetam ۶۰ mg/kg، Valproate ۴۰ mg/kg، یا Fosphenytoin ۲۰ mg PE/kg — به یک اندازه مؤثر.**
+5. **هر زن حامله با تشنج = Eclampsia تا خلاف آن ثابت شود.**
+6. **Valproate در زن جوان فقط وقتی بدیل نیست.**
+7. **بیدار نشدن پس از تشنج → Status غیرتشنجی را در نظر بگیر.**
+== ⚠️ Red Flags
+- تشنج بیشتر از ۵ دقیقه، یا تشنج‌های پشت سر هم.
+- تشنج با تب یا سفتی گردن (فصل ۷۵).
+- تشنج در حاملگی یا پس از ولادت (فصل ۸۴).
+- اولین تشنج در سن بالا (سکته، تومور).
+- بیدار نشدن پس از تشنج.
+== ⏱️ مرور ۶۰ ثانیه
+1. تعریف عملی Status؟ ← بیشتر از ۵ دقیقه، یا مکرر بدون بازگشت شعور.
+2. دوز Lorazepam؟ ← ۰.۱ mg/kg، اعظمی ۴ mg، یک بار تکرار.
+3. بدون خط وریدی؟ ← Midazolam ۱۰ mg عضلی.
+4. سه دوای خط دوم برابر؟ ← Levetiracetam ۶۰ mg/kg، Valproate ۴۰ mg/kg، Fosphenytoin ۲۰ mg PE/kg.
+5. چرا Valproate در زن جوان نه؟ ← تشوهات و اختلالات تکاملی جنین.
+== 📚 References
+1. Neurocritical Care Society. Emergency Neurological Life Support (ENLS) 5.0: Status Epilepticus Protocol.
+2. Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults. *Epilepsy Curr.* 2016;16(1):48–61.
+3. Vossler DG, Bainbridge JL, Boggs JG, et al. Treatment of refractory convulsive status epilepticus: a comprehensive review by the AES Treatments Committee. *Epilepsy Curr.* 2020;20(5):245–264.
+= فصل ۷۴ — سردردی: خطرناک را از شایع جدا کن
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش دهم — نورولوژی** · *Currentness audit: اصول «Red flags» (SNOOP) و Ottawa SAH rule از منابع بالینی استندرد؛ SAH — AHA/ASA 2023 aneurysmal SAH guideline (Hoh BL et al., Stroke 2023)؛ GCA — ACR/VF 2021؛ میگرن — American Headache Society 2021 consensus. **هیچ‌کدام در این جلسه مستقیم خوانده نشد** → همهٔ ادعاهای عددی و دوزها در SD-64؛ فصل بر اصول بالینی تکیه دارد و دوز mg ندارد.*
+]
+== بیست سردردی، یک خون‌ریزی
+در یک هفتهٔ کلینیک سرپایی، بیست نفر با سردردی می‌آیند. **نزدیک به همهٔ آن‌ها سردردی اولیه دارند** (Tension-type یا میگرن)، که دردناک و آزاردهنده است اما کشنده نیست. **هنر، پیدا کردن آن یکی است** که سردردی او علامهٔ یک مرض خطرناک است.
+- **شکیلا** ۲۸ ساله: از ۱۴ سالگی، ماهی دو سه بار سردردی یک‌طرفه و ضربانی، با استفراغ و ترس از نور؛ مثل همیشه.
+- **استاد غفار** ۴۶ ساله: هنگام بلند کردن یک بوجی، **ناگهان** «مثل ضربهٔ چکش» پشت سرش درد گرفت، **بدترین سردردی عمرش**، و یک بار استفراغ کرد. حالا کمی بهتر است و می‌خواهد به خانه برود.
+- **بی‌بی ثریا** ۷۲ ساله: سه هفته سردردی تازهٔ شقیقه، درد فک هنگام جویدن، و دیروز **برای چند دقیقه چشم راستش تار شد**.
+**استاد غفار** ممکن است امشب بمیرد. **بی‌بی ثریا** ممکن است فردا کور شود. **شکیلا** به تداوی بهتر ضرورت دارد، نه به CT.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. قدم اول: اولیه یا ثانوی؟ — Red flags
+**سردردی ثانوی** (علامهٔ مرض دیگر) را با این سرنخ‌ها بجوی:
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*سرنخ*], [*فکر کن به*],
+    [**ناگهانی، به اوج در کمتر از یک دقیقه («Thunderclap»)**], [**SAH**، RCVS، Dissection، Venous sinus thrombosis],
+    [**تب، سفتی گردن، بثورات**], [**مننژیت** (فصل ۷۵)],
+    [**علایم عصبی موضعی، تشنج، تغییر شعور**], [تومور، ابسه، خون‌ریزی، سکته],
+    [**سردردی تازه بالای ۵۰ سال**], [**Giant cell arteritis**، تومور],
+    [**بدتر با دراز کشیدن، سرفه یا زور؛ صبحگاهی با استفراغ**], [**فشار بلند داخل جمجمه** (تومور، Hydrocephalus)],
+    [**Papilloedema**], [فشار داخل جمجمه],
+    [**Immunosuppression، HIV، سرطان**], [انتان فرصت‌طلب (Cryptococcus، Toxoplasma — فصل ۶۴)، Metastasis],
+    [**حاملگی یا پس از ولادت**], [**Preeclampsia** (فصل ۸۴)، Venous sinus thrombosis],
+    [**تغییر الگو** در سردردی مزمن], [علت ثانوی تازه، یا **سردردی از استعمال زیاد دوا**],
+    [**پس از ترضیض**، به ویژه با ضد انعقاد], [**Subdural haematoma**],
+    [**فشار خون بسیار بلند** با علایم عصبی], [Hypertensive emergency (فصل ۶)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**اگر هیچ سرنخی نیست، و الگو قدیمی و مشابه است → سردردی اولیه، و تصویربرداری لازم نیست.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. سردردی Thunderclap — SAH را از دست نده
+- **SAH (Subarachnoid haemorrhage)** اکثراً از پاره شدن **Aneurysm**. مرگ و معیوبیت بلند است، و **خون‌ریزی دوم** کشنده‌تر است.
+- **تصویر:** سردردی ناگهانی شدید («بدترین سردردی عمرم»)، استفراغ، سفتی گردن (پس از ساعت‌ها)، غش، یا تشنج. **ممکن است مریض «بهتر» شود**، که همان «خون‌ریزی هشداردهنده» (Sentinel bleed) است.
+- **تشخیص:**
+1. **CT بدون Contrast هر چه زودتر.** حساسیت آن در ساعت‌های اول بسیار بلند است و با گذشت زمان کم می‌شود. *(حد ۶ ساعت → SD-64.)*
+2. **CT منفی ولی شک باقی است** (به ویژه پس از ساعت‌های اول) → **LP**: خون یا **Xanthochromia** (زرد شدن مایع؛ چند ساعت پس از خون‌ریزی ظاهر می‌شود).
+3. SAH ثابت → **CTA** برای Aneurysm → **جراحی عصبی** (Coiling یا Clipping).
+- **Ottawa SAH rule** برای تصمیم دربارهٔ تصویربرداری در سردردی حاد شدید کمک می‌کند. *(معیارها → SD-64.)*
+- **اهتمامات تا جراحی:** کنترول فشار، درد و استفراغ؛ **Nimodipine** برای جلوگیری از Vasospasm *(دوز → SD-64)*؛ ضد انعقاد را معکوس کن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. Giant cell arteritis (GCA) — «کوری قابل جلوگیری»
+- **بالای ۵۰ سال**، اکثراً زنان.
+- **سرنخ‌ها:**
+- سردردی تازه، اکثراً شقیقه؛
+- **درد فک هنگام جویدن (Jaw claudication)**؛
+- حساسیت پوست سر؛ شریان شقیقه سخت و بی‌نبض؛
+- **اختلال دید** (تاری گذرا، دوبینی، یا کوری ناگهانی)؛
+- **Polymyalgia rheumatica** (درد و سختی شانه‌ها و لگن)؛
+- ESR و CRP بلند.
+- **تداوی: Glucocorticoid با دوز بلند فوراً — پیش از Biopsy.** Biopsy شریان شقیقه تا چند روز پس از شروع Steroid هنوز معلومات می‌دهد. **با علایم دید، منتظر نمان.** *(دوزها، و Tocilizumab → SD-64.)*
+- **راجع** به داکتر چشم و روماتولوژی.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. سردردی‌های اولیه
+=== میگرن
+- **حملات** ۴–۷۲ ساعت؛ اکثراً **یک‌طرفه، ضربانی**، متوسط تا شدید، **بدتر با فعالیت**؛ با **استفراغ** یا **ترس از نور و صدا**.
+- **Aura** در بعضی: علایم بصری مثبت (خط‌های زیگزاگ) که در دقیقه‌ها گسترش می‌یابد و بازمی‌گردد.
+- ⚠️ **Aura غیرعادی** (ضعف، بسیار طولانی، اولین بار بالای ۴۰–۵۰ سال) → سکته و TIA را رد کن (فصل ۷۲).
+**تداوی حمله:**
+- **زود، در شروع درد.**
+- **NSAID** یا Paracetamol (با ضد استفراغ در صورت ضرورت) برای حملات خفیف تا متوسط.
+- **Triptan** برای حملات متوسط تا شدید یا ناکامی NSAID. **منع:** مرض قلبی–عروقی، سکته، فشار بلند کنترول‌نشده.
+- **⚠️ Opioid و Pethidine** برای میگرن نه: کم‌اثر، و خطر وابستگی و سردردی مزمن دارند.
+- *(دوزها → SD-64.)*
+**تداوی پیش‌گیرانه:** وقتی حملات مکرر یا ناتوان‌کننده‌اند. گزینه‌ها: Propranolol، Amitriptyline، Topiramate *(حاملگی نه)*، و Candesartan. *(دوزها و معیار → SD-64.)*
+**عوامل:** خواب نامنظم، گرسنگی، استرس، و بعضی غذاها. دفترچهٔ سردردی.
+**⚠️ مانع حاملگی ترکیبی Estrogen** در میگرن با Aura خطر سکته را بلند می‌برد. *(جزئیات → SD-64.)*
+=== سردردی Tension-type
+- دوطرفه، فشارنده («کمربند دور سر»)، خفیف تا متوسط، **بدون** استفراغ یا بدتر شدن با فعالیت.
+- NSAID یا Paracetamol **گاه‌گاه**؛ مدیریت استرس، خواب، و ورزش.
+=== سردردی از استعمال زیاد دوا (Medication-overuse headache)
+- **مسکن‌ها را بیشتر از چند روز در ماه** خوردن، خودش سردردی مزمن روزانه می‌سازد. *(حد روزها → SD-64.)*
+- **در افغانستان شایع است** (مسکن‌های بدون نسخه). تداوی آن **قطع مسکن زیاد** و شروع پیش‌گیری است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به سه مریض
+1. **شکیلا:** میگرن بدون Aura، بدون Red flag، الگوی قدیمی → **تصویربرداری لازم نیست**.
+- NSAID زود با ضد استفراغ؛ Triptan برای حملات شدید.
+- چون حملات او ماهانه ۶–۸ روز بود و مسکن را **بیشتر از ۱۵ روز در ماه** می‌خورد → **سردردی از استعمال زیاد دوا** هم داشت → قطع مسکن زیاد و پیش‌گیری با Propranolol.
+2. **استاد غفار:** Thunderclap → **CT فوری: خون در فضای Subarachnoid** → CTA: Aneurysm → جراحی عصبی.
+- **اگر به خانه رفته بود، خون‌ریزی دوم ممکن بود کشنده باشد.**
+3. **بی‌بی ثریا:** بالای ۵۰، سردردی تازهٔ شقیقه، Jaw claudication، و تاری گذرای دید؛ ESR ۹۸ → **GCA**.
+- **Glucocorticoid دوز بلند در همان روز**، پیش از Biopsy.
+- Biopsy در هفتهٔ اول تأیید کرد. دید او حفظ شد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **اول Red flags را بجوی؛ اگر نیست و الگو قدیمی است، تصویربرداری لازم نیست.**
+2. **«بدترین و ناگهانی‌ترین سردردی» = SAH تا رد شود → CT، و اگر منفی و شک باقی است، LP.**
+3. **سردردی تازه بالای ۵۰ + علایم دید یا Jaw claudication = GCA → Steroid فوراً، پیش از Biopsy.**
+4. **میگرن: زود تداوی کن؛ Opioid نه.**
+5. **مسکن زیاد خودش سردردی می‌سازد.**
+== ⚠️ Red Flags
+- سردردی ناگهانی شدید (Thunderclap).
+- سردردی با تب، سفتی گردن، یا بثورات.
+- سردردی با علایم عصبی، تشنج، یا Papilloedema.
+- سردردی تازه بالای ۵۰ سال، به ویژه با علایم دید.
+- سردردی در حاملگی یا پس از ولادت، با فشار بلند.
+== ⏱️ مرور ۶۰ ثانیه
+1. سردردی Thunderclap با CT منفی پس از چند ساعت؟ ← LP برای Xanthochromia.
+2. GCA با تاری دید: Biopsy اول یا Steroid؟ ← Steroid اول، فوراً.
+3. میگرن: چرا Opioid نه؟ ← کم‌اثر، وابستگی، و سردردی مزمن.
+4. سردردی روزانه با مسکن تقریباً هر روز؟ ← سردردی از استعمال زیاد دوا.
+5. منع Triptan؟ ← مرض قلبی–عروقی، سکته، فشار کنترول‌نشده.
+== 📚 References
+1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
+2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
+3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
