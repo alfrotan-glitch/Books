@@ -108,7 +108,6 @@ dari_term,english_term,latin_term,abbreviation,preferred_form,forbidden_forms,so
 ایکوکاردیوگرافی,Echocardiography,,Echo,ایکوکاردیوگرافی (Echo),,Afghan clinical usage,TTE/TEE,13-heart-failure
 تاکیکاردی,Tachycardia,,Tachy,تاکیکاردی (Tachycardia),,Afghan clinical usage,HR > 100,13-heart-failure
 برادی‌کاردی,Bradycardia,,Brady,برادی‌کاردی (Bradycardia),,Afghan clinical usage,HR < 60,13-heart-failure
-سندرم,Syndrome,,Syndrom,سندرم (Syndrome),,Afghan clinical usage,Nephrotic/Nephritic,40-glomerular
 کاردیورنل,Cardiorenal,,CR,کاردیورنل (Cardiorenal),,Afghan clinical usage,Cardiorenal syndrome,13-heart-failure
 دیورتیک لوپ,Loop Diuretic,,Loop,دیورتیک لوپ (Loop Diuretic),,Afghan clinical usage,Furosemide/Bumetanide/Torsemide,13-heart-failure
 دیورتیک تازید,Thiazide Diuretic,,Thiazide,دیورتیک تازید (Thiazide),,Afghan clinical usage,HCTZ/Chlorothiazide,12-hypertension
@@ -135,3 +134,4 @@ dari_term,english_term,latin_term,abbreviation,preferred_form,forbidden_forms,so
 توسع توکسیک کولون,Toxic megacolon,,,توسع توکسیک کولون (Toxic megacolon),,Afghan clinical usage,PROVISIONAL — FOR GLOSSARY AUDIT (introduced ch33),33-ibd
 عدم کفایهٔ دریچه,Valvular insufficiency / Regurgitation,,,عدم کفایهٔ دریچه,,Afghan clinical usage (ch05),ACCEPTED (author decision 2026-09-25); Tricuspid = ترایکسپید (APPROVED),05-cardio-approach
 ترایکسپید,Tricuspid,,,ترایکسپید,تریکوسپید|تریکسپید,Author-approved terminology correction (2026-09-25),Approved Afghan form for Tricuspid (valve; cavo-tricuspid isthmus),05-cardio-approach
+مرمر,Heart murmur,,,مرمر,سوفل؛ وزش,Afghan clinical usage,«مرمر (Murmur)» برای صدای جریان قلبی؛ برای صدای شریانی Bruit. تصمیم ۲۰۲۶-۰۹-۲۵,05-cardio-approach

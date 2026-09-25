@@ -12,7 +12,7 @@
 | **ABPM** | Ambulatory blood pressure monitoring | نظارت ۲۴ ساعتهٔ فشار خون |
 | **ACEI** | Angiotensin-converting enzyme inhibitor | مهارکنندهٔ ACE |
 | **ACLF** | Acute-on-chronic liver failure | عدم کفایهٔ حاد بر مزمن کبد |
-| **ACS** | Acute coronary syndrome | سندرم حاد اکلیلی |
+| **ACS** | Acute coronary syndrome | سندروم حاد اکلیلی |
 | **ACTH** | Adrenocorticotropic hormone | هورمون محرک قشر ادرنال |
 | **ADH** | Antidiuretic hormone | هورمون ضد ادرار |
 | **AF** | Atrial fibrillation | فبریلیشن اذینی |
@@ -26,9 +26,9 @@
 | **ANA** | Antinuclear antibody | انتی‌بادی ضد هسته |
 | **ANC** | Absolute neutrophil count | شمارش مطلق نیوتروفیل |
 | **ANCA** | Anti-neutrophil cytoplasmic antibody | انتی‌بادی ضد سایتوپلازم نیوتروفیل |
-| **APS** | Antiphospholipid syndrome | سندرم انتی‌فاسفولیپید |
+| **APS** | Antiphospholipid syndrome | سندروم انتی‌فاسفولیپید |
 | **ARB** | Angiotensin receptor blocker | بندکنندهٔ آخذهٔ انجیوتنسین |
-| **ARDS** | Acute respiratory distress syndrome | سندرم زجر تنفسی حاد |
+| **ARDS** | Acute respiratory distress syndrome | سندروم زجر تنفسی حاد |
 | **ART** | Antiretroviral therapy | تداوی ضد رتروویروس |
 | **ATN** | Acute tubular necrosis | نکروز حاد نلچه‌یی |
 | **AV** | Atrioventricular | اذینی–بطینی |
@@ -60,7 +60,7 @@
 | **EVT** | Endovascular thrombectomy | برداشتن لخته از داخل رگ |
 | **FUO** | Fever of unknown origin | تب بدون علت معلوم |
 | **G6PD** | Glucose-6-phosphate dehydrogenase | انزایم G6PD |
-| **GBS** | Guillain-Barré syndrome | سندرم گیلن–باره |
+| **GBS** | Guillain-Barré syndrome | سندروم گیلن–باره |
 | **GCA** | Giant cell arteritis | التهاب شریان حجرات عرطبیل |
 | **GCS** | Glasgow Coma Scale | مقیاس کومای گلاسگو |
 | **GERD** | Gastro-oesophageal reflux disease | مرض ریفلکس معده به مری |
@@ -72,7 +72,7 @@
 | **HIT** | Heparin-induced thrombocytopenia | کمی پلیت ناشی از هیپارین |
 | **HIV** | Human immunodeficiency virus | ویروس نقص معافیت انسانی |
 | **HSV** | Herpes simplex virus | ویروس هرپس سمپلکس |
-| **HUS** | Haemolytic uraemic syndrome | سندرم همولیتیک یوریمیک |
+| **HUS** | Haemolytic uraemic syndrome | سندروم همولیتیک یوریمیک |
 | **IBD** | Inflammatory bowel disease | مرض التهابی روده |
 | **ICU** | Intensive care unit | شعبهٔ مراقبت‌های جدی |
 | **ILD** | Interstitial lung disease | مرض بینابینی ریه |
@@ -109,11 +109,11 @@
 | **SAM** | Severe acute malnutrition | سوء تغذیهٔ حاد شدید |
 | **SBP** | Systolic blood pressure / Spontaneous bacterial peritonitis | فشار سیستولیک / التهاب خودبخودی باکتریایی پریتوان (مطابق متن) |
 | **SGLT2** | Sodium-glucose cotransporter 2 | انتقال‌دهندهٔ سودیم–گلوکوز ۲ |
-| **SIADH** | Syndrome of inappropriate ADH | سندرم ترشح نامناسب ADH |
+| **SIADH** | Syndrome of inappropriate ADH | سندروم ترشح نامناسب ADH |
 | **SLE** | Systemic lupus erythematosus | لوپوس سیستمیک |
 | **SpA** | Spondyloarthritis | اسپوندیلوارتریت |
 | **TBSA** | Total body surface area | مجموع سطح بدن |
-| **TIA** | Transient ischaemic attack | حملهٔ گذرای اسکیمیک |
+| **TIA** | Transient ischaemic attack | حملهٔ گذرای ایسکیمیک |
 | **TSH** | Thyroid-stimulating hormone | هورمون محرک تایروئید |
 | **TTP** | Thrombotic thrombocytopenic purpura | پورپورای ترومبوتیک ترومبوسایتوپنیک |
 | **UFH** | Unfractionated heparin | هیپارین غیرتجزیه‌شده |

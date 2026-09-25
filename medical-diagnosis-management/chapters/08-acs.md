@@ -93,7 +93,7 @@
 📋 **چک‌لیست معاینه ACS:**
 - ☐ علایم حیاتی: BP (هر دو بازو)، HR، RR، SpO2، دما
 - ☐ **درد صدر:** با SOCRATES بپرس (Site, Onset, Character, Radiation, Associations, Timing, Exacerbating/relieving, Severity)
-- ☐ **قلب:** ریتم، S3/S4، وزش نو (MR / VSD)
+- ☐ **قلب:** ریتم، S3/S4، مرمر نو (MR / VSD)
 - ☐ **ریه:** Rales، SpO2
 - ☐ **JVP + ادیما پا** (RV infarction در inferior MI)
 - ☐ **ECG ۱۲ لید در ۱۰ دقیقهٔ اول** رسیدن مریض
@@ -299,7 +299,7 @@
 4. **VF / VT** → Defibrillation فوری (CPR).
 5. **سینکوپ + تاکی‌کاردی / برادی‌کاردی** → Arrhythmia — Monitor + Atropine / Pace.
 6. **Crackles + فشار پایین + اطراف سرد** → شوک کاردیوجنیک — Revascularization عاجل، Inotrope/Vasopressor، ICU.
-7. **درد جدید + وزش نو (MR / VSD)** → Mechanical Complication — Echo + جراحی.
+7. **درد جدید + مرمر نو (MR / VSD)** → Mechanical Complication — Echo + جراحی.
 
 ## 📚 References
 
@@ -321,7 +321,7 @@
 
 ## 🔗 اتصال به فصل‌های پیشین
 - **فصل ۱ (رهیافت به مریض و علایم حیاتی):** علایم حیاتی + SpO2 — پایهٔ مدیریت ACS.
-- **فصل ۵ (رهیافت و معاینهٔ قلب):** S3 + وزش MR — اختلاط MI.
+- **فصل ۵ (رهیافت و معاینهٔ قلب):** S3 + مرمر MR — اختلاط MI.
 - **فصل ۲ (ECG):** ST elevation / depression — معیار تشخیص ACS.
 - **فصل ۶ (فشار خون):** فشار بلند خون = فکتور خطر #۱.
 - **فصل ۷ (HF):** MI = شایع‌ترین سبب HF — Killip class.

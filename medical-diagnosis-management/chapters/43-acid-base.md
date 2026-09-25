@@ -60,7 +60,7 @@
 **Metabolic acidosis — Anion gap بلند:**
 | علت | کلید |
 |---|---|
-| **Lactic acidosis** | شاک، سپسیس، Hypoxia، اسکیمی روده؛ Metformin (نادر) |
+| **Lactic acidosis** | شاک، سپسیس، Hypoxia، ایسکیمی روده؛ Metformin (نادر) |
 | **Ketoacidosis** | DKA (فصل ۴۷)، گرسنگی، الکهول |
 | **Uraemia** | CKD/AKI پیشرفته (فصل ۳۸–۳۹) |
 | **سموم** | **Methanol**، **Ethylene glycol**، **Salicylate**، Paracetamol (Pyroglutamic acidosis) |
@@ -112,7 +112,7 @@
 | یافته | فکر کن به |
 |---|---|
 | Anion gap بلند + Ketone | DKA، الکهول، گرسنگی |
-| Anion gap بلند + Lactate بلند | شاک/سپسیس، اسکیمی |
+| Anion gap بلند + Lactate بلند | شاک/سپسیس، ایسکیمی |
 | Anion gap بلند + **Osmolal gap بلند** + بدون Ketone/Lactate کافی | **Methanol / Ethylene glycol** |
 | Respiratory alkalosis + Metabolic acidosis | **Salicylate**، سپسیس |
 | Anion gap نورمال + اسهال | ضیاع روده‌ای |

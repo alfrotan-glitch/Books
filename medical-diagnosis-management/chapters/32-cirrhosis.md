@@ -210,7 +210,7 @@
 | **هایپوناترمی** | بالا |
 | **HCC** | خطر **۱–۴ فیصد در سال** (بیشتر در HBV، HCV) — **سونوگرافی ± AFP هر ۶ ماه** |
 | **Hepatic hydrothorax** | فصل ۲۰ |
-| **Hepatopulmonary syndrome (HPS)** | اتساع عروق ریه ← هایپوکسمی، **Platypnoea-Orthodeoxia** — ایکو با Bubble؛ پیوند |
+| **Hepatopulmonary syndrome (HPS)** | اتساع عروق ریه ← هایپوکسیمی، **Platypnoea-Orthodeoxia** — ایکو با Bubble؛ پیوند |
 | **Portopulmonary hypertension (PoPH)** | هایپرتنشن ریوی — ایکو؛ ⚠️ TIPS را منع می‌کند |
 | **Cirrhotic cardiomyopathy** | عدم کفایهٔ قلب با استرس (TIPS، انتان) |
 | **PVT** | بالا |
