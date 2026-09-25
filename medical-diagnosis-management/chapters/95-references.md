@@ -97,7 +97,7 @@
 
 ## فصل ۹ — امراض دریچه‌ای قلب و تب روماتیزمی (Valvular Heart Disease & Rheumatic Fever)
 
-- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). CURRENTNESS NOTE: other thresholds in this chapter (MR, AR) still follow 2021/2020 and have not yet been line-checked against 2025.
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). AS, primary MR and AR intervention rows checked against Tables 3–4 (New/Revised recommendations) of the guideline text (2026-09-25). CURRENTNESS NOTE: MS and secondary MR rows not yet line-checked against the full 2025 section text.
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.
@@ -194,7 +194,7 @@
 
 - Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 Update (ginasthma.org, May 2026) — summary of changes: oxygen only if SpO₂ <92%, upper target 95%; adrenaline first if anaphylaxis with asthma; review treatment after a single exacerbation.
 
-- Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حد اعظمی ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
+- Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حد اعظمی ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در کاهلان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
@@ -228,7 +228,7 @@
 - Roberts ME, et al. **British Thoracic Society Guideline for pleural disease.** Thorax. 2023;78(Suppl 3):s1–s42 (پنوموتوراکس: تأکید بر اعراض، مدیریت محافظه‌کارانه و آمبولاتوری؛ افیوژن: سونوگرافی پیش از مداخله؛ امپییما: درن، tPA/DNase، انتی‌بیوتیک؛ افیوژن سرطانی: Talc یا IPC).
 - Light RW, et al. **Pleural effusions: the diagnostic separation of transudates and exudates.** Ann Intern Med. 1972;77:507–513.
 - Rahman NM, et al. **Intrapleural use of tissue plasminogen activator and DNase in pleural infection (MIST-2).** N Engl J Med. 2011;365:518–526.
-- American College of Surgeons. **ATLS — Advanced Trauma Life Support, 10th Ed.** 2018 (فشارزدایی سوزنی در مسافهٔ ۴–۵ قدام خط زیر بغلی میانی در بزرگسالان).
+- American College of Surgeons. **ATLS — Advanced Trauma Life Support, 10th Ed.** 2018 (فشارزدایی سوزنی در مسافهٔ ۴–۵ قدام خط زیر بغلی میانی در کاهلان).
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
@@ -421,7 +421,7 @@
 - World Health Organization. **Prevention of mother-to-child transmission of hepatitis B virus: guidelines on antiviral prophylaxis in pregnancy.** Geneva: WHO; 2020. https://www.ncbi.nlm.nih.gov/books/NBK561126/
 - World Health Organization. **Guidelines for the care and treatment of persons diagnosed with chronic hepatitis C virus infection.** Geneva: WHO; 2018. https://www.ncbi.nlm.nih.gov/books/NBK531720/
 - World Health Organization. **Hepatitis C — Fact sheet** (2026). https://www.who.int/news-room/fact-sheets/detail/hepatitis-c
-- AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B (Hepatology 2025): treatment threshold ALT ULN 35 U/L men / 25 U/L women; immune-active = ALT ≥2×ULN and HBV DNA >20,000 (HBeAg+) or >2,000 IU/mL (HBeAg−); treatment also considered in the HBeAg-negative indeterminate phase. Supersedes AASLD 2018 for treatment decisions.
+- Ghany MG, et al. AASLD/IDSA Practice Guideline on Treatment of Chronic Hepatitis B. Hepatology 2026;83(4):974–997. doi:10.1097/HEP.0000000000001549: treatment threshold ALT ULN 35 U/L men / 25 U/L women; immune-active = ALT ≥2×ULN and HBV DNA >20,000 (HBeAg+) or >2,000 IU/mL (HBeAg−); treatment also considered in the HBeAg-negative indeterminate phase. Supersedes AASLD 2018 for treatment decisions.
 - Terrault NA, et al. **Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance.** Hepatology. 2018.
 - European Association for the Study of the Liver. **EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection.** J Hepatol. 2017.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on hepatitis delta virus.** J Hepatol. 2023.
@@ -702,6 +702,7 @@
 1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
 2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
 3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
+4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672
 
 ## فصل ۵۷ — مننژیت و انسفالیت
 
@@ -810,6 +811,7 @@
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
 2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
 3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
+4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672
 
 ## فصل ۷۵ — نقرس و Osteoarthritis
 
@@ -834,6 +836,7 @@
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
 4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. St-Onge M, Anseeuw K, Cantrell FL, et al. Experts consensus recommendations for the management of calcium channel blocker poisoning in adults. Crit Care Med 2017;45(3):e306–e315. doi:10.1097/CCM.0000000000002087
 
 ## فصل ۷۹ — مسمومیت Paracetamol
 

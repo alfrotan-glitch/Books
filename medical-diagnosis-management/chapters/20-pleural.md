@@ -164,7 +164,7 @@
 **پنوموتوراکس فشاری:**
 1. **اکسیجن با جریان بلند.**
 2. **فشارزدایی فوری (Decompression) — بدون انتظار برای CXR:**
-   - **سوزن/کانولای بزرگ (۱۴G یا بزرگ‌تر، ترجیحاً ۸ cm)** در **مسافهٔ بین‌الضلاع ۴ یا ۵، قدام خط زیر بغلی میانی** (ATLS 10th Ed. برای بزرگسالان)؛ یا در **مسافهٔ دوم، خط میانی ترقوه** (به‌ویژه در اطفال).
+   - **سوزن/کانولای بزرگ (۱۴G یا بزرگ‌تر، ترجیحاً ۸ cm)** در **مسافهٔ بین‌الضلاع ۴ یا ۵، قدام خط زیر بغلی میانی** (ATLS 10th Ed. برای کاهلان)؛ یا در **مسافهٔ دوم، خط میانی ترقوه** (به‌ویژه در اطفال).
    - در مریض **ونتیلاتوری یا ایست قلبی** و تیم باتجربه: **توراکوستومی انگشتی (Finger thoracostomy)** ترجیح دارد.
 3. **سپس فوراً درن سینه** در «**مثلث امن**» (Safe triangle): حاشیهٔ قدامی عضلهٔ Latissimus dorsi، حاشیهٔ خارجی عضلهٔ Pectoralis major، و خط افقی در سطح نوک پستان (مسافهٔ ۵)، با قاعده در زیر بغل.
 
@@ -188,7 +188,7 @@
 #### ۱. افیوژن پارا پنومونیک و امپییما
 **انتی‌بیوتیک تجربی (BTS 2023):**
 
-| زمینه | رژیم | دوز بزرگسال |
+| زمینه | رژیم | دوز کاهل |
 |---|---|---|
 | **کسب‌شده از جامعه** | **Amoxicillin/Clavulanate** (Co-amoxiclav) | **۱.۲ g IV هر ۸ ساعت** ← فمی ۶۲۵ mg هر ۸ ساعت |
 | | یا **Ceftriaxone + Metronidazole** | Ceftriaxone ۲ g IV روزانه + Metronidazole ۵۰۰ mg IV/PO هر ۸ ساعت |
@@ -305,7 +305,7 @@
 - Roberts ME, et al. **British Thoracic Society Guideline for pleural disease.** Thorax. 2023;78(Suppl 3):s1–s42 (پنوموتوراکس: تأکید بر اعراض، مدیریت محافظه‌کارانه و آمبولاتوری؛ افیوژن: سونوگرافی پیش از مداخله؛ امپییما: درن، tPA/DNase، انتی‌بیوتیک؛ افیوژن سرطانی: Talc یا IPC).
 - Light RW, et al. **Pleural effusions: the diagnostic separation of transudates and exudates.** Ann Intern Med. 1972;77:507–513.
 - Rahman NM, et al. **Intrapleural use of tissue plasminogen activator and DNase in pleural infection (MIST-2).** N Engl J Med. 2011;365:518–526.
-- American College of Surgeons. **ATLS — Advanced Trauma Life Support, 10th Ed.** 2018 (فشارزدایی سوزنی در مسافهٔ ۴–۵ قدام خط زیر بغلی میانی در بزرگسالان).
+- American College of Surgeons. **ATLS — Advanced Trauma Life Support, 10th Ed.** 2018 (فشارزدایی سوزنی در مسافهٔ ۴–۵ قدام خط زیر بغلی میانی در کاهلان).
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
@@ -334,6 +334,6 @@
 
 1. پروتین مایع ۴.۰، سیروم ۶.۰؛ LDH مایع ۱۵۰، سیروم ۲۰۰ (حد بالای نورمال سیروم ۲۲۰)؟ ← *نسبت پروتین ۰.۶۷ و نسبت LDH ۰.۷۵ ← Exudate.*
 2. سه معیار درن در افیوژن پارا پنومونیک؟ ← *pH کمتر از ۷.۲، چرک، گرام/کلچر مثبت (و گلوکوز کمتر از ۶۰، حجرات).*
-3. محل فشارزدایی سوزنی در بزرگسال؟ ← *مسافهٔ ۴ یا ۵، قدام خط زیر بغلی میانی.*
+3. محل فشارزدایی سوزنی در کاهل؟ ← *مسافهٔ ۴ یا ۵، قدام خط زیر بغلی میانی.*
 4. PSP کوچک و بدون علامه؟ ← *مدیریت محافظه‌کارانه با پیگیری.*
 5. اندیکاسیون‌های جراحی در پنوموتوراکس؟ ← *نشت هوای دوامدار بیش از ۳–۵ روز، راجعه، دوطرفه، یا مشاغل پرخطر.*

@@ -31,14 +31,20 @@
 4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(حد زمانی و دوز → SD-69.)* **استفراغ را تحریک نکن.**
 5. **ECG** (QRS و QT)، Paracetamol level در هر خودکشی دوایی (فصل ۷۹).
 6. **هر خودکشی → ارزیابی روانی پیش از رخصت**، و با فامیل گپ بزن. **خودکشی در زنان جوان افغان** با فشار خانوادگی و خشونت همراه است؛ **با مهربانی و بدون قضاوت** بپرس و خطر خانه را ارزیابی کن.
-7. **مسمومیت Beta-blocker یا Calcium channel blocker** (خانهٔ اصلی این موضوع همین‌جاست): علامهٔ اصلی **Bradycardia و فشار پایین** است؛ در Beta-blocker گاهی قند پایین هم دیده می‌شود (با Dextrose تداوی کن). اهتمامات مسمومیت Beta-blocker (AHA 2023 Toxicology focused update؛ بخش CCB همان رهنمود در این نشست خوانده نشد → SD-100):
+7. **مسمومیت Beta-blocker یا Calcium channel blocker** (خانهٔ اصلی این موضوع همین‌جاست): علامهٔ اصلی **Bradycardia و فشار پایین** است؛ در Beta-blocker گاهی قند پایین هم دیده می‌شود (با Dextrose تداوی کن). اهتمامات مسمومیت Beta-blocker (AHA 2023 Toxicology focused update؛ CCB در پایین):
    - **Vasopressor** (معمولاً اولین تداوی، چون زود دستیاب است) و مایع با احتیاط؛
    - **Insulin با دوز بلند** همراه Dextrose و پیگیری قند و پوتاشیم — عضلهٔ قلب را قوی‌تر می‌کند؛
    - **Glucagon** وریدی — دوز آن **بلندتر از دوز Hypoglycaemia** است؛ استفراغ زیاد دارد و اثرش زود کم می‌شود؛
    - **Atropine** و **Pacing** — جواب‌شان ثابت نیست؛
    - در Atenolol یا Sotalol با عدم کفایهٔ گرده، **Haemodialysis** کمک می‌کند؛
    - **VA-ECMO** در شوک مقاوم (اگر دستیاب است)؛ **Lipid emulsion به‌طور روتین نه**.
-   🔒 دوز عددی Glucagon و Insulin در متن رهنمود AHA 2023 خوانده‌شده نیامده بود و از منبع اولیه تأیید نشد → **SD-100**؛ با مرکز سموم یا متخصص مراقبت‌های ویژه دوز را تعیین کن.
+   **مسمومیت Calcium channel blocker در کاهلان** (اجماع متخصصان، St-Onge و همکاران، Crit Care Med 2017):
+   - تداوی خط اول (بر اساس اثر مطلوب، تنها یا یکجا): **Calcium وریدی** — Calcium chloride ۱۰٪: **۱۰–۲۰ mL (۱–۲ g) هر ۱۰–۲۰ دقیقه** یا انفیوژن ۰٫۲–۰٫۴ mL/kg/hr؛ یا Calcium gluconate ۱۰٪: **۳۰–۶۰ mL (۳–۶ g) هر ۱۰–۲۰ دقیقه** یا انفیوژن ۰٫۶–۱٫۲ mL/kg/hr؛ **Norepinephrine** و/یا **Epinephrine** در شوک؛ **Atropine ۰٫۵ mg هر ۳–۵ دقیقه** برای Bradycardia علامه‌دار (چند دوز)؛
+   - **Insulin با دوز بلند (Regular):** بولوس **۱ واحد/kg** و بعد انفیوژن **۱ واحد/kg/hr**؛ با Dextrose قند را نورمال نگهدار و پوتاشیم را نزدیک نظارت کن. بلند کردن تا **۱۰ واحد/kg/hr** فقط در مریض مقاوم به تداوی خط اول (شواهد فقط Case series)؛
+   - Dopamine توصیه نمی‌شود؛ Vasopressin به تنهایی در شوک کاردیوژنیک نه؛
+   - مقاوم: Pacing (اول از راه جلد)، Lipid emulsion؛ شوک مقاوم یا نزدیک ایست قلبی: VA-ECMO اگر دستیاب است؛
+   - **Glucagon در این اجماع برای CCB توصیه نشده است.**
+   🔒 دوز عددی Glucagon و Insulin در مسمومیت **Beta-blocker** از منبع اولیه تأیید نشد (جدول AHA 2023 تصویر است) → **SD-100**؛ با مرکز سموم یا متخصص مراقبت‌های ویژه دوز را تعیین کن.
 
 ---
 
@@ -139,3 +145,4 @@
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
 4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. St-Onge M, Anseeuw K, Cantrell FL, et al. Experts consensus recommendations for the management of calcium channel blocker poisoning in adults. Crit Care Med 2017;45(3):e306–e315. doi:10.1097/CCM.0000000000002087

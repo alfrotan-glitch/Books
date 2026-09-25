@@ -387,7 +387,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
-| رژیم | دوز بزرگسال |
+| رژیم | دوز کاهل |
 |---|---|
 | **Ampicillin/Sulbactam** (انتخاب اول IV) | **۳ g IV هر ۶ ساعت** |
 | یا **Amoxicillin/Clavulanate** IV | **۱.۲ g IV هر ۸ ساعت** |

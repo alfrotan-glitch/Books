@@ -129,7 +129,7 @@
 
 **انتی‌بیوتیک (TG18، SIS/IDSA):**
 
-| حالت | رژیم | دوز بزرگسال | مدت |
+| حالت | رژیم | دوز کاهل | مدت |
 |---|---|---|---|
 | **کولی‌سیستیت Grade I–II (جامعه)** | **Ceftriaxone** ± **Metronidazole** | Ceftriaxone **۲ g IV روزانه** (± Metronidazole **۵۰۰ mg IV هر ۸ ساعت**) | **Grade I: قطع در ۲۴ ساعت پس از کولی‌سیستکتومی**؛ Grade II–III: **۴–۷ روز** پس از کنترول منبع |
 | | یا **Amoxicillin/Clavulanate** | **۱.۲ g IV هر ۸ ساعت** | — |

@@ -150,7 +150,7 @@ CBC، Creatinine، **معاینهٔ ادرار با میکروسکوپ** (RBC ca
 
 - Creatinine رو به افزایش با Haematuria (RPGN) → فصل ۳۷
 - Haemoptysis یا کاهش Hb با Infiltrateهای ریوی (DAH) → فصل ۲۳ و ۲۲
-- کاهش دید یا سردرد تازه بالای ۵۰ سال (GCA) → فصل ۵۶
+- کاهش دید یا سردرد تازه بالای ۵۰ سال (GCA) → فصل ۵۶ (دوز Glucocorticoid در GCA و Takayasu مطابق EULAR 2018 LVV همان‌جا آمده: شروع ۴۰–۶۰ mg Prednisolone؛ در Takayasu هدف پس از ۱ سال ۱۰ mg یا کمتر و همیشه همراه یک دوای غیربیولوژیک کم‌کنندهٔ Steroid)
 - Mononeuritis multiplex یا ایسکیمی روده
 
 ### اصول تداوی ANCA vasculitis (GPA و MPA) — EULAR 2022 (Hellmich، Ann Rheum Dis 2024)
@@ -161,7 +161,8 @@ CBC، Creatinine، **معاینهٔ ادرار با میکروسکوپ** (RBC ca
 - **Plasma exchange** در RPGN «در نظر گرفته می‌شود» — تصمیم متخصص است و معمول نیست.
 - نگهداری Remission: **Rituximab**؛ Azathioprine یا Methotrexate بدیل‌ها اند.
 - EGPA عودکننده یا مقاوم: **Mepolizumab**.
-- دوز شروع Glucocorticoid و رژیم Rituximab/Cyclophosphamide در این کتاب نیامده است: این تداوی فقط در مرکز متخصص شروع می‌شود و جدول دوز رهنمود از متن اولیه بازخوانی نشده است (SD-101).
+- **دوزها (متن کامل EULAR 2022، ard.bmj.com، ۲۰۲۶-۰۹-۲۵):** Glucocorticoid فمی با دوز شروع **۵۰–۷۵ mg Prednisolone در روز مطابق وزن**، بعد کاهش مرحله‌وار مطابق رژیم کم‌دوز PEXIVAS تا **۵ mg در روز در ماه ۴–۵**؛ در مرض بدون تهدید عضو، دوز شروع کمتر (۰٫۵ mg/kg/day) در مریضان منتخب. **Rituximab:** یا **۳۷۵ mg/m² هفته‌وار برای ۴ هفته**، یا **۱ g در هفتهٔ ۰ و ۲** (اثر و عوارض مشابه). Rituximab در مرض عودکننده و در مریضی که باروری برایش مهم است بر Cyclophosphamide ترجیح دارد. Plasma exchange فقط در مریضان منتخب با **Creatinine بیشتر از ۳۰۰ µmol/L** از Glomerulonephritis فعال. Avacopan پس از ۶–۱۲ ماه قطع شود.
+- 🔒 دوز Cyclophosphamide و جدول کامل کاهش Glucocorticoid (جدول ۴ رهنمود، تصویر) خوانده نشد؛ این تداوی فقط در مرکز متخصص شروع می‌شود (SD-101).
 
 ### پیگیری
 
@@ -222,3 +223,4 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
 2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
 3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
+4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672

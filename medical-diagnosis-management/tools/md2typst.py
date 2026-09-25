@@ -8,7 +8,7 @@ Supported subset (all chapter files must respect this):
   fenced ``` code blocks (algorithms / text diagrams)
   > blockquotes
   --- horizontal rule
-  inline: **bold**, *italic*, `code`
+  inline: **bold**, *italic*, `code`, [text](https://url)
 
 Styling lives in templates/book.typst (show rules), not in this file.
 """
@@ -22,8 +22,19 @@ ESC = str.maketrans({c: "\\" + c for c in "#$@\\{}[]^<>"})
 def esc(t: str) -> str:
     return t.translate(ESC)
 
+LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+
 def inline(t: str) -> str:
-    """Escape specials; keep **bold** *italic* `code` verbatim (Typst handles them)."""
+    """Escape specials; keep **bold** *italic* `code` verbatim (Typst handles them).
+    [text](https://url) becomes #link("url")[text]."""
+    if LINK_RE.search(t):
+        out, pos = [], 0
+        for m in LINK_RE.finditer(t):
+            out.append(inline(t[pos:m.start()]))
+            out.append('#link("%s")[%s]' % (m.group(2).replace('"', '%22'), inline(m.group(1))))
+            pos = m.end()
+        out.append(inline(t[pos:]))
+        return "".join(out)
     parts = re.split(r"(`[^`]+`)", t)
     out = []
     for p in parts:

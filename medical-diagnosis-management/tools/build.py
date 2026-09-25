@@ -84,6 +84,8 @@ def parse_blocks(md):
         blocks.append(("p", s)); i += 1
     return blocks
 
+LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+
 def inline_html(t):
     t = html.escape(t, quote=False)
     t = re.sub(r"\*\*([^*]+?)\*([^*]+?)\*\*\*", r"<strong>\1<em>\2</em></strong>", t)
@@ -91,6 +93,7 @@ def inline_html(t):
     t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
     t = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<em>\1</em>", t)
     t = re.sub(r"`([^`]+?)`", r"<code>\1</code>", t)
+    t = LINK_RE.sub(lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>', t)
     return t
 
 def table_rows(tbl):
@@ -174,6 +177,7 @@ def build_docx():
     def add_runs(p, text):
         # parse inline **bold** *italic* `code`
         text = text.replace("***", "**")
+        text = LINK_RE.sub(lambda m: m.group(1), text)  # DOCX: link text only (URL kept in source/EPUB/PDF)
         pos = 0
         for m in re.finditer(r"(\*\*.+?\*\*|\*[^*]+?\*|`[^`]+?`)", text):
             if m.start() > pos:

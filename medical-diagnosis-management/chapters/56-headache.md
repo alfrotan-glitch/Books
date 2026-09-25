@@ -1,6 +1,6 @@
 # فصل ۵۶ — سردردی: خطرناک را از شایع جدا کن
 
-> **بخش هشتم — نورولوژی** · *Currentness audit: اصول «Red flags» (SNOOP) و Ottawa SAH rule از منابع بالینی استندرد؛ SAH — AHA/ASA 2023 aneurysmal SAH guideline (Hoh BL et al., Stroke 2023)؛ GCA — ACR/VF 2021؛ میگرن — American Headache Society 2021 consensus. **هیچ‌کدام در این جلسه مستقیم خوانده نشد** → همهٔ ادعاهای عددی و دوزها در SD-64؛ فصل بر اصول بالینی تکیه دارد و دوز mg ندارد.*
+> **بخش هشتم — نورولوژی** · *Currentness audit: اصول «Red flags» (SNOOP) و Ottawa SAH rule از منابع بالینی استندرد؛ SAH — AHA/ASA 2023 aneurysmal SAH guideline (Hoh BL et al., Stroke 2023)؛ GCA — EULAR 2018 LVV (متن کامل ard.bmj.com مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵) و ACR/VF 2021؛ میگرن — American Headache Society 2021 consensus. به جز دوز GCA، منابع دیگر مستقیم خوانده نشدند → ادعاهای عددی دیگر در SD-64.*
 
 ## بیست سردردی، یک خونریزی
 
@@ -56,7 +56,12 @@
   - **اختلال دید** (تاری گذرا، دوبینی، یا کوری ناگهانی)؛
   - **Polymyalgia rheumatica** (درد و سختی شانه‌ها و لگن)؛
   - ESR و CRP بلند.
-- **تداوی: Glucocorticoid با دوز بلند فوراً — پیش از Biopsy.** Biopsy شریان شقیقه تا چند روز پس از شروع Steroid هنوز معلومات می‌دهد. **با علایم دید، منتظر نمان.** *(دوزها، و Tocilizumab → SD-64.)*
+- **تداوی: Glucocorticoid با دوز بلند فوراً — پیش از Biopsy.** Biopsy شریان شقیقه تا چند روز پس از شروع Steroid هنوز معلومات می‌دهد. **با علایم دید، منتظر نمان.**
+- **دوز (EULAR 2018 LVV، Hellmich، Ann Rheum Dis 2020):**
+  - شروع: **Prednisolone ۴۰–۶۰ mg در روز** فوراً (دوز بالاتر از ۶۰ mg فایدهٔ ثابت‌شده ندارد)؛
+  - با **کاهش دید یا Amaurosis fugax:** **Methylprednisolone ۰٫۲۵–۱ g وریدی تا ۳ روز** در نظر گرفته شود (شواهد ضعیف)؛ انتظار برای دوز وریدی نباید تداوی فمی را به تأخیر اندازد؛
+  - پس از کنترول مرض، کاهش تدریجی تا **۱۵–۲۰ mg در روز در ۲–۳ ماه**، و پس از **۱ سال به ۵ mg یا کمتر**؛ قطع کامل اکثراً حد اقل ۲ سال وقت می‌گیرد؛
+  - در GCA مقاوم، عودکننده یا با خطر بلند عوارض Glucocorticoid: **Tocilizumab** (بدیل: Methotrexate) — فقط توسط متخصص.
 - **راجع** به داکتر چشم و روماتولوژی.
 
 ---
@@ -128,3 +133,4 @@
 1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
 2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
 3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
+4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672

@@ -595,3 +595,13 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✏️ (فصل ۷۴): کیس — APS از «تشخیص» به «مطرح شد؛ معیارها → فصل ۶۴» تغییر کرد (معیار سقط در متن ثابت نبود؛ overstatement).
 - ✏️ (فصل ۸۵): تفسیر MUAC کیس بدون عدد حدود WHO (→ SD-78) نوشته شد؛ عدد از حافظه وارد نشد.
 - هیچ دوز تازه‌ای در این خوانش اضافه نشد.
+
+## بررسی منابع اولیه (۲۰۲۶-۰۹-۲۵، دور بسته‌سازی علمی)
+- ✅ فصل ۷ (AHF): ESC 2021 بخش ۱۱.۳ (متن کامل Wiley، EJHF 2022;24:4–131) — Furosemide، معیار پاسخ دیورتیک، حد اعظمی ۴۰۰–۶۰۰ mg، Digoxin ۰٫۲۵–۰٫۵ mg IV، جدول ۲۲ Inotrope/Vasopressor. ❌ → اصلاح: آستانهٔ Vasodilator از SBP > ۱۰۰ به **> ۱۱۰ mmHg** (guideline mismatch). 🔒 انفیوژن Nitrate/Nitroprusside (جدول ضمیمهٔ ۲۱) خوانده نشد → SD-99.
+- ✅ فصل ۷۸ (CCB): St-Onge 2017 Crit Care Med (متن کامل) — Calcium chloride/gluconate، Insulin با دوز بلند، Atropine، Lipid؛ Glucagon برای CCB توصیه نشده. 🔒 Glucagon/Insulin در Beta-blocker → SD-100.
+- ✅ فصل ۵۶ و ۷۴ (GCA/Takayasu): EULAR 2018 LVV (متن کامل ard.bmj.com) — Prednisolone ۴۰–۶۰ mg، Methylprednisolone ۰٫۲۵–۱ g IV تا ۳ روز، اهداف کاهش دوز.
+- ✅ فصل ۷۴ (ANCA): EULAR 2022 AAV (متن کامل) — GC ۵۰–۷۵ mg، Rituximab ۳۷۵ mg/m²×۴ یا ۱ g×۲. Cyclophosphamide عمداً دوز داده نشد.
+- ✅ فصل ۳۱ (HBV): AASLD/IDSA (Hepatology 2026) — برنامهٔ پیگیری ALT/HBV DNA.
+- ✅ فصل ۹: ESC/EACTS 2025 جدول‌های ۳–۴ — آستانه‌های مداخلهٔ AS/MR/AR (بدون دوز).
+- ✅ فصل ۱۰: AHA 2025 Part 9 — انرژی کاردیوورژن (اختلاف رهنمود ذکر شد). فصل ۱۴: AHA/ACC 2026 PE — دوز پایین rt-PA فقط به شکل یادداشت؛ دوز استندرد ۱۰۰ mg تغییر نکرد.
+- فصل ۸: منع «SBP > ۱۸۰» — ACC/AHA 2025 جدول ۱۴ آن را «نسبی» در وقت مراجعه و «فشار شدید مقاوم به تداوی» را «مطلق» می‌داند؛ جدول فصل همین را دارد → تضاد واقعی نیست (تفاوت 2013/2025 = guideline attribution).
