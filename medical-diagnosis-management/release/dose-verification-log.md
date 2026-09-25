@@ -428,3 +428,8 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۵۳ — رهیافت خون
 - دوز ندارد. VERIFIED: حدود WHO 2024 (۱۳۰/۱۲۰/۱۱۰/۱۰۵ g/L، شدت، تعدیل ارتفاع ۰/۴/۸/۱۱/۱۴ و سگرت ۳/۵/۶)؛ AABB 2023 (۷ g/dL؛ ۷.۵ جراحی قلب؛ ۸ ارتوپیدی/مرض قلبی).
+
+## فصل ۵۴ — فقر آهن و Megaloblastic
+- VERIFIED (BSG 2021 متن اولیه در Gut): یک Tablet در روز Ferrous sulfate/fumarate/gluconate؛ در عدم تحمل یک روز در میان؛ Ferritin ۱۵/۳۰/۴۵/۱۵۰؛ Hb +۱۰ g/L در ۲ هفته؛ Coeliac ۳–۵ فیصد؛ وریدی در منع/عدم تأثیر/عدم تحمل.
+- VERIFIED (AGA 2020): Ferritin کمتر از ۴۵ (Sens ۸۵، Spec ۹۲)؛ Bidirectional endoscopy قوی در مرد و پس از یائسگی، مشروط پیش از یائسگی.
+- ثانوی (SD-47): Hydroxocobalamin ۱ mg IM سه بار در هفته ۲ هفته / یک روز در میان با علایم عصبی؛ نگهداری ۲–۳ ماه / ۲ ماه.

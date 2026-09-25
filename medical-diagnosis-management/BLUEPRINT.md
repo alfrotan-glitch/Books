@@ -43,6 +43,7 @@
 | 51 | نوشته شده: PHPT (Workshop 2022)، Osteoporosis (NOGG 2022، برچسب‌های Alendronate/Prolia 2026)، Osteomalacia؛ SD-44 |
 | 52 | نوشته شده: هایپوگلایسیمی (ADA 2026، ES 2009، Glucagon)، لیپید (ESC/EAS 2019+2025)؛ سندروم متابولیک مختصر؛ SD-45 |
 | 53 | نوشته شده: تعریف انمی (WHO 2024 با تعدیل ارتفاع)، ترانسفیوژن (AABB 2023)، MCV، Reticulocyte، لام، WBC/Platelet، Pancytopenia، عقدات، طحال؛ SD-46 |
+| 54 | نوشته شده: فقر آهن (BSG 2021، AGA 2020)، B12/Folate (NICE 2024 ثانوی)؛ SD-47 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

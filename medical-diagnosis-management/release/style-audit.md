@@ -79,3 +79,8 @@
 1. کیس نازنین: تعدیل ارتفاع کابل (درس محلی)، تفریق فقر آهن/Thalassaemia trait.
 2. Compound: منطق «نامتناسب» (PTH ← Insulin ← Reticulocyte)؛ پیوند ۸، ۱۲، ۱۷، ۱۹، ۲۵، ۳۰، ۳۵، ۳۹، ۴۹، ۵۰، ۵۴–۵۸، ۶۰–۶۲، ۶۸، ۷۸.
 3. زبان: اسکنر و grep دستی پاک.
+
+### فصل ۵۴ — فقر آهن و Megaloblastic
+1. دو کیس با اشتباه مشترک «دوا بدون چرا»؛ هر دو بسته شد.
+2. Compound: Reticulocyte (۵۳)، Metformin (۴۶)، PPI (۲۶)، Coeliac (۳۵)، Hypothyroidism (۴۹)؛ عادت محلی مواد غایطه برای Hookworm.
+3. زبان: اسکنر و grep دستی پاک.
