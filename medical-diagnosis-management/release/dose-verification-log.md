@@ -461,3 +461,7 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۶۲ — Brucellosis، Typhoid
 - هیچ دوز mg نوشته نشد (SD-54 UNVERIFIED). VERIFIED (CDC 2024): Fluoroquinolone تجربی نه؛ Azithromycin برای بدون عارضه و Carbapenem برای با عارضه در تماس پاکستان/عراق؛ Widal نه؛ عود ۱۰ فیصد، حامل ۱–۴ فیصد؛ مغز استخوان ۸۰ فیصد. CDC Yellow Book: تب ۳–۵ روز، ارزیابی پس از ۵ روز.
+
+## فصل ۶۳ — اسهال حاد، Cholera
+- VERIFIED (GTFCC Field Manual §7 + Technical Note 2025): Doxycycline ۳۰۰ mg یک دوز (کاهل و حامله)، ۲–۴ mg/kg (کمتر از ۱۲ سال)؛ Azithromycin ۱ g / ۲۰ mg/kg؛ Ciprofloxacin ۱ g / ۲۰ mg/kg؛ استطباب‌ها؛ پلان B ۷۵ mL/kg در ۴ ساعت؛ پلان C مجموع ۱۰۰ mL/kg Ringer lactate، ارزیابی ۳/۶ ساعت، هر ۱۵–۳۰ دقیقه؛ Zinc ۲۰ mg × ۱۰ روز.
+- UNVERIFIED (SD-55): تقسیم ۳۰/۷۰ mL/kg؛ دوزهای دیزانتری و Amoebiasis نوشته نشد.
