@@ -33,6 +33,8 @@
 | SD-21 | ۳۸ | فاصلهٔ پیگیری پس از AKI در KDIGO 2012 (Rec 2.5) از متن اولیه تأیید نشد؛ عدد حذف شد | UNVERIFIED — OPEN |
 | SD-22 | ۳۹ | دوزهای Finerenone، GLP-1 RA، Statinها، آهن/ESA (KDIGO Anaemia)، Phosphate binder/Vitamin D (KDIGO 2017 CKD-MBD)، Bicarbonate فمی، Potassium binderها در فصل ۳۹ عمداً وارد نشد | UNVERIFIED — OPEN |
 | SD-23 | ۳۹ | آستانه‌های KFRE برای ارجاع (۳–۵٪/۵ سال، ۱۰٪ و ۴۰٪/۲ سال) از شکل ۳ executive summary خوانده شد؛ Figure 48 متن کامل خوانده نشد | VERIFIED (exec summary) |
+| SD-24 | ۴۰ | وقایهٔ UTI عودکننده (آنتی‌بیوتیک وقایوی، Methenamine، Estrogen مهبلی) و تداوی Prostatitis/CAUTI: دوزها وارد نشد | UNVERIFIED — OPEN |
+| SD-25 | ۴۰ | IDSA 2025 cUTI: توصیه‌های مدت از abstract اولیهٔ CID 2025 (VERIFIED)؛ توصیه‌های انتخاب empiric (۴ قدم، ۱۲ ماه FQ) از خلاصه‌های ثانوی | UNVERIFIED (بخش empiric) — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)

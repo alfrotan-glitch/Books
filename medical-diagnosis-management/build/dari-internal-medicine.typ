@@ -13678,3 +13678,322 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 3. هدف فشار در CKD؟ — *سیستولیک کمتر از ۱۲۰ mmHg در صورت تحمل (2B).*
 4. پس از شروع ACEi، Creatinine ۲۰٪ بالا رفت؛ چه کنیم؟ — *ادامه بده؛ حد ۳۰٪ در ۴ هفته.*
 5. نمک و پروتین؟ — *سودیم کمتر از ۲ g/روز؛ پروتین ۰٫۸ g/kg/روز در G3–G5.*
+= فصل ۴۰ — انتان مجاری ادرار (Urinary Tract Infection, UTI)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+]
+== سه «UTI» که هر سه یک تداوی ندارند
+- **مریم** ۲۸ ساله، دو روز است سوزش ادرار و ادرار مکرر دارد. تب ندارد. حامله نیست.
+- **نسرین** ۲۵ ساله، **حامله در ماه هفتم**، همین شکایت را دارد.
+- **حاجی رحیم** ۷۰ ساله، با **تب ۳۹ درجه، لرزه و درد پهلو** آمده؛ کتیتر ادرار ندارد اما پروستات بزرگ دارد. فشار او پایین است.
+در بازار دوا، هر سه «Ciprofloxacin برای UTI» می‌گیرند. در این فصل می‌بینیم چرا این یک اشتباه است: **UTI یک مرض نیست، یک طیف است** — از سیستیت سادهٔ زن جوان تا سپسیس کشنده در مرد مسن. تداوی به **محل انتان، شدت، نوع مریض و مقاومت محلی** بستگی دارد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱. Core Concept (مفهوم بنیادی)
+سه سؤال، تداوی را تعیین می‌کنند:
+1. **کجاست؟** مثانه (Cystitis) یا گرده (Pyelonephritis) یا پروستات؟
+2. **ساده یا اختلاطی (Uncomplicated / Complicated)؟** مریض سالم یا مریضی با ساختمان/وظیفهٔ غیرنورمال، حاملگی، مرد، کتیتر، ایمنی ضعیف؟
+3. **سپسیس دارد یا نه؟**
+و یک قاعدهٔ طلایی: **باکتری در ادرار بدون علایم ≠ انتان** (Asymptomatic bacteriuria)؛ اکثراً تداوی نمی‌خواهد.
+💡 **تشبیه:** مجاری ادرار یک **جوی آب یک‌طرفه** است. جریان ادرار باکتری‌ها را بیرون می‌شوید. هر چیز که جریان را کند کند (انسداد، سنگ، پروستات، کتیتر، حاملگی) یا راه را کوتاه کند (احلیل کوتاه زن)، به باکتری فرصت بالا رفتن می‌دهد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۲. Definition & Classification (تعریف و تصنیف)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*اصطلاح*], [*تعریف*],
+    [**Cystitis (UTI پایین)**], [انتان مثانه: سوزش، تکرر، عجله، درد بالای عانه؛ بدون تب سیستمیک],
+    [**Pyelonephritis حاد**], [انتان یک یا هر دو گرده، معمولاً با بالا رفتن باکتری از مثانه (NICE NG111): تب، لرزه، درد پهلو، دلبدی],
+    [**UTI اختلاطی (Complicated)**], [UTI با خطر بیشتر ناکامی تداوی: ناهنجاری ساختمانی یا وظیفوی، انسداد، سنگ، کتیتر، ایمنی ضعیف، مرد، حاملگی؛ IDSA 2025 Pyelonephritis را هم در cUTI شامل می‌کند],
+    [**Urosepsis**], [سپسیس (Sepsis-3) از منبع ادراری],
+    [**Asymptomatic bacteriuria**], [باکتری به سطح معنادار (**بیشتر از ۱۰⁵ CFU/ml**) در ادرار **بدون علایم** (NICE NG109)],
+    [**UTI عودکننده**], [حملات مکرر — ارزیابی علت],
+    [**CAUTI**], [UTI مربوط به کتیتر],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۳. Pathophysiology — Step-by-step
+1. باکتری‌های **روده** (بیشتر از همه **E. coli**) در ناحیهٔ عجان جا می‌گیرند.
+2. از راه احلیل به مثانه بالا می‌روند (در زن، احلیل کوتاه است).
+3. باکتری با **Fimbriae** به اپیتیل مثانه می‌چسبد و در برابر شستشو مقاومت می‌کند.
+4. التهاب مثانه ← سوزش، تکرر، عجله، گاهی خون.
+5. اگر باکتری از Ureter بالا برود (مخصوصاً با Reflux یا انسداد) ← **Pyelonephritis** ← تب و درد پهلو.
+6. از گرده ← جریان خون ← **سپسیس**.
+**دفاع‌ها:** جریان ادرار، تخلیهٔ کامل مثانه، مخاط سالم. **شکست دفاع‌ها:** انسداد، باقی‌ماندهٔ ادرار (پروستات، مثانهٔ عصبی)، کتیتر (بیوفلم)، سنگ، دیابت، حاملگی (شل شدن Ureter با Progesterone).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۴. Etiology & Risk Factors
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*ارگانیزم*], [*نکته*],
+    [**E. coli**], [شایع‌ترین],
+    [Klebsiella، Proteus، Enterococcus، Staphylococcus saprophyticus], [Proteus ← سنگ‌های Struvite (فصل ۴۱)],
+    [Pseudomonas، ارگانیزم‌های مقاوم (**ESBL**)], [شفاخانه، کتیتر، استفادهٔ قبلی آنتی‌بیوتیک],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**خطر:** مقاربت، دیابت، حاملگی، یائسگی، انسداد، کتیتر، **استفادهٔ قبلی آنتی‌بیوتیک** (خطر مقاومت).
+⚠️ **مقاومت در افغانستان:** مصرف گستردهٔ آنتی‌بیوتیک بدون نسخه، مقاومت را بلند برده است. **هر جا ممکن است، کلچر ادرار بفرست** و انتخاب را با نتایج کلچر و داده‌های مقاومت محلی تنظیم کن (NICE NG109 1.4.1).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۵. Symptoms & Signs
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*Cystitis*], [*Pyelonephritis*], [*مسن/ضعیف*],
+    [سوزش ادرار (Dysuria)], [**تب، لرزه**], [اکثراً علایم کلاسیک ندارد],
+    [تکرر، عجله], [**درد پهلو** یا زاویهٔ Costovertebral], [اختلال شعور، افتادن],
+    [درد بالای عانه], [دلبدی، استفراغ], [⚠️ اما **اختلال شعور تنها + باکتری در ادرار ≠ UTI** — علت دیگر را جستجو کن],
+    [ادرار کدر یا خونی], [علایم Cystitis هم ممکن است باشد], [],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**در مرد:** تب + علایم ادراری + پروستات حساس ← **Prostatitis حاد** (تداوی طولانی‌تر).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۶. Clinical Examination
+- علایم حیاتی — **سپسیس** را رد کن (qSOFA/NEWS2؛ فصل ۱).
+- حساسیت **زاویهٔ Costovertebral**.
+- **مثانهٔ پر** (انسداد).
+- در مرد: **معاینهٔ مقعدی** با احتیاط (پروستات حساس — ماساژ نده).
+- در زن: ترشح مهبلی ← Vaginitis یا STI را در نظر بگیر.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۷. Quick Differential Diagnosis
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*شکایت*], [*به جز UTI فکر کن به*],
+    [سوزش ادرار با ترشح مهبلی], [Vaginitis، **STI** (Chlamydia، Gonorrhoea)],
+    [سوزش ادرار در مرد جوان], [**Urethritis** (STI)],
+    [درد پهلو بدون تب], [**سنگ گرده** (فصل ۴۱)],
+    [درد پهلو + تب + مسن], [Pyelonephritis، **آبسهٔ گرده**، انسداد انتانی],
+    [علایم ادراری مکرر با کلچر منفی], [TB مجاری ادرار (**Sterile pyuria**)، سرطان مثانه، سیستیت بین‌نسجی],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ **Sterile pyuria** (WBC در ادرار با کلچر معمولی منفی) در افغانستان ← **TB ادراری** را فراموش نکن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۸. Investigations — Basic → Advanced
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*تست*], [*کی*],
+    [**Dipstick** (Leukocyte esterase، Nitrite)], [کمک در زن جوان با علایم؛ منفی بودن UTI را کاملاً رد نمی‌کند],
+    [**کلچر ادرار (Midstream)** — **پیش از آنتی‌بیوتیک**], [**حاملگی، مرد، Pyelonephritis، UTI اختلاطی یا عودکننده، ناکامی تداوی** (NICE NG109 1.1.6؛ NG111 1.1.2)],
+    [CBC، Creatinine، CRP، **کلچر خون**، Lactate], [Pyelonephritis شدید یا سپسیس],
+    [**Ultrasound**], [شک به انسداد، سنگ، آبسه، پاسخ ندادن به تداوی],
+    [CT], [آبسه، Emphysematous pyelonephritis (دیابتی)، سنگ],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ **کلچر ادرار را در مریض بی‌علامه نفرست** (به استثنای حاملگی و پیش از پروسیجرهای یورولوژیک) — نتیجهٔ مثبت ما را به تداوی بی‌فایده می‌کشاند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۹. Diagnosis & Diagnostic Criteria
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*حالت*], [*Diagnostic Criteria (عملی)*],
+    [**Cystitis ساده در زن**], [علایم کلاسیک (سوزش + تکرر/عجله) بدون ترشح مهبلی و بدون تب؛ dipstick کمک‌کننده],
+    [**Pyelonephritis**], [تب/لرزه + درد پهلو ± علایم ادراری + کلچر مثبت],
+    [**Asymptomatic bacteriuria**], [بیشتر از ۱۰⁵ CFU/ml **بدون علایم** (NICE NG109 1.2.1)],
+    [**cUTI**], [UTI + یکی از عوامل اختلاطی (§۲)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۰. Management (تداوی)
+=== ۱۰.۱ عاجل — Urosepsis
+- **Sepsis bundle** (فصل سپسیس): کلچر خون و ادرار، مایع، آنتی‌بیوتیک وریدی **زود**.
+- **IDSA 2025 (cUTI با سپسیس):** انتخاب اولیه از میان **سفالوسپورین‌های نسل سوم یا چهارم، Carbapenem، Piperacillin-tazobactam یا Fluoroquinolone** — نه دواهای جدید (بتالاکتام/مهارکننده‌های جدید، Cefiderocol، Plazomicin) و نه Aminoglycosideهای قدیمی به‌عنوان انتخاب معمول (توصیهٔ مشروط). انتخاب با یک **ارزیابی چهارقدمه**: شدت مرض؛ خطر مقاومت (کلچرهای قبلی، مصرف قبلی آنتی‌بیوتیک)؛ عوامل مریض (حساسیت، تداخلات)؛ و Antibiogram **محلی، تازه و مرتبط**.
+- **Fluoroquinolone را اجتناب کن** اگر مریض در **۱۲ ماه گذشته** این کلاس را گرفته است (IDSA 2025).
+- **کنترول منبع:** انسداد انتانی (سنگ + تب) = **عاجل یورولوژیک** (Nephrostomy یا Stent).
+=== ۱۰.۲ Cystitis — زن غیرحامله ۱۶ سال یا بیشتر (NICE NG109، جدول ۱)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*انتخاب*], [*دوا*], [*دوز · راه · تکرار · مدت*],
+    [**اول**], [**Nitrofurantoin** (اگر eGFR ۴۵ یا بیشتر)], [**۱۰۰ mg Modified-release فمی دو بار در روز** (یا اگر موجود نبود **۵۰ mg چهار بار در روز**) — **۳ روز**],
+    [اول], [**Trimethoprim** (اگر خطر مقاومت کم)], [**۲۰۰ mg فمی دو بار در روز — ۳ روز**],
+    [دوم], [**Pivmecillinam**], [**۴۰۰ mg دوز اول، بعد ۲۰۰ mg سه بار در روز** — مجموعاً **۳ روز**],
+    [دوم], [**Fosfomycin**], [**۳ g ساشهٔ یک‌دوزه**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **Back-up prescription** (نسخهٔ احتیاطی) در زن غیرحامله با علایم خفیف ممکن است: اگر در **۴۸ ساعت** بهتر نشد یا بدتر شد، استفاده کند (NG109 1.1.3).
+- Nitrofurantoin در **eGFR ۳۰–۴۴** فقط با احتیاط برای ارگانیزم مقاوم چنددوایی، اگر فایده بر خطر بچربد (NG109). **عوارض ریوی و کبدی** Nitrofurantoin را به یاد داشته باش (MHRA).
+- خطر مقاومت Trimethoprim **کمتر** است اگر در **۳ ماه گذشته** مصرف نشده باشد؛ **بیشتر** در مسنان مقیم مراکز مراقبت.
+=== ۱۰.۳ Cystitis — زن حامله (NICE NG109، جدول ۲)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*انتخاب*], [*دوا*], [*دوز · راه · تکرار · مدت*],
+    [**اول**], [**Nitrofurantoin** (eGFR ۴۵ یا بیشتر)], [**۱۰۰ mg MR فمی دو بار در روز** (یا ۵۰ mg چهار بار) — **۷ روز**. ⚠️ **نزدیک زایمان (Term) نه** — خطر همولیز نوزاد],
+    [دوم], [**Amoxicillin** (فقط اگر کلچر حساس)], [**۵۰۰ mg فمی سه بار در روز — ۷ روز**],
+    [دوم], [**Cefalexin**], [**۵۰۰ mg فمی دو بار در روز — ۷ روز**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **کلچر پیش از تداوی** و بازبینی با نتیجه.
+- **Asymptomatic bacteriuria در حاملگی تداوی می‌شود** (خطر Pyelonephritis و زایمان زودرس) — از Nitrofurantoin، Amoxicillin یا Cefalexin بر پایهٔ کلچر (NG109 1.2.1–1.2.2).
+- **نسرین** (ماه هفتم): کلچر + Nitrofurantoin ۷ روز یا Cefalexin؛ نزدیک Term Nitrofurantoin نه.
+=== ۱۰.۴ UTI پایین در مرد (NICE NG109، جدول ۳)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*انتخاب*], [*دوا*], [*دوز · راه · تکرار · مدت*],
+    [**اول**], [**Trimethoprim**], [**۲۰۰ mg فمی دو بار در روز — ۷ روز**],
+    [اول], [**Nitrofurantoin** (eGFR ۴۵ یا بیشتر)], [**۱۰۰ mg MR دو بار در روز — ۷ روز**؛ ⚠️ **در شک به درگیری پروستات نه** (به پروستات نمی‌رسد)],
+    [دوم], [—], [تشخیص‌های دیگر؛ رهنمود Pyelonephritis یا Prostatitis؛ بر پایهٔ کلچر],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **کلچر پیش از تداوی** برای همه مردان.
+=== ۱۰.۵ Pyelonephritis حاد — کاهلان غیرحامله (NICE NG111، جدول ۱)
+**فمی خط اول** (اگر مریض می‌تواند فمی بگیرد و شدت اجازه می‌دهد — NG111 1.3.2):
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*دوز · راه · تکرار · مدت*],
+    [**Cefalexin**], [**۵۰۰ mg دو یا سه بار در روز** (در انتان شدید تا **۱–۱٫۵ g سه یا چهار بار در روز**) — **۷–۱۰ روز**],
+    [**Co-amoxiclav** (فقط اگر کلچر حساس)], [**۵۰۰/۱۲۵ mg سه بار در روز — ۷–۱۰ روز**],
+    [**Trimethoprim** (فقط اگر کلچر حساس)], [**۲۰۰ mg دو بار در روز — ۱۴ روز**],
+    [**Ciprofloxacin** (**فقط اگر** بقیه مناسب نیستند)], [**۵۰۰ mg دو بار در روز — ۷ روز**. ⚠️ **MHRA 2024:** Fluoroquinoloneها فقط وقتی تجویز شوند که دیگر آنتی‌بیوتیک‌های معمول مناسب نیستند (خطر عوارض ناتوان‌کننده و طولانی: وتر، اعصاب، روان، Aorta)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**وریدی خط اول** (استفراغ، ناتوانی فمی، مرض شدید؛ در نگرانی سپسیس یا مقاومت، ترکیب ممکن است):
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*دوز · راه · تکرار*],
+    [**Ceftriaxone**], [**۱–۲ g IV یک بار در روز**],
+    [**Cefuroxime**], [**۷۵۰ mg تا ۱٫۵ g IV سه یا چهار بار در روز**],
+    [**Co-amoxiclav** (در ترکیب یا اگر کلچر حساس)], [**۱٫۲ g IV سه بار در روز**],
+    [**Gentamicin**], [**ابتدا ۵–۷ mg/kg IV یک بار در روز**؛ دوزهای بعدی بر پایهٔ سطح سیرومی؛ **نظارت سطح دوا و وظیفهٔ گرده لازم**],
+    [**Amikacin**], [**ابتدا ۱۵ mg/kg IV یک بار در روز (حداکثر ۱٫۵ g در هر دوز)**؛ بعد بر پایهٔ سطح سیرومی (حداکثر ۱۵ g در هر کورس)؛ نظارت سطح و گرده],
+    [**Ciprofloxacin IV** (فقط اگر بقیه مناسب نیستند)], [**۴۰۰ mg دو یا سه بار در روز**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **دوای وریدی را تا ۴۸ ساعت بازبینی** کن و در صورت امکان به فمی تبدیل کن (NG111 1.3.3؛ IDSA 2025 همین را پیشنهاد می‌کند).
+**Pyelonephritis در حاملگی (NG111، جدول ۲):** فمی: **Cefalexin ۵۰۰ mg دو یا سه بار در روز** (تا ۱–۱٫۵ g سه یا چهار بار در شدید) **۷–۱۰ روز**؛ وریدی: **Cefuroxime ۷۵۰ mg–۱٫۵ g سه یا چهار بار در روز**. ارجاع یا مشوره با متخصص (NG111 1.1.10).
+=== ۱۰.۶ مدت تداوی در cUTI — 🔄 IDSA 2025 (جدیدتر از NICE 2018)
+- مریضی که با تداوی مؤثر **بهتر می‌شود**: **Fluoroquinolone ۵–۷ روز** (مشروط، شواهد متوسط) **یا غیر Fluoroquinolone ۷ روز** (مشروط، شواهد خیلی کم) — به جای ۱۰–۱۴ روز.
+- **cUTI با Bacteraemia گرام‌منفی** که بهتر می‌شود: **۷ روز** به جای ۱۴ روز (مشروط، شواهد کم).
+- مدت از **اولین روز آنتی‌بیوتیک مؤثر** حساب می‌شود.
+- **استثناها (مدت فردی):** مرد با UTI تب‌دار و شک به **Prostatitis حاد** (شاید ۱۰–۱۴ روز)، کتیتر، آبسه، انسداد کامل، ایمنی ضعیف، CKD — این گروه‌ها در تریال‌ها کم بودند.
+- شواهد کوتاه‌مدت برای **بتالاکتام‌های فمی** محدودتر است و شاید **دوز بلندتر** لازم باشد.
+⚠️ **تفاوت منابع:** NICE NG111 (2018) برای Cefalexin و Co-amoxiclav **۷–۱۰ روز** و برای Trimethoprim **۱۴ روز** می‌گوید؛ IDSA 2025 برای غیر Fluoroquinolone در مریض بهبودیابنده **۷ روز** را پیشنهاد می‌کند. هر دو را بدان؛ در مریض پیچیده یا بهبود کند، مدت طولانی‌تر.
+=== ۱۰.۷ حاجی رحیم — cUTI با سپسیس
+Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسداد (پروستات)، کتیتر مثانه اگر باقی‌ماندهٔ ادرار زیاد است. آنتی‌بیوتیک وریدی مطابق §۱۰.۱ و Antibiogram محلی. پس از کلچر، **دوای هدفمند** (IDSA 2025). مرد تب‌دار با شک Prostatitis ← مدت فردی.
+=== ۱۰.۸ غیر دوایی
+- **Paracetamol** برای درد (یا Ibuprofen در صورت مناسب بودن در Cystitis) (NG109 1.3.1؛ در Pyelonephritis Paracetamol ± Codeine دوز پایین — NG111 1.2.1). ⚠️ در مریض AKI یا CKD، **NSAID نه**.
+- **مایع کافی** برای جلوگیری از کم‌آبی.
+- **Cranberry و قلوی کردن ادرار** برای تداوی UTI **شواهد ندارند** (NG109 1.3.3).
+=== ۱۰.۹ پروسیجرها
+- رفع **انسداد انتانی** (Nephrostomy/Stent) — عاجل.
+- **تخلیهٔ آبسهٔ** گرده یا اطراف گرده.
+- برداشتن یا تعویض **کتیتر** در CAUTI.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۱. Complications (اختلاطات)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*اختلاط*], [*نکته*],
+    [**Urosepsis** و شاک], [مرگ‌آور؛ مسن، دیابتی، انسداد],
+    [**آبسهٔ گرده/اطراف گرده**], [تب دوامدار با وجود آنتی‌بیوتیک ← CT],
+    [**Emphysematous pyelonephritis**], [در دیابتی؛ گاز در نسج گرده؛ جراحی/درناژ],
+    [**Pyonephrosis**], [انسداد + چرک = عاجل],
+    [**AKI**], [فصل ۳۸],
+    [حاملگی: زایمان زودرس], [تداوی Asymptomatic bacteriuria],
+    [**Prostatitis مزمن**], [تداوی طولانی],
+    [**عوارض دوا**], [*C. difficile*؛ عوارض Fluoroquinolone؛ ریه و کبد با Nitrofurantoin],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۲. Prognosis & Follow-up
+- Cystitis ساده با تداوی درست اکثراً در چند روز خوب می‌شود. **اگر در ۴۸ ساعت بهتر نشد**، دوباره ارزیابی کن: تشخیص دیگر، Pyelonephritis، مقاومت (NG109 1.1.15؛ NG111 1.1.8).
+- **Pyelonephritis که با تداوی بهتر نمی‌شود** ← تصویربرداری (انسداد، آبسه).
+- **UTI در مرد، عودکننده یا اختلاطی** ← ارزیابی علت (Ultrasound، باقی‌ماندهٔ ادرار، ارجاع یورولوژی).
+- **حاملگی:** کلچر پس از تداوی مطابق برنامهٔ مراقبت حاملگی.
+- *وقایهٔ UTI عودکننده (آنتی‌بیوتیک وقایوی، Methenamine، Estrogen مهبلی در یائسگی) — بدهی SD-24 (دوزها از منبع اولیه در این دوره تأیید نشد).*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 Memory Joggers
+- **سه سؤال:** کجا؟ ساده یا اختلاطی؟ سپسیس؟
+- **«۳ روز زن، ۷ روز مرد و حامله»** — Cystitis (NICE NG109).
+- **Nitrofurantoin:** eGFR ۴۵ یا بیشتر؛ نه در Pyelonephritis؛ نه در پروستات؛ نه نزدیک Term.
+- **Fluoroquinolone = آخرین انتخاب** (MHRA 2024) و نه اگر در ۱۲ ماه گذشته گرفته (IDSA 2025).
+- **«باکتری بدون علایم را تداوی نکن — مگر در حاملگی.»**
+- **IDSA 2025:** cUTI بهبودیابنده = **۷ روز** (یا Fluoroquinolone ۵–۷ روز).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⚠️ Red Flags
+- ⚠️ **تب + فشار پایین + علایم ادراری** — Urosepsis؛ bundle فوری.
+- ⚠️ **تب + درد پهلو + سنگ/Hydronephrosis** — انسداد انتانی؛ درناژ عاجل.
+- ⚠️ **دیابتی با Pyelonephritis شدید** — Emphysematous pyelonephritis؛ CT.
+- ⚠️ **تب دوامدار با وجود آنتی‌بیوتیک مناسب** — آبسه یا انسداد.
+- ⚠️ **حامله با تب و درد پهلو** — بستری.
+- ⚠️ **مرد با Retention و تب** — Prostatitis حاد یا آبسهٔ پروستات.
+- ⚠️ **Sterile pyuria دوامدار** — TB ادراری.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 📚 References
+- NICE. **Urinary tract infection (lower): antimicrobial prescribing (NG109).** 2018 — توصیه‌های 1.1–1.4 و جداول ۱–۳.
+- NICE. **Pyelonephritis (acute): antimicrobial prescribing (NG111).** 2018 (به‌روز با هشدار MHRA جنوری 2024) — جداول ۱–۲.
+- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric (خلاصه‌های Guideline Central و emDocs 2025).
+- MHRA Drug Safety Update. **Fluoroquinolone antibiotics: must now only be prescribed when other commonly recommended antibiotics are inappropriate.** January 2024.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🎯 قدم کوچک در کنار بستر
+1. پیش از نوشتن آنتی‌بیوتیک برای «UTI»، بپرس: **حامله؟ مرد؟ تب؟ کتیتر؟**
+2. **کلچر پیش از اولین دوز** در هر مریض غیر از زن جوان با Cystitis ساده.
+3. پیش از Nitrofurantoin، **eGFR** را ببین.
+4. نتیجهٔ کلچر را **روز دوم یا سوم** ببین و دوا را **تنگ‌طیف** کن.
+5. در مسن با اختلال شعور، پیش از برچسب UTI **علت دیگر** را جستجو کن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔗 اتصال به فصل‌ها
+- **فصل ۳۶:** Dipstick، Pyuria و Haematuria.
+- **فصل ۳۸:** AKI در Urosepsis.
+- **فصل ۴۱:** سنگ گرده — انسداد انتانی.
+- **فصل‌های انتانی:** سپسیس و TB.
+- **فصل ۴۶:** دیابت — خطر Emphysematous pyelonephritis.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⏱️ مرور ۶۰ ثانیه
+1. Cystitis ساده در زن غیرحامله؟ — *Nitrofurantoin ۱۰۰ mg MR دو بار در روز ۳ روز (eGFR ۴۵ یا بیشتر) یا Trimethoprim ۲۰۰ mg دو بار در روز ۳ روز.*
+2. Asymptomatic bacteriuria را کی تداوی کنیم؟ — *فقط در حاملگی (از گروه‌های این فصل).*
+3. Pyelonephritis فمی خط اول (NICE)؟ — *Cefalexin ۵۰۰ mg دو یا سه بار در روز ۷–۱۰ روز.*
+4. مدت cUTI بهبودیابنده (IDSA 2025)؟ — *۷ روز غیر Fluoroquinolone یا ۵–۷ روز Fluoroquinolone.*
+5. چرا Nitrofurantoin در Prostatitis نه؟ — *به سطح مؤثر در پروستات نمی‌رسد.*
