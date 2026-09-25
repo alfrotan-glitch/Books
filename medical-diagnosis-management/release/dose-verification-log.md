@@ -617,3 +617,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۸۱: RCUK 2021 §3.1/3.3 — علایم پوستی تا ۲۰٪ غایب (اصلاح دقت از «۱۰–۲۰»).
 - ✅ فصل ۷۷: ERC–ESICM 2025 — کنترول حرارت ≤۳۷٫۵ °C برای ۳۶–۷۲ ساعت، گرم نکردن Hypothermia خفیف، عدم مایع سرد روتین.
 - ✅ فصل ۵۵: AES 2016 متن کامل — Phenobarbital ۲۰ mg/kg (اجماعی) و جایگاه بدیل.
+- ✅ فصل ۶۸: WHO malaria guidelines 3rd ed. (خلاصه) و SmPC Artesunate WHO-PQ — دوزهای Artesunate و Primaquine مطابق؛ فاصلهٔ ۸–۱۲ ساعت تا ACT فمی افزوده شد.

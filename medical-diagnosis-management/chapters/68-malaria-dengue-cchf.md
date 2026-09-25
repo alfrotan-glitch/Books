@@ -49,7 +49,7 @@
 **ملاریای شدید — Artesunate وریدی** (خط اول برای همه سنین، **شامل حاملگی در همهٔ تریمسترها**) (WHO؛ MSF):
 - **۲.۴ mg/kg** وریدی (یا عضلی) در **صفر، ۱۲ و ۲۴ ساعت**، بعد **یک بار در روز**، تا مریض دوای فمی را تحمل کند.
 - **حد اقل ۲۴ ساعت** تداوی زرقی داده شود، حتی اگر زودتر بتواند بخورد.
-- بعد یک **دورهٔ کامل ACT فمی** داده شود.
+- بعد یک **دورهٔ کامل ۳ روزهٔ ACT فمی** داده شود؛ اولین دوز فمی **۸–۱۲ ساعت پس از آخرین زرق** (برگهٔ دوای Artesunate تأییدشدهٔ WHO).
 - **اطفال کمتر از ۲۰ kg:** ۳ mg/kg (WHO).
 - **اگر Artesunate نیست:** Artemether عضلی یا Quinine. Quinine دیگر تداوی استندرد نیست.
 - **پیش از راجع:** در جایی که تداوی کامل ممکن نیست، یک دوز Artesunate عضلی **۲.۴ mg/kg** بده و مریض را راجع کن.
@@ -198,6 +198,6 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 5. اولین اقدام در شک به CCHF؟ ← جداسازی و وسایل حفاظتی، اطلاع به نظارت.
 
 ## 📚 References
-1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. (از طریق MSF Clinical Guidelines و severemalaria.org؛ متن اصلی مستقیم خوانده نشد → SD-53.)
+1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. WHO Guidelines for the treatment of malaria, 3rd ed. (afro.who.int، خلاصهٔ توصیه‌ها مستقیم خوانده شد: Artesunate ۲٫۴/۳ mg/kg، ۲۴ ساعت زرقی، ACT ۳ روزه، Primaquine ۰٫۲۵–۰٫۵ mg/kg × ۱۴ روز و استثناهای آن)؛ WHO Prequalification — Artesunate for injection, SmPC §4.2.
 2. Médecins Sans Frontières. Clinical guidelines: Malaria. medicalguidelines.msf.org.
 3. World Health Organization. WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: WHO; 2025.
