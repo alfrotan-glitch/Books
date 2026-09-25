@@ -45,6 +45,7 @@
 | 53 | نوشته شده: تعریف انمی (WHO 2024 با تعدیل ارتفاع)، ترانسفیوژن (AABB 2023)، MCV، Reticulocyte، لام، WBC/Platelet، Pancytopenia، عقدات، طحال؛ SD-46 |
 | 54 | نوشته شده: فقر آهن (BSG 2021، AGA 2020)، B12/Folate (NICE 2024 ثانوی)؛ SD-47 |
 | 55 | نوشته شده: رهیافت همولیز، DAT، G6PD/Primaquine (WHO)، AIHA گرم (Jäger 2020)، ارثی، همولیز کشنده؛ SD-48 |
+| 56 | نوشته شده: FN (IDSA/ASCO)، Leukaemia حاد و سه عاجل (APL، Leukostasis، TLS)، CML مختصر، AA (BSH 2024)؛ SD-49 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

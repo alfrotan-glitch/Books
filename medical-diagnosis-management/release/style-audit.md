@@ -89,3 +89,9 @@
 1. کیس احمد (Primaquine/G6PD) — درس محلی Vivax؛ بسته شد.
 2. Compound: Reticulocyte (۵۳)، Dipstick بدون کریوه (۳۶، ۳۸)، حفاظت استخوان Steroid (۵۱)، HBV پیش از Rituximab (۳۲)؛ آماده‌سازی فصل ۵۷ و ۶۱.
 3. زبان: اسکنر و grep دستی پاک.
+
+### فصل ۵۶ — Aplastic، Leukaemia، FN
+1. کیس فریده: دو عاجل هم‌زمان (FN + APL)؛ بسته شد.
+2. Compound: Pancytopenia (۵۳)، B12 (۵۴)، G6PD/Rasburicase (۵۵)، Carbimazole (۴۸)، الکترولیت (۴۲)، DIC (۵۷)، سپسیس (۶۰).
+3. حد ۵۰۰/mm³ فصل ۵۳ این‌جا تأیید شد (بخش SD-46 مربوط).
+4. زبان: اسکنر و grep دستی پاک.

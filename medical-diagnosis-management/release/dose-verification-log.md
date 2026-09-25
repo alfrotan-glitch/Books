@@ -438,3 +438,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (WHO G6PD policy brief + WHO PQ SmPC MA176 2024): Primaquine ۰.۲۵–۰.۵ mg/kg ×۱۴ روز (بالغ ۵۰–۱۰۰ kg: ۱۵ mg)؛ ۰.۵ mg/kg ×۷ روز (WHO 2022)؛ کمبود: ۰.۷۵ mg/kg هفته‌وار ×۸ هفته (حد اکثر ۴۵ mg)؛ حد ۳۰ فیصد؛ زنان heterozygous؛ منع: حاملگی، کمتر از ۶ ماه، شیردهی.
 - VERIFIED (Jäger 2020 متن اولیه): Prednisolone ۱ mg/kg؛ بیشتر از ۱–۱.۵ فایده ندارد؛ کاهش از هفتهٔ ۲–۳؛ قطع ۳–۶ ماه؛ Rituximab خط دوم ترجیحی؛ خطر VTE.
 - ثانوی (SD-48): Rituximab ۳۷۵ mg/m² ×۴ یا ۱ g روز ۱ و ۱۵.
+
+## فصل ۵۶ — Aplastic، Leukaemia، تب در Neutropenia
+- دوز نوشته نشد (عمداً؛ SD-49). VERIFIED: تعریف FN (IDSA 2010: ۳۸.۳ یا ۳۸.۰ برای ۱ ساعت؛ ANC کمتر از ۵۰۰ یا انتظار در ۴۸ ساعت)؛ Antibiotic در ۶۰ دقیقه (ASCO/IDSA 2018 از منابع مبتنی بر آن)؛ BSH 2024 AA: ۱۰۰/۵۰/۱.۵؛ SAA ۲۵ فیصد + ۰.۵/۲۰/۶۰؛ VSAA ۰.۲.
