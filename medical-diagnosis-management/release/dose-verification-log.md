@@ -419,3 +419,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (برچسب Prolia 7/2026): ۶۰ mg SC هر ۶ ماه؛ Calcium ۱۰۰۰ mg + Vitamin D حد اقل ۴۰۰ IU؛ هشدار جعبه‌ای CKD پیشرفته؛ منع: Hypocalcaemia، حاملگی؛ شکستگی مهره پس از قطع.
 - VERIFIED (Workshop PHPT 2022): حدود جراحی (Ca بیش از ۱ mg/dL، T ≤−۲.۵، eGFR/CrCl کمتر از ۶۰، ادرار ۲۵۰/۳۰۰ mg، سن کمتر از ۵۰).
 - ثانوی (SD-44): Zoledronic acid ۵ mg سالانه، ۱۵ دقیقه، CrCl کمتر از ۳۵ منع؛ حدود NOGG (Prednisolone ۷.۵ mg، T ≤−۳.۵، مدت ۵/۳ سال).
+
+## فصل ۵۲ — هایپوگلایسیمی و لیپید
+- VERIFIED (ADA 2026 فصل ۱۶): ۱۵ g کاربوهایدریت سریع، نظارت هر ۱۵ دقیقه، تکرار تا بالای ۷۰ mg/dL؛ سطوح ۱/۲/۳ (۵۴–۶۹، کمتر از ۵۴، نیاز به کمک). این مقدار گرام بخش مربوط SD-33 را در فصل ۴۶ پوشش می‌دهد (فصل ۴۶ هنوز به SD-33 ارجاع دارد؛ SD-33 به دلیل دوزهای دیگر باز است).
+- VERIFIED (برچسب FDA Glucagon): ۱ mg SC/IM/IV در بالغ و بالای ۲۵ kg؛ تکرار ۱ mg پس از ۱۵ دقیقه؛ منع: Pheochromocytoma، Insulinoma.
+- VERIFIED (ESC/EAS 2019، تأیید با EAS commentary و Medscape 2026 update 2025): اهداف LDL ۵۵/۷۰/۱۰۰/۱۱۶ mg/dL و کاهش ۵۰ فیصد.
+- دوزهای Statin/Ezetimibe از فصل ۸ و ۱۳ (تکرار نشد).
