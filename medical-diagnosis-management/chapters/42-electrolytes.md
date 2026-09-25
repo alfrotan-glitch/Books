@@ -12,7 +12,7 @@
 
 ---
 
-# بخش الف — Hyperkalaemia
+## الف) Hyperkalaemia
 
 ## 🔹 ۱. Core Concept
 
@@ -122,7 +122,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-# بخش ب — Hypokalaemia
+## ب) Hypokalaemia
 
 ## 🔹 ۱–۳. Core, Definition, Pathophysiology
 
@@ -151,7 +151,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-# بخش ج — Hypercalcaemia
+## ج) Hypercalcaemia
 
 ## 🔹 ۱. Core Concept
 
@@ -210,7 +210,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-# بخش د — Hypocalcaemia
+## د) Hypocalcaemia
 
 ## 🔹 ۱–۴. Core, Definition, Pathophysiology, Etiology
 
@@ -246,7 +246,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ---
 
-# بخش هـ — Magnesium و Phosphate (مختصر)
+## هـ) Magnesium و Phosphate (مختصر)
 
 | اختلال | علل کلیدی | چرا مهم است | تداوی |
 |---|---|---|---|

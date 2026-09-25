@@ -173,6 +173,7 @@
 │ 🔁 مرور  ثانیه‌ای          (Compound Effect — ۵ سؤال)  │
 └────────────────────────────────────────────────────────┘
 #set page(numbering: "1", number-align: center)
+= بخش اول — اساس تشخیص
 = فصل ۱ — رهیافت به مریض: تاریخچه، ABCDE و علایم حیاتی (Approach to the Patient)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -602,7 +603,7 @@ ECG فعالیت برقی قلب را روی کاغذ ثبت می‌کند. دا
     [**PE**], [شایع‌ترین یافته **تاکیکاردی سینوسی**؛ S1Q3T3 نادر و غیراختصاصی؛ RBBB جدید، T inversion V1–V4، انحراف محور به راست], [۱۴],
     [**پریکاردیت**], [ST elevation مقعر گسترده + PR depression], [۱۱],
     [**مسمومیت دیجوکسین**], [اکستراسیستول‌های بطینی، تاکیکاردی دهلیزی با بلاک، بلاک AV؛ «Reverse tick» اثر دوا است، نه مسمومیت], [۱۰],
-    [**هایپوترمی**], [موج Osborn (J wave)، برادیکاردی، QT طولانی], [۸۳],
+    [**هایپوترمی**], [موج Osborn (J wave)، برادیکاردی، QT طولانی], [۸۲],
     [**WPW**], [PR کوتاه، موج دلتا، QRS کمی پهن], [۱۰],
   ),
   caption: none,
@@ -1041,6 +1042,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 3. ALP بالا و GGT نورمال؟ **منشأ استخوانی.**
 4. D-dimer مثبت یعنی PE؟ **نه — فقط منفی بودن آن کمک‌کننده است.**
 5. K⁺ ۷.۲ در مریض بی‌علامت با نمونهٔ همولیزشده؟ **ECG فوری + تکرار نمونه؛ اگر ECG تغییر دارد، تداوی را منتظر نگذار.**
+= بخش دوم — سیستم قلب و عروق
 = فصل ۵ — رهیافت و معاینهٔ سیستم قلب و عروق (Cardiovascular Approach & Examination)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -4639,6 +4641,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 3. کدام DOACها پیش‌درآمد ۵ روزهٔ هیپارین لازم دارند؟ ← *Dabigatran و Edoxaban.*
 4. مریض ۸۰ ساله با D-dimer ۶۵۰ و Wells PE ۳؟ ← *حد سنی ۸۰۰ ← D-dimer منفی ← PE رد می‌شود.*
 5. مدت انتی‌کواگولیشن پس از PE ناشی از جراحی بزرگ؟ ← *۳ ماه.*
+= بخش سوم — سیستم تنفسی
 = فصل ۱۵ — رهیافت و معاینهٔ سیستم تنفسی (Respiratory Approach & Examination)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -6762,7 +6765,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
   🔗 **اتصال به گذشته:** در فصل ۱۵ **کریپیتیشن‌های خشک (Velcro)** و **کلبینگ** را دیدی؛ در فصل ۳ نمای **Reticular** و **Honeycombing** در CT و **کتلهٔ Hilar** را؛ در فصل ۱۶ اسپیرومتری **انسدادی** را (اینجا **محدودکننده** است)؛ در فصل ۱۸ **پنومونی اسپیراسیون** را که به ابسه می‌رسد؛ و در فصل ۱۹ **کاویتی سلی** را که مهم‌ترین تفریق ابسه و سرطان کاویتی است.
 ]
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — امراض بینابینی ریه (Interstitial Lung Disease — ILD)
+== الف) امراض بینابینی ریه (Interstitial Lung Disease — ILD)
 == 🔹 ۱. Core Concept (مفهوم بنیادی)
 ⚗️ **فرمول:** `تنگی نفس پیشرونده + سرفهٔ خشک + کریپیتیشن Velcro در قاعده‌ها + الگوی محدودکننده با DLCO پایین = ILD تا خلاف آن ثابت شود ← HRCT`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -6903,7 +6906,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - ⚠️ سیلیکوزیس + تب و کاهش وزن ← **سل**.
 - ⚠️ سرفه و تنگی نفس جدید پس از Amiodarone، Methotrexate، یا Immunotherapy ← **ILD دوایی** ← قطع دوا.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — سرطان ریه (Lung Cancer)
+== ب) سرطان ریه (Lung Cancer)
 == 🔹 ۱. Core Concept (مفهوم بنیادی)
 ⚗️ **فرمول:** `سگرتی بیش از ۴۰ ساله + سرفهٔ جدید یا تغییر سرفه، همپتیزی، کاهش وزن، یا پنومونی که بهبود نمی‌یابد = سرطان ریه تا خلاف آن ثابت شود ← CT`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -7051,7 +7054,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - ⚠️ گیجی + تشنج + سودیم پایین ← **SIADH**.
 - ⚠️ همپتیزی در سگرتی بیش از ۴۰ ساله ← CT حتی اگر CXR نورمال باشد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ج — ابسهٔ ریه (Lung Abscess)
+== ج) ابسهٔ ریه (Lung Abscess)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `اسپیراسیون (الکول، تشنج، سکته، بیهوشی، دندان خراب) + تب هفته‌ها + بلغم زیاد بدبو + کاویتی با سطح هوا-مایع = ابسهٔ ریه`
 == 🔹 ۲. Definition & Classification
@@ -7417,7 +7420,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
   🔗 **اتصال به گذشته:** در فصل ۱۵ تاریخچهٔ سرفه و بلغم را گرفتی؛ در فصل ۱۶–۱۷ COPD و آسم را (دو علت سرفه)؛ در فصل ۱۹ **سل** (مهم‌ترین علت همپتیزی در افغانستان)؛ در فصل ۲۱ **سرطان ریه و ابسه**؛ و در فصل ۲۲ مدیریت راه هوایی و انتوباسیون.
 ]
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — سرفهٔ مزمن (Chronic Cough)
+== الف) سرفهٔ مزمن (Chronic Cough)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `سرفه بیش از ۸ هفته + CXR نورمال + غیرسگرتی + بدون ACE inhibitor ← سه علت شایع: UACS (بینی)، آسم/برانشیت ایوزینوفیلیک، GERD`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -7563,7 +7566,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 == ⚠️ Red Flags
 همپتیزی؛ کاهش وزن؛ تعرق شبانه؛ سگرتی بیش از ۴۰ سال با سرفهٔ جدید یا تغییر سرفه؛ خشونت صدای دوامدار (بیش از ۳ هفته)؛ دیسفاژی؛ تنگی نفس شدید؛ CXR غیرنورمال؛ Stridor.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — همپتیزی (Haemoptysis)
+== ب) همپتیزی (Haemoptysis)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `همپتیزی ← (۱) آیا واقعاً از ریه است؟ (۲) چقدر و آیا راه هوایی در خطر است؟ (۳) کدام طرف؟ (۴) چه علتی؟`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -7753,6 +7756,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 3. دوز Gabapentin در RCC؟ ← *افزایش تدریجی تا حداکثر ۹۰۰ mg دو بار در روز.*
 4. مریض با همپتیزی شدید از کدام طرف بخوابد؟ ← *طرف خونریزی پایین.*
 5. تداوی خط اول همپتیزی شدید؟ ← *امبولیزیشن شرایین برانکیال (BAE).*
+= بخش چهارم — سیستم هضمی
 = فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -8359,7 +8363,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
   🔗 **اتصال به گذشته:** در فصل ۲۴ **درد شرسوفی** و **ALARM** را دیدی؛ در فصل ۲۵ **قرحهٔ خونریزی‌دهنده**، **Forrest** و **PPI IV**؛ در فصل ۵ **Aspirin و DAPT** (خطر GI)؛ و در فصل ۲۳ **GERD به حیث علت سرفهٔ مزمن**.
 ]
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — قرحهٔ هضمیه و H. pylori
+== الف) قرحهٔ هضمیه و H. pylori
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `قرحه = (H. pylori یا NSAID/Aspirin) + اسید ← تداوی = ریشه‌کنی H. pylori + قطع NSAID + PPI ۴–۸ هفته ← تأیید ریشه‌کنی`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -8495,7 +8499,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - ⚠️ **استفراغ غذای کهنه + Succussion splash** ← انسداد خروجی.
 - ⚠️ **قرحه‌های متعدد، مقاوم، با اسهال** ← Zollinger-Ellison.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — مرض ریفلکس معده به مری (Gastro-oesophageal Reflux Disease — GERD)
+== ب) مرض ریفلکس معده به مری (Gastro-oesophageal Reflux Disease — GERD)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `سوزش سینه (Heartburn) + برگشت (Regurgitation) ≥ ۲ بار در هفته بدون ALARM ← PPI ۸ هفته امتحانی ← پاسخ = تشخیص کلینیکی؛ بدون پاسخ یا ALARM ← اندوسکوپی ± pH-monitoring`
 == 🔹 ۲. Definition & Classification (Lyon 2.0 — 2023؛ ACG 2022)
@@ -10454,6 +10458,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 3. EPI: Faecal elastase کمتر از ۱۰۰ µg/g؛ PERT دست کم ۴۰,۰۰۰ واحد Lipase در هر غذا، در حین غذا.
 4. IBS تشخیص مثبت با Rome IV است. در IBS-D: سیرولوژی Coeliac و Calprotectin یا CRP. کلچر روتین نه.
 5. IBS: فایبر محلول، امتحان محدود Low-FODMAP، سایکوتراپی؛ IBS-D ← Rifaximin؛ IBS-C ← Linaclotide؛ درد ← TCA. SSRI، Probiotic و Tegaserod (از بازار برداشته شد) نه.
+= بخش پنجم — کبد، صفرا و پانقراس
 = فصل ۳۱ — هپاتیت‌های ویروسی (Viral Hepatitis: A, B, C, D, E)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -11279,7 +11284,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
   🔗 **اتصال به گذشته:** در فصل ۲۴ **Asterixis و Fetor hepaticus** را دیدی؛ در فصل ۲۵ **Lactulose پس از خونریزی واریسی**؛ در فصل ۳۲ **سیروز، SBP، هایپوناترمی و PPI**؛ در فصل ۱۹ **هپاتیت ناشی از دواهای ضد سل**.
 ]
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — عدم کفایهٔ حاد کبد (Acute Liver Failure — ALF)
+== الف) عدم کفایهٔ حاد کبد (Acute Liver Failure — ALF)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `ALF = INR ≥ ۱.۵ + انسفالوپاتی (هر درجه) + نبود مرض مزمن کبد + مدت کمتر از ۲۶ هفته ← ICU + NAC + ارجاع فوری به مرکز پیوند`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -11443,7 +11448,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **یرقان + همولیز Coombs منفی + ALP پایین در جوان** ← Wilson ← پیوند.
 - ⚠️ **اسهال شدید پس از خوردن سمارق وحشی** ← Amanita ← بستری حتی اگر بهتر شود (ALF در روز ۳–۵).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — انسفالوپاتی کبدی (Hepatic Encephalopathy — HE)
+== ب) انسفالوپاتی کبدی (Hepatic Encephalopathy — HE)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `گیجی در سیروزی = HE تا خلاف آن ثابت شود ← (۱) علل دیگر گیجی را رد کن (گلوکوز، سودیم، هیماتوم، انتان CNS، دواها، الکول) ← (۲) محرک را پیدا و تداوی کن ← (۳) Lactulose ← (۴) پیشگیری ثانوی (Lactulose ± Rifaximin)`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -11610,7 +11615,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
   🔗 **اتصال به گذشته:** در فصل ۲۴ **یرقان انسدادی**، **Murphy** و **Courvoisier** را دیدی؛ در فصل ۴ **الگوی کولستاتیک LFT (ALP و GGT)**؛ در فصل ۲۷ **بطن حاد** و انتی‌بیوتیک‌های داخل بطنی.
 ]
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — سنگ‌های صفراوی و اختلاطات آن
+== الف) سنگ‌های صفراوی و اختلاطات آن
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `درد RUQ/شرسوفی: کمتر از ۶ ساعت و بدون تب = کولیک؛ بیش از ۶ ساعت + تب + Murphy = کولی‌سیستیت؛ + یرقان = سنگ CBD؛ + تب + یرقان + درد (Charcot) = کلانژیت ← ERCP`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -11775,7 +11780,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **بطن تخته‌ای** ← انثقاب کیسه.
 - ⚠️ **یرقان بی‌درد + کاهش وزن** ← سرطان (Courvoisier) — نه سنگ.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — ابسهٔ کبد (Liver Abscess)
+== ب) ابسهٔ کبد (Liver Abscess)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `تب + درد RUQ + هپاتومگالی حساس + ضایعهٔ کیستیک در سونوگرافی = ابسهٔ کبد ← امیبی (جوان، مرد، اسهال یا سفر/منطقهٔ اندمیک) یا چرکی (مسن، امراض صفراوی، دیابت)`
 == 🔹 ۲. Definition & Classification
@@ -11853,7 +11858,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **درد چشم یا کاهش دید** در ابسهٔ Klebsiella ← Endophthalmitis.
 - ⚠️ **عدم پاسخ پس از ۵–۷ روز** ← درناژ یا تشخیص دیگر.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ج — کیست هایداتید (Cystic Echinococcosis)
+== ج) کیست هایداتید (Cystic Echinococcosis)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `کیست کبد (یا ریه) در مریضی از منطقهٔ مالداری (تماس با سگ و گوسفند) = هایداتید تا خلاف آن ثابت شود ← سونوگرافی (تصنیف WHO-IWGE) + سیرولوژی ← تداوی مطابق مرحله (Albendazole، PAIR، جراحی، یا Watch & wait)`
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -11996,7 +12001,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
   🔗 **اتصال به گذشته:** در فصل ۲۴ **درد شرسوفی منتشر به کمر** و علایم **Cullen/Grey-Turner** را دیدی؛ در فصل ۳۴ **سنگ CBD** (شایع‌ترین علت) و **ERCP**؛ در فصل ۲۲ **ARDS** (اختلاط پانکراتیت شدید)؛ در فصل ۲۷ **بطن حاد**.
 ]
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — پانکراتیت حاد (Acute Pancreatitis)
+== الف) پانکراتیت حاد (Acute Pancreatitis)
 == 🔹 ۱. Core Concept (مفهوم بنیادی)
 ⚗️ **فرمول تشخیص:** `۲ از ۳: (۱) درد شرسوفی تیپیک، (۲) Lipase ≥ ۳ برابر حد بالای نورمال، (۳) تصویربرداری تیپیک`
 ⚗️ **فرمول تداوی:** `مایع «متعادل» (نه تهاجمی) + مسکن کافی + تغذیهٔ فمی زود + بدون انتی‌بیوتیک پیشگیرانه + ERCP فقط در کلانژیت + کولی‌سیستکتومی در همان بستری (صفراوی)`
@@ -12169,7 +12174,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **خونریزی GI ناگهانی یا افت Hb** ← Pseudoaneurysm ← CTA + امبولیزیشن.
 - ⚠️ **پانکراتیت در مسن بدون علت** ← تومور.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — پانکراتیت مزمن (Chronic Pancreatitis)
+== ب) پانکراتیت مزمن (Chronic Pancreatitis)
 == 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `درد شرسوفی راجعه/دوامدار + استیاتوره + دیابت + کلسیفیکیشن پانکراس (در CT) = پانکراتیت مزمن ← قطع الکول و سگرت + PERT + کنترول درد + دیابت`
 == 🔹 ۲. Definition & Classification
@@ -12268,6 +12273,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 3. مایع‌تراپی مطابق WATERFALL؟ ← *LR؛ بولوس ۱۰ ml/kg اگر هایپوولمیک، سپس ۱.۵ ml/kg/h.*
 4. آیا انتی‌بیوتیک پیشگیرانه در نکروز داده شود؟ ← *نه.*
 5. دوز PERT با غذای اصلی؟ ← *۴۰٬۰۰۰–۵۰٬۰۰۰ واحد Lipase.*
+= بخش ششم — گرده
 = فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -13920,6 +13926,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - **Pyelonephritis که با تداوی بهتر نمی‌شود** ← تصویربرداری (انسداد، آبسه).
 - **UTI در مرد، عودکننده یا اختلاطی** ← ارزیابی علت (Ultrasound، باقی‌ماندهٔ ادرار، ارجاع یورولوژی).
 - **حاملگی:** کلچر پس از تداوی مطابق برنامهٔ مراقبت حاملگی.
+- **↩️ مریم** (Cystitis سادهٔ زن غیرحامله): معاینهٔ ادرار؛ **Nitrofurantoin ۳ روز** (eGFR نورمال) یا Fosfomycin یک دوز، مطابق بخش ۱۰.۲ — نه Ciprofloxacin. به او گفته شد اگر در ۴۸ ساعت بهتر نشد، یا تب و درد پهلو پیدا کرد، برگردد. نسرین (۱۰.۳) و حاجی رحیم (۱۰.۷) در همان بخش‌ها بسته شدند.
 - *وقایهٔ UTI عودکننده (آنتی‌بیوتیک وقایوی، Methenamine، Estrogen مهبلی در یائسگی) — بدهی SD-24 (دوزها از منبع اولیه در این دوره تأیید نشد).*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 Memory Joggers
@@ -14258,6 +14265,9 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - اگر با MET یا انتظار فرستاده شد: پلان پیگیری روشن + تصویربرداری تکراری برای تأیید دفع — **سنگ بی‌صدا هم می‌تواند گرده را خراب کند**.
 - **Stent register:** تاریخ برداشتن Stent را ثبت کن و به مریض بنویس.
 - عودکنندگان: ارزیابی متابولیک و پیگیری منظم.
+=== ↩️ برگشت به احمد و گلالی
+- **گلالی** (تب، لرزه، فشار پایین، سنگ حالب): کلچر خون و ادرار، **آنتی‌بیوتیک در همان ساعت** و مایع، و در همان شب **تخلیه** با Stent یا Nephrostomy. برداشتن خود سنگ تا ختم سپسیس ماند. سؤال کلیدی او «کدام آنتی‌بیوتیک؟» نبود؛ «گرده کی تخلیه می‌شود؟» بود.
+- **احمد** (درد بدون تب، سنگ کوچک پایین حالب): **NSAID** درد را آرام کرد. با Alpha blocker و انتظار رخصت شد؛ به او گفته شد ادرار را صاف کند، و با تب، درد مقاوم یا استفراغ فوراً برگردد. تصویربرداری تکراری دفع سنگ را تأیید کرد. تحلیل سنگ و سؤال «چرا ساخت؟» او را به بخش وقایه (۱۰.۷) برد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 Memory Joggers
 - 💡 **colic = مریض بی‌قرار؛ Peritonitis = مریض بی‌حرکت.**
@@ -14318,7 +14328,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 یک عدد در صفحهٔ لابراتوار می‌تواند در چند دقیقه قلب را متوقف کند. **Hyperkalaemia شدید** و **Hypocalcaemia شدید** از معدود حالاتی هستند که داکتر نوکریوال باید **پیش از رسیدن متخصص** تداوی را شروع کند. در مقابل، تداوی عجولانهٔ یک عدد اشتباه (مثلاً خون همولیزشده) هم ضرر دارد.
 **قاعدهٔ طلایی:** اول **ECG و مریض**، بعد عدد. عدد را تأیید کن، اما اگر ECG تغییر دارد، **برای تأیید منتظر نمان**.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش الف — Hyperkalaemia
+== الف) Hyperkalaemia
 == 🔹 ۱. Core Concept
 Potassium اکثراً **داخل حجره** است. فرق غلظت داخل و خارج حجره، **پتانسیل استراحت** غشای حجرات قلب و عضله را می‌سازد. Potassium بلند در خارج حجره این پتانسیل را کم‌منفی می‌کند → قلب **تحریک‌پذیر و بعد بی‌تحرک** می‌شود.
 تداوی سه قدم دارد (UKKA 2023):
@@ -14423,7 +14433,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پس از تداوی: K⁺ و قند خون منظم؛ بازبینی دواها؛ پلان برای CKD.
 **توقف قلب از Hyperkalaemia (UKKA 25.x):** Calcium chloride وریدی + ۱۰ واحد Insulin با ۲۵ g Glucose در کنار پروتوکول احیای قلبی.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ب — Hypokalaemia
+== ب) Hypokalaemia
 == 🔹 ۱–۳. Core, Definition, Pathophysiology
 - K⁺ پایین → غشا بیش از حد منفی (Hyperpolarization) در عضله و تغییر بازقطبی قلب → ضعف، Ileus، Arrhythmia.
 - علل سه گروه‌اند: **ضیاع گوارشی** (اسهال، استفراغ — فصل ۲۹)، **ضیاع گرده‌ای** (Diuretics، Hyperaldosteronism، Hypomagnesaemia، RTA)، **انتقال به حجره** (Insulin، Beta-agonist، Alkalosis، Thyrotoxic periodic paralysis).
@@ -14450,7 +14460,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 ⚠️ **هرگز Potassium chloride را بولوس وریدی نده** — توقف قلب. همیشه رقیق و با پمپ.
 🔒 **دوزها، غلظت حداکثر و سرعت حداکثر KCl وریدی (محیطی/مرکزی) و دوز فمی** از منبع اولیه (BNF/رهنمود ملی) در این نشست تأیید نشد → **SD-27 (UNVERIFIED)**. از پروتوکول محلی شفاخانه پیروی کن؛ در این فصل عدد نیامده.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش ج — Hypercalcaemia
+== ج) Hypercalcaemia
 == 🔹 ۱. Core Concept
 **بیش از ۹۰ فیصد علل = دو علت:** **Primary hyperparathyroidism** (سرپایی، خفیف، مزمن) و **سرطان** (بستری، شدید، سریع). اولین تست جداکننده: **PTH**.
 💡 «**Stones, bones, groans, thrones, psychic moans**» — سنگ گرده، درد استخوان، درد بطن/قبضیت، پُرادراری، اختلال روانی.
@@ -14515,7 +14525,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 ⚠️ **Furosemide به طور روتین نه** — فقط پس از جبران حجم و برای اضافه‌بار مایع (کم‌آبی را بدتر می‌کند).
 ⚠️ Bisphosphonate: Hypocalcaemia بعدی، اختلال گرده، Osteonecrosis فک (در مصرف طولانی).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش د — Hypocalcaemia
+== د) Hypocalcaemia
 == 🔹 ۱–۴. Core, Definition, Pathophysiology, Etiology
 - **Hypocalcaemia شدید** (Society for Endocrinology): **Calcium اصلاح‌شده کمتر از ۱.۹ mmol/L** و/یا **علایم** در هر سطح پایین‌تر از نورمال = **عاجل طبی**.
 - Calcium پایین → حجرات عصبی **بیش از حد تحریک‌پذیر** → Tetany، اختلاج.
@@ -14549,7 +14559,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - Extravasation Calcium → نکروز نسج؛ ورید بزرگ.
 **خفیف (بی‌علامت، ۱.۹ یا بیشتر):** Calcium فمی + تداوی علت (Vitamin D، Mg). 🔒 دوز Calcium فمی و Vitamin D (SfE نام‌های تجارتی UK می‌دهد، نه عنصر Calcium به mg) → SD-27.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-= بخش هـ — Magnesium و Phosphate (مختصر)
+== هـ) Magnesium و Phosphate (مختصر)
 #figure(
   table(columns: (auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -15171,6 +15181,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 3. Osmolality ادرار بلند + Sodium ادرار پایین؟ — *حجم مؤثر کم.*
 4. سه تشخیص که پیش از SIADH رد می‌شوند؟ — *کمبود Glucocorticoid، Hypothyroidism، Diuretic.*
 5. Sodium پس از Saline در مریض کم‌آب در ۶ ساعت ۹ mmol/L بلند رفت — چرا؟ — *حجم برگشت، ADH قطع شد، Aquaresis؛ مایع را تعدیل کن و خطر Overcorrection را مدیریت کن.*
+= بخش هفتم — اندوکراین
 = فصل ۴۵ — رهیافت به مریض اندوکراین: خواندن درست تست‌های هورمونی (Approach to Endocrine Disease)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -15605,7 +15616,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     [**Neuropathy** محیطی و اتونومیک], [پای دیابتی، Gastroparesis، Hypotension وضعیتی], [اعصاب],
     [**پای دیابتی**], [زخم، انتان، Charcot، قطع عضو], [—],
     [**ASCVD**], [علت اصلی مرگ], [۴، ۶],
-    [**MASLD**], [Fibrosis], [۳۰],
+    [**MASLD**], [Fibrosis], [۳۲],
     [انتانات], [UTI، جلد، TB (در افغانستان مهم)], [۴۰],
   ),
   caption: none,
@@ -16724,7 +16735,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - تعلیم sick day rules به پسرش
 - و مهم‌تر از همه: **«هیچ‌وقت Steroid را ناگهان قطع نکنید.»**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش دوم — وقتی غده زیاد می‌سازد: فشار بلند، Potassium پایین و کتلهٔ تصادفی
+== ب) وقتی غده زیاد می‌سازد: فشار بلند، Potassium پایین و کتلهٔ تصادفی
 **حاجی نورالله** ۴۸ ساله است. فشار خونش با سه دوا هم کنترول نمی‌شود. در معاینات روتین، Potassium او پایین آمده. داکتر قبلی گفته بود Thiazide علت آن است و یک تابلت Potassium اضافه کرده بود.
 حالا سؤال: آیا این فقط «فشار بلند سخت» است، یا غده‌ای پشت آن نشسته؟
 فشار بلند مقاوم به تداوی، به ویژه با Potassium پایین، یکی از جاهایی است که **pretest probability** یک علت اندوکراین به طور واضح بالا می‌رود. همان منطق فصل ۴۵ اینجا به کار می‌آید: **تست را وقتی بفرست که جوابش تصمیم را تغییر دهد.** در این مریض، جواب تست واقعاً تصمیم را عوض می‌کند، چون یک نوع آن با جراحی قابل علاج است.
@@ -17117,7 +17128,7 @@ Osteoporosis یعنی استخوان **کم** ولی درست ساخته‌شد�
 نتیجه ۳۸ mg/dL است. حاجی نورالله دیابت دارد و Glibenclamide می‌خورد. سه روز پیش پیشاب سوزش داشت و از آن وقت کم خورده است. Creatinine او هم بلند است.
 **قاعدهٔ اول این فصل:** هر مریض با تغییر هوشیاری، تشنج، یا علایم عصبی شبیه سکته → **قند انگشت پیش از هر تصویربرداری.** این عاجل‌ترین تست سی‌ثانیه‌ای طب داخله است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش اول — هایپوگلایسیمی
+== الف) هایپوگلایسیمی
 === ۱. چرا مغز اول آسیب می‌بیند؟ (mechanism)
 - مغز تقریباً فقط از Glucose انرژی می‌گیرد و ذخیرهٔ خودش را ندارد.
 - بدن در برابر پایین آمدن قند سه دفاع پشت سر هم دارد: اول ترشح Insulin کم می‌شود، بعد Glucagon بالا می‌رود، و بعد Adrenaline و Cortisol.
@@ -17220,7 +17231,7 @@ Glucose، Insulin، C-peptide، Proinsulin، Beta-hydroxybutyrate، و **سکر�
 ⚠️ **دام:** Insulin و C-peptide بلند، پس Insulinoma → جراحی. اگر سکرین Sulfonylurea فرستاده نشده باشد، مریض با هایپوگلایسیمی دوایی ممکن است عمل پانقراس شود. **سکرین را همیشه همراه نمونه بفرست.**
 محل‌یابی و تداوی Insulinoma، و هایپوگلایسیمی پس از جراحی معده (Bariatric)، برای متخصص است و در این فصل تحریر نشد → SD-45.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش دوم — لیپید: کلسترول به عنوان یک عامل خطر قابل تداوی
+== ب) لیپید: کلسترول به عنوان یک عامل خطر قابل تداوی
 === ۶. چرا LDL؟ (mechanism)
 - LDL-C ذرهٔ حامل کلسترول است که در دیوار شریان نفوذ می‌کند و در آن‌جا می‌ماند. پلاک Atherosclerosis از همین شروع می‌شود.
 - ESC/EAS 2019 LDL را **عامل سببی** Atherosclerosis می‌داند. هرچه کمتر و هرچه زودتر، بهتر.
@@ -17292,6 +17303,7 @@ Focused update 2025 اهداف LDL را **نگه داشت**. SCORE را با **S
 3. Glucagon for Injection — FDA prescribing information (Lilly/Amphastar labels; DailyMed/accessdata).
 4. Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J.* 2020;41:111–188.
 5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025. (از خلاصهٔ Medscape 2026.)
+= بخش هشتم — نورولوژی
 = فصل ۵۳ — رهیافت به مریض عصبی: «کجا» پیش از «چه»
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -18217,6 +18229,7 @@ Focused update 2025 اهداف LDL را **نگه داشت**. SCORE را با **S
 1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023. (خوانده نشد → SD-67.)
 2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018. (خوانده نشد → SD-67.)
 3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017. (خوانده نشد → SD-67.)
+= بخش نهم — خون
 = فصل ۶۰ — رهیافت به مریض خونی: CBC، لام خون، عقدات لمفاوی و طحال
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -18504,7 +18517,7 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 - در حاجی عبدالغفور، فقر آهنِ مرد مسن یعنی **خونریزی از GI تا خلافش ثابت شود**. شاید سرطان کولون.
 - در ملالی، Folic acid تنها در کمبود B12 **خطرناک** است. خون ممکن است بهتر شود، اما عصب بدتر می‌شود.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش اول — انمی فقر آهن
+== الف) انمی فقر آهن
 === ۱. mechanism: آهن کجا می‌رود؟
 - بدن آهن را **دفع فعال** نمی‌کند. آهن فقط با **ضایعات خون**، ریزش حجرات، یا انتقال به جنین کم می‌شود.
 - پس فقر آهن فقط از سه راه پیدا می‌شود:
@@ -18564,7 +18577,7 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 **حاجی عبدالغفور:** سه ماه آهن خورد، Hb بالا نرفت، و Colonoscopy نشده بود. Colonoscopy یک **سرطان کولون صعودی** یافت. کولون راست اکثراً خونریزی مخفی می‌دهد، نه خونریزی آشکار. جراحی در مرحلهٔ قابل علاج صورت گرفت.
 **درس:** «خون نمی‌سازد» اکثراً یعنی «خون از دست می‌دهد».
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش دوم — انمی Megaloblastic: کمبود B12 و Folate
+== ب) انمی Megaloblastic: کمبود B12 و Folate
 === ۵. mechanism: چرا حجرات بزرگ می‌شوند و چرا عصب آسیب می‌بیند؟
 - **B12 و Folate** هر دو برای ساختن **DNA** لازم‌اند. بدون آن‌ها، هستهٔ حجره آهسته‌تر از Cytoplasm پخته می‌شود. نتیجه، حجرات **بزرگ** (Megaloblast) است که بسیاری از آن‌ها در مغز استخوان می‌میرند. به همین دلیل گاهی LDH بلند و Bilirubin غیرمستقیم بلند دیده می‌شود، و اشتباهاً همولیز گمان می‌شود.
 - **تمام ردهٔ خون** متأثر است، پس **Pancytopenia** ممکن است (فصل ۶۰).
@@ -19320,7 +19333,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 **هر سه داکتر یک تکه از یک تصویر را دیده بودند.** کمردردی، گرده، انمی و Calcium، **چهار حرف CRAB**، یعنی **Multiple myeloma**.
 **درس Compound این فصل:** **وقتی یک مریض چند مشکل «غیرمرتبط» دارد، بپرس: آیا یک مرض همهٔ این‌ها را توضیح می‌دهد؟**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش اول — Multiple myeloma
+== الف) Multiple myeloma
 === ۱. mechanism: یک حجره، چهار آسیب
 - یک **Plasma cell** سرطانی در مغز استخوان تکثر می‌کند و **یک نوع Immunoglobulin** (پروتین M، یا فقط Light chain) زیاد می‌سازد.
 - هر حرف CRAB از یک mechanism می‌آید:
@@ -19397,7 +19410,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 - **چهار CRAB** با یک تشخیص توضیح شد.
 - اهتمام: مایع وریدی و تداوی Hypercalcaemia، **قطع Diclofenac**، ارجاع به هماتولوژی–انکولوژی.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش دوم — Lymphoma
+== ب) Lymphoma
 === ۵. mechanism و دو خانواده
 Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدات لمفاوی** شروع می‌شود، ولی ممکن است در هر عضو باشد: معده، جلد، مغز، یا مغز استخوان.
 #figure(
@@ -19434,7 +19447,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 - **فشار بر نخاع** (مثل Myeloma).
 - **Hypercalcaemia** (فصل ۴۲).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش سوم — CLL و MDS
+== ج) CLL و MDS
 === ۹. CLL — Lymphocytosis پایدار در مسن
 - **تشخیص (iwCLL 2018):**
 - **B lymphocyte ۵ × ۱۰⁹/L یا بیشتر** در خون محیطی؛
@@ -19497,6 +19510,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 == 📚 References
 1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548. (از طریق IMF/myeloma.org و Medscape.)
 2. Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. *Blood.* 2018;131(25):2745–2760.
+= بخش دهم — انتانات
 = فصل ۶۶ — رهیافت به مریض تب‌دار
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -19543,13 +19557,13 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
     [*سیستم*], [*سؤال / معاینه*], [*فکر کن به*], [*فصل*],
     [تنفسی], [سرفه، بلغم، درد صدری تنفسی، کرپیتیشن], [پنومونی، **TB**], [۱۸، ۱۹],
     [ادراری], [سوزش ادرار، درد پهلو، حساسیت زاویهٔ ضلعی–فقری], [Pyelonephritis], [۴۰],
-    [بطن], [درد، زردی، اسهال], [کولانژیت، ابسه، دیزانتری، **Typhoid**], [۲۸، ۶۲، ۶۳],
-    [عصبی], [سردردی، سفتی گردن، تشنج، تغییر شعور], [مننژیت، انسفالیت، **ملاریای مغزی**], [۶۱، ۷۵],
-    [جلد و نسج نرم], [سرخی، پندیدگی، زخم], [سلولیت، Necrotizing fasciitis], [۶۵],
+    [بطن], [درد، زردی، اسهال], [کولانژیت، ابسه، دیزانتری، **Typhoid**], [۳۴، ۶۹، ۲۹],
+    [عصبی], [سردردی، سفتی گردن، تشنج، تغییر شعور], [مننژیت، انسفالیت، **ملاریای مغزی**], [۶۸، ۵۷],
+    [جلد و نسج نرم], [سرخی، پندیدگی، زخم], [سلولیت، Necrotizing fasciitis], [۷۱],
     [قلب], [مرمر تازه، علایم Embolic], [**Endocarditis**], [۱۲],
-    [مفاصل], [مفصل داغ و پندیده], [ارتریت سپتیک], [۷۰],
+    [مفاصل], [مفصل داغ و پندیده], [ارتریت سپتیک], [۷۶],
     [دهن و گلو], [گلودرد، Exudate], [Pharyngitis (اکثراً ویروسی)], [—],
-    [وسایل], [**Catheter** وریدی یا ادراری], [انتان وسیله], [۶۰],
+    [وسایل], [**Catheter** وریدی یا ادراری], [انتان وسیله], [۶۷],
   ),
   caption: none,
 )
@@ -19564,15 +19578,15 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*سرنخ در تاریخچه*], [*فکر کن به*], [*فصل*],
-    [مناطق پایین و گرم (ننگرهار، کنر، لغمان، خوست)، فصل گرم], [**Malaria** (Vivax غالب؛ Falciparum هم هست)], [۶۱],
-    [تب با درد شدید عضلات، سردردی پشت چشم، خون‌ریزی، Platelet پایین؛ ولایات شرقی، فصل باران و گرما], [**Dengue**], [۶۱],
-    [**چوپان، قصاب، دامدار؛ شیر خام یا پنیر تازهٔ غیرپاستوری**], [**Brucellosis**], [۶۲],
-    [آب آلوده، تب پله‌وار، درد بطن، قبضیت یا اسهال], [**Typhoid**], [۶۲],
-    [**ذبح حیوان، گزش کنه** در ماه‌های گرم، خصوصاً پس از عید قربان؛ تب + خون‌ریزی], [**CCHF** (Crimean-Congo haemorrhagic fever) → **جداسازی فوری و اطلاع**], [۶۱],
+    [مناطق پایین و گرم (ننگرهار، کنر، لغمان، خوست)، فصل گرم], [**Malaria** (Vivax غالب؛ Falciparum هم هست)], [۶۸],
+    [تب با درد شدید عضلات، سردردی پشت چشم، خون‌ریزی، Platelet پایین؛ ولایات شرقی، فصل باران و گرما], [**Dengue**], [۶۸],
+    [**چوپان، قصاب، دامدار؛ شیر خام یا پنیر تازهٔ غیرپاستوری**], [**Brucellosis**], [۶۹],
+    [آب آلوده، تب پله‌وار، درد بطن، قبضیت یا اسهال], [**Typhoid**], [۶۹],
+    [**ذبح حیوان، گزش کنه** در ماه‌های گرم، خصوصاً پس از عید قربان؛ تب + خون‌ریزی], [**CCHF** (Crimean-Congo haemorrhagic fever) → **جداسازی فوری و اطلاع**], [۶۸],
     [سرفه بیشتر از دو هفته، کاهش وزن، عرق شبانه، تماس با مریض TB], [**TB**], [۱۹],
     [زخم پوستی که خوب نمی‌شود], [**Leishmaniasis جلدی**], [—],
-    [اسهال آبکی شدید، شیوع در محل], [**Cholera**], [۶۳],
-    [تماس جنسی پرخطر، تزریق مواد، ترانسفیوژن], [HIV، HBV، HCV], [۳۲، ۶۴],
+    [اسهال آبکی شدید، شیوع در محل], [**Cholera**], [۲۹],
+    [تماس جنسی پرخطر، تزریق مواد، ترانسفیوژن], [HIV، HBV، HCV], [۳۱، ۷۰],
   ),
   caption: none,
 )
@@ -19869,7 +19883,7 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 - **حاجی زرمت** ۵۵ ساله: سه روز پس از قربانی کردن گوسفند، تب، و امروز خون‌ریزی بینی و Petechiae.
 هر سه «تب» دارند. اما **سمیرا در روز پنجم، که تب او کم شده، در خطرناک‌ترین مرحله است**، و **حاجی زرمت** می‌تواند مرض خود را به نرس‌ها هم منتقل کند.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش الف — ملاریا
+== الف) ملاریا
 === ۱. چرا مهم است؟
 - **ملاریا در افغانستان** در ولایات شرقی و مناطق پایین و گرم شایع است. ***P. vivax*** غالب است و ***P. falciparum*** هم وجود دارد. *(ارقام ملی → SD-53.)*
 - **Vivax** کمتر کشنده است، اما در **کبد مخفی می‌ماند** (Hypnozoite) و **عود** می‌کند.
@@ -19922,7 +19936,7 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 **چرا G6PD؟** Primaquine در کمبود G6PD **Haemolysis شدید** می‌سازد (فصل ۶۱). **پیش از Primaquine، G6PD را تست کن** جایی که ممکن است.
 ⚠️ **Mixed infection:** مثل Falciparum تداوی کن، و Primaquine را هم برای Vivax اضافه کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ب — Dengue
+== ب) Dengue
 === ۱. چرا در افغانستان؟
 شیوع‌های Dengue در ولایات شرقی (به ویژه ننگرهار) در سال‌های اخیر گزارش شده است. پشهٔ ***Aedes***، که در روز می‌گزد، ناقل آن است. *(ارقام محلی → SD-53.)*
 === ۲. سیر مرض — چرا روز پنجم خطرناک است
@@ -19968,7 +19982,7 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 **منطق:** مرگ Dengue از **نشت پلازما و شوک** است، نه از Platelet پایین. تداوی مایع درست و به وقت است. عدد Platelet به تنهایی هدف تداوی نیست.
 **مقدار و سرعت مایع وریدی** در Dengue شدید در این فصل از متن WHO 2025 مستقیم خوانده نشد → SD-53. پروتوکول شفاخانه را با ارزیابی مکرر دنبال کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ج — CCHF (Crimean-Congo haemorrhagic fever)
+== ج) CCHF (Crimean-Congo haemorrhagic fever)
 === ۱. چرا در افغانستان مهم است؟
 CCHF در افغانستان **اندمیک** است. قضایا به ویژه در ماه‌های گرم و **پس از عید قربان** بلند می‌روند. *(ارقام → SD-53.)*
 **راه‌های انتقال:**
@@ -20039,7 +20053,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 **رحمت‌الله** ۱۹ ساله، محصل از کابل، که آب چاه محله را می‌نوشد: ده روز تب رو به افزایش، سردردی، درد بطن و قبضیت. نبض او با وجود تب ۳۹.۵، فقط ۸۸ است.
 دو تب طولانی. یکی از حیوان، یکی از آب. **و در هر دو، Widal بیشتر گمراه کرده تا کمک.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش الف — Brucellosis
+== الف) Brucellosis
 === ۱. چرا به آن فکر کنیم؟
 - **Brucella** از **حیوان** به انسان می‌رسد:
 - **شیر خام، پنیر تازه یا قیماق غیرپاستوری** گوسفند، بز یا گاو؛
@@ -20077,7 +20091,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 7. **پیگیری:** جواب بالینی در حدود ۱–۲ هفته. **عود** اکثراً در ماه‌های اول پس از تداوی است و با همان رژیم جواب می‌دهد. سرولوژی برای قضاوت جواب خوب نیست.
 **پیش‌گیری:** شیر را جوش بده، پنیر تازهٔ غیرپاستوری نخور، و هنگام کار با ولادت یا سقط حیوان دستکش بپوش.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ب — Typhoid (Enteric fever)
+== ب) Typhoid (Enteric fever)
 === ۱. چرا به آن فکر کنیم؟
 - ***Salmonella* Typhi** و **Paratyphi** از راه **آب و غذای آلوده به مواد فاضله** (fecal-oral) انتقال می‌یابند.
 - شروع مرض **تدریجی** است (CDC):
@@ -20302,7 +20316,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **نسرین** ۵۸ ساله، دیابتی: سه روز پیش ساق پایش سرخ شد. امروز **دردش بسیار بیشتر از آن است که سرخی نشان می‌دهد**، جلد رنگ بنفش گرفته، و فشار او پایین است.
 دو زخم کوچک، دو مرگ ممکن. **و هر دو با یک سؤال ساده آغاز می‌شود: «زخم کجاست و از کی؟»**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش الف — Tetanus
+== الف) Tetanus
 === ۱. میکانیزم
 - **اسپور *Clostridium tetani*** در خاک و فضلهٔ حیوان هست و از زخم (حتی کوچک) وارد می‌شود.
 - در نسج بدون اکسیجن، اسپور فعال می‌شود و **Tetanospasmin** می‌سازد.
@@ -20347,7 +20361,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **پاک‌کاری زخم** همیشه لازم است.
 - **در افغانستان**، بسیاری کاهلان، به ویژه **مسن‌ها و زنانی که در زمان جنگ واکسین نگرفته‌اند**، سابقهٔ واکسین نامعلوم دارند. آن‌ها را «نامعلوم» حساب کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ب — انتانات جلد و نسج نرم (SSTI)
+== ب) انتانات جلد و نسج نرم (SSTI)
 === ۱. سؤال اصلی: «سطحی است یا عمیق و کشنده؟»
 #figure(
   table(columns: (auto, auto, auto),
@@ -20416,6 +20430,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 1. California Department of Public Health. Tetanus Quicksheet (بر اساس CDC و AAP Red Book). 2026.
 2. Medscape. Tetanus Treatment & Management. 2025. (ثانوی؛ Metronidazole و Magnesium → SD-57.)
 3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52. (متن اصلی خوانده نشد → SD-57.)
+= بخش یازدهم — روماتولوژی
 = فصل ۷۲ — رهیافت به مریض با درد مفاصل
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -20476,12 +20491,12 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*الگو*], [*فکر کن به*], [*فصل*],
-    [**یک مفصل، حاد، داغ**], [**ارتریت سپتیک**، **نقرس یا Pseudogout**، آسیب], [۷۰، ۶۹],
-    [**چند مفصل کوچک دست و پا، متناظر، مزمن**], [**RA**؛ SLE؛ ارتریت ویروسی (اگر کمتر از ۶ هفته)], [۶۷، ۶۸],
-    [**مفاصل بزرگ پا، غیرمتناظر، چند عدد (Oligoarthritis)**], [**Reactive arthritis**، Psoriatic arthritis، **Brucellosis**], [۷۰، ۶۲],
-    [**کمر با سختی صبحگاهی در جوان**], [**Axial spondyloarthritis** (Ankylosing spondylitis)], [۷۰],
-    [**زانو و ران در مسن؛ مفاصل انتهایی انگشتان (DIP)**], [**OA**], [۶۹],
-    [**شست پا (اولین MTP) ناگهانی**], [**نقرس**], [۶۹],
+    [**یک مفصل، حاد، داغ**], [**ارتریت سپتیک**، **نقرس یا Pseudogout**، آسیب], [۷۶، ۷۵],
+    [**چند مفصل کوچک دست و پا، متناظر، مزمن**], [**RA**؛ SLE؛ ارتریت ویروسی (اگر کمتر از ۶ هفته)], [۷۳، ۷۴],
+    [**مفاصل بزرگ پا، غیرمتناظر، چند عدد (Oligoarthritis)**], [**Reactive arthritis**، Psoriatic arthritis، **Brucellosis**], [۷۶، ۶۹],
+    [**کمر با سختی صبحگاهی در جوان**], [**Axial spondyloarthritis** (Ankylosing spondylitis)], [۷۶],
+    [**زانو و ران در مسن؛ مفاصل انتهایی انگشتان (DIP)**], [**OA**], [۷۵],
+    [**شست پا (اولین MTP) ناگهانی**], [**نقرس**], [۷۵],
     [**مفاصل مهاجر (از یک مفصل به دیگر) + گلودرد اخیر**], [**تب روماتیزمی**], [۱۲],
   ),
   caption: none,
@@ -20885,7 +20900,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **حاجی نظر** ۵۸ ساله، چاق، فشار بلند، که Hydrochlorothiazide می‌خورد: دیشب پس از مهمانی گوشت، **ساعت ۳ شب** از درد شست پای راست بیدار شد. پایش سرخ و داغ است و **حتی تماس لحاف را تحمل نمی‌کند**. این سومین حملهٔ امسال اوست.
 - **بی‌بی گل** ۶۵ ساله را از فصل ۷۲ می‌شناسیم: سال‌ها درد زانو که با راه رفتن و زینه بدتر می‌شود. «کسی گفته هر روز Diclofenac بخورم و آمپول Dexamethasone بزنم.»
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش الف — نقرس (Gout)
+== الف) نقرس (Gout)
 === ۱. میکانیزم
 - **اسید یوریک بلند** در طول سال‌ها → **کرستال‌های Monosodium urate** در مفصل و نسج رسوب می‌کنند.
 - **حمله:** سیستم ایمنی به کرستال حمله می‌کند → التهاب شدید در ساعت‌ها.
@@ -20947,7 +20962,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - کاهش وزن؛ کم کردن الکهول، گوشت سرخ و نوشابهٔ شیرین.
 - **رژیم غذایی به تنهایی نقرس مکرر را کنترول نمی‌کند.** ULT لازم است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ب — Osteoarthritis (OA)
+== ب) Osteoarthritis (OA)
 === ۱. میکانیزم و تصویر
 - **مرض تمام مفصل**: فرسایش غضروف، تغییر استخوان زیر آن (Osteophyte)، و التهاب خفیف.
 - **عوامل خطر:** سن، **چاقی** (زانو)، آسیب قبلی، کار سنگین، و ضعف عضلهٔ ران.
@@ -21019,7 +21034,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **خان‌آقا** ۵۵ ساله، دیالیزی: شش هفته کمر درد رو به افزایش، تب خفیف شبانه، و حالا **ضعف پاها**.
 **حاجی عبدالقیوم ساعت‌ها فرصت دارد؛ خان‌آقا روزها، پیش از فلج؛ احمد سال‌ها — که پیش از این هم دو سال آن از دست رفته.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش الف — ارتریت سپتیک
+== الف) ارتریت سپتیک
 === ۱. چرا عاجل است؟
 - باکتری در مفصل در **چند روز** غضروف را تخریب می‌کند → **معیوبیت دایمی**.
 - **سپسیس** و مرگ، به ویژه در مسن‌ها و مریضان با مرض همراه.
@@ -21048,7 +21063,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 3. **مفصل مصنوعی انتانی** → ارتوپیدی از روز اول.
 4. **فزیوتراپی** پس از کنترول انتان، برای حفظ حرکت.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ب — Spondyloarthritis
+== ب) Spondyloarthritis
 === ۱. خانوادهٔ Spondyloarthritis
 - **Axial spondyloarthritis** (شامل Ankylosing spondylitis)، **Psoriatic arthritis**، **Reactive arthritis**، و ارتریت همراه IBD (فصل ۲۸).
 - **ویژگی‌های مشترک:**
@@ -21091,7 +21106,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - NSAID؛ **انتان تناسلی فعال را تداوی کن**.
 - اکثراً در ماه‌ها خوب می‌شود.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش ج — Osteomyelitis
+== ج) Osteomyelitis
 === ۱. انواع
 - **Hematogenous:** از راه خون؛ در کاهلان اکثراً **ستون فقرات** (Vertebral osteomyelitis / Spondylodiscitis).
 - **از زخم یا انتان مجاور:** **پای دیابتی** (فصل ۴۶)، زخم فشاری، یا پس از جراحی و شکستگی باز.
@@ -21162,6 +21177,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 == 📚 References
 1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34. (از خلاصه‌ها.)
 2. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 IDSA clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. *Clin Infect Dis.* 2015;61(6):e26–e46. (از Guideline Central.)
+= بخش دوازدهم — عاجل و سمیت
 = فصل ۷۷ — ایست قلبی و شوک
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -21701,7 +21717,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 **این دواها او را نجات نمی‌دهند.** فقط **Adrenaline عضلی** در دقیقه‌های اول.
 **۲.** یک ساعت بعد، **شیرین‌گل** ۲۶ ساله را آوردند. **بالون گاز** در آشپزخانه انفجار کرده؛ صورت، گردن، صدر و هر دو بازو سوخته است. **موهای بینی سوخته** و **صدایش خشن** است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش اول: Anaphylaxis
+== الف) Anaphylaxis
 === ۱. تشخیص — سریع، بالینی
 **Anaphylaxis = عکس‌العمل حساسیتی شدید و سریع با مشکل تهدیدکنندهٔ حیات در:**
 - **A (راه هوایی):** پندیدگی گلو یا زبان، **صدای خشن**، Stridor؛
@@ -21751,7 +21767,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **عامل را در کارت و دوسیه بنویس.** مریض را آموزش بده. **Adrenaline auto-injector**، اگر موجود است.
 - **Beta-blocker** Anaphylaxis را شدیدتر و مقاوم به Adrenaline می‌سازد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش دوم: سوختگی
+== ب) سوختگی
 === ۱. افغانستان
 - **انفجار بالون گاز**، تندور، آب جوش (اطفال)، بخاری.
 - **خودسوزی در زنان جوان** — بسیار دردناک و با مرگ بلند. **بپرس، بدون قضاوت**، و امنیت خانه را ارزیابی کن (فصل ۷۸).
@@ -21833,7 +21849,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 همکارانش می‌گویند: «آفتاب زده است؛ Paracetamol بدهید.»
 **۲.** **جدی، صبح، بامیان.** **مرد ۶۰ ساله** را در برف پیدا کردند؛ شب در راه مانده بود. **خواب‌آلود و آهسته** است؛ **دیگر نمی‌لرزد**؛ نبض ۳۸.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش اول: گرمازدگی (Heat stroke)
+== الف) گرمازدگی (Heat stroke)
 === ۱. طیف مرض گرمی
 #figure(
   table(columns: (auto, auto, auto, auto),
@@ -21883,7 +21899,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **سالخوردگان در موج گرمی**: اتاق سرد، آب، و دیدار همسایه‌ها.
 - **هرگز طفل را در موتر بسته نگذار.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== بخش دوم: Hypothermia
+== ب) Hypothermia
 === ۱. چه کسی؟
 - **در افغانستان:** مسافرین کوه و برف، **معتادین بی‌خانمان** در زمستان کابل، سالخوردگان در خانه‌های سرد، **نوزادان**، غرق شدگان در آب سرد، و **مسمومیت الکهول یا Opioid**.
 - **Hypothyroidism** (فصل ۴۹)، Hypoglycaemia، Sepsis و Adrenal insufficiency (فصل ۵۰) هم Hypothermia می‌سازند.
@@ -21957,6 +21973,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: cardiac arrest in special circumstances. *Resuscitation.* 2021;161:152–219. (خوانده نشد → SD-73.)
+= بخش سیزدهم — گروه‌های خاص
 = فصل ۸۳ — امراض داخله در حاملگی
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -21984,9 +22001,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
     [***نه** (خطر ثابت‌شده برای جنین)*], [***بدیل***], [*فصل*],
     [**ACE inhibitor و ARB**], [Labetalol، Nifedipine، Methyldopa], [۶],
     [**Warfarin** (به ویژه هفته‌های ۶–۱۲)], [**LMWH**], [۱۴],
-    [**Valproate**], [Levetiracetam، Lamotrigine], [۷۳],
+    [**Valproate**], [Levetiracetam، Lamotrigine], [۵۵],
     [**Statin**], [قطع در حاملگی], [۵۲],
-    [**Methotrexate، Mycophenolate، Leflunomide**], [Hydroxychloroquine، Azathioprine، Sulfasalazine], [۶۷، ۶۸],
+    [**Methotrexate، Mycophenolate، Leflunomide**], [Hydroxychloroquine، Azathioprine، Sulfasalazine], [۷۳، ۷۴],
     [**Tetracycline** و **Fluoroquinolone** (به‌طور عمومی)], [Beta-lactam، Macrolide], [—],
     [**Isotretinoin**، **Thalidomide**], [—], [—],
   ),
@@ -22054,15 +22071,15 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*مشکل*], [*نکتهٔ کلیدی*], [*فصل*],
-    [**انمی فقر آهن**], [شایع‌ترین؛ آهن فمی، و Folic acid], [۵۴],
+    [**انمی فقر آهن**], [شایع‌ترین؛ آهن فمی، و Folic acid], [۶۱],
     [**VTE**], [خطر ۴–۵ برابر (رقم → SD-74)؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC], [۱۴],
     [**UTI و Bacteriuria بی‌علامه**], [در حاملگی **تداوی** می‌شود (برخلاف غیر حامله)؛ Pyelonephritis خطرناک است], [۴۰],
     [**دیابت حاملگی**], [تست در هفته‌های ۲۴–۲۸؛ **Insulin** اصل تداوی], [۴۶],
     [**Thyroid**], [Hypothyroidism: دوز Levothyroxine را **زیاد کن**؛ Hyperthyroidism: **PTU در سه ماه اول**، سپس Carbimazole], [۴۸، ۴۹],
-    [**صرع**], [Valproate نه؛ Folic acid؛ تشنج در حاملگی = Eclampsia تا رد شود], [۷۳],
+    [**صرع**], [Valproate نه؛ Folic acid؛ تشنج در حاملگی = Eclampsia تا رد شود], [۵۵],
     [**مرض قلب دریچه‌ای (Rheumatic)**], [Mitral stenosis در حاملگی بدتر می‌شود (حجم خون زیاد)؛ **در افغانستان شایع**], [۹],
-    [**ملاریا**], [در حاملگی شدیدتر است], [۶۱],
-    [**Hepatitis E**], [در حاملگی (به ویژه سه ماه سوم) **عدم کفایهٔ حاد کبد** با مرگ بلند], [۳۲],
+    [**ملاریا**], [در حاملگی شدیدتر است], [۶۸],
+    [**Hepatitis E**], [در حاملگی (به ویژه سه ماه سوم) **عدم کفایهٔ حاد کبد** با مرگ بلند], [۳۱],
     [**TB**], [دواهای خط اول مصئون؛ **Pyridoxine** با Isoniazid], [۱۹],
   ),
   caption: none,
@@ -22199,10 +22216,10 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*مشکل*], [*نکتهٔ کلیدی*], [*فصل*],
-    [**Delirium**], [عاجل پنهان؛ اول دواها], [۷۷],
-    [**Dementia**], [علل قابل تداوی را رد کن], [۷۷],
+    [**Delirium**], [عاجل پنهان؛ اول دواها], [۵۹],
+    [**Dementia**], [علل قابل تداوی را رد کن], [۵۹],
     [**بی‌اختیاری ادرار**], [انتان، دواها (Diuretic)، قبضیت، و **احتباس با سرریز** را بجوی], [۴۰],
-    [**کاهش وزن و سوء تغذیه**], [دندان، افسردگی، تنهایی، سرطان، دواها], [۸۷، ۸۸],
+    [**کاهش وزن و سوء تغذیه**], [دندان، افسردگی، تنهایی، سرطان، دواها], [۸۶، ۸۷],
     [**افسردگی**], [شایع و پنهان؛ «بی‌حوصلگی» و شکایات بدنی], [—],
     [**Osteoporosis**], [پس از شکستگی با افتادن ساده، تداوی کن], [۵۱],
   ),
@@ -22385,9 +22402,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*گروه*], [*در افغانستان به ترتیب احتمال*], [*فصل*],
-    [**انتانی**], [**TB** (به ویژه **خارج ریوی**: عقده، شکم، استخوان، Miliary)، **Brucellosis**، **Typhoid**، **ابسه** (کبد — Amoebic، و Hydatid انتانی)، **Endocarditis**، **HIV** و انتانات فرصت‌طلب، ملاریا (در مسافرین مناطق Endemic)، **Leishmaniasis احشایی** (نادر)], [۱۹، ۶۲، ۲۸، ۱۲، ۶۴، ۶۱],
-    [**سرطان**], [**Lymphoma**، Leukaemia، سرطان گرده، کبد], [۵۸، ۵۶],
-    [**التهابی**], [**Still's disease** کاهلان، **SLE**، **Giant cell arteritis** (بالای ۵۰)، Vasculitis، IBD], [۶۸، ۷۴، ۳۳],
+    [**انتانی**], [**TB** (به ویژه **خارج ریوی**: عقده، شکم، استخوان، Miliary)، **Brucellosis**، **Typhoid**، **ابسه** (کبد — Amoebic، و Hydatid انتانی)، **Endocarditis**، **HIV** و انتانات فرصت‌طلب، ملاریا (در مسافرین مناطق Endemic)، **Leishmaniasis احشایی** (نادر)], [۱۹، ۶۹، ۳۴، ۱۲، ۷۰، ۶۸],
+    [**سرطان**], [**Lymphoma**، Leukaemia، سرطان گرده، کبد], [۶۵، ۶۳],
+    [**التهابی**], [**Still's disease** کاهلان، **SLE**، **Giant cell arteritis** (بالای ۵۰)، Vasculitis، IBD], [۷۴، ۵۶، ۲۸],
     [**دیگر**], [**تب دوایی**، DVT و PE مکرر، Thyroiditis، **تب ساختگی**], [۱۴، ۴۸],
   ),
   caption: none,
@@ -22410,7 +22427,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **HIV**؛ CXR؛ **Ultrasound شکم**.
 6. **سپس هدفمند:** بر اساس **سرنخ** (Echo، CT، Biopsy)، نه «همه چیز برای همه».
 === چه وقت تداوی تجربی؟
-- **مریض بدتر می‌شود** یا Neutropenic است (فصل ۶۶) → Antibiotic.
+- **مریض بدتر می‌شود** یا Neutropenic است (فصل ۶۳) → Antibiotic.
 - **شک قوی به TB** و ناتوانی از تأیید پس از تلاش کافی → **تداوی تجربی TB** با متخصص (فصل ۱۹).
 - **شک به GCA** با علایم دید → Steroid فوراً (فصل ۵۶).
 - **در غیر آن: Steroid تجربی نه** — Lymphoma و TB را پنهان و بدتر می‌سازد.
@@ -22623,6 +22640,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 2. Sandwell and West Birmingham NHS Trust. Refeeding syndrome guideline. 2024.
 3. NHS Grampian. Guidance on thiamine replacement in patients at risk of refeeding syndrome.
 4. BAPEN / BIFA. Top tips for preventing and managing refeeding syndrome.
+= ضمایم
 = ضمیمهٔ ۹۰ — ارقام نورمال و حدود خطر
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))

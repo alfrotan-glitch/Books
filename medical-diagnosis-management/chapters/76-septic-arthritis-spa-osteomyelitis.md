@@ -12,7 +12,7 @@
 
 ---
 
-## بخش الف — ارتریت سپتیک
+## الف) ارتریت سپتیک
 
 ### ۱. چرا عاجل است؟
 - باکتری در مفصل در **چند روز** غضروف را تخریب می‌کند → **معیوبیت دایمی**.
@@ -46,7 +46,7 @@
 
 ---
 
-## بخش ب — Spondyloarthritis
+## ب) Spondyloarthritis
 
 ### ۱. خانوادهٔ Spondyloarthritis
 - **Axial spondyloarthritis** (شامل Ankylosing spondylitis)، **Psoriatic arthritis**، **Reactive arthritis**، و ارتریت همراه IBD (فصل ۲۸).
@@ -99,7 +99,7 @@
 
 ---
 
-## بخش ج — Osteomyelitis
+## ج) Osteomyelitis
 
 ### ۱. انواع
 - **Hematogenous:** از راه خون؛ در کاهلان اکثراً **ستون فقرات** (Vertebral osteomyelitis / Spondylodiscitis).

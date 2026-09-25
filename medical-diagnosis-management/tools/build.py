@@ -25,12 +25,22 @@ def chapter_files():
     files = [f for f in CHAPTERS.glob("*.md") if not f.name.startswith("_")]
     return sorted(files)
 
+def join_with_parts(files):
+    """Join chapter texts; insert a part-divider heading when the "> **بخش …**" label changes."""
+    out, current = [], None
+    for f in files:
+        text = f.read_text(encoding="utf-8")
+        m = re.search(r"^> \*\*(بخش [^*]+)\*\*", text, re.M)
+        label = m.group(1) if m else ("ضمایم" if f.name[:1] == "9" else current)
+        if label and label != current:
+            out.append(f"# {label}")
+            current = label
+        out.append(text)
+    return "\n\n".join(out)
+
 def assemble():
     BUILD.mkdir(exist_ok=True)
-    parts = []
-    for f in chapter_files():
-        parts.append(f.read_text(encoding="utf-8"))
-    master = "\n\n".join(parts)
+    master = join_with_parts(chapter_files())
     (BUILD / "master.md").write_text(master, encoding="utf-8")
     return master
 
@@ -117,7 +127,7 @@ def build_pdf():
     import typst
     files = chapter_files()
     fm_text = files[0].read_text(encoding="utf-8")
-    rest_md = "\n\n".join(f.read_text(encoding="utf-8") for f in files[1:])
+    rest_md = join_with_parts(files[1:])
     # title page = frontmatter up to first '### '
     idx = fm_text.find("\n### ")
     title_md = fm_text[:idx] if idx != -1 else fm_text
@@ -142,7 +152,7 @@ def build_docx():
     from docx.oxml.ns import qn
     from docx.oxml import OxmlElement
 
-    md = (BUILD / "master.md").read_text(encoding="utf-8") if (BUILD / "master.md").exists() else assemble()
+    md = assemble()
     doc = Document()
     # base style
     style = doc.styles["Normal"]
@@ -302,7 +312,7 @@ def md_to_xhtml(md):
     return "\n".join(out)
 
 def build_epub():
-    md = (BUILD / "master.md").read_text(encoding="utf-8") if (BUILD / "master.md").exists() else assemble()
+    md = assemble()
     files = []
     # split into chapters at h1
     chapters = re.split(r"(?m)^# ", md)

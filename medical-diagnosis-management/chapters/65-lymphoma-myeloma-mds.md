@@ -17,7 +17,7 @@
 
 ---
 
-## بخش اول — Multiple myeloma
+## الف) Multiple myeloma
 
 ### ۱. mechanism: یک حجره، چهار آسیب
 - یک **Plasma cell** سرطانی در مغز استخوان تکثر می‌کند و **یک نوع Immunoglobulin** (پروتین M، یا فقط Light chain) زیاد می‌سازد.
@@ -93,7 +93,7 @@
 
 ---
 
-## بخش دوم — Lymphoma
+## ب) Lymphoma
 
 ### ۵. mechanism و دو خانواده
 Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدات لمفاوی** شروع می‌شود، ولی ممکن است در هر عضو باشد: معده، جلد، مغز، یا مغز استخوان.
@@ -132,7 +132,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 
 ---
 
-## بخش سوم — CLL و MDS
+## ج) CLL و MDS
 
 ### ۹. CLL — Lymphocytosis پایدار در مسن
 - **تشخیص (iwCLL 2018):**

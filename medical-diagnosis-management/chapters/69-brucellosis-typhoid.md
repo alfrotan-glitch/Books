@@ -12,7 +12,7 @@
 
 ---
 
-## بخش الف — Brucellosis
+## الف) Brucellosis
 
 ### ۱. چرا به آن فکر کنیم؟
 - **Brucella** از **حیوان** به انسان می‌رسد:
@@ -59,7 +59,7 @@
 
 ---
 
-## بخش ب — Typhoid (Enteric fever)
+## ب) Typhoid (Enteric fever)
 
 ### ۱. چرا به آن فکر کنیم؟
 - ***Salmonella* Typhi** و **Paratyphi** از راه **آب و غذای آلوده به مواد فاضله** (fecal-oral) انتقال می‌یابند.

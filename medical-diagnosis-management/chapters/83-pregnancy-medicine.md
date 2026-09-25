@@ -27,9 +27,9 @@
 |---|---|---|
 | **ACE inhibitor و ARB** | Labetalol، Nifedipine، Methyldopa | ۶ |
 | **Warfarin** (به ویژه هفته‌های ۶–۱۲) | **LMWH** | ۱۴ |
-| **Valproate** | Levetiracetam، Lamotrigine | ۷۳ |
+| **Valproate** | Levetiracetam، Lamotrigine | ۵۵ |
 | **Statin** | قطع در حاملگی | ۵۲ |
-| **Methotrexate، Mycophenolate، Leflunomide** | Hydroxychloroquine، Azathioprine، Sulfasalazine | ۶۷، ۶۸ |
+| **Methotrexate، Mycophenolate، Leflunomide** | Hydroxychloroquine، Azathioprine، Sulfasalazine | ۷۳، ۷۴ |
 | **Tetracycline** و **Fluoroquinolone** (به‌طور عمومی) | Beta-lactam، Macrolide | — |
 | **Isotretinoin**، **Thalidomide** | — | — |
 
@@ -87,15 +87,15 @@
 ## ۷. دیگر مشکلات داخله در حاملگی (کوتاه، با ارجاع)
 | مشکل | نکتهٔ کلیدی | فصل |
 |---|---|---|
-| **انمی فقر آهن** | شایع‌ترین؛ آهن فمی، و Folic acid | ۵۴ |
+| **انمی فقر آهن** | شایع‌ترین؛ آهن فمی، و Folic acid | ۶۱ |
 | **VTE** | خطر ۴–۵ برابر (رقم → SD-74)؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC | ۱۴ |
 | **UTI و Bacteriuria بی‌علامه** | در حاملگی **تداوی** می‌شود (برخلاف غیر حامله)؛ Pyelonephritis خطرناک است | ۴۰ |
 | **دیابت حاملگی** | تست در هفته‌های ۲۴–۲۸؛ **Insulin** اصل تداوی | ۴۶ |
 | **Thyroid** | Hypothyroidism: دوز Levothyroxine را **زیاد کن**؛ Hyperthyroidism: **PTU در سه ماه اول**، سپس Carbimazole | ۴۸، ۴۹ |
-| **صرع** | Valproate نه؛ Folic acid؛ تشنج در حاملگی = Eclampsia تا رد شود | ۷۳ |
+| **صرع** | Valproate نه؛ Folic acid؛ تشنج در حاملگی = Eclampsia تا رد شود | ۵۵ |
 | **مرض قلب دریچه‌ای (Rheumatic)** | Mitral stenosis در حاملگی بدتر می‌شود (حجم خون زیاد)؛ **در افغانستان شایع** | ۹ |
-| **ملاریا** | در حاملگی شدیدتر است | ۶۱ |
-| **Hepatitis E** | در حاملگی (به ویژه سه ماه سوم) **عدم کفایهٔ حاد کبد** با مرگ بلند | ۳۲ |
+| **ملاریا** | در حاملگی شدیدتر است | ۶۸ |
+| **Hepatitis E** | در حاملگی (به ویژه سه ماه سوم) **عدم کفایهٔ حاد کبد** با مرگ بلند | ۳۱ |
 | **TB** | دواهای خط اول مصئون؛ **Pyridoxine** با Isoniazid | ۱۹ |
 
 ---

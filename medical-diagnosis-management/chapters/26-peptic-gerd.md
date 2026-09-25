@@ -12,7 +12,7 @@
 
 ---
 
-# بخش الف — قرحهٔ هضمیه و H. pylori
+## الف) قرحهٔ هضمیه و H. pylori
 
 ## 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `قرحه = (H. pylori یا NSAID/Aspirin) + اسید ← تداوی = ریشه‌کنی H. pylori + قطع NSAID + PPI ۴–۸ هفته ← تأیید ریشه‌کنی`
@@ -156,7 +156,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 
 ---
 
-# بخش ب — مرض ریفلکس معده به مری (Gastro-oesophageal Reflux Disease — GERD)
+## ب) مرض ریفلکس معده به مری (Gastro-oesophageal Reflux Disease — GERD)
 
 ## 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `سوزش سینه (Heartburn) + برگشت (Regurgitation) ≥ ۲ بار در هفته بدون ALARM ← PPI ۸ هفته امتحانی ← پاسخ = تشخیص کلینیکی؛ بدون پاسخ یا ALARM ← اندوسکوپی ± pH-monitoring`
