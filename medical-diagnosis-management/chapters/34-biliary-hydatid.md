@@ -331,7 +331,7 @@
 ## 🔹 ۱۰. Management (WHO-IWGE 2010 Expert Consensus — «**مطابق مرحله**»)
 
 ### الف) Emergency
-**پاره شدن با Anaphylaxis** ← **Adrenaline ۰.۵ mg IM** (۰.۵ ml از ۱:۱۰۰۰) در ران، تکرار هر ۵ دقیقه در صورت ضرورت + مایع IV + اکسیجن ± انتی‌هیستامین و ستیروئید (فصل ۸۱) ← **Albendazole** + جراحی.
+**پاره شدن با Anaphylaxis** ← **Adrenaline ۰.۵ mg IM** (۰.۵ mL از ۱:۱۰۰۰) در ران، تکرار هر ۵ دقیقه در صورت ضرورت + مایع IV + اکسیجن ± انتی‌هیستامین و ستیروئید (فصل ۸۱) ← **Albendazole** + جراحی.
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 

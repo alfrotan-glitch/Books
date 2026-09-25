@@ -117,7 +117,7 @@
 
 #### ۱. تداوی علت (مهم‌ترین قدم — می‌تواند سیروز را «جبران» کند — **Recompensation**)
 - **HBV:** **Tenofovir disoproxil fumarate (TDF) ۳۰۰ mg فمی روزانه** یا **Entecavir ۰.۵ mg فمی روزانه** (در جبران‌نشده **Entecavir ۱ mg**) یا **Tenofovir alafenamide (TAF) ۲۵ mg روزانه** — **در همهٔ مریضان سیروزی با HBV DNA قابل کشف، بدون توجه به ALT** — **دوامدار** (فصل ۳۱).
-- **HCV:** **DAA** — مثلاً **Sofosbuvir/Velpatasvir (۴۰۰/۱۰۰ mg) یک تابلیت روزانه × ۱۲ هفته** (در جبران‌نشده + **Ribavirin**؛ ⚠️ **مهارکننده‌های Protease — Glecaprevir، Voxilaprevir — در Child B/C ممنوع**) (فصل ۳۱).
+- **HCV:** **DAA** — مثلاً **Sofosbuvir/Velpatasvir (۴۰۰/۱۰۰ mg) یک تابلت روزانه × ۱۲ هفته** (در جبران‌نشده + **Ribavirin**؛ ⚠️ **مهارکننده‌های Protease — Glecaprevir، Voxilaprevir — در Child B/C ممنوع**) (فصل ۳۱).
 - **الکول:** **قطع کامل** (مؤثرترین «دوا»)؛ کمک: **Baclofen** (۵ mg سه بار در روز ← تا ۱۰–۲۰ mg سه بار) یا **Acamprosate** (مطابق وظیفهٔ گرده)؛ ⚠️ **Disulfiram و Naltrexone در سیروز پیشرفته نه**.
 - **MASLD:** کاهش وزن **۷–۱۰ فیصد**، کنترول دیابت (**GLP-1 RA**، SGLT2i)، **Resmetirom** (تأیید FDA 2024 برای MASH با فیبروز F2–F3 — **نه در سیروز جبران‌نشده**)؛ **Semaglutide ۲.۴ mg SC هفته‌وار** (با افزایش تدریجی ۰.۲۵ ← ۰.۵ ← ۱ ← ۱.۷ ← ۲.۴ mg؛ تأیید تسریع‌شدهٔ FDA در اگست ۲۰۲۵ برای MASH بدون سیروز با فیبروز F2–F3 — [NEJM Journal Watch](https://clinician.nejm.org/semaglutide-approved-treatment-metabolic-dysfunctionassociated-steatohepatitis-fibrosis-CLINdwNA59206)).
 - **AIH:** Prednisolone ± Azathioprine؛ **PBC:** **UDCA ۱۳–۱۵ mg/kg/روز**؛ **Wilson:** Penicillamine/Trientine + Zinc.
@@ -149,7 +149,7 @@
 **Hepatic hydrothorax:** مانند آسیت (دیورتیک، سودیم)؛ توراسنتز تسکینی؛ **TIPS**؛ ⚠️ **درن سینه نه** (فصل ۲۰).
 
 #### ۳. پریتونیت باکتریایی خودبه‌خودی (SBP)
-- **تشخیص:** **نیوتروفیل (PMN) در مایع آسیت ≥ ۲۵۰ حجره/mm³** (بدون منبع جراحی)؛ **کلچر در بوتل کلچر خون کنار بستر** (حد اقل ۱۰ ml).
+- **تشخیص:** **نیوتروفیل (PMN) در مایع آسیت ≥ ۲۵۰ حجره/mm³** (بدون منبع جراحی)؛ **کلچر در بوتل کلچر خون کنار بستر** (حد اقل ۱۰ mL).
 - **تداوی:**
   - **Cefotaxime ۲ g IV هر ۸ ساعت** یا **Ceftriaxone ۱–۲ g IV روزانه** — **۵–۷ روز** (کسب‌شده از جامعه).
   - **کسب‌شده در شفاخانه** یا پس از پیشگیری با Quinolone یا **مقاومت محلی بلند** ← **Piperacillin/Tazobactam ۴.۵ g IV هر ۶–۸ ساعت** یا **Meropenem ۱ g IV هر ۸ ساعت** ± **Daptomycin/Vancomycin**.

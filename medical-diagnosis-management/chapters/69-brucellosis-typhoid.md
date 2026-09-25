@@ -1,6 +1,6 @@
 # فصل ۶۹ — Brucellosis و Typhoid: دو تب طولانی افغانستان
 
-> **بخش دهم — انتانات** · *Currentness audit: Typhoid — CDC Clinical Guidance (به‌روزرسانی اپریل ۲۰۲۴) مستقیم خوانده شد. Brucellosis — رژیم‌ها بر اساس اجماع Ioannina (Ariza J et al., PLoS Med 2007) و رهنمود WHO/FAO 2006؛ متن اصلی در این فصل خوانده نشد → **دوزهای mg در این فصل نوشته نشد** (SD-54). رهنمود بین‌المللی تازه‌تر برای Brucellosis نیافتم.*
+> **بخش دهم — انتانات** · *Currentness audit: Typhoid — CDC Clinical Guidance (به‌روزرسانی اپریل ۲۰۲۴) مستقیم خوانده شد. Brucellosis — رژیم‌ها بر اساس اجماع Ioannina (Ariza J et al., PLoS Med 2007) و رهنمود WHO/FAO 2006؛ متن اصلی در این فصل خوانده نشد → **دوزهای mg در این فصل نوشته نشد** (SD-54). رهنمود بین‌المللی تازه‌تر برای Brucellosis یافت نشد.*
 
 ## عبدالرحیم و رحمت‌الله
 
@@ -62,7 +62,7 @@
 ## ب) Typhoid (Enteric fever)
 
 ### ۱. چرا به آن فکر کنیم؟
-- ***Salmonella* Typhi** و **Paratyphi** از راه **آب و غذای آلوده به مواد فاضله** (fecal-oral) انتقال می‌یابند.
+- ***Salmonella* Typhi** و **Paratyphi** از راه **آب و غذای آلوده به مواد فاضله** (Faecal-oral) انتقال می‌یابند.
 - شروع مرض **تدریجی** است (CDC):
   - تب رو به افزایش؛
   - سردردی و خستگی؛

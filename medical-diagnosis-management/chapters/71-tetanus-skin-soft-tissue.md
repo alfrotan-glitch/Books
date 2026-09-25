@@ -1,6 +1,6 @@
 # فصل ۷۱ — Tetanus و انتانات جلد و نسج نرم
 
-> **بخش دهم — انتانات** · *Currentness audit: Tetanus — CDC و AAP Red Book (از طریق CDPH Tetanus Quicksheet، مۍ ۲۰۲۶): TIG تداوی ۵۰۰ IU و پروفیلاکسی ۲۵۰ U. Metronidazole و Magnesium از Medscape (ثانوی) → SD-57. SSTI — اصول IDSA Practice Guideline for SSTI (Stevens DL et al., CID 2014)؛ متن اصلی خوانده نشد و **دوز Antibiotic نوشته نشد** → SD-57. رهنمود بین‌المللی تازه‌تری برای SSTI نیافتم.*
+> **بخش دهم — انتانات** · *Currentness audit: Tetanus — CDC و AAP Red Book (از طریق CDPH Tetanus Quicksheet، می ۲۰۲۶): TIG تداوی ۵۰۰ IU و پروفیلاکسی ۲۵۰ U. Metronidazole و Magnesium از Medscape (ثانوی) → SD-57. SSTI — اصول IDSA Practice Guideline for SSTI (Stevens DL et al., CID 2014)؛ متن اصلی خوانده نشد و **دوز Antibiotic نوشته نشد** → SD-57. رهنمود بین‌المللی تازه‌تری برای SSTI یافت نشد.*
 
 ## یک میخ زنگ‌زده و یک زخم پا
 
@@ -26,18 +26,18 @@
 - اسپاسم حنجره → **خطر خفگی**؛
 - **بی‌ثباتی اتونوم** (فشار و نبض نوسانی، تب، عرق) → علت مهم مرگ.
 - **هیچ تست لابراتواری تشخیص نمی‌دهد.** زخم ممکن است کوچک یا فراموش‌شده باشد.
-- **تفریقی:** مسمومیت Strychnine، عکس‌العمل‌های Dystonic دواها (Metoclopramide، Haloperidol؛ فصل ۷۹)، ابسهٔ دندان با Trismus، Hypocalcaemia (فصل ۴۲)، و مننژیت.
+- **تفریقی:** مسمومیت Strychnine، عکس‌العمل‌های Dystonic دواها (Metoclopramide، Haloperidol؛ عوارض Extrapyramidal این دواها → فصل ۵۹)، ابسهٔ دندان با Trismus، Hypocalcaemia (فصل ۴۲)، و مننژیت.
 
 ### ۳. تداوی — پنج کار همزمان
 1. **راه هوایی:** مریض را در اتاق **آرام و تاریک** بستری کن. اسپاسم حنجره یا اسپاسم‌های شدید → راه هوایی مصئون (Intubation یا Tracheostomy) و تنفس مصنوعی.
-2. **خنثی کردن توکسین آزاد — TIG (Human tetanus immunoglobulin):** **۵۰۰ IU عضلی یک دوز، فوراً** (CDC و AAP Red Book). بخشی از دوز ممکن است دور زخم زرق شود. اگر TIG نیست، IVIG قابل غور است (CDC).
+2. **خنثی کردن توکسین آزاد — TIG (Human tetanus immunoglobulin):** **۵۰۰ IU عضلی یک دوز، فوراً** (CDC و AAP Red Book). بخشی از دوز ممکن است دور زخم زرق شود. اگر TIG نیست، IVIG قابل بررسی است (CDC).
 3. **از بین بردن منبع توکسین:**
    - **پاک‌کاری و Debridement زخم**؛
-   - **Metronidazole** بر Penicillin ترجیح دارد، چون Penicillin مانند توکسین بر GABA اثر مخالف دارد (Medscape). *(دوز → SD-57.)*
+   - **Metronidazole** بر Penicillin ترجیح دارد، چون Penicillin هم مانند توکسین، اثر GABA را مهار می‌کند (Medscape). *(دوز → SD-57.)*
 4. **کنترول اسپاسم و اتونوم:**
    - Benzodiazepine؛
    - **Magnesium sulphate** وریدی: اسپاسم و بی‌ثباتی قلبی–عروقی را کم می‌کند، اما نیاز به تنفس مصنوعی را کم نمی‌سازد.
-   - با Magnesium، **Reflex زانو** را بپای. فقدان آن یعنی دوز را کم کن.
+   - با Magnesium، **Reflex زانو** را نظارت کن. فقدان آن یعنی دوز را کم کن.
    - *(دوزهای Benzodiazepine و Magnesium → SD-57؛ پروتوکول ICU.)*
 5. **واکسین:** **Tetanus مصونیت نمی‌سازد.** دورهٔ کامل واکسین Td را شروع کن، در محل جدا از TIG.
 
@@ -122,7 +122,7 @@
 ## ⏱️ مرور ۶۰ ثانیه
 1. دوز TIG در تداوی Tetanus؟ ← ۵۰۰ IU عضلی یک دوز (CDC/AAP).
 2. زخم کثیف با سابقهٔ نامعلوم واکسین؟ ← Td + TIG ۲۵۰ U.
-3. چرا Metronidazole بر Penicillin در Tetanus؟ ← Penicillin بر GABA اثر مخالف دارد.
+3. چرا Metronidazole بر Penicillin در Tetanus؟ ← Penicillin هم مانند توکسین اثر GABA را مهار می‌کند.
 4. سرنخ اصلی Necrotizing fasciitis؟ ← درد نامتناسب با ظاهر؛ جراحی عاجل.
 5. تداوی اصلی ابسه؟ ← شق و تخلیه.
 

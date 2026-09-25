@@ -1,6 +1,6 @@
 # فصل ۷۶ — ارتریت سپتیک، Spondyloarthritis و Osteomyelitis
 
-> **بخش یازدهم — روماتولوژی** · *Currentness audit: ارتریت سپتیک — رهنمود بین‌المللی تازه و واحد نیافتم؛ اصول بالینی استندرد، **بدون دوز Antibiotic** (SD-61). Axial spondyloarthritis — **ASAS-EULAR 2022** (Ramiro S et al., Ann Rheum Dis 2023) از RheumNow، ResearchGate و Manchester Research Explorer. Vertebral osteomyelitis — **IDSA 2015** (Berbari EF et al., CID 2015؛ Guideline Central، بازبینی مۍ ۲۰۲۶).*
+> **بخش یازدهم — روماتولوژی** · *Currentness audit: ارتریت سپتیک — رهنمود بین‌المللی تازه و واحد یافت نشد؛ اصول بالینی استندرد، **بدون دوز Antibiotic** (SD-61). Axial spondyloarthritis — **ASAS-EULAR 2022** (Ramiro S et al., Ann Rheum Dis 2023) از RheumNow، ResearchGate و Manchester Research Explorer. Vertebral osteomyelitis — **IDSA 2015** (Berbari EF et al., CID 2015؛ Guideline Central، بازبینی می ۲۰۲۶).*
 
 ## سه درد، سه عجله
 
@@ -82,10 +82,10 @@
 ### ۴. تداوی (ASAS-EULAR 2022)
 1. **آموزش، ورزش منظم، ترک سگرت**؛ فزیوتراپی در نظر گرفته شود.
 2. **NSAID خط اول دوایی** است، **تا دوز اعظمی** با توجه به خطر و فایده. در جواب خوب، **استعمال دوامدار** (اگر برای کنترول علایم لازم است) ترجیح دارد.
-   - NSAID در Axial SpA برخلاف RA **دوای اصلی** است، نه فقط مسکن. خطرات معده، گرده و قلب را بپای (فصل ۲۶، ۳۹، ۷).
+   - NSAID در Axial SpA برخلاف RA **دوای اصلی** است، نه فقط مسکن. خطرات معده، گرده و قلب را نظارت کن (فصل ۲۶، ۳۹، ۷).
 3. **Glucocorticoid:** زرق موضعی در محل التهاب ممکن است. **Glucocorticoid سیستمیک دراز مدت در مرض Axial نه.**
 4. **csDMARD (مثل Methotrexate) در مرض خالص Axial نه.** **Sulfasalazine** در ارتریت محیطی در نظر گرفته شود.
-5. **فعالیت بلند دوامدار با وجود تداوی متداول:** **TNF inhibitor، IL-17 inhibitor، یا JAK inhibitor**. عمل جاری شروع با **TNFi یا IL-17i** است.
+5. **فعالیت بلند دوامدار با وجود تداوی متداول:** **TNF inhibitor، IL-17 inhibitor، یا JAK inhibitor**. روش معمول، شروع با **TNFi یا IL-17i** است.
    - **Uveitis مکرر یا IBD:** TNF monoclonal antibody ترجیح دارد.
    - **Psoriasis قابل ملاحظه:** IL-17i.
 6. **پیش از Biologic:** **TB نهفته و HBV** (فصل ۱۹، ۳۱؛ مثل فصل ۷۳).
@@ -102,7 +102,7 @@
 ## ج) Osteomyelitis
 
 ### ۱. انواع
-- **Hematogenous:** از راه خون؛ در کاهلان اکثراً **ستون فقرات** (Vertebral osteomyelitis / Spondylodiscitis).
+- **Haematogenous:** از راه خون؛ در کاهلان اکثراً **ستون فقرات** (Vertebral osteomyelitis / Spondylodiscitis).
 - **از زخم یا انتان مجاور:** **پای دیابتی** (فصل ۴۶)، زخم فشاری، یا پس از جراحی و شکستگی باز.
 - **در افغانستان: TB (Pott disease) و Brucella** علل مهم Spondylodiscitis هستند.
 
@@ -125,7 +125,7 @@
 
 **تداوی (IDSA 2015):**
 - **اگر معاینهٔ عصبی نورمال و همودینامیک ثابت است:** Antibiotic تجربی را **تا تشخیص میکروبی نگه دار** (پیشنهاد IDSA). Antibiotic پیش از Biopsy، Biopsy را منفی می‌سازد و مریض با تشخیص نامعلوم شش هفته تداوی می‌شود.
-- **اگر علایم عصبی، سپسیس یا بی‌ثباتی دارد:** Antibiotic فوراً، و **جراحی عاجل** برای کمپرس نخاع (ابسهٔ Epidural).
+- **اگر علایم عصبی، سپسیس یا بی‌ثباتی دارد:** Antibiotic فوراً، و **جراحی عاجل** برای فشار بر نخاع (ابسهٔ Epidural).
 - **مدت:**
   - **۶ هفته** Antibiotic وریدی یا فمی با جذب بلند، برای اکثر Osteomyelitis باکتریایی؛
   - **۳ ماه** برای **Brucella**؛

@@ -193,7 +193,7 @@
 
 - Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 Update (ginasthma.org, May 2026) — summary of changes: oxygen only if SpO₂ <92%, upper target 95%; adrenaline first if anaphylaxis with asthma; review treatment after a single exacerbation.
 
-- Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
+- Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حد اعظمی ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
@@ -660,7 +660,7 @@
 3. Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. *J Clin Endocrinol Metab / Eur J Endocrinol.* 2024. (نکات اصلی و توصیه‌های R 2.5، R 2.12، R 3.2 از صفحهٔ رسمی Endocrine Society.)
 4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453. (توصیه‌ها و technical remarks از صفحهٔ رسمی و متن OUP خوانده شد.)
 5. Nieman LK, Biller BMK, Findling JW, et al. The Diagnosis of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2008;93(5):1526–1540.
-6. Lenders JWM, Duh QY, Eisenhofer G, et al. Pheochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2014;99(6):1915–1942.
+6. Lenders JWM, Duh QY, Eisenhofer G, et al. Phaeochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2014;99(6):1915–1942.
 7. Fassnacht M, Tsagarakis S, Terzolo M, et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with ENSAT. *Eur J Endocrinol.* 2023.
 8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency (خلاصه در Medscape Guidelines؛ منبع ثانوی، فقط برای تطابق).
 

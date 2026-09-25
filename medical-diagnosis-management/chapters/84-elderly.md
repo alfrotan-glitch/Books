@@ -9,7 +9,7 @@
 در خریطه، **۱۴ دوا** از **پنج داکتر** مختلف است:
 - **Glibenclamide** (یک داکتر)، و Metformin (داکتر دیگر)؛
 - **Amlodipine، Enalapril، Furosemide، Atenolol**؛
-- **Diazepam** «برای خواب»؛ **Chlorpheniramine** برای خارش؛ **Amitriptyline** برای «درد عصبی»؛
+- **Diazepam** «برای خواب»؛ **Chlorphenamine** برای خارش؛ **Amitriptyline** برای «درد عصبی»؛
 - **Omeprazole** از سه سال پیش؛ **Aspirin** «برای قلب» (هیچ‌وقت مرض قلب نداشته)؛
 - **Ibuprofen** برای زانو؛ ویتامین‌ها و یک شربت گیاهی.
 
@@ -19,7 +19,7 @@
 
 ## ۱. سالخورده فرق دارد — چهار اصل
 1. **تظاهر غیرعادی:**
-   - **Pneumonia بدون تب و سرفه**، فقط گیچی یا افتادن.
+   - **پنومونی بدون تب و سرفه**، فقط گیچی یا افتادن.
    - **MI بدون درد صدر**، فقط تنگی نفس یا ضعف.
    - **بطن حاد** با درد کم.
    - **Hyperthyroidism آپاتیک** (فصل ۴۸).
@@ -47,7 +47,7 @@
 | **Warfarin** برای شروع تداوی AF یا VTE | **اجتناب** مگر بدیل ممکن نیست | خونریزی مغزی بیشتر از DOAC |
 | **Rivaroxaban** درازمدت در AF یا VTE | **اجتناب** | خونریزی بیشتر از دیگر DOACها؛ Apixaban ترجیح دارد |
 | **Benzodiazepine** | اجتناب | **افتادن، شکستگی، گیچی** |
-| **Anticholinergic قوی** (Chlorpheniramine، Amitriptyline، …) | اجتناب | **گیچی، احتباس ادرار، یبوست، افتادن** |
+| **Anticholinergic قوی** (Chlorphenamine، Amitriptyline، …) | اجتناب | **گیچی، احتباس ادرار، یبوست، افتادن** |
 | **NSAID فمی درازمدت** | اجتناب | **خونریزی معده، AKI، عدم کفایهٔ قلب** |
 | **PPI** بیشتر از ۸ هفته | اجتناب مگر علت واضح | *(جزئیات → SD-75)* |
 
@@ -109,7 +109,7 @@
 
 **چه تغییر کرد (در چهار هفته، یک یک):**
 1. **Glibenclamide قطع** (Beers؛ Hypoglycaemia) → Metformin با دوز مناسب eGFR.
-2. **Diazepam** تدریجی قطع؛ **Chlorpheniramine** و **Amitriptyline** قطع (Anticholinergic).
+2. **Diazepam** تدریجی قطع؛ **Chlorphenamine** و **Amitriptyline** قطع (Anticholinergic).
 3. **Ibuprofen** قطع (eGFR، معده) → Paracetamol و فزیوتراپی زانو.
 4. **Aspirin** قطع (وقایهٔ اولیه؛ Beers).
 5. ضد فشارها از چهار به **دو** (Furosemide برای پندیدگی Amlodipine بود → Amlodipine کم و Furosemide قطع؛ Atenolol قطع).

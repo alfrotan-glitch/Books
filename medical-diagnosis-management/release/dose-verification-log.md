@@ -588,3 +588,10 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ❌ → اصلاح: Metoprolol «۲.۵–۵ mg تا ۳ دوز» → ۲.۵–۱۵ mg در بولوس‌های ۲.۵ mg؛ Esmolol به ۵۰۰ µg/kg (اختیاری، ۱ دقیقه) + ۵۰–۳۰۰ µg/kg/min؛ Magnesium ۲ g → ۸ mmol (≈۲ g).
 - ➕ Landiolol، Lidocaine (۵۰–۲۰۰ mg، سپس ۲–۴ mg/min)؛ منع Amiodarone در AF با Pre-excitation.
 - 🟡 دوزهای تکرار/انفیوژن Diltiazem در AF از ACC/AHA 2023 (جدول ۲ فصل) — جدا بررسی شده بود.
+
+## اصلاحات خوانش جمله‌به‌جمله فصل‌های ۵۰–۸۷ (۲۰۲۶-۰۹-۲۵)
+- ❌ → اصلاح (فصل ۵۵): ناهماهنگی متن Carbamazepine با قواعد همان فصل برطرف شد (Classification: internal inconsistency).
+- ❌ → اصلاح (فصل ۶۸): منع Primaquine با قاعدهٔ G6PD فصل ۶۲ هماهنگ شد، شامل طفل شیرخوار با G6PD پایین یا نامعلوم (internal inconsistency).
+- ✏️ (فصل ۷۴): کیس — APS از «تشخیص» به «مطرح شد؛ معیارها → فصل ۶۴» تغییر کرد (معیار سقط در متن ثابت نبود؛ overstatement).
+- ✏️ (فصل ۸۵): تفسیر MUAC کیس بدون عدد حدود WHO (→ SD-78) نوشته شد؛ عدد از حافظه وارد نشد.
+- هیچ دوز تازه‌ای در این خوانش اضافه نشد.

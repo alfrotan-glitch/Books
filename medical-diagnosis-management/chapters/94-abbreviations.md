@@ -35,7 +35,7 @@
 | **BMI** | Body mass index | شاخص کتلهٔ بدن |
 | **BNP** | B-type natriuretic peptide | پپتاید ناتریورتیک |
 | **BP** | Blood pressure | فشار خون |
-| **CAP** | Community-acquired pneumonia | سینه‌بغل اکتسابی از جامعه |
+| **CAP** | Community-acquired pneumonia | پنومونی اکتسابی از جامعه |
 | **CBC** | Complete blood count | شمارش کامل خون |
 | **CCHF** | Crimean-Congo haemorrhagic fever | تب خونریزی‌دهندهٔ کریمه–کانگو |
 | **CKD** | Chronic kidney disease | مرض مزمن گرده |
