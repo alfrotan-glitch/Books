@@ -624,3 +624,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۵۴: AHA/ASA 2022 ICH (متن توضیحی) — هدف SBP ۱۴۰، نه کمتر از ۱۳۰، CPP، زمان Heparin پروفیلاکتیک (SD-62 جزئی).
 - ✅ فصل ۵۴: AHA/ASA 2021 پیش‌گیری ثانوی §5.19 — DAPT (CHANCE/POINT دوزها، ۲۱–۹۰ روز).
 - ✅ فصل ۵۴: AHA/ASA 2026 AIS §4.6 متن اصلی — دوز TNK/Alteplase تأیید، جدول ۵ (sICH: Cryo ۱۰ U، TXA ۱ g) و جدول ۷ (نظارت، CT ۲۴ ساعت) اضافه شد.
+- ✅ فصل ۸۵: WHO IMCI Chart Booklet 2014 (متن اصلی) — حدود تنفس سریع ۵۰/۴۰، SpO₂ کمتر از ۹۰ راجع.
