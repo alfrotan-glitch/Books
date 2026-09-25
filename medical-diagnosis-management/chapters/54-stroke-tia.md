@@ -85,9 +85,9 @@
 ## ۴. سکتهٔ Haemorrhagic (ICH) — اصول
 - **CT:** خون.
 - **ضد انعقاد را فوراً معکوس کن:** Warfarin → Vitamin K + PCC؛ DOAC → Antidote اگر هست (فصل ۱۴، ۶۴).
-- **فشار:** کاهش محتاطانه. *(هدف عددی AHA 2022 → SD-62.)*
+- **فشار (AHA 2022، متن توضیحی):** در ICH خفیف تا متوسط با SBP بین ۱۵۰ و ۲۲۰ mmHg، پایین آوردن به حدود **۱۴۰ mmHg** بی‌خطر است؛ **کمتر از ۱۳۰ mmHg نه** (فایده را از بین می‌برد و به گرده ضرر دارد). زود شروع کن، آرام و بدون نوسان زیاد پایین بیاور؛ کاهش بیشتر از ۶۰ mmHg در ساعت اول با نتیجهٔ بد همراه بود. در SBP بالاتر از ۲۲۰ احتیاط بیشتر. در ICH بزرگ با فشار بلند داخل جمجمه، CPP را ۶۰–۷۰ mmHg نگه‌دار. از Nitroglycerin (گشادکنندهٔ وریدی) پرهیز کن.
 - **جراحی عصبی** برای خونریزی مخچه با فشار ساقه یا Hydrocephalus.
-- Aspirin و Heparin پروفیلاکتیک: تصمیم با متخصص → SD-62.
+- **پیش‌گیری DVT (AHA 2022):** از روز اول IPC (فشار متناوب پا)؛ جوراب فشاری مؤثر نیست. Heparin پروفیلاکتیک (UFH یا LMWH) را می‌توان **۲۴–۴۸ ساعت پس از شروع** شروع کرد، ترجیحاً پس از CT که ثبات خونریزی را نشان دهد. ادامه یا دوباره شروع کردن Aspirin: تصمیم با متخصص → SD-62.
 
 ---
 
@@ -151,4 +151,4 @@
 ## 📚 References
 1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
 2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (خوانده نشد → SD-62.)
-3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (خوانده نشد → SD-62.)
+3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
