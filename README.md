@@ -158,32 +158,37 @@ Books/
 │   ├── test_fault_tolerance.py
 │   └── test_verifier.py
 ├── run.bat                 # Windows one-click automated execution script
-├── setup.bat               # Windows one-click environment installer
+├── setup.bat               # Windows one-click environment installer & shortcut creator
+├── شروع_برنامه.bat          # Windows Persian one-click UI launcher
+├── نصب_و_راه_اندازی.bat     # Windows Persian setup wizard & shortcut installer
+├── ایجاد_میانبر_دسکتاپ.bat  # Creates Desktop icon shortcut (.lnk)
+├── create_desktop_shortcut.bat # Creates Desktop icon shortcut (.lnk)
+├── assets/
+│   ├── app_icon.ico        # Official Windows multi-resolution icon
+│   └── app_icon.png        # Web & high-res graphic icon
+├── راهنمای_اجرا_روی_دسکتاپ.md # Comprehensive Persian Desktop Deployment Guide
+├── DESKTOP_DEPLOYMENT.md   # Comprehensive English Desktop Deployment Guide
+├── INDEPENDENT_QUALITY_AUDIT_REPORT.md # Full forensics audit report
 ├── requirements.txt        # Python dependency manifest
 └── README.md
 ```
 
 ---
 
-## Windows Quickstart
+## Windows Desktop Deployment (Turnkey)
 
-### Method 1: The One-Click Workflow (Recommended)
+### Quick Start for Non-Technical Users
+1. **Clone to Desktop:**
+   ```powershell
+   cd "$env:USERPROFILE\Desktop"
+   git clone -b arena/01a0d9ec-books https://github.com/alfrotan-glitch/Books.git BOOK-TEXT-EXTRACTOR
+   ```
+2. **One-Click Setup:**
+   Double-click `setup.bat` (or `نصب_و_راه_اندازی.bat`). It will initialize the environment, install packages, and place a **"Book Text Extractor"** shortcut icon directly on your Windows Desktop.
+3. **Run Application:**
+   Double-click the **Book Text Extractor** desktop shortcut or `شروع_برنامه.bat` to launch the Graphical Dashboard at `http://localhost:8000`.
 
-1. Put your PDF book file(s) into the `inbox/` directory.
-2. Double-click `run.bat`.
-   - On the first run, `run.bat` automatically configures a Python virtual environment (`.venv`) and installs all required dependencies.
-   - It scans `inbox/`, detects the book, and runs the entire extraction pipeline.
-3. Open `output/` to access:
-   - `<book-name>.txt` — The extracted book text in correct reading order.
-   - `<book-name>_report.html` — Interactive visual report.
-   - `<book-name>_pages.csv` — Status breakdown for every page.
-
-### Method 2: Web Dashboard
-
-If you prefer a browser interface:
-1. Double-click `run.bat --ui` (or run without any files in `inbox/`).
-2. The dashboard will automatically launch at `http://localhost:8000`.
-3. Drag-and-drop PDF books directly in the browser, monitor live page-by-page progress bars, preview extracted text, and download results.
+See **`راهنمای_اجرا_روی_دسکتاپ.md`** and **`DESKTOP_DEPLOYMENT.md`** for complete step-by-step documentation.
 
 ---
 

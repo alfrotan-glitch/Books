@@ -1,5 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
+cd /d "%~dp0"
 title Digital Book Extraction Engine - UI & Automation
 
 echo ===============================================================================

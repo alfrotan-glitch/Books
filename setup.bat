@@ -1,5 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
+cd /d "%~dp0"
 title Setup - Digital Book Extraction Engine
 
 echo ===============================================================================
@@ -72,15 +73,36 @@ if !errorlevel! neq 0 (
     exit /b 1
 )
 
+:: 5. Create Desktop Shortcut
+echo.
+echo [SHORTCUT] Creating desktop shortcut...
+set "TARGET_BAT=%~dp0run.bat"
+set "WORKING_DIR=%~dp0"
+set "ICON_FILE=%~dp0assets\app_icon.ico"
+set "SHORTCUT_PATH=%USERPROFILE%\Desktop\Book Text Extractor.lnk"
+
+powershell -NoProfile -ExecutionPolicy Bypass -Command ^
+    "$ws = New-Object -ComObject WScript.Shell; " ^
+    "$s = $ws.CreateShortcut('%SHORTCUT_PATH%'); " ^
+    "$s.TargetPath = '%TARGET_BAT%'; " ^
+    "$s.WorkingDirectory = '%WORKING_DIR%'; " ^
+    "if (Test-Path '%ICON_FILE%') { $s.IconLocation = '%ICON_FILE%' }; " ^
+    "$s.Description = 'Digital Book Text Extraction Engine'; " ^
+    "$s.Save();" >nul 2>&1
+
+if exist "%SHORTCUT_PATH%" (
+    echo   [OK] Desktop shortcut created: %SHORTCUT_PATH%
+)
+
 echo.
 echo ===============================================================================
 echo    SETUP COMPLETED SUCCESSFULLY!
 echo ===============================================================================
 echo.
 echo Next Steps:
-echo   1. Drop any PDF book into the 'inbox\' folder.
-echo   2. Double-click 'run.bat' to begin automated extraction.
-echo   3. Find your completed .txt and report files in the 'output\' folder!
+echo   1. Double-click the 'Book Text Extractor' icon on your Desktop or run 'run.bat'
+echo   2. Drop any PDF book into the 'inbox\' folder (or upload via Web UI)
+echo   3. Click 'Start Extraction' and view text / reports in real time!
 echo.
 pause
 exit /b 0
