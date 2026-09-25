@@ -24,6 +24,12 @@ def check(fn):
     APPROACH = {'01','02','03','04','05','15','24','36','45','53','59','66','71'}
     if Path(fn).name[:2] in APPROACH:
         required = ['Memory Joggers','Red Flags','References','قدم کوچک','اتصال به فصل','مرور ۶۰ ثانیه']
+    if 'سبک v3' in t:
+        # v3: 15-section template = author completeness checklist (audited in release/style-dna-audit-v3.md);
+        # reader-facing minimum = red flags, references, 60-second review; an opened case must be closed.
+        required = ['Red Flags','References','مرور ۶۰ ثانیه']
+        if 'کیس' in t[:3000] and 'برگشت به کیس' not in t:
+            issues.append('V3: opening case never closed (برگشت به کیس)')
     for r in required:
         if r not in t:
             issues.append(f'MISSING SECTION: {r}')
