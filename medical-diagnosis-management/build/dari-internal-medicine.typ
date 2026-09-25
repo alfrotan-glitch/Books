@@ -17677,7 +17677,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 = فصل ۵۴ — سکتهٔ مغزی و TIA
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: **2026 AHA/ASA Guideline for the Early Management of Patients With Acute Ischemic Stroke** (Prabhakaran S et al., Stroke, نشر آنلاین ۲۶ جنوری ۲۰۲۶) جانشین 2018/2019 است؛ از چند خلاصهٔ معتبر (Endovascular Today، TJCVD، و دیگران) خوانده شد؛ متن اصلی مستقیم خوانده نشد → SD-62. پیش‌گیری ثانوی (AHA 2021) و ICH (AHA/ASA 2022) از منبع اولیه در این فصل خوانده نشد → SD-62.*
+  **بخش هشتم — نورولوژی** · *Currentness audit: **2026 AHA/ASA Guideline for the Early Management of Patients With Acute Ischemic Stroke** (Prabhakaran S et al., Stroke, نشر آنلاین ۲۶ جنوری ۲۰۲۶) جانشین 2018/2019 است؛ بخش Thrombolysis (§4.6) از متن اصلی خوانده شد (۲۰۲۶-۰۹-۲۵)؛ بخش‌های دیگر (EVT، فشار) از خلاصه‌ها → SD-62. پیش‌گیری ثانوی (AHA 2021 §5.4.1 و §5.19) و ICH (AHA/ASA 2022، فشار و VTE) از متن اولیه خوانده شد.*
 ]
 == «وقت مغز است»
 **حاجی رحیم** را از فصل ۵۳ می‌شناسیم: ۶۸ ساله، فشار بلند که دوا نمی‌خورد، **ساعت ۷:۳۰ صبح** سر صبحانه ناگهان دست و پای راستش ضعیف شد و گپ زده نمی‌توانست. پسرش او را **ساعت ۸:۴۵** به شفاخانه رساند.
@@ -17727,8 +17727,10 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **فشار پیش از Thrombolysis:** **کمتر از ۱۸۵/۱۱۰ mmHg**. پس از آن تا ۲۴ ساعت **کمتر از ۱۸۰/۱۰۵**.
 - **پس از ۴.۵ ساعت یا زمان نامعلوم (Wake-up stroke):** Thrombolysis در مریضان منتخب با **تصویربرداری پیشرفته** (MRI Diffusion یا Perfusion) که نسج قابل نجات نشان دهد. این یک تصمیم تصویری است، نه یک ساعت ثابت (AHA 2026).
 - **نقیصهٔ واقعاً غیرناتوان‌کننده (خفیف):** **DAPT** بر Thrombolysis ترجیح دارد (AHA 2026).
-- **منع‌ها:** خونریزی در CT، خونریزی فعال، جراحی یا ترضیض بزرگ اخیر، ضد انعقاد مؤثر، Platelet پایین، و غیره. **فهرست کامل را از پروتوکول شفاخانه بررسی کن** → SD-62.
+- **منع‌ها:** خونریزی در CT، خونریزی فعال، جراحی یا ترضیض بزرگ اخیر، ضد انعقاد مؤثر، Platelet پایین، و غیره. AHA 2026 به جای فهرست مطلق، **درجه‌بندی خطر** (Table 8) آورده است که تصویر است و در این نشست خوانده نشد؛ **فهرست کامل را از پروتوکول شفاخانه بررسی کن** → SD-62. مصرف DOAC در ۴۸ ساعت اخیر: شواهد فقط مشاهده‌ای است و تصمیم فردی با متخصص است. اگر شک به اختلال انعقادی نیست، Thrombolysis را برای انتظار نتیجهٔ Platelet یا INR به تعویق نینداز (AHA 2026).
 - **پس از Thrombolysis:** نظارت عصبی و فشار مکرر؛ **سردردی تازه، استفراغ، یا بدتر شدن = خونریزی تا خلاف آن ثابت شود** → انفیوژن را قطع کن و CT فوری.
+- **جدول ۷ AHA 2026:** فشار و معاینهٔ عصبی هر ۱۵ دقیقه تا ۲ ساعت، بعد هر ۳۰ دقیقه تا ۶ ساعت، بعد هر ساعت تا ۲۴ ساعت. نل معده، کتیتر مثانه و کتیتر شریانی را اگر ممکن است به تعویق بینداز. **CT یا MRI پس از ۲۴ ساعت، پیش از شروع ضد انعقاد یا Antiplatelet.**
+- **خونریزی داخل جمجمه در ۲۴ ساعت اول (جدول ۵ AHA 2026):** دوا را قطع کن؛ CBC، INR، aPTT، Fibrinogen و Cross-match؛ **Cryoprecipitate ۱۰ واحد** در ۱۰–۳۰ دقیقه تا Fibrinogen ۱۵۰ mg/dL یا بیشتر بماند؛ **Tranexamic acid ۱۰۰۰ mg وریدی در ۱۰ دقیقه**؛ مشورهٔ جراحی عصبی و هیماتولوژی.
 === (۳) Thrombectomy (EVT)
 - **انسداد رگ بزرگ** (شریان کاروتید داخلی، MCA، Basilar) → **Thrombectomy** در مریضان منتخب **تا ۲۴ ساعت** (AHA 2026)، شامل بعضی با **Infarct بزرگ‌تر** (Large core).
 - **انسداد Basilar در ۲۴ ساعت** با NIHSS ۱۰ یا بیشتر: توصیهٔ قوی.
@@ -17742,9 +17744,10 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*حالت*], [*هدف (AHA 2026)*],
     [پیش از Thrombolysis], [کمتر از ۱۸۵/۱۱۰],
-    [۲۴ ساعت پس از Thrombolysis], [کمتر از ۱۸۰/۱۰۵؛ **پایین آوردن شدید به کمتر از ۱۴۰ فایده ندارد**],
-    [**پس از Thrombectomy موفق**], [**پایین آوردن فشار سیستولیک به کمتر از ۱۴۰ در ۷۲ ساعت: مضر**],
-    [**بدون تداوی Reperfusion**], [فشار تا **۲۲۰/۱۲۰** در ۲۴ ساعت اول قابل قبول است، مگر عضو دیگر آسیب ببیند],
+    [۲۴ ساعت پس از Thrombolysis], [کمتر از ۱۸۰/۱۰۵ (SBP بین ۱۴۰ و ۱۸۰)؛ **پایین آوردن شدید به ۱۳۰–۱۴۰ فایدهٔ عملکردی ندارد**],
+    [پیش از Thrombectomy], [۱۸۵/۱۱۰ یا کمتر (معقول)],
+    [**پس از Thrombectomy موفق**], [**هدف SBP کمتر از ۱۴۰ در ۲۴ ساعت اول، یا کمتر از ۱۲۰ در ۷۲ ساعت: مضر** (استقلال کمتر، مرگ بیشتر)],
+    [**بدون تداوی Reperfusion**], [کمتر از **۲۲۰/۱۲۰**: پایین آوردن فعال در ۴۸–۷۲ ساعت اول فایده ندارد؛ **۲۲۰/۱۲۰ یا بیشتر** یا آسیب عضو دیگر (مثلاً Aortic dissection، عدم کفایهٔ حاد قلب): **ابتدا حدود ۱۵ فیصد** پایین بیاور],
   ),
   caption: none,
 )
@@ -17752,7 +17755,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 **منطق:** مغز اطراف Infarct (Penumbra) به فشار وابسته است. **پایین آوردن ناگهانی فشار، Penumbra را می‌کشد.** «Nifedipine زیر زبان» برای فشار بلند سکته **خطرناک است**.
 === (۵) دیگر اقدامات ساعت اول (AHA 2026)
 - **بلع را پیش از هر خوراک یا دوای فمی غربالگری کن** (Class 1). Aspiration pneumonia یک قاتل پنهان است.
-- **قند:** Hypoglycaemia را اصلاح کن. **کنترول شدید قند توصیه نمی‌شود.**
+- **قند:** قند کمتر از ۶۰ mg/dL را اصلاح کن؛ قند بیشتر از ۱۸۰ mg/dL را تداوی کن. **کنترول شدید (۸۰–۱۳۰ mg/dL) توصیه نمی‌شود** (SHINE: فایده نداشت، Hypoglycaemia شدید داشت).
 - **تب را پیدا و تداوی کن.**
 - **جوراب فشاری الاستیکی برای جلوگیری DVT: مضر** (AHA 2026). از فشار متناوب هوایی (IPC) یا دوا استعمال کن (فصل ۱۴).
 - **حرکت زودهنگام با شدت کم تا متوسط در ۲۴–۷۲ ساعت** (AHA 2026).
@@ -17760,9 +17763,9 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 == ۴. سکتهٔ Haemorrhagic (ICH) — اصول
 - **CT:** خون.
 - **ضد انعقاد را فوراً معکوس کن:** Warfarin → Vitamin K + PCC؛ DOAC → Antidote اگر هست (فصل ۱۴، ۶۴).
-- **فشار:** کاهش محتاطانه. *(هدف عددی AHA 2022 → SD-62.)*
+- **فشار (AHA 2022، متن توضیحی):** در ICH خفیف تا متوسط با SBP بین ۱۵۰ و ۲۲۰ mmHg، پایین آوردن به حدود **۱۴۰ mmHg** بی‌خطر است؛ **کمتر از ۱۳۰ mmHg نه** (فایده را از بین می‌برد و به گرده ضرر دارد). زود شروع کن، آرام و بدون نوسان زیاد پایین بیاور؛ کاهش بیشتر از ۶۰ mmHg در ساعت اول با نتیجهٔ بد همراه بود. در SBP بالاتر از ۲۲۰ احتیاط بیشتر. در ICH بزرگ با فشار بلند داخل جمجمه، CPP را ۶۰–۷۰ mmHg نگه‌دار. از Nitroglycerin (گشادکنندهٔ وریدی) پرهیز کن.
 - **جراحی عصبی** برای خونریزی مخچه با فشار ساقه یا Hydrocephalus.
-- Aspirin و Heparin پروفیلاکتیک: تصمیم با متخصص → SD-62.
+- **پیش‌گیری DVT (AHA 2022):** از روز اول IPC (فشار متناوب پا)؛ جوراب فشاری مؤثر نیست. Heparin پروفیلاکتیک (UFH یا LMWH) را می‌توان **۲۴–۴۸ ساعت پس از شروع** شروع کرد، ترجیحاً پس از CT که ثبات خونریزی را نشان دهد. ادامه یا دوباره شروع کردن Aspirin: تصمیم با متخصص → SD-62.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۵. TIA — «سکتهٔ هشداردهنده»
 - **ارزیابی عاجل** (در ۲۴ ساعت، نه هفته‌ها):
@@ -17770,11 +17773,11 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **تصویربرداری کاروتید**؛
 - ECG و نظارت برای **AF**؛
 - قند و Lipid.
-- **TIA پرخطر یا سکتهٔ خفیف (غیرکاردیوامبولیک):** **DAPT کوتاه‌مدت** (Aspirin + Clopidogrel) خطر سکته را در هفته‌های اول کم می‌کند، بعد یک دوا. *(دوز Loading و مدت دقیق → SD-62.)*
+- **TIA پرخطر یا سکتهٔ خفیف (غیرکاردیوامبولیک):** **DAPT کوتاه‌مدت** (Aspirin + Clopidogrel) خطر سکته را در هفته‌های اول کم می‌کند، بعد یک دوا. **AHA 2021 (متن توضیحی):** برای سکتهٔ خفیف (NIHSS ۳ یا کمتر) یا TIA پرخطر (ABCD2 ۴ یا بیشتر)، در ۲۴ ساعت اول شروع شود، **۲۱–۹۰ روز**، بعد یک دوا؛ فایده بیشتر در ۲۱ روز اول است و ادامهٔ DAPT بیش از ۹۰ روز فقط خونریزی را زیاد می‌کند. دوزهای دو کارآزمایی: CHANCE — Clopidogrel **۳۰۰ mg** Loading سپس ۷۵ mg روزانه، Aspirin ۷۵–۳۰۰ mg Loading سپس ۷۵ mg (۲۱ روز)؛ POINT — Clopidogrel **۶۰۰ mg** Loading سپس ۷۵ mg، Aspirin ۵۰–۳۲۵ mg روزانه (۹۰ روز). این الگوریتم برای مریضی که Thrombolysis گرفته صدق نمی‌کند. *(رهنمود 2026 AIS در این نشست خوانده نشد → SD-62.)*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۶. پیش‌گیری ثانوی — تا آخر عمر
 1. **علت را پیدا کن:** AF (ECG، Holter)، تنگی کاروتید، منبع قلبی (Echo).
-2. **Antiplatelet** (در سکتهٔ غیرکاردیوامبولیک)؛ **ضد انعقاد** در AF (فصل ۱۰). زمان شروع پس از سکته با اندازهٔ Infarct → SD-62.
+2. **Antiplatelet** (در سکتهٔ غیرکاردیوامبولیک)؛ **ضد انعقاد** در AF (فصل ۱۰). زمان شروع پس از سکته (AHA 2021، متن توضیحی): در **TIA** زودتر شروع کن؛ در سکتهٔ عادی معمولاً **۲–۱۴ روز** و فردی (خطر خونریزی در برابر عود)؛ در **Infarct بزرگ** (NIHSS بیشتر از ۱۵ یا تمام ساحهٔ یک شریان) یا نشانهٔ خونریزی در تصویر، **تا ۱۴ روز** به تعویق انداختن معقول است. *(کارآزمایی‌های بعدی مثل ELAN شروع زودتر DOAC را مطرح کردند؛ متن رهنمود 2026 در این نشست خوانده نشد → SD-62.)*
 3. **فشار خون** (فصل ۶): مهم‌ترین عامل قابل تغییر.
 4. **Statin با شدت بلند** (فصل ۵۲).
 5. **دیابت** (فصل ۴۶)، **ترک سگرت** و نسوار.
@@ -17820,9 +17823,9 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 4. پنجرهٔ Thrombectomy؟ ← تا ۲۴ ساعت در مریضان منتخب.
 5. چه چیز در AHA 2026 مضر اعلام شد؟ ← SBP کمتر از ۱۴۰ پس از EVT موفق، و جوراب فشاری الاستیکی.
 == 📚 References
-1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
-2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (خوانده نشد → SD-62.)
-3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (خوانده نشد → SD-62.)
+1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (§4.6 متن اصلی خوانده شد؛ جدول ۸ تصویر → SD-62.)
+2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
+3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
 = فصل ۵۵ — تشنج، صرع و Status epilepticus
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -22650,7 +22653,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **ملاریا** در مناطق Endemic (فصل ۶۸)؛ **مننژیت** (فصل ۵۷ — Dexamethasone ۰.۱۵ mg/kg اطفال، اعظمی ۱۰ mg)؛ **پنومونی** (تنفس سریع، **کشیده شدن قفسهٔ صدر**)؛ و **انتان ادرار**.
 - **Aspirin برای تب در اطفال نه** (Reye syndrome). *(حد سنی → SD-76.)*
 === تنفس
-- **تنفس سریع** (مطابق سن)، **کشیده شدن پایین قفسهٔ صدر**، **Stridor در آرامی**، یا **کبودی** → پنومونی شدید، عاجل. *(حدود تنفس سریع IMCI → SD-76.)*
+- **تنفس سریع** (مطابق سن)، **کشیده شدن پایین قفسهٔ صدر**، **Stridor در آرامی**، یا **کبودی** → پنومونی شدید، عاجل. **تنفس سریع (WHO IMCI 2014):** ۲ تا ۱۲ ماه **۵۰ بار در دقیقه یا بیشتر**؛ ۱۲ ماه تا ۵ سال **۴۰ بار یا بیشتر** — یک دقیقهٔ کامل بشمار. اگر Pulse oximeter هست، **SpO₂ کمتر از ۹۰ فیصد → راجع کن**. تنفس سریع یا کشیده شدن قفسه بدون علامهٔ خطر = پنومونی (Amoxicillin فمی)؛ علامهٔ خطر یا Stridor = پنومونی شدید → دوز اول Antibiotic و راجع عاجل.
 - **خس‌خس** در طفل کوچک: Bronchiolitis یا آسما (فصل ۱۷).
 - **جسم خارجی** (دانه، پسته) — ناگهانی، در طفل ۱–۳ ساله.
 === تشنج (فصل ۵۵)
@@ -23280,7 +23283,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [**], [**],
     [اول], [**قند**؛ CT/CTA بدون تأخیر],
     [Thrombolysis (تا ۴.۵ ساعت)], [**Tenecteplase ۰.۲۵ mg/kg (اعظمی ۲۵ mg)** یک Bolus · یا **Alteplase ۰.۹ mg/kg (اعظمی ۹۰ mg)**],
-    [فشار], [پیش از IVT **کمتر از ۱۸۵/۱۱۰**؛ ۲۴ ساعت پس از آن **کمتر از ۱۸۰/۱۰۵**؛ بدون Reperfusion تا **۲۲۰/۱۲۰** قابل قبول],
+    [فشار], [پیش از IVT **کمتر از ۱۸۵/۱۱۰**؛ ۲۴ ساعت پس از آن **کمتر از ۱۸۰/۱۰۵**؛ بدون Reperfusion تا **۲۲۰/۱۲۰** قابل قبول، بالاتر از آن ابتدا حدود ۱۵ فیصد کم کن؛ پس از Thrombectomy SBP را کمتر از ۱۴۰ نیاور (فصل ۵۴)],
     [Thrombectomy], [انسداد رگ بزرگ تا **۲۴ ساعت**],
   ),
   caption: none,
@@ -24136,9 +24139,9 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == فصل ۵۳ — رهیافت به مریض عصبی: «کجا» پیش از «چه»
 این فصل رهیافت بالینی است؛ منابع رهنمودی در فصل‌های ۵۴–۵۹ آمده‌اند.
 == فصل ۵۴ — سکتهٔ مغزی و TIA
-1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
-2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (خوانده نشد → SD-62.)
-3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (خوانده نشد → SD-62.)
+1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (§4.6 متن اصلی خوانده شد؛ جدول ۸ تصویر → SD-62.)
+2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
+3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
 == فصل ۵۵ — تشنج، صرع و Status epilepticus
 1. Neurocritical Care Society. Emergency Neurological Life Support (ENLS) 5.0: Status Epilepticus Protocol.
 2. Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults. *Epilepsy Curr.* 2016;16(1):48–61.

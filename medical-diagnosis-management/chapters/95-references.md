@@ -687,9 +687,9 @@
 
 ## فصل ۵۴ — سکتهٔ مغزی و TIA
 
-1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
-2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (خوانده نشد → SD-62.)
-3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (خوانده نشد → SD-62.)
+1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (§4.6 متن اصلی خوانده شد؛ جدول ۸ تصویر → SD-62.)
+2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
+3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
 
 ## فصل ۵۵ — تشنج، صرع و Status epilepticus
 
