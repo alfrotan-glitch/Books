@@ -20,10 +20,12 @@
 | SD-08 | ۳۴ | جدول دهایدریشن WHO برای اطفال طراحی شده؛ معیار معتبر کاهلان (منبع مستقل) | OPEN |
 | SD-09 | ۳۴ | تعریف زمانی persistent/chronic (۱۴–۳۰ روز / بیشتر از ۳۰ روز) از خلاصهٔ ACG؛ متن اصلی ACG 2016 مستقیماً خوانده نشد | OPEN |
 | SD-10 | ۳۵ | دوزهای بدون رقم: Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics، آهن، فولات، ویتامین D، کلسیم، Tetracycline+فولات در Tropical sprue، Rifaximin در SIBO | OPEN |
-| SD-11 | ۳۵ | Hydroxocobalamin از خلاصه‌های NICE CKS؛ متن اصلی NG239 خوانده نشد | PARTIAL |
+| SD-11 | ۳۵ | B12: متن اصلی NICE NG239 بررسی شد (راه، حداقل ۱ mg فمی، پیگیری ۳ ماه ✅). برنامهٔ دوز IM در NG239 نیست؛ از CKS/BNF (ثانوی) | PARTIAL (باز) |
 | SD-12 | ۳۵ | Linaclotide ۲۹۰ µg / Plecanatide ۳ mg از متن ACG 2021 (دوز مطالعه)، نه برچسب | PARTIAL |
-| SD-13 | ۳۵ | موضع BSG 2023 دربارهٔ تشخیص بدون بیوپسی در کاهلان — فقط منبع ثانوی | OPEN |
-| SD-14 | ۳۵ | فاصله‌های پیگیری Coeliac (tTG و بیوپسی تکراری) — از متن اصلی تأیید نشد | OPEN |
+| SD-13 | ۳۵ | موضع BSG دربارهٔ تشخیص بدون بیوپسی: متن اصلی **BSG 2026** (Gut, doi:10.1136/gutjnl-2025-337747) REC 6 بررسی و در فصل ثبت شد | SOURCE FOUND — بسته شدن منتظر تأیید مؤلف |
+| SD-14 | ۳۵ | پیگیری Coeliac: BSG 2026 GPS 13–17 و REC 12 ثبت شد؛ فاصلهٔ tTG تکراری در ACG هنوز از متن اصلی تأیید نشد | PARTIAL (باز) |
+| SD-15 | ۳۶ | جدول تصنیف خطر AUA/SUFU 2025 (آستانه‌های عمر و پاکت-سال) از متن اصلی خوانده نشد؛ فقط اصول از خلاصهٔ 2025 و جدول 2020 | OPEN |
+| SD-16 | ۳۶ | تعریف AKI: KDIGO 2012 از مرورهای PMC تأیید شد؛ وضعیت بازنگری KDIGO AKI (2025/2026) از منبع اصلی تأیید نشد | OPEN — Global Audit |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
@@ -35,3 +37,4 @@
 | TD-03 | «توسع توکسیک کولون» (Toxic megacolon) — فصل ۳۳ | FOR GLOSSARY AUDIT |
 | TD-04 | «کفایهٔ X» به معنای failure در فصل‌های ۱۱–۳۱ → «عدم کفایهٔ X»: ۱۵۲ مورد یافت، ۱۴۸ اصلاح، ۴ عمداً باقی (به معنای adequacy). گزارش: `release/TD-04-kifaya-correction.md` | **CLOSED (2026-09-25)** |
 | TD-05 | Scanner: substring matching اصلاح شد (مرز کلمه برای خط عربی، پسوندهای صرفی، حذف تکرار)؛ glossary rows تکراری هنوز موجودند | FIXED (ابزار) / OPEN (پاک‌سازی گلاسری) |
+| TD-06 | **Valvular terminology review** (محدود): ۱۸ مورد «عدم کفایهٔ اورت/دریچه/تریکسپید…» در ۱۲، ۱۳، ۱۴، ۳۰ همه به معنای valvular insufficiency/regurgitation تأیید شدند؛ تغییر داده نشد. اصطلاح نهایی (عدم کفایهٔ دریچه در برابر Regurgitation/قلس) و املای «تریکسپید / تریکوسپید» برای glossary نهایی. گزارش: `release/TD-06-valvular-terminology-review.md` | OPEN — FOR FINAL GLOSSARY |

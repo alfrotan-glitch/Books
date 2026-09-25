@@ -12027,7 +12027,7 @@ IBS یک علت واحد ندارد. عوامل زیر با هم کار می‌�
 - tTG-IgA منفی در شخص بدون کمبود IgA، وقتی احتمال پیش از تست کم یا متوسط باشد، ارزش منفی بلند دارد و Coeliac را به حد کافی رد می‌کند. در احتمال پیش از تست بلند، بیوپسی حتی با سیرولوژی منفی در نظر گرفته شود (ACG 2023).
 === قدم ۲ — تأیید Coeliac: اندوسکوپی و بیوپسی
 - ACG 2023: **EGD با چند بیوپسی از Duodenum** برای تأیید تشخیص در کاهلان و اطفال توصیه می‌شود (توصیهٔ قوی).
-- بیوپسی: Villous atrophy، Crypt hyperplasia، افزایش لمفوسیت‌های داخل اپیتیل.
+- بیوپسی: Villous atrophy، Crypt hyperplasia، افزایش لمفوسیت‌های داخل اپیتیل. BSG 2026: دست کم **۴ بیوپسی از D2 و ۲ بیوپسی از بلب (D1)** (REC 4).
 **آیا در کاهلان بدون بیوپسی می‌توان تشخیص گذاشت؟** اینجا منابع با هم فرق دارند:
 #figure(
   table(columns: (auto, auto),
@@ -12036,11 +12036,12 @@ IBS یک علت واحد ندارد. عوامل زیر با هم کار می‌�
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*منبع*], [*موضع*],
     [**ACG 2023**], [رویکرد بدون بیوپسی فقط در **اطفال انتخاب‌شده** (tTG-IgA بیشتر از ۱۰ برابر حد بالای نورمال + EMA مثبت در نمونهٔ دوم) پیشنهاد می‌شود. در کاهلان، ارزش پیش‌بینی مثبت در یک مطالعهٔ بین‌المللی حدود ۹۵٪ بود، که برای یک رژیم تمام عمر شاید کافی نباشد. «تشخیص احتمالی Coeliac» در کاهل علامه‌دار با tTG-IgA ≥۱۰ برابر (ترجیحاً با EMA) وقتی اندوسکوپی عملی نیست، ممکن است.],
-    [**BSG 2023 / ESPGHAN**], [رویکرد بدون بیوپسی در شرایط انتخاب‌شده گسترش یافته است (طبق خلاصه‌های ثانوی؛ متن اصلی BSG در این دوره خوانده نشد — بدهی باز).],
+    [**BSG 2026** (Penny و همکاران، Gut 2026؛ REC 6)], [🔄 در **کاهلان علامه‌دار** که در **سطح دوم (متخصص)** بررسی می‌شوند، تشخیص بدون بیوپسی وقتی **IgA-tTG ≥۱۰ برابر حد بالای نورمال** باشد **ممکن است**. این راه **اختیاری** است و فقط پس از **تصمیم مشترک با مریض** (توصیهٔ مشروط، شواهد متوسط). لابراتوار باید حد ۱۰ برابر را برای کیت خود معتبر کرده باشد. BSG می‌گوید در کاهلان شواهدی نیست که EMA یا tTG دوم دقت را زیاد کند. فقط حدود ۲۰–۳۰٪ کاهلان با tTG مثبت به این حد می‌رسند. در دیابت نوع ۱ یا مرض اتوایمیون تازه احتیاط شود و بیوپسی گرفته شود.],
   ),
   caption: none,
 )
 #v(0.4em)
+**اختلاف واقعی:** ACG 2023 در کاهلان بیوپسی را قاعده می‌داند و رویکرد بدون بیوپسی را فقط «تشخیص احتمالی» می‌شمارد، با EMA دوم به‌عنوان تأیید. BSG 2026 همین رویکرد را برای کاهلان علامه‌دار در سطح متخصص یک **تشخیص رسمی اختیاری** می‌داند و EMA دوم را لازم نمی‌داند. هر دو موضع را به مریض توضیح بده.
 **در عمل افغانستان:** وقتی اندوسکوپی در دسترس است، بیوپسی بگیر. وقتی نیست و tTG-IgA بسیار بلند است، تصمیم را با متخصص بگیر و آن را «تشخیص احتمالی» ثبت کن.
 === Gluten challenge (وقتی مریض پیش از تست گلوتن را قطع کرده است)
 #figure(
@@ -12051,13 +12052,14 @@ IBS یک علت واحد ندارد. عوامل زیر با هم کار می‌�
     [*منبع*], [*پیشنهاد*],
     [**ACG 2013 (الگوریتم)**], [۳ g گلوتن روزانه برای ۲ هفته؛ اگر مریض تحمل می‌کند و نتیجه منفی است، تا ۶ هفتهٔ دیگر ادامه، بعد سیرولوژی و بیوپسی],
     [**Clinician's Guide to Gluten Challenge (Am J Gastroenterol / PMC 2023)**], [دست کم **۳–۶ g گلوتن روزانه برای ۱۲ هفته**],
+    [**BSG 2026 (REC 7)**], [**۳–۶ g گلوتن روزانه برای دست کم ۶ هفته** (توصیهٔ قوی، شواهد متوسط)],
   ),
   caption: none,
 )
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  منابع در مدت متفاوت‌اند؛ مقالهٔ 2023 تأکید می‌کند که اجماع وجود ندارد. **بهترین راه: گلوتن را پیش از تکمیل تست قطع نکن.**
+  منابع در مدت متفاوت‌اند (۲–۸ هفته، دست کم ۶ هفته، ۱۲ هفته)؛ مقالهٔ 2023 تأکید می‌کند که اجماع وجود ندارد. **بهترین راه: گلوتن را پیش از تکمیل تست قطع نکن.**
 ]
 === EPI
 - **Faecal elastase** تست اولیهٔ مناسب است و باید روی مواد غایطهٔ **نیمه‌جامد یا جامد** انجام شود (مواد غایطهٔ آبکی نتیجهٔ کاذب می‌دهد).
@@ -12115,7 +12117,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 - گندم، جو و Rye حذف شوند. در افغانستان این یعنی **نان گندم، آش، منتو و بسیاری غذاهای روزمره**. برنج، جواری و کچالو مجازند.
 - **مشورهٔ غذایی** با متخصص تغذیه در صورت امکان. بزرگ‌ترین علت عدم پاسخ، **تماس غیرعمدی با گلوتن** است.
 - کمبودها (آهن، فولات، ویتامین D، کلسیم) را اصلاح کن.
-- ACG 2023 بخشی دربارهٔ مراقبت‌های وقایوی، از جمله واکسین‌ها، دارد؛ واکسین‌ها را مطابق آن رهنمود و برنامهٔ ملی بررسی کن (جزئیات در این دوره از متن اصلی تأیید نشد).
+- واکسین: BSG 2026 واکسین **Pneumococcal** را برای همهٔ کاهلان Coeliac توصیه می‌کند (GPS 17).
 - **Coeliac بدون پاسخ:** پیش از هر چیز تماس با گلوتن را بررسی کن. بعد تشخیص را دوباره ارزیابی کن (ACG 2023، بخش Nonresponsive CD).
 ==== ۲. EPI — Pancreatic enzyme replacement therapy (PERT)
 #figure(
@@ -12141,15 +12143,16 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*حالت*], [*دوز · راه · تکرار · مدت*], [*منبع*],
-    [**بدون علایم نیورولوژیک**], [**Hydroxocobalamin ۱ mg IM سه بار در هفته برای ۲ هفته**؛ بعد نگهداری (در علت غیرغذایی مانند سوء جذب) **هر ۳ ماه، تمام عمر**], [NICE NG239 (2024) / NICE CKS — از خلاصه‌های ثانوی],
-    [**با علایم نیورولوژیک**], [**Hydroxocobalamin ۱ mg IM یک روز در میان تا وقتی بهبود بیشتر رخ ندهد**؛ بعد **هر ۲ ماه، تمام عمر**], [NICE NG239 / CKS — از خلاصه‌های ثانوی],
+    [**انتخاب راه**], [**IM تمام عمر** در Autoimmune gastritis، Gastrectomy کامل، یا قطع کامل Ileum انتهایی. در سوء جذب دیگر (مثلاً **Coeliac**، Gastrectomy قسمی): B12 بده و **IM را به جای فمی در نظر بگیر**. اگر فمی داده شود: **دست کم ۱ mg روزانه**. پیگیری اول **۳ ماه** پس از شروع (در حاملگی و شیردهی ۱ ماه)], [**NICE NG239 (2024)** — متن اصلی، توصیه‌های 1.5.3، 1.5.4، 1.5.5 و 1.6.1],
+    [**بدون علایم نیورولوژیک**], [**Hydroxocobalamin ۱ mg IM سه بار در هفته برای ۲ هفته**؛ بعد نگهداری (در علت غیرغذایی مانند سوء جذب) **هر ۳ ماه، تمام عمر**], [NICE CKS / BNF — از خلاصه‌های ثانوی (NG239 خودش جدول دوز IM ندارد)],
+    [**با علایم نیورولوژیک**], [**Hydroxocobalamin ۱ mg IM یک روز در میان تا وقتی بهبود بیشتر رخ ندهد**؛ بعد **هر ۲ ماه، تمام عمر**], [NICE CKS / BNF — از خلاصه‌های ثانوی],
   ),
   caption: none,
 )
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  ⚠️ در سوء جذب (Ileum، Pernicious anaemia) راه **تزریقی** ترجیح دارد. متن اصلی NG239 در این دوره مستقیماً خوانده نشد؛ دوزها از خلاصه‌های NICE CKS و رهنمود محلی NHS گرفته شده‌اند (بدهی جزئی).
+  ⚠️ متن اصلی NG239 بررسی شد: انتخاب راه، حداقل دوز فمی و زمان پیگیری از خود رهنمود است. NG239 برنامهٔ دوز IM (تعداد تزریق در هفته و فاصلهٔ نگهداری) را ذکر نمی‌کند؛ این برنامه از NICE CKS/BNF (خلاصه‌های ثانوی) آمده و در دفتر بدهی PARTIAL باقی می‌ماند.
 ]
 **آهن، فولات، ویتامین D و کلسیم:** اصلاح لازم است، اما دوزهای آن‌ها در این فصل از منبع تأیید نشد و عمداً بدون رقم نوشته شده است. به فصل‌های انیمی و استخوان مراجعه کن (بدهی باز).
 ==== ۴. Giardia و Tropical sprue
@@ -12232,7 +12235,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 - ارزیابی پیروی از رژیم و علایم در هر مراجعه، ترجیحاً با متخصص تغذیه.
 - tTG-IgA پس از شروع رژیم تکرار شود تا نورمال شود. کاهش آن نشانهٔ پیروی است، اما **ترمیم مخاط را تضمین نمی‌کند**.
 - در عدم پاسخ یا عود علایم: اندوسکوپی و بیوپسی (ACG 2013، توصیهٔ ۴).
-- فاصله‌های دقیق پیگیری در این فصل از متن اصلی تأیید نشد — بدهی باز.
+- **BSG 2026:** پیگیری منظم تا **۲ سال** پس از تشخیص؛ بعد بیوپسی تکراری با مریض بحث شود. مریضان با پاسخ خوب می‌توانند پیگیری به ابتکار مریض داشته باشند. پیگیری طولانی برای پیروی ضعیف، پاسخ ناکافی یا اختلاطات. **Duodenal histology** یگانه راه ارزیابی التهاب مخاط در مریض تحت رژیم است (REC 12). آهن، فولات، B12، ویتامین D و کلسیم در تشخیص و پیگیری چک شوند. **DXA یک سال پس از شروع رژیم**. **واکسین Pneumococcal** برای همهٔ کاهلان Coeliac (GPS 13–17).
 **فرید:** معیارهای Rome IV را داشت. هیچ علامهٔ خطر نداشت. سیرولوژی Coeliac و Faecal calprotectin نورمال بودند. تشخیص **IBS-M** با اطمینان به او گفته شد. Metronidazole قطع شد. فایبر محلول، امتحان محدود Low-FODMAP و Antispasmodic شروع شد، و بعد در صورت ضرورت TCA با دوز کم.
 **پروگنوز IBS:** مزمن و نوسانی است، اما **خطر سرطان یا IBD را زیاد نمی‌کند** و طول عمر را کم نمی‌سازد. هدف کنترول علایم و کیفیت زندگی است.
 **قاعدهٔ پیگیری در IBS:** اگر علامهٔ خطر تازه پیدا شد (کاهش وزن، خون، شروع در سن بالا)، تشخیص را دوباره ارزیابی کن. IBS هیچ‌کس را از سرطان کولورکتال محافظت نمی‌کند.
@@ -12268,6 +12271,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 - Rubio-Tapia A, et al. **American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease.** Am J Gastroenterol. 2023;118(1).
 - Rubio-Tapia A, Hill ID, Kelly CP, Calderwood AH, et al. **ACG Clinical Guidelines: Diagnosis and Management of Celiac Disease.** Am J Gastroenterol. 2013.
 - **A Clinician's Guide to Gluten Challenge.** 2023. PMC10872809.
+- Penny HA, Shiha MG, Raju SA, et al. **The 2026 British Society of Gastroenterology guidelines on the diagnosis and management of adult coeliac disease.** Gut. 2026 (online July 2026). doi:10.1136/gutjnl-2025-337747
 - Whitcomb DC, Buchner AM, Forsmark CE. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency: Expert Review.** Gastroenterology. 2023;165(5):1292–1301. doi:10.1053/j.gastro.2023.07.007
 - Lacy BE, Pimentel M, Brenner DM, Chey WD, Keefer LA, Long MD, Moshiree B. **ACG Clinical Guideline: Management of Irritable Bowel Syndrome.** Am J Gastroenterol. 2021;116(1):17–44. doi:10.14309/ajg.0000000000001036
 - **AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel Syndrome with Constipation.** Gastroenterology. 2022. PMID 35738724.
@@ -12278,7 +12282,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 - FDA label: **Xifaxan (rifaximin)** — §2.3 IBS-D. DailyMed.
 - FDA label: **Tindamax (tinidazole)** — Giardiasis. DailyMed.
 - Alfasigma USA. **Zelnorm (tegaserod) Notice of Withdrawal from Market.** 30 June 2022.
-- NICE. **Vitamin B12 deficiency in over 16s: diagnosis and management (NG239).** 2024; و NICE CKS (از خلاصه‌های ثانوی).
+- NICE. **Vitamin B12 deficiency in over 16s: diagnosis and management (NG239).** 2024 (متن اصلی بررسی شد)؛ و NICE CKS/BNF برای برنامهٔ دوز IM (از خلاصه‌های ثانوی).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 قدم کوچک در کنار بستر
 فردا در هر مریض اسهال مزمن، پیش از هر تست دیگر این سه سؤال را بپرس:
@@ -12296,3 +12300,399 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 3. EPI: Faecal elastase کمتر از ۱۰۰ µg/g؛ PERT دست کم ۴۰,۰۰۰ واحد Lipase در هر غذا، در حین غذا.
 4. IBS تشخیص مثبت با Rome IV است. در IBS-D: سیرولوژی Coeliac و Calprotectin یا CRP. کلچر روتین نه.
 5. IBS: فایبر محلول، امتحان محدود Low-FODMAP، سایکوتراپی؛ IBS-D ← Rifaximin؛ IBS-C ← Linaclotide؛ درد ← TCA. SSRI، Probiotic و Tegaserod (از بازار برداشته شد) نه.
+= فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)* · *فصل رهیافتی — ساختار تابع وظیفه (R9 اصلاح‌شده)*
+]
+== سه ورق لابراتوار روی یک میز
+در یک صبح در شفاخانهٔ ولایتی، سه ورق لابراتوار به دست یک داکتر جوان می‌رسد:
+- **ورق اول — حاجی نورالله**، ۶۴ ساله، دیابت دارد. Creatinine او از دو روز قبل «کمی» بلند رفته است. نرس می‌گوید ادرارش امروز خیلی کم بوده. او دیروز برای CT با کانتراست رفته بود.
+- **ورق دوم — ملالی**، ۳۵ ساله. برای معاینهٔ عمومی آمده و dipstick ادرار او «خون +۲» نشان داده است. هیچ شکایتی ندارد.
+- **ورق سوم — احمد شاه**، ۲۲ ساله. پاهایش از دو هفته پف کرده‌اند. dipstick او «پروتین +۴» دارد.
+هر سه «مشکل گرده» دارند، اما سؤال هر کدام فرق دارد:
+1. آیا گرده **ناگهان** خراب شده است (AKI) یا **از مدت‌ها** (CKD)؟
+2. آیا خون در ادرار **واقعی** است و از کجا می‌آید — **گلومرول** یا **مجاری ادرار**؟
+3. آیا پروتین در ادرار به حد **نفروتیک** رسیده است؟
+این فصل ابزار جواب دادن به این سه سؤال را می‌دهد: **Creatinine و eGFR، ادرار (dipstick و میکروسکوپ)، و اندازه‌گیری Albumin/Protein ادرار**. فصل‌های ۳۷ تا ۴۴ روی همین پایه ساخته می‌شوند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱. مفهوم بنیادی (Core Concept)
+گرده دو کار ساده اما حیاتی دارد: **فلتر کردن** خون (Filtration) و **تنظیم** آب، نمک، اسید و پوتاشیم (Regulation). ما این دو کار را با دو پنجره می‌بینیم:
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*پنجره*], [*چه نشان می‌دهد*], [*تست اصلی*],
+    [**پنجرهٔ وظیفه (Function)**], [گرده چقدر فلتر می‌کند], [Creatinine سیروم ← **eGFR** (Estimated Glomerular Filtration Rate)؛ در صورت امکان Cystatin C],
+    [**پنجرهٔ آسیب (Damage)**], [فلتر کجا سوراخ یا ملتهب شده است], [**Albuminuria** (ACR)، Haematuria، Casts در میکروسکوپ، تصویربرداری],
+  ),
+  caption: none,
+)
+#v(0.4em)
+💡 **تشبیه:** گرده مثل یک **غربال آرد** است. eGFR می‌گوید در یک دقیقه چقدر آرد از غربال می‌گذرد. Albumin در ادرار می‌گوید **سوراخ‌های غربال گشاد شده‌اند**. یک غربال می‌تواند هنوز تند کار کند (eGFR نورمال) اما سوراخ داشته باشد (Albuminuria) — و این اولین نشانهٔ خرابی است.
+**دو قاعدهٔ طلایی این فصل:**
+1. **یک Creatinine به تنهایی قصه نمی‌گوید؛ روند (Trend) قصه می‌گوید.** مقایسه با Creatinine قبلی، اولین کار است.
+2. **هر مریض گرده‌ای، هم eGFR و هم ACR لازم دارد.** KDIGO 2024 تصنیف CKD را بر هر دو استوار کرده است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۲. Creatinine و eGFR — خواندن درست پنجرهٔ وظیفه
+=== ۲.۱ چرا Creatinine کافی نیست؟
+Creatinine از **عضله** ساخته می‌شود و از گرده دفع می‌شود. پس سطح آن به دو چیز وابسته است: **مقدار عضله** و **وظیفهٔ گرده**.
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*وضعیت*], [*اثر بر Creatinine*], [*خطر در تفسیر*],
+    [زن مسن و لاغر، مریض بستری طولانی، قطع عضو], [کم (عضلهٔ کم)], [Creatinine «نورمال» اما GFR واقعی کم — **CKD پنهان**],
+    [جوان عضلاتی، ورزشکار], [بلند], [GFR کمتر از واقعی تخمین می‌شود],
+    [خوردن زیاد گوشت پخته، بعضی دواها (مانند Trimethoprim) که ترشح توبولی Creatinine را کم می‌کنند], [بلند بدون خرابی واقعی], [«AKI کاذب»],
+    [AKI در ساعات اول], [هنوز بلند نرفته], [Creatinine **دیر** بالا می‌رود؛ حجم ادرار زودتر خبر می‌دهد],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ **Creatinine یک «دماسنج دیرکار» است:** وقتی GFR ناگهان سقوط می‌کند، Creatinine چند روز وقت می‌گیرد تا به سطح جدید برسد. در این فاصله، eGFR **قابل اعتماد نیست**.
+=== ۲.۲ eGFR چیست و کدام معادله؟
+eGFR عددی است که لابراتوار از Creatinine، عمر و جنس با یک معادله حساب می‌کند.
+- **KDIGO 2024 (توصیهٔ 1.1.2.1، درجه 1B):** در کاهلان در معرض CKD از **eGFR بر پایهٔ Creatinine (eGFRcr)** استفاده کن. **اگر Cystatin C موجود است**، دستهٔ GFR را از **ترکیب Creatinine و Cystatin C (eGFRcr-cys)** تعیین کن.
+- **KDIGO 2024 (Practice Point 1.2.4.2):** استفاده از **نژاد (Race)** در محاسبهٔ eGFR باید ترک شود. معادلهٔ **CKD-EPI 2021** بدون نژاد در بسیاری لابراتوارها معیار شده است (CAP، NKF).
+- **KDIGO 2024 (Practice Point 1.2.4.1):** در یک منطقه همیشه از **یک معادلهٔ واحد** استفاده شود تا اعداد قابل مقایسه باشند.
+**Cystatin C کی کمک می‌کند؟** وقتی eGFRcr به دلیل مقدار غیرعادی عضله کم‌اعتبار است (لاغری شدید، قطع عضو، بستری طولانی، عضلهٔ زیاد) **و** GFR بر یک تصمیم کلینیکی اثر دارد (مثلاً دوز یک دوای خطرناک یا تشخیص CKD). Cystatin C کمتر به عضله وابسته است.
+=== ۲.۳ eGFR کجا اعتبار ندارد؟
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*موقعیت*], [*چرا*], [*چه کنیم*],
+    [**AKI** (Creatinine در حال تغییر)], [معادله‌ها برای حالت ثابت (Steady state) ساخته شده‌اند], [روند Creatinine و حجم ادرار را دنبال کن؛ به عدد eGFR تکیه نکن],
+    [حاملگی], [فیزیولوژی GFR تغییر می‌کند], [با متخصص ولادی/نفرولوژی تفسیر شود],
+    [عضلهٔ خیلی کم یا خیلی زیاد], [خطای Creatinine], [Cystatin C یا GFR اندازه‌گیری‌شده],
+    [اطفال], [معادله‌های کاهلان صدق نمی‌کنند], [معادلهٔ مخصوص اطفال (KDIGO 2024 PP 1.2.4.3)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+💡 **Memory Jogger:** «**eGFR فقط وقتی راست می‌گوید که Creatinine آرام نشسته باشد.**»
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۳. تصنیف CKD با KDIGO 2024 — سیستم CGA
+**تعریف CKD (KDIGO 2024):** ناهنجاری ساختمان یا وظیفهٔ گرده که **بیشتر از ۳ ماه** دوام کند و بر صحت اثر داشته باشد. در عمل: eGFR کمتر از ۶۰ ml/min/1.73 m² و/یا ACR مساوی یا بیشتر از ۳۰ mg/g (۳ mg/mmol) در **دو اندازه‌گیری با فاصلهٔ بیش از ۹۰ روز**.
+تصنیف با سه حرف: **C**ause (علت) · **G**FR · **A**lbuminuria.
+=== دسته‌های GFR (ml/min/1.73 m²)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دسته*], [*eGFR*], [*توضیح*],
+    [G1], [۹۰ و بیشتر], [نورمال یا بلند — CKD فقط اگر نشانهٔ آسیب باشد],
+    [G2], [۶۰–۸۹], [کمی کاهش — CKD فقط اگر نشانهٔ آسیب باشد],
+    [G3a], [۴۵–۵۹], [کاهش خفیف تا متوسط],
+    [G3b], [۳۰–۴۴], [کاهش متوسط تا شدید],
+    [G4], [۱۵–۲۹], [کاهش شدید],
+    [G5], [کمتر از ۱۵], [عدم کفایهٔ گرده (Kidney failure)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+=== دسته‌های Albuminuria
+#figure(
+  table(columns: (auto, auto, auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دسته*], [*AER (mg/24 h)*], [*ACR (mg/mmol)*], [*ACR (mg/g)*], [*نام*],
+    [A1], [کمتر از ۳۰], [کمتر از ۳], [کمتر از ۳۰], [نورمال تا کمی بلند],
+    [A2], [۳۰–۳۰۰], [۳–۳۰], [۳۰–۳۰۰], [متوسط بلند],
+    [A3], [بیشتر از ۳۰۰], [بیشتر از ۳۰], [بیشتر از ۳۰۰], [شدید بلند],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**نقشهٔ حرارتی (Heat map):** ترکیب G و A خطر عدم کفایهٔ گرده، امراض قلبی-وعایی و مرگ را در چهار رنگ نشان می‌دهد: سبز (کم)، زرد (متوسط)، نارنجی (بلند)، سرخ (خیلی بلند). یک مریض با G2A3 می‌تواند خطری بیشتر از G3aA1 داشته باشد — **Albuminuria وزن زیاد دارد**.
+**پیگیری (KDIGO 2024 PP 2.1.1–2.1.2):** در هر مریض CKD، eGFR و Albuminuria را **دست کم سالانه** اندازه کن؛ در خطر بلندتر، وقتی نتیجه تصمیم تداوی را تغییر می‌دهد، مکررتر.
+💡 **تشبیه:** G می‌گوید «چقدر از خانه فرو ریخته»؛ A می‌گوید «سقف چقدر سوراخ است و چقدر زود بقیه می‌ریزد».
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۴. AKI در برابر CKD — اولین تصمیم
+=== تعریف AKI (KDIGO 2012 — هنوز معیار جاری)
+AKI وقتی است که **یکی** از این‌ها رخ دهد:
+- افزایش Creatinine به اندازهٔ **۰٫۳ mg/dL (۲۶٫۴ µmol/L) یا بیشتر در ۴۸ ساعت**؛ یا
+- افزایش Creatinine به **۱٫۵ برابر خط قاعده یا بیشتر**، که معلوم یا گمان شود در **۷ روز گذشته** رخ داده؛ یا
+- حجم ادرار **کمتر از ۰٫۵ ml/kg/ساعت برای ۶ ساعت**.
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*مرحله*], [*Creatinine*], [*حجم ادرار*],
+    [۱], [۱٫۵–۱٫۹ برابر خط قاعده، یا افزایش ۰٫۳ mg/dL یا بیشتر], [کمتر از ۰٫۵ ml/kg/ساعت برای ۶–۱۲ ساعت],
+    [۲], [۲٫۰–۲٫۹ برابر], [کمتر از ۰٫۵ ml/kg/ساعت برای ۱۲ ساعت یا بیشتر],
+    [۳], [۳ برابر، یا رسیدن به ۴ mg/dL یا بیشتر، یا شروع دیالیز], [کمتر از ۰٫۳ ml/kg/ساعت برای ۲۴ ساعت یا بیشتر، یا Anuria برای ۱۲ ساعت یا بیشتر],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  🔄 **Currentness:** KDIGO در حال بازنگری رهنمود AKI است؛ تا تاریخ این فصل، تعریف 2012 معیار منتشرشدهٔ جاری است. در Global Audit دوباره بررسی شود.
+]
+=== چگونه AKI را از CKD جدا کنیم؟
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*سرنخ*], [*به نفع AKI*], [*به نفع CKD*],
+    [Creatinine قبلی], [نورمال در هفته‌ها/ماه‌های اخیر], [از ۳ ماه بلند],
+    [اندازهٔ گرده در Ultrasound], [نورمال یا بزرگ], [**کوچک، کورتکس نازک** (استثنا: دیابت، Amyloidosis، Polycystic)],
+    [کم‌خونی نورموسیتیک، Hyperphosphataemia مزمن], [معمولاً نیست], [شایع],
+    [قصه], [اسهال، سپسیس، دوای تازه، کانتراست، انسداد], [دیابت و فشار خون طولانی],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ **حالت سوم:** «**AKI روی CKD**» (Acute-on-chronic) شایع است — مثل حاجی نورالله. خط قاعدهٔ او را پیدا کن.
+=== سه سبد علت AKI
+#figure(
+  table(columns: (auto, auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*سبد*], [*فکر ساده*], [*مثال*], [*سرنخ ادرار*],
+    [**پیش‌گرده‌ای (Prerenal)**], [خون کافی به گرده نمی‌رسد], [اسهال، خونریزی، سپسیس، عدم کفایهٔ قلب، NSAID + ACEi], [رسوب «آرام» (Bland)، شاید Hyaline casts],
+    [**گرده‌ای (Intrinsic)**], [خود نسج آسیب دیده], [ATN، گلومرولونفریت، التهاب بین‌نسجی از دوا], [**Muddy brown casts** در ATN؛ **RBC casts** در GN؛ **WBC casts** در التهاب بین‌نسجی],
+    [**پس‌گرده‌ای (Postrenal)**], [راه خروج بند است], [بزرگی پروستات، سنگ دوطرفه، تومور لگن], [Ultrasound: **Hydronephrosis**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+💡 **Memory Jogger:** «**لوله، فلتر، فاضلاب**» — Prerenal = لولهٔ آب، Intrinsic = خود فلتر، Postrenal = فاضلاب بند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۵. معاینهٔ ادرار (Urinalysis) — ارزان‌ترین بیوپسی گرده
+=== ۵.۱ جمع‌آوری درست
+- ادرار **تازه**، **وسط جریان (Midstream clean-catch)**؛ هرچه زودتر معاینه شود (سلول‌ها و Casts با گذشت وقت خراب می‌شوند).
+- حیض، تمرین شدید، مقاربت و کتیتر تازه می‌توانند خون یا پروتین کاذب بدهند؛ در صورت امکان وقت معاینه را تغییر بده.
+=== ۵.۲ Dipstick — تست سریع، نه تشخیص
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*خانه*], [*چه می‌سنجد*], [*دام اصلی*],
+    [**Blood**], [فعالیت شبه‌Peroxidase هیموگلوبین], [**Myoglobin** و هیموگلوبین آزاد هم مثبت می‌دهند ← dipstick مثبت اما **RBC در میکروسکوپ نیست** = به Rhabdomyolysis یا همولیز فکر کن],
+    [**Protein**], [بیشتر **Albumin**], [پروتین‌های زنجیرهٔ سبک (Myeloma) را خوب نمی‌بیند؛ ادرار غلیظ یا رقیق نتیجه را تغییر می‌دهد],
+    [**Leukocyte esterase / Nitrite**], [WBC / باکتری‌های تبدیل‌کنندهٔ Nitrate], [منفی بودن UTI را کاملاً رد نمی‌کند (فصل ۴۰)],
+    [**Glucose**], [گلوکوز ادرار], [در دیابت کنترل‌ناشده یا مریض تحت **SGLT2 inhibitor** (اثر دوا، نه خرابی)],
+    [**Specific gravity**], [غلظت ادرار], [تفسیر پروتین و خون را تعدیل می‌کند],
+    [**pH**], [اسیدیت], [سنگ‌ها و اسیدوز توبولی (فصل ۴۱، ۴۳)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ **AUA/SUFU (2020؛ تأییدشده در بازنگری 2025):** Haematuria میکروسکوپیک را **فقط با dipstick تعریف نکن**. dipstick مثبت (Trace یا بیشتر) باید به **میکروسکوپ رسمی ادرار** بینجامد.
+=== ۵.۳ میکروسکوپ — جایی که تشخیص پیدا می‌شود
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*یافته*], [*معنا*],
+    [**RBC Dysmorphic** (شکل‌خراب، مخصوصاً Acanthocytes)], [منشأ **گلومرولی**],
+    [RBC یکنواخت و سالم], [منشأ مجاری ادرار (سنگ، تومور، التهاب)],
+    [**RBC casts**], [**گلومرولونفریت** تا خلاف آن ثابت شود — عاجل],
+    [**WBC casts**], [Pyelonephritis یا التهاب بین‌نسجی (Interstitial nephritis)],
+    [**Muddy brown / Granular casts**], [**ATN**],
+    [Hyaline casts], [غیراختصاصی؛ در کم‌آبی هم دیده می‌شود],
+    [**Fatty casts / Oval fat bodies** («صلیب مالتا» در نور قطبی)], [**سندروم نفروتیک**],
+    [کریستال‌ها], [مثلاً Calcium oxalate در سنگ یا مسمومیت Ethylene glycol],
+  ),
+  caption: none,
+)
+#v(0.4em)
+💡 **تشبیه:** Cast یک **قالب** از داخل توبول است — مثل اینکه در یک لوله گچ بریزی و بعد بیرون بکشی. هرچه در آن قالب گیر مانده باشد (RBC، WBC، سلول مرده)، نشان می‌دهد در **داخل گرده** چه می‌گذرد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۶. Proteinuria — چقدر و از کجا؟
+=== ۶.۱ اندازه‌گیری
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*تست*], [*کاربرد*],
+    [**ACR** (Albumin-to-Creatinine Ratio) در ادرار نقطه‌ای، ترجیحاً صبح اول], [تست اصلی تشخیص و تصنیف CKD (KDIGO 2024)],
+    [**PCR** (Protein-to-Creatinine Ratio)], [وقتی پروتین‌های غیر از Albumin مهم است (مثلاً شک به Myeloma یا امراض توبولی)],
+    [ادرار ۲۴ ساعته], [دقیق اما جمع‌آوری آن دشوار و پرخطا],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ ACR بلند را **تکرار کن** پیش از برچسب CKD: تب، تمرین شدید، UTI، عدم کفایهٔ قلب و قند بلند می‌توانند Albuminuria موقت بدهند.
+=== ۶.۲ دامنه‌های مهم
+- **دامنهٔ نفروتیک:** پروتین ادرار **بیشتر از ۳٫۵ g/روز**. **سندروم نفروتیک** = این مقدار **به اضافهٔ Albumin سیروم کمتر از ۳۰ g/L**، با یا بدون اذیما (KDIGO 2021 Glomerular Diseases). ← احمد شاه را به فصل ۳۷ ببر.
+- **سندروم نفریتیک:** Haematuria گلومرولی (RBC casts/Dysmorphic RBC) + پروتین + غالباً فشار بلند، اذیما و کاهش GFR.
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*الگو*], [*ادرار*], [*فکر اول*],
+    [نفروتیک], [پروتین زیاد، رسوب «چربی‌دار»، خون کم یا نیست], [Minimal change، Membranous، FSGS، دیابت، Amyloid],
+    [نفریتیک], [RBC casts، Dysmorphic RBC، پروتین متوسط], [Post-infectious GN، IgA، Lupus، Vasculitis (ANCA)، anti-GBM],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۷. Haematuria — واقعی؟ گلومرولی؟ خطر سرطان؟
+=== ۷.۱ تعریف (AUA/SUFU)
+**Microhaematuria = ۳ RBC یا بیشتر در هر ساحهٔ بزرگ‌نمایی (HPF)** در معاینهٔ میکروسکوپی **یک نمونهٔ درست جمع‌شده**. یک Urinalysis مثبت کافی است؛ اما dipstick تنها کافی نیست.
+=== ۷.۲ الگوریتم عملی
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*قدم*], [*سؤال*], [*اگر بلی*],
+    [۱], [dipstick مثبت، اما میکروسکوپ RBC نشان نمی‌دهد؟], [Myoglobinuria / Haemoglobinuria — CK و علایم همولیز],
+    [۲], [علت گذرا یا خوش‌خیم (حیض، UTI، تمرین شدید، ترضیض خفیف)؟], [پس از رفع علت، **Urinalysis را تکرار کن** (AUA)],
+    [۳], [نشانهٔ گلومرولی (Dysmorphic RBC، RBC casts، Albuminuria، کاهش eGFR، فشار بلند تازه)؟], [ارزیابی نفرولوژی (فصل ۳۷). **AUA تأکید می‌کند:** یافته‌های مرض گرده‌ای خودبه‌خود ارزیابی یورولوژیک را حذف نمی‌کند، به‌ویژه در مریض پرخطر],
+    [۴], [در غیر آن], [**تصنیف خطر سرطان مجاری ادرار** و ارزیابی یورولوژیک],
+  ),
+  caption: none,
+)
+#v(0.4em)
+=== ۷.۳ تصنیف خطر AUA/SUFU (بازنگری 2025) — اصول
+- عوامل خطر: **عمر، جنس، سابقهٔ سگرت** (پاکت-سال)، **شدت** Haematuria (RBC/HPF)، **دوام** آن در تکرار، **سابقهٔ Haematuria ظاهری (Gross)**، و عوامل خطر دیگر Urothelial cancer (مثلاً تماس شغلی با کیمیاوی‌ها، Cyclophosphamide قبلی).
+- جدول 2020 شدت را چنین دسته‌بندی می‌کرد: **۳–۱۰** RBC/HPF (خطر کم اگر عوامل دیگر هم کم باشند)، **۱۱–۲۵**، و **بیشتر از ۲۵** RBC/HPF (خطر بلند).
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*گروه (AUA 2025)*], [*اقدام*],
+    [**خطر ناچیز/کم**], [🔄 **ارزیابی فوری لازم نیست**؛ **Urinalysis را تکرار کن** تا معلوم شود ارزیابی لازم است یا نه],
+    [**خطر متوسط**], [**Cystoscopy + Ultrasound گرده** پیشنهاد شود؛ 🔄 در 2025 مارکرهای تومور ادرار یا Cytology می‌توانند در تصمیم Cystoscopy (با مشورهٔ مشترک) کمک کنند],
+    [**خطر بلند**], [**Cystoscopy + تصویربرداری مقطعی مجاری فوقانی** (مثلاً CT Urography در صورت نبود مانع) — **بدون توجه به مصرف ضد تخثر**],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  🔄 **Currentness (AUA/SUFU 2025):** تعریف ۳ RBC/HPF و رویکرد بر پایهٔ خطر حفظ شد. پایین‌ترین گروه «ناچیز» نام گرفت و فقط تکرار تست دارد؛ در زنان، عمر به تنهایی دیگر مریض را در گروه خطر بلند قرار نمی‌دهد. **آستانه‌های دقیق عمر و پاکت-سال در جدول 2025 در این دوره از متن اصلی خوانده نشد** — به جدول رسمی AUA مراجعه شود (بدهی SD-15).
+]
+⚠️ **مریض تحت Warfarin یا دیگر ضد تخثرها** که Haematuria دارد، مثل هر مریض دیگر ارزیابی می‌شود؛ ضد تخثر علت را «توضیح» نمی‌دهد.
+💡 **Memory Jogger — ملالی:** dipstick +۲ ← میکروسکوپ. اگر ≥۳ RBC/HPF و علت گذرا نبود ← خطر او را بسنج. زن جوان، غیرسگرتی، بدون عوامل دیگر ← احتمالاً فقط تکرار Urinalysis.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۸. تصویربرداری و تست‌های پیشرفته
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*تست*], [*کی*], [*نکته*],
+    [**Ultrasound گرده و مثانه**], [تقریباً هر AKI یا CKD تازه‌تشخیص], [Hydronephrosis (انسداد)، اندازهٔ گرده، کیست‌ها، حجم باقی‌ماندهٔ ادرار],
+    [CT بدون کانتراست], [سنگ (فصل ۴۱)], [—],
+    [CT Urography], [Haematuria پرخطر], [کانتراست — نگاه کن به §۹],
+    [Doppler شریان گرده], [شک به تنگی شریان گرده], [—],
+    [**سرولوژی** (ANA، anti-dsDNA، C3/C4، ANCA، anti-GBM، anti-PLA2R، الکتروفورز پروتین و Free light chains)], [نفریتیک/نفروتیک یا AKI بی‌دلیل], [فصل ۳۷],
+    [**بیوپسی گرده**], [علت نامعلوم با پروتین قابل‌توجه، نفریتیک، AKI بی‌دلیل], [تصمیم متخصص؛ فصل ۳۷],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۹. دواها و گرده — پیشگیری از آسیب
+=== ۹.۱ کانتراست یودین‌دار داخل وریدی (ACR–NKF Consensus 2020)
+- خطر واقعی AKI ناشی از کانتراست **نامعلوم** است، اما در مرض شدید گرده احتیاط لازم است.
+- **وقایه با Normal saline داخل وریدی** برای مریضانی **اندیکاسیون دارد** که **AKI** دارند یا **eGFR کمتر از ۳۰ ml/min/1.73 m²** دارند و **دیالیز دوامدار نمی‌شوند** — مگر اینکه مانع داشته باشند (مثلاً عدم کفایهٔ قلب).
+- در **eGFR ۳۰–۴۴**، وقایه در موارد پرخطر فردی به صلاحدید داکتر **ممکن است** در نظر گرفته شود.
+- برای eGFR ثابت ۳۰ یا بیشتر (به طور عموم) و مریضان دیالیزی، وقایه **اندیکاسیون ندارد**.
+- **زمان، حجم و سرعت ایدیال Normal saline نامعلوم است** (خود بیانیه)؛ از این رو این فصل حجم ثابتی نمی‌دهد. پروتوکول محلی و وضعیت حجم مریض تعیین‌کننده است.
+- ⚠️ **تفاوت منابع:** KDIGO 2012 (AKI) آستانهٔ وقایه را **eGFR کمتر از ۴۵** گذاشته بود؛ ACR–NKF 2020 آستانه را **کمتر از ۳۰** می‌داند. منبع جدیدتر و مخصوص کانتراست داخل وریدی = ACR–NKF 2020.
+=== ۹.۲ «سه‌گانهٔ خطرناک» و دواهای نفروتوکسیک
+- **NSAID + ACE inhibitor/ARB + Diuretic** در مریض کم‌آب ← AKI پیش‌گرده‌ای. در مریض کم‌آب یا AKI، ضرورت هر سه را دوباره بسنج.
+- Aminoglycosides، Vancomycin، Amphotericin B، Lithium، Calcineurin inhibitors ← سطح دوا و Creatinine را نظارت کن.
+- **دوز دواها در CKD:** برای هر دوا، تعدیل گرده‌ای در همان فصل دوا و در دفتر تأیید دوز آمده است. در دواهای با حاشیهٔ تداوی تنگ (Narrow therapeutic index)، وقتی eGFRcr کم‌اعتبار است، Cystatin C یا GFR اندازه‌گیری‌شده کمک می‌کند (KDIGO 2024).
+*این فصل رهیافتی دوز تازه‌ای معرفی نمی‌کند؛ تداوی‌ها در فصل‌های ۳۷–۴۴ می‌آیند.*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۰. رهیافت گام‌به‌گام — بر میز داکتر
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*قدم*], [*کار*], [*چرا*],
+    [۱], [**ABCDE و خطرهای فوری:** پوتاشیم، اسیدوز، اذیمای ریه، Uraemia (Pericarditis، اختلال شعور)، Anuria], [این‌ها «اندیکاسیون‌های عاجل دیالیز» را می‌سازند (فصل ۳۸)],
+    [۲], [**Creatinine قبلی را پیدا کن**], [AKI، CKD یا هر دو],
+    [۳], [**حجم ادرار و وضعیت حجم**], [کم‌آبی یا اضافه‌بار],
+    [۴], [**لست دواها** (NSAID، ACEi/ARB، Diuretic، Metformin، کانتراست تازه، آنتی‌بیوتیک‌ها)], [علت قابل برگشت],
+    [۵], [**Urinalysis + میکروسکوپ**], [Casts و RBC Dysmorphic، علت گرده‌ای را نشان می‌دهند],
+    [۶], [**ACR یا PCR**], [Albuminuria و دامنهٔ نفروتیک],
+    [۷], [**Ultrasound**], [انسداد، اندازهٔ گرده],
+    [۸], [**تصنیف:** AKI (مرحله) یا CKD (G + A + Cause)], [تصمیم پیگیری و ارجاع],
+  ),
+  caption: none,
+)
+#v(0.4em)
+=== ارجاع به نفرولوژی — کی؟
+- **عاجل:** AKI شدید یا با پوتاشیم بلند مقاوم، اذیمای ریه، اسیدوز شدید؛ **RBC casts یا شک به GN تیزرفتار**؛ AKI بی‌دلیل.
+- **برنامه‌ریزی‌شده:** CKD پیشرفته یا تیزرفتار، Albuminuria شدید، Haematuria گلومرولی دوامدار، علت نامعلوم (KDIGO 2024 — معیارهای دقیق در فصل ۳۹).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۱. اشتباهات رایج (Common Pitfalls)
+1. **تکیه به eGFR در AKI** — عدد در حال تغییر است.
+2. **برچسب CKD با یک نمونه** — تعریف ۳ ماه دوام می‌خواهد.
+3. **دیدن Creatinine «نورمال» در مسن لاغر** و فراموش کردن CKD پنهان.
+4. **dipstick خون مثبت = Haematuria** — نه؛ میکروسکوپ لازم است.
+5. **«خون ادرار از Warfarin است»** — نه؛ ارزیابی کامل لازم است.
+6. **فراموش کردن ACR** در دیابت و فشار بلند — اولین نشانهٔ آسیب از دست می‌رود.
+7. **فراموش کردن Ultrasound** — انسداد یک علت قابل برگشت و فراموش‌شده است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 Memory Joggers
+- **دو پنجره:** eGFR = وظیفه؛ ACR = آسیب. همیشه هر دو.
+- **CGA:** Cause – GFR – Albuminuria.
+- **«۳، ۳، ۳»:** CKD = بیش از **۳** ماه؛ ACR مرز A2 = **۳** mg/mmol؛ Microhaematuria = **۳** RBC/HPF یا بیشتر.
+- **AKI = ۰٫۳ در ۴۸ ساعت، ۱٫۵ برابر در ۷ روز، ۰٫۵ ml/kg/ساعت برای ۶ ساعت.**
+- **Casts:** سرخ = GN · سفید = التهاب بین‌نسجی/Pyelonephritis · گل‌آلود = ATN · چربی = نفروتیک.
+- **لوله، فلتر، فاضلاب** — سه سبد AKI.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⚠️ Red Flags (اقدام فوری)
+- ⚠️ **پوتاشیم بلند با تغییرات ECG** — تداوی فوری (فصل ۴۲).
+- ⚠️ **Anuria ناگهانی** — انسداد یا حادثهٔ وعایی را فوراً رد کن (Ultrasound).
+- ⚠️ **RBC casts + Creatinine رو به بالا** — GN تیزرفتار؛ همان روز متخصص.
+- ⚠️ **Haematuria + خون‌ریزی ریوی (Haemoptysis)** — سندروم ریوی-گرده‌ای (anti-GBM، ANCA vasculitis).
+- ⚠️ **dipstick خون مثبت بدون RBC + درد عضله/ادرار تاریک** — Rhabdomyolysis.
+- ⚠️ **اذیمای ریه، اسیدوز شدید، علایم Uraemia** — اندیکاسیون احتمالی دیالیز عاجل.
+- ⚠️ **Haematuria ظاهری بدون درد در مسن سگرتی** — سرطان مثانه تا خلاف آن ثابت شود.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 📚 References
+- Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. (Executive summary: kdigo.org)
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (تعریف و مراحل؛ از طریق مرورهای PMC4206042 و PMC13242417 نیز تأیید شد)
+- KDIGO Glomerular Diseases Work Group. **KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases** — Top 10 Takeaways (تعریف سندروم نفروتیک).
+- Barocas DA, et al. **Microhematuria: AUA/SUFU Guideline.** J Urol. 2020;204:778–786. PMID 32698717.
+- **Updates to Microhematuria: AUA/SUFU Guideline (2025).** J Urol. 2025. (خلاصه از UroToday، مصاحبه با D. Barocas، می 2025)
+- Davenport MS, et al. **Use of Intravenous Iodinated Contrast Media in Patients With Kidney Disease: Consensus Statements from the ACR and the NKF.** Radiology / Kidney Med. 2020.
+- College of American Pathologists. **Chronic Kidney Disease Testing** (CKD-EPI 2021 بدون نژاد). 2025.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🎯 قدم کوچک در کنار بستر
+1. پیش از تفسیر هر Creatinine، **Creatinine قبلی** را در دوسیه پیدا کن.
+2. به هر مریض دیابتی یا فشار بلند، **ACR** را امر کن — نه فقط Creatinine.
+3. هر dipstick خون مثبت را **به میکروسکوپ بفرست**.
+4. در هر AKI، **لست دوا** را بخوان و NSAID را پیدا کن.
+5. پیش از CT با کانتراست، **eGFR تازه** را ببین.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔗 اتصال به فصل‌ها
+- **فصل ۳۷:** نفروتیک و نفریتیک — ادامهٔ قصهٔ احمد شاه.
+- **فصل ۳۸:** AKI — ادامهٔ قصهٔ حاجی نورالله.
+- **فصل ۳۹:** CKD — نقشهٔ حرارتی در عمل.
+- **فصل ۴۰–۴۱:** UTI و سنگ — علت‌های Haematuria غیرگلومرولی.
+- **فصل ۴۲–۴۳:** الکترولیت‌ها و اسید-قلوی.
+- **فصل ۸ و ۱۰:** فشار بلند و دیابت — دو علت بزرگ CKD.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⏱️ مرور ۶۰ ثانیه
+1. چرا eGFR در AKI قابل اعتماد نیست؟ — *چون Creatinine در حالت ثابت نیست.*
+2. تعریف CKD بر پایهٔ KDIGO 2024؟ — *ناهنجاری ساختمان یا وظیفه بیش از ۳ ماه؛ تصنیف با CGA.*
+3. dipstick خون مثبت ولی میکروسکوپ بدون RBC؟ — *Myoglobin یا هیموگلوبین آزاد.*
+4. وقایهٔ کانتراست داخل وریدی برای کی؟ — *AKI یا eGFR کمتر از ۳۰ بدون دیالیز (ACR–NKF 2020).*
+5. RBC casts چه معنا دارد؟ — *گلومرولونفریت؛ ارجاع عاجل.*

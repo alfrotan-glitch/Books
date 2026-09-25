@@ -311,3 +311,22 @@
 | Eluxadoline منع: بدون کیسهٔ صفرا، >۳ جام الکول/روز | AGA 2022 (خلاصه) | ✅ |
 | Tegaserod — برداشته‌شده ۳۰ جون 2022 | Alfasigma notice | ✅ (currentness) |
 | Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics؛ آهن، فولات، ویتامین D، کلسیم؛ Tetracycline+فولات (Tropical sprue)؛ Rifaximin در SIBO | — | ⚪ عمداً بدون رقم (بدهی) |
+
+### فصل ۳۵ — تکمیل محدود (۲۰۲۶-۰۹-۲۵)
+
+| مورد | تصنیف | منبع | وضعیت |
+|---|---|---|---|
+| B12: راه IM/فمی، حداقل ۱ mg فمی در سوء جذب، پیگیری ۳ ماه | Source upgrade (متن اصلی) | NICE NG239 §1.5.3–1.5.5، §1.6.1 | ✅ |
+| B12: برنامهٔ IM (۳ بار/هفته × ۲ هفته؛ نگهداری) — منبع از «NG239» به «CKS/BNF» اصلاح شد | Attribution correction | NICE CKS/BNF (ثانوی) | 🟡 |
+| Coeliac بدون بیوپسی در کاهلان (tTG ≥۱۰×ULN، سطح متخصص، اختیاری) | Currentness update (منبع جدید 2026) + Conflict shown | BSG 2026 REC 6 | ✅ |
+| Gluten challenge ۳–۶ g/روز ≥۶ هفته | Currentness update + Conflict shown | BSG 2026 REC 7 | ✅ |
+| بیوپسی ≥۴ D2 + ۲ D1؛ پیگیری ۲ سال؛ DXA یک سال؛ Pneumococcal | Addition | BSG 2026 REC 4، GPS 13–17 | ✅ |
+
+### فصل ۳۶ — رهیافت گرده (۲۰۲۶-۰۹-۲۵)
+
+فصل رهیافتی؛ **هیچ دوز تازه معرفی نشد**.
+
+| مورد | منبع | وضعیت |
+|---|---|---|
+| وقایهٔ Normal saline پیش از کانتراست IV: AKI یا eGFR <۳۰ بدون دیالیز؛ ۳۰–۴۴ اختیاری | ACR–NKF Consensus 2020 | ✅ اندیکاسیون؛ **حجم/سرعت عمداً ذکر نشد** (منبع می‌گوید نامعلوم) |
+| اختلاف آستانه KDIGO 2012 (<۴۵) در برابر ACR–NKF 2020 (<۳۰) | همان | Conflict shown |
