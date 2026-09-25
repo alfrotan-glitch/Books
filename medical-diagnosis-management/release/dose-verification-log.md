@@ -379,3 +379,7 @@
 ### فصل ۴۲ — الکترولیت‌ها (۲۰۲۶-۰۹-۲۵)
 
 VERIFIED (متن رهنمود اولیه): Calcium gluconate 10% ۳۰ mL در ۱۰ دقیقه / Calcium chloride 10% ۱۰ mL در ۵ دقیقه (UKKA 16.2a/b)؛ Insulin ۱۰ واحد + Glucose ۲۵ g (UKKA 16.3.1)؛ Glucose 10% ۵۰ mL/h برای ۵ ساعت اگر قند کمتر از ۷.۰ (پروتوکول UKKA)؛ Salbutamol نبولایزر ۱۰–۲۰ mg (UKKA 16.4)؛ Calcium gluconate 10% ۱۰–۲۰ mL در ۵۰–۱۰۰ mL D5 در ۱۰ دقیقه و انفیوژن ۱۰۰ mL در ۱ L به ۵۰–۱۰۰ mL/h (SfE 2016/2019)؛ Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg/روز (SfE 2013)؛ Zoledronic acid ۴ mg در ۱۵ دقیقه، Pamidronate ۳۰–۹۰ mg به ۲۰ mg/h (SfE 2016 via Kent & Medway 2025)؛ Ibandronic acid ۲ mg در ۲ ساعت در CrCl کمتر از ۳۰ — منبع محلی NHS = VERIFIED (secondary/local). باقی → SD-27 UNVERIFIED.
+
+### فصل ۴۳ — اسید–قلوی (۲۰۲۶-۰۹-۲۵)
+
+هیچ دوز دوایی عددی وارد نشد → SD-29 UNVERIFIED. نتایج BICAR-ICU (خلاصهٔ WikiJournalClub) و BICARICU-2 (خلاصهٔ The Bottom Line) = secondary، ثبت در SD-29.
