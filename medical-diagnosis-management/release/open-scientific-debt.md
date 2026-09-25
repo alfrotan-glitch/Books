@@ -85,6 +85,7 @@
 | SD-72 | 82 | Anaphylaxis/سوختگی: دوز انفیوژن Adrenaline؛ مدت نظارت پس از Anaphylaxis؛ فیصدی بدون علایم پوستی؛ مدت سرد کردن سوختگی؛ ادرار هدف اطفال و Albumin؛ معیارهای ارجاع؛ متن کامل ABA 2023 خوانده نشد | UNVERIFIED |
 | SD-73 | 83 | گرمی/سردی: توصیهٔ رسمی WMS دربارهٔ Antipyretic؛ Hypothermia (WMS 2019، ERC 2021) مستقیم خوانده نشد — حدود مراحل، Swiss staging، مدت جستجوی نبض، دوا/شاک در حرارت پایین، ECMO؛ Frostbite | UNVERIFIED |
 | SD-74 | 84 | حاملگی: WHO 2011 Preeclampsia خوانده نشد؛ قدم‌های بعدی Labetalol و تکرار Nifedipine؛ هدف عددی فشار؛ رژیم عضلی Pritchard و مدت Magnesium؛ دوز Calcium gluconate؛ حد Preeclampsia پس از ولادت؛ Aspirin وقایوی؛ خطر VTE؛ دوز اشعه؛ رهنمودهای GDM/Thyroid/VTE حاملگی | UNVERIFIED |
+| SD-75 | 85 | سالخورده: ابزارهای Frailty و STOPP/START؛ World Falls Guidelines 2022؛ فهرست کامل Beers و جداول گرده؛ جزئیات PPI؛ اهداف عددی در Frail | UNVERIFIED |
 
 ## B. Terminology debt
 

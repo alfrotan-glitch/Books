@@ -533,3 +533,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 84
 - VERIFIED (ACOG CO 692/767 Order sets مستقیم): Labetalol ۲۰ mg IV در بیشتر از ۲ دقیقه → ۴۰ mg؛ Hydralazine ۵–۱۰ mg IV → ۱۰ mg پس از ۲۰ دقیقه؛ Nifedipine IR ۱۰ mg فمی (زیر زبان نه)؛ Labetalol ۲۰۰ mg فمی بدون خط، تکرار ۳۰ دقیقه؛ ۱۶۰/۱۱۰ برای ۱۵ دقیقه → ۳۰–۶۰ دقیقه. Magnesium (ACOG via ABEM 2024): ۴–۶ g در ۲۰–۳۰ دقیقه، سپس ۱–۲ g/ساعت.
+
+## فصل 85
+- دوز mg نوشته نشد؛ تغییرات Beers 2023 از سه خلاصه (UIC مستقیم) VERIFIED-ثانوی.
