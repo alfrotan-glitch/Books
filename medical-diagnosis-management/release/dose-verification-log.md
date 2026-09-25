@@ -483,3 +483,8 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 ## فصل ۶۸ — SLE
 - VERIFIED (EULAR 2023، ard.eular.org و الگوریتم): HCQ ۵ mg/kg وزن واقعی/روز، ابتدایی بلندتر تا ۴۰۰ mg/روز؛ Prednisone نگهداری ۵ mg/روز یا کمتر (از ۷.۵ در 2019)؛ Methylprednisolone ۲۵۰–۱۰۰۰ mg/روز × ۱–۳ روز بعد ۰.۳–۰.۵ mg/kg/روز؛ LN حد اقل ۳ سال.
 - UNVERIFIED (SD-59): سایر دوزها نوشته نشد.
+
+## فصل ۶۹ — نقرس، OA
+- VERIFIED (ACR 2020 خلاصه/متن جزئی): Allopurinol شروع ۱۰۰ mg یا کمتر، کمتر در CKD ۳ یا بالاتر؛ دوز اکثراً بیشتر از ۳۰۰؛ حد اعظمی FDA ۸۰۰؛ Colchicine ۱.۲ بعد ۰.۶ mg پس از ۱ ساعت؛ HLA-B*58:01 در جنوب شرق آسیا و African American؛ استطباب‌های قوی ULT.
+- ثانوی (Medscape): Colchicine در GFR کمتر از ۵۰ نصف، کمتر از ۱۰ نه؛ هدف یوریک ۶ و پروفیلاکسی ۳–۶ ماه (ACR 2020 از خلاصه‌ها).
+- UNVERIFIED (SD-60): Colchicine ۱ mg بعد ۰.۵ mg (EULAR)؛ سایر دوزها.
