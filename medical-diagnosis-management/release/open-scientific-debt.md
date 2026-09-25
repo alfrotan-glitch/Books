@@ -88,13 +88,13 @@
 | SD-75 | ۸۴ | سالخورده: ابزارهای Frailty و STOPP/START؛ World Falls Guidelines 2022؛ فهرست کامل Beers و جداول گرده؛ جزئیات PPI؛ اهداف عددی در Frail | UNVERIFIED |
 | SD-76 | ۸۵ | اطفال: علایم حیاتی نورمال؛ دوز Paracetamol/Ibuprofen/Antibiotic اطفال؛ دوز Dextrose؛ حدود تنفس سریع IMCI؛ حد سنی Aspirin (Reye)؛ ضد اسهال در اطفال — منبع اولیه خوانده نشد | UNVERIFIED |
 | SD-77 | ۸۶ | FUO/کاهش وزن/عقده: هیچ رهنمود رسمی خوانده نشد — تعریف دقیق FUO، حد کاهش وزن، مدت و معیارهای Biopsy عقده (Excision در برابر FNA/Core) | UNVERIFIED |
-| SD-78 | ۸۷ | تغذیه: پروتوکول WHO SAM (حدود MUAC، مایع، F-75/F-100)؛ دوز Thiamine در Wernicke؛ دوز Supplement K/Phos/Mg؛ طبقه‌بندی BMI و MUAC کاهلان؛ دوز ویتامین A (WHO)؛ Pellagra؛ منبع شیوع Scurvy در افغانستان | UNVERIFIED |
+| SD-78 | ۸۷ | تغذیه: پروتوکول WHO SAM (حدود MUAC، مایع، F-75/F-100)؛ دوز Thiamine در Wernicke؛ دوز Supplement K/Phos/Mg؛ طبقه‌بندی BMI و MUAC کاهلان؛ دوز ویتامین A (WHO)؛ Pellagra؛ منبع شیوع Scurvy در افغانستان **دوز Thiamine در Wernicke = VERIFIED** (EFNS 2010، Eur J Neurol، متن کامل Wiley، ۲۰۲۶-۰۹-۲۵: ۲۰۰ mg سه بار در روز وریدی پیش از Carbohydrate؛ فصل ۸۷ و ۳۳ اصلاح شد). | UNVERIFIED |
 | SD-79 | ۹۱ | ضمیمهٔ ۹۱: تعدیل گرده/کبد برای دواهایی که در کتاب تأیید نشده‌اند؛ جداول گرده Beers | UNVERIFIED |
 | SD-80 | ۲۵ | Celecoxib (دوز پس از خونریزی)، Lactulose (پیشگیری HE)، Propranolol (NSBB) — از منبع اولیه در بازبینی تأیید نشد | UNVERIFIED |
 | SD-81 | ۲۶ | تعدیل گردهٔ Famotidine (حد CrCl) و دوز Amitriptyline در Functional heartburn — از منبع اولیه تأیید نشد | UNVERIFIED |
 | SD-82 | ۲۷ | دوزهای Paracetamol IV، Morphine تیترشده، Diclofenac/Ketorolac، Ondansetron و Metoclopramide در بطن حاد — از برچسب رسمی دوباره خوانده نشد | UNVERIFIED |
 | SD-83 | ۳۲ | دوز Baclofen (وابستگی الکول و کرمپ عضلات) و Cholestyramine در خارش — از منبع اولیه تأیید نشد | UNVERIFIED |
-| SD-84 | ۳۳ | Mannitol، Silibinin، Penicillin G (Amanita)، Methylprednisolone در AIH شدید، LOLA، BCAA، Zinc؛ و دوز Thiamine در Wernicke (فصل ۳۳ و ۸۷) — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-84 | ۳۳ | Mannitol، Silibinin، Penicillin G (Amanita)، Methylprednisolone در AIH شدید، LOLA، BCAA، Zinc؛ و دوز Thiamine در Wernicke (فصل ۳۳ و ۸۷) — از منبع اولیه تأیید نشد **دوز Thiamine در Wernicke = VERIFIED** (EFNS 2010، Eur J Neurol، متن کامل Wiley، ۲۰۲۶-۰۹-۲۵: ۲۰۰ mg سه بار در روز وریدی پیش از Carbohydrate؛ فصل ۸۷ و ۳۳ اصلاح شد). | UNVERIFIED |
 | SD-85 | ۳۴ | UDCA برای حل سنگ، Albendazole و Praziquantel در کیست هایداتید (WHO-IWGE) — از منبع اولیه تأیید نشد | UNVERIFIED |
 | SD-86 | ۳۵ | Insulin انفیوژن در پانکراتیت از Hypertriglyceridaemia، Pregabalin در پانکراتیت مزمن، Prednisolone در AIP، دوز PERT؛ و «دوز معیاری برچسب» Meropenem/Enoxaparin — مطابقت مستقیم با برچسب در این بازبینی انجام نشد | UNVERIFIED |
 | SD-87 | ۲۱ | Nintedanib، Pirfenidone، Prednisolone و Methotrexate در ILD، Mycophenolate در SSc-ILD، Dexamethasone در فشردگی نخاع و متاستاز مغزی، Zoledronic acid، Prednisolone در irAE، و انتی‌بیوتیک‌های ابسهٔ ریه — از منبع اولیه تأیید نشد | UNVERIFIED |
