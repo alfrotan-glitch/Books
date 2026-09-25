@@ -51,6 +51,8 @@
 | SD-39 | ۴۹ | ETA 2013 Subclinical، ATA 2017 حاملگی، و رهنمود جدید ATA Hypothyroidism پس از 2014 کامل جستجو نشد | CURRENTNESS NOTE |
 | SD-40 | ۵۰ | تأییدنشده: دوز Prednisolone/Dexamethasone جایگزین در Adrenal crisis؛ مقدار افزایش Hydrocortisone در Trimester سوم؛ Taper Glucocorticoid و زمان تست محور (ESE/ES 2024 متن کامل خوانده نشد)؛ تنظیم دوز با محرک‌های آنزایم؛ تنظیم گرده/کبد؛ دوز Dextrose Hypoglycaemia کاهلان | UNVERIFIED — OPEN |
 | SD-41 | ۵۰ | رهنمود PAI 2016 هنوز جدیدترین است (Guideline Central مرور Dec 2025)؛ متن کامل ESE/ES 2024 و رهنمود SfE عاجل از منبع اولیه خوانده نشد؛ حد Cortisol در assayهای جدید (مثلاً LC-MS/MS) بررسی نشد | CURRENTNESS NOTE |
+| SD-42 | ۵۰ | تأییدنشده: دوز MRA (Spironolactone/Eplerenone) در PA؛ جزئیات AVS/تعیین طرف ES 2025؛ نام، دوز و تیتر Alpha-blocker (Phenoxybenzamine/Doxazosin) و زمان افزودن Beta-blocker در PPGL؛ متن کامل توصیهٔ 4.1 | UNVERIFIED — OPEN |
+| SD-43 | ۵۰ | منابع اولیه خوانده نشد: اجماع Pituitary Society 2021 (تشخیص/تداوی Cushing)، رهنمودهای Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های Pituitary؛ این موضوعات در فصل تحریر نشده‌اند | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt

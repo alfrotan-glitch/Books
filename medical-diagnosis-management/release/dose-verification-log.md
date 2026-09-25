@@ -408,3 +408,8 @@ VERIFIED (ATA 2014 متن اصلی): Levothyroxine ۱.۶ (۱.۶–۱.۸) mcg/kg�
 
 VERIFIED (Endocrine Society PAI 2016، متن کامل/جداول): Hydrocortisone بحران ۱۰۰ mg زرقی فوری → ۲۰۰ mg/۲۴ ساعت (انفیوژن یا ۵۰ mg هر ۶ ساعت) → روز بعد ۱۰۰ mg/روز؛ Saline ۱۰۰۰ mL در ساعت اول؛ نگهداری Hydrocortisone ۱۵–۲۵ mg/روز در ۲–۳ دوز یا Cortisone acetate ۲۰–۳۵ mg؛ Fludrocortisone شروع ۵۰–۱۰۰ mcg، معمولاً ۰.۰۵–۰.۲ mg/روز، هوای گرم +۵۰–۱۰۰٪؛ بیش از ۵۰ mg/۲۴h HC → Mineralocorticoid لازم نیست؛ sick day: تب بیش از ۳۸ → ۲×، بیش از ۳۹ → ۳× برای ۲–۳ روز؛ ۱۰۰ mg زرقی اگر استفراغ؛ جراحی خفیف/متوسط ۲۵–۷۵ mg/۲۴h برای ۱–۲ روز؛ جراحی بزرگ ۱۰۰ mg → ۲۰۰ mg/۲۴h. تست Synacthen ۲۵۰ mcg؛ حد ۵۰۰ nmol/L (وابسته به assay)؛ Cortisol صبح کمتر از ۱۴۰ nmol/L؛ ACTH بیش از ۲× حد بالا.
 VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اختلاف با PAI حفظ شد). VERIFIED (ESE/ES 2024 خلاصهٔ رسمی): آستانهٔ خطر ۳–۴ هفته و بیش از معادل HC ۱۵–۲۵ mg (Pred ۴–۶، MP ۳–۵، Dex ۰.۲۵–۰.۵ mg). باقی → SD-40.
+- **فصل ۵۰، بخش دوم (۲۰۲۶-۰۹-۲۵):** در این بخش دوز دوایی نوشته نشد (MRA، Alpha-blocker → SD-42). حدود تشخیصی VERIFIED از منبع اولیه:
+  - ES 2025 PA: PRA ≤۱ ng/mL/h یا DRC ≤۸.۲ mU/L؛ Aldosterone ≥۱۰ ng/dL (immunoassay) یا ≥۷.۵ (LC-MS/MS)؛ ARR بیش از ۲۰ یا بیش از ۷۰.
+  - ES 2008 Cushing: DST ۱.۸ mcg/dL (۵۰ nmol/L)؛ بزاق شبانه ۱۴۵ ng/dL (۴ nmol/L).
+  - ESE 2023: ۱۰ HU یا کمتر همگون → تصویربرداری بیشتر لازم نیست؛ DST ۵۰ nmol/L.
+  - ES 2014: Alpha-blockade ۷–۱۴ روز.

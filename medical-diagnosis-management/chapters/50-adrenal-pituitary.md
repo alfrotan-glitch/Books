@@ -1,6 +1,6 @@
-# فصل ۵۰ — امراض ادرنال و Pituitary: عدم کفایهٔ ادرنال (Adrenal Insufficiency) و بحران ادرنال (Adrenal Crisis)
+# فصل ۵۰ — امراض ادرنال و Pituitary (Adrenal & Pituitary Disorders)
 
-> **بخش ششم — اندوکراین** · *با Currentness audit (Endocrine Society 2016 PAI؛ Endocrine Society 2016 Hypopituitarism؛ ESE/Endocrine Society 2024 عدم کفایهٔ ناشی از Glucocorticoid)*
+> **بخش ششم — اندوکراین** · *با Currentness audit (ES 2016 PAI و Hypopituitarism؛ ESE/ES 2024؛ ES 2025 Primary aldosteronism؛ ESE 2023 Incidentaloma؛ ES 2014 PPGL؛ ES 2008 Cushing)*
 
 ## شاکی که به Saline جواب نداد
 
@@ -282,6 +282,144 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 
 ---
 
+## بخش دوم — وقتی غده زیاد می‌سازد: فشار بلند، Potassium پایین و کتلهٔ تصادفی
+
+**حاجی نورالله** ۴۸ ساله است. فشار خونش با سه دوا هم کنترول نمی‌شود. در معاینات روتین، Potassium او پایین آمده. داکتر قبلی گفته بود Thiazide علت آن است و یک تابلت Potassium اضافه کرده بود.
+
+حالا سؤال: آیا این فقط «فشار بلند سخت» است، یا غده‌ای پشت آن نشسته؟
+
+فشار بلند مقاوم به تداوی، به ویژه با Potassium پایین، یکی از جاهایی است که **pretest probability** یک علت اندوکراین به طور واضح بالا می‌رود. همان منطق فصل ۴۵ اینجا به کار می‌آید: **تست را وقتی بفرست که جوابش تصمیم را تغییر دهد.** در این مریض، جواب تست واقعاً تصمیم را عوض می‌کند، چون یک نوع آن با جراحی قابل علاج است.
+
+ادرنال سه هورمون اضافی مهم می‌تواند بسازد. هر کدام یک تصویر بالینی و یک تست اول دارد:
+
+| هورمون زیاد | مرض | چه وقت شک کنیم؟ | تست اول (منبع) |
+|---|---|---|---|
+| **Aldosterone** | Primary aldosteronism (PA) | **هر مریض فشار بلند** (رهنمود ۲۰۲۵)؛ به ویژه مقاوم، با Potassium پایین، یا با کتلهٔ ادرنال | Aldosterone + Renin، و محاسبهٔ **ARR** (ES 2025) |
+| **Cortisol** | Cushing syndrome | چند یافتهٔ **پیش‌رونده** با ارزش تفریقی بلند (مثلاً کبودی آسان، ضعف عضلات نزدیک، Striae ارغوانی پهن)؛ Incidentaloma | یکی از سه تست: Cortisol ادرار ۲۴ ساعته، Cortisol بزاق نیمه‌شب، یا سرکوب Dexamethasone 1 mg (ES 2008) |
+| **Catecholamine** | Phaeochromocytoma / Paraganglioma (PPGL) | حملات سردردی، عرق و تپش؛ فشار بلند حمله‌ای؛ کتلهٔ ادرنال با ظاهر غیرمعمول؛ سندروم ارثی | **Metanephrine آزاد پلازما** یا **Metanephrine کسری ادرار** (ES 2014) |
+
+⚠️ **پیش از همه، Steroid خارجی را رد کن.** شایع‌ترین علت ظاهر Cushingoid در کلینیک‌های ما Glucocorticoid خارجی است، نه تومور. رهنمود ۲۰۰۸ هم تست را فقط **پس از** رد استعمال Glucocorticoid خارجی توصیه می‌کند.
+
+### Primary aldosteronism — شایع‌تر از آنچه فکر می‌کنیم
+
+**Mechanism:** غدهٔ ادرنال (یک Adenoma، یا فرط تنسج دوطرفه) بدون فرمان Renin، Aldosterone می‌سازد. در نتیجه گرده Sodium و آب را نگه می‌دارد و Potassium را دفع می‌کند. حجم زیاد Renin را سرکوب می‌کند.
+پس امضای PA این است: **Renin پایین + Aldosterone نامتناسب بلند.** این همان زنجیرهٔ volume → RAAS است، این بار از جهت معکوس.
+
+**چرا مهم است؟** رهنمود ۲۰۲۵ می‌گوید اکثر مریضان PA **Hypokalaemia ندارند**. اگر فقط منتظر Potassium پایین بمانیم، بیشتر مریضان را از دست می‌دهیم. این مریضان خطر بیشتر حوادث قلبی و گرده‌ای دارند، و بعضی از آن‌ها با جراحی علاج می‌شوند.
+
+**چه کسی را تست کنیم؟** رهنمود Endocrine Society 2025 **همهٔ مریضان فشار بلند** را برای screening پیشنهاد می‌کند (توصیهٔ مشروط، شواهد کم). خود رهنمود می‌گوید اجرای آن به منابع و ظرفیت محلی وابسته است. جایی که منابع محدود است، مریضان با pretest probability بلند اولویت دارند: فشار مقاوم، Hypokalaemia، یا کتلهٔ ادرنال.
+
+**چطور تست کنیم؟** (ES 2025)
+- Aldosterone و Renin را **صبح، در حالت نشسته** بگیر. در چند روز پیش از تست، نمک غذا را محدود نکن.
+- Potassium را هم‌زمان بسنج. Potassium پایین Aldosterone را به طور کاذب پایین می‌آورد. اگر Potassium پایین بود و جواب منفی آمد، Potassium را اصلاح کن و تست را تکرار کن.
+- **مثبت** وقتی است که دو شرط با هم باشند:
+  - **Renin سرکوب‌شده:** PRA ۱ ng/mL/h یا کمتر، یا DRC ۸.۲ mU/L یا کمتر.
+  - **Aldosterone نامتناسب بلند:** ۱۰ ng/dL یا بیشتر (۲۷۷ pmol/L) با immunoassay، یا ۷.۵ ng/dL یا بیشتر با LC-MS/MS.
+- **ARR** مطرح‌کننده است اگر:
+  - نسبت Aldosterone (ng/dL) به PRA بیشتر از **۲۰** باشد؛
+  - یا نسبت Aldosterone (pmol/L) به DRC بیشتر از **۷۰** باشد (با immunoassay).
+  - با LC-MS/MS این حد حدود ۲۵ فیصد پایین‌تر است.
+  - این حدها برای راهنمایی‌اند و به assay وابسته‌اند.
+- **دواها:** رهنمود ۲۰۲۵ اجازه می‌دهد screening زیر دواهای فشار انجام شود. دو استثنا را در نظر بگیر:
+  - دواهایی که Renin را پایین می‌آورند می‌توانند جواب مثبت کاذب بدهند. اگر بی‌خطر و ممکن است، آن دوا دو هفته قطع و تست تکرار شود.
+  - Beta-blocker در Aldosterone مرزی جواب را زیر سؤال می‌برد.
+- اگر تست اول منفی بود ولی شک بلند است، تست را در روز دیگر تکرار کن.
+- **تغییر مهم نسبت به رهنمود ۲۰۱۶:** تست تأییدی سرکوب Aldosterone دیگر روتین توصیه نمی‌شود. در شکل آشکار آن، رهنمود به دلیل خطر جواب منفی کاذب آن را توصیه **نمی‌کند**.
+
+**تداوی — چرا دو راه؟** رهنمود ۲۰۲۵ برای مریض PA **تداوی اختصاصی PA** را پیشنهاد می‌کند:
+- **جراحی (Adrenalectomy):** اگر Aldosterone از یک طرف بیاید (lateralizing)، جراحی می‌تواند مرض را علاج کند. به همین دلیل، مریضی که کاندید جراحی است و آن را می‌خواهد به تست‌های تعیین طرف فرستاده می‌شود: CT ادرنال و در صورت لزوم نمونه‌گیری از ورید ادرنال (AVS) در مرکز مجرب.
+- **دوای ضد Mineralocorticoid (MRA):** برای مریضی که جراحی نمی‌خواهد یا کاندید آن نیست. این دوا اثر زیانبار Aldosterone را مستقیماً بند می‌کند.
+- دوز MRA و جزئیات AVS در این فصل از منبع اولیه تأیید نشده → SD-42.
+
+**برگشت به حاجی نورالله:**
+- Renin او سرکوب‌شده و Aldosterone بلند بود. Potassium پایین هم شک را قوی‌تر می‌کرد.
+- **Thiazide بهانهٔ دم دست بود** (cognitive trap: premature closure). یک توضیح ممکن مانع جستجوی توضیح قابل علاج شده بود.
+- حالا دو راه مطرح است: تست‌های تعیین طرف و جراحی، یا MRA.
+- **endpoint تداوی** فقط عدد فشار نیست؛ Potassium نورمال و بلند شدن Renin از حالت سرکوب هم هدف است.
+
+### Cushing syndrome — تشخیص در دو قدم
+
+**Rule سطح سریع:** اول Steroid خارجی را رد کن → بعد **یک** تست حساس → اگر غیرنورمال بود، **تست دوم** به کمک داکتر متخصص اندوکراین → فقط وقتی دو تست هم‌جهت مثبت شدند، به دنبال **علت** برو.
+
+**چرا این ترتیب؟** هر تست Cortisol جواب مثبت کاذب دارد. بعضی حالات هم Cortisol را بدون Cushing بالا می‌برند، مثل افسردگی شدید، الکولیزم، چاقی شدید و مرض حاد. اگر پیش از اثبات Cushing به دنبال علت برویم (ACTH، MRI، CT)، اکثراً یک Incidentaloma بی‌ربط پیدا می‌شود و مسیر غلط را می‌رویم.
+
+**تست‌های اول** (Endocrine Society 2008؛ یکی بر اساس وضعیت مریض):
+| تست | حد مطرح‌کنندهٔ Cushing | نکتهٔ انتخاب |
+|---|---|---|
+| **Cortisol آزاد ادرار ۲۴ ساعته** (حد اقل دو بار) | بالاتر از حد نورمال assay | در عدم کفایهٔ شدید گرده، سرکوب Dexamethasone بر این تست ترجیح دارد |
+| **Cortisol بزاق نیمه‌شب** (دو بار) | بیشتر از ۱۴۵ ng/dL (۴ nmol/L) | در کارگران شفت شبانه و خواب نامنظم مشکل‌دار است |
+| **سرکوب Dexamethasone 1 mg شبانه** | Cortisol سیروم صبح بیشتر از **۱.۸ mcg/dL (۵۰ nmol/L)** | Dexamethasone 1 mg بین ساعت ۱۱ و ۱۲ شب؛ Cortisol ساعت ۸–۹ صبح. **Estrogen فمی** و **دواهای ضد صرع** که Dexamethasone را سریع می‌شکنند، جواب مثبت کاذب می‌دهند؛ در صرع رهنمود این تست را توصیه **نمی‌کند** |
+
+رهنمود ۲۰۰۸ این‌ها را هم صریحاً توصیه نمی‌کند: **Cortisol تصادفی سیروم** و **ACTH** به عنوان تست تشخیص Cushing.
+
+**علت و تداوی:** وقتی Cushing ثابت شد، ACTH تعیین می‌کند مسیر کدام است:
+- **ACTH پایین:** منشأ ادرنال است.
+- **ACTH بلند یا نورمال:** منشأ Pituitary است یا یک تومور خارج از Pituitary که ACTH می‌سازد.
+
+این تست‌ها و تداوی (معمولاً جراحی منبع) در مرکز تخصصی انجام می‌شوند. جزئیات بعد از ۲۰۰۸ (مثلاً اجماع Pituitary Society 2021) در این فصل از منبع اولیه خوانده نشد → SD-43.
+
+### Phaeochromocytoma — تومور کمیاب که نباید از دست برود
+
+**چرا «نباید از دست برود»؟** Catecholamine زیاد می‌تواند بحران فشار، Arrhythmia یا Cardiomyopathy بسازد. خطرناک‌ترین لحظه هم جراحی یا پروسیجری است که بدون آمادگی انجام شود.
+
+- **تست اول:** Metanephrine آزاد پلازما **یا** Metanephrine کسری ادرار (ES 2014، 1.1).
+  - Metanephrine به طور مداوم در داخل تومور ساخته می‌شود. Catecholamine حمله‌ای و متناوب رها می‌شود. به همین دلیل Metanephrine حساس‌تر است.
+  - رهنمود روش LC با detection طیف کتله یا الکتروکیمیاوی را ترجیح می‌دهد.
+  - نمونهٔ پلازما بهتر است در حالت **خوابیده** گرفته شود. نمونهٔ نشسته جواب مثبت کاذب بیشتر دارد و اگر مثبت بود، باید در حالت خوابیده تکرار شود.
+  - **هر جواب مثبت پیگیری لازم دارد.**
+- **تصویربرداری فقط پس از اثبات لابراتواری:** رهنمود CT را برای تصویربرداری اول پیشنهاد می‌کند.
+- **آمادگی پیش از جراحی:**
+  - در تمام PPGLهای فعال هورمونی، **blockade پیش از جراحی** لازم است (4.1). **Alpha-blocker** انتخاب اول پیشنهادی است.
+  - مدت آمادگی **۷–۱۴ روز** است، تا فشار و ضربان قلب نورمال شوند (4.2).
+  - **نمک و مایع بیشتر** هم جزء آمادگی است، چون Catecholamine حجم خون را منقبض کرده است. بدون آن، پس از برداشتن تومور Hypotension شدید می‌آید.
+  - دوز دواها → SD-42.
+- **ژنتیک:** رهنمود مشورهٔ ژنتیکی را برای همهٔ مریضان در نظر دارد.
+- **پیگیری:** Metanephrine برای مرض باقی‌مانده، و **تست سالانه برای تمام عمر** (4.4).
+
+⚠️ **دام — دواهایی که بحران می‌سازند:** رهنمود ۲۰۱۴ (جدول ۲) این دواها را در مریض Phaeochromocytoma محرک بحران می‌داند:
+- **Beta-blocker**، از جمله Labetalol؛ Beta-blocker انتخابی هم در دوز بلند ممکن است انتخابی بودن خود را از دست بدهد؛
+- **Metoclopramide** و دیگر ضد Dopamine؛
+- Sympathomimetics؛
+- بعضی Opioidها؛
+- دواهای ضد افسردگی سه‌حلقه‌ای؛
+- **Corticosteroids**.
+
+منطق Beta-blocker این است: وقتی گیرندهٔ Beta رگ‌گشا بند شود، اثر تنگ‌کنندهٔ Alpha بی‌رقیب می‌ماند. به همین دلیل آمادگی با **Alpha-blocker** شروع می‌شود. در مریض مشکوک هیچ‌یک از این دواها را بدون فکر شروع نکن.
+
+### Incidentaloma ادرنال — کتله‌ای که کسی دنبالش نبود
+
+حاجی عبدالغفور فصل ۴۵ را به یاد بیاور: یک کتلهٔ ادرنال در CT برای درد کمر پیدا شده بود. رهنمود ESE/ENSAT 2023 دو سؤال مستقل می‌پرسد:
+
+**سؤال ۱ — آیا بدخیم است؟**
+- CT بدون Contrast را ببین. اگر کتله **همگون** است و **۱۰ HU یا کمتر** دارد، سلیم است و **تصویربرداری بیشتر لازم نیست** (R 2.3).
+- این یک تغییر مهم نسبت به رهنمود ۲۰۱۶ است: حد اندازهٔ ۴ cm از این قاعده برداشته شد.
+- کتلهٔ نامعین → تصویربرداری فوری با روش دیگر، تصویربرداری مجدد در ۶–۱۲ ماه، یا جراحی. تصمیم در بورد چندرشته‌ای گرفته می‌شود.
+
+**سؤال ۲ — آیا هورمون می‌سازد؟**
+- **سرکوب Dexamethasone 1 mg برای همه** (R 3.2)؛ در مریض ضعیف با امید زندگی محدود ممکن است لازم نباشد.
+  - Cortisol **۵۰ nmol/L (۱.۸ mcg/dL) یا کمتر** ترشح خودمختار را رد می‌کند.
+  - در مریض بدون علایم Cushing آشکار، Cortisol **بیشتر از ۵۰ nmol/L** یعنی **MACS** (ترشح خفیف خودمختار Cortisol).
+  - MACS با ACTH پایین و تکرار تست تأیید می‌شود.
+  - مریض MACS را برای فشار بلند و دیابت Type 2 بررسی کن.
+- **Metanephrine:** رهنمود ۲۰۲۳ آن را برای کتلهٔ همگون با ۱۰ HU یا کمتر لازم نمی‌داند، چون چنین کتله‌ای به احتمال زیاد Phaeochromocytoma نیست. برای کتلهٔ دیگر لازم است.
+- **Aldosterone/Renin:** اگر فشار بلند یا Potassium پایین دارد.
+- **فوری‌تر:** در حاملگی و در سن کمتر از ۴۰ سال، ارزیابی عاجل‌تر است.
+
+### Pituitary — محور بالایی
+
+رهنمود Hypopituitarism 2016 سه نکتهٔ بالینی مهم دارد که در بخش اول این فصل دیدیم:
+- در عدم کفایهٔ ثانوی **Fludrocortisone لازم نیست**.
+- بحران ثانوی با **Hydrocortisone ۵۰–۱۰۰ mg** زرقی تداوی می‌شود.
+- **کمترین دوز قابل تحمل** برای درازمدت.
+
+به این‌ها یک قاعدهٔ ایمنی اضافه کن: در مریض Hypopituitarism، **Glucocorticoid پیش از Thyroxine**، به همان دلیلی که در فصل ۴۹ دیدیم.
+
+**Pituitary apoplexy** (سردرد ناگهانی شدید، اختلال دید یا فلج عصب چشم، و شاید شاک) یک عاجل است: Hydrocortisone فوری و تصویربرداری عاجل.
+
+این موضوعات در این فصل **تحریر نشده‌اند**: Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های دیگر Pituitary، و تداوی Diabetes insipidus (فصل ۴۴). منابع اولیهٔ آن‌ها هنوز خوانده نشده → SD-43.
+
+---
+
 ## 💡 قواعد ماندگار
 
 1. **شاک مقاوم + Na↓ / K↑ / Glucose↓ → Hydrocortisone حالا، تست بعداً.**
@@ -290,6 +428,10 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 4. **هر مریض دارای Steroid مزمن = مریض بالقوهٔ Adrenal crisis.** سؤال دوایی را فراموش نکن.
 5. **Glucocorticoid پیش از Thyroxine.**
 6. **Sick day rules: تب → دو برابر؛ استفراغ → زرق و شفاخانه.**
+7. **فشار بلند مقاوم یا Potassium پایین → Renin و Aldosterone.** Hypokalaemia برای شک لازم نیست.
+8. **Cushing: اول Steroid خارجی را رد کن، بعد دو تست، بعد علت.**
+9. **Phaeochromocytoma: اول Alpha، بعد Beta؛ و نمک و مایع پیش از جراحی.**
+10. **Incidentaloma: دو سؤال — بدخیم؟ فعال؟**
 
 ## ⚠️ Red Flags
 
@@ -298,6 +440,8 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - سردرد ناگهانی + اختلال دید (Pituitary apoplexy).
 - شاک + Purpura در Sepsis (خونریزی ادرنال).
 - مریض معلوم Addison که استفراغ می‌کند و نمی‌تواند دوا را نگه دارد.
+- حملات فشار بلند با سردرد، عرق و تپش، به ویژه در جریان بیهوشی یا پروسیجر، یا پس از Beta-blocker، Metoclopramide یا Corticosteroid.
+- کتلهٔ ادرنال در حاملگی یا در مریض کمتر از ۴۰ سال.
 
 ## ⏱️ مرور ۶۰ ثانیه
 
@@ -306,10 +450,17 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 3. تست تأییدی ترجیحی؟ ← تست تحریک Corticotropin ۲۵۰ mcg وریدی؛ Cortisol حداکثر در دقیقهٔ ۳۰/۶۰ (حد وابسته به assay).
 4. در مریض با تب ۳۹.۵°C، دوز فمی چه تغییر می‌کند؟ ← سه برابر تا بهبودی.
 5. اگر Hydrocortisone نباشد، کدام جایگزین ترجیح دارد؟ ← Prednisolone؛ Dexamethasone آخرین گزینه.
+6. چرا منتظر Hypokalaemia برای screening PA نمی‌مانیم؟ ← اکثر مریضان PA Potassium نورمال دارند.
+7. چرا پیش از جراحی Phaeochromocytoma نمک و مایع زیاد داده می‌شود؟ ← Catecholamine حجم خون را کم کرده؛ پس از برداشتن تومور Hypotension شدید می‌آید.
+8. کتلهٔ همگون ادرنال با ۸ HU در CT بدون Contrast، قدم بعدی تصویربرداری چیست؟ ← تصویربرداری بیشتر لازم نیست؛ اما سرکوب Dexamethasone هنوز لازم است.
 
 ## 📚 References
 
 1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389. (متن کامل و جداول تداوی/تعلیم مریض خوانده شد؛ Guideline Central: صفحه در Dec 2025 مرور شده، بدون نسخهٔ جدید.)
 2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016. (خلاصهٔ توصیه‌ها از صفحهٔ رسمی Endocrine Society: 2.4، 2.5.)
 3. Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. *J Clin Endocrinol Metab / Eur J Endocrinol.* 2024. (نکات اصلی و توصیه‌های R 2.5، R 2.12، R 3.2 از صفحهٔ رسمی Endocrine Society.)
-4. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency (خلاصه در Medscape Guidelines؛ منبع ثانوی، فقط برای تطابق).
+4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453. (توصیه‌ها و technical remarks از صفحهٔ رسمی و متن OUP خوانده شد.)
+5. Nieman LK, Biller BMK, Findling JW, et al. The Diagnosis of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2008;93(5):1526–1540.
+6. Lenders JWM, Duh QY, Eisenhofer G, et al. Pheochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2014;99(6):1915–1942.
+7. Fassnacht M, Tsagarakis S, Terzolo M, et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with ENSAT. *Eur J Endocrinol.* 2023.
+8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency (خلاصه در Medscape Guidelines؛ منبع ثانوی، فقط برای تطابق).
