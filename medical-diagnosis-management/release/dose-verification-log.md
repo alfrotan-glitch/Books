@@ -295,3 +295,19 @@
 | PEG 3350 ۱۷ g روزانه | برچسب MiraLAX؛ AGA–ACG 2023 | ✅ |
 | Lubiprostone ۸ µg دو بار در عدم کفایهٔ متوسط/شدید کبد | AGA–ACG 2023 | ✅ |
 | Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride | AGA–ACG 2023 (جایگاه) | ⚪ دوز عمداً بدون رقم (بدهی) |
+
+## فصل ۳۵ — سوء جذب و IBS (سبک v2.1 + currentness، ۲۰۲۶-۰۹-۲۵)
+
+| دوز / توصیه | منبع | وضعیت |
+|---|---|---|
+| tTG-IgA + Total IgA در حال خوردن گلوتن؛ IgG-based در کمبود IgA؛ EGD با چند بیوپسی Duodenum | ACG 2013؛ ACG 2023 (1A) | ✅ |
+| بدون بیوپسی: اطفال (tTG >10×ULN + EMA)؛ کاهلان «احتمالی»؛ PPV حدود ۹۵٪ | ACG 2023 | ✅ |
+| Gluten challenge: ۳ g/روز ۲ هفته (+ تا ۶ هفته) در برابر ۳–۶ g/روز ۱۲ هفته | ACG 2013 الگوریتم؛ PMC10872809 (2023) | ✅ (تعارض نشان داده شد) |
+| Faecal elastase <100 / 100–200 µg/g | AGA CPU 2023 | ✅ |
+| PERT ≥۴۰,۰۰۰ USP lipase/غذا، نصف با snack؛ >۱۲۰,۰۰۰ بندرت | AGA CPU 2023 | ✅ |
+| Hydroxocobalamin ۱ mg IM سه بار/هفته × ۲ هفته، بعد هر ۳ ماه؛ نیورولوژیک: یک روز در میان، بعد هر ۲ ماه | NICE NG239 / CKS (ثانوی) | 🟡 متن اصلی خوانده نشد |
+| Rifaximin IBS-D ۵۵۰ mg سه بار × ۱۴ روز؛ تا ۲ بار تکرار | FDA Xifaxan label §2.3 | ✅ |
+| Linaclotide ۲۹۰ µg، Plecanatide ۳ mg (IBS-C) | ACG 2021 (دوز مطالعه) | 🟡 از برچسب تأیید نشد |
+| Eluxadoline منع: بدون کیسهٔ صفرا، >۳ جام الکول/روز | AGA 2022 (خلاصه) | ✅ |
+| Tegaserod — برداشته‌شده ۳۰ جون 2022 | Alfasigma notice | ✅ (currentness) |
+| Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics؛ آهن، فولات، ویتامین D، کلسیم؛ Tetracycline+فولات (Tropical sprue)؛ Rifaximin در SIBO | — | ⚪ عمداً بدون رقم (بدهی) |

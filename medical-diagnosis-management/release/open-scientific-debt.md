@@ -19,6 +19,11 @@
 | SD-07 | ۳۴ | دوز CDI فولمیننت؛ Paromomycin/Diloxanide؛ Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride — عمداً بدون رقم | OPEN |
 | SD-08 | ۳۴ | جدول دهایدریشن WHO برای اطفال طراحی شده؛ معیار معتبر کاهلان (منبع مستقل) | OPEN |
 | SD-09 | ۳۴ | تعریف زمانی persistent/chronic (۱۴–۳۰ روز / بیشتر از ۳۰ روز) از خلاصهٔ ACG؛ متن اصلی ACG 2016 مستقیماً خوانده نشد | OPEN |
+| SD-10 | ۳۵ | دوزهای بدون رقم: Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA، Antispasmodics، آهن، فولات، ویتامین D، کلسیم، Tetracycline+فولات در Tropical sprue، Rifaximin در SIBO | OPEN |
+| SD-11 | ۳۵ | Hydroxocobalamin از خلاصه‌های NICE CKS؛ متن اصلی NG239 خوانده نشد | PARTIAL |
+| SD-12 | ۳۵ | Linaclotide ۲۹۰ µg / Plecanatide ۳ mg از متن ACG 2021 (دوز مطالعه)، نه برچسب | PARTIAL |
+| SD-13 | ۳۵ | موضع BSG 2023 دربارهٔ تشخیص بدون بیوپسی در کاهلان — فقط منبع ثانوی | OPEN |
+| SD-14 | ۳۵ | فاصله‌های پیگیری Coeliac (tTG و بیوپسی تکراری) — از متن اصلی تأیید نشد | OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
