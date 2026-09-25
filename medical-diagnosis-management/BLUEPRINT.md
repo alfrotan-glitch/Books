@@ -73,3 +73,4 @@ python3 tools/build.py            # PDF + DOCX + EPUB در build/
 - [x] فصل ۴۴ (آب و Sodium) — v2.1؛ رهنمود اروپایی 2014؛ SD-30/31
 - [x] فصل ۴۵ (رهیافت اندوکراین) — v2.1؛ فصل رهیافتی؛ SD-32
 - [x] فصل ۴۶ (دیابت) — v2.1؛ ADA 2026؛ SD-33/34
+- [x] فصل ۴۷ (DKA/HHS) — v2.1؛ Consensus 2024؛ SD-35

@@ -44,6 +44,7 @@
 | SD-32 | ۴۵ | هشدار FDA دربارهٔ Biotin (2017/2019) در این نشست دوباره خوانده نشد؛ مدت قطع Biotin پیش از نمونه نظر به لابراتوار — عدد نیامد | CURRENTNESS NOTE |
 | SD-33 | ۴۶ | دوزهای Metformin، SGLT2i، GLP-1 RA، Tirzepatide، DPP-4i، Pioglitazone، Sulfonylurea، Insulin (شروع و تیتر) و مقدار گرام Glucose در Hypoglycaemia از منبع اولیهٔ دوایی تأیید نشد؛ جزئیات کامل جدول ۹.۲ برای GLP-1 RA خوانده نشد؛ «Glibenclamide خطر بیشتر» secondary | UNVERIFIED — OPEN |
 | SD-34 | ۴۶ | KDIGO 2022 دیابت در CKD و IDF–DAR 2021 رمضان دوباره بررسی نشد | CURRENTNESS NOTE |
+| SD-35 | ۴۷ | تأییدنشده: فاکتور Sodium اصلاح‌شده، غلظت Dextrose پس از قند کمتر از ۲۵۰، ادامهٔ Basal insulin در جریان انفیوژن (JBDS)، محاسبهٔ دوز انتقال زیرجلدی، دوز Phosphate؛ JBDS-IP نسخهٔ جدید بررسی نشد | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
