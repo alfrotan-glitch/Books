@@ -1,6 +1,6 @@
 # فصل ۵۴ — سکتهٔ مغزی و TIA
 
-> **بخش هشتم — نورولوژی** · *Currentness audit: **2026 AHA/ASA Guideline for the Early Management of Patients With Acute Ischemic Stroke** (Prabhakaran S et al., Stroke, نشر آنلاین ۲۶ جنوری ۲۰۲۶) جانشین 2018/2019 است؛ از چند خلاصهٔ معتبر (Endovascular Today، TJCVD، و دیگران) خوانده شد؛ متن اصلی مستقیم خوانده نشد → SD-62. پیش‌گیری ثانوی (AHA 2021) و ICH (AHA/ASA 2022) از منبع اولیه در این فصل خوانده نشد → SD-62.*
+> **بخش هشتم — نورولوژی** · *Currentness audit: **2026 AHA/ASA Guideline for the Early Management of Patients With Acute Ischemic Stroke** (Prabhakaran S et al., Stroke, نشر آنلاین ۲۶ جنوری ۲۰۲۶) جانشین 2018/2019 است؛ بخش Thrombolysis (§4.6) از متن اصلی خوانده شد (۲۰۲۶-۰۹-۲۵)؛ بخش‌های دیگر (EVT، فشار) از خلاصه‌ها → SD-62. پیش‌گیری ثانوی (AHA 2021 §5.4.1 و §5.19) و ICH (AHA/ASA 2022، فشار و VTE) از متن اولیه خوانده شد.*
 
 ## «وقت مغز است»
 
@@ -54,8 +54,10 @@
 - **فشار پیش از Thrombolysis:** **کمتر از ۱۸۵/۱۱۰ mmHg**. پس از آن تا ۲۴ ساعت **کمتر از ۱۸۰/۱۰۵**.
 - **پس از ۴.۵ ساعت یا زمان نامعلوم (Wake-up stroke):** Thrombolysis در مریضان منتخب با **تصویربرداری پیشرفته** (MRI Diffusion یا Perfusion) که نسج قابل نجات نشان دهد. این یک تصمیم تصویری است، نه یک ساعت ثابت (AHA 2026).
 - **نقیصهٔ واقعاً غیرناتوان‌کننده (خفیف):** **DAPT** بر Thrombolysis ترجیح دارد (AHA 2026).
-- **منع‌ها:** خونریزی در CT، خونریزی فعال، جراحی یا ترضیض بزرگ اخیر، ضد انعقاد مؤثر، Platelet پایین، و غیره. **فهرست کامل را از پروتوکول شفاخانه بررسی کن** → SD-62.
+- **منع‌ها:** خونریزی در CT، خونریزی فعال، جراحی یا ترضیض بزرگ اخیر، ضد انعقاد مؤثر، Platelet پایین، و غیره. AHA 2026 به جای فهرست مطلق، **درجه‌بندی خطر** (Table 8) آورده است که تصویر است و در این نشست خوانده نشد؛ **فهرست کامل را از پروتوکول شفاخانه بررسی کن** → SD-62. مصرف DOAC در ۴۸ ساعت اخیر: شواهد فقط مشاهده‌ای است و تصمیم فردی با متخصص است. اگر شک به اختلال انعقادی نیست، Thrombolysis را برای انتظار نتیجهٔ Platelet یا INR به تعویق نینداز (AHA 2026).
 - **پس از Thrombolysis:** نظارت عصبی و فشار مکرر؛ **سردردی تازه، استفراغ، یا بدتر شدن = خونریزی تا خلاف آن ثابت شود** → انفیوژن را قطع کن و CT فوری.
+- **جدول ۷ AHA 2026:** فشار و معاینهٔ عصبی هر ۱۵ دقیقه تا ۲ ساعت، بعد هر ۳۰ دقیقه تا ۶ ساعت، بعد هر ساعت تا ۲۴ ساعت. نل معده، کتیتر مثانه و کتیتر شریانی را اگر ممکن است به تعویق بینداز. **CT یا MRI پس از ۲۴ ساعت، پیش از شروع ضد انعقاد یا Antiplatelet.**
+- **خونریزی داخل جمجمه در ۲۴ ساعت اول (جدول ۵ AHA 2026):** دوا را قطع کن؛ CBC، INR، aPTT، Fibrinogen و Cross-match؛ **Cryoprecipitate ۱۰ واحد** در ۱۰–۳۰ دقیقه تا Fibrinogen ۱۵۰ mg/dL یا بیشتر بماند؛ **Tranexamic acid ۱۰۰۰ mg وریدی در ۱۰ دقیقه**؛ مشورهٔ جراحی عصبی و هیماتولوژی.
 
 ### (۳) Thrombectomy (EVT)
 - **انسداد رگ بزرگ** (شریان کاروتید داخلی، MCA، Basilar) → **Thrombectomy** در مریضان منتخب **تا ۲۴ ساعت** (AHA 2026)، شامل بعضی با **Infarct بزرگ‌تر** (Large core).
@@ -149,6 +151,6 @@
 5. چه چیز در AHA 2026 مضر اعلام شد؟ ← SBP کمتر از ۱۴۰ پس از EVT موفق، و جوراب فشاری الاستیکی.
 
 ## 📚 References
-1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (از خلاصه‌ها → SD-62.)
+1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (§4.6 متن اصلی خوانده شد؛ جدول ۸ تصویر → SD-62.)
 2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
 3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
