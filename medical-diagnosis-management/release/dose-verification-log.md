@@ -619,3 +619,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۵۵: AES 2016 متن کامل — Phenobarbital ۲۰ mg/kg (اجماعی) و جایگاه بدیل.
 - ✅ فصل ۶۸: WHO malaria guidelines 3rd ed. (خلاصه) و SmPC Artesunate WHO-PQ — دوزهای Artesunate و Primaquine مطابق؛ فاصلهٔ ۸–۱۲ ساعت تا ACT فمی افزوده شد.
 - ✅ فصل ۸۷/۳۳: EFNS 2010 Wernicke (Wiley متن کامل) — Thiamine ۲۰۰ mg × ۳/روز IV پیش از Carbohydrate.
+- ✅ فصل ۴۷: ADA/EASD/JBDS/AACE Consensus 2024 متن کامل — Sodium اصلاح، TDD انتقال، Phosphate؛ SD-35 → VERIFIED.
