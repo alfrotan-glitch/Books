@@ -47,6 +47,7 @@
 | 55 | نوشته شده: رهیافت همولیز، DAT، G6PD/Primaquine (WHO)، AIHA گرم (Jäger 2020)، ارثی، همولیز کشنده؛ SD-48 |
 | 56 | نوشته شده: FN (IDSA/ASCO)، Leukaemia حاد و سه عاجل (APL، Leukostasis، TLS)، CML مختصر، AA (BSH 2024)؛ SD-49 |
 | 57 | نوشته شده: رهیافت خون‌ریزی، TTP/HUS، ITP (ASH 2019)، HIT (ASH 2018)، DIC (ISTH)؛ SD-50 |
+| 58 | نوشته شده: Myeloma (IMWG 2014)، Lymphoma، CLL (iwCLL 2018)، MDS؛ عاجل‌ها؛ SD-51 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

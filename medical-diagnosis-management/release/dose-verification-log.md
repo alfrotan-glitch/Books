@@ -446,3 +446,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (ASH 2019 ITP متن اولیه): Steroid اگر کمتر از ۳۰ (مشروط)؛ نظارت اگر ۳۰ یا بیشتر (قوی)؛ Prednisone ۰.۵–۲.۰ mg/kg یا Dexamethasone ۴۰ mg ×۴ روز؛ مدت کل ۶ هفته یا کمتر (قوی)؛ مرور 2022 بدون تغییر.
 - VERIFIED (ASH 2018 HIT): 4Ts پایین → علیه قطع؛ متوسط → قطع (قوی) + غیر Heparin (مشروط)؛ بلند → قطع + غیر Heparin (قوی)؛ Warfarin پیش از بهبود نه؛ DOAC بر Warfarin.
 - ثانوی (SD-50): ISTH DIC Score؛ IVIG ۱ g/kg.
+
+## فصل ۵۸ — Lymphoma، Myeloma، MDS
+- دوز نوشته نشد. VERIFIED: IMWG 2014 (۱۰ فیصد؛ Ca ۰.۲۵/۲.۷۵؛ CrCl کمتر از ۴۰ یا Cr بیشتر از ۱۷۷؛ SLiM ۶۰ فیصد، FLC ۱۰۰ با ۱۰۰ mg/L) از IMF و Medscape؛ iwCLL 2018 (۵ × ۱۰⁹/L برای ۳ ماه؛ اندیکاسیون‌ها؛ علایم مرض).
