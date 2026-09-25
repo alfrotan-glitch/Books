@@ -85,6 +85,8 @@ def parse_blocks(md):
 
 def inline_html(t):
     t = html.escape(t, quote=False)
+    t = re.sub(r"\*\*([^*]+?)\*([^*]+?)\*\*\*", r"<strong>\1<em>\2</em></strong>", t)
+    t = re.sub(r"\*\*\*([^*]+?)\*\*\*", r"<strong><em>\1</em></strong>", t)
     t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
     t = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<em>\1</em>", t)
     t = re.sub(r"`([^`]+?)`", r"<code>\1</code>", t)
@@ -170,13 +172,14 @@ def build_docx():
 
     def add_runs(p, text):
         # parse inline **bold** *italic* `code`
+        text = text.replace("***", "**")
         pos = 0
         for m in re.finditer(r"(\*\*.+?\*\*|\*[^*]+?\*|`[^`]+?`)", text):
             if m.start() > pos:
                 r = p.add_run(text[pos:m.start()]); r.font.name = "Vazirmatn"
             tok = m.group(0)
             if tok.startswith("**"):
-                r = p.add_run(tok[2:-2]); r.bold = True
+                r = p.add_run(tok[2:-2].replace("*", "")); r.bold = True
             elif tok.startswith("`"):
                 r = p.add_run(tok[1:-1]); r.font.name = "Courier New"
             else:
@@ -196,18 +199,18 @@ def build_docx():
     for kind, payload in blocks:
         if kind == "h1":
             p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(0); set_rtl(p)
-            r = p.add_run(payload); r.bold = True; r.font.size = Pt(19); r.font.color.rgb = RGBColor.from_string(TEAL); r.font.name = "Vazirmatn"
+            r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(19); r.font.color.rgb = RGBColor.from_string(TEAL); r.font.name = "Vazirmatn"
             p2 = doc.add_paragraph(); set_rtl(p2)
             r2 = p2.add_run("❖ " * 20); r2.font.color.rgb = RGBColor.from_string(GOLD); r2.font.size = Pt(8)
         elif kind == "h2":
             p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(14); set_rtl(p)
-            r = p.add_run(payload); r.bold = True; r.font.size = Pt(14.5); r.font.color.rgb = RGBColor.from_string(NAVY); r.font.name = "Vazirmatn"
+            r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(14.5); r.font.color.rgb = RGBColor.from_string(NAVY); r.font.name = "Vazirmatn"
         elif kind == "h3":
             p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(10); set_rtl(p)
-            r = p.add_run(payload); r.bold = True; r.font.size = Pt(12.5); r.font.color.rgb = RGBColor.from_string(TEAL); r.font.name = "Vazirmatn"
+            r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(12.5); r.font.color.rgb = RGBColor.from_string(TEAL); r.font.name = "Vazirmatn"
         elif kind == "h4":
             p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(8); set_rtl(p)
-            r = p.add_run(payload); r.bold = True; r.font.size = Pt(11.5); r.font.name = "Vazirmatn"
+            r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(11.5); r.font.name = "Vazirmatn"
         elif kind == "p":
             p = doc.add_paragraph(); set_rtl(p); add_runs(p, payload)
         elif kind == "li":
@@ -238,7 +241,7 @@ def build_docx():
                 cell = t.rows[0].cells[j]
                 cell.text = ""
                 p = cell.paragraphs[0]; set_rtl(p)
-                r = p.add_run(htxt); r.bold = True; r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF); r.font.size = Pt(9.5)
+                r = p.add_run(htxt.replace("*", "")); r.bold = True; r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF); r.font.size = Pt(9.5)
                 shade_cell(cell, TEAL)
             for row in rows:
                 cells = t.add_row().cells
@@ -306,10 +309,17 @@ def md_to_xhtml(md):
                 t.append("</tr>")
             t.append("</table>")
             out.append("".join(t))
-        elif kind == "hr": out.append("<hr>")
-    # fix numitem -> ol li
-    out = re.sub(r"(<li>.*?</li>|<numitem>.*?</numitem>)", lambda m: m.group(0), "\n".join(out))
-    return "\n".join(out)
+        elif kind == "hr": out.append("<hr/>")
+    # group consecutive <li> into <ul>; numbered items as paragraphs (XHTML-valid)
+    res, in_ul = [], False
+    for x in out:
+        if x.startswith("<li>"):
+            if not in_ul: res.append("<ul>"); in_ul = True
+        elif in_ul:
+            res.append("</ul>"); in_ul = False
+        res.append(x.replace("<numitem>", '<p class="num">').replace("</numitem>", "</p>"))
+    if in_ul: res.append("</ul>")
+    return "\n".join(res)
 
 def build_epub():
     md = assemble()
