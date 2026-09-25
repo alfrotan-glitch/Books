@@ -403,3 +403,8 @@ VERIFIED (ATA 2016 متن اصلی، Sage/Duke PDF): MMI شروع ۵–۱۰ / ۱
 ### فصل ۴۹ — Hypothyroidism (۲۰۲۶-۰۹-۲۵)
 
 VERIFIED (ATA 2014 متن اصلی): Levothyroxine ۱.۶ (۱.۶–۱.۸) mcg/kg؛ ۲۵–۵۰ mcg در خفیف؛ تیتر ۱۲.۵–۲۵ mcg، TSH در ۴–۶ هفته؛ Myxoedema coma: LT4 IV بار ۲۰۰–۴۰۰ mcg سپس ۱.۶ mcg/kg × ۷۵٪؛ T3 IV بار ۵–۲۰ mcg سپس ۲.۵–۱۰ mcg هر ۸ ساعت؛ Glucocorticoid پیش از LT4. VERIFIED (برچسب FDA Synthroid): حاملگی جدید ۱.۶ / ۱.۰ mcg/kg؛ مسن/قلبی کمتر از ۱.۶ و تیتر ۶–۸ هفته. اختلاف: برچسب/Endotext بار ۳۰۰–۵۰۰ mcg. باقی → SD-38.
+
+### فصل ۵۰ — Adrenal insufficiency (۲۰۲۶-۰۹-۲۵)
+
+VERIFIED (Endocrine Society PAI 2016، متن کامل/جداول): Hydrocortisone بحران ۱۰۰ mg زرقی فوری → ۲۰۰ mg/۲۴ ساعت (انفیوژن یا ۵۰ mg هر ۶ ساعت) → روز بعد ۱۰۰ mg/روز؛ Saline ۱۰۰۰ mL در ساعت اول؛ نگهداری Hydrocortisone ۱۵–۲۵ mg/روز در ۲–۳ دوز یا Cortisone acetate ۲۰–۳۵ mg؛ Fludrocortisone شروع ۵۰–۱۰۰ mcg، معمولاً ۰.۰۵–۰.۲ mg/روز، هوای گرم +۵۰–۱۰۰٪؛ بیش از ۵۰ mg/۲۴h HC → Mineralocorticoid لازم نیست؛ sick day: تب بیش از ۳۸ → ۲×، بیش از ۳۹ → ۳× برای ۲–۳ روز؛ ۱۰۰ mg زرقی اگر استفراغ؛ جراحی خفیف/متوسط ۲۵–۷۵ mg/۲۴h برای ۱–۲ روز؛ جراحی بزرگ ۱۰۰ mg → ۲۰۰ mg/۲۴h. تست Synacthen ۲۵۰ mcg؛ حد ۵۰۰ nmol/L (وابسته به assay)؛ Cortisol صبح کمتر از ۱۴۰ nmol/L؛ ACTH بیش از ۲× حد بالا.
+VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اختلاف با PAI حفظ شد). VERIFIED (ESE/ES 2024 خلاصهٔ رسمی): آستانهٔ خطر ۳–۴ هفته و بیش از معادل HC ۱۵–۲۵ mg (Pred ۴–۶، MP ۳–۵، Dex ۰.۲۵–۰.۵ mg). باقی → SD-40.

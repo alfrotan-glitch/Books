@@ -49,6 +49,8 @@
 | SD-37 | ۴۸ | ETA 2018 Graves، EUGOGO 2021، ATA 2017 حاملگی خوانده نشد؛ نسخهٔ جدیدتر ATA hyperthyroidism کامل جستجو نشد | CURRENTNESS NOTE |
 | SD-38 | ۴۹ | تأییدنشده: زمان ناشتا/فاصلهٔ Levothyroxine از غذا و Iron/Calcium، افزایش ۲۰–۳۰٪ در حاملگی (secondary)، حدود TSH هر trimester، متن اصلی NICE NG145 (۲۵–۵۰ mcg و گرد کردن از منابع ثانوی)، Hydrocortisone ۱۰۰ mg هر ۸ ساعت در Myxoedema coma (Endotext secondary) | UNVERIFIED — OPEN |
 | SD-39 | ۴۹ | ETA 2013 Subclinical، ATA 2017 حاملگی، و رهنمود جدید ATA Hypothyroidism پس از 2014 کامل جستجو نشد | CURRENTNESS NOTE |
+| SD-40 | ۵۰ | تأییدنشده: دوز Prednisolone/Dexamethasone جایگزین در Adrenal crisis؛ مقدار افزایش Hydrocortisone در Trimester سوم؛ Taper Glucocorticoid و زمان تست محور (ESE/ES 2024 متن کامل خوانده نشد)؛ تنظیم دوز با محرک‌های آنزایم؛ تنظیم گرده/کبد؛ دوز Dextrose Hypoglycaemia کاهلان | UNVERIFIED — OPEN |
+| SD-41 | ۵۰ | رهنمود PAI 2016 هنوز جدیدترین است (Guideline Central مرور Dec 2025)؛ متن کامل ESE/ES 2024 و رهنمود SfE عاجل از منبع اولیه خوانده نشد؛ حد Cortisol در assayهای جدید (مثلاً LC-MS/MS) بررسی نشد | CURRENTNESS NOTE |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
