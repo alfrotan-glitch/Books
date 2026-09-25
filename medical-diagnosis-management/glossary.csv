@@ -135,3 +135,32 @@ dari_term,english_term,latin_term,abbreviation,preferred_form,forbidden_forms,so
 عدم کفایهٔ دریچه,Valvular insufficiency / Regurgitation,,,عدم کفایهٔ دریچه,,Afghan clinical usage (ch05),ACCEPTED (author decision 2026-09-25); Tricuspid = ترایکسپید (APPROVED),05-cardio-approach
 ترایکسپید,Tricuspid,,,ترایکسپید,تریکوسپید|تریکسپید,Author-approved terminology correction (2026-09-25),Approved Afghan form for Tricuspid (valve; cavo-tricuspid isthmus),05-cardio-approach
 مرمر,Heart murmur,,,مرمر,سوفل؛ وزش,Afghan clinical usage,«مرمر (Murmur)» برای صدای جریان قلبی؛ برای صدای شریانی Bruit. تصمیم ۲۰۲۶-۰۹-۲۵,05-cardio-approach
+سندروم,Syndrome,,,سندروم,سندرم,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,01-approach
+رادیوتراپی,Radiotherapy,,,رادیوتراپی,شعاع‌تراپی|شعاع‌درمانی,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,11-pericardial
+ابسه,Abscess,,,ابسه,آبسه,Afghan clinical usage (majority form in book),تصمیم ۲۰۲۶-۰۹-۲۵,12-endocarditis
+ایسکیمی,Ischaemia,,,ایسکیمی,اسکیمی,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,06-hypertension
+بستری,Hospital admission,,,بستری,بستر شدن,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,01-approach
+پوپنک,Mould,,,پوپنک,کپک,Afghan everyday usage,تصمیم ۲۰۲۶-۰۹-۲۵,15-resp-approach
+هموپتیزی,Haemoptysis,,,هموپتیزی,همپتیزی|هیموپتیزی,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,15-resp-approach
+فیبروز,Fibrosis,,,فیبروز,فایبروز,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,15-resp-approach
+لمفادینوپاتی,Lymphadenopathy,,,لمفادینوپاتی,لمفادنوپاتی,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,19-tuberculosis
+اریتمی,Arrhythmia,,,اریتمی,آریتمی,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,10-arrhythmia
+آسپیراسیون,Aspiration,,,آسپیراسیون,اسپیراسیون,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,18-pneumonia
+انزایم,Enzyme,,,انزایم,آنزیم,Afghan clinical usage (majority form in book),تصمیم ۲۰۲۶-۰۹-۲۵,04-labs
+بازتوانی,Rehabilitation,,,بازتوانی,توان‌بخشی,Afghan clinical usage,تصمیم ۲۰۲۶-۰۹-۲۵,16-copd
+Crackles,Crackles (lung),,,Crackles,کریپیتیشن,International term kept in English,تصمیم ۲۰۲۶-۰۹-۲۵,15-resp-approach
+شوک,Shock (circulatory),,,شوک,,Afghan clinical usage (book audit),شاک فقط برای شاک برقی (Defibrillation) — تصمیم ۲۰۲۶-۰۹-۲۵,
+حجره,Cell,,,حجره,سلول,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+عروقی,Vascular,,,عروقی,وعایی,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+ضد انعقاد,Anticoagulant,,,ضد انعقاد,ضد تخثر,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+ایمنی,Immune/Immunity,,,ایمنی,ایمیونی,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+جنیتیکی,Genetic,,,جنیتیکی,ژنتیکی,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+مویرگ,Capillary,,,مویرگ,شعریه,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+کنتراست,Contrast,,,کنتراست,کانتراست,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+کتتر,Catheter,,,کتتر,کتیتر,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+ترومبوسایتوپینی,Thrombocytopenia,,,ترومبوسایتوپینی,ترومبوسیتوپینی,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+کلسترول,Cholesterol,,,کلسترول,کولسترول,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+الکول,Alcohol,,,الکول,الکهول,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+هضمی,Digestive/GI,,,هضمی,گوارشی,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+سوء تغذیه,Malnutrition,,,سوء تغذیه,سوء تغذی,Afghan clinical usage (book audit),تصمیم ۲۰۲۶-۰۹-۲۵,
+سن,Age,,,سن,,Afghan clinical usage (book audit),عمر برای طول عمر/امید به زندگی می‌ماند؛ برای age سن ترجیح دارد — تصمیم ۲۰۲۶-۰۹-۲۵,

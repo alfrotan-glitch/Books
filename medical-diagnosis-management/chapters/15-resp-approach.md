@@ -51,7 +51,7 @@
 - **سگرت:** **Pack-years** = (تعداد قطی در روز) × (سال‌ها). مثال: یک قطی در روز برای ۲۰ سال = ۲۰ Pack-years.
 - **نسوار، قلیان و چلم.**
 - **دود داخل خانه (بخاری چوب، تپاله، و زغال سنگ)** — عامل مهم COPD در **زنان افغان** که هرگز سگرت نکشیده‌اند.
-- **شغل:** معدن، ساختمان (سیلیکا)، قالین‌بافی (گرد پشم)، زراعت (پرندگان و کاه کپک‌زده ← Hypersensitivity pneumonitis).
+- **شغل:** معدن، ساختمان (سیلیکا)، قالین‌بافی (گرد پشم)، زراعت (پرندگان و کاه پوپنک‌زده ← Hypersensitivity pneumonitis).
 - **تماس با سل** در خانواده؛ **BCG**؛ تداوی قبلی سل (و آیا کامل بود؟).
 - **دواها:** ACEi (سرفه)، Beta-blocker (آسما)، Amiodarone و Methotrexate (فیبروز)، Aspirin و NSAID (آسما).
 - **حیوانات خانگی و پرندگان** (کبوتربازی در افغانستان رایج است).
@@ -222,7 +222,7 @@
 ## 📚 References
 
 - Innes JA, Dover AR, Fairhurst K (eds). **Macleod's Clinical Examination**, 15th Ed. Elsevier; 2023 — The respiratory system.
-- Global Initiative for Chronic Obstructive Lung Disease. **GOLD 2025 Report** — مقیاس mMRC و تعریف اسپیرومتریک.
+- Global Initiative for Chronic Obstructive Lung Disease. **GOLD 2026 Report** — مقیاس mMRC و تعریف اسپیرومتریک.
 - Stanojevic S, et al. **ERS/ATS technical standard on interpretive strategies for routine lung function tests.** Eur Respir J. 2022;60:2101499 (LLN، z-score، و تعریف برگشت‌پذیری).
 - WHO. **Consolidated guidelines on tuberculosis. Module 3: Diagnosis** (GeneXpert به عنوان تست تشخیصی اولیه).
 - Harrison's Principles of Internal Medicine, 21st Ed — Approach to the Patient with Disease of the Respiratory System.

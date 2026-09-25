@@ -66,7 +66,7 @@
 | عمومی | کاهش وزن با اشتهای زیاد، تحمل نکردن گرمی، تعرق، خستگی |
 | قلب | تپش، **Tachycardia**، **AF**، تنگی نفس |
 | عصبی–روانی | اضطراب، بی‌خوابی، تحریک‌پذیری، **لرزهٔ ظریف** |
-| گوارش | اسهال یا حرکات روده زیاد |
+| سیستم هضمی | اسهال یا حرکات روده زیاد |
 | عضله | ضعف پروگزیمال (بالا شدن از زینه) |
 | تناسلی | حیض کم/نامنظم، کاهش باروری |
 | **خاص Graves** | گواتر منتشر با Bruit، **Orbitopathy** (Proptosis، Lid retraction، دوبینی)، Pretibial myxoedema، Acropachy |
@@ -123,7 +123,7 @@
 1. **TSH پایین** → تایروتوکسیکوز ممکن.
 2. FT4 و T3 → Overt یا Subclinical.
 3. **علت:** Orbitopathy + گواتر منتشر = Graves (بالینی)؛ در غیر آن TRAb، RAIU یا Doppler.
-4. **Thyroid storm:** تشخیص **بالینی** — تب، Tachycardia/AF، اختلال شعور، علایم گوارشی/کبدی، عدم کفایهٔ قلب در زمینهٔ تایروتوکسیکوز؛ **Burch–Wartofsky score** کمک می‌کند (نقاط → SD-36). **منتظر تست نمان.**
+4. **Thyroid storm:** تشخیص **بالینی** — تب، Tachycardia/AF، اختلال شعور، علایم هضمی/کبدی، عدم کفایهٔ قلب در زمینهٔ تایروتوکسیکوز؛ **Burch–Wartofsky score** کمک می‌کند (نقاط → SD-36). **منتظر تست نمان.**
 
 ---
 
@@ -244,7 +244,6 @@
 1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
 2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — secondary).
 3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (secondary).
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
 
@@ -253,7 +252,7 @@
 ## ↩️ برگشت به سه تپش قلب
 
 - **فرشته:** برآمدگی چشم تقریباً تشخیص Graves را ثابت می‌کند. TRAb تأیید می‌کند. تصمیم بین ATD، Radioiodine و جراحی گرفته می‌شود، و چشم فعال انتخاب را به طرف دور از Radioiodine بی‌محافظت می‌برد.
-- **حاجی قربان:** مسن‌ها اکثراً علایم کلاسیک ندارند (Apathetic)؛ AF تازه خودش سرنخ است. Beta-blocker ضربان را کنترول می‌کند. گواتر چندگره‌ای سمی خودبه‌خود فروکش نمی‌کند، پس تداوی قطعی (Radioiodine یا جراحی) لازم است. Anticoagulation طبق فصل AF تصمیم گرفته می‌شود.
+- **حاجی قربان:** مسن‌ها اکثراً علایم کلاسیک ندارند (Apathetic)؛ AF تازه خودش سرنخ است. Beta-blocker ضربان را کنترول می‌کند. گواتر چندگره‌ای سمی خودبه‌خود فروکش نمی‌کند، پس تداوی قطعی (Radioiodine یا جراحی) لازم است. Anticoagulation طبق فصل ۱۰ تصمیم گرفته می‌شود.
 - **مرسل:** غدهٔ بی‌درد پس از ولادت Thyroiditis را مطرح می‌کند. اگر مادر شیر می‌دهد، RAIU **ممنوع** است، پس تشخیص بر بالین، سیر مرض و منفی بودن یافته‌های Graves (بی‌برآمدگی چشم؛ TRAb) تکیه می‌کند. تداوی فقط Beta-blocker برای علایم است. در پیگیری باید مراقب مرحلهٔ Hypothyroid بود (فصل ۴۹).
 
 ## 🎯 قدم کوچک در کنار بستر

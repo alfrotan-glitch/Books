@@ -22,7 +22,7 @@
 | **AKI** | Acute kidney injury | آسیب حاد گرده |
 | **ALF** | Acute liver failure | عدم کفایهٔ حاد کبد |
 | **ALP** | Alkaline phosphatase | الکلاین فاسفاتاز |
-| **ALT / AST** | Alanine / Aspartate aminotransferase | آنزیم‌های کبدی |
+| **ALT / AST** | Alanine / Aspartate aminotransferase | انزایم‌های کبدی |
 | **ANA** | Antinuclear antibody | انتی‌بادی ضد هسته |
 | **ANC** | Absolute neutrophil count | شمارش مطلق نیوتروفیل |
 | **ANCA** | Anti-neutrophil cytoplasmic antibody | انتی‌بادی ضد سایتوپلازم نیوتروفیل |
@@ -37,7 +37,7 @@
 | **BP** | Blood pressure | فشار خون |
 | **CAP** | Community-acquired pneumonia | سینه‌بغل اکتسابی از جامعه |
 | **CBC** | Complete blood count | شمارش کامل خون |
-| **CCHF** | Crimean-Congo haemorrhagic fever | تب خون‌ریزی‌دهندهٔ کریمه–کانگو |
+| **CCHF** | Crimean-Congo haemorrhagic fever | تب خونریزی‌دهندهٔ کریمه–کانگو |
 | **CKD** | Chronic kidney disease | مرض مزمن گرده |
 | **CNS** | Central nervous system | سیستم عصبی مرکزی |
 | **CO** | Carbon monoxide / Cardiac output | کاربن مونوکساید / برون‌ده قلب (مطابق متن) |
@@ -67,7 +67,7 @@
 | **HbA1c** | Glycated haemoglobin | هیموگلوبین گلایکوزیله |
 | **HBV / HCV / HEV** | Hepatitis B / C / E virus | ویروس هیپاتیت B / C / E |
 | **HCC** | Hepatocellular carcinoma | سرطان حجرات کبد |
-| **HELLP** | Haemolysis, Elevated Liver enzymes, Low Platelets | همولیز، آنزیم کبدی بلند، پلیت کم |
+| **HELLP** | Haemolysis, Elevated Liver enzymes, Low Platelets | همولیز، انزایم کبدی بلند، پلیت کم |
 | **HHS** | Hyperosmolar hyperglycaemic state | حالت هایپراسمولر هایپرگلایسمیک |
 | **HIT** | Heparin-induced thrombocytopenia | کمی پلیت ناشی از هیپارین |
 | **HIV** | Human immunodeficiency virus | ویروس نقص معافیت انسانی |
@@ -105,7 +105,7 @@
 | **PTH** | Parathyroid hormone | هورمون پاراتایروئید |
 | **RA** | Rheumatoid arthritis | ارتریت روماتوئید |
 | **ROSC** | Return of spontaneous circulation | بازگشت دوران خودبخودی |
-| **SAH** | Subarachnoid haemorrhage | خون‌ریزی زیر عنکبوتیه |
+| **SAH** | Subarachnoid haemorrhage | خونریزی زیر عنکبوتیه |
 | **SAM** | Severe acute malnutrition | سوء تغذیهٔ حاد شدید |
 | **SBP** | Systolic blood pressure / Spontaneous bacterial peritonitis | فشار سیستولیک / التهاب خودبخودی باکتریایی پریتوان (مطابق متن) |
 | **SGLT2** | Sodium-glucose cotransporter 2 | انتقال‌دهندهٔ سودیم–گلوکوز ۲ |
@@ -118,7 +118,7 @@
 | **TTP** | Thrombotic thrombocytopenic purpura | پورپورای ترومبوتیک ترومبوسایتوپنیک |
 | **UFH** | Unfractionated heparin | هیپارین غیرتجزیه‌شده |
 | **UTI** | Urinary tract infection | انتان طرق بولی |
-| **VF / VT** | Ventricular fibrillation / tachycardia | فبریلیشن / تکی‌کاردی بطینی |
+| **VF / VT** | Ventricular fibrillation / tachycardia | فبریلیشن / تاکی‌کاردی بطینی |
 | **VTE** | Venous thromboembolism | ترومبوامبولی وریدی |
 
 ## ۲. سازمان‌ها و رهنمودها

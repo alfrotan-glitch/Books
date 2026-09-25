@@ -1,6 +1,6 @@
 # ضمیمهٔ ۹۵ — منابع کتاب به ترتیب فصل
 
-> این ضمیمه به‌طور خودکار از بخش «📚 References» هر فصل جمع شده است (`tools/gen_references.py`). منابعی که در متن فصل با «خوانده نشد» نشانی شده‌اند، در فهرست قرض علمی (`release/open-scientific-debt.md`) ثبت‌اند. هیچ منبعی این‌جا اضافه نشده که در یک فصل نیامده باشد.
+> این ضمیمه به‌طور خودکار از بخش «📚 References» هر فصل جمع شده است (`tools/gen_references.py`). منابعی که در متن فصل با «خوانده نشد» نشانی شده‌اند، در فهرست بدهی علمی (`release/open-scientific-debt.md`) ثبت‌اند. هیچ منبعی این‌جا اضافه نشده که در یک فصل نیامده باشد.
 
 ## فصل ۱ — رهیافت به مریض: تاریخچه، ABCDE و علایم حیاتی (Approach to the Patient)
 
@@ -56,9 +56,11 @@
 
 ---
 
-## فصل ۶ — فشار بلند خون و بحران هایپرتینسیو (Hypertension & Hypertensive Crisis)
+## فصل ۶ — فشار بلند خون و بحران هایپرتنسیو (Hypertension & Hypertensive Crisis)
 
-- ACC/AHA 2017 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults.
+- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065 — Tables 19–20 (IV drugs for hypertensive emergency) read in the guideline full text 2026-09-25.
+
+- Jones DW, et al. **2025 AHA/ACC Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults.** Hypertension. 2025 (doi 10.1161/HYP.0000000000000249) — جانشین رهنمود 2017.
 - ESC/ESH 2023 Guidelines for the Management of Arterial Hypertension.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 330–332 (Hypertension).
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 17 (Hypertension).
@@ -71,19 +73,20 @@
 ## فصل ۷ — عدم کفایه قلب (Heart Failure)
 
 - ESC 2021 Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure.
+- McDonagh TA, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J 2023;44:3627–3639.
 - AHA/ACC/HFSA 2022 Guideline for the Management of Heart Failure.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 140–142.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 21.
 - UpToDate: "HFrEF: Treatment" و "Acute decompensated heart failure".
-- DAPA-HF / EMPEROR-Heart (SGLT2i) trials, NEJM 2019/2020.
+- DAPA-HF / EMPEROR-Reduced (SGLT2i) trials, NEJM 2019/2020.
 - PARADIGM-HF (Sacubitril/Valsartan), NEJM 2014.
 
 ---
 
 ## فصل ۸ — سندروم کرونری حاد: سکته قلبی (Acute Coronary Syndrome / Myocardial Infarction)
 
-- ESC 2023 Guidelines for the Management of Acute Coronary Syndromes.
-- AHA/ACC 2014 (2023 Update) STEMI / NSTEMI Guidelines.
+- Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
+- Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".
@@ -93,6 +96,7 @@
 
 ## فصل ۹ — امراض دریچه‌ای قلب و تب روماتیزمی (Valvular Heart Disease & Rheumatic Fever)
 
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). CURRENTNESS NOTE: other thresholds in this chapter (MR, AR) still follow 2021/2020 and have not yet been line-checked against 2025.
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.
@@ -110,6 +114,7 @@
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
 - Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. — **منبع دوزهای Adenosine، Verapamil، Diltiazem، Esmolol، Metoprolol، Amiodarone، Magnesium و Atropine، و الگوریتم‌های تاکیکاردی/برادیکاردی.**
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
+- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
 - Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of SVT (REVERT). Lancet 2015;386:1747–1753.
 - Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J 2020;41:655–720.
@@ -152,6 +157,8 @@
 
 ## فصل ۱۴ — ترومبوآمبولی وریدی: DVT و آمبولی ریه (Venous Thromboembolism: DVT & Pulmonary Embolism)
 
+- 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026; doi:10.1161/CIR.0000000000001415.
+
 - Konstantinides SV, et al. **2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (with ERS).** Eur Heart J. 2020;41:543–603 (طبقه‌بندی خطر؛ Alteplase ۱۰۰ mg در ۲ ساعت؛ Streptokinase ۲۵۰,۰۰۰ IU سپس ۱۰۰,۰۰۰ IU/h؛ دوزهای DOAC و کاهش دوز دراز مدت؛ مدت تداوی).
 - Stevens SM, et al. **Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline.** Chest. 2021;160:e545–e608.
 - Ortel TL, et al. **ASH 2020 guidelines for management of venous thromboembolism: treatment of DVT and PE.** Blood Adv. 2020;4:4693–4738.
@@ -164,12 +171,14 @@
 ## فصل ۱۵ — رهیافت و معاینهٔ سیستم تنفسی (Respiratory Approach & Examination)
 
 - Innes JA, Dover AR, Fairhurst K (eds). **Macleod's Clinical Examination**, 15th Ed. Elsevier; 2023 — The respiratory system.
-- Global Initiative for Chronic Obstructive Lung Disease. **GOLD 2025 Report** — مقیاس mMRC و تعریف اسپیرومتریک.
+- Global Initiative for Chronic Obstructive Lung Disease. **GOLD 2026 Report** — مقیاس mMRC و تعریف اسپیرومتریک.
 - Stanojevic S, et al. **ERS/ATS technical standard on interpretive strategies for routine lung function tests.** Eur Respir J. 2022;60:2101499 (LLN، z-score، و تعریف برگشت‌پذیری).
 - WHO. **Consolidated guidelines on tuberculosis. Module 3: Diagnosis** (GeneXpert به عنوان تست تشخیصی اولیه).
 - Harrison's Principles of Internal Medicine, 21st Ed — Approach to the Patient with Disease of the Respiratory System.
 
 ## فصل ۱۶ — مرض انسدادی مزمن ریه (Chronic Obstructive Pulmonary Disease — COPD)
+
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
 
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
@@ -182,13 +191,17 @@
 
 ## فصل ۱۷ — آسما (Asthma)
 
+- Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 Update (ginasthma.org, May 2026) — summary of changes: oxygen only if SpO₂ <92%, upper target 95%; adrenaline first if anaphylaxis with asthma; review treatment after a single exacerbation.
+
 - Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر حفظیه، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
+- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر نگهدارنده، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 
 ## فصل ۱۸ — پنومونی (Pneumonia)
+
+- Jones BE, Ramirez JA, Oren E, et al. Diagnosis and Management of Community-Acquired Pneumonia. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2025; doi:10.1164/rccm.202507-1692ST.
 
 - Metlay JP, et al. **Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the ATS and IDSA.** Am J Respir Crit Care Med. 2019;200:e45–e67 (رژیم‌های سرپایی: Amoxicillin ۱ g سه بار، Doxycycline ۱۰۰ mg دو بار، ماکرولاید در مقاومت کمتر از ۲۵ فیصد؛ بستری: Ceftriaxone ۱–۲ g + Azithromycin ۵۰۰ mg؛ Ampicillin/Sulbactam ۱.۵–۳ g هر ۶ ساعت؛ حد اقل ۵ روز؛ عدم پوشش روتین انیروب در آسپیراسیون؛ حذف HCAP).
 - Kalil AC, et al. **Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the IDSA and ATS.** Clin Infect Dis. 2016;63:e61–e111 (رژیم‌های تجربی؛ ۷ روز).
@@ -234,7 +247,7 @@
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی آنکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در فوریت‌های سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
+- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی انکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در حالات عاجل سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 
 ## فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 
@@ -256,7 +269,7 @@
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
 - *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 
-## فصل ۲۳ — سرفهٔ مزمن و همپتیزی (Chronic Cough & Haemoptysis)
+## فصل ۲۳ — سرفهٔ مزمن و هموپتیزی (Chronic Cough & Haemoptysis)
 
 - Morice AH, et al. **ERS guidelines on the diagnosis and treatment of chronic cough in adults and children.** Eur Respir J. 2020;55:1901136.
 - Irwin RS, et al. **Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report.** Chest. 2018;153:196–209.
@@ -268,7 +281,7 @@
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
 - WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *[نسخهٔ جاری رهنمود ملی باید تأیید شود.]*
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هیموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
+- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 
 ## فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 
@@ -282,11 +295,11 @@
 
 ## فصل ۲۵ — خونریزی جهاز هضمی (Gastrointestinal Bleeding)
 
+- Sengupta N, Feuerstein JD, Jairath V, et al. Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline. Am J Gastroenterol 2023;118:208–231.
 - Gralnek IM, et al. **ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage — Update 2021.** Endoscopy. 2021;53:300–332.
 - Tripathi D, et al. **UK guidelines on the management of variceal haemorrhage in cirrhotic patients (BSG).** Gut. 2015;64:1680–1704.
 - FDA label: **Kcentra (prothrombin complex concentrate, human)** — Dosage and Administration.
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. **ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.** Am J Gastroenterol. 2021;116:899–917.
-- Gralnek IM, et al. **Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage (NVUGIH): ESGE Guideline – Update 2021.** Endoscopy. 2021;53:300–332.
 - Barkun AN, et al. **Management of Nonvariceal Upper GI Bleeding: International Consensus Group.** Ann Intern Med. 2019;171:805–822.
 - de Franchis R, et al. **Baveno VII – Renewing consensus in portal hypertension.** J Hepatol. 2022;76:959–974.
 - Kaplan DE, et al. **AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis.** Hepatology. 2024;79:1180–1211.
@@ -298,9 +311,8 @@
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
 - *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 
-## فصل ۲۶ — قرحهٔ هضمیه، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
+## فصل ۲۶ — قرحهٔ هضمی، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 
-- Chey WD, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
 - Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. **ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.** Am J Gastroenterol. 2022;117:27–56.
@@ -310,17 +322,17 @@
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole وقایوی با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
+- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole پیشگیرانه با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 
 ## فصل ۲۷ — بطن حاد (Acute Abdomen)
 
+- Koelemay MJ, Geelkerken RH, Kärkkäinen J, et al. European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins. Eur J Vasc Endovasc Surg 2025;70:153–218.
 - Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
 - Mazuski JE, et al. **The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.** Surg Infect. 2017;18:1–76.
 - Sawyer RG, et al. **Trial of Short-Course Antimicrobial Therapy for Intraabdominal Infection (STOP-IT).** N Engl J Med. 2015;372:1996–2005.
 - Peery AF, et al. **AGA Clinical Practice Update on Medical Management of Colonic Diverticulitis.** Gastroenterology. 2021;160:906–911.
-- Björck M, et al. **Management of the Diseases of Mesenteric Arteries and Veins: ESVS Clinical Practice Guidelines.** Eur J Vasc Endovasc Surg. 2017;53:460–510.
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
@@ -408,6 +420,7 @@
 - World Health Organization. **Prevention of mother-to-child transmission of hepatitis B virus: guidelines on antiviral prophylaxis in pregnancy.** Geneva: WHO; 2020. https://www.ncbi.nlm.nih.gov/books/NBK561126/
 - World Health Organization. **Guidelines for the care and treatment of persons diagnosed with chronic hepatitis C virus infection.** Geneva: WHO; 2018. https://www.ncbi.nlm.nih.gov/books/NBK531720/
 - World Health Organization. **Hepatitis C — Fact sheet** (2026). https://www.who.int/news-room/fact-sheets/detail/hepatitis-c
+- AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B (Hepatology 2025): treatment threshold ALT ULN 35 U/L men / 25 U/L women; immune-active = ALT ≥2×ULN and HBV DNA >20,000 (HBeAg+) or >2,000 IU/mL (HBeAg−); treatment also considered in the HBeAg-negative indeterminate phase. Supersedes AASLD 2018 for treatment decisions.
 - Terrault NA, et al. **Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance.** Hepatology. 2018.
 - European Association for the Study of the Liver. **EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection.** J Hepatol. 2017.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on hepatitis delta virus.** J Hepatol. 2023.
@@ -446,14 +459,13 @@
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرمپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
+- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرامپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 
 ## فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 
 - Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
-- Vilstrup H, et al. **Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on the management of hepatic encephalopathy.** J Hepatol. 2022;77:807–824.
 - O'Grady JG, et al. **Early indicators of prognosis in fulminant hepatic failure (King's College Criteria).** Gastroenterology. 1989;97:439–445.
 - Lee WM, et al. **Intravenous N-acetylcysteine improves transplant-free survival in early stage non-acetaminophen acute liver failure.** Gastroenterology. 2009;137:856–864.
@@ -551,7 +563,6 @@
 1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https://www.nice.org.uk/guidance/ng118 — (توصیه‌های ۱.۱–۱.۸ مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵).
 2. European Association of Urology. *EAU Guidelines on Urolithiasis* — Limited update March 2025 (full text and Pocket Guidelines 2025). https://uroweb.org/guidelines/urolithiasis
 3. Pickard R, et al. SUSPEND trial. *Lancet*. 2015 — (به نقل از بحث کمیتهٔ NICE NG118).
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت ساختاری.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** NICE NG118 (2019) هنوز رهنمود فعال است؛ EAU Urolithiasis نسخهٔ Limited update مارچ 2025 بررسی شد و با NICE در اصول (NSAID اول، تخلیهٔ عاجل انسداد انتانی، PCNL برای بزرگتر از ۲ cm) هم‌خوان است. اختلاف: ارزیابی متابولیک ۲۴ ساعته (NICE توصیه نکرده، EAU برای پرخطرها) و MET (شواهد متناقض). **CURRENTNESS NOTE:** رهنمودهای AUA بررسی نشد.
 
@@ -562,9 +573,9 @@
 1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https://guidelines.ukkidney.org/hyperkalaemia/ — (Guidelines 16.2a/b، 16.3.1، 16.4.1–3، 16.5، 16.6، 25.1–25.2 خوانده شد).
 2. Society for Endocrinology. *Emergency Endocrine Guidance: Emergency management of acute hypocalcaemia in adult patients.* Endocr Connect. 2016;5(5):G7–8; correction 2019 (PubMed 32022081) — (بولوس، انفیوژن، ۲.۲ mmol).
 3. Society for Endocrinology. *Acute hypocalcaemia — for use in adult patients* (2013 leaflet) — (Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg؛ هشدار ESKD).
-4. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
-5. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
-6. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
+4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753 — (شکل‌های ۲ و ۳: Hyperkalaemia و Hypokalaemia؛ خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
+6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** UKKA Hyperkalaemia 2023 جدیدترین رهنمود ملی بررسی‌شده است (صفحهٔ آنلاین آن تا دسمبر ۲۰۲۵ به‌روز شده). رهنمودهای Society for Endocrinology 2016 (با تصحیح 2019) هنوز مرجع عاجل‌اند؛ **CURRENTNESS NOTE:** نسخهٔ جدیدتر SfE جستجو نشد. KDIGO/ERC برای Hyperkalaemia با UKKA مقایسه نشد.
 
@@ -575,7 +586,6 @@
 1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40 — (خلاصهٔ Wiki Journal Club بررسی شد).
 2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025 — (خلاصهٔ The Bottom Line، نوامبر ۲۰۲۵ بررسی شد؛ متن اصلی خوانده نشد → SD-29).
 3. University of Colorado Internal Medicine Residency. *Evaluation of Acid-Base Disorders* (suggested reading PDF) — فورمول‌های جبران.
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** مهمترین تغییر: **BICARICU-2 (2025)** فایدهٔ مرگ‌ومیر زیرگروه AKI در BICAR-ICU را تأیید نکرد — متن این فصل بر اساس جدیدترین شواهد نوشته شد. فورمول‌های جبران دهه‌ها ثابت مانده‌اند.
 
@@ -587,7 +597,6 @@
 2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013 — (به نقل از منابع ۳ و ۴؛ متن اصلی خوانده نشد).
 3. Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol*. 2025;192(6):754 — (اختلاف ۸ در مقابل ۱۰ mmol/L؛ ۱۰۰ در مقابل ۱۵۰ mL).
 4. Treatment of symptomatic hyponatremia with hypertonic saline: a real-life observational study. *Eur J Endocrinol*. 2021;184(5):647.
-5. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** رهنمود اروپایی 2014 هنوز مرجع رسمی است؛ مرور 2025 (EJE) اختلاف عمل در اروپا را نشان داد. نام‌گذاری جدید DI (AVP deficiency/resistance) در متن آمد. **CURRENTNESS NOTE (SD-31):** جستجوی نسخهٔ جدید رهنمود اروپایی و بحث حدود اصلاح پس از 2023 کامل نشد؛ متن SALSA اصلی خوانده نشد.
 
@@ -597,7 +606,6 @@
 
 1. U.S. Food and Drug Administration. *Biotin (Vitamin B7): Safety Communication — May Interfere with Lab Tests* (2017; updated 2019).
 2. Jameson JL, et al., eds. *Harrison's Principles of Internal Medicine* — Approach to the patient with endocrine disorders (اصول عمومی؛ بدون عدد مشخص نقل‌شده).
-3. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 4. رهنمودهای مخصوص هر مرض در فصل‌های ۴۶–۵۲.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** این فصل اصول می‌دهد و عدد دوایی ندارد. نام‌گذاری جدید DI (AVP deficiency/resistance) در فصل ۴۴ آمده. **CURRENTNESS NOTE:** متن هشدار FDA در این نشست دوباره خوانده نشد (SD-32).
@@ -608,7 +616,6 @@
 
 1. American Diabetes Association Professional Practice Committee. *Standards of Care in Diabetes—2026*. Diabetes Care. 2026;49(Suppl 1). Section 2: doi:10.2337/dc26-S002 (جدول ۲.۱ و توصیه‌های ۲.۱–۲.۱۰)؛ Sections 5, 6, 7, 8, 9 — (متن توصیه‌ها از خلاصهٔ رسمی Guideline Central/ADA، به‌روز ۲۰۲۶-۰۹-۱۶ خوانده شد).
 2. UpToDate. ADA criteria for diagnosis of diabetes (تأیید اعتبار جدول برای نسخهٔ 2026).
-3. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ADA Standards 2026 (دسمبر ۲۰۲۵) جدیدترین نسخه است. تغییرات مهم نسبت به کتب قدیمی: (۱) GLP-1 RA/SGLT2i «بدون توجه به HbA1c» برای محافظت ارگان؛ (۲) GLP-1 based therapy بر Insulin ترجیح دارد؛ (۳) Tirzepatide در HFpEF + چاقی؛ (۴) GLP-1 RA در eGFR کمتر از ۳۰ و دیالیز؛ (۵) CGM از زمان تشخیص؛ (۶) «Metformin همیشه خط اول» دیگر قاعدهٔ مطلق نیست — انتخاب نظر به ارگان‌ها. **CURRENTNESS NOTE:** توصیه‌های KDIGO دیابت در CKD و IDF–DAR 2021 در این نشست دوباره خوانده نشدند (SD-34).
 
@@ -616,10 +623,11 @@
 
 ## فصل ۴۷ — بحران‌های هایپرگلایسمیک: DKA و HHS (Diabetic Ketoacidosis & Hyperosmolar Hyperglycaemic State)
 
+- Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
+
 1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).
 3. Kitabchi AE, et al. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335 — (نسخهٔ قبلی برای مقایسه).
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** Consensus بین‌المللی 2024 جدیدترین مرجع است (جایگزین ADA 2009). تغییرات کلیدی: β-OHB مرکزی، حد قند ۲۰۰/سابقهٔ دیابت، Bicarbonate ۱۸، Insulin زیرجلدی در DKA خفیف/متوسط، معیارهای رفع جدید، حدود جدید HHS. **اختلاف ثانوی:** خلاصهٔ Healio می‌گوید Bicarbonate «حذف» شده؛ الگوریتم اصلی Consensus می‌گوید «فقط اگر pH کمتر از ۷.۰ در نظر گرفته شود» — متن اصلی مبنا قرار گرفت. **CURRENTNESS NOTE:** JBDS-IP (UK) نسخهٔ جدید جداگانه بررسی نشد (SD-35).
 
@@ -630,7 +638,6 @@
 1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
 2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — secondary).
 3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (secondary).
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
 
@@ -642,7 +649,6 @@
 2. NICE. *Thyroid disease: assessment and management* (NG145). 2019 — (۱.۶ mcg/kg گرد به ۲۵ mcg؛ ۲۵–۵۰ mcg در ۶۵ سال یا بیشتر/قلبی — از Society for Endocrinology 2022 و خلاصه‌های ثانوی؛ متن اصلی NICE در این نشست خوانده نشد → SD-38).
 3. SYNTHROID (levothyroxine) prescribing information — دوز حاملگی ۱.۶/۱.۰ mcg/kg؛ تیتر.
 4. Endotext. Myxedema and coma (severe hypothyroidism). 2018 — (Hydrocortisone ۱۰۰ mg هر ۸ ساعت؛ دوز بار ۳۰۰–۵۰۰ mcg؛ هشدار دوز زیاد — secondary).
-5. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2014 هنوز مرجع جامع ATA است؛ NICE NG145 (2019) رهنمود ملی UK. **CURRENTNESS NOTE (SD-39):** ETA 2013 Subclinical، ATA 2017 حاملگی، و احتمال رهنمود جدید ATA برای Hypothyroidism پس از 2014 در این نشست کامل جستجو نشد.
 
@@ -673,7 +679,7 @@
 2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728. (از طریق Endotext و RACGP.)
 3. Glucagon for Injection — FDA prescribing information (Lilly/Amphastar labels; DailyMed/accessdata).
 4. Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J.* 2020;41:111–188.
-5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025. (از خلاصهٔ Medscape 2026.)
+5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190 (متن کامل، Recommendation Tables 1–7، خوانده شد ۲۰۲۶-۰۹-۲۵).
 
 ## فصل ۵۳ — رهیافت به مریض عصبی: «کجا» پیش از «چه»
 
@@ -739,7 +745,7 @@
 2. Freifeld AG, Bow EJ, Sepkowitz KA, et al. Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the IDSA. *Clin Infect Dis.* 2011;52:e56–e93. (تعریف از منابع متعدد مبتنی بر آن.)
 3. Taplitz RA, Kennedy EB, Bow EJ, et al. Outpatient management of fever and neutropenia in adults treated for malignancy: ASCO and IDSA clinical practice guideline update. *J Clin Oncol.* 2018;36:1443–1453.
 
-## فصل ۶۴ — خون‌ریزی و Thrombocytopenia: ITP، TTP، HIT و DIC
+## فصل ۶۴ — خونریزی و Thrombocytopenia: ITP، TTP، HIT و DIC
 
 1. Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. *Blood Adv.* 2019;3(23):3829–3866. (و مرور 2022: Blood Adv 2024.)
 2. Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. *Blood Adv.* 2018;2(22):3360–3392.
@@ -819,6 +825,7 @@
 
 1. American Heart Association. 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care — Part 9: Adult Advanced Life Support. *Circulation.* 2025. cpr.heart.org.
 2. American Heart Association. Adult Cardiac Arrest Circular Algorithm. 2025.
+3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3) — (بخش‌های Vasopressor، Antiarrhythmic و Other medication خوانده شد ۲۰۲۶-۰۹-۲۵).
 
 ## فصل ۷۸ — رهیافت به مسمومیت؛ Organophosphate و Aluminium phosphide
 
@@ -840,14 +847,17 @@
 
 ## فصل ۸۱ — Anaphylaxis و سوختگی
 
+- Dodd A, et al. **Evidence update for the treatment of anaphylaxis.** Resuscitation. 2021;163:86–96.
+- NICE. **Anaphylaxis: assessment and referral after emergency treatment (NG258).** 2026 — بخش Period of observation.
 1. Resuscitation Council UK. Emergency treatment of anaphylaxis: guidelines for healthcare providers. May 2021.
 2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023. (خلاصه خوانده شد → SD-72.)
 
 ## فصل ۸۲ — گرمازدگی و Hypothermia
 
+- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
 1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
-3. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: cardiac arrest in special circumstances. *Resuscitation.* 2021;161:152–219. (خوانده نشد → SD-73.)
+3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
 
 ## فصل ۸۳ — امراض داخله در حاملگی
 

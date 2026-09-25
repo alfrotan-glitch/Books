@@ -42,13 +42,13 @@
 | **ضد Arrhythmia** | **VF/pVT مقاوم: Amiodarone ۳۰۰ mg**، سپس **۱۵۰ mg**؛ یا **Lidocaine ۱–۱.۵ mg/kg** (دوز اول) | — |
 | **نه** | Vasopressin به جای Epinephrine؛ **Epinephrine با دوز بلند** | همان |
 
-*(دوز دوم Lidocaine → SD-68.)*
+**ERC 2025 (اروپا؛ متن رهنمود خوانده شد) همین منطق را با شمارش شاک بیان می‌کند:** در ریتم شاک‌پذیر، **Adrenaline ۱ mg پس از شاک سوم**، بعد هر ۳–۵ دقیقه؛ **Amiodarone ۳۰۰ mg پس از سه شاک** و **۱۵۰ mg پس از پنج شاک** (چه VF پیاپی باشد چه عودکننده)؛ اگر Amiodarone نیست، **Lidocaine ۱۰۰ mg** و پس از پنج شاک **۵۰ mg** اضافی. در ریتم غیر شاک‌پذیر، Adrenaline ۱ mg هر چه زودتر. Calcium، Sodium bicarbonate و Corticosteroid به‌طور روتین در ایست داده نشود.
 
 ### علل قابل برگشت — «H و T»
 | H | T |
 |---|---|
 | **Hypoxia** | **Tension pneumothorax** |
-| **Hypovolaemia** (خون‌ریزی) | **Tamponade** (فصل ۱۱) |
+| **Hypovolaemia** (خونریزی) | **Tamponade** (فصل ۱۱) |
 | **Hydrogen ion** (Acidosis) | **Toxins** (فصل ۷۸–۸۰) |
 | **Hypo/Hyperkalaemia** (فصل ۴۲) | **Thrombosis — ریوی** (فصل ۱۴) |
 | **Hypothermia** (فصل ۸۲) | **Thrombosis — قلبی** (MI، فصل ۸) |
@@ -61,9 +61,9 @@
 ---
 
 ## ۳. پس از بازگشت دوران (ROSC)
-- **ABC:** راه هوایی؛ **اکسیجن کافی ولی نه زیاد**؛ فشار کافی.
+- **ABCDE:** راه هوایی؛ **SpO₂ هدف ۹۴–۹۸ فیصد** و PaCO₂ نورمال؛ **فشار سیستولیک بالاتر از ۱۰۰ mmHg** (الگوریتم ERC 2025 ALS).
 - **ECG ۱۲ لیده:** اگر STEMI → **Cath عاجل** (فصل ۸).
-- **جلوگیری از تب و کنترول حرارت** در مریضی که بیدار نیست؛ علت را تداوی کن. *(اهداف دقیق حرارت، فشار و SpO₂ → SD-68.)*
+- **جلوگیری از تب و کنترول حرارت** در مریضی که بیدار نیست؛ علت را تداوی کن. *(هدف دقیق حرارت و مدت کنترول آن → SD-68.)*
 - **قند و تشنج** را کنترول کن (فصل ۵۵).
 - **پروگنوز عصبی را زود تعیین نکن.**
 
@@ -77,7 +77,7 @@
 ### چهار نوع — تفریق با معاینه
 | نوع | علت‌ها | JVP | پوست | کلید تداوی |
 |---|---|---|---|---|
-| **Hypovolaemic** | خون‌ریزی (فصل ۲۵)، اسهال و استفراغ (فصل ۲۹)، سوختگی (فصل ۸۱) | **پایین** | سرد | **مایع یا خون**، و توقف خون‌ریزی |
+| **Hypovolaemic** | خونریزی (فصل ۲۵)، اسهال و استفراغ (فصل ۲۹)، سوختگی (فصل ۸۱) | **پایین** | سرد | **مایع یا خون**، و توقف خونریزی |
 | **Distributive** | **Sepsis** (فصل ۶۷)، **Anaphylaxis** (فصل ۸۱)، Neurogenic، Adrenal crisis (فصل ۵۰) | پایین یا عادی | **گرم** (اوایل) | مایع + Noradrenaline؛ **Adrenaline در Anaphylaxis**؛ Hydrocortisone در Adrenal |
 | **Cardiogenic** | **MI** (فصل ۸)، Arrhythmia، عدم کفایهٔ حاد قلب (فصل ۷) | **بلند**، رال ریه | سرد | **مایع زیاد نه**؛ Inotrope؛ Revascularization |
 | **Obstructive** | **Tamponade**، **Tension pneumothorax**، **PE شدید** (فصل ۱۴) | **بلند**، ریه پاک | سرد | **رفع انسداد**: Pericardiocentesis، کشیدن هوا، Thrombolysis |
@@ -138,3 +138,4 @@
 ## 📚 References
 1. American Heart Association. 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care — Part 9: Adult Advanced Life Support. *Circulation.* 2025. cpr.heart.org.
 2. American Heart Association. Adult Cardiac Arrest Circular Algorithm. 2025.
+3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3) — (بخش‌های Vasopressor، Antiarrhythmic و Other medication خوانده شد ۲۰۲۶-۰۹-۲۵).

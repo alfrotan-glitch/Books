@@ -1,4 +1,4 @@
-# فصل ۲۶ — قرحهٔ هضمیه، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
+# فصل ۲۶ — قرحهٔ هضمی، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 
 > **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2024 H. pylori، Maastricht VI 2022، ACG 2022 GERD، ACG/CAG 2017 Dyspepsia (جاری).*
 
@@ -16,11 +16,11 @@
 
 💡 **دو قاعدهٔ طلایی:** «**بدون اسید، قرحه نیست**» (Schwarz 1910) و «**بدون H. pylori و NSAID، قرحه بسیار نادر است**».
 
-> 🔗 **اتصال به گذشته:** در فصل ۲۴ **درد شرسوفی** و **ALARM** را دیدی؛ در فصل ۲۵ **قرحهٔ خونریزی‌دهنده**، **Forrest** و **PPI IV**؛ در فصل ۵ **Aspirin و DAPT** (خطر GI)؛ و در فصل ۲۳ **GERD به حیث علت سرفهٔ مزمن**.
+> 🔗 **اتصال به گذشته:** در فصل ۲۴ **درد شرسوفی** و **ALARM** را دیدی؛ در فصل ۲۵ **قرحهٔ خونریزی‌دهنده**، **Forrest** و **PPI IV**؛ در فصل ۸ **Aspirin و DAPT** (خطر GI)؛ و در فصل ۲۳ **GERD به حیث علت سرفهٔ مزمن**.
 
 ---
 
-## الف) قرحهٔ هضمیه و H. pylori
+## الف) قرحهٔ هضمی و H. pylori
 
 ## 🔹 ۱. Core Concept
 ⚗️ **فرمول:** `قرحه = (H. pylori یا NSAID/Aspirin) + اسید ← تداوی = ریشه‌کنی H. pylori + قطع NSAID + PPI ۴–۸ هفته ← تأیید ریشه‌کنی`
@@ -35,7 +35,7 @@
 
 ## 🔹 ۳. Pathophysiology — Step-by-step
 **H. pylori:**
-1. انتقال **دهان به دهان / غایطه به دهان** در **طفولیت** (ازدحام خانه، آب ناسالم) ← شیوع در افغانستان حدود **۵۰–۸۰ فیصد** بزرگسالان (تخمینی از منطقه).
+1. انتقال **دهن به دهن یا غایطه به دهن** در **طفولیت** (ازدحام خانه، آب ناسالم) ← شیوع در افغانستان حدود **۵۰–۸۰ فیصد** بزرگسالان (تخمینی از منطقه).
 2. باکتری با **Urease** (یوریا ← امونیا) اسید اطراف خود را خنثی می‌کند و با **فلاجیلا** در مخاط حرکت می‌کند.
 3. **سم‌ها (CagA، VacA)** ← **گاستریت مزمن فعال**.
 4. **الگوی گاستریت** سرنوشت را تعیین می‌کند:
@@ -91,7 +91,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 ### الف) Emergency & General Care
 - **خونریزی** ← فصل ۲۵.
 - **انثقاب** ← احیا، NPO، **PPI IV**، **انتی‌بیوتیک وسیع‌الطیف** (رژیم و دوز → فصل ۲۷)، **جراحی (ترمیم با Omental patch)**؛ روش **Taylor** (محافظه‌کارانه با NG) فقط در موارد منتخب با انثقاب بسته‌شده.
-- **انسداد خروجی معده** ← NG tube، مایعات IV و اصلاح الکترولیت‌ها (**آلکالوز متابولیک هایپوکلورمیک هایپوکالمیک**)، PPI IV، **اتساع با بالون اندوسکوپیک** یا جراحی؛ ⚠️ **سرطان را رد کن**.
+- **انسداد خروجی معده** ← NG tube، مایعات IV و اصلاح الکترولیت‌ها (**آلکالوز متابولیک هایپوکلورمیک هایپوکالیمیک**)، PPI IV، **اتساع با بالون اندوسکوپیک** یا جراحی؛ ⚠️ **سرطان را رد کن**.
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
@@ -108,7 +108,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 | **حساسیت به پنسلین** | **BQT** (بدون Amoxicillin) | — |
 
 **تداوی نجات (Rescue) — پس از ناکامی:**
-- **اصل:** **آنتی‌بیوتیکی را که قبلاً استفاده شده تکرار نکن** (به‌جز Amoxicillin، Tetracycline، و گاهی Metronidazole با دوز بلند)؛ ترجیحاً بر اساس **کلچر یا تست مالیکولی مقاومت**.
+- **اصل:** **انتی‌بیوتیکی را که قبلاً استفاده شده تکرار نکن** (به‌جز Amoxicillin، Tetracycline، و گاهی Metronidazole با دوز بلند)؛ ترجیحاً بر اساس **کلچر یا تست مالیکولی مقاومت**.
 - اگر خط اول غیر BQT بوده ← **BQT**.
 - اگر BQT ناکام شده ← **Rifabutin triple** یا **Vonoprazan dual**؛ یا **Levofloxacin triple** (PPI + **Levofloxacin ۵۰۰ mg روزانه** + Amoxicillin ۱ g دو بار × ۱۴ روز) **فقط اگر حساسیت ثابت باشد** — ⚠️ **Levofloxacin در افغانستان برای سل مقاوم ذخیره است (فصل ۱۹)**.
 
@@ -149,11 +149,11 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 
 ## ↩️ برگشت به مریض
 
-- **علایم ALARM** ندارد، اما **سابقهٔ خانوادگی سرطان معده** دارد → Endoscopy با بیوپسی معقول است (بخش ۸ و فصل ۲۴).
+- **علایم ALARM** ندارد، اما **تاریخچهٔ فامیلی سرطان معده** دارد → Endoscopy با بیوپسی معقول است (بخش ۸ و فصل ۲۴).
 - **تست H. pylori:** Urea breath test یا Stool antigen؛ **PPI دو هفته پیش از تست قطع شود**، چون نتیجهٔ منفی کاذب می‌دهد.
 - **نتیجه:** قرحهٔ اثنی‌عشر و H. pylori مثبت → **Bismuth quadruple برای ۱۴ روز** (بخش ۱۰، ACG 2024) — در ساحه‌ای که مقاومت Clarithromycin بلند است، رژیم Clarithromycin‌دار انتخاب اول نیست.
 - **تأیید ریشه‌کن شدن:** حد اقل چهار هفته پس از ختم انتی‌بیوتیک، دوباره تست — این مرحله اکثراً فراموش می‌شود.
-- **خانواده:** در بستگان درجه اول مریض سرطان معده، ریشه‌کن کردن H. pylori خطر را کم می‌کند.
+- **خانواده:** در اقارب درجهٔ اول مریض سرطان معده، ریشه‌کن کردن H. pylori خطر را کم می‌کند.
 
 ---
 
@@ -205,7 +205,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 اکثراً **نورمال**؛ چاقی؛ فرسایش دندان؛ آثار Scleroderma (جلد، Raynaud).
 
 ## 🔹 ۷. Quick Differential Diagnosis
-⚠️ **ACS** (درد سینه — ECG/تروپونین)؛ **Eosinophilic oesophagitis** (جوان، دیسفاژی، Food bolus)؛ **Achalasia** (برگشت غذای هضم‌نشده)؛ ازوفاژیت انتانی (Candida) یا دوایی؛ قرحهٔ هضمیه؛ **Functional heartburn**؛ **سرطان مری**.
+⚠️ **ACS** (درد سینه — ECG/تروپونین)؛ **Eosinophilic oesophagitis** (جوان، دیسفاژی، Food bolus)؛ **Achalasia** (برگشت غذای هضم‌نشده)؛ ازوفاژیت انتانی (Candida) یا دوایی؛ قرحهٔ هضمی؛ **Functional heartburn**؛ **سرطان مری**.
 
 ## 🔹 ۸. Investigations
 - **بدون ALARM:** **امتحان PPI** (تشخیص کلینیکی).
@@ -230,8 +230,8 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 | | **H2RA** (مثلاً **Famotidine**) | **۲۰ mg فمی دو بار در روز** یا در صورت ضرورت؛ تنظیم در عدم کفایهٔ گرده (CrCl کمتر از ۵۰: نصف دوز)؛ ⚠️ Tachyphylaxis؛ ⚠️ **Ranitidine از بازار جمع شد** (NDMA — FDA 2020) |
 | **GERD کلاسیک یا EE** | **PPI دوز استندرد یک بار در روز** | **۳۰–۶۰ دقیقه پیش از صبحانه** — **۸ هفته** |
 | **پاسخ ناکافی** | PPI **دو بار در روز** (پیش از صبحانه و شام) یا تبدیل به PPI دیگر | ۸ هفته |
-| **EE شدید (LA C/D)** | **Vonoprazan ۲۰ mg فمی روزانه × ۸ هفته**، سپس **۱۰ mg روزانه** برای حفظیه (تأیید FDA 2023) | مؤثرتر از Lansoprazole در بهبود LA C/D |
-| **حفظیه** | **کمترین دوز مؤثر PPI** یا **در صورت ضرورت (On-demand)** در NERD | ⚠️ **در LA C/D و Barrett: PPI دوامدار** |
+| **EE شدید (LA C/D)** | **Vonoprazan ۲۰ mg فمی روزانه × ۸ هفته**، سپس **۱۰ mg روزانه** برای نگهدارنده (تأیید FDA 2023) | مؤثرتر از Lansoprazole در بهبود LA C/D |
+| **نگهدارنده** | **کمترین دوز مؤثر PPI** یا **در صورت ضرورت (On-demand)** در NERD | ⚠️ **در LA C/D و Barrett: PPI دوامدار** |
 | **Regurgitation شبانه / اعراض شبانه** | H2RA شب (کوتاه‌مدت) | — |
 | **Reflux hypersensitivity / Functional heartburn** | **دواهای عصبی تعدیل‌کننده با دوز پایین** (مثلاً **Amitriptyline ۱۰–۲۵ mg شب**) | ۸–۱۲ هفته |
 
@@ -273,7 +273,6 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - ⚠️ **ناتوانی از بلع بزاق** ← Food bolus ← اندوسکوپی عاجل.
 
 ## 📚 References
-- Chey WD, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
 - Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. **ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.** Am J Gastroenterol. 2022;117:27–56.
@@ -283,7 +282,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole وقایوی با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
+- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole پیشگیرانه با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سوء هاضمه: **ALARM + سن + NSAID** را بپرس.

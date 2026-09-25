@@ -98,7 +98,7 @@
 |---|---|---|
 | **DKA / HHS** | قند بلند + Ketone/اسیدوز یا Osmolality بسیار بلند | ۴۷ |
 | **Hypoglycaemia** | اختلال شعور در مریض دیابتی → **اول قند** | ۵۲ |
-| **Adrenal crisis** | شاک مقاوم، استفراغ، Na⁺ ↓، K⁺ ↑ → **Hydrocortisone را برای تست به تعویق نینداز** | ۵۰ |
+| **Adrenal crisis** | شوک مقاوم، استفراغ، Na⁺ ↓، K⁺ ↑ → **Hydrocortisone را برای تست به تعویق نینداز** | ۵۰ |
 | **Thyroid storm** | تب، Tachycardia/AF، اختلال شعور، Hyperthyroidism | ۴۸ |
 | **Myxoedema coma** | Hypothermia، Bradycardia، کوما، Hypothyroidism | ۴۹ |
 | **Hypercalcaemic crisis / Hypocalcaemia شدید** | اختلال شعور / Tetany | ۴۲، ۵۱ |
@@ -139,7 +139,7 @@
 | Cortisol عصر برای کمبود | صبح زود یا تست تحریک |
 | MRI هیپوفیز پیش از ثبوت بیوشیمیک | اول بیوشیمی |
 | نادیده گرفتن Biotin | همیشه دربارهٔ مکمل‌ها بپرس |
-| انتظار نتیجهٔ Cortisol در شاک | Hydrocortisone فوراً |
+| انتظار نتیجهٔ Cortisol در شوک | Hydrocortisone فوراً |
 | Prolactin «کمی بلند» با تومور بزرگ = Non-functioning | Hook effect را رد کن |
 
 ---
@@ -150,13 +150,13 @@
 - 💡 **«کمبود → تحریک؛ زیادت → سرکوب.»**
 - 💡 **«اول بیوشیمی، بعد عکس.»**
 - 💡 **«عدد عجیب؟ Biotin، Heterophile، Hook.»**
-- 💡 **«شاک + شک Addison = Hydrocortisone حالا، تست بعداً.»**
+- 💡 **«شوک + شک Addison = Hydrocortisone حالا، تست بعداً.»**
 
 ---
 
 ## ⚠️ Red Flags (اقدام فوری)
 
-- ⚠️ شاک بی‌دلیل با Na⁺ پایین و K⁺ بلند → Adrenal crisis.
+- ⚠️ شوک بی‌دلیل با Na⁺ پایین و K⁺ بلند → Adrenal crisis.
 - ⚠️ سردرد ناگهانی شدید با اختلال دید → Pituitary apoplexy.
 - ⚠️ اختلال شعور در مریض دیابتی → قند فوراً.
 - ⚠️ تب بلند + AF + سابقهٔ تایروئید → Thyroid storm.
@@ -169,7 +169,6 @@
 
 1. U.S. Food and Drug Administration. *Biotin (Vitamin B7): Safety Communication — May Interfere with Lab Tests* (2017; updated 2019).
 2. Jameson JL, et al., eds. *Harrison's Principles of Internal Medicine* — Approach to the patient with endocrine disorders (اصول عمومی؛ بدون عدد مشخص نقل‌شده).
-3. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 4. رهنمودهای مخصوص هر مرض در فصل‌های ۴۶–۵۲.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** این فصل اصول می‌دهد و عدد دوایی ندارد. نام‌گذاری جدید DI (AVP deficiency/resistance) در فصل ۴۴ آمده. **CURRENTNESS NOTE:** متن هشدار FDA در این نشست دوباره خوانده نشد (SD-32).

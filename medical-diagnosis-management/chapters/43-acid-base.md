@@ -60,8 +60,8 @@
 **Metabolic acidosis — Anion gap بلند:**
 | علت | کلید |
 |---|---|
-| **Lactic acidosis** | شاک، سپسیس، Hypoxia، ایسکیمی روده؛ Metformin (نادر) |
-| **Ketoacidosis** | DKA (فصل ۴۷)، گرسنگی، الکهول |
+| **Lactic acidosis** | شوک، سپسیس، Hypoxia، ایسکیمی روده؛ Metformin (نادر) |
+| **Ketoacidosis** | DKA (فصل ۴۷)، گرسنگی، الکول |
 | **Uraemia** | CKD/AKI پیشرفته (فصل ۳۸–۳۹) |
 | **سموم** | **Methanol**، **Ethylene glycol**، **Salicylate**، Paracetamol (Pyroglutamic acidosis) |
 
@@ -80,7 +80,7 @@
 | Diuretic (پس از قطع) | Bartter/Gitelman، Diuretic فعال |
 | Post-hypercapnia | Hypokalaemia شدید، قلوی زیاد |
 
-**Respiratory acidosis:** COPD (فصل‌های تنفسی)، Obesity hypoventilation، Opioid/Benzodiazepine، Guillain–Barré/Myasthenia، خستگی تنفسی در آسما شدید.
+**Respiratory acidosis:** COPD (فصل ۱۶)، Obesity hypoventilation، Opioid/Benzodiazepine، Guillain–Barré/Myasthenia، خستگی تنفسی در آسما شدید.
 
 **Respiratory alkalosis:** اضطراب، درد، Hypoxia، PE، پنومونیا، سپسیس اولیه، Salicylate (مرحلهٔ اول)، مرض کبد، حاملگی.
 
@@ -90,9 +90,9 @@
 
 اسید–قلوی خودش کمتر علامت می‌دهد؛ **علت** علامت می‌دهد. اما:
 - **Acidaemia شدید:** تنفس Kussmaul، فشار پایین (کاهش انقباض قلب و پاسخ به Vasopressor)، Arrhythmia، اختلال شعور.
-- **Alkalaemia شدید:** Paraesthesia، کرمپ، Tetany (Ionized calcium ↓)، Arrhythmia، Hypokalaemia.
+- **Alkalaemia شدید:** Paraesthesia، کرامپ، Tetany (Ionized calcium ↓)، Arrhythmia، Hypokalaemia.
 - **Hypercapnia:** سردرد، خواب‌آلودگی، Flapping tremor، **CO₂ narcosis** تا کوما.
-- **Hypocapnia حاد:** سرچرخی، Paraesthesia گرد دهن، کرمپ دست.
+- **Hypocapnia حاد:** سرچرخی، Paraesthesia گرد دهن، کرامپ دست.
 
 ---
 
@@ -101,7 +101,7 @@
 - **سرعت و عمق تنفس** — Kussmaul (عمیق) در مقابل سطحی/آهسته (Hypoventilation).
 - وضع حجم (کم‌آبی در استفراغ/اسهال/DKA).
 - بوی **Ketone** (میوهٔ پخته).
-- علایم شاک و انتان.
+- علایم شوک و انتان.
 - **مردمک و بینایی** (Methanol — تاری دید، «برف‌دیدن»).
 - Flapping tremor، مردمک‌های کوچک (Opioid).
 
@@ -111,8 +111,8 @@
 
 | یافته | فکر کن به |
 |---|---|
-| Anion gap بلند + Ketone | DKA، الکهول، گرسنگی |
-| Anion gap بلند + Lactate بلند | شاک/سپسیس، ایسکیمی |
+| Anion gap بلند + Ketone | DKA، الکول، گرسنگی |
+| Anion gap بلند + Lactate بلند | شوک/سپسیس، ایسکیمی |
 | Anion gap بلند + **Osmolal gap بلند** + بدون Ketone/Lactate کافی | **Methanol / Ethylene glycol** |
 | Respiratory alkalosis + Metabolic acidosis | **Salicylate**، سپسیس |
 | Anion gap نورمال + اسهال | ضیاع روده‌ای |
@@ -130,7 +130,7 @@
 - **Lactate**، **Ketones** (خون ترجیح دارد).
 
 **پیشرفته (نظر به تابلو):**
-- **Osmolal gap** = Osmolality سنجیده − Osmolality محاسبه‌شده — برای الکهول‌های سمی.
+- **Osmolal gap** = Osmolality سنجیده − Osmolality محاسبه‌شده — برای الکول‌های سمی.
 - سطح Salicylate، Paracetamol؛ Methanol/Ethylene glycol اگر در دسترس است (اکثراً نیست — تشخیص بالینی + Osmolal gap).
 - **Chloride ادرار** در Metabolic alkalosis.
 - **Urine anion gap** و pH ادرار در Metabolic acidosis با Anion gap نورمال (RTA در مقابل اسهال).
@@ -174,14 +174,14 @@
 ## 🔹 ۱۰. Management (تداوی)
 
 ### ۱۰.۱ اصل اول: علت را تداوی کن
-اسید–قلوی یک **علامت** است. Lactic acidosis با احیای جریان خون (فصل شاک/سپسیس)، DKA با Insulin و مایع (فصل ۴۷)، Hypercapnia با تهویه.
+اسید–قلوی یک **علامت** است. Lactic acidosis با احیای جریان خون (فصل ۷۷ و ۶۷)، DKA با Insulin و مایع (فصل ۴۷)، Hypercapnia با تهویه.
 
 ### ۱۰.۲ Sodium bicarbonate در Metabolic acidosis شدید — شواهد
 
 | کارآزمایی | جمعیت | نتیجه |
 |---|---|---|
 | **BICAR-ICU** (Jaber، Lancet 2018) | ICU، Metabolic acidaemia شدید (pH حدود ۷.۲۰ یا پایین‌تر) | در مجموع مرگ/عدم کفایهٔ ارگان را **کم نکرد**؛ در زیرگروه **AKI** (AKIN 2–3) مرگ ۲۸ روزه کمتر بود |
-| 🔄 **BICARICU-2** (2025) | Acidaemia شدید + **AKI متوسط تا شدید** | **مرگ ۹۰ روزه را کم نکرد** (۶۲.۱٪ در مقابل ۶۱.۷٪)؛ استفادهٔ KRT تا روز ۲۸ **کمتر** بود (۳۵٪ در مقابل ۵۰٪) |
+| 🔄 **BICARICU-2** (2025) | Acidaemia شدید + **AKI متوسط تا شدید** | **مرگ ۹۰ روزه را کم نکرد** (۶۲.۱ فیصد در مقابل ۶۱.۷ فیصد)؛ استفادهٔ KRT تا روز ۲۸ **کمتر** بود (۳۵ فیصد در مقابل ۵۰ فیصد) |
 
 **تفسیر (secondary interpretation):** فایدهٔ مرگ‌ومیر که زیرگروه BICAR-ICU نشان داد، در کارآزمایی تأییدی BICARICU-2 **تکرار نشد**؛ اما Bicarbonate ممکن است نیاز به دیالیز را کم یا به تعویق اندازد. Bicarbonate **روتین نیست**؛ تصمیم در ICU/متخصص.
 
@@ -190,8 +190,8 @@
 - 🔒 **دوز Bicarbonate** (وریدی/فمی) از منبع اولیه تأیید نشد → **SD-29**.
 - **DKA:** Bicarbonate روتین نه → فصل ۴۷.
 
-### ۱۰.۳ الکهول‌های سمی (Methanol، Ethylene glycol)
-- در افغانستان و منطقه، **Methanol در الکهول تقلبی** سبب مسمومیت‌های گروهی می‌شود.
+### ۱۰.۳ الکول‌های سمی (Methanol، Ethylene glycol)
+- در افغانستان و منطقه، **Methanol در الکول تقلبی** سبب مسمومیت‌های گروهی می‌شود.
 - تداوی: **Fomepizole** (یا Ethanol اگر Fomepizole نیست) برای بستن Alcohol dehydrogenase، **Haemodialysis**، Bicarbonate برای اسیدوز، Folate/Folinic acid (Methanol)، Thiamine/Pyridoxine (Ethylene glycol).
 - 🔒 دوزها و آستانه‌های دیالیز → **SD-29**؛ با مرکز سموم/متخصص.
 
@@ -201,9 +201,9 @@
 - مقاوم در مریض پرحجم: Acetazolamide یا دیالیز — تصمیم متخصص (دوز → SD-29).
 
 ### ۱۰.۵ Respiratory acidosis
-- علت: برگرداندن Opioid (Naloxone — فصل سموم)، تداوی COPD/آسما.
-- **Non-invasive ventilation (NIV)** در COPD هایپرکپنیک (فصل‌های تنفسی)؛ تهویهٔ میخانیکی در ناکامی.
-- ⚠️ **اکسیجن کنترول‌شده** در COPD مزمن هایپرکپنیک — اکسیجن زیاد CO₂ را بلندتر می‌کند (فصل‌های تنفسی برای هدف Saturation).
+- علت: برگرداندن Opioid (Naloxone — فصل ۸۰)، تداوی COPD/آسما.
+- **Non-invasive ventilation (NIV)** در COPD هایپرکپنیک (فصل ۱۶ و ۲۲)؛ تهویهٔ میخانیکی در ناکامی.
+- ⚠️ **اکسیجن کنترول‌شده** در COPD مزمن هایپرکپنیک — اکسیجن زیاد CO₂ را بلندتر می‌کند (فصل ۲۲ برای هدف Saturation).
 - ⚠️ در Respiratory acidosis مزمن، CO₂ را **خیلی سریع** پایین نیاور → Post-hypercapnic metabolic alkalosis.
 
 ### ۱۰.۶ Respiratory alkalosis
@@ -227,7 +227,7 @@
 
 ## 🔹 ۱۲. Prognosis & Follow-up
 
-- پیش‌بینی = پیش‌بینی **علت** (Lactic acidosis در شاک بد؛ اسیدوز اسهال خوب).
+- پیش‌بینی = پیش‌بینی **علت** (Lactic acidosis در شوک بد؛ اسیدوز اسهال خوب).
 - ABG و Lactate را پس از تداوی تکرار کن — روند مهمتر از یک عدد است.
 - RTA و CKD: پیگیری مزمن HCO₃⁻ (فصل ۳۹).
 
@@ -249,7 +249,7 @@
 - ⚠️ PaCO₂ **بالاتر** از Winter در Metabolic acidosis → مریض خسته؛ آمادهٔ حمایت تنفسی.
 - ⚠️ pH بسیار پایین با فشار پایین → ICU.
 - ⚠️ Anion gap بلند + Osmolal gap بلند + تاری دید → **Methanol** — تداوی را برای تست تأییدی به تعویق نینداز.
-- ⚠️ چند مریض هم‌زمان با اسیدوز و تاری دید پس از نوشیدن الکهول → **شیوع گروهی Methanol**؛ اطلاع به صحت عامه.
+- ⚠️ چند مریض هم‌زمان با اسیدوز و تاری دید پس از نوشیدن الکول → **شیوع گروهی Methanol**؛ اطلاع به صحت عامه.
 - ⚠️ «Hyperventilation اضطرابی» پیش از رد PE، سپسیس و Salicylate.
 - ⚠️ اکسیجن زیاد در COPD هایپرکپنیک.
 
@@ -260,7 +260,6 @@
 1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40 — (خلاصهٔ Wiki Journal Club بررسی شد).
 2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025 — (خلاصهٔ The Bottom Line، نوامبر ۲۰۲۵ بررسی شد؛ متن اصلی خوانده نشد → SD-29).
 3. University of Colorado Internal Medicine Residency. *Evaluation of Acid-Base Disorders* (suggested reading PDF) — فورمول‌های جبران.
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** مهمترین تغییر: **BICARICU-2 (2025)** فایدهٔ مرگ‌ومیر زیرگروه AKI در BICAR-ICU را تأیید نکرد — متن این فصل بر اساس جدیدترین شواهد نوشته شد. فورمول‌های جبران دهه‌ها ثابت مانده‌اند.
 
@@ -269,7 +268,7 @@
 ## ↩️ برگشت به کیس: همان گاز خون، حالا با سه جواب
 
 مریض دیابتی ما را دوباره ببین؛ این بار با همان سه سؤال:
-- **Anion gap بلند است** → پس اسید اضافی داریم، نه فقط ضیاع HCO₃⁻. در مریض دیابتی با استفراغ، محتمل‌ترین اسید Ketone است. اما چیزی که «نباید از دست برود» Lactate (شاک، Sepsis) و تسمم است. بنابراین Ketone و Lactate هر دو را می‌فرستیم.
+- **Anion gap بلند است** → پس اسید اضافی داریم، نه فقط ضیاع HCO₃⁻. در مریض دیابتی با استفراغ، محتمل‌ترین اسید Ketone است. اما چیزی که «نباید از دست برود» Lactate (شوک، Sepsis) و تسمم است. بنابراین Ketone و Lactate هر دو را می‌فرستیم.
 - **جبران تنفسی را با Winter می‌سنجیم.** اگر PaCO₂ بالاتر از حد پیش‌بینی باشد، مریض به عبارت ساده «خسته شده» است و یک Respiratory acidosis پنهان دارد. این یافته تصمیم را عوض می‌کند: مریض دیگر فقط مایع و Insulin نمی‌خواهد، بلکه نظارت شدید تنفسی هم لازم دارد.
 - **Delta-delta به سؤال سوم جواب می‌دهد.** اگر HCO₃⁻ **بیشتر از انتظار** (نظر به افزایش AG) بلند مانده باشد، استفراغ یک Metabolic alkalosis را پنهان کرده است. یعنی ضیاع Chloride و حجم هم باید اصلاح شود.
 
@@ -293,7 +292,7 @@
 - **فصل ۴۴:** آب و Sodium.
 - **فصل ۴۷:** DKA/HHS.
 - **فصل ۵۰:** Hyperaldosteronism.
-- **فصل‌های تنفسی:** COPD، NIV، اکسیجن کنترول‌شده.
+- **فصل‌های ۱۶ و ۲۲:** COPD، NIV، اکسیجن کنترول‌شده.
 
 ---
 

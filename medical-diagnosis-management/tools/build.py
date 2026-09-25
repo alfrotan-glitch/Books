@@ -199,18 +199,18 @@ def build_docx():
     blocks = parse_blocks(md)
     for kind, payload in blocks:
         if kind == "h1":
-            p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(0); set_rtl(p)
+            p = doc.add_paragraph(); p.style = doc.styles["Heading 1"]; p.paragraph_format.page_break_before = True; p.paragraph_format.space_before = Pt(0); set_rtl(p)
             r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(19); r.font.color.rgb = RGBColor.from_string(TEAL); r.font.name = "Vazirmatn"
             p2 = doc.add_paragraph(); set_rtl(p2)
             r2 = p2.add_run("❖ " * 20); r2.font.color.rgb = RGBColor.from_string(GOLD); r2.font.size = Pt(8)
         elif kind == "h2":
-            p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(14); set_rtl(p)
+            p = doc.add_paragraph(); p.style = doc.styles["Heading 2"]; p.paragraph_format.space_before = Pt(14); set_rtl(p)
             r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(14.5); r.font.color.rgb = RGBColor.from_string(NAVY); r.font.name = "Vazirmatn"
         elif kind == "h3":
-            p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(10); set_rtl(p)
+            p = doc.add_paragraph(); p.style = doc.styles["Heading 3"]; p.paragraph_format.space_before = Pt(10); set_rtl(p)
             r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(12.5); r.font.color.rgb = RGBColor.from_string(TEAL); r.font.name = "Vazirmatn"
         elif kind == "h4":
-            p = doc.add_paragraph(); p.paragraph_format.space_before = Pt(8); set_rtl(p)
+            p = doc.add_paragraph(); p.style = doc.styles["Heading 4"]; p.paragraph_format.space_before = Pt(8); set_rtl(p)
             r = p.add_run(payload.replace("*", "")); r.bold = True; r.font.size = Pt(11.5); r.font.name = "Vazirmatn"
         elif kind == "p":
             p = doc.add_paragraph(); set_rtl(p); add_runs(p, payload)
@@ -399,11 +399,13 @@ def build_epub():
         z.writestr("OEPUB/style.css", EPUB_CSS)
         for fname, xhtml, title in chap_files:
             z.writestr(f"OEPUB/{fname}", xhtml)
-    # fix numitem tags in epub files (shouldn't exist, but sanitize)
     print(f"EPUB: {out}")
 
 if __name__ == "__main__":
     target = sys.argv[1] if len(sys.argv) > 1 else "all"
+    # appendix 95 is always regenerated from the chapters, so it can never go stale
+    import subprocess
+    subprocess.run([sys.executable, str(ROOT / "tools" / "gen_references.py")], check=True)
     if target in ("all", "pdf"): build_pdf()
     if target in ("all", "docx"): build_docx()
     if target in ("all", "epub"): build_epub()

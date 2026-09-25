@@ -53,7 +53,7 @@
 
 **Hypernatraemia:**
 1. ضیاع آب بیشتر از Sodium (تب، تعرق، اسهال، Diuresis اسموتیک، DI) **+ دسترسی ناکافی به آب**.
-2. آب از حجرات مغز بیرون می‌آید → حجرات چروک → اختلال شعور، خون‌ریزی داخل جمجمه (کشیدن رگ‌ها).
+2. آب از حجرات مغز بیرون می‌آید → حجرات چروک → اختلال شعور، خونریزی داخل جمجمه (کشیدن رگ‌ها).
 
 **Diabetes insipidus (Arginine vasopressin deficiency/resistance):**
 - **مرکزی** (نام جدید: AVP deficiency): ADH ساخته نمی‌شود (جراحی/ترضیض/تومور هیپوفیز).
@@ -73,7 +73,7 @@
 | Addison (Mineralocorticoid) | نوشیدن آب زیاد (Psychogenic polydipsia)، **Beer potomania/رژیم «چای و نان»** | — |
 |  | ورزش استقامتی | — |
 
-**علل SIADH:** مغزی (Meningitis، ترضیض، Stroke، خون‌ریزی)، ششی (پنومونیا، **TB**)، تومور (**Small cell lung cancer**)، **دوا** (SSRIs، Carbamazepine/Oxcarbazepine، Cyclophosphamide، Opioids، **MDMA**)، درد و دلبدی پس از جراحی.
+**علل SIADH:** مغزی (Meningitis، ترضیض، Stroke، خونریزی)، ششی (پنومونیا، **TB**)، تومور (**Small cell lung cancer**)، **دوا** (SSRIs، Carbamazepine/Oxcarbazepine، Cyclophosphamide، Opioids، **MDMA**)، درد و دلبدی پس از جراحی.
 
 **Hyponatraemia غیر Hypotonic:** **Hyperglycaemia** (آب را از حجرات بیرون می‌کشد)، Mannitol؛ **Pseudohyponatraemia** (Lipid یا پروتین بسیار بلند با روش غیرمستقیم).
 
@@ -95,7 +95,7 @@
 
 ## 🔹 ۶. Clinical Examination
 
-- **وضع حجم** — مهمترین و **غیرقابل‌اعتمادترین** معاینه: فشار ایستاده/نشسته، JVP، خشکی مخاط، اذیما، Ascites.
+- **وضع حجم** — مهمترین و **غیرقابل‌اعتمادترین** معاینه: فشار ایستاده/نشسته، JVP، خشکی مخاط، ادیما، Ascites.
 - سطح شعور (GCS)، علایم عصبی بؤرهٔ.
 - علایم مرض زمینه‌ای: عدم کفایهٔ قلب، سیروز، Hypothyroidism، Addison (پیگمانتیشن، فشار پایین)، کتلهٔ ششی.
 
@@ -158,7 +158,7 @@
 
 - **فرق هدف و حد:** **هدف** = ۵ mmol/L برای رفع خطر؛ **حد** = مرزی که نباید عبور کرد.
 - **رهنمود امریکایی (Verbalis 2013):** بولوس **۱۰۰ mL** 3% (به جای ۱۵۰ mL)؛ در مریضان **پرخطر برای ODS** حد سخت‌تر **۸ mmol/L در ۲۴ ساعت اول** (**اختلاف منابع**، EJE 2025).
-- **پرخطر برای ODS:** Hypokalaemia، سوءتغذیه، **الکهولیزم**، مرض پیشرفتهٔ کبد، Sodium بسیار پایین.
+- **پرخطر برای ODS:** Hypokalaemia، سوءتغذیه، **الکولیزم**، مرض پیشرفتهٔ کبد، Sodium بسیار پایین.
 - 🔄 **کارآزمایی SALSA (2021)** بولوس سریع را با انفیوژن آهسته مقایسه کرد؛ اصلاح بیش از حد در هر دو رخ داد. **CURRENTNESS NOTE:** مطالعات مشاهده‌ای 2023–2025 پیشنهاد می‌کنند که حدهای سخت شاید بیش از حد محافظه‌کار باشند؛ رهنمود رسمی تا کنون تغییر نکرده (SD-31).
 
 ### ۱۰.۲ علایم **متوسط**
@@ -197,7 +197,7 @@
 | **Cerebral oedema، اختلاج، Herniation** | Hyponatraemia حاد شدید |
 | **Osmotic demyelination syndrome** | اصلاح سریع Hyponatraemia مزمن |
 | افتادن، کسر، اختلال حافظه | Hyponatraemia مزمن «خفیف» |
-| خون‌ریزی داخل جمجمه | Hypernatraemia شدید حاد |
+| خونریزی داخل جمجمه | Hypernatraemia شدید حاد |
 | Cerebral oedema | اصلاح سریع Hypernatraemia مزمن |
 
 ---
@@ -225,7 +225,7 @@
 
 - ⚠️ Hyponatraemia با **استفراغ، خواب‌آلودگی، اختلاج** → Saline 3% فوراً.
 - ⚠️ **ادرار زیاد رقیق** در جریان تداوی (Aquaresis) → Sodium هر چند ساعت؛ خطر اصلاح بیش از حد.
-- ⚠️ الکهولیزم، سوءتغذیه، Hypokalaemia، مرض کبد → حد اصلاح سخت‌تر.
+- ⚠️ الکولیزم، سوءتغذیه، Hypokalaemia، مرض کبد → حد اصلاح سخت‌تر.
 - ⚠️ فشار پایین + Hyponatraemia + K⁺ بلند → **Addisonian crisis** (فصل ۵۰).
 - ⚠️ مریض بعد از جراحی هیپوفیز با پُرادراری → DI.
 - ⚠️ مسن کوماتوز با Sodium بلند → کمبود شدید آب؛ انتان را جستجو کن.
@@ -238,7 +238,6 @@
 2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013 — (به نقل از منابع ۳ و ۴؛ متن اصلی خوانده نشد).
 3. Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol*. 2025;192(6):754 — (اختلاف ۸ در مقابل ۱۰ mmol/L؛ ۱۰۰ در مقابل ۱۵۰ mL).
 4. Treatment of symptomatic hyponatremia with hypertonic saline: a real-life observational study. *Eur J Endocrinol*. 2021;184(5):647.
-5. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** رهنمود اروپایی 2014 هنوز مرجع رسمی است؛ مرور 2025 (EJE) اختلاف عمل در اروپا را نشان داد. نام‌گذاری جدید DI (AVP deficiency/resistance) در متن آمد. **CURRENTNESS NOTE (SD-31):** جستجوی نسخهٔ جدید رهنمود اروپایی و بحث حدود اصلاح پس از 2023 کامل نشد؛ متن SALSA اصلی خوانده نشد.
 

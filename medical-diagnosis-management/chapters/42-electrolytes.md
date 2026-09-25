@@ -111,7 +111,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 
 ### قدم ۳ — خارج کردن K⁺
 
-- **Potassium binders:** UKKA: **Sodium zirconium cyclosilicate** برای شدید داده شود و برای متوسط در نظر گرفته شود؛ **Patiromer** در متوسط/شدید در نظر گرفته شود. 🔒 دوزهای binder از متن کامل رهنمود تأیید نشد → **SD-27**.
+- **Potassium binders:** UKKA: **Sodium zirconium cyclosilicate** برای شدید داده شود و برای متوسط در نظر گرفته شود؛ **Patiromer** در متوسط/شدید در نظر گرفته شود. دوز در الگوریتم ERC 2025: **Sodium zirconium cyclosilicate ۱۰ g فمی** یا **Patiromer ۸.۴ g**؛ دوز نگهدارنده و مدت از برچسب تأیید نشد → **SD-27**.
 - **دیالیز:** Hyperkalaemia مقاوم، AKI شدید/Anuria، ESKD (فصل ۳۸).
 - **ادرار:** مایعات در کم‌آبی؛ Loop diuretic در مریض پرحجم با وظیفهٔ گرده (دوز → فصل ۷/۳۸).
 
@@ -124,7 +124,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 
 Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پس از تداوی: K⁺ و قند خون منظم؛ بازبینی دواها؛ پلان برای CKD.
 
-**توقف قلب از Hyperkalaemia (UKKA 25.x):** Calcium chloride وریدی + ۱۰ واحد Insulin با ۲۵ g Glucose در کنار پروتوکول احیای قلبی.
+**توقف قلب از Hyperkalaemia:** **۱۰ mL Calcium chloride 10% وریدی** و **۵۰ mmol Sodium bicarbonate وریدی** (از دو لاین جدا، یا با فلش در میان) (ERC 2025)، و ۱۰ واحد Insulin با ۲۵ g Glucose (UKKA)، در کنار پروتوکول احیای قلبی (فصل ۷۷).
 
 ---
 
@@ -133,12 +133,12 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 ## 🔹 ۱–۳. Core, Definition, Pathophysiology
 
 - K⁺ پایین → غشا بیش از حد منفی (Hyperpolarization) در عضله و تغییر بازقطبی قلب → ضعف، Ileus، Arrhythmia.
-- علل سه گروه‌اند: **ضیاع گوارشی** (اسهال، استفراغ — فصل ۲۹)، **ضیاع گرده‌ای** (Diuretics، Hyperaldosteronism، Hypomagnesaemia، RTA)، **انتقال به حجره** (Insulin، Beta-agonist، Alkalosis، Thyrotoxic periodic paralysis).
+- علل سه گروه‌اند: **ضیاع هضمی** (اسهال، استفراغ — فصل ۲۹)، **ضیاع گرده‌ای** (Diuretics، Hyperaldosteronism، Hypomagnesaemia، RTA)، **انتقال به حجره** (Insulin، Beta-agonist، Alkalosis، Thyrotoxic periodic paralysis).
 - 💡 **Hypokalaemia مقاوم = Magnesium را ببین.** کمبود Mg ضیاع K⁺ از گرده را ادامه می‌دهد.
 
 ## 🔹 ۵–۸. Symptoms, Exam, Investigations
 
-- ضعف، کرمپ، قبضیت/Ileus، فلج در شدید، Rhabdomyolysis.
+- ضعف، کرامپ، یبوست/Ileus، فلج در شدید، Rhabdomyolysis.
 - ECG: T پهن و پست، **موج U**، QT(U) طولانی، Arrhythmia — مخصوصاً با Digoxin.
 - تست‌ها: K⁺، Mg²⁺، گاز خون (Alkalosis/اسیدوز)، Creatinine، Glucose؛ K⁺ ادرار برای تفریق ضیاع گرده‌ای از غیرگرده‌ای؛ فشار خون + Renin/Aldosterone اگر فشار بلند است (فصل ۵۰).
 
@@ -153,7 +153,17 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ⚠️ **هرگز Potassium chloride را بولوس وریدی نده** — توقف قلب. همیشه رقیق و با پمپ.
 
-🔒 **دوزها، غلظت حداکثر و سرعت حداکثر KCl وریدی (محیطی/مرکزی) و دوز فمی** از منبع اولیه (BNF/رهنمود ملی) در این نشست تأیید نشد → **SD-27 (UNVERIFIED)**. از پروتوکول محلی شفاخانه پیروی کن؛ در این فصل عدد نیامده.
+**KCl وریدی — الگوریتم Hypokalaemia کاهلان در ERC 2025 (Special Circumstances، شکل ۳):**
+| حالت | K⁺ (mmol/L) | KCl وریدی |
+|---|---|---|
+| متوسط | ۲.۵–۲.۹ | اگر علامه دارد یا نمی‌تواند فمی بگیرد: **۴۰ mmol KCl در ۱۰۰۰ mL Normal saline**؛ سرعت معمول **۱۰ mmol/ساعت**؛ **حداکثر ۲۰ mmol/ساعت فقط در HDU/ICU** با مانیتور |
+| شدید | ۲.۴ یا کمتر | همان، با سرعت نظر به عجلهٔ بالینی؛ **پیرامون ایست:** ۲۰ mmol در ۱۰ دقیقه، سپس ۱۰ mmol در ۱۰ دقیقه، بعد انفیوژن |
+| **ایست قلبی** | — | **۲۰ mmol در ۲–۳ دقیقه، سپس ۱۰ mmol در ۲ دقیقه**؛ بعد انفیوژن تا K⁺ ۴.۰ یا بیشتر |
+
+- Magnesium هم‌زمان (اگر لازم): **Magnesium sulfate 50% (۱ g = ۴ mmol)** — معمول **۲ g در ۴ ساعت**؛ عاجل **۲ g در ۱۰–۱۵ دقیقه** (یک بار قابل تکرار)؛ ایست قلبی **۲ g در ۲ دقیقه** (ERC 2025).
+- ECG و مانیتور قلبی اگر K⁺ کمتر از ۳.۰ است؛ خطر در مریض تحت Digoxin بیشتر است.
+
+🔒 **غلظت حداکثر KCl در ورید محیطی در برابر مرکزی و دوز فمی KCl** از منبع اولیه تأیید نشد → **SD-27 (UNVERIFIED)**؛ از پروتوکول محلی پیروی کن.
 
 ---
 
@@ -163,7 +173,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 **بیش از ۹۰ فیصد علل = دو علت:** **Primary hyperparathyroidism** (سرپایی، خفیف، مزمن) و **سرطان** (بستری، شدید، سریع). اولین تست جداکننده: **PTH**.
 
-💡 «**Stones, bones, groans, thrones, psychic moans**» — سنگ گرده، درد استخوان، درد بطن/قبضیت، پُرادراری، اختلال روانی.
+💡 «**Stones, bones, groans, thrones, psychic moans**» — سنگ گرده، درد استخوان، درد بطن/یبوست، پُرادراری، اختلال روانی.
 
 *(«بیش از ۹۰ فیصد» یک تعمیم مشهور کتب درسی است؛ منبع اولیهٔ عدد در این نشست بررسی نشد → در SD-27 ثبت شد.)*
 
@@ -195,7 +205,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ## 🔹 ۵–۸. Symptoms, Exam, Investigations
 
-- خستگی، تشنگی، پُرادراری، قبضیت، دلبدی، درد بطن (پانکراتیت، قرحه)، اختلال شعور تا کوما، سنگ گرده (فصل ۴۱).
+- خستگی، تشنگی، پُرادراری، یبوست، دلبدی، درد بطن (پانکراتیت، قرحه)، اختلال شعور تا کوما، سنگ گرده (فصل ۴۱).
 - ECG: **QT کوتاه**؛ Arrhythmia در شدید.
 - تست‌ها: Calcium اصلاح‌شده (یا Ionized)، Phosphate، Albumin، Creatinine، **PTH**؛ اگر PTH پایین → PTHrP، 25-OH Vitamin D، 1,25-(OH)₂ Vitamin D، Electrophoresis پروتین/Light chains، تصویربرداری سرطان. Calcium ادرار (FHH).
 
@@ -227,7 +237,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ## 🔹 ۵–۸. Symptoms, Exam, Investigations
 
-- Paraesthesia گرد دهن و انگشتان، کرمپ، **Tetany**، Laryngospasm، اختلاج.
+- Paraesthesia گرد دهن و انگشتان، کرامپ، **Tetany**، Laryngospasm، اختلاج.
 - **Chvostek** و **Trousseau**.
 - ECG: **QT طولانی**.
 - تست‌ها: Calcium اصلاح‌شده، Phosphate، **PTH**، **Magnesium**، Creatinine، 25-OH Vitamin D.
@@ -256,9 +266,9 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 | اختلال | علل کلیدی | چرا مهم است | تداوی |
 |---|---|---|---|
-| **Hypomagnesaemia** | PPI طولانی، Diuretics، الکهول، اسهال، Aminoglycosides، Cisplatin | Hypokalaemia و Hypocalcaemia مقاوم؛ **Torsades de pointes** | Magnesium sulfate وریدی (شدید/Torsades) یا فمی — 🔒 دوز → SD-27 |
-| Hypermagnesaemia | CKD + مصرف Mg (انتی‌اسید، مسهل)، تداوی Pre-eclampsia | ضعف، از بین رفتن رفلکس‌ها، تنفس ضعیف، Bradycardia | قطع Mg؛ Calcium gluconate وریدی (آنتاگونیست)؛ دیالیز |
-| **Hypophosphataemia** | **Refeeding syndrome**، الکهول، DKA در حال تداوی، Respiratory alkalosis | ضعف عضلات تنفسی، همولیز، Rhabdomyolysis | Phosphate فمی/وریدی نظر به شدت — 🔒 دوز → SD-27 |
+| **Hypomagnesaemia** | PPI طولانی، Diuretics، الکول، اسهال، Aminoglycosides، Cisplatin | Hypokalaemia و Hypocalcaemia مقاوم؛ **Torsades de pointes** | Magnesium sulfate وریدی (شدید/Torsades) یا فمی — 🔒 دوز → SD-27 |
+| Hypermagnesaemia | CKD + مصرف Mg (انتی‌اسید، مسهل)، تداوی Pre-eclampsia | ضعف، از بین رفتن رفلکس‌ها، تنفس ضعیف، Bradycardia | قطع Mg؛ Calcium gluconate وریدی (انتاگونیست)؛ دیالیز |
+| **Hypophosphataemia** | **Refeeding syndrome**، الکول، DKA در حال تداوی، Respiratory alkalosis | ضعف عضلات تنفسی، همولیز، Rhabdomyolysis | Phosphate فمی/وریدی نظر به شدت — 🔒 دوز → SD-27 |
 | Hyperphosphataemia | CKD (فصل ۳۹)، Tumour lysis، Rhabdomyolysis | رسوب Calcium–Phosphate، Hypocalcaemia | علت؛ Binder در CKD؛ دیالیز |
 
 ⚠️ **Refeeding syndrome:** در مریض سوءتغذیه (مثلاً پس از گرسنگی طولانی) غذا را **آهسته** شروع کن و Phosphate، K⁺ و Mg را پیش و بعد از شروع ببین.
@@ -303,9 +313,9 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https://guidelines.ukkidney.org/hyperkalaemia/ — (Guidelines 16.2a/b، 16.3.1، 16.4.1–3، 16.5، 16.6، 25.1–25.2 خوانده شد).
 2. Society for Endocrinology. *Emergency Endocrine Guidance: Emergency management of acute hypocalcaemia in adult patients.* Endocr Connect. 2016;5(5):G7–8; correction 2019 (PubMed 32022081) — (بولوس، انفیوژن، ۲.۲ mmol).
 3. Society for Endocrinology. *Acute hypocalcaemia — for use in adult patients* (2013 leaflet) — (Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg؛ هشدار ESKD).
-4. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
-5. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
-6. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
+4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753 — (شکل‌های ۲ و ۳: Hyperkalaemia و Hypokalaemia؛ خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
+6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** UKKA Hyperkalaemia 2023 جدیدترین رهنمود ملی بررسی‌شده است (صفحهٔ آنلاین آن تا دسمبر ۲۰۲۵ به‌روز شده). رهنمودهای Society for Endocrinology 2016 (با تصحیح 2019) هنوز مرجع عاجل‌اند؛ **CURRENTNESS NOTE:** نسخهٔ جدیدتر SfE جستجو نشد. KDIGO/ERC برای Hyperkalaemia با UKKA مقایسه نشد.
 

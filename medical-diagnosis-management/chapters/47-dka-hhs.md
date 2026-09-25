@@ -66,7 +66,7 @@
 3. Osmolality بلند → آب از حجرات مغز بیرون می‌رود → **اختلال شعور تا کوما**.
 4. خون غلیظ → **ترومبوز** (رگ‌های عمیق، مغز، قلب).
 
-**عوامل شروع‌کننده (هر دو):** **انتان** (شایع‌ترین)، **قطع یا کمبود Insulin** (هزینه، دسترسی، ترس)، تشخیص جدید Type 1، سکتهٔ قلبی/Stroke، پانکراتیت، دواها (**SGLT2i** → Euglycaemic DKA، Glucocorticoid، Antipsychotic، Thiazide)، الکهول/مواد، حاملگی.
+**عوامل شروع‌کننده (هر دو):** **انتان** (شایع‌ترین)، **قطع یا کمبود Insulin** (هزینه، دسترسی، ترس)، تشخیص جدید Type 1، سکتهٔ قلبی/Stroke، پانکراتیت، دواها (**SGLT2i** → Euglycaemic DKA، Glucocorticoid، Antipsychotic، Thiazide)، الکول/مواد، حاملگی.
 
 ---
 
@@ -88,7 +88,7 @@
 | پُرادراری، تشنگی | پُرادراری، تشنگی طولانی، ضعف |
 | **دلبدی، استفراغ، درد بطن** | کم‌آبی شدید |
 | تنفس **Kussmaul**، بوی Ketone | **اختلال شعور**، علایم بؤرهٔ عصبی، اختلاج |
-| Tachycardia، فشار پایین | فشار پایین، شاک |
+| Tachycardia، فشار پایین | فشار پایین، شوک |
 | خواب‌آلودگی در شدید | کوما در Osmolality بسیار بلند |
 
 ⚠️ درد بطن در DKA اکثراً با اصلاح اسیدوز رفع می‌شود؛ اگر نشد → علت جراحی/پانکراتیت را جستجو کن (Consensus 2024).
@@ -110,9 +110,9 @@
 
 | حالت | تفریق |
 |---|---|
-| **Alcoholic ketoacidosis** | قند نورمال/پایین، سابقهٔ الکهول |
+| **Alcoholic ketoacidosis** | قند نورمال/پایین، سابقهٔ الکول |
 | Starvation ketosis | Bicarbonate کمتر پایین؛ قند نورمال |
-| Lactic acidosis | Lactate بلند؛ شاک |
+| Lactic acidosis | Lactate بلند؛ شوک |
 | Salicylate/Methanol/Ethylene glycol | Osmolal gap، سابقه (فصل ۴۳) |
 | Uraemia | Creatinine بسیار بلند |
 | **Euglycaemic DKA** | SGLT2i، حاملگی، گرسنگی — **قند نورمال فریب می‌دهد** |
@@ -123,7 +123,7 @@
 ## 🔹 ۸. Investigations — Basic → Advanced
 
 **فوری (همه):**
-- قند مویرگی و **β-OHB مویرگی** (بستر) — ترجیح بر Ketone ادرار.
+- قند مویرگی و **β-OHB مویرگی** (کنار بستر) — ترجیح بر Ketone ادرار.
 - **گاز خون وریدی** (pH، Bicarbonate) — VBG کافی است؛ ABG فقط اگر مشکل تنفسی.
 - **Na⁺، K⁺**، Cl⁻، Urea، Creatinine، **Osmolality** (محاسبه‌شده/سنجیده)، Phosphate، Magnesium.
 - CBC (Leucocytosis در DKA ممکن است بدون انتان باشد)، CRP.
@@ -142,7 +142,7 @@
 
 - معیارهای بخش ۲ (DKA: D + K + A؛ HHS: چهار معیار).
 - **مختلط:** معیارهای HHS + Ketonaemia/اسیدوز قابل‌ملاحظه → به عنوان DKA/HHS تداوی (Insulin ۰.۱ U/kg/h).
-- **شدت و محل تداوی:** DKA شدید، HHS، اختلال شعور، شاک، K⁺ غیرنورمال، مرض همراه شدید → **HDU/ICU**.
+- **شدت و محل تداوی:** DKA شدید، HHS، اختلال شعور، شوک، K⁺ غیرنورمال، مرض همراه شدید → **HDU/ICU**.
 
 ---
 
@@ -157,7 +157,7 @@
 | قند کمتر از ۲۵۰ mg/dL (DKA) | **Glucose ۱۰ فیصد ۱۲۵ mL/ساعت** در کنار Saline اضافه کن تا Insulin ادامه یابد و Ketone پاک شود (JBDS 2023؛ حد JBDS: ۱۴ mmol/L ≈ ۲۵۰ mg/dL) |
 | **HHS** | Osmolality **بیش از ۳.۰–۸.۰ mOsm/kg در ساعت** پایین نیاید (خطر عصبی) |
 
-⚠️ مسن، عدم کفایهٔ قلب یا گرده → مایع با احتیاط و ارزیابی مکرر (اذیمای شش).
+⚠️ مسن، عدم کفایهٔ قلب یا گرده → مایع با احتیاط و ارزیابی مکرر (ادیمای شش).
 
 ### ۱۰.۲ Potassium — **پیش از Insulin**
 
@@ -195,7 +195,7 @@
 | **HHS** | Osmolality کمتر از **۳۰۰ mOsm/kg**، قند اصلاح‌شده (کمتر از **۲۵۰ mg/dL**)، ادرار بیشتر از **۰.۵ mL/kg/ساعت**، **بهبود شعور** |
 
 ### ۱۰.۶ علت را تداوی کن
-انتان (آنتی‌بیوتیک پس از کلچر)، سکتهٔ قلبی، پانکراتیت؛ **SGLT2i را قطع کن**؛ **وقایهٔ ترومبوز** (مخصوصاً HHS) مگر ممنوع.
+انتان (انتی‌بیوتیک پس از کلچر)، سکتهٔ قلبی، پانکراتیت؛ **SGLT2i را قطع کن**؛ **وقایهٔ ترومبوز** (مخصوصاً HHS) مگر ممنوع.
 
 ### ۱۰.۷ وقایه از تکرار — پیش از رخصت
 - آموزش **قواعد روز مریضی**: Insulin را هرگز قطع نکن؛ قند و Ketone را ببین؛ مایع بنوش؛ کی به شفاخانه بیاید.
@@ -215,7 +215,7 @@
 | **ODS** | اصلاح سریع Sodium در HHS (فصل ۴۴) |
 | Hyperchloraemic acidosis | Saline زیاد — اکثراً بی‌ضرر؛ **با تداوم Ketoacidosis اشتباه نشود** (β-OHB را ببین) |
 | **ترومبوز** (DVT، Stroke، MI) | HHS، کم‌آبی |
-| اذیمای شش، ARDS | مایع زیاد |
+| ادیمای شش، ARDS | مایع زیاد |
 | Rhabdomyolysis | HHS |
 | **DKA تکراری/مرگ** | دسترسی به Insulin، آموزش |
 
@@ -259,7 +259,6 @@
 1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).
 3. Kitabchi AE, et al. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335 — (نسخهٔ قبلی برای مقایسه).
-4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** Consensus بین‌المللی 2024 جدیدترین مرجع است (جایگزین ADA 2009). تغییرات کلیدی: β-OHB مرکزی، حد قند ۲۰۰/سابقهٔ دیابت، Bicarbonate ۱۸، Insulin زیرجلدی در DKA خفیف/متوسط، معیارهای رفع جدید، حدود جدید HHS. **اختلاف ثانوی:** خلاصهٔ Healio می‌گوید Bicarbonate «حذف» شده؛ الگوریتم اصلی Consensus می‌گوید «فقط اگر pH کمتر از ۷.۰ در نظر گرفته شود» — متن اصلی مبنا قرار گرفت. **CURRENTNESS NOTE:** JBDS-IP (UK) نسخهٔ جدید جداگانه بررسی نشد (SD-35).
 
@@ -285,7 +284,7 @@
 
 - **فصل ۳۸:** AKI · **فصل ۴۲:** K⁺ و Phosphate · **فصل ۴۳:** اسید–قلوی و Anion gap · **فصل ۴۴:** Sodium و Osmolality.
 - **فصل ۴۶:** دیابت و SGLT2i · **فصل ۵۲:** Hypoglycaemia.
-- **فصل‌های انتانی:** سپسیس و منابع انتان.
+- **فصل ۶۷:** سپسیس و منابع انتان.
 
 ---
 
