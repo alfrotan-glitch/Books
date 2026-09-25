@@ -76,3 +76,4 @@ python3 tools/build.py            # PDF + DOCX + EPUB در build/
 - [x] فصل ۴۷ (DKA/HHS) — v2.1؛ Consensus 2024؛ SD-35
 - [x] فصل ۴۸ (Hyperthyroidism) — v2.1؛ ATA 2016 + مرور 2024؛ SD-36/37
 - [x] فصل ۴۹ (Hypothyroidism) — v2.1؛ ATA 2014 + NICE NG145 + FDA؛ SD-38/39
+- [x] ارتقای سبک v3 (reasoning-first؛ Clinical Exam DNA) — STYLE-GUIDE §v3؛ ممیزی v3 فصل ۴۳–۴۹ و «برگشت به کیس»؛ release/style-dna-audit-v3.md
