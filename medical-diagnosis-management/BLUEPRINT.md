@@ -70,6 +70,8 @@
 | 78 | نوشته شده: ایست قلبی و شوک (AHA 2025)؛ SD-68 |
 | 79 | نوشته شده: رهیافت مسمومیت، OP، Aluminium phosphide؛ SD-69 |
 | 80 | نوشته شده: مسمومیت Paracetamol (ANZ 2020، SNAP)؛ SD-70 |
+| 81 | نوشته شده: Opioid، CO، Cyanide (NJPIES 2023)؛ SD-71 |
+| 82 | نوشته شده: Anaphylaxis و سوختگی (RCUK 2021، ABA 2023)؛ SD-72 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

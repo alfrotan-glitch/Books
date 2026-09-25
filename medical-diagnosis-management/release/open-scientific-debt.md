@@ -81,6 +81,8 @@
 | SD-68 | 78 | ایست/شوک: مراقبت پس از ROSC (هدف حرارت، فشار، SpO2)؛ دوز دوم Lidocaine؛ معیارهای توقف CPR؛ دوزهای وازوپرسور | UNVERIFIED |
 | SD-69 | 79 | مسمومیت: Activated charcoal (حد زمانی، دوز)؛ زمان‌بندی Intermediate syndrome؛ Aluminium phosphide (مرگ‌ومیر، تداوی‌های پیشنهادی)؛ شواهد Pralidoxime متناقض — CURRENTNESS: رهنمود WHO/رسمی خوانده نشد | UNVERIFIED |
 | SD-70 | 80 | Paracetamol: حد زمانی/دوز Activated charcoal؛ رژیم NAC در Massive؛ معیار پایان NAC؛ انتخاب خط ۱۰۰ برای افغانستان تصمیم نویسنده است | UNVERIFIED |
+| SD-71 | 81 | Opioid/CO/Cyanide: 2023 AHA toxicology update مستقیم خوانده نشد؛ دوز Naloxone در Apnoea و رژیم انفیوژن؛ مدت اکسیجن و HBO در CO (شواهد متناقض)؛ ارقام علایم عصبی تأخیری؛ دوز Thiosulfate؛ Kit Nitrite در افغانستان؛ دوزهای اطفال | UNVERIFIED |
+| SD-72 | 82 | Anaphylaxis/سوختگی: دوز انفیوژن Adrenaline؛ مدت نظارت پس از Anaphylaxis؛ فیصدی بدون علایم پوستی؛ مدت سرد کردن سوختگی؛ ادرار هدف اطفال و Albumin؛ معیارهای ارجاع؛ متن کامل ABA 2023 خوانده نشد | UNVERIFIED |
 
 ## B. Terminology debt
 
