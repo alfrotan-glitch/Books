@@ -223,10 +223,10 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 
 ### د) Surgical / Procedural Management
 
-| مرض | اندیکاسیون مداخله (خلاصهٔ ESC 2021 / ACC-AHA 2020) | روش |
+| مرض | اندیکاسیون مداخله (خلاصهٔ ESC/EACTS 2025 / ACC-AHA 2020) | روش |
 |---|---|---|
 | **MS** | شدید **و** باعلامت؛ یا بی‌علامت با فشار شریان ریوی بالا، AF جدید یا خطر بالای آمبولی | **PMBC (بالون میترال)** اگر آناتومی مناسب (Wilkins ≤ ۸)، بدون ترومبوس دهلیز چپ و MR بیش از خفیف؛ ورنه جراحی (تعویض) |
-| **AS** | شدید **و** باعلامت (هر علامت)؛ بی‌علامت با EF < ۵۰٪، تست ورزش غیرنورمال، یا AS بسیار شدید (سرعت ≥ ۵ m/s) | **SAVR** (جراحی) یا **TAVI** — انتخاب بر اساس سن، خطر جراحی و تصمیم تیم قلب؛ **TAVI در ≥ ۷۵ سال یا خطر جراحی بالا ترجیح دارد** (ESC 2021) |
+| **AS** | شدید **و** باعلامت (هر علامت)؛ بی‌علامت با EF < ۵۰٪، تست ورزش غیرنورمال، یا AS بسیار شدید (سرعت ≥ ۵ m/s) | **SAVR** (جراحی) یا **TAVI** — انتخاب بر اساس سن، خطر جراحی و تصمیم تیم قلب؛ **TAVI در ۷۰ سال یا بالاتر (با آناتومی مناسب) یا خطر جراحی بالا توصیه می‌شود؛ SAVR در کمتر از ۷۰ سال با خطر پایین معیار است** (ESC/EACTS 2025؛ قبلاً ۷۵ سال). در AS شدید **بی‌علامت** با گرادیان بلند و EF محفوظ، مداخلهٔ زودتر در مریضان منتخب با خطر پایین قابل ملاحظه است (ESC/EACTS 2025، IIa) |
 | **MR اولیه** | شدید **و** باعلامت؛ بی‌علامت با EF ≤ ۶۰٪ یا LVESD ≥ ۴۰ mm (ESC)؛ AF جدید یا PASP > ۵۰ mmHg | **ترمیم دریچه (Repair)** بر تعویض ارجحیت دارد؛ TEER (MitraClip) در خطر جراحی بالا |
 | **MR ثانوی** | باعلامت با وجود تداوی بهینهٔ عدم کفایهٔ قلب | TEER در مریضان منتخب؛ جراحی همراه CABG |
 | **AR** | شدید **و** باعلامت؛ بی‌علامت با EF ≤ ۵۰٪ یا LVESD > ۵۰ mm (یا > ۲۵ mm/m²)؛ ریشهٔ اورت متسع | **تعویض دریچهٔ اورت** ± ترمیم ریشه |
@@ -288,6 +288,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 7. **INR > ۵ با خونریزی** در مریض دریچهٔ مصنوعی ← Vitamin K + جایگزینی فکتورها با مشورهٔ قلب (→ فصل ۶۴).
 
 ## 📚 References
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). CURRENTNESS NOTE: other thresholds in this chapter (MR, AR) still follow 2021/2020 and have not yet been line-checked against 2025.
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.

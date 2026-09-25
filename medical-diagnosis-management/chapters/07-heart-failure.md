@@ -189,11 +189,17 @@
 | **Spironolactone** | ۲۵–۵۰ mg | PO / OD | K⁺ > ۵.۵، eGFR < ۳۰ |
 | **Eplerenone** (بعد از MI) | ۲۵–۵۰ mg | PO / OD | K⁺ > ۵.۵، eGFR < ۳۰ |
 
-**ستون ۴ — SGLT2 Inhibitor (از ۲۰۲ — تمام HFrEF، با یا بدون دیابت):**
+**ستون ۴ — SGLT2 Inhibitor (تمام HFrEF، با یا بدون دیابت):**
 | دوا | دوز | راه/تکرار | یادداشت |
 |---|---|---|---|
 | **Dapagliflozin** | ۱۰ mg | PO / OD | eGFR > ۲۵ |
 | **Empagliflozin** | ۱۰ mg | PO / OD | eGFR > ۲۰ |
+
+**HFmrEF و HFpEF — تازه‌سازی ESC 2023:**
+- **SGLT2 Inhibitor** (Dapagliflozin یا Empagliflozin، همان دوز بالا) برای **HFmrEF** و **HFpEF** توصیه می‌شود تا بستری شدن به علت HF یا مرگ قلبی کم شود (Class I، سطح A؛ کارآزمایی‌های EMPEROR-Preserved و DELIVER).
+- در HFpEF باقی تداوی: Diuretic برای احتقان و تداوی جدی امراض همراه (فشار خون، AF، چاقی، دیابت).
+- **آهن وریدی (IV iron):** در HFrEF یا HFmrEF باعلامت همراه کمبود آهن، برای بهتر شدن علایم و کیفیت زندگی (Class I).
+- **دیابت نوع ۲ + CKD:** SGLT2 Inhibitor و **Finerenone** برای کاهش بستری شدن به علت HF (Class I). دوز Finerenone تخصصی است و این‌جا نوشته نمی‌شود (→ فصل ۳۹).
 
 **دوا‌های کمکی (Adjunctive):**
 | دوا | دوز | اندیکاسیون |
@@ -276,11 +282,12 @@
 
 ## 📚 References
 - ESC 2021 Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure.
+- McDonagh TA, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J 2023;44:3627–3639.
 - AHA/ACC/HFSA 2022 Guideline for the Management of Heart Failure.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 140–142.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 21.
 - UpToDate: "HFrEF: Treatment" و "Acute decompensated heart failure".
-- DAPA-HF / EMPEROR-Heart (SGLT2i) trials, NEJM 2019/2020.
+- DAPA-HF / EMPEROR-Reduced (SGLT2i) trials, NEJM 2019/2020.
 - PARADIGM-HF (Sacubitril/Valsartan), NEJM 2014.
 
 ---

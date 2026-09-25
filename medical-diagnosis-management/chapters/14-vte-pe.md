@@ -34,6 +34,8 @@
 
 ### PE — طبقه‌بندی خطر مرگ زودرس (ESC 2019)
 
+> 🔄 **CURRENTNESS NOTE:** رهنمود **AHA/ACC 2026** (فبروری 2026) طبقه‌بندی تازهٔ **Category A تا E** را معرفی کرد: A = بی‌علامت (رخصت از عاجل ممکن)؛ B = باعلامت با نمرهٔ شدت پایین (sPESI صفر، PESI ≤ ۸۵؛ رخصت زود)؛ C = بیومارکر بلند و/یا اختلال بطین راست؛ D = نارسایی قلبی-تنفسی آغازین؛ E = هایپوتنشن دوامدار. C تا E بستری می‌شوند. این رهنمود DOAC را در مریضان مناسب ترجیح می‌دهد و PERT را توصیه می‌کند. جدول زیر (ESC 2019) هنوز معتبر و در عمل رایج است؛ جزئیات زیرگروه‌های 2026 در این فصل هنوز خط به خط مطابقت نشده.
+
 | خطر | شوک یا هایپوتنشن | PESI III–V یا sPESI ≥۱ | اختلال بطین راست (ایکو/CT) | تروپونین بلند |
 |---|---|---|---|---|
 | **بلند (High)** | **بلی** | (+) | (+) | (+) |
@@ -336,6 +338,7 @@
 - ⚠️ **ترومبوس در حال عبور در قلب راست** در ایکو ← تداوی فوری.
 
 ## 📚 References
+- 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026; doi:10.1161/CIR.0000000000001415.
 
 - Konstantinides SV, et al. **2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (with ERS).** Eur Heart J. 2020;41:543–603 (طبقه‌بندی خطر؛ Alteplase ۱۰۰ mg در ۲ ساعت؛ Streptokinase ۲۵۰,۰۰۰ IU سپس ۱۰۰,۰۰۰ IU/h؛ دوزهای DOAC و کاهش دوز دراز مدت؛ مدت تداوی).
 - Stevens SM, et al. **Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline.** Chest. 2021;160:e545–e608.

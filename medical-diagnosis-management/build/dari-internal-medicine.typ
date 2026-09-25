@@ -1912,7 +1912,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
   caption: none,
 )
 #v(0.4em)
-**ستون ۴ — SGLT2 Inhibitor (از ۲۰۲ — تمام HFrEF، با یا بدون دیابت):**
+**ستون ۴ — SGLT2 Inhibitor (تمام HFrEF، با یا بدون دیابت):**
 #figure(
   table(columns: (auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -1925,6 +1925,11 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
   caption: none,
 )
 #v(0.4em)
+**HFmrEF و HFpEF — تازه‌سازی ESC 2023:**
+- **SGLT2 Inhibitor** (Dapagliflozin یا Empagliflozin، همان دوز بالا) برای **HFmrEF** و **HFpEF** توصیه می‌شود تا بستری شدن به علت HF یا مرگ قلبی کم شود (Class I، سطح A؛ کارآزمایی‌های EMPEROR-Preserved و DELIVER).
+- در HFpEF باقی تداوی: Diuretic برای احتقان و تداوی جدی امراض همراه (فشار خون، AF، چاقی، دیابت).
+- **آهن وریدی (IV iron):** در HFrEF یا HFmrEF باعلامت همراه کمبود آهن، برای بهتر شدن علایم و کیفیت زندگی (Class I).
+- **دیابت نوع ۲ + CKD:** SGLT2 Inhibitor و **Finerenone** برای کاهش بستری شدن به علت HF (Class I). دوز Finerenone تخصصی است و این‌جا نوشته نمی‌شود (→ فصل ۳۹).
 **دوا‌های کمکی (Adjunctive):**
 #figure(
   table(columns: (auto, auto, auto),
@@ -2003,11 +2008,12 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 7. **K⁺ \> ۵.۵ بعد از ACEI/MRA** → قطع/تعدیل + ECG (رنگ‌های T).
 == 📚 References
 - ESC 2021 Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure.
+- McDonagh TA, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J 2023;44:3627–3639.
 - AHA/ACC/HFSA 2022 Guideline for the Management of Heart Failure.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 140–142.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 21.
 - UpToDate: "HFrEF: Treatment" و "Acute decompensated heart failure".
-- DAPA-HF / EMPEROR-Heart (SGLT2i) trials, NEJM 2019/2020.
+- DAPA-HF / EMPEROR-Reduced (SGLT2i) trials, NEJM 2019/2020.
 - PARADIGM-HF (Sacubitril/Valsartan), NEJM 2014.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 ۵ قدم کوچک کنار بستر
@@ -2661,9 +2667,9 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
     stroke: 0.5pt + rgb("#9fb8bb"),
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
-    [*مرض*], [*اندیکاسیون مداخله (خلاصهٔ ESC 2021 / ACC-AHA 2020)*], [*روش*],
+    [*مرض*], [*اندیکاسیون مداخله (خلاصهٔ ESC/EACTS 2025 / ACC-AHA 2020)*], [*روش*],
     [**MS**], [شدید **و** باعلامت؛ یا بی‌علامت با فشار شریان ریوی بالا، AF جدید یا خطر بالای آمبولی], [**PMBC (بالون میترال)** اگر آناتومی مناسب (Wilkins ≤ ۸)، بدون ترومبوس دهلیز چپ و MR بیش از خفیف؛ ورنه جراحی (تعویض)],
-    [**AS**], [شدید **و** باعلامت (هر علامت)؛ بی‌علامت با EF \< ۵۰٪، تست ورزش غیرنورمال، یا AS بسیار شدید (سرعت ≥ ۵ m/s)], [**SAVR** (جراحی) یا **TAVI** — انتخاب بر اساس سن، خطر جراحی و تصمیم تیم قلب؛ **TAVI در ≥ ۷۵ سال یا خطر جراحی بالا ترجیح دارد** (ESC 2021)],
+    [**AS**], [شدید **و** باعلامت (هر علامت)؛ بی‌علامت با EF \< ۵۰٪، تست ورزش غیرنورمال، یا AS بسیار شدید (سرعت ≥ ۵ m/s)], [**SAVR** (جراحی) یا **TAVI** — انتخاب بر اساس سن، خطر جراحی و تصمیم تیم قلب؛ **TAVI در ۷۰ سال یا بالاتر (با آناتومی مناسب) یا خطر جراحی بالا توصیه می‌شود؛ SAVR در کمتر از ۷۰ سال با خطر پایین معیار است** (ESC/EACTS 2025؛ قبلاً ۷۵ سال). در AS شدید **بی‌علامت** با گرادیان بلند و EF محفوظ، مداخلهٔ زودتر در مریضان منتخب با خطر پایین قابل ملاحظه است (ESC/EACTS 2025، IIa)],
     [**MR اولیه**], [شدید **و** باعلامت؛ بی‌علامت با EF ≤ ۶۰٪ یا LVESD ≥ ۴۰ mm (ESC)؛ AF جدید یا PASP \> ۵۰ mmHg], [**ترمیم دریچه (Repair)** بر تعویض ارجحیت دارد؛ TEER (MitraClip) در خطر جراحی بالا],
     [**MR ثانوی**], [باعلامت با وجود تداوی بهینهٔ عدم کفایهٔ قلب], [TEER در مریضان منتخب؛ جراحی همراه CABG],
     [**AR**], [شدید **و** باعلامت؛ بی‌علامت با EF ≤ ۵۰٪ یا LVESD \> ۵۰ mm (یا \> ۲۵ mm/m²)؛ ریشهٔ اورت متسع], [**تعویض دریچهٔ اورت** ± ترمیم ریشه],
@@ -2726,6 +2732,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 6. **تنگی نفس حاد، کاهش صدای کلیک دریچهٔ میکانیکی یا INR پایین** ← ترومبوز دریچه: Echo/TEE عاجل.
 7. **INR \> ۵ با خونریزی** در مریض دریچهٔ مصنوعی ← Vitamin K + جایگزینی فکتورها با مشورهٔ قلب (→ فصل ۶۴).
 == 📚 References
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). CURRENTNESS NOTE: other thresholds in this chapter (MR, AR) still follow 2021/2020 and have not yet been line-checked against 2025.
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.
@@ -4402,6 +4409,10 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 - **ترومبوز وریدی سطحی (Superficial vein thrombosis):** VTE نیست، اما اگر طول ۵ cm یا بیشتر یا نزدیک اتصال صافن-فمورال (کمتر از ۳ cm) باشد، تداوی می‌شود (Fondaparinux ۲.۵ mg SC روزانه برای ۴۵ روز).
 - **ترومبوز ورید بازو:** اغلب مرتبط با کتتر.
 === PE — طبقه‌بندی خطر مرگ زودرس (ESC 2019)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  🔄 **CURRENTNESS NOTE:** رهنمود **AHA/ACC 2026** (فبروری 2026) طبقه‌بندی تازهٔ **Category A تا E** را معرفی کرد: A = بی‌علامت (رخصت از عاجل ممکن)؛ B = باعلامت با نمرهٔ شدت پایین (sPESI صفر، PESI ≤ ۸۵؛ رخصت زود)؛ C = بیومارکر بلند و/یا اختلال بطین راست؛ D = نارسایی قلبی-تنفسی آغازین؛ E = هایپوتنشن دوامدار. C تا E بستری می‌شوند. این رهنمود DOAC را در مریضان مناسب ترجیح می‌دهد و PERT را توصیه می‌کند. جدول زیر (ESC 2019) هنوز معتبر و در عمل رایج است؛ جزئیات زیرگروه‌های 2026 در این فصل هنوز خط به خط مطابقت نشده.
+]
 #figure(
   table(columns: (auto, auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -4738,6 +4749,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 - ⚠️ **تنگی نفس دوامدار ۳ ماه پس از PE** ← CTEPH.
 - ⚠️ **ترومبوس در حال عبور در قلب راست** در ایکو ← تداوی فوری.
 == 📚 References
+- 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. Circulation 2026; doi:10.1161/CIR.0000000000001415.
 - Konstantinides SV, et al. **2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism (with ERS).** Eur Heart J. 2020;41:543–603 (طبقه‌بندی خطر؛ Alteplase ۱۰۰ mg در ۲ ساعت؛ Streptokinase ۲۵۰,۰۰۰ IU سپس ۱۰۰,۰۰۰ IU/h؛ دوزهای DOAC و کاهش دوز دراز مدت؛ مدت تداوی).
 - Stevens SM, et al. **Antithrombotic Therapy for VTE Disease: Second Update of the CHEST Guideline.** Chest. 2021;160:e545–e608.
 - Ortel TL, et al. **ASH 2020 guidelines for management of venous thromboembolism: treatment of DVT and PE.** Blood Adv. 2020;4:4693–4738.

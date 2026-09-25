@@ -100,6 +100,9 @@
 | SD-87 | 21 | Nintedanib، Pirfenidone، Prednisolone و Methotrexate در ILD، Mycophenolate در SSc-ILD، Dexamethasone در فشردگی نخاع و متاستاز مغزی، Zoledronic acid، Prednisolone در irAE، و انتی‌بیوتیک‌های ابسهٔ ریه — از منبع اولیه تأیید نشد | UNVERIFIED |
 | SD-88 | 16, 17 | دوزهای انهیلر حفظیه (COPD و آسما)، انتی‌بیوتیک‌های تشدید COPD، Roflumilast، Ensifentrine، Mucolytics، Theophylline، Varenicline/Nicotine/Bupropion، Montelukast، Azithromycin و Hydrocortisone — از برچسب رسمی در این بازبینی خوانده نشد | UNVERIFIED |
 | SD-89 | 20, 23 | انتی‌بیوتیک و مدت تداوی انتان پلورا (BTS 2023)؛ Gabapentin، Morphine، Fluticasone بینی، TXA و اصلاح انتی‌کواگولانت در سرفه/هیموپتیزی — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-90 | 9 | رهنمود ESC/EACTS 2025 دریچه: سن TAVI ≥۷۰ و مداخلهٔ زود در AS بی‌علامت درج شد (Medscape/PCR خلاصه)؛ آستانه‌های MR/AR هنوز از 2021/2020 است — متن کامل 2025 خط به خط بررسی نشده | CURRENTNESS NOTE |
+| SD-91 | 14 | رهنمود AHA/ACC 2026 PE (Category A–E) منتشر شده؛ فصل هنوز بر ESC 2019 استوار است؛ یادداشت تازگی درج شد، زیرگروه‌ها و توصیه‌های تداوی 2026 خط به خط مطابقت نشده | CURRENTNESS NOTE |
+| SD-92 | 7 | تازه‌سازی ESC 2023 HF (SGLT2i در HFmrEF/HFpEF، IV iron، Finerenone در T2DM+CKD) از خلاصهٔ ACC تأیید و درج شد؛ متن کامل ESC و دوز IV iron بررسی نشده | UNVERIFIED |
 
 ## B. Terminology debt
 
