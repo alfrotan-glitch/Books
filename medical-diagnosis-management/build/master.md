@@ -1687,35 +1687,37 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 ⚗️ **فرمول ۴ ستون:**
 `HFrEF = (ARNI/ACEI/ARB) + (Beta-blocker) + (MRA) + (SGLT2i) — هم‌زمان، دوز کم شروع، تدریجی افزایش`
 
+**دوزهای شروع و هدف (ESC 2021، جدول ۸ — از متن رهنمود خوانده شد):**
+
 **ستون ۱ — RAAS Blocker (ARNI > ACEI/ARB):**
 | دوا | دوز شروع | افزایش | دوز حداکثر | راه/تکرار | یادداشت |
 |---|---|---|---|---|---|
-| **Sacubitril/Valsartan (ARNI)** | ۲۴/۲۶ mg یا ۴۹/۵۱ mg | ۲–۴ هفته | ۹۷/۱۰۳ mg | PO / BID | حد اقل ۳۶ ساعت پس از آخرین دوز ACEI (خطر Angioedema) |
-| **Enalapril** (بدیل) | ۲.۵ mg دو بار | ۲ هفته | ۱۰–۲۰ mg BID | PO / BID | سرفهٔ خشک |
-| **Ramipril** | ۲.۵ mg | ۲ هفته | ۱۰ mg OD | PO / OD | |
-| **Lisinopril** | ۵ mg | ۲ هفته | ۴۰ mg OD | PO / OD | |
-| **Losartan** (ARB) | ۲۵–۵۰ mg | ۲ هفته | ۱۵۰ mg OD | PO / OD | اگر ACEI سرفه ساخت |
+| **Sacubitril/Valsartan (ARNI)** | ۴۹/۵۱ mg (۲۴/۲۶ mg اگر سابقهٔ فشار پایین علامه‌دار دارد) | تدریجی | ۹۷/۱۰۳ mg | PO / BID | حد اقل ۳۶ ساعت پس از آخرین دوز ACEI (خطر Angioedema)؛ فشار کافی و eGFR ۳۰ یا بیشتر |
+| **Enalapril** (بدیل) | ۲.۵ mg دو بار | تدریجی | ۱۰–۲۰ mg BID | PO / BID | سرفهٔ خشک |
+| **Ramipril** | ۲.۵ mg دو بار | تدریجی | ۵ mg BID | PO / BID | |
+| **Lisinopril** | ۲.۵–۵ mg | تدریجی | ۲۰–۳۵ mg OD | PO / OD | |
+| **Losartan** (ARB) | ۵۰ mg | تدریجی | ۱۵۰ mg OD | PO / OD | اگر ACEI و ARNI تحمل نشد؛ بدیل: Candesartan ۴ → ۳۲ mg OD، Valsartan ۴۰ → ۱۶۰ mg BID |
 
 **ستون ۲ — Beta-blocker (سه دوا اثبات‌شده):**
 | دوا | دوز شروع | دوز حداکثر | راه/تکرار |
 |---|---|---|---|
-| **Carvedilol** | ۳.۱۲۵ mg | ۲۵ mg BID (وزن <۸۵ kg) / ۵۰ mg BID (وزن >۸۵ kg) | PO / BID |
+| **Carvedilol** | ۳.۱۲۵ mg دو بار | ۲۵ mg BID (وزن <۸۵ kg) / ۵۰ mg BID (وزن >۸۵ kg) | PO / BID |
 | **Bisoprolol** | ۱.۲۵ mg | ۱۰ mg | PO / OD |
-| **Metoprolol Succinate** | ۱۲.۵ mg | ۲۰۰ mg | PO / OD |
+| **Metoprolol Succinate** | ۱۲.۵–۲۵ mg | ۲۰۰ mg | PO / OD |
 
-> ⚠️ **Beta-blocker را فقط در HF پایدار (بدون احتباس حاد) شروع کن** — دوز کم، هر ۲ هفته دو برابر کن، تا دوز هدف یا حداکثر تحمل.
+> ⚠️ **Beta-blocker را فقط در مریض پایدار و بدون احتباس مایع شروع کن** — دوز کم، و به‌تدریج تا دوز هدف یا حداکثر دوز قابل تحمل بالا ببر (ESC 2021). در مریض بستری با AHF، پس از پایدار شدن با احتیاط شروع شود. *(فاصلهٔ دقیق افزایش دوز در جدول ضمیمهٔ ESC است که خوانده نشد → SD-99.)*
 
 **ستون ۳ — MRA (Mineralocorticoid Receptor Antagonist):**
 | دوا | دوز | راه/تکرار | کنترااندیکاسیون |
 |---|---|---|---|
-| **Spironolactone** | ۲۵–۵۰ mg | PO / OD | K⁺ > ۵.۵، eGFR < ۳۰ |
-| **Eplerenone** (بعد از MI) | ۲۵–۵۰ mg | PO / OD | K⁺ > ۵.۵، eGFR < ۳۰ |
+| **Spironolactone** | شروع ۲۵ mg (۱۲.۵ mg اگر گرده یا پوتاشیم نگران‌کننده است) → هدف ۵۰ mg | PO / OD | احتیاط در K⁺ بالاتر از ۵.۰ و کاهش وظیفهٔ گرده (ESC 2021)؛ حدود دقیق قطع → SD-99 |
+| **Eplerenone** | ۲۵ → ۵۰ mg | PO / OD | همان؛ Gynaecomastia کمتر |
 
 **ستون ۴ — SGLT2 Inhibitor (تمام HFrEF، با یا بدون دیابت):**
 | دوا | دوز | راه/تکرار | یادداشت |
 |---|---|---|---|
-| **Dapagliflozin** | ۱۰ mg | PO / OD | eGFR > ۲۵ |
-| **Empagliflozin** | ۱۰ mg | PO / OD | eGFR > ۲۰ |
+| **Dapagliflozin** | ۱۰ mg | PO / OD | در DAPA-HF: eGFR ۳۰ یا بیشتر |
+| **Empagliflozin** | ۱۰ mg | PO / OD | در EMPEROR-Reduced: eGFR بالاتر از ۲۰؛ کاهش خفیف eGFR در شروع متوقع است و دلیل قطع نیست |
 
 **HFmrEF و HFpEF — تازه‌سازی ESC 2023:**
 - **SGLT2 Inhibitor** (Dapagliflozin یا Empagliflozin، همان دوز بالا) برای **HFmrEF** و **HFpEF** توصیه می‌شود تا بستری شدن به علت HF یا مرگ قلبی کم شود (Class I، سطح A؛ کارآزمایی‌های EMPEROR-Preserved و DELIVER).
@@ -1728,7 +1730,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 |---|---|---|
 | **Digoxin** | ۰.۰۶۲۵–۰.۲۵ mg روزانه | PO — AF با HF، یا علایم باقی با وجود تداوی؛ در سالخورده و CKD دوز کم |
 | **Hydralazine + ISDN** | ۳۷.۵ mg + ۲۰ mg سه بار در روز، تا ۷۵ mg + ۴۰ mg سه بار | PO — اگر ACEI، ARB و ARNI هیچ‌کدام ممکن نیست (یا در مریضان سیاه‌پوست همراه تداوی کامل) |
-| **Ivabradine** | ۵ mg دو بار → ۷.۵ mg دو بار | PO — HFrEF با ریتم سینوسی و ضربان ۷۰ یا بیشتر، با وجود Beta-blocker |
+| **Ivabradine** | ۵ mg دو بار → ۷.۵ mg دو بار | PO — HFrEF با LVEF ۳۵ فیصد یا کمتر، ریتم سینوسی و ضربان ۷۰ یا بیشتر، با وجود Beta-blocker (یا اگر Beta-blocker ممکن نیست) |
 | **Vericiguat** | ۲.۵ → ۱۰ mg | PO / OD — بعد از Decompensation |
 
 **Dosing در عدم کفایه گرده:**
@@ -2011,13 +2013,13 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
-**Antiplatelet (هر دو نوع ACS):**
+**Antiplatelet (هر دو نوع ACS؛ ACC/AHA 2025 جدول ۷ — از متن رهنمود):**
 | دوا | دوز | راه | تکرار | مدت / یادداشت |
 |---|---|---|---|---|
-| **Aspirin** | **۱۵۰–۳۰۰ mg (جویده)** | PO | یک‌بار | سپس ۷۵–۱۰۰ mg PO/OD — مادام‌العمر |
-| **Clopidogrel** | **۳۰۰ mg** (بدون PCI) / **۶۰۰ mg** (PCI) | PO | یک‌بار | سپس ۷۵ mg PO/OD — ۱۲ ماه (ACS) |
-| **Ticagrelor** | **۱۸۰ mg** | PO | یک‌بار | سپس ۹۰ mg PO/BID — ۱۲ ماه (Ticagrelor > Clopidogrel در ACS) |
-| **Prasugrel** | **۶۰ mg** | PO | یک‌بار | سپس ۱۰ mg PO/OD — ۱۲ ماه (فقط PCI، سنین <۷۵، بدون سکته سابق) |
+| **Aspirin** | **۱۵۰–۳۰۰ mg (جویده)** (ESC 2023)؛ ACC/AHA 2025: **۱۶۲–۳۲۵ mg** — هر دو قابل قبول؛ تابلت غیرپوش‌دار جویده شود، حتی اگر مریض قبلاً Aspirin می‌خورد | PO | یک‌بار | سپس ۷۵–۱۰۰ mg PO/OD — مادام‌العمر؛ همراه Ticagrelor فقط ۱۰۰ mg یا کمتر |
+| **Clopidogrel** | **۳۰۰ یا ۶۰۰ mg**؛ **همراه Fibrinolysis:** ۳۰۰ mg اگر سن ۷۵ یا کمتر، **۷۵ mg (بدون بارگیری)** اگر بالاتر از ۷۵ | PO | یک‌بار | سپس ۷۵ mg PO/OD — ۱۲ ماه (ACS) |
+| **Ticagrelor** | **۱۸۰ mg** | PO | یک‌بار | سپس ۹۰ mg PO/BID — ۱۲ ماه (Ticagrelor > Clopidogrel در ACS)؛ همراه Fibrinolysis نه |
+| **Prasugrel** | **۶۰ mg** | PO | یک‌بار | سپس ۱۰ mg PO/OD — ۱۲ ماه؛ **۵ mg** اگر وزن کمتر از ۶۰ kg یا سن ۷۵ یا بیشتر (با احتیاط). فقط اگر PCI می‌شود؛ در سکته/TIA سابق نه؛ همراه Fibrinolysis نه |
 
 **Anticoagulant (ACC/AHA 2025، جدول ۱۰ — از متن رهنمود خوانده شد):**
 | دوا | دوز | راه | تکرار | یادداشت |
@@ -2061,17 +2063,24 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 | دوا | دوز | راه | مدت | یادداشت |
 |---|---|---|---|---|
 | **Tenecteplase (TNK)** | **وزن-مبنا:** <۶۰ kg = ۳۰ mg / ۶۰–۶۹ kg = ۳۵ mg / ۷۰–۷۹ kg = ۴۰ mg / ۸۰–۸۹ kg = ۴۵ mg / ≥۹۰ kg = ۵۰ mg | IV (bolus) | یک‌بار | ساده‌ترین — فقط یک bolus |
-| **Alteplase (tPA)** | **۱۵ mg bolus → ۰.۷۵ mg/kg (max ۵۰ mg) در ۳۰ دقیقه → ۰.۵ mg/kg (max ۳۵ mg) در ۶۰ دقیقه** | IV | دوامدار | مجموع ۱۰۰ mg |
-| **Streptokinase (SK)** | **۱.۵ million U در ۱۰۰–۲۵۰ mL NS** | IV infusion | ۶۰ دقیقه | اگر SK قبلاً استفاده شده (<۶ ماه) → ممنوع (allergy) |
+| **Alteplase (tPA)** | **۱۵ mg bolus → ۰.۷۵ mg/kg (max ۵۰ mg) در ۳۰ دقیقه → ۰.۵ mg/kg (max ۳۵ mg) در ۶۰ دقیقه** | IV | دوامدار | این رژیم برای وزن کمتر از ۶۷ kg است؛ وزن ۶۷ kg یا بیشتر: ۱۵ mg → ۵۰ mg در ۳۰ دقیقه → ۳۵ mg در ۶۰ دقیقه (مجموع ۱۰۰ mg) — ACC/AHA 2025 جدول ۱۳ |
+| **Streptokinase (SK)** | **۱.۵ million U در ۱۰۰–۲۵۰ mL NS** | IV infusion | ۶۰ دقیقه | Fibrin-specific (TNK، Alteplase) ترجیح دارد؛ دوز SK در این نشست از منبع اولیه تأیید نشد (SD-99) |
 
-**کنترااندیکاسیون‌های مطلق Fibrinolysis:**
-- خونریزی داخل مغز یا سکتهٔ مغزی با سبب نامعلوم در هر زمان
-- سکتهٔ مغزی ایسکیمیک در ۶ ماه گذشته
-- شک به دایسکشن اورت
-- خونریزی فعال (به جز حیض) یا مرض معلوم خونریزی‌دهنده
-- ترضیض شدید، عملیات بزرگ یا ضربهٔ سر در یک ماه گذشته؛ خونریزی GI در یک ماه گذشته
-- تومور، AVM یا آسیب ساختمانی دیگر سیستم عصبی مرکزی
-- سوراخ کردن ناحیهٔ غیرقابل فشار (مثلاً Biopsy کبد، Lumbar puncture) در ۲۴ ساعت گذشته
+**منع‌های Fibrinolysis در STEMI (ACC/AHA 2025، جدول ۱۴ — از متن رهنمود):**
+
+| منع مطلق | منع نسبی |
+|---|---|
+| هر خونریزی داخل مغز در گذشته | فشار بلند مزمن، شدید و کنترول‌نشده |
+| آسیب ساختمانی رگ‌های مغز (مثلاً AVM) | فشار بلند در وقت مراجعه (سیستولیک بالاتر از ۱۸۰ یا دیاستولیک بالاتر از ۱۱۰) |
+| تومور خبیث داخل جمجمه (اولیه یا متاستاز) | سکتهٔ ایسکیمیک پیش از ۳ ماه |
+| سکتهٔ ایسکیمیک در ۳ ماه گذشته (به جز سکتهٔ حاد در ۴.۵ ساعت) | Dementia |
+| شک به دایسکشن اورت | آسیب دیگر داخل جمجمه که در منع مطلق نیامده |
+| خونریزی فعال یا مرض خونریزی‌دهنده (به جز حیض) | CPR ترضیضی یا طولانی (بیشتر از ۱۰ دقیقه) |
+| ترضیض مهم سر یا روی در ۳ ماه گذشته | عملیات بزرگ در ۳ هفتهٔ گذشته |
+| عملیات داخل جمجمه یا نخاع در ۲ ماه گذشته | خونریزی داخلی در ۲–۴ هفتهٔ گذشته |
+| فشار بلند شدید که به تداوی جواب نمی‌دهد (سیستولیک بالاتر از ۱۸۰ یا دیاستولیک بالاتر از ۱۱۰) | سوراخ رگ در جای غیرقابل فشار؛ حاملگی؛ قرحهٔ هضمی فعال؛ تداوی با Anticoagulant فمی |
+
+*این جدول رهنمایی است، نه فهرست کامل. رهنمود ESC 2023 برای سکتهٔ ایسکیمیک حد **۶ ماه** را به‌کار می‌برد؛ متن ESC در این نشست بازخوانی نشد (SD-99). در عمل، اگر شک داری، با داکتر متخصص مشوره کن.*
 
 ### ج) Non-pharmacological Management
 - **استراحت در ۱۲–۲۴ ساعت اول**؛ سپس حرکت زودهنگام اگر مریض پایدار است
@@ -2174,7 +2183,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 2. اولین دوا در ACS؟ **Aspirin ۱۵۰–۳۰۰ mg جویده (ESC 2023).**
 3. Ticagrelor دوز شروع + ادامه؟ **۱۸۰ mg → ۹۰ mg BID، ۱۲ ماه.**
 4. Nitroglycerin را در چه MI ندهی؟ **RV infarction (inferior + JVP بالا).**
-5. منع مطلق Fibrinolytic؟ **خونریزی مغزی سابق، سکتهٔ ایسکیمیک در ۶ ماه گذشته، دایسکشن، خونریزی فعال.**
+5. منع مطلق Fibrinolytic؟ **خونریزی مغزی سابق، سکتهٔ ایسکیمیک در ۳ ماه گذشته (ACC/AHA 2025؛ ESC: ۶ ماه)، شک به دایسکشن، خونریزی فعال.**
 
 
 # فصل ۹ — امراض دریچه‌ای قلب و تب روماتیزمی (Valvular Heart Disease & Rheumatic Fever)
@@ -2687,7 +2696,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 2. **علایم خطر (شوک، سینکوپ، ایسکیمی، عدم کفایهٔ قلب)؟**
    - **Atropine ۵۰۰ mcg IV**؛ تکرار هر ۳–۵ دقیقه تا مجموع **۳ mg**.
    - ناکام ← دواهای خط دوم: **Isoprenaline** (شروع **۵ mcg/min**) یا **Adrenaline infusion ۲–۱۰ mcg/min**.
-   - اگر Beta-blocker یا Calcium channel blocker علت احتمالی است: **Glucagon** در نظر گرفته شود (دوز در این کتاب تأیید نشده؛ با متخصص یا مرکز سموم — SD-100).
+   - اگر Beta-blocker یا Calcium channel blocker علت احتمالی است: اهتمامات مسمومیت (Vasopressor، Insulin با دوز بلند، Glucagon) → **فصل ۷۸**.
    - مریض ناپایدار که به دوا جواب نداد ← **پیس ترانس‌وریدی زودهنگام**؛ **پیس ترانس‌کوتانیوس** به‌عنوان پل یا وقتی پیس وریدی فوراً موجود نیست. اگر هیچ‌کدام فوراً موجود نیست، **Fist pacing** تا رسیدن وسایل.
 3. **خطر آسیستول** (حتی بدون علایم خطر): **Mobitz II، بلاک کامل با QRS پهن، وقفهٔ بطینی > ۳ ثانیه، آسیستول اخیر** ← پیس. در «آسیستول» ECG را برای **موج P** دقیق ببین؛ این حالت به پیس بهتر جواب می‌دهد.
 
@@ -21930,6 +21939,14 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(حد زمانی و دوز → SD-69.)* **استفراغ را تحریک نکن.**
 5. **ECG** (QRS و QT)، Paracetamol level در هر خودکشی دوایی (فصل ۷۹).
 6. **هر خودکشی → ارزیابی روانی پیش از رخصت**، و با فامیل گپ بزن. **خودکشی در زنان جوان افغان** با فشار خانوادگی و خشونت همراه است؛ **با مهربانی و بدون قضاوت** بپرس و خطر خانه را ارزیابی کن.
+7. **مسمومیت Beta-blocker یا Calcium channel blocker** (خانهٔ اصلی این موضوع همین‌جاست): علامهٔ اصلی **Bradycardia و فشار پایین** است؛ در Beta-blocker گاهی قند پایین هم دیده می‌شود (با Dextrose تداوی کن). اهتمامات مسمومیت Beta-blocker (AHA 2023 Toxicology focused update؛ بخش CCB همان رهنمود در این نشست خوانده نشد → SD-100):
+   - **Vasopressor** (معمولاً اولین تداوی، چون زود دستیاب است) و مایع با احتیاط؛
+   - **Insulin با دوز بلند** همراه Dextrose و پیگیری قند و پوتاشیم — عضلهٔ قلب را قوی‌تر می‌کند؛
+   - **Glucagon** وریدی — دوز آن **بلندتر از دوز Hypoglycaemia** است؛ استفراغ زیاد دارد و اثرش زود کم می‌شود؛
+   - **Atropine** و **Pacing** — جواب‌شان ثابت نیست؛
+   - در Atenolol یا Sotalol با عدم کفایهٔ گرده، **Haemodialysis** کمک می‌کند؛
+   - **VA-ECMO** در شوک مقاوم (اگر دستیاب است)؛ **Lipid emulsion به‌طور روتین نه**.
+   🔒 دوز عددی Glucagon و Insulin در متن رهنمود AHA 2023 خوانده‌شده نیامده بود و از منبع اولیه تأیید نشد → **SD-100**؛ با مرکز سموم یا متخصص مراقبت‌های ویژه دوز را تعیین کن.
 
 ---
 
@@ -22029,6 +22046,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
+4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
 
 
 # فصل ۷۹ — مسمومیت Paracetamol
@@ -22456,7 +22474,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 # فصل ۸۲ — گرمازدگی و Hypothermia
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — از خلاصهٔ Medscape و متن 2019؛ **Hypothermia** — **ERC 2025 Special Circumstances** (بخش Accidental hypothermia و شکل ۵، متن رهنمود خوانده شد، سپتمبر 2026). باقی‌مانده: جملهٔ WMS دربارهٔ Antipyretic و جزئیات Frostbite → SD-73.*
+> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — متن کامل (بخش‌های سرد کردن، هدف حرارت و دوا) خوانده شد؛ **Hypothermia** — **ERC 2025 Special Circumstances** (بخش Accidental hypothermia و شکل ۵، متن رهنمود خوانده شد، سپتمبر 2026)؛ **Frostbite** — WMS 2024 Frostbite update (متن رهنمود).*
 
 ## جوزای قندهار، جدی بامیان
 
@@ -22500,7 +22518,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 | **۵** | **مایع وریدی ایزوتونیک:** کاهل **۱–۲ لیتر** برای شروع؛ طفل **۲۰ ml/kg** (WMS 2024). مایع سرد، اگر موجود است |
 | **۶** | **تشنج یا بی‌قراری** → Benzodiazepine (دوز در فصل ۵۵) |
 
-- **Paracetamol و NSAID برای گرمازدگی کار نمی‌کنند** (تب نیست؛ مرکز حرارت خراب نشده) و ممکن است کبد و گرده را آسیب برسانند. *(ERC 2025 همین را برای Hyperthermia ناشی از توکسین صریح می‌گوید؛ جملهٔ رسمی WMS دربارهٔ گرمازدگی → SD-73.)*
+- **Paracetamol، Aspirin، Ibuprofen و Dantrolene را برای گرمازدگی نده** (WMS 2024: توصیهٔ قوی). تب نیست؛ مرکز تنظیم حرارت خراب نشده؛ NSAID خطر خونریزی و آسیب گرده، و Paracetamol خطر آسیب کبد را زیاد می‌کند. ERC 2025 هم برای Hyperthermia ناشی از توکسین همین را می‌گوید.
 - **هر دقیقه با حرارت بالای ۴۰ مهم است.** سرد کردن را در محل شروع کن، نه پس از انتقال.
 
 ### ۵. عوارض
@@ -22547,7 +22565,13 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 5. **قند و علت‌ها:** Hypoglycaemia، الکول، Opioid، Sepsis، Hypothyroidism، و ترضیض.
 
 ### ۴. سرمازدگی موضعی (Frostbite)
-- گرم کردن سریع در آب گرم **فقط وقتی** خطر یخ زدن دوباره نیست. **مالش نده.** *(حرارت آب، Iloprost، و Thrombolysis → SD-73.)*
+(WMS 2024 Frostbite — متن رهنمود خوانده شد)
+- **اول Hypothermia و ترضیض** را اهتمام کن؛ حلقه و انگشتر را زود بکش (پرسوب می‌آید).
+- **گرم کردن سریع در آب ۳۷–۳۹ °C** (با ترمامتر؛ اگر نیست، دست سالم باید ۳۰ ثانیه آن را تحمل کند) — **فقط وقتی** عضو پس از گرم شدن دوباره یخ نمی‌زند. معمولاً حدود ۳۰ دقیقه، تا عضو سرخ یا بنفش و نرم شود. **آتش، بخاری یا سنگ داغ نه** (سوختگی). **مالش نده**؛ با فشار آرام خشک کن.
+- **درد:** NSAID یا Opioid. **Ibuprofen ۱۲ mg/kg در روز، در دو دوز** (حداکثر ۲۴۰۰ mg/روز) تا التیام زخم یا جراحی (معمولاً ۴–۶ هفته).
+- **آبله‌ها:** آبلهٔ خونی را نکش؛ آبلهٔ شفاف را در شفاخانه تخلیه کن. Aloe vera موضعی و پانسمان خشک. **Antibiotic روتین نه** (فقط در Cellulitis، Sepsis یا ترضیض مهم). Tetanus مطابق رهنمود (فصل ۷۱).
+- **سرمازدگی عمیق (درجهٔ ۳–۴):** **Iloprost وریدی** تا ۷۲ ساعت پس از گرم شدن (هر چه زودتر بهتر)، یا **tPA** وریدی/داخل شریانی در ۲۴ ساعت اول، اگر Iloprost نیست و منع خونریزی ندارد. هر دو تداوی مرکز تخصصی است — مریض را **زود** راجع کن؛ دوز در این کتاب نیامده.
+- **Heparin به‌تنهایی** برای سرمازدگی فایدهٔ ثابت‌شده ندارد.
 
 ---
 
@@ -22592,8 +22616,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 5. چرا مریض Hypothermia را آرام حرکت می‌دهی؟ ← قلب سرد تحریک‌پذیر است؛ خطر VF.
 
 ## 📚 References
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
 - European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
 
@@ -24602,6 +24627,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
+4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
 
 ## فصل ۷۹ — مسمومیت Paracetamol
 
@@ -24624,8 +24650,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 ## فصل ۸۲ — گرمازدگی و Hypothermia
 
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
 - European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
 

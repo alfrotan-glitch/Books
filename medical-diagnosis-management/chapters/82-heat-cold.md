@@ -1,6 +1,6 @@
 # فصل ۸۲ — گرمازدگی و Hypothermia
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — از خلاصهٔ Medscape و متن 2019؛ **Hypothermia** — **ERC 2025 Special Circumstances** (بخش Accidental hypothermia و شکل ۵، متن رهنمود خوانده شد، سپتمبر 2026). باقی‌مانده: جملهٔ WMS دربارهٔ Antipyretic و جزئیات Frostbite → SD-73.*
+> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — متن کامل (بخش‌های سرد کردن، هدف حرارت و دوا) خوانده شد؛ **Hypothermia** — **ERC 2025 Special Circumstances** (بخش Accidental hypothermia و شکل ۵، متن رهنمود خوانده شد، سپتمبر 2026)؛ **Frostbite** — WMS 2024 Frostbite update (متن رهنمود).*
 
 ## جوزای قندهار، جدی بامیان
 
@@ -44,7 +44,7 @@
 | **۵** | **مایع وریدی ایزوتونیک:** کاهل **۱–۲ لیتر** برای شروع؛ طفل **۲۰ ml/kg** (WMS 2024). مایع سرد، اگر موجود است |
 | **۶** | **تشنج یا بی‌قراری** → Benzodiazepine (دوز در فصل ۵۵) |
 
-- **Paracetamol و NSAID برای گرمازدگی کار نمی‌کنند** (تب نیست؛ مرکز حرارت خراب نشده) و ممکن است کبد و گرده را آسیب برسانند. *(ERC 2025 همین را برای Hyperthermia ناشی از توکسین صریح می‌گوید؛ جملهٔ رسمی WMS دربارهٔ گرمازدگی → SD-73.)*
+- **Paracetamol، Aspirin، Ibuprofen و Dantrolene را برای گرمازدگی نده** (WMS 2024: توصیهٔ قوی). تب نیست؛ مرکز تنظیم حرارت خراب نشده؛ NSAID خطر خونریزی و آسیب گرده، و Paracetamol خطر آسیب کبد را زیاد می‌کند. ERC 2025 هم برای Hyperthermia ناشی از توکسین همین را می‌گوید.
 - **هر دقیقه با حرارت بالای ۴۰ مهم است.** سرد کردن را در محل شروع کن، نه پس از انتقال.
 
 ### ۵. عوارض
@@ -91,7 +91,13 @@
 5. **قند و علت‌ها:** Hypoglycaemia، الکول، Opioid، Sepsis، Hypothyroidism، و ترضیض.
 
 ### ۴. سرمازدگی موضعی (Frostbite)
-- گرم کردن سریع در آب گرم **فقط وقتی** خطر یخ زدن دوباره نیست. **مالش نده.** *(حرارت آب، Iloprost، و Thrombolysis → SD-73.)*
+(WMS 2024 Frostbite — متن رهنمود خوانده شد)
+- **اول Hypothermia و ترضیض** را اهتمام کن؛ حلقه و انگشتر را زود بکش (پرسوب می‌آید).
+- **گرم کردن سریع در آب ۳۷–۳۹ °C** (با ترمامتر؛ اگر نیست، دست سالم باید ۳۰ ثانیه آن را تحمل کند) — **فقط وقتی** عضو پس از گرم شدن دوباره یخ نمی‌زند. معمولاً حدود ۳۰ دقیقه، تا عضو سرخ یا بنفش و نرم شود. **آتش، بخاری یا سنگ داغ نه** (سوختگی). **مالش نده**؛ با فشار آرام خشک کن.
+- **درد:** NSAID یا Opioid. **Ibuprofen ۱۲ mg/kg در روز، در دو دوز** (حداکثر ۲۴۰۰ mg/روز) تا التیام زخم یا جراحی (معمولاً ۴–۶ هفته).
+- **آبله‌ها:** آبلهٔ خونی را نکش؛ آبلهٔ شفاف را در شفاخانه تخلیه کن. Aloe vera موضعی و پانسمان خشک. **Antibiotic روتین نه** (فقط در Cellulitis، Sepsis یا ترضیض مهم). Tetanus مطابق رهنمود (فصل ۷۱).
+- **سرمازدگی عمیق (درجهٔ ۳–۴):** **Iloprost وریدی** تا ۷۲ ساعت پس از گرم شدن (هر چه زودتر بهتر)، یا **tPA** وریدی/داخل شریانی در ۲۴ ساعت اول، اگر Iloprost نیست و منع خونریزی ندارد. هر دو تداوی مرکز تخصصی است — مریض را **زود** راجع کن؛ دوز در این کتاب نیامده.
+- **Heparin به‌تنهایی** برای سرمازدگی فایدهٔ ثابت‌شده ندارد.
 
 ---
 
@@ -136,7 +142,8 @@
 5. چرا مریض Hypothermia را آرام حرکت می‌دهی؟ ← قلب سرد تحریک‌پذیر است؛ خطر VF.
 
 ## 📚 References
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
 - European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).

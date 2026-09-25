@@ -832,6 +832,7 @@
 1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
+4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
 
 ## فصل ۷۹ — مسمومیت Paracetamol
 
@@ -854,8 +855,9 @@
 
 ## فصل ۸۲ — گرمازدگی و Hypothermia
 
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
 - European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
 

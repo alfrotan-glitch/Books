@@ -165,35 +165,37 @@
 ⚗️ **فرمول ۴ ستون:**
 `HFrEF = (ARNI/ACEI/ARB) + (Beta-blocker) + (MRA) + (SGLT2i) — هم‌زمان، دوز کم شروع، تدریجی افزایش`
 
+**دوزهای شروع و هدف (ESC 2021، جدول ۸ — از متن رهنمود خوانده شد):**
+
 **ستون ۱ — RAAS Blocker (ARNI > ACEI/ARB):**
 | دوا | دوز شروع | افزایش | دوز حداکثر | راه/تکرار | یادداشت |
 |---|---|---|---|---|---|
-| **Sacubitril/Valsartan (ARNI)** | ۲۴/۲۶ mg یا ۴۹/۵۱ mg | ۲–۴ هفته | ۹۷/۱۰۳ mg | PO / BID | حد اقل ۳۶ ساعت پس از آخرین دوز ACEI (خطر Angioedema) |
-| **Enalapril** (بدیل) | ۲.۵ mg دو بار | ۲ هفته | ۱۰–۲۰ mg BID | PO / BID | سرفهٔ خشک |
-| **Ramipril** | ۲.۵ mg | ۲ هفته | ۱۰ mg OD | PO / OD | |
-| **Lisinopril** | ۵ mg | ۲ هفته | ۴۰ mg OD | PO / OD | |
-| **Losartan** (ARB) | ۲۵–۵۰ mg | ۲ هفته | ۱۵۰ mg OD | PO / OD | اگر ACEI سرفه ساخت |
+| **Sacubitril/Valsartan (ARNI)** | ۴۹/۵۱ mg (۲۴/۲۶ mg اگر سابقهٔ فشار پایین علامه‌دار دارد) | تدریجی | ۹۷/۱۰۳ mg | PO / BID | حد اقل ۳۶ ساعت پس از آخرین دوز ACEI (خطر Angioedema)؛ فشار کافی و eGFR ۳۰ یا بیشتر |
+| **Enalapril** (بدیل) | ۲.۵ mg دو بار | تدریجی | ۱۰–۲۰ mg BID | PO / BID | سرفهٔ خشک |
+| **Ramipril** | ۲.۵ mg دو بار | تدریجی | ۵ mg BID | PO / BID | |
+| **Lisinopril** | ۲.۵–۵ mg | تدریجی | ۲۰–۳۵ mg OD | PO / OD | |
+| **Losartan** (ARB) | ۵۰ mg | تدریجی | ۱۵۰ mg OD | PO / OD | اگر ACEI و ARNI تحمل نشد؛ بدیل: Candesartan ۴ → ۳۲ mg OD، Valsartan ۴۰ → ۱۶۰ mg BID |
 
 **ستون ۲ — Beta-blocker (سه دوا اثبات‌شده):**
 | دوا | دوز شروع | دوز حداکثر | راه/تکرار |
 |---|---|---|---|
-| **Carvedilol** | ۳.۱۲۵ mg | ۲۵ mg BID (وزن <۸۵ kg) / ۵۰ mg BID (وزن >۸۵ kg) | PO / BID |
+| **Carvedilol** | ۳.۱۲۵ mg دو بار | ۲۵ mg BID (وزن <۸۵ kg) / ۵۰ mg BID (وزن >۸۵ kg) | PO / BID |
 | **Bisoprolol** | ۱.۲۵ mg | ۱۰ mg | PO / OD |
-| **Metoprolol Succinate** | ۱۲.۵ mg | ۲۰۰ mg | PO / OD |
+| **Metoprolol Succinate** | ۱۲.۵–۲۵ mg | ۲۰۰ mg | PO / OD |
 
-> ⚠️ **Beta-blocker را فقط در HF پایدار (بدون احتباس حاد) شروع کن** — دوز کم، هر ۲ هفته دو برابر کن، تا دوز هدف یا حداکثر تحمل.
+> ⚠️ **Beta-blocker را فقط در مریض پایدار و بدون احتباس مایع شروع کن** — دوز کم، و به‌تدریج تا دوز هدف یا حداکثر دوز قابل تحمل بالا ببر (ESC 2021). در مریض بستری با AHF، پس از پایدار شدن با احتیاط شروع شود. *(فاصلهٔ دقیق افزایش دوز در جدول ضمیمهٔ ESC است که خوانده نشد → SD-99.)*
 
 **ستون ۳ — MRA (Mineralocorticoid Receptor Antagonist):**
 | دوا | دوز | راه/تکرار | کنترااندیکاسیون |
 |---|---|---|---|
-| **Spironolactone** | ۲۵–۵۰ mg | PO / OD | K⁺ > ۵.۵، eGFR < ۳۰ |
-| **Eplerenone** (بعد از MI) | ۲۵–۵۰ mg | PO / OD | K⁺ > ۵.۵، eGFR < ۳۰ |
+| **Spironolactone** | شروع ۲۵ mg (۱۲.۵ mg اگر گرده یا پوتاشیم نگران‌کننده است) → هدف ۵۰ mg | PO / OD | احتیاط در K⁺ بالاتر از ۵.۰ و کاهش وظیفهٔ گرده (ESC 2021)؛ حدود دقیق قطع → SD-99 |
+| **Eplerenone** | ۲۵ → ۵۰ mg | PO / OD | همان؛ Gynaecomastia کمتر |
 
 **ستون ۴ — SGLT2 Inhibitor (تمام HFrEF، با یا بدون دیابت):**
 | دوا | دوز | راه/تکرار | یادداشت |
 |---|---|---|---|
-| **Dapagliflozin** | ۱۰ mg | PO / OD | eGFR > ۲۵ |
-| **Empagliflozin** | ۱۰ mg | PO / OD | eGFR > ۲۰ |
+| **Dapagliflozin** | ۱۰ mg | PO / OD | در DAPA-HF: eGFR ۳۰ یا بیشتر |
+| **Empagliflozin** | ۱۰ mg | PO / OD | در EMPEROR-Reduced: eGFR بالاتر از ۲۰؛ کاهش خفیف eGFR در شروع متوقع است و دلیل قطع نیست |
 
 **HFmrEF و HFpEF — تازه‌سازی ESC 2023:**
 - **SGLT2 Inhibitor** (Dapagliflozin یا Empagliflozin، همان دوز بالا) برای **HFmrEF** و **HFpEF** توصیه می‌شود تا بستری شدن به علت HF یا مرگ قلبی کم شود (Class I، سطح A؛ کارآزمایی‌های EMPEROR-Preserved و DELIVER).
@@ -206,7 +208,7 @@
 |---|---|---|
 | **Digoxin** | ۰.۰۶۲۵–۰.۲۵ mg روزانه | PO — AF با HF، یا علایم باقی با وجود تداوی؛ در سالخورده و CKD دوز کم |
 | **Hydralazine + ISDN** | ۳۷.۵ mg + ۲۰ mg سه بار در روز، تا ۷۵ mg + ۴۰ mg سه بار | PO — اگر ACEI، ARB و ARNI هیچ‌کدام ممکن نیست (یا در مریضان سیاه‌پوست همراه تداوی کامل) |
-| **Ivabradine** | ۵ mg دو بار → ۷.۵ mg دو بار | PO — HFrEF با ریتم سینوسی و ضربان ۷۰ یا بیشتر، با وجود Beta-blocker |
+| **Ivabradine** | ۵ mg دو بار → ۷.۵ mg دو بار | PO — HFrEF با LVEF ۳۵ فیصد یا کمتر، ریتم سینوسی و ضربان ۷۰ یا بیشتر، با وجود Beta-blocker (یا اگر Beta-blocker ممکن نیست) |
 | **Vericiguat** | ۲.۵ → ۱۰ mg | PO / OD — بعد از Decompensation |
 
 **Dosing در عدم کفایه گرده:**

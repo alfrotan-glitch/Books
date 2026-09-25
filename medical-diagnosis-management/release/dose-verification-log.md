@@ -6,9 +6,10 @@
 ## فصل‌های ۱، ۲، ۴، ۶، ۷، ۸ — وضعیت
 
 - فصل ۸: معیار STEMI (ESC 2023) اصلاح شد؛ دوز TNK بر اساس وزن و Clopidogrel ۶۰۰ mg اصلاح شد (جلسه‌های قبل). **دیگر دوزها 🟡.**
-- فصل ۶: جدول دواهای وریدی اصلاح شد (بالا)؛ دواهای فمی 🟡. فصل ۷: 🟡 — نیاز به تأیید منبع‌به‌منبع (ESC 2021/2023 HF).
+- فصل ۶: جدول دواهای وریدی اصلاح شد (بالا)؛ دواهای فمی 🟡. فصل ۷ ✅ / ❌ **(۲۰۲۶-۰۹-۲۵، ESC 2021 HF جدول ۸، متن PDF):** ARNI ۴۹/۵۱ (۲۴/۲۶ اختیاری) → ۹۷/۱۰۳ BID ✅؛ Enalapril ✅؛ Ramipril ❌ ۱۰ OD → ۲.۵ BID → ۵ BID؛ Lisinopril ❌ ۵→۴۰ → ۲.۵–۵ → ۲۰–۳۵؛ Losartan ❌ شروع ۲۵–۵۰ → ۵۰؛ Candesartan/Valsartan افزوده شد؛ Carvedilol/Bisoprolol ✅؛ Metoprolol ❌ ۱۲.۵ → ۱۲.۵–۲۵؛ Spironolactone/Eplerenone ۲۵ → ۵۰ ✅ (۱۲.۵ اختیاری افزوده شد)؛ Dapagliflozin eGFR ❌ ۲۵ → ۳۰ (DAPA-HF)؛ Empagliflozin ✅؛ Ivabradine (LVEF ≤۳۵ افزوده شد)، Digoxin، H-ISDN ✅. 🟡 باقی: دوزهای AHF و جدول‌های ضمیمه → SD-99.
 - فصل ۱ (NEWS2، GCS) و ۴ (فرمول‌ها): 🟡 — مطابق RCP 2017، KDIGO، CKD-EPI 2021.
 - فصل ۸ ✅ / ❌ **(۲۰۲۶-۰۹-۲۵، ACC/AHA 2025 ACS جدول ۱۰، متن رهنمود):** UFH ۶۰ IU/kg (حداکثر ۴۰۰۰) + ۱۲ IU/kg/h (حداکثر ۱۰۰۰)؛ **هدف aPTT از «۵۰–۷۰» به ۶۰–۸۰ ثانیه اصلاح شد** (۵۰–۷۰ فقط همراه Fibrinolysis)؛ «تا ۴۸–۷۲ ساعت» (بی‌منبع) حذف شد؛ رژیم Enoxaparin همراه Fibrinolysis برای سن کمتر از ۷۵ و سقف دو دوز اول افزوده شد؛ Fondaparinux: منع در CrCl کمتر از ۳۰ و استفاده همراه Fibrinolysis؛ Bivalirudin: انفیوژن ۲–۴ ساعت پس از PCI اولیه و ۱ mg/kg/h در CrCl کمتر از ۳۰. Aspirin ۱۵۰–۳۰۰ و منع‌های Fibrinolysis هنوز با متن اولیه مقایسه نشد (SD-99).
+- فصل ۸ ✅ / ❌ **(ACC/AHA 2025 جدول‌های ۷، ۱۳، ۱۴، متن رهنمود):** Aspirin: ESC ۱۵۰–۳۰۰ و ACC/AHA ۱۶۲–۳۲۵ mg هر دو ذکر شد، ≤۱۰۰ mg همراه Ticagrelor؛ Clopidogrel همراه Fibrinolysis ۳۰۰ mg (≤۷۵ سال) / ۷۵ mg (>۷۵)؛ Prasugrel ۵ mg در وزن <۶۰ kg یا سن ≥۷۵؛ رژیم Alteplase برای ≥۶۷ kg افزوده شد؛ **فهرست منع Fibrinolysis به جدول ۱۴ اصلاح شد** (سکتهٔ ایسکیمیک ۳ ماه در برابر ۶ ماه ESC، با ذکر اختلاف؛ ترضیض سر ۳ ماه؛ عملیات داخل جمجمه/نخاع ۲ ماه؛ منع‌های نسبی). دوز Streptokinase 🟡 (SD-99).
 
 ## فصل ۶ — فشار بلند خون (بازنویسی ۲۰۲۶-۰۹-۲۵)
 
@@ -529,6 +530,7 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۷۸ — رهیافت به مسمومیت؛ Organophosphate و Aluminium phosphide
 - VERIFIED-ثانوی (Eddleston via BJA 2019؛ Merck 2025 مستقیم): Atropine ۱–۳ mg (Merck ۲–۳؛ اطفال ۰.۰۵ mg/kg) دو چند هر ۵ دقیقه؛ هدف صدر پاک، HR و SBP بیشتر از ۸۰؛ انفیوژن ۱۰–۲۰٪/ساعت؛ Pralidoxime ۱–۲ g در ۱۵–۳۰ دقیقه، سپس ۸ mg/kg/ساعت (Merck).
+- ✅ **اصول مسمومیت Beta-blocker** (AHA 2023 Toxicology، بخش β-blockers، متن رهنمود): Vasopressor، Insulin با دوز بلند، Glucagon (دوز بلندتر از Hypoglycaemia)، Atropine/Pacing ناپایدار، Haemodialysis برای Atenolol/Sotalol، VA-ECMO، Lipid emulsion روتین نه. دوز عددی نوشته نشد → SD-100.
 
 ## فصل ۷۹ — مسمومیت Paracetamol
 - VERIFIED (MJA 2020 خلاصه و SNAP 2019 مستقیم): ۲۱ ساعته ۱۵۰/۵۰/۱۰۰ mg/kg (۱، ۴، ۱۶ ساعت)؛ دوکیسه‌ای ۲۰۰ mg/kg در ۴ ساعت + ۱۰۰ در ۱۶؛ SNAP ۱۰۰ در ۲ + ۲۰۰ در ۱۰؛ خط UK ۱۰۰، ANZ ۱۵۰ mg/L در ۴ ساعت؛ بالقوه سمی ۱۰ g یا ۲۰۰ mg/kg.
@@ -542,6 +544,8 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 ## فصل ۸۲ — گرمازدگی و Hypothermia
 - VERIFIED (WMS 2024 خلاصه، 2019 متن): هدف ۳۸.۳–۳۸.۸ °C؛ مایع ۱–۲ L کاهل، ۲۰ ml/kg طفل؛ حرارت مقعدی؛ غوطه‌ور در آب یخ؛ ۴۰ یا بیشتر → تداوی گرمازدگی.
 - ✅ **ERC 2025 Special Circumstances — Accidental hypothermia (خوانده شد ۲۰۲۶-۰۹-۲۵):** جستجوی علایم حیاتی تا ۱ دقیقه؛ Swiss staging I–IV؛ معیارهای انتقال (HR < ۴۵، SBP < ۹۰، اریتمی بطنی، حرارت < ۳۰)؛ حداکثر ۳ شاک زیر ۳۰ °C؛ Adrenaline ۱ mg یک بار زیر ۳۰ °C، فاصلهٔ ۶–۱۰ دقیقه در ۳۰–۳۵؛ Amiodarone ۳۰۰ mg یک بار؛ VA-ECMO؛ گرم کردن بدون ECLS اگر مرکز در ~۶ ساعت نیست. SD-73 برای این بخش حل شد.
+- ✅ **WMS 2024 Heat Illness (متن کامل، ۲۰۲۶-۰۹-۲۵):** Antipyretic و Dantrolene نه (strong)؛ هدف ۳۸.۳–۳۸.۸ °C؛ مایع وریدی ۱–۲ L (کاهل) / ۲۰ mL/kg (طفل)؛ Ice-water immersion خط اول؛ Ice pack فقط روی گردن/بغل نه.
+- ✅ **WMS 2024 Frostbite (متن کامل):** آب ۳۷–۳۹ °C؛ Ibuprofen ۱۲ mg/kg/روز در دو دوز (حداکثر ۲۴۰۰ mg/روز)؛ Iloprost درجهٔ ۲–۴ تا ۷۲ ساعت پس از گرم شدن؛ tPA درجهٔ ۳–۴ در ۲۴ ساعت؛ Antibiotic روتین نه. دوز Iloprost/tPA عمداً نوشته نشد.
 
 ## فصل ۸۳ — امراض داخله در حاملگی
 - VERIFIED (ACOG CO 692/767 Order sets مستقیم): Labetalol ۲۰ mg IV در بیشتر از ۲ دقیقه → ۴۰ mg؛ Hydralazine ۵–۱۰ mg IV → ۱۰ mg پس از ۲۰ دقیقه؛ Nifedipine IR ۱۰ mg فمی (زیر زبان نه)؛ Labetalol ۲۰۰ mg فمی بدون خط، تکرار ۳۰ دقیقه؛ ۱۶۰/۱۱۰ برای ۱۵ دقیقه → ۳۰–۶۰ دقیقه. Magnesium (ACOG via ABEM 2024): ۴–۶ g در ۲۰–۳۰ دقیقه، سپس ۱–۲ g/ساعت.
