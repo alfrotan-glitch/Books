@@ -53,6 +53,7 @@
 | 61 | نوشته شده: ملاریا (WHO)، Dengue (WHO 2025)، CCHF؛ SD-53 |
 | 62 | نوشته شده: Brucellosis (اصول Ioannina)، Typhoid (CDC 2024، XDR)؛ SD-54 |
 | 63 | نوشته شده: اسهال حاد، Cholera (GTFCC)، دیزانتری، مسمومیت غذایی؛ SD-55 |
+| 64 | نوشته شده: HIV (WHO 2021/2025 AHD)؛ SD-56 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

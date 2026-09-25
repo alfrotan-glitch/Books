@@ -465,3 +465,7 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 ## فصل ۶۳ — اسهال حاد، Cholera
 - VERIFIED (GTFCC Field Manual §7 + Technical Note 2025): Doxycycline ۳۰۰ mg یک دوز (کاهل و حامله)، ۲–۴ mg/kg (کمتر از ۱۲ سال)؛ Azithromycin ۱ g / ۲۰ mg/kg؛ Ciprofloxacin ۱ g / ۲۰ mg/kg؛ استطباب‌ها؛ پلان B ۷۵ mL/kg در ۴ ساعت؛ پلان C مجموع ۱۰۰ mL/kg Ringer lactate، ارزیابی ۳/۶ ساعت، هر ۱۵–۳۰ دقیقه؛ Zinc ۲۰ mg × ۱۰ روز.
 - UNVERIFIED (SD-55): تقسیم ۳۰/۷۰ mL/kg؛ دوزهای دیزانتری و Amoebiasis نوشته نشد.
+
+## فصل ۶۴ — HIV
+- VERIFIED (WHO TB handbook §4.2): Dolutegravir ۵۰ mg دو بار در روز با Rifampicin. VERIFIED (WHO 2021/2025): ART در ۷ روز/همان روز؛ CrAg در CD4 کمتر از ۱۰۰ (قوی)، کمتر از ۲۰۰ (مشروط)؛ Fluconazole بدون CrAg در کمتر از ۱۰۰؛ AHD CD4 ۲۰۰ یا کمتر.
+- UNVERIFIED (SD-56): سایر دوزها نوشته نشد.

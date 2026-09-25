@@ -19382,3 +19382,132 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. Global Task Force on Cholera Control (GTFCC). Cholera Outbreak Response Field Manual. Section 7: Case management in treatment facilities. choleraoutbreak.org.
 2. GTFCC. Interim technical note: use of antibiotics for the treatment and control of cholera. 2025.
 3. World Health Organization. The treatment of diarrhoea: a manual for physicians and other senior health workers. 4th rev. (تقسیم پلان C؛ مستقیم خوانده نشد → SD-55.)
+= فصل ۶۴ — HIV: از شک تا تداوی مادام‌العمر
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش هشتم — انتانات** · *Currentness audit: WHO Consolidated HIV guidelines (2021، با به‌روزرسانی‌های بعدی) برای شروع سریع ART و رژیم خط اول؛ **WHO guidelines on the management of advanced HIV disease (2025)** برای AHD؛ WHO TB operational handbook برای تداخل Rifampicin و Dolutegravir. دوزهای Co-trimoxazole، Fluconazole و ترکیب ثابت خط اول از متن اصلی خوانده نشد → SD-56. پروتوکول ملی افغانستان (برنامهٔ ملی کنترول ایدز) باید پیش از چاپ مقایسه شود.*
+]
+== کمال، و سؤالی که کسی نپرسیده بود
+**کمال** ۳۲ ساله، کارگر که چند سال در ایران کار کرده بود: دو ماه اسهال، ۱۰ kg کاهش وزن، سرفه، و **Candida سفید در دهن**. سه بار Antibiotic گرفته بود. هیچ کس از او نپرسیده بود: **«اجازه است برای HIV تست کنیم؟»**
+در افغانستان، HIV کم‌شیوع است، ولی **در گروه‌های خاص متمرکز است**:
+- کسانی که **مواد مخدر تزریقی** استعمال می‌کنند؛
+- مهاجرین بازگشته؛
+- و همسران آن‌ها.
+*(ارقام ملی → SD-56.)*
+کم‌شیوع بودن یعنی **داکتر به آن فکر نمی‌کند**. و همین است که اکثر مریضان در **مرحلهٔ پیشرفته** تشخیص می‌شوند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. چرا به HIV فکر کنیم؟ — سرنخ‌ها
+**HIV علایم خاص ندارد. سرنخ آن «انتان غیرعادی برای این شخص» است:**
+- **Candida دهن** در کاهل بدون علت واضح (Steroid استنشاقی، Antibiotic)؛
+- **TB**؛ هر مریض TB باید تست HIV شود (فصل ۱۹)؛
+- **Herpes zoster** در جوان، یا در چند Dermatome؛
+- اسهال مزمن و کاهش وزن بدون علت (فصل ۳۱)؛
+- **پنومونی مکرر**، یا پنومونی با Hypoxaemia شدید و CXR «خفیف» (*Pneumocystis*)؛
+- **مننژیت مزمن با سردردی** (*Cryptococcus*)، ضعف موضعی یا تشنج (*Toxoplasma*)؛
+- **Lymphoma** (فصل ۵۸)، Sarcoma Kaposi؛
+- **Cytopenia** بدون علت (فصل ۵۳، ۵۵)؛
+- انتانات منتقله از راه جنسی، **HBV و HCV** (راه‌های انتقال مشترک، فصل ۳۲)؛
+- حاملگی (تست روتین برای جلوگیری از انتقال به طفل).
+**قاعدهٔ عملی:** وقتی یکی از این‌ها را دیدی، **تست HIV را با رضایت، مشوره و محرمیت پیشنهاد کن**. تست کردن بدنامی نیست؛ تشخیص نکردن مرگ است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. تشخیص
+- **تست سریع** بر اساس الگوریتم ملی (چند تست پشت سر هم). **یک تست مثبت تشخیص نیست.**
+- **WHO:** هر تشخیص تازه، **پیش از شروع ART دوباره تأیید شود**، تا تشخیص غلط کم شود.
+- **محرمیت** مطلق است. نتیجه به خود مریض گفته می‌شود، نه به فامیل، مگر با اجازهٔ او.
+- **پس از تشخیص:**
+- **CD4**: WHO 2025 آن را **روش ترجیحی برای شناختن HIV پیشرفته** می‌داند؛
+- غربالگری **TB**؛
+- HBV و HCV؛
+- Creatinine (برای Tenofovir)؛
+- و، اگر لازم است، تست حاملگی.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. HIV پیشرفته (Advanced HIV disease, AHD) — جایی که مرگ است
+**تعریف (WHO):** CD4 **۲۰۰ cells/mm³ یا کمتر**، یا مرحلهٔ بالینی ۳ یا ۴ WHO؛ و **همهٔ اطفال کمتر از ۵ سال**.
+**چرا مهم است؟** مرگ در AHD اکثراً از **TB، مننژیت Cryptococcal، انتانات شدید باکتریایی، *Pneumocystis* و Toxoplasmosis** است، نه از خود HIV.
+**بستهٔ مراقبت AHD (WHO 2025)** شامل این‌هاست:
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*جزء*], [*CD4*], [*اقدام*],
+    [**غربالگری TB**], [همه], [علایم، CXR، و **Urine LF-LAM** در AHD (فصل ۱۹)],
+    [**Cryptococcal antigen (CrAg)**], [کمتر از ۱۰۰ (قوی)؛ کمتر از ۲۰۰ قابل غور], [پیش از شروع ART؛ CrAg مثبت → **LP** برای رد مننژیت؛ بدون مننژیت → تداوی پیش‌گیرانهٔ Fluconazole],
+    [**بدون CrAg**], [کمتر از ۱۰۰], [پروفیلاکسی Fluconazole],
+    [**Co-trimoxazole پروفیلاکسی**], [طبق پروتوکول], [*Pneumocystis*، Toxoplasma، و باکتری‌ها],
+    [**TB preventive treatment**], [پس از رد TB فعال], [فصل ۱۹],
+    [**شروع سریع ART**], [هر CD4], [**به جز در علایم مننژیت** (پایین)],
+    [**حمایت از پابندی**], [کمتر از ۲۰۰], [مشوره و پیگیری فشرده],
+  ),
+  caption: none,
+)
+#v(0.4em)
+*(دوزهای Fluconazole و Co-trimoxazole → SD-56.)*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. ART — چه وقت و کدام
+=== چه وقت؟
+- **برای همه، بدون توجه به CD4 یا مرحله** («Treat all»).
+- **شروع سریع:** در ظرف **۷ روز** از تشخیص؛ و **در همان روز** برای کسی که آماده است (WHO: توصیهٔ قوی). مریضان AHD اولویت دارند.
+- **مریض نباید مجبور شود.** تصمیم آگاهانه، با حمایت.
+=== ⚠️ چه وقت صبر کنیم؟ — مننژیت
+**در مننژیت TB یا Cryptococcal، ART فوری منع است** (WHO)، به دلیل خطر **IRIS** کشنده در مغز.
+- **IRIS (Immune reconstitution inflammatory syndrome):** سیستم ایمنی که با ART برمی‌گردد، به انتان موجود حمله می‌کند و التهاب شدید می‌سازد.
+- **در مریض با علایم TB بدون مننژیت:** ART را شروع کن و TB را سریع بررسی کن. اگر TB تأیید شد، تداوی TB در ظرف ۷ روز شروع شود (WHO).
+- زمان دقیق ART در مننژیت با متخصص است → SD-56.
+=== کدام؟
+- **Dolutegravir (DTG) + دو NRTI** (معمولاً **Tenofovir + Lamivudine** یا Emtricitabine) رژیم **ترجیحی خط اول** است (WHO: توصیهٔ قوی برای کاهلان).
+- مثال: **TLD**، ترکیب ثابت یک تابلیت یک بار در روز. *(ترکیب mg → SD-56.)*
+- **تداخل مهم:** **Rifampicin** غلظت Dolutegravir را کم می‌کند. **WHO: Dolutegravir ۵۰ mg دو بار در روز** (به جای ۵۰ mg یک بار) در زمان تداوی TB با Rifampicin. Rifampicin در Brucellosis هم استعمال می‌شود (فصل ۶۲).
+- **Tenofovir** بر گرده و استخوان اثر دارد. **Creatinine را بپای.** در CrCl پایین، رژیم تغییر می‌کند → SD-56.
+- **HBV همزمان:** Tenofovir + Lamivudine هر دو را تداوی می‌کند. **قطع آن‌ها می‌تواند Flare کبدی شدید بسازد** (فصل ۳۲).
+=== پیگیری
+- **Viral load** اندازهٔ اصلی موفقیت است. هدف **غیرقابل تشخیص** است.
+- **«غیرقابل تشخیص = غیرقابل انتقال» (U=U):** مریض با Viral load دایماً سرکوب‌شده، HIV را از راه جنسی انتقال نمی‌دهد. این یک پیام قوی برای پابندی است. *(منبع اولیه در این فصل → SD-56.)*
+- **Viral load بلند** اکثراً یعنی **پابندی ضعیف**، نه مقاومت. اول پابندی را بهبود بده، بعد تکرار کن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۵. جلوگیری
+- **PEP (Post-exposure prophylaxis):**
+- برای **کارمند صحی پس از زخم سوزن** با خون مریض مثبت یا نامعلوم؛
+- و پس از تجاوز جنسی.
+- **هر چه زودتر، ترجیحاً در ساعت‌ها؛ نه پس از ۷۲ ساعت.** *(رژیم → SD-56.)*
+- **جلوگیری از انتقال مادر به طفل:** ART در حاملگی نزدیک به همهٔ انتقال‌ها را جلوگیری می‌کند.
+- برنامه‌های سوزن پاک و تداوی جایگزین مواد مخدر.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به کمال
+- **با رضایت و مشوره** تست شد. الگوریتم مثبت بود و تأیید شد.
+- **CD4 = ۶۰** → **AHD**.
+- **CrAg سیروم مثبت** بود.
+- سردردی نداشت؛ **LP نورمال** بود (مننژیت نیست).
+- → **Fluconazole پیش‌گیرانه**.
+- **Urine LF-LAM مثبت** و GeneXpert بلغم مثبت → **TB ریوی**.
+- تداوی TB شروع شد.
+- **ART چند روز بعد**، چون مننژیت نداشت.
+- **Dolutegravir ۵۰ mg دو بار در روز**، به خاطر Rifampicin.
+- Co-trimoxazole شروع شد.
+- **همسر او** با رضایت کمال مشوره شد و تست شد.
+- پس از شش ماه: وزن برگشت و **Viral load غیرقابل تشخیص** بود.
+**درس:** سه دورهٔ Antibiotic داده شد، اما یک سؤال پرسیده نشد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **انتان غیرعادی برای این شخص → تست HIV را پیشنهاد کن.** هر مریض TB → تست HIV.
+2. **یک تست مثبت تشخیص نیست؛ پیش از ART تأیید کن.**
+3. **CD4 ۲۰۰ یا کمتر = AHD → TB (LF-LAM)، CrAg، پروفیلاکسی، و ART سریع.**
+4. **ART برای همه، در ظرف ۷ روز، همان روز اگر آماده است — مگر مننژیت.**
+5. **Rifampicin + Dolutegravir → Dolutegravir ۵۰ mg دو بار در روز.**
+6. **Viral load بلند → اول پابندی.**
+== ⚠️ Red Flags
+- سردردی در HIV پیشرفته → مننژیت Cryptococcal (LP).
+- تنگی نفس با Hypoxaemia شدید و CXR خفیف → *Pneumocystis*.
+- ضعف موضعی یا تشنج → Toxoplasma، Lymphoma یا TB.
+- بدتر شدن ناگهانی چند هفته پس از شروع ART → IRIS یا انتان تازه.
+- زخم سوزن کارمند صحی → PEP فوری.
+== ⏱️ مرور ۶۰ ثانیه
+1. تعریف AHD؟ ← CD4 ۲۰۰ یا کمتر، مرحلهٔ ۳ یا ۴ WHO، یا طفل کمتر از ۵ سال.
+2. ART چه وقت؟ ← برای همه، در ظرف ۷ روز، همان روز اگر آماده است.
+3. چه وقت ART فوری نه؟ ← مننژیت TB یا Cryptococcal (IRIS).
+4. Dolutegravir با Rifampicin؟ ← ۵۰ mg دو بار در روز.
+5. CrAg مثبت بدون علایم؟ ← LP برای رد مننژیت؛ بعد Fluconazole پیش‌گیرانه.
+== 📚 References
+1. World Health Organization. WHO guidelines on the management of advanced HIV disease. Geneva: WHO; 2025.
+2. World Health Organization. Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring: recommendations for a public health approach. Geneva: WHO; 2021 (و به‌روزرسانی‌ها).
+3. World Health Organization. WHO operational handbook on tuberculosis: Module 6 — TB and comorbidities, §4.2 HIV treatment and care for people with TB. tbksp.who.int.
