@@ -848,7 +848,7 @@
 
 1. New Jersey Poison Information & Education System (NJPIES). Antidote Use Guideline. 2023.
 2. Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. *Ther Adv Drug Saf.* 2018;9(1):63–88.
-3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. (مستقیم خوانده نشد → SD-71.)
+3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. جدول ۲ از سند رسمی Highlights آن (cpr.heart.org) مستقیم خوانده شد.
 
 ## فصل ۸۱ — Anaphylaxis و سوختگی
 
