@@ -198,7 +198,7 @@
 | اختلاط | کلید |
 |---|---|
 | **Thyroid storm** | کشنده؛ محرک: انتان، جراحی، ولادت، قطع ATD، بار Iodine |
-| **AF**، Thromboembolism، عدم کفایهٔ قلب | Anticoagulation نظر به خطر (فصل ۵) |
+| **AF**، Thromboembolism، عدم کفایهٔ قلب | Anticoagulation نظر به خطر (فصل ۱۰) |
 | Osteoporosis | فصل ۵۱ |
 | Graves orbitopathy، **Optic neuropathy** | کوری ممکن |
 | عوارض ATD | Agranulocytosis، سمیت کبد، Vasculitis |
@@ -268,7 +268,7 @@
 
 ## 🔗 اتصال به فصل‌ها
 
-- **فصل ۵:** AF · **فصل ۷:** عدم کفایهٔ قلب · **فصل ۴۲:** Hypokalaemia (Periodic paralysis)، Hypocalcaemia پس از جراحی.
+- **فصل ۱۰:** AF · **فصل ۷:** عدم کفایهٔ قلب · **فصل ۴۲:** Hypokalaemia (Periodic paralysis)، Hypocalcaemia پس از جراحی.
 - **فصل ۴۵:** رهیافت اندوکراین (Biotin) · **فصل ۴۹:** Hypothyroidism · **فصل ۵۱:** Osteoporosis.
 
 ---

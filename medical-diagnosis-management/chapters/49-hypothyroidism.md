@@ -252,7 +252,7 @@
 
 ## 🔗 اتصال به فصل‌ها
 
-- **فصل ۵:** AF · **فصل ۴۴:** Hyponatraemia · **فصل ۴۵:** رهیافت اندوکراین و Sick euthyroid.
+- **فصل ۱۰:** AF · **فصل ۴۴:** Hyponatraemia · **فصل ۴۵:** رهیافت اندوکراین و Sick euthyroid.
 - **فصل ۴۸:** Hyperthyroidism، RAI و جراحی · **فصل ۵۰:** کمبود Cortisol و هیپوفیز · **فصل ۵۲:** Lipid.
 
 ---

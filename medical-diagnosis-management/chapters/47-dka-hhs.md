@@ -154,7 +154,7 @@
 |---|---|
 | **شروع — DKA متوسط/شدید** | **Saline 0.9% یا کریستالوئید دیگر به سرعت ۱.۰ لیتر در ساعت** (ابتدایی) |
 | بعد | سرعت مناسب بالینی با هدف جبران **۵۰ فیصد کمبود تخمینی مایع در ۸–۱۲ ساعت اول** |
-| قند کمتر از ۲۵۰ mg/dL (DKA) | **Dextrose** به مایع اضافه کن تا Insulin ادامه یابد (Ketone پاک شود) — 🔒 غلظت → SD-35 |
+| قند کمتر از ۲۵۰ mg/dL (DKA) | **Glucose ۱۰ فیصد ۱۲۵ mL/ساعت** در کنار Saline اضافه کن تا Insulin ادامه یابد و Ketone پاک شود (JBDS 2023؛ حد JBDS: ۱۴ mmol/L ≈ ۲۵۰ mg/dL) |
 | **HHS** | Osmolality **بیش از ۳.۰–۸.۰ mOsm/kg در ساعت** پایین نیاید (خطر عصبی) |
 
 ⚠️ مسن، عدم کفایهٔ قلب یا گرده → مایع با احتیاط و ارزیابی مکرر (اذیمای شش).
@@ -180,7 +180,7 @@
 | **HHS خالص** (بدون Ketone قابل‌ملاحظه، β-OHB ۱.۰ تا کمتر از ۳.۰ یا کمتر، بدون اسیدوز) | **۰.۰۵ واحد/kg/ساعت** وریدی سرعت ثابت |
 | HHS | قند را بین **۲۰۰ و ۲۵۰ mg/dL** نگه دار تا رفع |
 
-- ادامهٔ **Basal insulin** (Glargine/Detemir) در جریان انفیوژن در بسیاری پروتوکول‌ها (مثل JBDS) توصیه می‌شود — 🔒 جزئیات → SD-35.
+- **Basal insulin طولانی‌اثر** (Glargine، Detemir، Degludec) را که مریض قبلاً می‌گرفت، در جریان انفیوژن **با همان دوز ادامه بده** (JBDS 2023) — این کار DKA برگشتی را پس از قطع انفیوژن کم می‌کند.
 - **انتقال به زیرجلدی:** Basal insulin را **حداقل ۱–۲ ساعت پیش از قطع** انفیوژن وریدی شروع کن (Consensus) — وقتی DKA رفع شده و مریض می‌تواند بخورد. 🔒 محاسبهٔ دوز → SD-35.
 
 ### ۱۰.۴ Bicarbonate و Phosphate
@@ -253,6 +253,8 @@
 ---
 
 ## 📚 References
+
+- Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
 
 1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).

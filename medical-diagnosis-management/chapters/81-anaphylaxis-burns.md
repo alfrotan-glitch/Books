@@ -50,7 +50,10 @@
 **⚠️ دام شایع در شفاخانه‌های ما:** Chlorphenamine و Dexamethasone داده می‌شود و **Adrenaline فراموش یا به تأخیر می‌افتد**. مریض در همان دقیقه‌ها می‌میرد.
 
 ### ۴. پس از Anaphylaxis
-- **نظارت** (عکس‌العمل دوفازی ممکن است). *(مدت → SD-72.)*
+- **نظارت پس از رفع کامل علایم** (RCUK 2021؛ عکس‌العمل دوفازی ممکن است):
+  - **۲ ساعت** (مرخص سریع) فقط اگر: یک دوز عضلی در ۳۰ دقیقهٔ اول، پاسخ خوب در ۵–۱۰ دقیقه، رفع کامل علایم، مریض قلم خودزرق Adrenaline دارد و طرز استفاده را می‌داند، و مراقب در خانه هست.
+  - **حد اقل ۶ ساعت:** اگر **دو دوز** عضلی لازم شد، یا سابقهٔ عکس‌العمل دوفازی دارد.
+  - **حد اقل ۱۲ ساعت:** بیشتر از دو دوز؛ آسمای شدید یا مشکل تنفسی شدید؛ جذب ادامه‌دار (دوای آهسته‌رهش)؛ رسیدن در شب؛ یا **دسترسی دشوار به عاجل** — ⚠️ در بسیاری ولسوالی‌های افغانستان این شرط آخر صدق می‌کند.
 - **Tryptase** (اگر موجود است) برای تأیید.
 - **عامل را در کارت و دوسیه بنویس.** مریض را آموزش بده. **Adrenaline auto-injector**، اگر موجود است.
 - **Beta-blocker** Anaphylaxis را شدیدتر و مقاوم به Adrenaline می‌سازد.
@@ -141,5 +144,8 @@
 5. سرخی ساده را در TBSA می‌شماری؟ ← نه.
 
 ## 📚 References
+
+- Dodd A, et al. **Evidence update for the treatment of anaphylaxis.** Resuscitation. 2021;163:86–96.
+- NICE. **Anaphylaxis: assessment and referral after emergency treatment (NG258).** 2026 — بخش Period of observation.
 1. Resuscitation Council UK. Emergency treatment of anaphylaxis: guidelines for healthcare providers. May 2021.
 2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023. (خلاصه خوانده شد → SD-72.)

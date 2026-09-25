@@ -2,6 +2,14 @@
 
 > **بخش دوم — سیستم قلب و عروق**
 
+## 🩺 مریض این فصل
+
+انجنیر نصیر، ۵۲ ساله و سگرتی، ساعت پنج صبح با درد فشارنده در وسط صدر که به بازوی چپ می‌رود و با عرق سرد همراه است، به عاجل می‌رسد. درد از یک ساعت پیش شروع شده است. نزدیک‌ترین مرکز PCI دو ساعت فاصله دارد.
+
+هر دقیقه عضلهٔ قلب می‌میرد. سؤال‌ها: **ECG در کدام دقیقه؟** STEMI است یا نه؟ و اگر STEMI است، **PCI یا Fibrinolysis؟**
+
+---
+
 🖼 **تمثیل ذهنی:** عروق قلب مثل لوله‌های آبی هستند که چربی (پلاک) در دیوارهٔ آن‌ها رسوب کرده. یک روز، یک تکه از این رسوب **می‌شکند** و خون روی آن لخته می‌شود (ترومب) — لوله کاملاً بسته می‌شود و عضلهٔ قلب از آن طرف «بی‌آب» می‌ماند و می‌میرد. هر دقیقه تأخیر = بیشتر عضلهٔ مرده. پس این مریض **زمان است** — Time is Muscle.
 
 ## 🔹 ۱. Core Concept (مفهوم بنیادی)
@@ -145,11 +153,12 @@
 📋 **الگوریتم STEMI (Time-Critical):**
 1. **قدم ۱ — ECG در ۱۰ دقیقه** + تشخیص STEMI
 2. **قدم ۲ — Antiplatelet + Anticoagulant فوری** (زیر)
-3. **قدم ۳ — Reperfusion:**
-   - **Primary PCI:** اگر در **۹۰ دقیقه** (FMC-to-Device) ممکن است → **PCI**
-   - **Fibrinolysis:** اگر PCI ممکن نیست → **Fibrinolytic در ۳۰ دقیقه** (Door-to-Needle)
-   - اگر هیچ‌کدام ممکن نیست → انتقال به مرکز PCI
-4. **قدم ۴ — بعد از Reperfusion:** CAG + PCI
+3. **قدم ۳ — Reperfusion** (علایم ۱۲ ساعت یا کمتر؛ ESC 2023):
+   - **Primary PCI** اگر از **وقت تشخیص STEMI تا عبور Wire کمتر از ۱۲۰ دقیقه** ممکن است.
+   - اگر نه → **Fibrinolysis** (در صورت نبود منع) — هدف: در **۱۰ دقیقه** پس از تشخیص.
+4. **قدم ۴ — پس از Fibrinolysis، همیشه انتقال به مرکز PCI:**
+   - **موفق** → Angiography در **۲–۲۴ ساعت** (استراتیژی Pharmaco-invasive).
+   - **ناموفق** (ST به‌طور کافی پایین نیامده، درد دوامدار، یا بی‌ثباتی) → **Rescue PCI فوری**.
 5. **قدم ۵ — Secondary Prevention:** Statin + ACEI + Betablocker + دوا‌های ضد پلاکت
 
 📋 **الگوریتم NSTEMI:**
@@ -261,9 +270,18 @@
   - **کنترل فشار / قند / لیپید:** هر ۳ ماه
   - **Secondary Prevention:** Aspirin + P2Y12 (۱۲ ماه) + Statin + ACEI + Betablocker + ترک سیگار + ورزش
 
+## ↩️ برگشت به مریض
+
+- **ECG در ۱۰ دقیقهٔ اول:** بلند شدن قطعهٔ ST در V1–V4 → **STEMI قدامی**. منتظر Troponin نماندیم؛ Troponin برای STEMI تصمیم را به تأخیر می‌اندازد.
+- **انتخاب Reperfusion:** چون انتقال برای PCI در وقت توصیه‌شده ممکن نبود و منع Fibrinolysis نداشت، **Fibrinolysis** در همان مرکز داده شد و بعد به مرکز PCI انتقال یافت (بخش ۱۰ — استراتیژی Pharmaco-invasive).
+- **دواهای همزمان:** Aspirin، مهارکنندهٔ دوم پلیتلیت و Anticoagulant مطابق جدول بخش ۱۰.
+- **پس از حمله:** Statin با شدت بلند، Beta-blocker، ACEi، **ترک سگرت** و بازتوانی قلب. Echocardiography برای EF و اختلاطات (بخش ۱۱).
+
+---
+
 ## 💡 Memory Joggers (نکات طلایی)
 1. **Time is Muscle.** هر ۳۰ دقیقه تأخیر در Reperfusion = بیشتر عضلهٔ مرده.
-2. **STEMI = PCI در ۹۰ دقیقه / Fibrinolytic در ۳۰ دقیقه.**
+2. **STEMI: PCI اگر تا ۱۲۰ دقیقه ممکن است؛ ورنه Fibrinolysis در ۱۰ دقیقه و بعد انتقال** (ESC 2023).
 3. **Aspirin ۳۰۰ mg chewed** — اولین دوا که مریض می‌خورد (حتی قبل از ECG).
 4. **Ticagrelor ۱۸۰ mg → ۹۰ mg BID** — از Clopidogrel بهتر در ACS.
 5. **Nitroglycerin را در RV infarction (inferior MI + JVP بالا) نده** — hypotension.
@@ -281,6 +299,8 @@
 7. **درد جدید + وزش نو (MR / VSD)** → Mechanical Complication — Echo + جراحی.
 
 ## 📚 References
+
+- Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - ESC 2023 Guidelines for the Management of Acute Coronary Syndromes.
 - AHA/ACC 2014 (2023 Update) STEMI / NSTEMI Guidelines.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
@@ -307,7 +327,7 @@
 - **فصل ۴۶ (دیابت):** دیابت = فکتور خطر + اعراض «بی‌حرفه‌ای» (Silent MI).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
-1. STEMI = Reperfusion در چند دقیقه؟ **PCI ۹۰ / Fibrinolytic ۳۰ دقیقه.**
+1. STEMI: کی PCI و کی Fibrinolysis؟ **PCI اگر از تشخیص تا Wire کمتر از ۱۲۰ دقیقه؛ ورنه Fibrinolysis در ۱۰ دقیقه، سپس انتقال برای Angiography در ۲–۲۴ ساعت.**
 2. اولین دوا ACS؟ **Aspirin ۳۰۰ mg chewed.**
 3. Ticagrelor دوز شروع + ادامه؟ **۱۸۰ mg → ۹۰ mg BID، ۱۲ ماه.**
 4. Nitroglycerin را در چه MI ندهی؟ **RV infarction (inferior + JVP بالا).**
