@@ -20227,3 +20227,157 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. *Arthritis Care Res.* 2020;72(6):744–760.
 2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42. (فقط دوز Colchicine ۰.۵ mg؛ مستقیم خوانده نشد → SD-60.)
 3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162. (خوانده نشد → SD-60.)
+= فصل ۷۰ — ارتریت سپتیک، Spondyloarthritis و Osteomyelitis
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش نهم — روماتولوژی** · *Currentness audit: ارتریت سپتیک — رهنمود بین‌المللی تازه و واحد نیافتم؛ اصول بالینی استندرد، **بدون دوز Antibiotic** (SD-61). Axial spondyloarthritis — **ASAS-EULAR 2022** (Ramiro S et al., Ann Rheum Dis 2023) از RheumNow، ResearchGate و Manchester Research Explorer. Vertebral osteomyelitis — **IDSA 2015** (Berbari EF et al., CID 2015؛ Guideline Central، بازبینی مۍ ۲۰۲۶).*
+]
+== سه درد، سه عجله
+- **حاجی عبدالقیوم** ۶۲ ساله، دیابتی، را از فصل ۶۶ می‌شناسیم: زانوی داغ یک‌گانه با تب. Aspiration: Cocci مثبت گرام خوشه‌ای.
+- **احمد** ۲۴ ساله: دو سال کمر درد که **شب‌ها او را بیدار می‌کند**، صبح‌ها یک ساعت سخت است، و **با ورزش بهتر** می‌شود. سال گذشته یک چشمش سرخ و دردناک شده بود.
+- **خان‌آقا** ۵۵ ساله، دیالیزی: شش هفته کمر درد رو به افزایش، تب خفیف شبانه، و حالا **ضعف پاها**.
+**حاجی عبدالقیوم ساعت‌ها فرصت دارد؛ خان‌آقا روزها، پیش از فلج؛ احمد سال‌ها — که پیش از این هم دو سال آن از دست رفته.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== بخش الف — ارتریت سپتیک
+=== ۱. چرا عاجل است؟
+- باکتری در مفصل در **چند روز** غضروف را تخریب می‌کند → **معیوبیت دایمی**.
+- **سپسیس** و مرگ، به ویژه در مسن‌ها و مریضان با مرض همراه.
+- **شایع‌ترین میکروب: *Staphylococcus aureus***؛ Streptococcus؛ Gram-negative در مسن‌ها، دیابتی‌ها و معتادان تزریقی؛ ***Neisseria gonorrhoeae*** در جوانان فعال جنسی (اکثراً با Tenosynovitis و بثورات)؛ و ***Brucella*** (فصل ۶۲) و **TB** (مزمن) در افغانستان.
+- **عوامل خطر:**
+- **مفصل قبلاً مریض** (RA، OA، نقرس)؛
+- **مفصل مصنوعی**؛
+- دیابت؛
+- سن بالا؛
+- تزریق مواد؛
+- **تزریق داخل مفصل**؛
+- انتان جلد.
+=== ۲. تشخیص — مایع مفصل حرف آخر را می‌زند
+- **مفصل داغ، پندیده، دردناک، با محدودیت شدید حرکت**؛ اکثراً زانو.
+- **تب ممکن است نباشد.** نبود تب انتان را رد نمی‌کند (فصل ۵۹).
+- **Aspiration مایع — پیش از Antibiotic:**
+- **گرام و کلچر**؛
+- **شمارش WBC** (بسیار بلند با غلبهٔ Neutrophil اکثراً به انتان اشاره دارد؛ اما **هیچ عددی انتان را به طور قطعی رد یا تأیید نمی‌کند**) → *حدود عددی → SD-61*؛
+- **کرستال**. کرستال مثبت انتان را رد نمی‌کند؛ هر دو ممکن است با هم باشند.
+- **کلچر خون** (دو ست).
+- CRP، ESR و WBC کمک می‌کنند، اما **نه برای رد**.
+- **شک به Gonococcus:** کلچر یا NAAT از ادرار، عنق رحم یا احلیل، و گلو.
+=== ۳. تداوی
+1. **Antibiotic وریدی تجربی فوراً پس از Aspiration**، بر اساس **گرام**، سن، عوامل خطر، و **خطر MRSA** و مقاومت محلی. بعد بر اساس کلچر تنظیم کن. *(رژیم‌ها، دوزها و مدت → SD-61.)*
+2. **تخلیهٔ مفصل:** Aspiration مکرر با سوزن، یا **شستشوی جراحی/Arthroscopic**. **برای مفصل لگن، مفصل مصنوعی، یا جواب ضعیف → ارتوپیدی.**
+3. **مفصل مصنوعی انتانی** → ارتوپیدی از روز اول.
+4. **فزیوتراپی** پس از کنترول انتان، برای حفظ حرکت.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== بخش ب — Spondyloarthritis
+=== ۱. خانوادهٔ Spondyloarthritis
+- **Axial spondyloarthritis** (شامل Ankylosing spondylitis)، **Psoriatic arthritis**، **Reactive arthritis**، و ارتریت همراه IBD (فصل ۳۱).
+- **ویژگی‌های مشترک:**
+- التهاب **ستون فقرات و مفاصل Sacroiliac**؛
+- **Enthesitis** (التهاب محل اتصال وتر به استخوان، مثل پاشنه)؛
+- Oligoarthritis پاها؛
+- **Uveitis قدامی**؛
+- Psoriasis؛
+- IBD؛
+- ارتباط با **HLA-B27**.
+=== ۲. کمر درد التهابی — «احمد» را بشناس
+**کمر درد اکثراً مکانیکی است** (فصل ۷۶). اما این سرنخ‌ها **کمر درد التهابی** را نشان می‌دهند:
+- **شروع پیش از ۴۵ سالگی**؛
+- **تدریجی**، بیشتر از ۳ ماه؛
+- **سختی صبحگاهی طولانی**؛
+- **با ورزش بهتر، با استراحت بدتر**؛
+- **درد شبانه**، به ویژه نیمهٔ دوم شب؛
+- درد متناوب سرین.
+**به علاوه:** Uveitis، Psoriasis، IBD، درد پاشنه، سابقهٔ فامیلی، و **جواب خوب به NSAID**.
+**تأخیر تشخیص Axial SpA در بسیاری جاها سال‌ها است.** دلیل آن این است که جوان با «کمر درد» جدی گرفته نمی‌شود.
+=== ۳. تشخیص
+- **MRI مفاصل Sacroiliac:** التهاب فعال (Bone marrow oedema) پیش از تغییرات X-ray.
+- **X-ray لگن:** Sacroiliitis در مرض پیشرفته‌تر.
+- **HLA-B27**: در زمینهٔ بالینی کمک می‌کند. **به تنهایی تشخیص نیست**، چون در بسیاری مردم سالم هم هست.
+- CRP (در بعضی نورمال است).
+- **TB و Brucella** را در Sacroiliitis یک‌طرفه یا با تب رد کن (فصل ۱۹، ۶۲).
+=== ۴. تداوی (ASAS-EULAR 2022)
+1. **آموزش، ورزش منظم، ترک سگرت**؛ فزیوتراپی در نظر گرفته شود.
+2. **NSAID خط اول دوایی** است، **تا دوز اعظمی** با توجه به خطر و فایده. در جواب خوب، **استعمال دوامدار** (اگر برای کنترول علایم لازم است) ترجیح دارد.
+- NSAID در Axial SpA برخلاف RA **دوای اصلی** است، نه فقط مسکن. خطرات معده، گرده و قلب را بپای (فصل ۲۵، ۴۲).
+3. **Glucocorticoid:** تزریق موضعی در محل التهاب ممکن است. **Glucocorticoid سیستمیک دراز مدت در مرض Axial نه.**
+4. **csDMARD (مثل Methotrexate) در مرض خالص Axial نه.** **Sulfasalazine** در ارتریت محیطی در نظر گرفته شود.
+5. **فعالیت بلند دوامدار با وجود تداوی متداول:** **TNF inhibitor، IL-17 inhibitor، یا JAK inhibitor**. عمل جاری شروع با **TNFi یا IL-17i** است.
+- **Uveitis مکرر یا IBD:** TNF monoclonal antibody ترجیح دارد.
+- **Psoriasis قابل ملاحظه:** IL-17i.
+6. **پیش از Biologic:** **TB نهفته و HBV** (فصل ۱۹، ۳۲؛ مثل فصل ۶۷).
+*(دوزها → SD-61.)*
+**Reactive arthritis:**
+- Oligoarthritis پاها ۱–۴ هفته پس از **اسهال** (فصل ۶۳) یا **انتان تناسلی** (*Chlamydia*)؛ با یا بدون Conjunctivitis/Uveitis.
+- NSAID؛ **انتان تناسلی فعال را تداوی کن**.
+- اکثراً در ماه‌ها خوب می‌شود.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== بخش ج — Osteomyelitis
+=== ۱. انواع
+- **Hematogenous:** از راه خون؛ در کاهلان اکثراً **ستون فقرات** (Vertebral osteomyelitis / Spondylodiscitis).
+- **از زخم یا انتان مجاور:** **پای دیابتی** (فصل ۴۶)، زخم فشاری، یا پس از جراحی و شکستگی باز.
+- **در افغانستان: TB (Pott disease) و Brucella** علل مهم Spondylodiscitis هستند.
+=== ۲. Vertebral osteomyelitis — «خان‌آقا» (IDSA 2015)
+**چه وقت شک کنیم؟** کمر درد تازه یا بدتر شونده با:
+- تب؛
+- **CRP یا ESR بلند**؛
+- **باکتریمی** (به ویژه *S. aureus*)؛
+- **Endocarditis**؛
+- **دیالیز یا Catheter وریدی**؛
+- تزریق مواد؛
+- یا جراحی اخیر ستون.
+**تشخیص (IDSA 2015):**
+1. **معاینهٔ عصبی حرکتی و حسی** در هر مریض مشکوک.
+2. **دو ست کلچر خون** و ESR و CRP مبنایی.
+3. **MRI ستون فقرات**.
+4. **Biopsy با رهنمایی تصویر** اگر تشخیص میکروبی با کلچر خون یا سرولوژی ثابت نشده (برای *S. aureus*، *S. lugdunensis*، **Brucella**).
+5. **TB و Brucella** را در زمینهٔ افغانستان فعالانه بجوی (IGRA/TST، سرولوژی Brucella، و Biopsy برای کلچر و GeneXpert TB).
+**تداوی (IDSA 2015):**
+- **اگر معاینهٔ عصبی نورمال و همودینامیک ثابت است:** Antibiotic تجربی را **تا تشخیص میکروبی نگه دار** (پیشنهاد IDSA). Antibiotic پیش از Biopsy، Biopsy را منفی می‌سازد و مریض با تشخیص نامعلوم شش هفته تداوی می‌شود.
+- **اگر علایم عصبی، سپسیس یا بی‌ثباتی دارد:** Antibiotic فوراً، و **جراحی عاجل** برای کمپرس نخاع (ابسهٔ Epidural).
+- **مدت:**
+- **۶ هفته** Antibiotic وریدی یا فمی با جذب بلند، برای اکثر Osteomyelitis باکتریایی؛
+- **۳ ماه** برای **Brucella**؛
+- TB → رژیم TB (فصل ۱۹).
+- **ارزیابی بالینی و CRP/ESR در حدود هفتهٔ ۴** (IDSA).
+- *(رژیم‌ها و دوزها → SD-61.)*
+⚠️ **ضعف پا، بی‌حسی، یا مشکل ادرار و مواد غایطه با کمر درد و تب = ابسهٔ Epidural تا خلاف آن ثابت شود → MRI و جراحی عاجل.** ساعت‌ها بین راه رفتن و فلج دایمی فاصله است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به کیس‌ها
+1. **حاجی عبدالقیوم:**
+- Aspiration پیش از Antibiotic؛ کلچر: *S. aureus* حساس به Methicillin.
+- Antibiotic وریدی تجربی با پوشش MRSA تا نتیجهٔ کلچر، بعد محدود شد.
+- **شستشوی Arthroscopic** در روز اول.
+- کلچر خون هم مثبت بود → **Echo**: Endocarditis نبود. MRI ستون هم انجام شد، چون *S. aureus* ممکن است Spondylodiscitis بسازد.
+- فزیوتراپی؛ زانو حرکت خود را حفظ کرد.
+2. **احمد:** کمر درد التهابی + Uveitis قبلی → MRI Sacroiliac: التهاب فعال؛ HLA-B27 مثبت → **Axial SpA**.
+- ورزش و فزیوتراپی؛ **NSAID تا دوز اعظمی** با PPI (فصل ۲۵).
+- جواب ناکافی پس از دو NSAID → **غربالگری TB نهفته** (IGRA مثبت → تداوی TB نهفته، فصل ۱۹) → بعد **TNFi** (به خاطر Uveitis).
+- **درس:** دو سال «کمر درد ساده».
+3. **خان‌آقا:** دیالیزی، تب، CRP بلند، و **ضعف پا** → **MRI عاجل:** Spondylodiscitis L3–L4 با **ابسهٔ Epidural**.
+- کلچر خون، بعد Antibiotic فوراً (به خاطر علایم عصبی)؛ **جراحی عصبی در همان روز**.
+- کلچر: *S. aureus*؛ Catheter دیالیز منبع بود و تعویض شد.
+- **۶ هفته** Antibiotic؛ CRP در هفتهٔ ۴ پایین آمد.
+- دوباره راه رفت.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **مفصل داغ یک‌گانه → Aspiration پیش از Antibiotic → Antibiotic وریدی → تخلیه.**
+2. **نبود تب یا کرستال مثبت، انتان را رد نمی‌کند.**
+3. **کمر درد جوان با سختی صبحگاهی، درد شبانه و بهتر شدن با ورزش = التهابی → SpA.**
+4. **SpA: NSAID خط اول؛ Steroid سیستمیک و Methotrexate برای مرض Axial نه؛ پیش از Biologic، TB.**
+5. **کمر درد + تب + CRP بلند = Spondylodiscitis؛ TB و Brucella را در افغانستان بجوی.**
+6. **ضعف پا با کمر درد و تب = ابسهٔ Epidural → MRI و جراحی عاجل.**
+7. **Osteomyelitis ثابت، بدون علایم عصبی: اول تشخیص میکروبی، بعد Antibiotic؛ ۶ هفته (Brucella ۳ ماه).**
+== ⚠️ Red Flags
+- مفصل داغ با تب یا مفصل مصنوعی.
+- کمر درد با ضعف پا، بی‌حسی ناحیهٔ تناسلی، یا مشکل ادرار.
+- کمر درد با تب، کاهش وزن، یا سابقهٔ TB یا Brucella.
+- چشم سرخ دردناک با تاری دید در SpA (Uveitis → داکتر چشم).
+- باکتریمی *S. aureus* با کمر درد.
+== ⏱️ مرور ۶۰ ثانیه
+1. اولین اقدام در زانوی داغ؟ ← Aspiration پیش از Antibiotic.
+2. خط اول دوایی Axial SpA؟ ← NSAID تا دوز اعظمی (ASAS-EULAR 2022).
+3. Methotrexate در Axial SpA خالص؟ ← نه.
+4. مدت Antibiotic در Vertebral osteomyelitis باکتریایی؟ ← ۶ هفته؛ Brucella ۳ ماه (IDSA 2015).
+5. چه وقت Antibiotic را تا Biopsy نگه داریم؟ ← معاینهٔ عصبی نورمال و همودینامیک ثابت.
+== 📚 References
+1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34. (از خلاصه‌ها.)
+2. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 IDSA clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. *Clin Infect Dis.* 2015;61(6):e26–e46. (از Guideline Central.)

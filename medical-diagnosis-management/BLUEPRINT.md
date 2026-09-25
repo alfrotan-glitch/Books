@@ -59,6 +59,7 @@
 | 67 | نوشته شده: RA (EULAR 2022، ACR 2021)؛ SD-58 |
 | 68 | نوشته شده: SLE (EULAR 2023)؛ SD-59 |
 | 69 | نوشته شده: نقرس (ACR 2020)، OA (ACR 2019)؛ SD-60 |
+| 70 | نوشته شده: ارتریت سپتیک، Axial SpA (ASAS-EULAR 2022)، Vertebral osteomyelitis (IDSA 2015)؛ SD-61 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)
