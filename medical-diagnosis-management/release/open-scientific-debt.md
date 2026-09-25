@@ -87,6 +87,7 @@
 | SD-74 | 84 | حاملگی: WHO 2011 Preeclampsia خوانده نشد؛ قدم‌های بعدی Labetalol و تکرار Nifedipine؛ هدف عددی فشار؛ رژیم عضلی Pritchard و مدت Magnesium؛ دوز Calcium gluconate؛ حد Preeclampsia پس از ولادت؛ Aspirin وقایوی؛ خطر VTE؛ دوز اشعه؛ رهنمودهای GDM/Thyroid/VTE حاملگی | UNVERIFIED |
 | SD-75 | 85 | سالخورده: ابزارهای Frailty و STOPP/START؛ World Falls Guidelines 2022؛ فهرست کامل Beers و جداول گرده؛ جزئیات PPI؛ اهداف عددی در Frail | UNVERIFIED |
 | SD-76 | 86 | اطفال: علایم حیاتی نورمال؛ دوز Paracetamol/Ibuprofen/Antibiotic اطفال؛ دوز Dextrose؛ حدود تنفس سریع IMCI؛ حد سنی Aspirin (Reye)؛ ضد اسهال در اطفال — منبع اولیه خوانده نشد | UNVERIFIED |
+| SD-77 | 87 | FUO/کاهش وزن/عقده: هیچ رهنمود رسمی خوانده نشد — تعریف دقیق FUO، حد کاهش وزن، مدت و معیارهای Biopsy عقده (Excision در برابر FNA/Core) | UNVERIFIED |
 
 ## B. Terminology debt
 

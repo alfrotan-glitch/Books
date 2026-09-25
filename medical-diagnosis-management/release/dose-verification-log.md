@@ -539,3 +539,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 86
 - VERIFIED: IMCI علایم خطر (WHO مستقیم)؛ Zinc ۲۰ mg/۱۰ mg ۱۰–۱۴ روز (خلاصهٔ WHO)؛ دوزهای ارجاعی از ۷۳ (ENLS/AES)، ۷۵ (ESCMID)، ۸۲ (RCUK) تکرار شده.
+
+## فصل 87
+- دوز جدید ندارد.
