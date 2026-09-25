@@ -88,6 +88,7 @@
 | SD-75 | 85 | سالخورده: ابزارهای Frailty و STOPP/START؛ World Falls Guidelines 2022؛ فهرست کامل Beers و جداول گرده؛ جزئیات PPI؛ اهداف عددی در Frail | UNVERIFIED |
 | SD-76 | 86 | اطفال: علایم حیاتی نورمال؛ دوز Paracetamol/Ibuprofen/Antibiotic اطفال؛ دوز Dextrose؛ حدود تنفس سریع IMCI؛ حد سنی Aspirin (Reye)؛ ضد اسهال در اطفال — منبع اولیه خوانده نشد | UNVERIFIED |
 | SD-77 | 87 | FUO/کاهش وزن/عقده: هیچ رهنمود رسمی خوانده نشد — تعریف دقیق FUO، حد کاهش وزن، مدت و معیارهای Biopsy عقده (Excision در برابر FNA/Core) | UNVERIFIED |
+| SD-78 | 88 | تغذیه: پروتوکول WHO SAM (حدود MUAC، مایع، F-75/F-100)؛ دوز Thiamine در Wernicke؛ دوز Supplement K/Phos/Mg؛ طبقه‌بندی BMI و MUAC کاهلان؛ دوز ویتامین A (WHO)؛ Pellagra؛ منبع شیوع Scurvy در افغانستان | UNVERIFIED |
 
 ## B. Terminology debt
 
