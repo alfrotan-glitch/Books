@@ -1,11 +1,12 @@
 """
-Paragraph Reconstruction and Hyphenation Subsystem.
-Merges broken OCR/PDF lines into coherent paragraphs and intelligently resolves line-break hyphens.
+Paragraph Reconstruction and Strict Dehyphenation Subsystem.
+Merges broken OCR/PDF lines into coherent paragraphs and strictly differentiates
+between line-break word splits (infor-mation -> information)
+and genuine compound words (well-known, evidence-based, decision-making).
 """
 
 import re
-from typing import List, Tuple
-from src.models import TextLine
+from typing import List, Set
 
 
 class ParagraphReconstructor:
@@ -13,9 +14,33 @@ class ParagraphReconstructor:
         self.dehyphenate = dehyphenate
         self.preserve_true_hyphens = preserve_true_hyphens
 
-        # Common compound prefixes/words that legitimately retain hyphens
-        self.known_hyphenated_prefixes = {
-            "self", "all", "cross", "ex", "quasi", "well", "co", "pre", "non", "anti", "post"
+        # Common compound words & prefix modifiers that MUST retain their hyphen
+        self.compound_halves: Set[str] = {
+            "well", "self", "cross", "peer", "evidence", "high", "low", "short",
+            "long", "first", "second", "third", "decision", "rate", "cost",
+            "state", "follow", "user", "blood", "case", "open", "closed", "full",
+            "part", "broad", "narrow", "large", "small", "hard", "soft", "fast",
+            "slow", "cold", "warm", "up", "out", "in", "off", "on", "quasi", "semi"
+        }
+
+        # Common compound suffixes that retain hyphens (e.g. -based, -related, -free, -like)
+        self.compound_suffixes: Set[str] = {
+            "based", "related", "induced", "associated", "free", "like", "type",
+            "dependent", "resistant", "sensitive", "specific", "driven", "centered",
+            "proven", "oriented", "bound", "borne", "led", "making", "seeking", "looking"
+        }
+
+        # Dictionary of standard English words frequently broken by line wraps
+        self.valid_merged_lexicon: Set[str] = {
+            "information", "examination", "administration", "distribution", "circulation",
+            "respiratory", "cardiovascular", "pharmacology", "physiology", "pathology",
+            "management", "alternative", "international", "individual", "development",
+            "understanding", "significant", "comprehension", "vocabulary", "education",
+            "educational", "institution", "measurement", "temperature", "concentration",
+            "treatment", "prescription", "diagnostic", "investigation", "reconstruction",
+            "communication", "recommendation", "responsibility", "characterization",
+            "classification", "differentiation", "specialization", "organization",
+            "transcription", "intervention", "interaction", "identification", "evaluation"
         }
 
         # Terminal punctuation regex (Western + Arabic/Persian)
@@ -26,9 +51,8 @@ class ParagraphReconstructor:
 
     def is_line_break_hyphen(self, word1: str, word2: str) -> bool:
         """
-        Determines whether word1 ending with '-' followed by word2 was broken by line wrapping.
-        e.g., 'infor-' + 'mation' -> True (join to 'information')
-        e.g., 'well-' + 'known' -> False (keep 'well-known')
+        Strictly determines whether word1 ending with '-' followed by word2
+        was split solely by line wrapping, or represents an authentic hyphenated compound.
         """
         w1 = word1.rstrip("-").lower()
         w2 = word2.lower()
@@ -36,18 +60,32 @@ class ParagraphReconstructor:
         if not w1 or not w2:
             return False
 
-        # If prefix is a standard hyphenated prefix, preserve the hyphen
-        if self.preserve_true_hyphens and w1 in self.known_hyphenated_prefixes:
-            return False
-
-        # If second word starts with uppercase, probably a hyphenated proper noun (e.g. Anglo-Saxon)
+        # If second word starts with uppercase, preserve hyphen (e.g. Franco-Prussian)
         if word2[0].isupper():
             return False
 
-        # If both words are purely alphabetic, and combined length >= 5
-        if w1.isalpha() and w2.isalpha():
+        # If prefix or suffix is a known compound component, preserve hyphen!
+        if self.preserve_true_hyphens:
+            if w1 in self.compound_halves:
+                return False
+            if w2 in self.compound_suffixes:
+                return False
+
+        joined = w1 + w2
+
+        # 1. Exact match in verified merged lexicon
+        if joined in self.valid_merged_lexicon:
             return True
 
+        # 2. Syllable heuristic: if w1 is not a valid standalone English word
+        # and joined ends with standard morphological endings (-tion, -ment, -ing, -ly, -able)
+        common_endings = ("tion", "sion", "ment", "ing", "ly", "able", "ible", "ance", "ence", "ology", "ity")
+        if joined.endswith(common_endings) and len(w1) >= 3 and len(w2) >= 3:
+            # If w1 itself is not a common independent noun (like 'well', 'blood', 'case')
+            if w1 not in self.compound_halves:
+                return True
+
+        # Default conservative stance: PRESERVE HYPHEN in case of uncertainty
         return False
 
     def merge_lines_into_paragraphs(self, lines: List[str]) -> List[str]:
@@ -82,19 +120,14 @@ class ParagraphReconstructor:
 
             prev_line = current_para_lines[-1]
 
-            # Check if previous line ended with terminal punctuation
             ends_with_terminal = bool(self.terminal_punct.search(prev_line))
-
-            # Check if current line starts with lowercase (clear continuation)
             first_char = clean_line[0] if clean_line else ""
             starts_with_lower = first_char.islower()
 
             if ends_with_terminal and not starts_with_lower:
-                # Finished paragraph
                 paragraphs.append(self._reconstruct_paragraph_text(current_para_lines))
                 current_para_lines = [clean_line]
             else:
-                # Continuation of current paragraph
                 current_para_lines.append(clean_line)
 
         if current_para_lines:
@@ -112,7 +145,6 @@ class ParagraphReconstructor:
         result = lines[0]
         for next_line in lines[1:]:
             if self.dehyphenate and result.endswith("-"):
-                # Extract last word from result and first word from next_line
                 words_res = result.split()
                 words_next = next_line.split()
                 if words_res and words_next:
@@ -123,11 +155,10 @@ class ParagraphReconstructor:
                         result = result[:-1] + next_line
                         continue
                     else:
-                        # Keep hyphen
+                        # Genuine compound: keep hyphen
                         result = result + next_line
                         continue
 
-            # Standard space separation
             result = result + " " + next_line
 
         return result

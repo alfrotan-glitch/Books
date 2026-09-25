@@ -63,6 +63,13 @@ class PDFForensicsEngine:
         printable_chars = 0
         cid_pattern_matches = len(re.findall(r"\(cid:\d+\)", raw_text))
 
+        # Check for degraded OCR artifacts in predominantly Latin text
+        # (e.g. broken font encodings or old OCR generating À, Á, Â, Ã, Â, etc. in English text)
+        accented_corrupt_chars = set("ÀÁÂÃÄÅÆÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæèéêëìíîïðñòóôõöøùúûüýþÿ")
+        accented_count = sum(1 for ch in raw_text if ch in accented_corrupt_chars)
+        intra_word_dots = len(re.findall(r"[a-zA-Z]\.[a-zA-Z]", raw_text))
+        intra_word_underscores = len(re.findall(r"[a-zA-Z]_[a-zA-Z]", raw_text))
+
         for ch in raw_text:
             code = ord(ch)
             if ch == "\ufffd" or (code < 32 and ch not in "\n\r\t"):
@@ -74,13 +81,18 @@ class PDFForensicsEngine:
         corrupt_char_ratio = (corrupt_chars / char_count) if char_count > 0 else 0.0
         printable_ratio = (printable_chars / char_count) if char_count > 0 else 0.0
 
+        # Assess whether existing text layer is degraded OCR
+        is_degraded_ocr = (
+            char_count > 50
+            and (accented_count >= 3 or intra_word_dots >= 3 or intra_word_underscores >= 2)
+        )
+
         # Inspect images
         images = page.get_images(full=True)
         image_count = len(images)
         dominant_image_coverage = 0.0
         max_image_dpi = 72.0
 
-        # Estimate image coverage and DPI
         for img_info in images:
             xref = img_info[0]
             try:
@@ -92,7 +104,6 @@ class PDFForensicsEngine:
                     dpi_y = (img_h / height_pt) * 72.0
                     estimated_dpi = max(dpi_x, dpi_y)
                     max_image_dpi = max(max_image_dpi, estimated_dpi)
-                    # Check rect placement if available
                     coverage = (img_w * img_h) / (width_pt * height_pt * (300 / 72.0)**2)
                     dominant_image_coverage = max(dominant_image_coverage, min(1.0, coverage))
             except Exception:
@@ -103,12 +114,12 @@ class PDFForensicsEngine:
             and word_count >= self.config.min_native_words
             and corrupt_char_ratio < self.config.max_corrupt_char_ratio
             and printable_ratio >= self.config.min_printable_ratio
+            and not is_degraded_ocr  # Degraded OCR must NOT be trusted as clean native text!
         )
 
-        # Detect OCR text characteristics (e.g. invisible text layer created by OCR engines)
-        is_ocr_layer = False
-        if has_native_text:
-            # Check font names for OCR indications
+        # Detect OCR text characteristics (e.g. font names or hidden text)
+        is_ocr_layer = is_degraded_ocr
+        if not is_ocr_layer and has_native_text:
             for fn in font_names:
                 fn_lower = fn.lower()
                 if any(k in fn_lower for k in ["ocr", "tesseract", "omnipage", "type3", "glyphless"]):
@@ -121,6 +132,11 @@ class PDFForensicsEngine:
         if rotation in (90, 180, 270):
             classification = PageClassification.ROTATED
             notes.append(f"Page metadata has rotation: {rotation}°")
+        elif is_degraded_ocr:
+            classification = PageClassification.OCR_EXISTING
+            notes.append(
+                f"Degraded/corrupted existing OCR layer detected ({accented_count} corrupted accents, {intra_word_dots} intra-word dots). Routing to fresh OCR."
+            )
         elif not has_native_text and (image_count > 0 or char_count < self.config.min_native_chars):
             if max_image_dpi > 0 and max_image_dpi < 140:
                 classification = PageClassification.LOW_QUALITY_SCAN
@@ -135,7 +151,6 @@ class PDFForensicsEngine:
             classification = PageClassification.HYBRID
             notes.append("Contains both rich text layer and raster images/figures.")
         elif has_native_text:
-            # Check layout complexity (e.g. multi-column or tables)
             text_blocks = page.get_text("blocks")
             if len(text_blocks) > 8 or len(font_names) > 3:
                 classification = PageClassification.COMPLEX_LAYOUT

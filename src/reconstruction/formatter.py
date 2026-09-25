@@ -1,6 +1,7 @@
 """
 Document Output Formatter Subsystem.
 Transforms structured SemanticRegions and PageResults into clean, readable, publication-grade text.
+Guarantees NO SILENT DATA LOSS: running headers/footers are tagged without breaking paragraph flow.
 """
 
 from typing import List, Optional
@@ -42,7 +43,6 @@ class DocumentFormatter:
                 warn_str += f" ({'; '.join(page_result.warnings)})"
             sections.append(f"<!-- NOTE:{warn_str} -->")
 
-        # Group sequential paragraph lines to feed to paragraph reconstructor
         current_para_lines: List[str] = []
         footnotes: List[str] = []
 
@@ -60,22 +60,28 @@ class DocumentFormatter:
             if not text:
                 continue
 
-            # Header / Footer handling
+            # Context-aware Header handling (NO SILENT DELETION)
             if region.region_type == RegionType.HEADER:
-                if self.config.suppress_recurring_headers and self.header_footer_mgr.is_running_header(text):
-                    continue
-                # If unique header, keep it as subtle line
                 flush_paragraphs()
-                sections.append(f"[{text}]")
+                if self.header_footer_mgr.is_running_header(text):
+                    # Tagged running header: preserved without interrupting paragraph flow
+                    sections.append(f"<!-- [RUNNING HEADER: {text}] -->")
+                else:
+                    sections.append(f"[{text}]")
                 continue
 
+            # Context-aware Footer handling
             if region.region_type == RegionType.FOOTER:
-                if self.config.suppress_recurring_headers and self.header_footer_mgr.is_running_footer(text):
-                    continue
+                flush_paragraphs()
+                if self.header_footer_mgr.is_running_footer(text):
+                    sections.append(f"<!-- [RUNNING FOOTER: {text}] -->")
+                else:
+                    sections.append(f"[{text}]")
                 continue
 
             if region.region_type == RegionType.PAGE_NUMBER:
-                # Page numbers are recorded in page markers
+                # Standalone page number preserved as comment
+                sections.append(f"<!-- [PAGE NUMBER: {text}] -->")
                 continue
 
             # Structural Headings
@@ -116,7 +122,7 @@ class DocumentFormatter:
 
         flush_paragraphs()
 
-        # Append Footnotes at bottom
+        # Append Footnotes cleanly at bottom
         if footnotes:
             sections.append("---")
             for fn in footnotes:
@@ -126,8 +132,6 @@ class DocumentFormatter:
 
     def format_book(self, page_results: List[PageResult]) -> str:
         """Formats the entire book into a single coherent document."""
-        # First analyze headers and footers across the book
         self.header_footer_mgr.analyze_document_headers_footers(page_results)
-
         page_texts = [self.format_page(pr, include_page_header=True) for pr in page_results]
         return "\n\n".join(page_texts) + "\n"

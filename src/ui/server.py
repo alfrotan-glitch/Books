@@ -762,6 +762,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                                 <th>حجم متن خروجی</th>
                                 <th>فایل متنی اصلی (.txt)</th>
                                 <th>گزارش بصری کیفیت</th>
+                                <th>ممیزی منشأ (Provenance)</th>
                                 <th>عملیات</th>
                             </tr>
                         </thead>
@@ -782,13 +783,20 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                             <td>
                                 ${o.html_path ? `
                                     <a href="/output/${encodeURIComponent(o.book_name)}_report.html" target="_blank" class="btn btn-sm">
-                                        📊 مشاهده گزارش
+                                        📊 گزارش HTML
+                                    </a>
+                                ` : '-'}
+                            </td>
+                            <td>
+                                ${o.prov_path ? `
+                                    <a href="/output/${encodeURIComponent(o.book_name)}_provenance.json" target="_blank" class="btn btn-sm" style="background:#1e293b; border-color:#475569;">
+                                        📋 ممیزی JSON
                                     </a>
                                 ` : '-'}
                             </td>
                             <td>
                                 <button class="btn btn-sm btn-primary" onclick="previewText('${encodeURIComponent(o.txt_path)}', '${o.book_name}')">
-                                    👁 مطالعه در سیستم
+                                    👁 مطالعه
                                 </button>
                             </td>
                         </tr>
@@ -997,6 +1005,7 @@ async def get_outputs():
 
         html_file = default_config.output_dir / f"{b_name}_report.html"
         json_file = default_config.output_dir / f"{b_name}_report.json"
+        prov_file = default_config.output_dir / f"{b_name}_provenance.json"
 
         # Read char count
         char_count = 0
@@ -1015,6 +1024,7 @@ async def get_outputs():
             "txt_path": str(txt),
             "html_path": str(html_file) if html_file.exists() else "",
             "json_path": str(json_file) if json_file.exists() else "",
+            "prov_path": str(prov_file) if prov_file.exists() else "",
             "char_count": char_count,
             "char_count_formatted": f"{char_count:,}",
             "pages_count": pages_count,

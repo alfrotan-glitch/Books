@@ -1,10 +1,11 @@
 """
-Reading Order Engine.
-Determines the true logical reading sequence of document elements across single-column,
-multi-column, spanning headers, sidebars, footnotes, and RTL/LTR languages.
+Reading Order Engine (Hardened Band-Based Slicing).
+Determines the true logical reading sequence across single-column, multi-column,
+spanning headers, middle section banners, sidebars, footnotes, and RTL/LTR languages.
+Uses Vertical Band Slicing to guarantee middle banners never get pushed out of sequence.
 """
 
-from typing import List, Optional
+from typing import Dict, List, Optional
 from src.config import ExtractionConfig, default_config
 from src.layout.detector import PageLayoutInfo
 from src.models import BoundingBox, RegionType, SemanticRegion
@@ -24,19 +25,17 @@ class ReadingOrderSorter:
     ) -> List[SemanticRegion]:
         """
         Sorts semantic regions into strictly logical reading order.
-        Handles:
+        Employs Vertical Band Slicing:
         1. Top running headers & page numbers
-        2. Spanning titles / headings across multiple columns
-        3. Column 1 (top to bottom) -> Column 2 (top to bottom) [LTR or RTL aware]
-        4. Embedded figures / tables in their logical vertical flow
-        5. Sidebars
-        6. Footnotes at the bottom
-        7. Footers
+        2. Spanning elements partition the body into vertical bands
+        3. Within each band: Column 1 (top to bottom) -> Column 2 (top to bottom)
+        4. Sidebars placed contextually
+        5. Footnotes at the bottom
+        6. Footers
         """
         if not regions:
             return []
 
-        # 1. Categorize regions into structural layers
         headers: List[SemanticRegion] = []
         footers: List[SemanticRegion] = []
         footnotes: List[SemanticRegion] = []
@@ -58,69 +57,68 @@ class ReadingOrderSorter:
             else:
                 body_regions.append(r)
 
-        # Sort headers and footers by coordinates
+        # Sort headers, footers, and footnotes by geometry
         headers.sort(key=lambda r: (r.bbox.y0, r.bbox.x0))
         footers.sort(key=lambda r: (r.bbox.y0, r.bbox.x0))
         footnotes.sort(key=lambda r: (r.bbox.y0, r.bbox.x0))
 
-        # 2. Process Body Regions
+        # 2. Process Body Regions using Vertical Band Slicing
         ordered_body: List[SemanticRegion] = []
 
         if layout.column_count <= 1 or not layout.columns:
-            # Single Column: sort primarily by vertical y0, with small tolerance for horizontal jitter
-            # Group lines that are on roughly the same horizontal band (tolerance: 4 points)
+            # Single-column page
             ordered_body = self._sort_single_column(body_regions, is_rtl=is_rtl)
         else:
-            # Multi-Column Layout (e.g. 2 or 3 columns)
-            # Separate spanning titles/banners from column-bound content
-            spanning_top: List[SemanticRegion] = []
-            column_buckets: dict[int, List[SemanticRegion]] = {
-                col.col_idx: [] for col in layout.columns
-            }
-            spanning_middle: List[SemanticRegion] = []
+            # Multi-column layout with potential spanning elements
+            spanning_width_threshold = page_width * 0.55
 
-            spanning_width_threshold = page_width * 0.60
-            top_cut_off = page_height * 0.35
+            spanning_elements: List[SemanticRegion] = []
+            columnar_elements: List[SemanticRegion] = []
 
             for r in body_regions:
-                # Check if region is a spanning title or banner
+                # Wide titles, headings, tables or figures spanning across columns
                 is_wide = r.bbox.width >= spanning_width_threshold
-                is_title_heading = r.region_type in (RegionType.TITLE, RegionType.HEADING)
-
-                if is_wide and is_title_heading and r.bbox.y0 < top_cut_off:
-                    spanning_top.append(r)
-                elif is_wide:
-                    spanning_middle.append(r)
+                is_heading_or_table = r.region_type in (RegionType.TITLE, RegionType.HEADING, RegionType.TABLE)
+                if is_wide or (is_heading_or_table and r.bbox.width >= page_width * 0.45):
+                    spanning_elements.append(r)
                 else:
-                    # Assign to column
-                    col_idx = self._find_column_index(r.bbox, layout)
-                    if col_idx in column_buckets:
-                        r.column_index = col_idx
-                        column_buckets[col_idx].append(r)
-                    else:
-                        spanning_middle.append(r)
+                    columnar_elements.append(r)
 
-            # Sort top spanning regions by y0
-            spanning_top.sort(key=lambda r: r.bbox.y0)
-            ordered_body.extend(spanning_top)
+            if not spanning_elements:
+                # No spanning elements, single multi-column band
+                ordered_body = self._sort_multicolumn_band(columnar_elements, layout, is_rtl)
+            else:
+                # Sort spanning elements strictly by vertical position
+                spanning_elements.sort(key=lambda r: r.bbox.y0)
 
-            # Determine column iteration order based on text direction (LTR vs RTL)
-            # For LTR: Left column (lowest x0) -> Right column (highest x0)
-            # For RTL: Right column (highest x0) -> Left column (lowest x0)
-            sorted_cols = sorted(layout.columns, key=lambda c: c.x0, reverse=is_rtl)
+                # Partition into vertical slices (bands)
+                # Band 0: above first spanning element
+                # Band i: between spanning element i and i+1
+                # Band last: below last spanning element
+                current_y = 0.0
 
-            # Collect columns
-            for col in sorted_cols:
-                col_items = column_buckets.get(col.col_idx, [])
-                col_sorted = self._sort_single_column(col_items, is_rtl=is_rtl)
-                ordered_body.extend(col_sorted)
+                for span in spanning_elements:
+                    band_items = [
+                        item for item in columnar_elements
+                        if current_y <= item.bbox.center_y < span.bbox.y0
+                    ]
+                    if band_items:
+                        ordered_body.extend(self._sort_multicolumn_band(band_items, layout, is_rtl))
 
-            # Append middle spanning blocks sorted by y0
-            if spanning_middle:
-                spanning_middle.sort(key=lambda r: r.bbox.y0)
-                ordered_body.extend(spanning_middle)
+                    # Append the spanning element itself
+                    span.column_index = -1
+                    ordered_body.append(span)
+                    current_y = span.bbox.y1
 
-        # 3. Assemble Complete Reading Sequence
+                # Remaining items below the last spanning element
+                trailing_items = [
+                    item for item in columnar_elements
+                    if item.bbox.center_y >= current_y
+                ]
+                if trailing_items:
+                    ordered_body.extend(self._sort_multicolumn_band(trailing_items, layout, is_rtl))
+
+        # 3. Assemble Complete Sequence
         final_sequence: List[SemanticRegion] = []
         final_sequence.extend(headers)
         final_sequence.extend(ordered_body)
@@ -128,11 +126,47 @@ class ReadingOrderSorter:
         final_sequence.extend(footnotes)
         final_sequence.extend(footers)
 
-        # Assign 0-based reading order index to every region
         for idx, reg in enumerate(final_sequence):
             reg.reading_order_idx = idx
 
         return final_sequence
+
+    def _sort_multicolumn_band(
+        self,
+        band_items: List[SemanticRegion],
+        layout: PageLayoutInfo,
+        is_rtl: bool,
+    ) -> List[SemanticRegion]:
+        """Sorts columnar items within a vertical slice/band from left to right (or right to left in RTL)."""
+        if not band_items:
+            return []
+
+        column_buckets: Dict[int, List[SemanticRegion]] = {
+            col.col_idx: [] for col in layout.columns
+        }
+
+        for item in band_items:
+            col_idx = self._find_column_index(item.bbox, layout)
+            if col_idx in column_buckets:
+                item.column_index = col_idx
+                column_buckets[col_idx].append(item)
+            else:
+                # Fallback to nearest column
+                best = layout.columns[0].col_idx
+                item.column_index = best
+                column_buckets[best].append(item)
+
+        ordered_band: List[SemanticRegion] = []
+        # In LTR: lowest x0 (left) -> highest x0 (right)
+        # In RTL: highest x0 (right) -> lowest x0 (left)
+        sorted_cols = sorted(layout.columns, key=lambda c: c.x0, reverse=is_rtl)
+
+        for col in sorted_cols:
+            col_items = column_buckets.get(col.col_idx, [])
+            col_sorted = self._sort_single_column(col_items, is_rtl=is_rtl)
+            ordered_band.extend(col_sorted)
+
+        return ordered_band
 
     def _sort_single_column(
         self, regions: List[SemanticRegion], is_rtl: bool = False
@@ -144,7 +178,6 @@ class ReadingOrderSorter:
         if not regions:
             return []
 
-        # Sort with small vertical clustering tolerance
         sorted_regions = sorted(regions, key=lambda r: r.bbox.y0)
         clustered = []
         current_cluster = [sorted_regions[0]]
@@ -154,7 +187,6 @@ class ReadingOrderSorter:
             if abs(r.bbox.y0 - prev_y0) <= 4.0:
                 current_cluster.append(r)
             else:
-                # Sort cluster horizontally
                 current_cluster.sort(key=lambda x: x.bbox.x0, reverse=is_rtl)
                 clustered.extend(current_cluster)
                 current_cluster = [r]

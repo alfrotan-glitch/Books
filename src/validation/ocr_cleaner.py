@@ -1,12 +1,13 @@
 """
-OCR Error Detection and High-Confidence Correction Subsystem.
-Detects common optical character recognition errors (digit/letter confusion, broken ligatures)
-with full audit trail and strict confidence thresholds. Never alters text without high confidence.
+OCR Error Detection and Highly Conservative Correction Subsystem.
+Strict Principle: "A visible OCR error is better than a false correction."
+Every correction is strictly logged and audited: (page, original, corrected, confidence, reason).
+Only applies replacements when the candidate word is verified in a validated lexicon.
 """
 
 from dataclasses import dataclass
 import re
-from typing import List, Optional, Tuple
+from typing import List, Optional, Set, Tuple
 
 
 @dataclass
@@ -18,27 +19,48 @@ class OCRErrorCorrection:
     reason: str
     applied: bool
 
+    def to_dict(self):
+        return {
+            "page_num": self.page_num,
+            "original": self.original,
+            "corrected": self.corrected,
+            "confidence": round(self.confidence, 3),
+            "reason": self.reason,
+            "applied": self.applied,
+        }
+
 
 class OCRErrorDetector:
-    def __init__(self, min_confidence_to_apply: float = 0.85):
+    def __init__(self, min_confidence_to_apply: float = 0.90):
         self.min_confidence_to_apply = min_confidence_to_apply
 
-        # Embedded digit inside alphabetic word pattern: e.g. "med1cine", "b00k"
+        # Pattern for letters with a single embedded digit: e.g. "med1cine", "c1inical"
         self.digit_in_word_pattern = re.compile(r"\b([a-zA-Z]{2,})([0158])([a-zA-Z]{2,})\b")
 
-        # Lexicon of common words with ambiguous OCR digit substitutions (1 -> i or l, 0 -> o)
-        self.common_words = {
+        # Scientific/chemical/model identifiers that should NEVER be touched
+        self.protected_identifiers: Set[str] = {
+            "covid19", "sars", "h1n1", "h5n1", "co2", "h2o", "b12", "d3", "t3", "t4",
+            "cd4", "cd8", "il6", "il1", "tnf", "p53", "brca1", "brca2", "page1", "fig1", "table1"
+        }
+
+        # Validated lexicon of high-frequency words prone to OCR digit substitution
+        self.verified_lexicon: Set[str] = {
             "medicine", "medical", "clinical", "hospital", "patient", "treatment",
             "protocol", "individual", "prescription", "condition", "illness",
             "examination", "physician", "surgical", "diagnosis", "analysis",
             "circulation", "respiratory", "cardiovascular", "pharmacology",
             "information", "guideline", "definition", "position", "condition",
-            "book", "blood", "good", "food", "look", "took", "room", "door",
+            "education", "educational", "institution", "measurement", "temperature",
+            "concentration", "investigation", "reconstruction", "communication",
+            "book", "blood", "good", "food", "look", "took", "room", "door", "school",
+            "action", "motion", "option", "section", "fraction", "reaction", "traction",
+            "critical", "optical", "physical", "typical", "practical", "chemical"
         }
 
     def detect_and_clean(self, text: str, page_num: int = 0) -> Tuple[str, List[OCRErrorCorrection]]:
         """
-        Scans text for OCR errors. Applies high-confidence fixes and logs all detected errors.
+        Scans text for OCR errors. Applies ONLY high-confidence, verified fixes.
+        Never alters text without lexical verification.
         """
         if not text:
             return text, []
@@ -46,14 +68,17 @@ class OCRErrorDetector:
         corrections: List[OCRErrorCorrection] = []
         cleaned_text = text
 
-        # 1. Detect embedded digits in alphabetic words: e.g. med1cine -> medicine, c1inical -> clinical
         def replacer(match: re.Match) -> str:
             prefix = match.group(1)
             digit = match.group(2)
             suffix = match.group(3)
             orig_word = match.group(0)
 
-            # Evaluate candidates for the digit
+            # Never touch scientific identifiers
+            if orig_word.lower() in self.protected_identifiers:
+                return orig_word
+
+            # Determine substitution candidates
             candidate_chars = []
             if digit == "1":
                 candidate_chars = ["i", "l"]
@@ -67,57 +92,81 @@ class OCRErrorDetector:
                 candidate_chars = [digit]
 
             best_word = None
-            # Check lexicon first
             for ch in candidate_chars:
-                w_cand = prefix + ch + suffix
-                if w_cand.lower() in self.common_words:
-                    best_word = w_cand
+                candidate = prefix + ch + suffix
+                if candidate.lower() in self.verified_lexicon:
+                    best_word = candidate
                     break
 
-            # Fallback heuristic
-            if best_word is None:
-                # If 1 is followed by 'c' or 't', often 'i' (e.g. med1cine, act1on)
-                if digit == "1" and suffix.startswith(("c", "t", "n", "m")):
-                    best_word = prefix + "i" + suffix
-                else:
-                    best_word = prefix + candidate_chars[0] + suffix
-
-            conf = 0.92 if best_word.lower() in self.common_words else 0.75
-            applied = conf >= self.min_confidence_to_apply
-
-            corrections.append(
-                OCRErrorCorrection(
-                    page_num=page_num,
-                    original=orig_word,
-                    corrected=best_word if applied else orig_word,
-                    confidence=conf,
-                    reason=f"OCR digit-letter confusion: replaced '{digit}' in '{orig_word}' with '{best_word}'",
-                    applied=applied,
+            if best_word is not None:
+                # Verified in dictionary -> high confidence
+                conf = 0.94
+                applied = conf >= self.min_confidence_to_apply
+                corrections.append(
+                    OCRErrorCorrection(
+                        page_num=page_num,
+                        original=orig_word,
+                        corrected=best_word,
+                        confidence=conf,
+                        reason=f"OCR digit-letter confusion: verified '{orig_word}' -> '{best_word}' in lexicon",
+                        applied=applied,
+                    )
                 )
-            )
-
-            return best_word if applied else orig_word
+                return best_word if applied else orig_word
+            else:
+                # UNVERIFIED: preserve original text without guessing!
+                corrections.append(
+                    OCRErrorCorrection(
+                        page_num=page_num,
+                        original=orig_word,
+                        corrected=orig_word,
+                        confidence=0.40,
+                        reason=f"Potential OCR anomaly '{orig_word}' not found in verified lexicon; preserved original",
+                        applied=False,
+                    )
+                )
+                return orig_word
 
         cleaned_text = self.digit_in_word_pattern.sub(replacer, cleaned_text)
 
-        # 2. Detect vertical bar '|' misused as letter 'l' or 'I' inside words
-        bar_in_word = re.findall(r"\b([a-zA-Z]+)\|([a-zA-Z]+)\b", cleaned_text)
-        for pre, suf in bar_in_word:
+        # 2. Vertical bar '|' inside words: e.g. "c|inical" -> "clinical"
+        bar_matches = re.findall(r"\b([a-zA-Z]+)\|([a-zA-Z]+)\b", cleaned_text)
+        for pre, suf in bar_matches:
             orig = f"{pre}|{suf}"
-            cand = f"{pre}l{suf}"
-            conf = 0.88
-            applied = conf >= self.min_confidence_to_apply
-            corrections.append(
-                OCRErrorCorrection(
-                    page_num=page_num,
-                    original=orig,
-                    corrected=cand if applied else orig,
-                    confidence=conf,
-                    reason="Vertical bar '|' recognized as letter 'l'",
-                    applied=applied,
+            cand_l = f"{pre}l{suf}"
+            cand_i = f"{pre}i{suf}"
+
+            chosen = None
+            if cand_l.lower() in self.verified_lexicon:
+                chosen = cand_l
+            elif cand_i.lower() in self.verified_lexicon:
+                chosen = cand_i
+
+            if chosen is not None:
+                conf = 0.92
+                applied = conf >= self.min_confidence_to_apply
+                corrections.append(
+                    OCRErrorCorrection(
+                        page_num=page_num,
+                        original=orig,
+                        corrected=chosen,
+                        confidence=conf,
+                        reason=f"Vertical bar misrecognized as letter: verified '{orig}' -> '{chosen}'",
+                        applied=applied,
+                    )
                 )
-            )
-            if applied:
-                cleaned_text = cleaned_text.replace(orig, cand)
+                if applied:
+                    cleaned_text = cleaned_text.replace(orig, chosen)
+            else:
+                corrections.append(
+                    OCRErrorCorrection(
+                        page_num=page_num,
+                        original=orig,
+                        corrected=orig,
+                        confidence=0.45,
+                        reason=f"Unverified vertical bar pattern '{orig}'; preserved original",
+                        applied=False,
+                    )
+                )
 
         return cleaned_text, corrections

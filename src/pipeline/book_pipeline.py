@@ -157,7 +157,21 @@ class BookPipeline:
 
         # Format Full Book Text
         formatter = DocumentFormatter(self.config, header_footer_mgr)
-        full_book_text = formatter.format_book(all_results)
+        formatted_pages_map = {pr.page_num: formatter.format_page(pr, include_page_header=True) for pr in all_results}
+        full_book_text = "\n\n".join(formatted_pages_map[pr.page_num] for pr in all_results) + "\n"
+
+        # Generate Page Provenance Manifest & Completeness Audit
+        from src.pipeline.provenance import ProvenanceAuditor
+        provenance_manifest = ProvenanceAuditor.audit_and_generate_manifest(
+            book_name=book_name,
+            pdf_path=str(pdf_path),
+            total_input_pages=total_pages,
+            page_results=all_results,
+            formatted_pages=formatted_pages_map,
+            verification=verification,
+            output_dir=self.config.output_dir,
+        )
+        self.logger.info(f"Generated provenance & completeness audit: {book_name}_provenance.json")
 
         # Write Output Text File
         output_txt_path = self.config.output_dir / f"{book_name}.txt"

@@ -86,6 +86,20 @@ class SemanticRegionClassifier:
                 )
                 continue
 
+            # 1B. Margin line numbers check (e.g. 5, 10, 15 printed along margins of reading passages)
+            if (bbox.x1 <= page_width * 0.16 or bbox.x0 >= page_width * 0.88) and re.match(r"^[\·\.\s]*\d{1,3}[\s\.]*$", text):
+                regions.append(
+                    SemanticRegion(
+                        region_id=f"margin_line_num_{idx}",
+                        region_type=RegionType.PAGE_NUMBER,
+                        bbox=bbox,
+                        confidence=0.95,
+                        lines=[line],
+                        text=text,
+                    )
+                )
+                continue
+
             # 2. Header check (in top margin, short or distinct)
             if bbox.y1 <= header_boundary:
                 regions.append(
