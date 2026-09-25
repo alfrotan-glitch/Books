@@ -614,3 +614,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ✅ فصل ۷۸: AHA 2023 جدول ۲ — Atropine طفل ۰٫۰۲ mg/kg (اختلاف با Merck ذکر شد)، Pralidoxime کاهل/طفل؛ سقف ۲ mg/hr AHA در برابر Eddleston به‌عنوان اختلاف رهنمود ذکر شد.
 - ✅ فصل ۸۳: WHO 2011 (خلاصه و Mg)، ACOG 767 order set، برچسب FDA Magnesium sulfate (Hospira) — رژیم Pritchard، مدت ۲۴ ساعت، حد اعظمی، قدم‌های Labetalol/Nifedipine، Aspirin/Calcium وقایوی.
 - ✅ فصل ۷۹: ANZ 2020 (MJA متن کامل) — Charcoal، NAC دو چند در Massive، معیار پایان NAC.
+- ✅ فصل ۸۱: RCUK 2021 §3.1/3.3 — علایم پوستی تا ۲۰٪ غایب (اصلاح دقت از «۱۰–۲۰»).
