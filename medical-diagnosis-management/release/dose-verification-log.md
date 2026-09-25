@@ -371,3 +371,7 @@
 ### فصل ۴۰ — UTI (۲۰۲۶-۰۹-۲۵)
 
 همه دوزهای جدول‌های ۱۰.۲–۱۰.۵ مستقیم از متن اصلی **NICE NG109** (جداول ۱–۳) و **NICE NG111** (جداول ۱–۲) خوانده شد = **VERIFIED**: Nitrofurantoin، Trimethoprim، Pivmecillinam، Fosfomycin، Amoxicillin، Cefalexin، Co-amoxiclav (فمی و IV)، Ciprofloxacin (فمی و IV)، Ceftriaxone، Cefuroxime، Gentamicin، Amikacin. مدت cUTI: IDSA 2025 (abstract اولیه) = **VERIFIED**. اختلاف مدت NICE 2018 در برابر IDSA 2025 نشان داده شد. تعدیل گرده‌ای Nitrofurantoin (eGFR ≥۴۵؛ ۳۰–۴۴ با احتیاط) = VERIFIED (NG109). تعدیل گرده‌ای بقیه به BNF ارجاع شده = UNVERIFIED.
+
+### فصل ۴۱ — سنگ گرده (۲۰۲۶-۰۹-۲۵)
+
+هیچ دوز دوایی عددی وارد نشد (SD-26 UNVERIFIED). اعداد غیردوایی مستقیم از NICE NG118 §1.8.1 = **VERIFIED**: آب ۲.۵–۳ L/روز (کاهل)، نمک حداکثر ۶ g، کلسیم ۷۰۰–۱۲۰۰ mg؛ اطفال ۱–۲ L، ۲–۶ g، ۳۵۰–۱۰۰۰ mg. آستانه‌های اندازه (۵/۱۰/۲۰ mm، ۴ هفته، ۴۸ ساعت، ۲۴ ساعت CT) از NICE NG118 = VERIFIED؛ ۱۵ mm و pH بالاتر از ۷.۰ از EAU 2025 = VERIFIED.

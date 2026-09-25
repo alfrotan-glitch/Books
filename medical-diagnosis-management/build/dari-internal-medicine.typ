@@ -13997,3 +13997,342 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 3. Pyelonephritis فمی خط اول (NICE)؟ — *Cefalexin ۵۰۰ mg دو یا سه بار در روز ۷–۱۰ روز.*
 4. مدت cUTI بهبودیابنده (IDSA 2025)؟ — *۷ روز غیر Fluoroquinolone یا ۵–۷ روز Fluoroquinolone.*
 5. چرا Nitrofurantoin در Prostatitis نه؟ — *به سطح مؤثر در پروستات نمی‌رسد.*
+= فصل ۴۱ — سنگ گرده و حالب (Renal and Ureteric Stones, Urolithiasis)
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (NICE NG118 + EAU Urolithiasis 2025)*
+]
+== دو درد پهلو، دو سرنوشت
+- **احمد** ۳۵ ساله، ساعت ۳ شب با درد بسیار شدید پهلوی راست که به طرف کشاله می‌رود، به عاجل آمده. آرام نمی‌گیرد، به هر طرف می‌غلتد، استفراغ کرده. تب ندارد.
+- **گلالی** ۵۰ ساله، دیابتی، همان درد را دارد اما **تب و لرزه** هم دارد و فشارش پایین است.
+هر دو سنگ حالب دارند. احمد با یک مسکن خوب و صبر شاید سنگ را خودش دفع کند. گلالی یک **عاجل یورولوژیک** است: گردهٔ **مسدود و انتانی** باید همین حالا **تخلیه** شود؛ آنتی‌بیوتیک به تنهایی کافی نیست.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱. Core Concept (مفهوم بنیادی)
+سه سؤال در هر مریض سنگ:
+1. **درد کنترول می‌شود؟** (مسکن)
+2. **انتان + انسداد دارد؟** (اگر بلی → تخلیهٔ عاجل)
+3. **سنگ خودش دفع می‌شود یا نه؟** (اندازه، محل، وقت) → انتظار، Medical expulsive therapy، یا برداشتن فعال.
+و بعد از عبور حمله، سؤال چهارم که اکثراً فراموش می‌شود: **چرا سنگ ساخت و چطور تکرار نشود؟**
+💡 **تشبیه:** ادرار مثل **آب نمک غلیظ** است. اگر آب کم باشد یا نمک زیاد، بلور می‌بندد. «مهارکننده‌ها» (مثل Citrate) مثل صابونی هستند که نمی‌گذارند بلورها به هم بچسپند. (تشبیه فقط برای یادآوری است؛ کیمیای واقعی در بخش ۳ آمده.)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۲. Definition & Classification (تعریف و تصنیف)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*محور*], [*انواع*],
+    [**محل**], [گرده (Renal/Nephrolithiasis) · حالب (Ureteric — بالایی، میانی، پایینی/Distal) · مثانه],
+    [**ترکیب**], [Calcium oxalate (شایع‌ترین) · Calcium phosphate · Uric acid · Struvite (Magnesium ammonium phosphate، انتانی) · Cystine · دوایی],
+    [**ظاهر در عکس**], [Radio-opaque (کلسیمی، Cystine کمتر) · Radiolucent (Uric acid، دوایی) — در CT تقریباً همه دیده می‌شوند],
+    [**شکل خاص**], [**Staghorn** — سنگ شاخه‌دار که لگنچه و کالیس‌ها را پر می‌کند (اکثراً Struvite)],
+    [**وضع**], [بی‌علامت · درد گرده‌ای (Renal colic) · اختلاطی (انتان، انسداد، AKI)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۳. Pathophysiology — Step-by-step
+**ساخت سنگ:**
+1. **فوق‌اشباع (Supersaturation):** غلظت نمک در ادرار از حد حل‌شدن بالاتر می‌رود — به خاطر آب کم یا دفع زیاد املاح (Calcium، Oxalate، Uric acid).
+2. **هسته‌بندی (Nucleation):** اولین بلورها شکل می‌گیرند.
+3. **رشد و تجمع (Growth/Aggregation):** بلورها بزرگ می‌شوند و به هم می‌چسپند.
+4. **گیر ماندن (Retention):** بلور به اپیتلیوم (مثلاً Randall's plaque در پاپیلا) می‌چسپد و فرصت رشد می‌یابد.
+5. **کمبود مهارکننده:** Citrate کم (Hypocitraturia) یا Magnesium کم این روند را آسان‌تر می‌کند.
+6. **pH ادرار:** pH پایین به Uric acid کمک می‌کند؛ pH بالا (قلوی) به Calcium phosphate و Struvite.
+**درد و انسداد:**
+1. سنگ از گرده به حالب می‌رود و در تنگی‌ها گیر می‌کند (اتصال لگنچه–حالب، عبور از شریان‌های Iliac، مدخل مثانه).
+2. فشار بالای انسداد بالا می‌رود → حالب و کپسول گرده کش می‌شوند → **درد موجی شدید**.
+3. Prostaglandins جریان خون گرده و فشار داخل لگنچه را زیاد می‌کنند — **دلیل اینکه NSAID مؤثرترین مسکن است**.
+4. انسداد دوامدار → کاهش GFR آن گرده؛ اگر گرده تنها باشد یا انسداد دوطرفه → **AKI پس‌گرده‌ای**.
+5. ادرار راکد + باکتری → **Pyonephrosis** و Urosepsis؛ آنتی‌بیوتیک به ادرار مسدود نمی‌رسد → **باید تخلیه شود**.
+**Struvite:** باکتری‌های تجزیه‌کنندهٔ Urea (Urease) مثل Proteus → Ammonia → ادرار قلوی → سنگ Struvite که سریع رشد می‌کند و باکتری را در خود پنهان می‌کند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۴. Etiology & Risk Factors
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*گروه*], [*عوامل*],
+    [مایع], [آب کم، اقلیم گرم، کار در گرما],
+    [غذا], [نمک زیاد، پروتین حیوانی زیاد، نوشابه‌های گازدار، **کلسیم بسیار کم** (عجیب اما درست: Oxalate روده بیشتر جذب می‌شود)],
+    [متابولیک], [Hypercalciuria، Hyperoxaluria، Hypocitraturia، Hyperuricosuria، Cystinuria],
+    [امراض], [**Primary hyperparathyroidism**، Gout، چاقی، دیابت، Metabolic syndrome، مرض التهابی روده و جراحی روده (Enteric hyperoxaluria)، Renal tubular acidosis نوع ۱، Sarcoidosis],
+    [آناتومیک], [Medullary sponge kidney، Horseshoe kidney، تنگی اتصال لگنچه–حالب],
+    [انتان], [UTI مکرر با باکتری Urease-مثبت → Struvite],
+    [دوا], [بعضی دواها خودشان بلور می‌سازند یا متابولیزم را تغییر می‌دهند (مثل Topiramate، Acetazolamide، Indinavir)],
+    [سابقه], [سابقهٔ شخصی یا فامیلی سنگ],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۵. Symptoms & Signs
+- **Renal colic:** درد ناگهانی، بسیار شدید، موجی در پهلو → به کشاله، خصیه یا لب‌های مهبل انتشار می‌یابد (محل درد با پایین آمدن سنگ پایین می‌رود).
+- مریض **آرام نمی‌گیرد** و به هر طرف حرکت می‌کند (در مقابل Peritonitis که مریض بی‌حرکت دراز می‌کشد).
+- دلبدی و استفراغ.
+- **Haematuria** (مرئی یا میکروسکوپیک).
+- سنگ نزدیک مثانه: ادرار مکرر، عجله، سوزش (با Cystitis اشتباه می‌شود).
+- **تب، لرزه** → انسداد انتانی تا خلاف آن ثابت شود.
+- **کم‌ادراری/بی‌ادراری** → انسداد دوطرفه یا گردهٔ تنها.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۶. Clinical Examination
+- علایم حیاتی: **تب، تکی‌کاردی، فشار پایین** = Sepsis.
+- حساسیت زاویهٔ ضلعی–فقری (Costovertebral angle).
+- بطن نرم؛ علایم پریتونیت نباید باشد.
+- **در مرد مسن:** نبض‌های محیطی و کتلهٔ ضربان‌دار بطن را ببین — **Abdominal aortic aneurysm** پاره‌شده می‌تواند مثل colic باشد.
+- در زن: حاملگی را همیشه در نظر داشته باش (Ectopic).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۷. Quick Differential Diagnosis
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*مرض*], [*کلید تفریق*],
+    [**AAA پاره‌شده**], [مرد مسن، فشار پایین، کتلهٔ ضربان‌دار — **کشنده؛ اول رد کن**],
+    [Pyelonephritis], [تب، Pyuria؛ درد کمتر موجی (فصل ۴۰)],
+    [Appendicitis], [درد ثابت RIF، مریض بی‌حرکت],
+    [Ectopic pregnancy / Ovarian torsion], [زن سن باروری، β-hCG],
+    [Biliary colic / Cholecystitis], [ربع علیا راست],
+    [Testicular torsion], [معاینهٔ خصیه],
+    [Mesenteric ischaemia], [درد شدید با معاینهٔ کم، AF],
+    [Renal infarction], [AF، LDH بلند، CT با کنتراست],
+    [Musculoskeletal / Herpes zoster], [با حرکت؛ دانه‌ها],
+    [جستجوی Opioid], [تشخیص حذفی — فقط پس از رد علل خطرناک],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۸. Investigations — Basic → Advanced
+**پایه:**
+- **ادرار:** Dipstick و میکروسکوپی (خون، Nitrite، Leucocyte)؛ **کلچر** اگر تب یا علایم انتان.
+- **خون:** Creatinine/eGFR، الکترولیت‌ها، CBC، CRP؛ **Serum calcium** در همه کاهلان سنگی (NICE NG118)؛ Uric acid.
+- β-hCG در زن سن باروری.
+**تصویربرداری (NICE NG118):**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*گروه*], [*انتخاب اول*],
+    [کاهل با شک Renal colic], [**Low-dose non-contrast CT** — عاجل، در ۲۴ ساعت],
+    [**حامله**], [**Ultrasound** (نه CT)],
+    [طفل و جوان زیر ۱۶ سال], [Ultrasound؛ CT فقط اگر شک باقی ماند],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- CT اندازه، محل، انسداد و Hounsfield unit (کمک به حدس ترکیب) را نشان می‌دهد.
+- اگر CT در دسترس نیست (مثلاً در بسیاری ولایات): Ultrasound (Hydronephrosis) + X-ray KUB — حساسیت کمتر؛ این محدودیت را در تصمیم به یاد داشته باش.
+**پیشرفته — بعد از حمله (متابولیک):**
+- **تحلیل سنگ (Stone analysis)** — در کاهلان در نظر گرفته شود (NICE).
+- ادرار ۲۴ ساعته (Calcium، Oxalate، Citrate، Uric acid، Sodium، حجم) در عودکنندگان و پرخطرها — NICE به خاطر نبود شواهد توصیهٔ عملی نکرده؛ EAU برای گروه پرخطر به کار می‌برد (**اختلاف منابع**).
+- PTH اگر Calcium بلند است (فصل ۵۱).
+- اطفال: ارجاع به نفرولوژیست/یورولوژیست اطفال برای ارزیابی متابولیک.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۹. Diagnosis & Diagnostic Criteria
+تشخیص = **تابلوی بالینی + تأیید تصویری** (CT بدون کنتراست در کاهل). Haematuria کمک می‌کند اما نبود آن سنگ را رد نمی‌کند.
+**سه سؤال پس از تشخیص:**
+1. انتان + انسداد؟ → بخش ۱۰.۱
+2. AKI، گردهٔ تنها، انسداد دوطرفه؟ → ارجاع عاجل یورولوژی
+3. اندازه و محل؟ → بخش ۱۰.۳–۱۰.۵
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۰. Management (تداوی)
+=== ۱۰.۱ عاجل — گردهٔ مسدود و انتانی (EAU 2025، توصیه‌های Strong)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*قدم*], [*کار*],
+    [۱], [کلچر خون و ادرار],
+    [۲], [**آنتی‌بیوتیک فوراً** (مثل Pyelonephritis/Urosepsis — فصل ۴۰، بخش ۱۰.۵؛ مایعات و احیا — فصل سپسیس)],
+    [۳], [**تخلیهٔ عاجل:** Ureteral stent (JJ) یا Percutaneous nephrostomy — هر دو به یک اندازه مؤثر],
+    [۴], [کلچر دوبارهٔ ادرار هنگام تخلیه],
+    [۵], [**تداوی قطعی سنگ را تا رفع سپسیس به تعویق بینداز**],
+    [۶], [آنتی‌بیوتیک را با Antibiogram اصلاح کن؛ مراقبت ویژه در صورت ضرورت],
+  ),
+  caption: none,
+)
+#v(0.4em)
+⚠️ آنتی‌بیوتیک بدون تخلیه در گردهٔ مسدود انتانی = **از دست دادن وقت**.
+دیگر اندیکاسیون‌های ارجاع عاجل: AKI، گردهٔ تنها، انسداد دوطرفه، درد مقاوم به مسکن، استفراغ مقاوم.
+=== ۱۰.۲ کنترول درد (NICE NG118 + EAU 2025)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*ترتیب*], [*دوا*], [*ملاحظه*],
+    [**خط اول**], [**NSAID** — از هر راه (NICE)], [مؤثرترین؛ احتیاط در eGFR پایین، قرحهٔ هضمی (Peptic ulcer)، مرض قلبی، حاملگی],
+    [دوم], [**Paracetamol وریدی** — اگر NSAID ممنوع یا ناکافی], [NICE: شواهد برای شکل وریدی است، نه فمی],
+    [سوم], [**Opioid** — اگر هر دو ممنوع یا ناکافی], [EAU: Opioid انتخاب دوم (Weak)],
+    [**نه**], [**Antispasmodic** (مثل Hyoscine)], [NICE: **پیشنهاد نشود** — فایده‌ای بیش از NSAID ندارد],
+  ),
+  caption: none,
+)
+#v(0.4em)
+🔒 **دوزها:** NICE و EAU نام دوا و ترتیب را می‌دهند، **دوز نمی‌دهند**. دوز دقیق NSAID/Paracetamol/Opioid برای colic از منبع اولیهٔ دوایی (BNF/برچسب) هنوز تأیید نشده → **SD-26 (UNVERIFIED)**. در این فصل دوز عددی نیامده؛ از formulary محلی و فصل‌های مربوط استفاده کن.
+⚠️ اگر درد با مسکن کنترول نشد → **تخلیه یا برداشتن سنگ** (EAU، Strong).
+=== ۱۰.۳ Medical Expulsive Therapy (MET)
+- **Alpha blocker** برای سنگ **پایینی (Distal) حالب کوچکتر از ۱۰ mm** در نظر گرفته شود (NICE NG118؛ استفادهٔ خارج از برچسب).
+- برای سنگ بالایی یا میانی حالب شواهد کافی نیست (NICE).
+- Alpha blocker به عنوان کمک به SWL برای سنگ حالب کوچکتر از ۱۰ mm (NICE 1.5.5).
+- EAU: MET فقط در مریض آگاه و وقتی برداشتن فعال لازم نیست؛ اگر انتان، درد مقاوم یا خرابی وظیفهٔ گرده پیدا شد، قطع شود.
+- **اختلاف منابع:** کارآزمایی بزرگ SUSPEND (2015) فایده‌ای نشان نداد؛ NICE پس از مرور شواهد جدیدتر دوباره آن را پیشنهاد کرد. EAU هم شواهد را «متناقض» می‌خواند. این اختلاف را به مریض بگو.
+🔒 دوز Tamsulosin (معمول‌ترین Alpha blocker) و مدت MET → **SD-26 (UNVERIFIED)**؛ عدد نیامده.
+=== ۱۰.۴ انتظار (Watchful waiting)
+- سنگ گردهٔ **بی‌علامت کوچکتر از ۵ mm** → انتظار در نظر گرفته شود.
+- بزرگتر از ۵ mm → انتظار فقط پس از بحث آگاهانه با مریض (NICE 1.5.1).
+- EAU: اندیکاسیون برداشتن فعال سنگ گرده: رشد سنگ، انسداد، انتان، درد، سنگ بزرگتر از ۱۵ mm، مریض پرخطر، ترجیح مریض.
+=== ۱۰.۵ برداشتن فعال — انتخاب روش (NICE NG118، کاهلان ۱۶ سال یا بیشتر)
+**سنگ گرده:**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*اندازه*], [*انتخاب*],
+    [کوچکتر از ۱۰ mm], [**SWL پیشنهاد شود**؛ URS اگر SWL ممنوع/ناکام یا آناتومی نامناسب؛ PCNL اگر هر دو ناکام],
+    [۱۰–۲۰ mm], [URS یا SWL؛ PCNL اگر ناکام],
+    [بزرگتر از ۲۰ mm (شامل Staghorn)], [**PCNL**؛ URS اگر PCNL ممکن نیست],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**سنگ حالب:**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*اندازه*], [*انتخاب*],
+    [کوچکتر از ۱۰ mm], [**SWL**؛ URS اگر پاکسازی با SWL در ۴ هفته ممکن نیست، SWL ممنوع/ناکام یا سنگ هدف‌پذیر نیست],
+    [۱۰–۲۰ mm], [**URS**؛ SWL اگر امکانات محلی پاکسازی در ۴ هفته را ممکن سازد؛ PCNL برای سنگ بالایی گیرمانده پس از ناکامی URS],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **زمان:** در کاهل با سنگ حالب و colic، اگر درد دوامدار و غیرقابل تحمل است یا سنگ احتمالاً دفع نمی‌شود → جراحی (شامل SWL) **در ۴۸ ساعت** از تشخیص یا بستری دوباره (NICE 1.5.4).
+- Stent پیش از SWL در کاهلان پیشنهاد نشود؛ Stent پس از URS برای سنگ حالب کوچکتر از ۲۰ mm به طور روتین نه (استثنا: انتان، انسداد، گردهٔ تنها، تداوی بعدی).
+- **در افغانستان:** SWL و URS همه‌جا در دسترس نیست — در عمل، انتخاب به امکانات محلی بستگی دارد؛ اما اصول عاجل (تخلیه در انسداد انتانی) تغییر نمی‌کند.
+**اطفال زیر ۱۶ سال:** در اکثر گروه‌ها NICE «URS یا SWL (یا PCNL)» با قضاوت بالینی را پیشنهاد می‌کند؛ به متخصص اطفال ارجاع.
+**حاملگی:** EAU: سنگ بدون اختلاط در حاملگی محافظه‌کارانه تداوی شود، مگر اندیکاسیون بالینی مداخله باشد.
+=== ۱۰.۶ Uric acid — تنها سنگی که حل می‌شود
+- سنگ Uric acid (Radiolucent، HU پایین) با **قلوی کردن ادرار (هدف pH بالاتر از ۷.۰)** حل می‌شود (EAU 2025، Oral chemolysis).
+- در سنگ حالب Uric acid، ترکیب قلوی‌سازی با Tamsulosin مؤثرتر از هر کدام به تنهایی است (EAU، شواهد 1b).
+- pH را مریض خودش با نوار اندازه می‌گیرد؛ قلوی‌سازی بیش از حد خطر Calcium phosphate را زیاد می‌کند.
+- دوز Potassium citrate/Sodium bicarbonate → **SD-26 (UNVERIFIED)**.
+=== ۱۰.۷ وقایه از عود (NICE NG118)
+**غذا و مایع — برای همه (این اعداد مستقیم از NICE 1.8.1):**
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*توصیه*], [*کاهلان*], [*اطفال/جوانان*],
+    [آب], [**۲.۵–۳ لیتر در روز**], [۱–۲ لیتر (نظر به سن)],
+    [لیمو], [آب لیموی تازه به آب نوشیدنی], [همان],
+    [نوشابه‌های گازدار], [پرهیز], [همان],
+    [نمک], [**حداکثر ۶ g در روز**], [۲–۶ g],
+    [کلسیم], [**محدود نکن** — ۷۰۰–۱۲۰۰ mg در روز], [۳۵۰–۱۰۰۰ mg],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- وزن سالم (رهنمود چاقی NICE).
+- 💡 «**کلسیم کم نکن، نمک کم کن**» — کلسیم غذا Oxalate را در روده می‌بندد.
+**دوایی (NICE):**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*کی*],
+    [**Potassium citrate**], [عود سنگ‌هایی که بیش از ۵۰ فیصد Calcium oxalate هستند (کاهلان)؛ در اطفال + Hypercalciuria یا Hypocitraturia],
+    [**Thiazide**], [عود سنگ Calcium oxalate + **Hypercalciuria**، **پس از** محدود کردن نمک به حداکثر ۶ g (خارج از برچسب)],
+    [Allopurinol / Magnesium], [NICE: شواهد کافی برای توصیه نیست],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- Potassium citrate: مراقب **Hyperkalaemia** در CKD و مصرف ACEi/ARB/Spironolactone.
+- Thiazide: مراقب Hypokalaemia، Hyponatraemia، بلند شدن Calcium خون (اگر Hyperparathyroidism پنهان باشد آشکار می‌شود).
+- 🔒 دوز Potassium citrate و Thiazide برای وقایهٔ سنگ → **SD-26 (UNVERIFIED)**.
+**Struvite:** برداشتن کامل سنگ + تداوی انتان؛ بدون برداشتن کامل، انتان عود می‌کند.
+**Cystine:** مایعات بسیار زیاد، قلوی‌سازی و دواهای خاص — ارجاع به متخصص (جزئیات خارج از حدود این فصل).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۱. Complications (اختلاطات)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*اختلاط*], [*نکته*],
+    [**Pyonephrosis / Urosepsis**], [کشنده‌ترین؛ تخلیهٔ عاجل],
+    [AKI پس‌گرده‌ای], [گردهٔ تنها یا انسداد دوطرفه (فصل ۳۸)],
+    [CKD], [سنگ مکرر، Staghorn، انسداد مزمن (فصل ۳۹)],
+    [تنگی حالب], [پس از سنگ گیرمانده یا URS],
+    [اختلاطات Stent], [علایم تخریشی، Haematuria، **Stent فراموش‌شده** (Encrustation)],
+    [Xanthogranulomatous pyelonephritis], [با سنگ Staghorn مزمن],
+    [عود], [سنگ یک مرض مزمن است، نه یک حادثه],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۲. Prognosis & Follow-up
+- اکثر سنگ‌های کوچک حالب خودشان دفع می‌شوند؛ هر چه بزرگتر و بالاتر باشد، احتمال کمتر.
+- مریض را بگو ادرار را صاف کند و سنگ دفع‌شده را برای **تحلیل** بیاورد.
+- اگر با MET یا انتظار فرستاده شد: پلان پیگیری روشن + تصویربرداری تکراری برای تأیید دفع — **سنگ بی‌صدا هم می‌تواند گرده را خراب کند**.
+- **Stent register:** تاریخ برداشتن Stent را ثبت کن و به مریض بنویس.
+- عودکنندگان: ارزیابی متابولیک و پیگیری منظم.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 Memory Joggers
+- 💡 **colic = مریض بی‌قرار؛ Peritonitis = مریض بی‌حرکت.**
+- 💡 **«تب + سنگ مسدودکننده = تخلیه، نه فقط آنتی‌بیوتیک.»**
+- 💡 **ترتیب مسکن: NSAID → Paracetamol وریدی → Opioid؛ Antispasmodic هرگز.**
+- 💡 **۵–۱۰–۲۰:** کوچکتر از ۵ mm انتظار (گرده، بی‌علامت) · کوچکتر از ۱۰ mm MET (حالب پایینی) · بزرگتر از ۲۰ mm PCNL (گرده).
+- 💡 **«کلسیم کم نکن، نمک کم کن، آب زیاد کن.»**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⚠️ Red Flags
+- ⚠️ **تب/لرزه/فشار پایین با سنگ مسدودکننده** → تخلیهٔ عاجل.
+- ⚠️ **بی‌ادراری یا کم‌ادراری** → انسداد دوطرفه یا گردهٔ تنها.
+- ⚠️ **Creatinine بلند** با سنگ.
+- ⚠️ **مرد بالای ۵۰–۶۰ سال با «colic» اول بار** → AAA را رد کن.
+- ⚠️ حاملگی با درد پهلو → Ultrasound؛ Ectopic را رد کن.
+- ⚠️ درد مقاوم به مسکن → مداخله.
+- ⚠️ Stent که تاریخ برداشتن آن گذشته.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 📚 References
+1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https:\/\/www.nice.org.uk/guidance/ng118 — (توصیه‌های ۱.۱–۱.۸ مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵).
+2. European Association of Urology. *EAU Guidelines on Urolithiasis* — Limited update March 2025 (full text and Pocket Guidelines 2025). https:\/\/uroweb.org/guidelines/urolithiasis
+3. Pickard R, et al. SUSPEND trial. *Lancet*. 2015 — (به نقل از بحث کمیتهٔ NICE NG118).
+4. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت ساختاری.
+**Currentness audit (۲۰۲۶-۰۹-۲۵):** NICE NG118 (2019) هنوز رهنمود فعال است؛ EAU Urolithiasis نسخهٔ Limited update مارچ 2025 بررسی شد و با NICE در اصول (NSAID اول، تخلیهٔ عاجل انسداد انتانی، PCNL برای بزرگتر از ۲ cm) هم‌خوان است. اختلاف: ارزیابی متابولیک ۲۴ ساعته (NICE توصیه نکرده، EAU برای پرخطرها) و MET (شواهد متناقض). **CURRENTNESS NOTE:** رهنمودهای AUA بررسی نشد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🎯 قدم کوچک در کنار بستر
+1. به هر مریض colic اول **درجهٔ حرارت و فشار** را نگاه کن.
+2. NSAID را پیش از Opioid بده (اگر ممنوع نیست).
+3. در مرد مسن، پیش از نوشتن «colic»، به AAA فکر کن.
+4. پیش از رخصت: پلان پیگیری، صاف کردن ادرار، و علایم خطر را به مریض بگو.
+5. Serum calcium را در همه بفرست.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔗 اتصال به فصل‌ها
+- **فصل ۳۶:** Haematuria.
+- **فصل ۳۸:** AKI پس‌گرده‌ای.
+- **فصل ۳۹:** CKD.
+- **فصل ۴۰:** Pyelonephritis و Urosepsis.
+- **فصل ۴۳:** Renal tubular acidosis.
+- **فصل ۵۱:** Hyperparathyroidism.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⏱️ مرور ۶۰ ثانیه
+1. تصویربرداری اول در کاهل با شک colic؟ — *Low-dose non-contrast CT در ۲۴ ساعت؛ در حامله Ultrasound.*
+2. مسکن خط اول؟ — *NSAID؛ بعد Paracetamol وریدی؛ بعد Opioid.*
+3. سنگ مسدودکننده + تب؟ — *آنتی‌بیوتیک فوری + Stent یا Nephrostomy؛ تداوی قطعی بعد از رفع سپسیس.*
+4. سنگ حالب پایینی ۶ mm؟ — *Alpha blocker در نظر گرفته شود.*
+5. سنگ گردهٔ ۲۵ mm؟ — *PCNL.*
+6. وقایه برای همه؟ — *۲.۵–۳ لیتر آب، نمک حداکثر ۶ g، کلسیم نورمال.*

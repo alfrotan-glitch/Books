@@ -57,6 +57,7 @@
 - [x] فصل ۳۸ (AKI) — v2.1؛ ممیزی علمی + currentness (KDIGO 2012 + CURRENTNESS NOTE draft 2026؛ STARRT-AKI) + style + ترمینولوژی؛ SD-20/21
 - [x] فصل ۳۹ (CKD) — v2.1؛ ممیزی علمی (KDIGO 2024 exec summary اولیه + FARXIGA label) + currentness + style + ترمینولوژی؛ SD-22/23
 - [x] فصل ۴۰ (UTI) — v2.1؛ دوزها از NICE NG109/NG111 اولیه؛ currentness IDSA 2025 cUTI + MHRA 2024؛ SD-24/25
+- [x] فصل ۴۱ (سنگ گرده) — v2.1؛ NICE NG118 + EAU 2025؛ SD-26
 
 ## ۵. رهنمود ساخت (build)
 ```

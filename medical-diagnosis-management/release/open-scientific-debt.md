@@ -35,6 +35,7 @@
 | SD-23 | ۳۹ | آستانه‌های KFRE برای ارجاع (۳–۵٪/۵ سال، ۱۰٪ و ۴۰٪/۲ سال) از شکل ۳ executive summary خوانده شد؛ Figure 48 متن کامل خوانده نشد | VERIFIED (exec summary) |
 | SD-24 | ۴۰ | وقایهٔ UTI عودکننده (آنتی‌بیوتیک وقایوی، Methenamine، Estrogen مهبلی) و تداوی Prostatitis/CAUTI: دوزها وارد نشد | UNVERIFIED — OPEN |
 | SD-25 | ۴۰ | IDSA 2025 cUTI: توصیه‌های مدت از abstract اولیهٔ CID 2025 (VERIFIED)؛ توصیه‌های انتخاب empiric (۴ قدم، ۱۲ ماه FQ) از خلاصه‌های ثانوی | UNVERIFIED (بخش empiric) — OPEN |
+| SD-26 | ۴۱ | دوزهای NSAID/Paracetamol وریدی/Opioid برای colic، Tamsulosin (MET)، Potassium citrate، Thiazide و قلوی‌سازی: NICE NG118 و EAU 2025 دوز نمی‌دهند؛ منبع اولیهٔ دوایی تأیید نشد؛ عدد وارد نشد | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
