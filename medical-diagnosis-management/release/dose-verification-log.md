@@ -53,6 +53,7 @@
 | تعریف تشخیص | «≥۱۴۰/۹۰» در تناقض با جدول ACC/AHA | ACC/AHA 2025 ≥۱۳۰/۸۰؛ ESH/WHO ≥۱۴۰/۹۰ با ذکر اختلاف | ACC/AHA 2025 | ❌ اصلاح شد |
 | Nicardipine | ۵ mg/h، +۲.۵ هر ۵–۱۵ دقیقه، حداکثر ۱۵ | بدون تغییر عددی | همان | 🟡 |
 | **فصل ۷** ARNI حداکثر، Ivabradine، Hydralazine+ISDN، Digoxin، Losartan، BNP cut-off، دوز اول Furosemide، ترکیب دو Loop | «۹۷/۱۰»، «۷ mg»، «ISDN ۱ mg»، «BNP >۱۰»، دو Loop با هم | ۹۷/۱۰۳؛ ۷.۵ mg BID؛ ۳۷.۵/۲۰ تا ۷۵/۴۰ TID؛ ۰.۰۶۲۵–۰.۲۵؛ ۱۵۰ mg؛ BNP ۳۵/NT ۱۲۵ (مزمن)، ۱۰۰/۳۰۰ (حاد)؛ ۲۰–۴۰ mg؛ Thiazide یا Acetazolamide | ESC 2021 HF (متن در این جلسه باز نشد) | ❌ اصلاح شد (🟡، SD-99) |
+| **فصل ۸** Enoxaparin (CrCl<30، سن ≥75)، منع‌های Fibrinolysis، Aspirin loading، مدت Beta-blocker | «۰.۷۵ mg/kg برای CrCl<30»، «سکته ۳ ماه»، «۱–۲ هفته» | CrCl<30: ۱ mg/kg روزانه؛ ≥75 با Fibrinolysis: ۰.۷۵ mg/kg هر ۱۲ ساعت بدون bolus؛ سکتهٔ ایسکیمیک ۶ ماه؛ Aspirin ۱۵۰–۳۰۰ mg؛ Beta-blocker دوامدار در LVEF≤40 | ESC 2023 ACS (Byrne، قبلاً مطابقت شده برای STEMI) — این جزئیات در این جلسه دوباره باز نشد | ❌ اصلاح شد (🟡، SD-99) |
 | **فصل ۷** Nitroprusside در HF حاد | «۰.۳–۰.۵ mcg/kg/hr» — **خطای واحد** | ۰.۳ mcg/kg/min تا ۵ mcg/kg/min | ESC 2021 HF جدول Vasodilator (از حافظهٔ جدول، متن باز نشد) | ❌ اصلاح شد (🟡) |
 
 ## فصل‌های ۱، ۲، ۴، ۶، ۷، ۸ — وضعیت

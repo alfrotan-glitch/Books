@@ -109,7 +109,7 @@
 | SD-96 | 17, 25, 33, 82 | GINA 2026 (هدف SpO₂، Adrenaline اول در Anaphylaxis+آسما) از خلاصهٔ تغییرات؛ ACG 2023 LGIB و EASL 2022 HE از متن رسمی ژورنال (بخش توصیه‌ها)؛ ERC 2025 Hypothermia (دوز Adrenaline) از متن رهنمود — فقط همین جمله‌ها بررسی شد، بقیهٔ فصل‌ها نه | UNVERIFIED |
 | SD-97 | 31 | AASLD/IDSA 2025 HBV (آستانهٔ ALT ۳۵/۲۵، مرحلهٔ نامعین) از متن PDF رهنمود و HBV Online؛ جمله‌های باقی‌مانده که به AASLD 2018 ارجاع دارند (HBV حاد، پیگیری ALT هر ۶ ماه) با 2025 مطابقت نشده | CURRENTNESS NOTE |
 | SD-98 | 10, 57 | رهنمودهای تازه نشر شده اما خط به خط مطابقت نشده: ERC/AHA 2025 (الگوریتم تکی/برادیکاردی ch10)، NICE NG240 2024 (مننژیت ch57) | CURRENTNESS NOTE |
-| SD-99 | 6, 7 | **خطای خطرناک واحد دوز اصلاح شد:** Nitroglycerin IV (mg/hr → mcg/min) و Nitroprusside (mcg/kg/hr → mcg/kg/min) در فصل ۶ و ۷؛ Nebivolol وریدی حذف؛ ARNI ۹۷/۱۰۳، Ivabradine ۷.۵، Hydralazine/ISDN، Digoxin و BNP cut-off فصل ۷ اصلاح شد. منبع دوزهای وریدی فشار: جدول ۱۹ ACC/AHA 2017 از طریق StatPearls و Aronow 2017 (فقط snippet جستجو؛ متن کامل باز نشد). دوزهای فصل ۷ از جدول‌های ESC 2021 HF بدون باز کردن متن در این جلسه. | UNVERIFIED |
+| SD-99 | 6, 7, 8 | **خطای خطرناک واحد دوز اصلاح شد:** Nitroglycerin IV (mg/hr → mcg/min) و Nitroprusside (mcg/kg/hr → mcg/kg/min) در فصل ۶ و ۷؛ Nebivolol وریدی حذف؛ ARNI ۹۷/۱۰۳، Ivabradine ۷.۵، Hydralazine/ISDN، Digoxin و BNP cut-off فصل ۷ اصلاح شد؛ فصل ۸: دوز Enoxaparin در CrCl<30 و سن ≥75، منع‌های Fibrinolysis (سکتهٔ ۶ ماه)، Aspirin ۱۵۰–۳۰۰ mg. منبع دوزهای وریدی فشار: جدول ۱۹ ACC/AHA 2017 از طریق StatPearls و Aronow 2017 (فقط snippet جستجو؛ متن کامل باز نشد). دوزهای فصل ۷ از جدول‌های ESC 2021 HF بدون باز کردن متن در این جلسه. | UNVERIFIED |
 
 ## B. Terminology debt
 
