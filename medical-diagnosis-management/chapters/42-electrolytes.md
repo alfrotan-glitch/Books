@@ -114,7 +114,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 - دواهای عامل را متوقف یا تعدیل کن؛ غذای کم‌پتاسیم در CKD (فصل ۳۹).
 - K⁺ را تکرار کن — **Rebound** پس از چند ساعت شایع است چون Insulin و Salbutamol K⁺ را بیرون نکرده‌اند.
 
-## 🔹 ۱۱–۱۲. Complications & Follow-up
+## 🔹 ۱۱–۱۲. Complications, Prognosis & Follow-up
 
 Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پس از تداوی: K⁺ و قند خون منظم؛ بازبینی دواها؛ پلان برای CKD.
 

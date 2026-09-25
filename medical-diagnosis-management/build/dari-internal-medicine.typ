@@ -14451,7 +14451,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 === قدم ۴ — وقایه
 - دواهای عامل را متوقف یا تعدیل کن؛ غذای کم‌پتاسیم در CKD (فصل ۳۹).
 - K⁺ را تکرار کن — **Rebound** پس از چند ساعت شایع است چون Insulin و Salbutamol K⁺ را بیرون نکرده‌اند.
-== 🔹 ۱۱–۱۲. Complications & Follow-up
+== 🔹 ۱۱–۱۲. Complications, Prognosis & Follow-up
 Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پس از تداوی: K⁺ و قند خون منظم؛ بازبینی دواها؛ پلان برای CKD.
 **توقف قلب از Hyperkalaemia (UKKA 25.x):** Calcium chloride وریدی + ۱۰ واحد Insulin با ۲۵ g Glucose در کنار پروتوکول احیای قلبی.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
