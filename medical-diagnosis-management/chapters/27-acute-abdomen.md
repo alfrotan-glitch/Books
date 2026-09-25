@@ -1,6 +1,6 @@
 # فصل ۲۷ — بطن حاد (Acute Abdomen)
 
-> **بخش چهارم — سیستم هضمی**
+> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): WSES 2020–2022 (اپندیسیت، کولی‌سیستیت، AMI)، ESVS 2025 mesenteric (جانشین 2017؛ SD-95)، SIS/IDSA اصول IAI.*
 
 ## 🩺 مریض این فصل
 
@@ -156,7 +156,8 @@
 - **پریتونیت (Hinchey III/IV)** ← جراحی.
 - **کولونوسکوپی پس از ۶–۸ هفته** در مریضانی که اخیراً کولونوسکوپی نکرده‌اند یا دایورتیکولیت پیچیده داشته‌اند (رد سرطان).
 
-#### ۴. ایسکیمی حاد مساریقی (ESVS 2017، WSES 2022)
+#### ۴. ایسکیمی حاد مساریقی (ESVS 2025، WSES 2022)
+> 🔄 **CURRENTNESS NOTE:** ESVS رهنمود 2017 را با **ESVS 2025** (Koelemay MJ et al., Eur J Vasc Endovasc Surg 2025;70:153–218) جانشین کرده است. D-dimer نورمال در عاجل، انسداد حاد شریانی یا وریدی مساریقی را به احتمال زیاد رد می‌کند. متن کامل 2025 خط به خط با اصول زیر مطابقت داده نشده (SD-95).
 - **Heparin غیرفرکشنه فوری:** **بولوس ۸۰ U/kg IV** (یا ۵٬۰۰۰ U) ← **انفیوژن ۱۸ U/kg/h**، تنظیم با aPTT (۱.۵–۲.۵ برابر) — فصل ۱۴.
 - **انتی‌بیوتیک وسیع‌الطیف** (انتقال باکتریایی) — مانند بالا.
 - مایع؛ اجتناب از Vasopressor در صورت امکان (NOMI).
@@ -228,6 +229,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - ⚠️ **تب تیفوئیدی در هفتهٔ ۲–۳ با درد ناگهانی بطن** ← انثقاب ایلیوم.
 
 ## 📚 References
+- Koelemay MJ, Geelkerken RH, Kärkkäinen J, et al. European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins. Eur J Vasc Endovasc Surg 2025;70:153–218.
 - Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
@@ -249,7 +251,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۸ (MI تحتانی)**، **فصل ۱۰ (AF)**، **فصل ۱۳ (AAA)**، **فصل ۱۴ (Heparin)**، **فصل ۲۴ (معاینهٔ بطن)**، **فصل ۲۵ (شوک خونریزی‌دهنده)**، **فصل ۲۶ (انثقاب قرحه)**.
-- **فصل‌های بعدی:** ۲۸ (صفرا)، ۲۹ (پانکراتیت)، ۳۳ (IBD)، ۴۱ (سنگ گرده)، ۴۷ (DKA)، ۷۷ (سپسیس)، و تیفوئید (امراض انتانی).
+- **فصل‌های بعدی:** ۳۴ (صفرا)، ۳۵ (پانکراتیت)، ۲۸ (IBD)، ۴۱ (سنگ گرده)، ۴۷ (DKA)، ۶۷ (سپسیس)، و ۶۹ (انثقاب تیفوئیدی).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. سه قاتل بطنی که اول باید رد شوند؟ ← *AAA پاره‌شده، ایسکیمی مساریقی، حاملگی خارج رحم.*

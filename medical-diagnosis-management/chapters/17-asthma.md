@@ -1,6 +1,6 @@
 # فصل ۱۷ — آسما (Asthma)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): GINA 2025؛ تغییرات GINA 2026 (هدف SpO₂، Adrenaline اول در Anaphylaxis، بازبینی پس از یک حمله) درج شد (SD-96).*
 
 ## 🩺 مریض این فصل
 
@@ -164,7 +164,7 @@
    ├─ تهدیدکنندهٔ حیات ─► ICU / انستیزی فوراً + تداوی زیر
    │
    ▼
-۱. اکسیجن: هدف SpO₂ ۹۳–۹۶ فیصد (نه بیشتر)
+۱. اکسیجن فقط اگر SpO₂ کمتر از ۹۲ فیصد؛ هدف ۹۳–۹۵ فیصد (GINA 2026؛ نه بیشتر)
 ۲. SABA (Salbutamol) با Spacer یا نبولایزر (با اکسیجن) —
    هر ۲۰ دقیقه برای ساعت اول
    (یا ICS-Formoterol دوز بلند در مراکزی که تجربه دارند)
@@ -176,6 +176,8 @@
    ├─ PEF بیش از ۶۰–۸۰ فیصد، پایدار ─► ترخیص با برنامه
    └─ پاسخ ناکافی ─► Magnesium IV؛ بستر؛ در صورت بدتر شدن ICU
 ```
+
+> 🔄 **GINA 2026:** اگر علایم Anaphylaxis هم‌زمان با آسما باشد، **اول Adrenaline عضلی** (فصل ۸۱) و بعد Bronchodilator. پس از **حتی یک** حملهٔ شدید (مراجعهٔ عاجل یا Prednisolone فمی) تداوی وقایوی مریض دوباره بررسی شود.
 
 - ⚠️ **آرام‌بخش (Sedatives) در حملهٔ حاد ممنوع است.**
 - ⚠️ **CXR و ABG روتین لازم نیست** مگر علایم خطر، عدم پاسخ، یا شک به پنوموتوراکس.
@@ -325,6 +327,7 @@
 - ⚠️ **Beta-blocker (حتی قطرهٔ چشمی) در مریض آسما.**
 
 ## 📚 References
+- Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 Update (ginasthma.org, May 2026) — summary of changes: oxygen only if SpO₂ <92%, upper target 95%; adrenaline first if anaphylaxis with asthma; review treatment after a single exacerbation.
 
 - Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).

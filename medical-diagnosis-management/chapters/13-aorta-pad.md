@@ -1,6 +1,6 @@
 # فصل ۱۳ — امراض اورت و شرایین محیطی (Aortic Diseases & Peripheral Arterial Disease)
 
-> **بخش دوم — سیستم قلب و عروق**
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 PAD/اورت و ACC/AHA 2024 PAD (جاری)؛ ACC/AHA 2022 اورت (جاری).*
 
 ## 🩺 مریض این فصل
 

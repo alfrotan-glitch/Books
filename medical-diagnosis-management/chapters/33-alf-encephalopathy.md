@@ -1,6 +1,6 @@
 # فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): EASL 2022 HE (جانشین جزئی AASLD/EASL 2014)؛ ALF: EASL 2017 (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -189,7 +189,9 @@
 
 > 💡 **Memory Jogger:** «**هر HE یک محرک دارد تا خلاف آن ثابت شود:** انتان، خونریزی، قبضیت، دواها، الکترولیت‌ها (K پایین)، دیهایدریشن، TIPS.»
 
-## 🔹 ۲. Definition & Classification (AASLD/EASL 2014)
+## 🔹 ۲. Definition & Classification (AASLD/EASL 2014؛ EASL 2022)
+
+> 🔄 **EASL 2022 (رهنمود HE):** (۱) در HE آشکار **نخستین کار جستجو و اصلاح عامل آغازگر** است، پیش از تداوی مخصوص HE؛ (۲) **Lactulose** پیشگیری ثانوی پس از اپیزود اول؛ **Rifaximin** اضافه بر Lactulose پس از یک اپیزود دیگر در ۶ ماه (قوی)؛ (۳) اگر Ammonia خون **نورمال** باشد، تشخیص HE زیر سؤال است؛ (۴) Zinc روتین توصیه نمی‌شود.
 **HE** = اختلال وظیفهٔ مغز ناشی از **عدم کفایهٔ کبد و/یا Portosystemic shunt** — طیفی از تغییرات خفیف تا کوما.
 - **Type A** (ALF)، **Type B** (Bypass — Shunt بدون مرض کبد)، **Type C** (**سیروز** — شایع‌ترین).
 - **سیر:** اپیزودیک، راجعه (بیش از یک بار در ۶ ماه)، دوامدار.
@@ -304,6 +306,7 @@
 - ⚠️ **اسهال شدید با Lactulose** ← دیهایدریشن و هایپوناترمی ← کاهش دوز.
 
 ## 📚 References
+- European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of hepatic encephalopathy. J Hepatol 2022;77:807–824.
 - Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
@@ -326,7 +329,7 @@
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۱۹ (DILI ضد سل)**، **فصل ۲۴ (Asterixis)**، **فصل ۲۵ (خونریزی واریسی)**، **فصل ۳۲ (سیروز، SBP، هایپوناترمی)**.
-- **فصل‌های بعدی:** ۳۲ (HAV، HBV، HEV)، ۳۸ (AKI)، ۴۲ (سودیم و پتاشیم)، مسمومیت‌ها (Paracetamol، سمارق)، و امراض عصبی (دلیریوم، Wernicke).
+- **فصل‌های بعدی:** ۳۱ (HAV، HBV، HEV)، ۳۸ (AKI)، ۴۲ و ۴۴ (پتاشیم و سودیم)، ۷۹ (Paracetamol)، ۵۹ (دلیریوم) و ۸۷ (Wernicke).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. تعریف ALF؟ ← *INR ≥ ۱.۵ + انسفالوپاتی در مریض بدون سیروز قبلی، کمتر از ۲۶ هفته.*

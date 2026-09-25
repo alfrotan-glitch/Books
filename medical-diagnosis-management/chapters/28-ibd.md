@@ -1,6 +1,6 @@
 # فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 
-> **بخش چهارم — سیستم هضمی**
+> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2025 UC و Crohn، AGA Living Guidelines 2025، ECCO (جاری).*
 
 ## مریضی که دو تشخیص روی میز داشت
 

@@ -2499,7 +2499,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 
 # فصل ۱۰ — فیبریلیشن دهلیزی و اریتمی‌ها (Atrial Fibrillation & Cardiac Arrhythmias)
 
-> **بخش دوم — سیستم قلب و عروق**
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تکی‌کاردی/برادیکاردی از ERC/RCUK 2021 نقل شده؛ ERC و AHA در 2025 رهنمود تازهٔ احیا نشر کردند (جایگاه اصلی: فصل ۷۷) — دوزهای الگوریتم این فصل با 2025 خط به خط مطابقت نشده (SD-98).*
 
 ## 🩺 مریض این فصل
 
@@ -2867,7 +2867,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 
 # فصل ۱۱ — امراض پریکارد: پریکاردیت، افیوژن، تامپوناد و پریکاردیت انقباضی (Pericardial Diseases)
 
-> **بخش دوم — سیستم قلب و عروق**
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2025 Myocarditis & Pericarditis (جانشین ESC 2015) و ACC Concise Clinical Guidance 2025؛ جاهایی که هنوز «ESC 2015» آمده، توصیه در 2025 تأیید شده است.*
 
 ## 🩺 مریض این فصل
 
@@ -3278,7 +3278,7 @@ POCUS فوری ── افیوژن + کلپس اطاق راست؟
 
 # فصل ۱۲ — اندوکاردیت انتانی (Infective Endocarditis)
 
-> **بخش دوم — سیستم قلب و عروق**
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2023 Endocarditis و معیارهای Duke–ISCVID 2023 (جاری)؛ AHA 2021 برای وقایه (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -3676,7 +3676,7 @@ POCUS فوری ── افیوژن + کلپس اطاق راست؟
 
 # فصل ۱۳ — امراض اورت و شرایین محیطی (Aortic Diseases & Peripheral Arterial Disease)
 
-> **بخش دوم — سیستم قلب و عروق**
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 PAD/اورت و ACC/AHA 2024 PAD (جاری)؛ ACC/AHA 2022 اورت (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -4066,7 +4066,7 @@ ADD-RS ─► ۰–۱: D-dimer (منفی = رد محتمل)  |  ≥۲: CTA فو�
 
 # فصل ۱۴ — ترومبوآمبولی وریدی: DVT و آمبولی ریه (Venous Thromboembolism: DVT & Pulmonary Embolism)
 
-> **بخش دوم — سیستم قلب و عروق**
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2019 PE (هنوز جاری در اروپا)؛ AHA/ACC 2026 PE با طبقه‌بندی A–E نشر شده — یادداشت تازگی در متن (SD-91).*
 
 ## 🩺 مریض این فصل
 
@@ -4445,7 +4445,7 @@ ADD-RS ─► ۰–۱: D-dimer (منفی = رد محتمل)  |  ≥۲: CTA فو�
 
 # فصل ۱۵ — رهیافت و معاینهٔ سیستم تنفسی (Respiratory Approach & Examination)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ ادعای رهنمودی جدید ندارد. تعریف‌های COPD و آسما در فصل‌های ۱۶–۱۷.*
 
 🖼 **تمثیل ذهنی:** سیستم تنفسی را مانند **یک درخت وارونه در یک صندوق** تصور کن.
 - **تنهٔ درخت** قصبه‌الریه (Trachea) است و **شاخه‌ها** برانکس‌ها.
@@ -4700,7 +4700,7 @@ ADD-RS ─► ۰–۱: D-dimer (منفی = رد محتمل)  |  ≥۲: CTA فو�
 
 # فصل ۱۶ — مرض انسدادی مزمن ریه (Chronic Obstructive Pulmonary Disease — COPD)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): GOLD 2025 اساس جدول‌ها؛ GOLD 2026 نشر شده (تعریف تازهٔ گروه‌ها و تشدید) — یادداشت در متن (SD-93).*
 
 ## 🩺 مریض این فصل
 
@@ -5110,7 +5110,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 # فصل ۱۷ — آسما (Asthma)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): GINA 2025؛ تغییرات GINA 2026 (هدف SpO₂، Adrenaline اول در Anaphylaxis، بازبینی پس از یک حمله) درج شد (SD-96).*
 
 ## 🩺 مریض این فصل
 
@@ -5274,7 +5274,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
    ├─ تهدیدکنندهٔ حیات ─► ICU / انستیزی فوراً + تداوی زیر
    │
    ▼
-۱. اکسیجن: هدف SpO₂ ۹۳–۹۶ فیصد (نه بیشتر)
+۱. اکسیجن فقط اگر SpO₂ کمتر از ۹۲ فیصد؛ هدف ۹۳–۹۵ فیصد (GINA 2026؛ نه بیشتر)
 ۲. SABA (Salbutamol) با Spacer یا نبولایزر (با اکسیجن) —
    هر ۲۰ دقیقه برای ساعت اول
    (یا ICS-Formoterol دوز بلند در مراکزی که تجربه دارند)
@@ -5286,6 +5286,8 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
    ├─ PEF بیش از ۶۰–۸۰ فیصد، پایدار ─► ترخیص با برنامه
    └─ پاسخ ناکافی ─► Magnesium IV؛ بستر؛ در صورت بدتر شدن ICU
 ```
+
+> 🔄 **GINA 2026:** اگر علایم Anaphylaxis هم‌زمان با آسما باشد، **اول Adrenaline عضلی** (فصل ۸۱) و بعد Bronchodilator. پس از **حتی یک** حملهٔ شدید (مراجعهٔ عاجل یا Prednisolone فمی) تداوی وقایوی مریض دوباره بررسی شود.
 
 - ⚠️ **آرام‌بخش (Sedatives) در حملهٔ حاد ممنوع است.**
 - ⚠️ **CXR و ABG روتین لازم نیست** مگر علایم خطر، عدم پاسخ، یا شک به پنوموتوراکس.
@@ -5435,6 +5437,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **Beta-blocker (حتی قطرهٔ چشمی) در مریض آسما.**
 
 ## 📚 References
+- Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 Update (ginasthma.org, May 2026) — summary of changes: oxygen only if SpO₂ <92%, upper target 95%; adrenaline first if anaphylaxis with asthma; review treatment after a single exacerbation.
 
 - Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
@@ -5470,7 +5473,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 # فصل ۱۸ — پنومونی (Pneumonia)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS/IDSA 2019 CAP؛ ATS 2025 CAP (کورتیکوستیروئید در CAP شدید) درج شد؛ IDSA/ATS 2016 HAP/VAP (جاری) (SD-94).*
 
 ## 🩺 مریض این فصل
 
@@ -5801,7 +5804,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - **فصل ۱۲ (اندوکاردیت):** امبولی‌های سپتیک ریه در سمت راست.
 - **فصل ۱۵ (معاینه):** یافته‌های کانسولیدیشن.
 - **فصل ۱۶ (COPD):** تشدید در برابر پنومونی؛ هدف اکسیجن ۸۸–۹۲.
-- **فصل‌های بعدی:** ۱۹ سل (تفریق مهم)، ۲۰ امپییما، ۲۲ ARDS و تهویه، ۶۰ سپسیس، ۶۴ HIV و PCP، ۷۵ مننژیت.
+- **فصل‌های بعدی:** ۱۹ سل (تفریق مهم)، ۲۰ امپییما، ۲۲ ARDS و تهویه، ۶۷ سپسیس، ۷۰ HIV و PCP، ۵۷ مننژیت.
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 
@@ -5814,7 +5817,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 # فصل ۱۹ — توبرکلوز (سل) (Tuberculosis)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): WHO Consolidated TB Module 4 (2025)، ATS/CDC/ERS/IDSA 2025 (جاری)؛ رهنمود ملی NTP افغانستان.*
 
 ## 🩺 مریض این فصل
 
@@ -6190,7 +6193,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - **فصل ۱۵ (معاینه):** فیبروز فوقانی با کشیده شدن قصبه‌الریه.
 - **فصل ۱۶ (COPD):** COPD پس از سل؛ ICS و خطر سل.
 - **فصل ۱۸ (پنومونی):** عدم پاسخ ← سل؛ احتیاط در فلوروکینولون.
-- **فصل‌های بعدی:** ۲۰ افیوژن سلی، ۲۳ هموپتیزی، ۳۲ هپاتیت (DILI)، ۶۴ HIV، ۷۵ مننژیت، ۸۷ FUO و لمفادینوپاتی.
+- **فصل‌های بعدی:** ۲۰ افیوژن سلی، ۲۳ هموپتیزی، ۳۱ هپاتیت (تفریق از DILI)، ۷۰ HIV، ۵۷ مننژیت، ۸۶ FUO و لمفادینوپاتی.
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 
@@ -6203,7 +6206,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 # فصل ۲۰ — امراض پلورا: افیوژن، امپییما و پنوموتوراکس (Pleural Diseases)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): BTS Pleural Disease 2023 (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -6547,7 +6550,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - **فصل ۱۶ (COPD):** پنوموتوراکس ثانوی ناشی از بولا.
 - **فصل ۱۸ (پنومونی):** افیوژن پارا پنومونیک.
 - **فصل ۱۹ (سل):** پلوریزی سلی و ADA.
-- **فصل‌های بعدی:** ۲۱ سرطان ریه و مزوتلیوما، ۲۹ پانکراتیت، ۳۰ سیروز، ۳۷ نفروتیک، ۶۸ SLE، ۷۸ شوک.
+- **فصل‌های بعدی:** ۲۱ سرطان ریه و مزوتلیوما، ۳۵ پانکراتیت، ۳۲ سیروز، ۳۷ نفروتیک، ۷۴ SLE، ۷۷ شوک.
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 
@@ -6560,7 +6563,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 # فصل ۲۱ — امراض بینابینی ریه، سرطان ریه و ابسهٔ ریه (ILD, Lung Cancer & Lung Abscess)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS/ERS/JRS/ALAT 2022 IPF و PPF (جاری)؛ NCCN 2026 سرطان ریه (فقط اصول، دوز تخصصی نوشته نمی‌شود).*
 
 ## 🩺 مریض این فصل
 
@@ -7013,7 +7016,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - **فصل ۱۵:** کلبینگ و کریپیتیشن‌ها. **فصل ۱۶:** اسپیرومتری انسدادی در برابر محدودکننده.
 - **فصل ۱۸:** پنومونی اسپیراسیون ← ابسه. **فصل ۱۹:** سل — تفریق مهم کاویتی.
 - **فصل ۲۰:** افیوژن سرطانی و مزوتلیوما (اسبستوز).
-- **فصل‌های بعدی:** ۲۲ (اکسیجن‌تراپی)، ۲۳ (همپتیزی)، ۴۲ (سودیم و کلسیم)، ۴۴ (SIADH)، ۶۸ (CTD).
+- **فصل‌های بعدی:** ۲۲ (اکسیجن‌تراپی)، ۲۳ (همپتیزی)، ۴۲ (سودیم و کلسیم)، ۴۴ (SIADH)، ۷۲–۷۴ (امراض نسج منضم).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. سه دوای ضد فایبروز IPF و دوز آن‌ها؟ ← *Nintedanib ۱۵۰ mg دو بار؛ Pirfenidone ۸۰۱ mg سه بار (با افزایش تدریجی)؛ Nerandomilast ۱۸ mg دو بار.*
@@ -7025,7 +7028,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 
 # فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 
-> **بخش سوم — سیستم تنفسی**
+> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS 2024 ARDS، ESICM 2023 ARDS، تعریف جهانی ARDS 2024 (جاری)؛ BTS 2017 اکسیجن (هنوز نسخهٔ جاری BTS)؛ ERS/ATS 2017 NIV.*
 
 ## 🩺 مریض این فصل
 
@@ -7276,7 +7279,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۱ (ABCDE)**، **فصل ۴ (ABG)**، **فصل ۷ (ادیمای قلبی)**، **فصل ۱۴ (PE)**، **فصل ۱۶ (NIV در COPD)**، **فصل ۱۷ (آسم شدید)**، **فصل ۱۸ (پنومونی)**، **فصل ۲۰ (پنوموتوراکس)**.
-- **فصل‌های بعدی:** ۲۳ (همپتیزی)، ۷۷ (سپسیس)، ۷۸ (شوک)، و امراض عصبی-عضلی (Guillain-Barré، Myasthenia).
+- **فصل‌های بعدی:** ۲۳ (همپتیزی)، ۶۷ (سپسیس)، ۷۷ (شوک)، و ۵۸ (Guillain-Barré، Myasthenia).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. PaO₂ ۵۰، PaCO₂ ۳۰؟ ← *عدم کفایهٔ نوع ۱.*
@@ -7288,7 +7291,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 
 # فصل ۲۳ — سرفهٔ مزمن و همپتیزی (Chronic Cough & Haemoptysis)
 
-> **بخش سوم — سیستم تنفسی** · *فصل رهیافتی (Approach chapter)*
+> **بخش سوم — سیستم تنفسی** · *فصل رهیافتی (Approach chapter)* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ اصول سرفهٔ مزمن و هموپتیزی از منابع استندرد. دوزهای علامتی → SD-89.*
 
 ## 🩺 مریض این فصل
 
@@ -7635,7 +7638,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۶ (ACEi در هایپرتنشن)**، **فصل ۹ (تنگی میترال)**، **فصل ۱۴ (PE)**، **فصل ۱۵ (تاریخچهٔ تنفسی)**، **فصل ۱۶–۱۷ (COPD و آسم)**، **فصل ۱۹ (سل)**، **فصل ۲۱ (سرطان، ابسه)**، **فصل ۲۲ (راه هوایی)**.
-- **فصل‌های بعدی:** ۲۵ (GERD)، ۳۷ (سندروم ریوی-گرده‌ای — گلومرولونفریت)، ۶۸ (واسکولیت)، و امراض خون (کواگولوپاتی).
+- **فصل‌های بعدی:** ۲۶ (GERD)، ۳۷ (سندروم ریوی-گرده‌ای — گلومرولونفریت)، ۷۴ (SLE و واسکولیت)، و ۶۴ (کواگولوپاتی).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. سه علت شایع سرفهٔ مزمن با CXR نورمال؟ ← *UACS، آسم/NAEB، GERD (+ ACEi).*
@@ -7649,7 +7652,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 
 # فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 
-> **بخش چهارم — سیستم هضمی** · *فصل رهیافتی؛ رهیافت بخش کبد (یرقان، معاینهٔ کبد) هم این‌جاست.*
+> **بخش چهارم — سیستم هضمی** · *فصل رهیافتی؛ رهیافت بخش کبد (یرقان، معاینهٔ کبد) هم این‌جاست.* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ ادعای رهنمودی جدید ندارد.*
 
 🖼 **تمثیل ذهنی:** سیستم هضمی را مانند یک **خط تولید طولانی در فابریکه** (حدود ۸–۹ متر از دهن تا مقعد) تصور کن:
 - **ورودی و انتقال:** دهن، مری (نوار انتقال).
@@ -7925,7 +7928,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۱–۴:** تاریخچه، معاینهٔ عمومی، تصویربرداری، LFT.
 - **فصل ۹:** کبد ضربان‌دار (عدم کفایهٔ ترایکسپید). **فصل ۱۰:** AF ← ایسکیمی مساریقی. **فصل ۱۳:** AAA. **فصل ۱۹:** هپاتیت ضد سل و سل بطنی.
-- **فصل‌های بعدی (همین بخش):** ۲۵ خونریزی GI · ۲۶ قرحه و GERD · ۲۷ بطن حاد · ۲۸ صفرا و هایداتید · ۲۹ پانکراتیت · ۳۰ سیروز · ۳۱ عدم کفایهٔ حاد کبد · ۳۲ هپاتیت ویروسی · ۳۳ IBD · ۳۴ اسهال و Rehydration · ۳۵ سوء جذب و IBS.
+- **فصل‌های بعدی (همین بخش):** ۲۵ خونریزی GI · ۲۶ قرحه و GERD · ۲۷ بطن حاد · ۲۸ IBD · ۲۹ اسهال و Rehydration · ۳۰ سوء جذب و IBS · ۳۱ هپاتیت ویروسی · ۳۲ سیروز · ۳۳ عدم کفایهٔ حاد کبد · ۳۴ صفرا و هایداتید · ۳۵ پانکراتیت.
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. درد اطراف ناف که به حفرهٔ حرقفی راست منتقل شد؟ ← *آپاندیسیت (احشایی ← جداری).*
@@ -7937,7 +7940,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 
 # فصل ۲۵ — خونریزی جهاز هضمی (Gastrointestinal Bleeding)
 
-> **بخش چهارم — سیستم هضمی**
+> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2021 UGIB، ACG 2023 LGIB (جانشین توصیهٔ کولونوسکوپی ۲۴ ساعته)، BSG 2019 LGIB، Baveno VII (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -8040,8 +8043,8 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 | **IIc** | لکهٔ سیاه صاف | کمتر از ۱۰ فیصد | فقط PPI فمی |
 | **III** | قاعدهٔ پاک | کمتر از ۵ فیصد | PPI فمی، ترخیص زودهنگام |
 
-- **کولونوسکوپی** در LGIB — پس از **آماده‌سازی سریع روده** (۴–۶ لیتر PEG) در ۲۴ ساعت در مریضان بستری (BSG 2019: در موارد قابل ملاحظه در اولین لیست ممکن).
-- **CT انجیوگرافی (CTA):** **LGIB ناپایدار** (Shock index بیش از ۱) — **پیش از کولونوسکوپی** (BSG 2019)؛ یا UGIB که اندوسکوپی منبع را نشان نداد. (سرعت خونریزی ≥ ۰.۳–۰.۵ ml/min لازم است.)
+- **کولونوسکوپی** در LGIB — پس از **آماده‌سازی روده** (۴–۶ لیتر PEG). **اختلاف منابع:** BSG 2019 در موارد قابل ملاحظه اولین لیست ممکن را می‌گوید؛ **ACG 2023** (تازه‌تر) کولونوسکوپی **غیرعاجل** در همان بستری را توصیه می‌کند، چون کولونوسکوپی در ۲۴ ساعت اول نتیجهٔ بالینی را بهتر نکرده است. در این کتاب رهنمود تازه‌تر (ACG 2023) پیروی می‌شود.
+- **CT انجیوگرافی (CTA):** **LGIB ناپایدار** (Shock index بیش از ۱) — **پیش از کولونوسکوپی** (BSG 2019؛ ACG 2023). اگر CTA خونریزی فعال (Extravasation) نشان داد → **فوراً به رادیولوژی مداخله‌ای برای Embolisation** (ACG 2023، توصیهٔ قوی)؛ یا UGIB که اندوسکوپی منبع را نشان نداد. (سرعت خونریزی ≥ ۰.۳–۰.۵ ml/min لازم است.)
 
 **سطح ۳:**
 - **انجیوگرافی و امبولیزیشن** (Transcatheter arterial embolisation — TAE).
@@ -8203,6 +8206,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - ⚠️ **کم‌خونی کمبود آهن در مسن** ← سرطان GI تا خلاف آن ثابت شود.
 
 ## 📚 References
+- Sengupta N, Feuerstein JD, Jairath V, et al. Management of Patients With Acute Lower Gastrointestinal Bleeding: An Updated ACG Guideline. Am J Gastroenterol 2023;118:208–231.
 - Gralnek IM, et al. **ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage — Update 2021.** Endoscopy. 2021;53:300–332.
 - Tripathi D, et al. **UK guidelines on the management of variceal haemorrhage in cirrhotic patients (BSG).** Gut. 2015;64:1680–1704.
 - FDA label: **Kcentra (prothrombin complex concentrate, human)** — Dosage and Administration.
@@ -8227,8 +8231,8 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 5. هر ترخیص: **NSAID نه، H. pylori تست، PPI تا کی، Aspirin چه وقت**.
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
-- **فصل ۱ (ABCDE)**، **فصل ۴ (یوریا/کریاتینین)**، **فصل ۶ و ۸ (هایپرتنشن و Aspirin در ACS)**، **فصل ۱۰ و ۱۴ (انتی‌کواگولانت)**، **فصل ۲۳ (اصلاح انتی‌کواگولانت)**، **فصل ۲۴ (Melaena، DRE)**.
-- **فصل‌های بعدی:** ۲۶ (قرحه، H. pylori)، ۳۰ (سیروز، هایپرتنشن پورتال)، ۳۱ (انسفالوپاتی)، ۳۳ (IBD)، ۳۴ (اسهال خونی)، و امراض خون (کم‌خونی کمبود آهن، ترانسفیوژن).
+- **فصل ۱ (ABCDE)**، **فصل ۴ (یوریا/کریاتینین)**، **فصل ۶ و ۸ (هایپرتنشن و Aspirin در ACS)**، **فصل ۱۰ و ۱۴ (انتی‌کواگولانت)**، **فصل ۲۳ (هموپتیزی و انتی‌کواگولانت)**، **فصل ۲۴ (Melaena، DRE)**.
+- **فصل‌های بعدی:** ۲۶ (قرحه، H. pylori)، ۳۲ (سیروز، هایپرتنشن پورتال)، ۳۳ (انسفالوپاتی)، ۲۸ (IBD)، ۲۹ (اسهال خونی)، ۶۰–۶۱ (ترانسفیوژن، انمی فقر آهن).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. آستانهٔ ترانسفیوژن در UGIB بدون امراض قلبی؟ ← *Hb کمتر از ۷ g/dL.*
@@ -8240,7 +8244,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 
 # فصل ۲۶ — قرحهٔ هضمیه، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 
-> **بخش چهارم — سیستم هضمی**
+> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2024 H. pylori، Maastricht VI 2022، ACG 2022 GERD، ACG/CAG 2017 Dyspepsia (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -8534,7 +8538,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۸ (Aspirin/DAPT)**، **فصل ۱۹ (Levofloxacin و Rifabutin در سل)**، **فصل ۲۳ (GERD و سرفه)**، **فصل ۲۴ (درد شرسوفی، ALARM)**، **فصل ۲۵ (قرحهٔ خونریزی‌دهنده)**.
-- **فصل‌های بعدی:** ۲۷ (بطن حاد — انثقاب)، ۲۸ (کولیک صفراوی)، ۲۹ (پانکراتیت)، ۳۵ (Functional dyspepsia و IBS)، و امراض خون (کمبود B12 و آهن).
+- **فصل‌های بعدی:** ۲۷ (بطن حاد — انثقاب)، ۳۴ (کولیک صفراوی)، ۳۵ (پانکراتیت)، ۳۰ (IBS)، و ۶۱ (کمبود B12 و آهن).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. رژیم خط اول H. pylori در منطقهٔ ما؟ ← *Bismuth quadruple ۱۴ روز.*
@@ -8546,7 +8550,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 
 # فصل ۲۷ — بطن حاد (Acute Abdomen)
 
-> **بخش چهارم — سیستم هضمی**
+> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): WSES 2020–2022 (اپندیسیت، کولی‌سیستیت، AMI)، ESVS 2025 mesenteric (جانشین 2017؛ SD-95)، SIS/IDSA اصول IAI.*
 
 ## 🩺 مریض این فصل
 
@@ -8702,7 +8706,8 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - **پریتونیت (Hinchey III/IV)** ← جراحی.
 - **کولونوسکوپی پس از ۶–۸ هفته** در مریضانی که اخیراً کولونوسکوپی نکرده‌اند یا دایورتیکولیت پیچیده داشته‌اند (رد سرطان).
 
-#### ۴. ایسکیمی حاد مساریقی (ESVS 2017، WSES 2022)
+#### ۴. ایسکیمی حاد مساریقی (ESVS 2025، WSES 2022)
+> 🔄 **CURRENTNESS NOTE:** ESVS رهنمود 2017 را با **ESVS 2025** (Koelemay MJ et al., Eur J Vasc Endovasc Surg 2025;70:153–218) جانشین کرده است. D-dimer نورمال در عاجل، انسداد حاد شریانی یا وریدی مساریقی را به احتمال زیاد رد می‌کند. متن کامل 2025 خط به خط با اصول زیر مطابقت داده نشده (SD-95).
 - **Heparin غیرفرکشنه فوری:** **بولوس ۸۰ U/kg IV** (یا ۵٬۰۰۰ U) ← **انفیوژن ۱۸ U/kg/h**، تنظیم با aPTT (۱.۵–۲.۵ برابر) — فصل ۱۴.
 - **انتی‌بیوتیک وسیع‌الطیف** (انتقال باکتریایی) — مانند بالا.
 - مایع؛ اجتناب از Vasopressor در صورت امکان (NOMI).
@@ -8774,6 +8779,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - ⚠️ **تب تیفوئیدی در هفتهٔ ۲–۳ با درد ناگهانی بطن** ← انثقاب ایلیوم.
 
 ## 📚 References
+- Koelemay MJ, Geelkerken RH, Kärkkäinen J, et al. European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins. Eur J Vasc Endovasc Surg 2025;70:153–218.
 - Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
@@ -8795,7 +8801,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۸ (MI تحتانی)**، **فصل ۱۰ (AF)**، **فصل ۱۳ (AAA)**، **فصل ۱۴ (Heparin)**، **فصل ۲۴ (معاینهٔ بطن)**، **فصل ۲۵ (شوک خونریزی‌دهنده)**، **فصل ۲۶ (انثقاب قرحه)**.
-- **فصل‌های بعدی:** ۲۸ (صفرا)، ۲۹ (پانکراتیت)، ۳۳ (IBD)، ۴۱ (سنگ گرده)، ۴۷ (DKA)، ۷۷ (سپسیس)، و تیفوئید (امراض انتانی).
+- **فصل‌های بعدی:** ۳۴ (صفرا)، ۳۵ (پانکراتیت)، ۲۸ (IBD)، ۴۱ (سنگ گرده)، ۴۷ (DKA)، ۶۷ (سپسیس)، و ۶۹ (انثقاب تیفوئیدی).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. سه قاتل بطنی که اول باید رد شوند؟ ← *AAA پاره‌شده، ایسکیمی مساریقی، حاملگی خارج رحم.*
@@ -8807,7 +8813,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 
 # فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 
-> **بخش چهارم — سیستم هضمی**
+> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2025 UC و Crohn، AGA Living Guidelines 2025، ECCO (جاری).*
 
 ## مریضی که دو تشخیص روی میز داشت
 
@@ -10436,7 +10442,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 
 # فصل ۳۱ — هپاتیت‌های ویروسی (Viral Hepatitis: A, B, C, D, E)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): WHO 2024 HBV (اساس کتاب)، EASL 2023 HDV، AASLD/IDSA 2025 HBV (جانشین AASLD 2018؛ SD-97).*
 
 ## دو مریض، یک سؤال
 
@@ -10704,6 +10710,8 @@ HDV ژن پوش ندارد. **پوش خود را از HBsAg قرض می‌گیر
    - تظاهرات خارج کبدی
 4. **اگر HBV DNA در دسترس نیست:** **ALT به طور دوامدار غیرنورمال** (دو اندازه‌گیری بالاتر از حد نورمال در ۶–۱۲ ماه).
 
+> 🔄 **مقایسه با AASLD/IDSA 2025:** رهنمود امریکایی 2025 هم آستانهٔ ALT را پایین آورد (**۳۵ U/L مردان، ۲۵ U/L زنان**) و تداوی را در مرحلهٔ «نامعین» (Indeterminate) HBeAg منفی هم مجاز دانست. پس هر دو رهنمود به سوی تداوی وسیع‌تر رفته‌اند. برای افغانستان معیارهای ساده‌تر WHO 2024 اساس این کتاب است.
+
 (منبع: WHO 2024 — [hcplive](https://www.hcplive.com/view/who-releases-new-hepatitis-b-guidelines)، [Gastroenterology & Hepatology](https://www.gastroenterologyandhepatology.net/archives/december-2024/highlights-from-the-recent-world-health-organization-guidelines-for-hepatitis-b-virus-infection/)، [J Hepatol 2025](https://www.sciencedirect.com/science/article/pii/S0168827825000777))
 
 > 💡 **احمد:** ALT = ۸۲ (بلند)، HBeAg منفی، HBV DNA = ۱۸٬۰۰۰ IU/mL، APRI = ۰.۴. **از دروازهٔ ۲ عبور کرد** ← مستحق تداوی است. اگر در ولایت او HBV DNA نبود، دو ALT بلند در ۶ ماه (دروازهٔ ۴) هم کافی بود.
@@ -10936,6 +10944,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - World Health Organization. **Prevention of mother-to-child transmission of hepatitis B virus: guidelines on antiviral prophylaxis in pregnancy.** Geneva: WHO; 2020. https://www.ncbi.nlm.nih.gov/books/NBK561126/
 - World Health Organization. **Guidelines for the care and treatment of persons diagnosed with chronic hepatitis C virus infection.** Geneva: WHO; 2018. https://www.ncbi.nlm.nih.gov/books/NBK531720/
 - World Health Organization. **Hepatitis C — Fact sheet** (2026). https://www.who.int/news-room/fact-sheets/detail/hepatitis-c
+- AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B (Hepatology 2025): treatment threshold ALT ULN 35 U/L men / 25 U/L women; immune-active = ALT ≥2×ULN and HBV DNA >20,000 (HBeAg+) or >2,000 IU/mL (HBeAg−); treatment also considered in the HBeAg-negative indeterminate phase. Supersedes AASLD 2018 for treatment decisions.
 - Terrault NA, et al. **Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance.** Hepatology. 2018.
 - European Association for the Study of the Liver. **EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection.** J Hepatol. 2017.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on hepatitis delta virus.** J Hepatol. 2023.
@@ -10977,7 +10986,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - **فصل ۱۹ (سل):** ALT بلند در مریض روی دواهای ضد سل را از **هپاتیت ویروسی هم‌زمان** تفریق کن؛ پیش از شروع، HBsAg و Anti-HCV در مریضان پرخطر.
 - **فصل ۳۲ (سیروز):** HBV و HCV **مهم‌ترین علل سیروز در افغانستان** هستند. **حذف علت** همان قدم اول «Recompensation» است.
 - **فصل ۳۳ (ALF):** حاد شدید = پروتوکول ALF.
-- **فصل‌های بعدی:** ۳۸ و ۴۰ (گلومرولونفریت HBV/HCV)، امراض انتانی (HIV و انتان هم‌زمان)، امراض خون (Cryoglobulinaemia، لمفوما)، و انکولوژی (HCC).
+- **فصل‌های بعدی:** ۳۷ (گلومرولونفریت HBV/HCV)، ۷۰ (HIV و انتان هم‌زمان)، ۶۵ (لمفوما)، و ۳۲ (HCC).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای
 
@@ -10990,7 +10999,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 # فصل ۳۲ — سیروز کبد و اختلاطات آن (Liver Cirrhosis & Its Complications)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): Baveno VII 2022، AASLD 2021 Ascites/HRS، AASLD 2024 portal hypertension، EASL 2018 decompensated cirrhosis (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -11272,7 +11281,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۴ (LFT)**، **فصل ۹ (عدم کفایهٔ ترایکسپید — سیروز قلبی)**، **فصل ۲۰ (Hepatic hydrothorax)**، **فصل ۲۴ (آثار مرض مزمن کبد)**، **فصل ۲۵ (خونریزی واریسی)**، **فصل ۳۴ (PBC، PSC — کولستاز)**.
-- **فصل‌های بعدی:** ۳۱ (انسفالوپاتی و عدم کفایهٔ حاد کبد)، ۳۲ (HBV، HCV، HDV)، ۳۳ (PSC با کولیت اولسراتیف)، ۳۸ (AKI)، ۴۲ (سودیم)، ۴۶ (دیابت و MASLD)، و انکولوژی (HCC).
+- **فصل‌های بعدی:** ۳۳ (انسفالوپاتی و عدم کفایهٔ حاد کبد)، ۳۱ (HBV، HCV، HDV)، ۲۸ (PSC با کولیت اولسراتیف)، ۳۸ (AKI)، ۴۴ (سودیم)، ۴۶ (دیابت و MASLD)، و انکولوژی (HCC).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. پنج متغیر Child-Pugh؟ ← *بیلی‌روبین، البومین، INR، آسیت، انسفالوپاتی.*
@@ -11284,7 +11293,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 # فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): EASL 2022 HE (جانشین جزئی AASLD/EASL 2014)؛ ALF: EASL 2017 (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -11473,7 +11482,9 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 > 💡 **Memory Jogger:** «**هر HE یک محرک دارد تا خلاف آن ثابت شود:** انتان، خونریزی، قبضیت، دواها، الکترولیت‌ها (K پایین)، دیهایدریشن، TIPS.»
 
-## 🔹 ۲. Definition & Classification (AASLD/EASL 2014)
+## 🔹 ۲. Definition & Classification (AASLD/EASL 2014؛ EASL 2022)
+
+> 🔄 **EASL 2022 (رهنمود HE):** (۱) در HE آشکار **نخستین کار جستجو و اصلاح عامل آغازگر** است، پیش از تداوی مخصوص HE؛ (۲) **Lactulose** پیشگیری ثانوی پس از اپیزود اول؛ **Rifaximin** اضافه بر Lactulose پس از یک اپیزود دیگر در ۶ ماه (قوی)؛ (۳) اگر Ammonia خون **نورمال** باشد، تشخیص HE زیر سؤال است؛ (۴) Zinc روتین توصیه نمی‌شود.
 **HE** = اختلال وظیفهٔ مغز ناشی از **عدم کفایهٔ کبد و/یا Portosystemic shunt** — طیفی از تغییرات خفیف تا کوما.
 - **Type A** (ALF)، **Type B** (Bypass — Shunt بدون مرض کبد)، **Type C** (**سیروز** — شایع‌ترین).
 - **سیر:** اپیزودیک، راجعه (بیش از یک بار در ۶ ماه)، دوامدار.
@@ -11588,6 +11599,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **اسهال شدید با Lactulose** ← دیهایدریشن و هایپوناترمی ← کاهش دوز.
 
 ## 📚 References
+- European Association for the Study of the Liver. EASL Clinical Practice Guidelines on the management of hepatic encephalopathy. J Hepatol 2022;77:807–824.
 - Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
@@ -11610,7 +11622,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۱۹ (DILI ضد سل)**، **فصل ۲۴ (Asterixis)**، **فصل ۲۵ (خونریزی واریسی)**، **فصل ۳۲ (سیروز، SBP، هایپوناترمی)**.
-- **فصل‌های بعدی:** ۳۲ (HAV، HBV، HEV)، ۳۸ (AKI)، ۴۲ (سودیم و پتاشیم)، مسمومیت‌ها (Paracetamol، سمارق)، و امراض عصبی (دلیریوم، Wernicke).
+- **فصل‌های بعدی:** ۳۱ (HAV، HBV، HEV)، ۳۸ (AKI)، ۴۲ و ۴۴ (پتاشیم و سودیم)، ۷۹ (Paracetamol)، ۵۹ (دلیریوم) و ۸۷ (Wernicke).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. تعریف ALF؟ ← *INR ≥ ۱.۵ + انسفالوپاتی در مریض بدون سیروز قبلی، کمتر از ۲۶ هفته.*
@@ -11622,7 +11634,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 # فصل ۳۴ — امراض صفراوی، ابسهٔ کبد و کیست هایداتید (Biliary Disease, Liver Abscess & Hydatid Cyst)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): Tokyo Guidelines 2018 و WSES 2020 کولی‌سیستیت (جاری)؛ WHO-IWGE Echinococcosis (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -12017,7 +12029,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۴ (LFT)**، **فصل ۲۳ (Hydatid vomica)**، **فصل ۲۴ (یرقان، Murphy، Courvoisier)**، **فصل ۲۹ (امیب — کولیت خونی)**، **فصل ۲۷ (انتی‌بیوتیک‌های داخل بطنی، STOP-IT)**.
-- **فصل‌های بعدی:** ۲۹ (پانکراتیت صفراوی)، ۳۰ (سیروز)، ۳۲ (هپاتیت — تفریق یرقان)، ۳۴ (امیبیازیس روده‌ای)، ۷۷ (سپسیس)، و Anaphylaxis.
+- **فصل‌های بعدی:** ۳۵ (پانکراتیت صفراوی)، ۳۲ (سیروز)، ۳۱ (هپاتیت — تفریق یرقان)، ۲۹ (امیبیازیس روده‌ای)، ۶۷ (سپسیس)، و ۸۱ (Anaphylaxis از پاره شدن کیست).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. تب + یرقان + درد RUQ؟ ← *Charcot triad ← کلانژیت ← انتی‌بیوتیک + ERCP.*
@@ -12029,7 +12041,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 # فصل ۳۵ — پانکراتیت حاد و مزمن (Acute & Chronic Pancreatitis)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): ACG 2024 Acute pancreatitis و Atlanta 2012 (جاری)؛ ACG 2020 و HaPanEU مزمن (جاری).*
 
 ## 🩺 مریض این فصل
 
@@ -12332,7 +12344,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 
 ## 🔗 اتصال به فصل‌های پیشین و بعدی (Compound Effect)
 - **فصل ۲۲ (ARDS)**، **فصل ۲۴ (Cullen/Grey-Turner)**، **فصل ۲۷ (بطن حاد)**، **فصل ۳۴ (سنگ CBD، ERCP، کولی‌سیستکتومی)**.
-- **فصل‌های بعدی:** ۳۵ (سوء جذب)، ۴۲ (کلسیم)، ۴۶ (دیابت)، ۵۲ (لیپید — TG)، ۷۷ (سپسیس)، و انکولوژی (سرطان پانکراس).
+- **فصل‌های بعدی:** ۳۰ (سوء جذب)، ۴۲ (کلسیم)، ۴۶ (دیابت)، ۵۲ (لیپید — TG)، ۶۷ (سپسیس)، و انکولوژی (سرطان پانکراس).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. سه معیار تشخیص پانکراتیت حاد؟ ← *درد تیپیک، Lipase ≥ ۳ برابر، تصویربرداری (۲ از ۳).*
@@ -15273,7 +15285,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 # فصل ۴۵ — رهیافت به مریض اندوکراین: خواندن درست تست‌های هورمونی (Approach to Endocrine Disease)
 
-> **بخش هفتم — اندوکراین** · *فصل رهیافتی — ساختار تابع وظیفه (مثل فصل ۳۶)*
+> **بخش هفتم — اندوکراین** · *فصل رهیافتی — ساختار تابع وظیفه (مثل فصل ۳۶)* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ حدود و معیارها در فصل‌های ۴۶–۵۲ با منبع می‌آیند.*
 
 ## سه ورق هورمونی
 
@@ -18156,7 +18168,7 @@ Focused update 2025 اهداف LDL را **نگه داشت**. SCORE را با **S
 
 # فصل ۵۷ — مننژیت و انسفالیت
 
-> **بخش هشتم — نورولوژی** · *Currentness audit: **ESCMID 2016 acute bacterial meningitis guideline** (van de Beek D et al., Clin Microbiol Infect 2016) — بخش Dexamethasone و وقایه مستقیم خوانده شد؛ رژیم‌های Antibiotic کاهلان از **NHS Highland Antimicrobial Guidance** (به‌روز ۲۰۲۶) مستقیم؛ Dexamethasone در TB meningitis از خلاصهٔ **Neurocritical Care Society** (Cerebral oedema guideline). مدت Aciclovir، رژیم TB meningitis، و Cryptococcus → SD-65.*
+> **بخش هشتم — نورولوژی** · *Currentness audit: **ESCMID 2016 acute bacterial meningitis guideline** (van de Beek D et al., Clin Microbiol Infect 2016) — بخش Dexamethasone و وقایه مستقیم خوانده شد؛ رژیم‌های Antibiotic کاهلان از **NHS Highland Antimicrobial Guidance** (به‌روز ۲۰۲۶) مستقیم؛ Dexamethasone در TB meningitis از خلاصهٔ **Neurocritical Care Society** (Cerebral oedema guideline). مدت Aciclovir، رژیم TB meningitis، و Cryptococcus → SD-65.* · *تازگی (سپتمبر 2026): NICE NG240 (2024، مننژیت باکتریایی و انتان مننگوکوکی) نشر شده؛ این فصل هنوز بر ESCMID 2016 استوار است و با NG240 خط به خط مطابقت نشده (SD-98).*
 
 ## «فقط تب و سردردی است»
 
@@ -22540,7 +22552,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 # فصل ۸۲ — گرمازدگی و Hypothermia
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — از خلاصهٔ Medscape (مستقیم) و متن 2019 (مستقیم)؛ **Hypothermia** — رهنمود WMS 2019 و ERC 2021 (Special circumstances) مستقیم خوانده نشد → اصول، و SD-73.*
+> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — از خلاصهٔ Medscape (مستقیم) و متن 2019 (مستقیم)؛ **Hypothermia** — رهنمود WMS 2019 و ERC 2021 (Special circumstances) مستقیم خوانده نشد → اصول، و SD-73.* · *تازگی (سپتمبر 2026): **ERC 2025 Special Circumstances** نشر شد؛ بخش دوای ایست قلبی در Hypothermia از متن آن اصلاح شد (SD-96)؛ باقی بخش Hypothermia هنوز → SD-73.*
 
 ## جوزای قندهار، جدی بامیان
 
@@ -22625,7 +22637,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
    - **شدید با ایست قلبی:** **ECMO یا Bypass** در مراکز تخصصی (در افغانستان به‌طور معمول موجود نیست). *(جزئیات → SD-73.)*
 4. **ایست قلبی در Hypothermia:**
    - **CPR را شروع کن.** نبض را **تا یک دقیقه** بجوی (نبض بسیار آهسته ممکن است). *(مدت → SD-73.)*
-   - **دواها و شاک‌ها در حرارت بسیار پایین** کم‌اثرند؛ پروتوکول تعدیل‌شده (ERC). → SD-73.
+   - **دواها در حرارت پایین (ERC 2025):** زیر **۳۰ °C** فقط **یک دوز Adrenaline ۱ mg IV** بده (مگر ECPR فوری پلان باشد)، چون Adrenaline تجمع می‌کند و ضرر آن شاید بیش از فایده باشد؛ در **۳۰–۳۵ °C** فاصلهٔ Adrenaline را به **۶–۱۰ دقیقه** دراز کن. زیر **۲۸ °C** اگر CPR دوامدار ممکن نیست (مثلاً هنگام انتقال)، CPR را به تأخیر انداختن یا متناوب دادن مجاز است. مریض در خطر ایست یا در ایست → مستقیم به مرکز ECLS (اگر دستیاب باشد). تعداد شاک‌ها زیر ۳۰ °C → SD-73.
    - **«هیچ کس مرده نیست تا گرم و مرده نباشد»** — CPR طولانی با گرم کردن ممکن است مریض را با مغز سالم نجات دهد.
 5. **قند و علت‌ها:** Hypoglycaemia، الکهول، Opioid، Sepsis، Hypothyroidism، و ترضیض.
 
@@ -22675,6 +22687,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 5. چرا مریض Hypothermia را آرام حرکت می‌دهی؟ ← قلب سرد تحریک‌پذیر است؛ خطر VF.
 
 ## 📚 References
+- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
 1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: cardiac arrest in special circumstances. *Resuscitation.* 2021;161:152–219. (خوانده نشد → SD-73.)
@@ -22983,7 +22996,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 # فصل ۸۵ — طفل مریض از دید داکتر داخله
 
-> **بخش سیزدهم — گروه‌های خاص** · *این فصل کتاب اطفال نیست. برای داکتر داخله و داکتر عمومی است که در ولسوالی یا عاجل شب **طفل مریض را هم می‌بیند**. Currentness audit: **WHO IMCI** (Assess and classify the sick child، ماژول ۱، مستقیم) — علایم خطر عمومی؛ Zinc از خلاصهٔ مبتنی بر WHO (World Vision). علایم حیاتی نورمال اطفال، دوزهای Paracetamol/Ibuprofen و Antibiotic اطفال، و دیگر جداول IMCI → SD-76. دوزهای اطفال که در فصل‌های دیگر تأیید شده‌اند، این‌جا ارجاع داده شده‌اند.*
+> **بخش سیزدهم — گروه‌های خاص** · *این فصل کتاب اطفال نیست. برای داکتر داخله و داکتر عمومی است که در ولسوالی یا عاجل شب **طفل مریض را هم می‌بیند**. Currentness audit: **WHO IMCI** (Assess and classify the sick child، ماژول ۱، مستقیم) — علایم خطر عمومی؛ Zinc از خلاصهٔ مبتنی بر WHO (World Vision). علایم حیاتی نورمال اطفال، دوزهای Paracetamol/Ibuprofen و Antibiotic اطفال، و دیگر جداول IMCI → SD-76. دوزهای اطفال که در فصل‌های دیگر تأیید شده‌اند، این‌جا ارجاع داده شده‌اند.* · *تازگی (سپتمبر 2026): ERC 2025 Paediatric Life Support نشر شده (۵ تنفس نجات، سپس ۱۵:۲)؛ این فصل احیای اطفال را تداوی نمی‌کند؛ دوزهای Adrenaline عضلی از RCUK 2021 Anaphylaxis (هنوز جاری).*
 
 ## شب در ولسوالی
 
@@ -23247,7 +23260,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 # فصل ۸۷ — سوء تغذیه، Refeeding و کمبود ویتامین‌ها
 
-> **بخش سیزدهم — گروه‌های خاص** · *Currentness audit: معیارهای خطر Refeeding از **NICE CG32** (از طریق سه رهنمود NHS و BAPEN که آن را نقل می‌کنند — مستقیم خوانده شد)؛ دوز Thiamine وقایوی و کالوری شروع از همان رهنمودهای NHS (SWBH 2024، NHS Grampian). سوء تغذیهٔ حاد شدید اطفال (WHO 2013/2023)، دوز Thiamine در Wernicke، و تداوی کمبود ویتامین‌های A، C، D و Iodine در این جلسه مستقیم خوانده نشد → SD-78.*
+> **بخش سیزدهم — گروه‌های خاص** · *Currentness audit: معیارهای خطر Refeeding از **NICE CG32** (از طریق سه رهنمود NHS و BAPEN که آن را نقل می‌کنند — مستقیم خوانده شد)؛ دوز Thiamine وقایوی و کالوری شروع از همان رهنمودهای NHS (SWBH 2024، NHS Grampian). سوء تغذیهٔ حاد شدید اطفال (WHO 2013/2023)، دوز Thiamine در Wernicke، و تداوی کمبود ویتامین‌های A، C، D و Iodine در این جلسه مستقیم خوانده نشد → SD-78.* · *تازگی (سپتمبر 2026): WHO 2023 Guideline on wasting and nutritional oedema جانشین WHO 2013 شده (مثلاً مقدار RUTF ۱۵۰–۱۸۵ kcal/kg/روز)؛ پروتوکول اطفال همچنان → SD-78.*
 
 ## «غذا بدهید، گرسنه است»
 

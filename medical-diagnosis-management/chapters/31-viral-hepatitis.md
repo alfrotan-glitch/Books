@@ -1,6 +1,6 @@
 # فصل ۳۱ — هپاتیت‌های ویروسی (Viral Hepatitis: A, B, C, D, E)
 
-> **بخش پنجم — کبد، صفرا و پانقراس**
+> **بخش پنجم — کبد، صفرا و پانقراس** · *Currentness audit (سپتمبر 2026): WHO 2024 HBV (اساس کتاب)، EASL 2023 HDV، AASLD/IDSA 2025 HBV (جانشین AASLD 2018؛ SD-97).*
 
 ## دو مریض، یک سؤال
 
@@ -268,6 +268,8 @@ HDV ژن پوش ندارد. **پوش خود را از HBsAg قرض می‌گیر
    - تظاهرات خارج کبدی
 4. **اگر HBV DNA در دسترس نیست:** **ALT به طور دوامدار غیرنورمال** (دو اندازه‌گیری بالاتر از حد نورمال در ۶–۱۲ ماه).
 
+> 🔄 **مقایسه با AASLD/IDSA 2025:** رهنمود امریکایی 2025 هم آستانهٔ ALT را پایین آورد (**۳۵ U/L مردان، ۲۵ U/L زنان**) و تداوی را در مرحلهٔ «نامعین» (Indeterminate) HBeAg منفی هم مجاز دانست. پس هر دو رهنمود به سوی تداوی وسیع‌تر رفته‌اند. برای افغانستان معیارهای ساده‌تر WHO 2024 اساس این کتاب است.
+
 (منبع: WHO 2024 — [hcplive](https://www.hcplive.com/view/who-releases-new-hepatitis-b-guidelines)، [Gastroenterology & Hepatology](https://www.gastroenterologyandhepatology.net/archives/december-2024/highlights-from-the-recent-world-health-organization-guidelines-for-hepatitis-b-virus-infection/)، [J Hepatol 2025](https://www.sciencedirect.com/science/article/pii/S0168827825000777))
 
 > 💡 **احمد:** ALT = ۸۲ (بلند)، HBeAg منفی، HBV DNA = ۱۸٬۰۰۰ IU/mL، APRI = ۰.۴. **از دروازهٔ ۲ عبور کرد** ← مستحق تداوی است. اگر در ولایت او HBV DNA نبود، دو ALT بلند در ۶ ماه (دروازهٔ ۴) هم کافی بود.
@@ -500,6 +502,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - World Health Organization. **Prevention of mother-to-child transmission of hepatitis B virus: guidelines on antiviral prophylaxis in pregnancy.** Geneva: WHO; 2020. https://www.ncbi.nlm.nih.gov/books/NBK561126/
 - World Health Organization. **Guidelines for the care and treatment of persons diagnosed with chronic hepatitis C virus infection.** Geneva: WHO; 2018. https://www.ncbi.nlm.nih.gov/books/NBK531720/
 - World Health Organization. **Hepatitis C — Fact sheet** (2026). https://www.who.int/news-room/fact-sheets/detail/hepatitis-c
+- AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B (Hepatology 2025): treatment threshold ALT ULN 35 U/L men / 25 U/L women; immune-active = ALT ≥2×ULN and HBV DNA >20,000 (HBeAg+) or >2,000 IU/mL (HBeAg−); treatment also considered in the HBeAg-negative indeterminate phase. Supersedes AASLD 2018 for treatment decisions.
 - Terrault NA, et al. **Update on prevention, diagnosis, and treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance.** Hepatology. 2018.
 - European Association for the Study of the Liver. **EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection.** J Hepatol. 2017.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on hepatitis delta virus.** J Hepatol. 2023.
@@ -541,7 +544,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - **فصل ۱۹ (سل):** ALT بلند در مریض روی دواهای ضد سل را از **هپاتیت ویروسی هم‌زمان** تفریق کن؛ پیش از شروع، HBsAg و Anti-HCV در مریضان پرخطر.
 - **فصل ۳۲ (سیروز):** HBV و HCV **مهم‌ترین علل سیروز در افغانستان** هستند. **حذف علت** همان قدم اول «Recompensation» است.
 - **فصل ۳۳ (ALF):** حاد شدید = پروتوکول ALF.
-- **فصل‌های بعدی:** ۳۸ و ۴۰ (گلومرولونفریت HBV/HCV)، امراض انتانی (HIV و انتان هم‌زمان)، امراض خون (Cryoglobulinaemia، لمفوما)، و انکولوژی (HCC).
+- **فصل‌های بعدی:** ۳۷ (گلومرولونفریت HBV/HCV)، ۷۰ (HIV و انتان هم‌زمان)، ۶۵ (لمفوما)، و ۳۲ (HCC).
 
 ## 🔁 مرور ۶۰ ثانیه‌ای
 

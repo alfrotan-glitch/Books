@@ -1,6 +1,6 @@
 # فصل ۸۲ — گرمازدگی و Hypothermia
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — از خلاصهٔ Medscape (مستقیم) و متن 2019 (مستقیم)؛ **Hypothermia** — رهنمود WMS 2019 و ERC 2021 (Special circumstances) مستقیم خوانده نشد → اصول، و SD-73.*
+> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — از خلاصهٔ Medscape (مستقیم) و متن 2019 (مستقیم)؛ **Hypothermia** — رهنمود WMS 2019 و ERC 2021 (Special circumstances) مستقیم خوانده نشد → اصول، و SD-73.* · *تازگی (سپتمبر 2026): **ERC 2025 Special Circumstances** نشر شد؛ بخش دوای ایست قلبی در Hypothermia از متن آن اصلاح شد (SD-96)؛ باقی بخش Hypothermia هنوز → SD-73.*
 
 ## جوزای قندهار، جدی بامیان
 
@@ -85,7 +85,7 @@
    - **شدید با ایست قلبی:** **ECMO یا Bypass** در مراکز تخصصی (در افغانستان به‌طور معمول موجود نیست). *(جزئیات → SD-73.)*
 4. **ایست قلبی در Hypothermia:**
    - **CPR را شروع کن.** نبض را **تا یک دقیقه** بجوی (نبض بسیار آهسته ممکن است). *(مدت → SD-73.)*
-   - **دواها و شاک‌ها در حرارت بسیار پایین** کم‌اثرند؛ پروتوکول تعدیل‌شده (ERC). → SD-73.
+   - **دواها در حرارت پایین (ERC 2025):** زیر **۳۰ °C** فقط **یک دوز Adrenaline ۱ mg IV** بده (مگر ECPR فوری پلان باشد)، چون Adrenaline تجمع می‌کند و ضرر آن شاید بیش از فایده باشد؛ در **۳۰–۳۵ °C** فاصلهٔ Adrenaline را به **۶–۱۰ دقیقه** دراز کن. زیر **۲۸ °C** اگر CPR دوامدار ممکن نیست (مثلاً هنگام انتقال)، CPR را به تأخیر انداختن یا متناوب دادن مجاز است. مریض در خطر ایست یا در ایست → مستقیم به مرکز ECLS (اگر دستیاب باشد). تعداد شاک‌ها زیر ۳۰ °C → SD-73.
    - **«هیچ کس مرده نیست تا گرم و مرده نباشد»** — CPR طولانی با گرم کردن ممکن است مریض را با مغز سالم نجات دهد.
 5. **قند و علت‌ها:** Hypoglycaemia، الکهول، Opioid، Sepsis، Hypothyroidism، و ترضیض.
 
@@ -135,6 +135,7 @@
 5. چرا مریض Hypothermia را آرام حرکت می‌دهی؟ ← قلب سرد تحریک‌پذیر است؛ خطر VF.
 
 ## 📚 References
+- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
 1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: cardiac arrest in special circumstances. *Resuscitation.* 2021;161:152–219. (خوانده نشد → SD-73.)

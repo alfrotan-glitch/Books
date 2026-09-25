@@ -1,6 +1,6 @@
 # فصل ۵۷ — مننژیت و انسفالیت
 
-> **بخش هشتم — نورولوژی** · *Currentness audit: **ESCMID 2016 acute bacterial meningitis guideline** (van de Beek D et al., Clin Microbiol Infect 2016) — بخش Dexamethasone و وقایه مستقیم خوانده شد؛ رژیم‌های Antibiotic کاهلان از **NHS Highland Antimicrobial Guidance** (به‌روز ۲۰۲۶) مستقیم؛ Dexamethasone در TB meningitis از خلاصهٔ **Neurocritical Care Society** (Cerebral oedema guideline). مدت Aciclovir، رژیم TB meningitis، و Cryptococcus → SD-65.*
+> **بخش هشتم — نورولوژی** · *Currentness audit: **ESCMID 2016 acute bacterial meningitis guideline** (van de Beek D et al., Clin Microbiol Infect 2016) — بخش Dexamethasone و وقایه مستقیم خوانده شد؛ رژیم‌های Antibiotic کاهلان از **NHS Highland Antimicrobial Guidance** (به‌روز ۲۰۲۶) مستقیم؛ Dexamethasone در TB meningitis از خلاصهٔ **Neurocritical Care Society** (Cerebral oedema guideline). مدت Aciclovir، رژیم TB meningitis، و Cryptococcus → SD-65.* · *تازگی (سپتمبر 2026): NICE NG240 (2024، مننژیت باکتریایی و انتان مننگوکوکی) نشر شده؛ این فصل هنوز بر ESCMID 2016 استوار است و با NG240 خط به خط مطابقت نشده (SD-98).*
 
 ## «فقط تب و سردردی است»
 

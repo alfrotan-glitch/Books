@@ -13,6 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CHAPTERS = ROOT / "chapters"
 BUILD = ROOT / "build"
+BUILD.mkdir(exist_ok=True)
 FONTS = ROOT / "fonts"
 TEMPLATE = ROOT / "templates" / "book.typst"
 OUT_NAME = "dari-internal-medicine"
