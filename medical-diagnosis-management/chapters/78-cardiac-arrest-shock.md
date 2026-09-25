@@ -48,10 +48,10 @@
 | H | T |
 |---|---|
 | **Hypoxia** | **Tension pneumothorax** |
-| **Hypovolaemia** (خون‌ریزی) | **Tamponade** (فصل ۴) |
+| **Hypovolaemia** (خون‌ریزی) | **Tamponade** (فصل ۱۱) |
 | **Hydrogen ion** (Acidosis) | **Toxins** (فصل ۷۹–۸۱) |
-| **Hypo/Hyperkalaemia** (فصل ۴۴) | **Thrombosis — ریوی** (فصل ۲۲) |
-| **Hypothermia** (فصل ۸۳) | **Thrombosis — قلبی** (MI، فصل ۲) |
+| **Hypo/Hyperkalaemia** (فصل ۴۲) | **Thrombosis — ریوی** (فصل ۱۴) |
+| **Hypothermia** (فصل ۸۳) | **Thrombosis — قلبی** (MI، فصل ۸) |
 
 **در PEA، علت را فعالانه بجوی**؛ Epinephrine تنها کافی نیست. **Ultrasound** کنار بستر (Tamponade، Pneumothorax، RV بزرگ) اگر موجود است و CPR را قطع نمی‌کند.
 
@@ -62,7 +62,7 @@
 
 ## ۳. پس از بازگشت دوران (ROSC)
 - **ABC:** راه هوایی؛ **اکسیجن کافی ولی نه زیاد**؛ فشار کافی.
-- **ECG ۱۲ لیده:** اگر STEMI → **Cath عاجل** (فصل ۲).
+- **ECG ۱۲ لیده:** اگر STEMI → **Cath عاجل** (فصل ۸).
 - **جلوگیری از تب و کنترول حرارت** در مریضی که بیدار نیست؛ علت را تداوی کن. *(اهداف دقیق حرارت، فشار و SpO₂ → SD-68.)*
 - **قند و تشنج** را کنترول کن (فصل ۷۳).
 - **پروگنوز عصبی را زود تعیین نکن.**
@@ -77,10 +77,10 @@
 ### چهار نوع — تفریق با معاینه
 | نوع | علت‌ها | JVP | پوست | کلید تداوی |
 |---|---|---|---|---|
-| **Hypovolaemic** | خون‌ریزی (فصل ۳۰)، اسهال و استفراغ (فصل ۶۳)، سوختگی (فصل ۸۲) | **پایین** | سرد | **مایع یا خون**، و توقف خون‌ریزی |
+| **Hypovolaemic** | خون‌ریزی (فصل ۲۵)، اسهال و استفراغ (فصل ۶۳)، سوختگی (فصل ۸۲) | **پایین** | سرد | **مایع یا خون**، و توقف خون‌ریزی |
 | **Distributive** | **Sepsis** (فصل ۶۰)، **Anaphylaxis** (فصل ۸۲)، Neurogenic، Adrenal crisis (فصل ۵۰) | پایین یا عادی | **گرم** (اوایل) | مایع + Noradrenaline؛ **Adrenaline در Anaphylaxis**؛ Hydrocortisone در Adrenal |
-| **Cardiogenic** | **MI** (فصل ۲)، Arrhythmia، عدم کفایهٔ حاد قلب (فصل ۳) | **بلند**، رال ریه | سرد | **مایع زیاد نه**؛ Inotrope؛ Revascularization |
-| **Obstructive** | **Tamponade**، **Tension pneumothorax**، **PE شدید** (فصل ۲۲) | **بلند**، ریه پاک | سرد | **رفع انسداد**: Pericardiocentesis، کشیدن هوا، Thrombolysis |
+| **Cardiogenic** | **MI** (فصل ۸)، Arrhythmia، عدم کفایهٔ حاد قلب (فصل ۷) | **بلند**، رال ریه | سرد | **مایع زیاد نه**؛ Inotrope؛ Revascularization |
+| **Obstructive** | **Tamponade**، **Tension pneumothorax**، **PE شدید** (فصل ۱۴) | **بلند**، ریه پاک | سرد | **رفع انسداد**: Pericardiocentesis، کشیدن هوا، Thrombolysis |
 
 **سه سؤال در کنار بستر:**
 1. **JVP بلند است یا پایین؟** (پر یا خالی)
@@ -108,7 +108,7 @@
 | ۱۰ | ECG: **ST elevation قدامی** → انتقال برای Cath؛ جلوگیری از تب |
 
 - **درس:** مریض درد صدر در سرویس **Monitor** نداشت. اگر ریتم نظارت می‌شد، VF در ثانیه‌ها دیده می‌شد.
-- **Compound (فصل ۲):** MI حاد + VF → بزرگ‌ترین علت مرگ ناگهانی در اولین ساعات.
+- **Compound (فصل ۸):** MI حاد + VF → بزرگ‌ترین علت مرگ ناگهانی در اولین ساعات.
 
 ---
 

@@ -37,7 +37,7 @@
 |---|---|
 | **دوا** (شایع‌ترین) | **Anticholinergic** (ضد حساسیت قدیمی، ضد سرفه‌ها، Amitriptyline)، **Benzodiazepine و تابلت خواب**، Opioid، دواهای Parkinson، Steroid |
 | **انتان** | التهاب مثانه، سینه‌بغل (فصل ۱۸)، Sepsis |
-| **متابولیک** | **Hyponatraemia**، Hypercalcaemia (فصل ۴۴)؛ Hypoglycaemia؛ Uraemia؛ عدم کفایهٔ کبد |
+| **متابولیک** | **Hyponatraemia**، Hypercalcaemia (فصل ۴۲، ۴۴)؛ Hypoglycaemia؛ Uraemia؛ عدم کفایهٔ کبد |
 | **Hypoxia** | عدم کفایهٔ قلب یا تنفس |
 | **احتباس** | **احتباس ادرار، قبضیت** |
 | **قطع** | الکهول، Benzodiazepine |
@@ -58,7 +58,7 @@
 - **کاهش تدریجی حافظه و دیگر توانایی‌ها** که کار روزانه را مختل می‌سازد.
 - **انواع:** Alzheimer (شایع‌ترین)، Vascular (پس از سکته‌ها، پلکانی)، **Lewy body** (نوسان، **دیدن چیزهای ناموجود**، Parkinsonism)، و Frontotemporal (تغییر شخصیت، سن پایین‌تر).
 - **علل قابل تداوی را رد کن:**
-  - **Hypothyroidism** (فصل ۴۸)؛ **کمبود B12** (فصل ۵۴)؛ **افسردگی** («Pseudodementia»)؛
+  - **Hypothyroidism** (فصل ۴۹)؛ **کمبود B12** (فصل ۵۴)؛ **افسردگی** («Pseudodementia»)؛
   - **HIV**، Syphilis؛ **Normal pressure hydrocephalus** (راه رفتن + بی‌اختیاری ادرار + Dementia)؛ Subdural؛
   - **دواها**.
 - **تست‌ها:** CBC، الکترولیت‌ها، Calcium، کارکرد گرده و کبد، TSH، B12؛ تصویربرداری مغز.

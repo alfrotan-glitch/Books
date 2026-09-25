@@ -80,6 +80,7 @@
 | SD-67 | 77 | Parkinson/Dementia/Delirium: هیچ منبعی مستقیم خوانده نشد — NICE CG103/NG97/NG71؛ 4AT/CAM؛ دوز ضد روانی در Delirium؛ دوز Cholinesterase inhibitor/Memantine/Levodopa | UNVERIFIED |
 | SD-68 | 78 | ایست/شوک: مراقبت پس از ROSC (هدف حرارت، فشار، SpO2)؛ دوز دوم Lidocaine؛ معیارهای توقف CPR؛ دوزهای وازوپرسور | UNVERIFIED |
 | SD-69 | 79 | مسمومیت: Activated charcoal (حد زمانی، دوز)؛ زمان‌بندی Intermediate syndrome؛ Aluminium phosphide (مرگ‌ومیر، تداوی‌های پیشنهادی)؛ شواهد Pralidoxime متناقض — CURRENTNESS: رهنمود WHO/رسمی خوانده نشد | UNVERIFIED |
+| SD-70 | 80 | Paracetamol: حد زمانی/دوز Activated charcoal؛ رژیم NAC در Massive؛ معیار پایان NAC؛ انتخاب خط ۱۰۰ برای افغانستان تصمیم نویسنده است | UNVERIFIED |
 
 ## B. Terminology debt
 

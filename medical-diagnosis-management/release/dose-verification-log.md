@@ -518,3 +518,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 79
 - VERIFIED-ثانوی (Eddleston via BJA 2019؛ Merck 2025 مستقیم): Atropine ۱–۳ mg (Merck ۲–۳؛ اطفال ۰.۰۵ mg/kg) دو چند هر ۵ دقیقه؛ هدف صدر پاک، HR و SBP بیشتر از ۸۰؛ انفیوژن ۱۰–۲۰٪/ساعت؛ Pralidoxime ۱–۲ g در ۱۵–۳۰ دقیقه، سپس ۸ mg/kg/ساعت (Merck).
+
+## فصل 80
+- VERIFIED (MJA 2020 خلاصه و SNAP 2019 مستقیم): ۲۱ ساعته ۱۵۰/۵۰/۱۰۰ mg/kg (۱، ۴، ۱۶ ساعت)؛ دوکیسه‌ای ۲۰۰ mg/kg در ۴ ساعت + ۱۰۰ در ۱۶؛ SNAP ۱۰۰ در ۲ + ۲۰۰ در ۱۰؛ خط UK ۱۰۰، ANZ ۱۵۰ mg/L در ۴ ساعت؛ بالقوه سمی ۱۰ g یا ۲۰۰ mg/kg.

@@ -69,6 +69,7 @@
 | 77 | نوشته شده: Parkinson، Dementia، Delirium (اصول؛ SD-67) |
 | 78 | نوشته شده: ایست قلبی و شوک (AHA 2025)؛ SD-68 |
 | 79 | نوشته شده: رهیافت مسمومیت، OP، Aluminium phosphide؛ SD-69 |
+| 80 | نوشته شده: مسمومیت Paracetamol (ANZ 2020، SNAP)؛ SD-70 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

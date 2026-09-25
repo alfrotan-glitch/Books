@@ -22,7 +22,7 @@
 - **Candida دهن** در کاهل بدون علت واضح (Steroid استنشاقی، Antibiotic)؛
 - **TB**؛ هر مریض TB باید تست HIV شود (فصل ۱۹)؛
 - **Herpes zoster** در جوان، یا در چند Dermatome؛
-- اسهال مزمن و کاهش وزن بدون علت (فصل ۳۱)؛
+- اسهال مزمن و کاهش وزن بدون علت (فصل ۳۴، ۳۵)؛
 - **پنومونی مکرر**، یا پنومونی با Hypoxaemia شدید و CXR «خفیف» (*Pneumocystis*)؛
 - **مننژیت مزمن با سردردی** (*Cryptococcus*)، ضعف موضعی یا تشنج (*Toxoplasma*)؛
 - **Lymphoma** (فصل ۵۸)، Sarcoma Kaposi؛
