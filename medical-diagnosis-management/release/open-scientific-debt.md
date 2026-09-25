@@ -31,6 +31,8 @@
 | SD-19 | ۳۷ | Aspirin ۷۵ mg در نفروتیک: از UKKA commentary 2023 (تفسیر رسمی ملی بر KDIGO 2021)؛ Figure 38 KDIGO از takeaways تأیید شد | VERIFIED (UKKA) |
 | SD-20 | ۳۸ | STARRT-AKI و SMART: نتایج از خلاصه‌های ثانوی؛ متن اصلی NEJM خوانده نشد (در فصل بدون عدد فیصدی نوشته شد) | UNVERIFIED — OPEN |
 | SD-21 | ۳۸ | فاصلهٔ پیگیری پس از AKI در KDIGO 2012 (Rec 2.5) از متن اولیه تأیید نشد؛ عدد حذف شد | UNVERIFIED — OPEN |
+| SD-22 | ۳۹ | دوزهای Finerenone، GLP-1 RA، Statinها، آهن/ESA (KDIGO Anaemia)، Phosphate binder/Vitamin D (KDIGO 2017 CKD-MBD)، Bicarbonate فمی، Potassium binderها در فصل ۳۹ عمداً وارد نشد | UNVERIFIED — OPEN |
+| SD-23 | ۳۹ | آستانه‌های KFRE برای ارجاع (۳–۵٪/۵ سال، ۱۰٪ و ۴۰٪/۲ سال) از شکل ۳ executive summary خوانده شد؛ Figure 48 متن کامل خوانده نشد | VERIFIED (exec summary) |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)

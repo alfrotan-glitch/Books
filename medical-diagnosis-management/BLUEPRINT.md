@@ -55,6 +55,7 @@
 - [x] فصل ۳۶ (رهیافت گرده: معاینهٔ ادرار، eGFR) — سبک v2.1؛ ممیزی علمی + currentness (KDIGO 2024، AUA/SUFU 2025، ACR–NKF 2020) + style؛ بدهی SD-15/SD-16 ثبت شد
 - [x] فصل ۳۷ (نفروتیک/نفریتیک) — سبک v2.1؛ ممیزی علمی + currentness (KDIGO 2021 GN، KDIGO 2025 IgAN) + style؛ بدهی SD-17..19 ثبت شد
 - [x] فصل ۳۸ (AKI) — v2.1؛ ممیزی علمی + currentness (KDIGO 2012 + CURRENTNESS NOTE draft 2026؛ STARRT-AKI) + style + ترمینولوژی؛ SD-20/21
+- [x] فصل ۳۹ (CKD) — v2.1؛ ممیزی علمی (KDIGO 2024 exec summary اولیه + FARXIGA label) + currentness + style + ترمینولوژی؛ SD-22/23
 
 ## ۵. رهنمود ساخت (build)
 ```
