@@ -8,7 +8,7 @@
 
 نویسنده و تدوین‌کننده: تیم بورد تخصصی طب داخلی افغانستان
 
-مبنای ساختاری: Short Textbook of Medical Diagnosis and Management (Mohammad Inam Danish)
+مرجع پوشش امراض: Short Textbook of Medical Diagnosis and Management (Mohammad Inam Danish)
 
 نخستین ویرایش — ۱۴۵ هـ.ش / ۲۰۲ میلادی
 
@@ -17,7 +17,7 @@
 ### شناسنامه اثر و مشخصات نشر
 
 - **عنوان کتاب:** رهنمای جامع تشخیص و اهتمامات طب داخلی (Comprehensive Guide to Internal Medicine: Diagnosis and Management)
-- **مبنای ساختاری:** Short Textbook of Medical Diagnosis and Management (Mohammad Inam Danish)
+- **مرجع پوشش امراض:** Short Textbook of Medical Diagnosis and Management (Mohammad Inam Danish)
 - **نویسنده و تدوین‌کننده:** تیم بورد تخصصی اساتید پوهنتون‌های طبی و متخصصین طب داخلی افغانستان
 - **زبان اثر:** دری مسلکی و اصیل اکادمیک افغانستان (Afghan Dari Medical Standard)
 - **منابع پایه و رهنمودهای ادغام‌شده:** Harrison's Principles of Internal Medicine (21st Ed)، UpToDate 2026، Kumar & Clark's Clinical Medicine (10th Ed)، Davidson's Principles and Practice of Medicine (24th Ed)، Current Medical Diagnosis and Treatment (CMDT 2026)، رهنمودهای سازمان صحی جهان (WHO)، انجمن قلب امریکا و اروپا (AHA/ACC/ESC)، رهنمود جهانی امراض تنفسی (GOLD 2025/2026 و GINA 2025)، انجمن جهانی دیابت (ADA 2025/2026)، رهنمود امراض گرده (KDIGO 2024/2025)، و پروتوکول جهانی سپسیز (Surviving Sepsis Campaign).

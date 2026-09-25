@@ -4,7 +4,7 @@
 > **از مریض تا تشخیص، تصمیم و پیگیری — یک مرجع جامع طب داخلی به دری افغانستان، برای محصل، داکتر جوان و متخصص؛ سادگی در بیان، عمق در علم، reasoning در مرکز.**
 
 ## ۲. چارچوب
-- **مبنای ساختاری (کنترول completeness):** *Short Textbook of Medical Diagnosis and Management* (Mohammad Inam Danish).
+- **کنترول جامعیت و پوشش امراض:** *Short Textbook of Medical Diagnosis and Management* (Mohammad Inam Danish). متن، بیان و ساختار آن تقلید نمی‌شود.
 - **محتوا:** بازسازی و تکمیل با تکست‌بوک‌ها و رهنمودهای معتبر و به‌روز (Harrison، Davidson، Kumar & Clark، CMDT، UpToDate؛ WHO، AHA/ESC، ADA، GINA، GOLD، KDIGO، SSC، ACR/EULAR، Endocrine Society…). منبع جدیدتر بر قدیمی مقدم است.
 - **سبک، زبان، ساختار فصل و استاندارد علمی:** فقط `STYLE-GUIDE.md`.
 - **کنترول علمی:** `release/dose-verification-log.md` (دوزها)، `release/open-scientific-debt.md` (بدهی‌ها)، `release/style-audit.md` (ممیزی سبک).
@@ -12,7 +12,7 @@
 ## ۳. فهرست فصل‌ها
 
 - بخش اول ۴ فصل پایه دارد: رهیافت، ECG، CXR و لابراتوار.
-- هر بخش سیستمی، مانند کتاب انعام دانش، با فصل «رهیافت و معاینهٔ سیستم» شروع می‌شود.
+- هر بخش سیستمی با فصل «رهیافت و معاینهٔ سیستم» شروع می‌شود.
 - معاینهٔ مخصوص هر مرض در همان فصل مرض می‌آید.
 
 | بخش | فایل‌ها |

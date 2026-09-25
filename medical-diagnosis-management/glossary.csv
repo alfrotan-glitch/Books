@@ -35,7 +35,7 @@ dari_term,english_term,latin_term,abbreviation,preferred_form,forbidden_forms,so
 تابلت,Tablet,,Tab,تابلت (Tablet),قرص,Afghan pharmacy and clinical usage,Standard oral solid form,00-frontmatter
 سیروم,IV Infusion / Fluid,,IV Fluid,سیروم وریدی (IV Infusion),سرم,Afghan clinical nursing & medical practice,Normal Saline / Ringer / Dextrose,00-frontmatter
 اختلاط,Complication,,Comp,اختلاط (Complication),پیامد;عارضه جانبی,Afghan medical faculties,Plural is اختلاطات (Complications),00-frontmatter
-اعراض,Symptoms,,Sx,اعراض (Symptoms),نشانه‌ها,Afghan clinical methods standard,Subjective complaints reported by patient,00-frontmatter
+اعراض,Symptoms,,Sx,اعراض (Symptoms),,Afghan clinical methods standard,Subjective complaints reported by patient,00-frontmatter
 علایم,Signs,,Signs,علایم (Signs),نشانه‌های بالینی,Afghan clinical methods standard,Objective findings discovered by physician,00-frontmatter
 اهتمامات,Management,,Management,اهتمامات کلینیکی (Management),اقدامات درمانی,Afghan clinical medicine,Comprehensive diagnostic & therapeutic approach,00-frontmatter
 پتوفزیولوژی,Pathophysiology,,Pathophysiology,پتوفزیولوژی (Pathophysiology),,Afghan university standard,Standard biological mechanism term,00-frontmatter
