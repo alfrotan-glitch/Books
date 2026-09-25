@@ -227,7 +227,7 @@
 | Mannitol ۰.۵–۱ g/kg؛ Na هدف ۱۴۵–۱۵۵؛ Hydrocortisone ۵۰ mg هر ۶ ساعت؛ Acyclovir ۱۰ mg/kg هر ۸ ساعت؛ Methylprednisolone ۶۰ mg؛ Silibinin ۲۰ mg/kg/روز؛ HVP ۸–۱۲ L × ۳ روز | EASL 2017؛ Larsen 2016 | 🟡 |
 | Lactulose ۲۵ ml هر ۱–۲ ساعت ← ۲–۳ اجابت؛ انیما ۳۰۰ ml در ۷۰۰ ml؛ PEG ۴ L؛ Rifaximin ۵۵۰ mg دو بار؛ LOLA؛ Thiamine | AASLD/EASL 2014؛ EASL 2022؛ Bass 2010؛ HELP | 🟡 |
 
-## فصل ۳۲ — هپاتیت‌های ویروسی (نمونهٔ سبک v2؛ ممیزی علمی ۲۰۲۶-۰۹)
+## فصل ۳۲ — هپاتیت‌های ویروسی (ممیزی علمی ۲۰۲۶-۰۹)
 | مورد | منبع | وضعیت |
 |---|---|---|
 | معیارهای تداوی HBV: F2 (APRI بیش از ۰.۵ / TE بیش از ۷ kPa)، سیروز (APRI بیش از ۱ / TE بیش از ۱۲.۵)، DNA بیش از ۲۰۰۰ + ALT بلند (ULN ۳۰ مرد/۱۹ زن) | WHO 2024؛ Lancet GH 2024 | ✅ |
@@ -247,7 +247,7 @@
 | Engerix-B بزرگسال ۲۰ mcg/۱ mL IM، ۰/۱/۶ ماه؛ Havrix ۱۴۴۰ EL.U/۱ mL + تقویتی ۶–۱۲ ماه | CDC 2018؛ Havrix label | ✅ |
 | Paracetamol در هپاتیت حاد — **رقم حذف شد** («کمترین دوز مؤثر»)؛ ضد استفراغ — ارجاع به فصل مربوط | — | ⚪ بدون رقم (عمدی) |
 
-## فصل ۳۳ — IBD (سبک v2.1)
+## فصل ۳۳ — IBD
 | مورد | منبع | وضعیت |
 |---|---|---|
 | 5-ASA مقعدی ۱ g/روز (Induction و نگهداری proctitis)؛ فمی ≥۲ g (Induction وسیع)، ≥۱.۵ g (نگهداری) | ACG 2025 UC | ✅ |
@@ -275,7 +275,7 @@
 | HSTCL با Anti-TNF + Thiopurine | Wording correction (مطابق متن برچسب؛ عدم قطعیت علیت) | FDA Infliximab label, Boxed warning | ✅ |
 | Anti-HCV/HIV و سیرولوژی پایه | Source upgrade + Scope expansion | ECCO Infections 2021 بیانیه‌های ۳.۱ و ۳.۷ | ✅ |
 
-## فصل ۳۴ — اسهال حاد، Rehydration، یبوست (سبک v2.1 + currentness، ۲۰۲۶-۰۹-۲۵)
+## فصل ۳۴ — اسهال حاد، Rehydration، یبوست (currentness، ۲۰۲۶-۰۹-۲۵)
 
 | دوز / توصیه | منبع | وضعیت |
 |---|---|---|
@@ -296,7 +296,7 @@
 | Lubiprostone ۸ µg دو بار در عدم کفایهٔ متوسط/شدید کبد | AGA–ACG 2023 | ✅ |
 | Senna، Bisacodyl، SPS، MgO، Lactulose، Linaclotide، Plecanatide، Prucalopride | AGA–ACG 2023 (جایگاه) | ⚪ دوز عمداً بدون رقم (بدهی) |
 
-## فصل ۳۵ — سوء جذب و IBS (سبک v2.1 + currentness، ۲۰۲۶-۰۹-۲۵)
+## فصل ۳۵ — سوء جذب و IBS (currentness، ۲۰۲۶-۰۹-۲۵)
 
 | دوز / توصیه | منبع | وضعیت |
 |---|---|---|

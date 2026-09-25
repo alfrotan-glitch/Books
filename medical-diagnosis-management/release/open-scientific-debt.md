@@ -53,16 +53,16 @@
 | SD-41 | ۵۰ | رهنمود PAI 2016 هنوز جدیدترین است (Guideline Central مرور Dec 2025)؛ متن کامل ESE/ES 2024 و رهنمود SfE عاجل از منبع اولیه خوانده نشد؛ حد Cortisol در assayهای جدید (مثلاً LC-MS/MS) بررسی نشد | CURRENTNESS NOTE |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
-## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
+## B. Terminology debt
+
+> تصمیم‌های بستهٔ اصطلاحی (ترایکسپید، «عدم کفایهٔ X»، «عدم کفایهٔ دریچه») در STYLE-GUIDE.md §۱۰ ثبت‌اند. اینجا فقط بدهی باز می‌ماند؛ تغییر گستردهٔ اصطلاح فقط با تصمیم مؤلف.
 
 | ID | موضوع | وضعیت |
 |---|---|---|
-| TD-01 | ۵ ردیف PROVISIONAL (سودیم، ادیما، سندروم، عدم کفایه، حلقهٔ معیوب) + تغییرات ۰۰/۰۳/۰۶/۰۹/۱۰ | PROVISIONAL |
-| TD-02 | «انثقاب (Perforation)» — فصل ۳۳ | FOR GLOSSARY AUDIT |
-| TD-03 | «توسع توکسیک کولون» (Toxic megacolon) — فصل ۳۳ | FOR GLOSSARY AUDIT |
-| TD-04 | «کفایهٔ X» به معنای failure در فصل‌های ۱۱–۳۱ → «عدم کفایهٔ X»: ۱۵۲ مورد یافت، ۱۴۸ اصلاح، ۴ عمداً باقی (به معنای adequacy). گزارش: `release/TD-04-kifaya-correction.md` | **CLOSED (2026-09-25)** |
-| TD-05 | Scanner: substring matching اصلاح شد (مرز کلمه برای خط عربی، پسوندهای صرفی، حذف تکرار)؛ glossary rows تکراری هنوز موجودند | FIXED (ابزار) / OPEN (پاک‌سازی گلاسری) |
-| TD-06 | **Valvular terminology review** (محدود): ۱۸ مورد «عدم کفایهٔ اورت/دریچه/تریکسپید…» در ۱۲، ۱۳، ۱۴، ۳۰ همه به معنای valvular insufficiency/regurgitation تأیید شدند؛ تغییر داده نشد. اصطلاح نهایی (عدم کفایهٔ دریچه در برابر Regurgitation/قلس) و املای «تریکسپید / تریکوسپید» برای glossary نهایی. گزارش: `release/TD-06-valvular-terminology-review.md` | ACCEPTED — terminology debt «تریکسپید/تریکوسپید» OPEN FOR FINAL GLOSSARY |
+| TD-01 | ۵ ردیف PROVISIONAL (سودیم، ادیما، سندروم، عدم کفایه، حلقهٔ معیوب) + تغییرات ۰۰/۰۳/۰۶/۰۹/۱۰ | UNVERIFIED — pending Afghan professional usage review |
+| TD-02 | «انثقاب (Perforation)» — فصل ۳۳ | UNVERIFIED — pending glossary audit |
+| TD-03 | «توسع توکسیک کولون» (Toxic megacolon) — فصل ۳۳ | UNVERIFIED — pending glossary audit |
+| TD-05 | Scanner: substring matching اصلاح شد (مرز کلمه برای خط عربی، پسوندهای صرفی، حذف تکرار)؛ glossary rows تکراری هنوز موجودند | UNVERIFIED — scanner fixed; duplicate glossary rows still to clean |
 
 
 ## قاعدهٔ وضعیت (از ۲۰۲۶-۰۹-۲۵)
@@ -70,12 +70,3 @@
 - **UNVERIFIED**: منبع اولیه/معتبر هنوز بررسی نشده.
 - **VERIFIED**: منبع اولیه بررسی شده و ادعا تأیید شده.
 - **CURRENTNESS NOTE**: رهنمود قبلی هنوز قابل استفاده است، اما نسخهٔ تازه، update یا draft وجود دارد و وضعیت آن ثبت شده. رهنمود یا draft تازه به تنهایی به معنای غلط بودن رهنمود قبلی نیست.
-- TD-06 (دریچه‌ای): **ACCEPTED** — متن تغییر نمی‌کند؛ اختلاف «تریکسپید/تریکوسپید» فقط terminology debt برای glossary نهایی است.
-
-## TC-01 — اصلاح اصطلاحی تأییدشده: Tricuspid → «ترایکسپید» (۲۰۲۶-۰۹-۲۵)
-
-- تصمیم مؤلف: تنها شکل مجاز برای Tricuspid = **ترایکسپید**.
-- ۱۸ وقوع در فصل‌های ۰۵، ۰۷، ۱۰ (Cavo-tricuspid isthmus)، ۱۱، ۱۲، ۱۴، ۲۱، ۲۴، ۳۰ یکی‌یکی بررسی شد؛ همه به Tricuspid اشاره داشتند و اصلاح شدند.
-- glossary: ردیف «ترایکسپید» با forbidden forms «تریکوسپید|تریکسپید» اضافه شد؛ scanner آن‌ها را از این به بعد می‌گیرد.
-- وقوع‌های باقی‌مانده فقط در سوابق تاریخی ممیزی (TD-04، TD-06 و همین دفتر) است و **عمداً** حفظ شد تا تاریخچهٔ تصمیم قابل ردیابی بماند.
-- بدهی اصطلاحی TD-06 دربارهٔ املای Tricuspid: **VERIFIED — CLOSED** (تصمیم مؤلف).

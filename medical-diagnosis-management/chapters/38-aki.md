@@ -1,6 +1,6 @@
 # فصل ۳۸ — آسیب حاد گرده (Acute Kidney Injury, AKI)
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+> **بخش پنجم — گرده** · *با Currentness audit (2025/2026)*
 
 ## ادامهٔ قصهٔ حاجی نورالله
 

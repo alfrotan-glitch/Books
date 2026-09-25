@@ -1,6 +1,6 @@
 # فصل ۳۳ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 
-> **بخش چهارم — سیستم هضمی و کبد** · *سبک v2.1 (ACTIVE / PROVISIONAL)*
+> **بخش چهارم — سیستم هضمی و کبد**
 
 ## مریضی که دو تشخیص روی میز داشت
 

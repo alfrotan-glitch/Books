@@ -1,6 +1,6 @@
 # فصل ۳۴ — اسهال حاد، Rehydration و یبوست (Acute Diarrhoea, Rehydration & Constipation)
 
-> **بخش چهارم — سیستم هضمی و کبد** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+> **بخش چهارم — سیستم هضمی و کبد** · *با Currentness audit (2025/2026)*
 
 ## مریضی که آب بدنش از دست می‌رفت
 

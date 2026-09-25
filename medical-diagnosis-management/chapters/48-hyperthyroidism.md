@@ -1,6 +1,6 @@
 # فصل ۴۸ — پُرکاری تایروئید و تایروتوکسیکوز (Hyperthyroidism & Thyrotoxicosis)
 
-> **بخش ششم — اندوکراین** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (ATA 2016؛ مرور Endocrine Practice 2024)*
+> **بخش ششم — اندوکراین** · *با Currentness audit (ATA 2016؛ مرور Endocrine Practice 2024)*
 
 ## سه تپش قلب
 

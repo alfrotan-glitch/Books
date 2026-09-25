@@ -1,6 +1,6 @@
 # فصل ۴۲ — اختلالات Potassium، Calcium، Magnesium و Phosphate
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (UKKA 2023 Hyperkalaemia؛ Society for Endocrinology)*
+> **بخش پنجم — گرده** · *با Currentness audit (UKKA 2023 Hyperkalaemia؛ Society for Endocrinology)*
 >
 > Sodium و آب (Hyponatraemia، SIADH، DI) در **فصل ۴۴** آمده‌اند؛ اسید–قلوی در **فصل ۴۳**.
 

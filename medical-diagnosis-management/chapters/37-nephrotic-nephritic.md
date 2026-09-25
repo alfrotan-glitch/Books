@@ -1,6 +1,6 @@
 # فصل ۳۷ — سندروم نفروتیک و سندروم نفریتیک (Nephrotic & Nephritic Syndromes)
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+> **بخش پنجم — گرده** · *با Currentness audit (2025/2026)*
 
 ## دو جوان، دو نوع خرابی فلتر
 

@@ -1,6 +1,6 @@
 # فصل ۴۰ — انتان مجاری ادرار (Urinary Tract Infection, UTI)
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+> **بخش پنجم — گرده** · *با Currentness audit (2025/2026)*
 
 ## سه «UTI» که هر سه یک تداوی ندارند
 

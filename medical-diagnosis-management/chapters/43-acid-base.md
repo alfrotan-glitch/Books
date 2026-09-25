@@ -1,6 +1,6 @@
 # فصل ۴۳ — اختلالات اسید–قلوی (Acid–Base Disorders)
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (BICAR-ICU 2018 → BICARICU-2 2025)*
+> **بخش پنجم — گرده** · *با Currentness audit (BICAR-ICU 2018 → BICARICU-2 2025)*
 
 ## یک گاز خون، سه سؤال
 

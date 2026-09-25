@@ -1,6 +1,6 @@
 # فصل ۴۷ — بحران‌های هایپرگلایسمیک: DKA و HHS (Diabetic Ketoacidosis & Hyperosmolar Hyperglycaemic State)
 
-> **بخش ششم — اندوکراین** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (Joint Consensus ADA/EASD/JBDS/AACE/DTS 2024)*
+> **بخش ششم — اندوکراین** · *با Currentness audit (Joint Consensus ADA/EASD/JBDS/AACE/DTS 2024)*
 
 ## دو بحران، دو سرعت
 

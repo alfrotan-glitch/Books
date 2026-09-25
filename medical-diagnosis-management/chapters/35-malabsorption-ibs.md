@@ -1,6 +1,6 @@
 # فصل ۳۵ — سوء جذب و سندروم رودهٔ تحریک‌پذیر (Malabsorption & Irritable Bowel Syndrome)
 
-> **بخش چهارم — سیستم هضمی و کبد** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+> **بخش چهارم — سیستم هضمی و کبد** · *با Currentness audit (2025/2026)*
 
 ## دو مریض با یک شکایت
 

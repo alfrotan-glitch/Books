@@ -1,6 +1,6 @@
 # فصل ۳۹ — مرض مزمن گرده (Chronic Kidney Disease, CKD)
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (2025/2026)*
+> **بخش پنجم — گرده** · *با Currentness audit (2025/2026)*
 
 ## گرده‌ای که بی‌صدا پیر شد
 

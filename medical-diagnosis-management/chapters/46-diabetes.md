@@ -1,6 +1,6 @@
 # فصل ۴۶ — دیابت شکری (Diabetes Mellitus)
 
-> **بخش ششم — اندوکراین** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (ADA Standards of Care 2026)*
+> **بخش ششم — اندوکراین** · *با Currentness audit (ADA Standards of Care 2026)*
 
 ## سه مریض دیابتی، سه تداوی
 

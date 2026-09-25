@@ -1,6 +1,6 @@
-# فصل ۵۰ — عدم کفایهٔ غدهٔ ادرنال (Adrenal Insufficiency) و بحران ادرنال (Adrenal Crisis)
+# فصل ۵۰ — امراض ادرنال و Pituitary: عدم کفایهٔ ادرنال (Adrenal Insufficiency) و بحران ادرنال (Adrenal Crisis)
 
-> **بخش ششم — اندوکراین** · *سبک v3 (reasoning-first)* · *با Currentness audit (Endocrine Society 2016 PAI؛ Endocrine Society 2016 Hypopituitarism؛ ESE/Endocrine Society 2024 عدم کفایهٔ ناشی از Glucocorticoid)*
+> **بخش ششم — اندوکراین** · *با Currentness audit (Endocrine Society 2016 PAI؛ Endocrine Society 2016 Hypopituitarism؛ ESE/Endocrine Society 2024 عدم کفایهٔ ناشی از Glucocorticoid)*
 
 ## شاکی که به Saline جواب نداد
 

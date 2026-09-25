@@ -1,6 +1,6 @@
 # فصل ۴۴ — اختلالات آب و Sodium: Hyponatraemia، Hypernatraemia، SIADH و Diabetes insipidus
 
-> **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (رهنمود اروپایی 2014 + شواهد 2021–2025)*
+> **بخش پنجم — گرده** · *با Currentness audit (رهنمود اروپایی 2014 + شواهد 2021–2025)*
 
 ## دو خطر مخالف
 
