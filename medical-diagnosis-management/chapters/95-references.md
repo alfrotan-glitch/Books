@@ -178,7 +178,7 @@
 - Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980;93:391–398؛ MRC Working Party. Lancet. 1981;1:681–686 (LTOT).
 - Wedzicha JA, et al. **ERS/ATS guideline: Management of COPD exacerbations.** Eur Respir J. 2017;49:1600791.
 - Rochwerg B, et al. **ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
-- *[دوزهای انهیلرها مطابق لیبل‌های رسمی محصولات (SmPC/FDA). پیش از نشر با لیست دواهای اساسی افغانستان مطابقت داده شود.]*
+- *تأیید دوز: Prednisolone ۴۰ mg × ۵ روز در تشدید مطابق GOLD و کارآزمایی REDUCE؛ دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). قوت‌های انهیلر، انتی‌بیوتیک‌های تشدید، Roflumilast، Ensifentrine، Mucolytics، Theophylline و دواهای ترک سگرت از برچسب در این بازبینی خوانده نشد → SD-88. مطابقت با لیست دواهای اساسی افغانستان باز است.*
 
 ## فصل ۱۷ — آسما (Asthma)
 
@@ -186,7 +186,7 @@
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *[دوزهای بیولوژیک‌ها مطابق لیبل‌های رسمی محصول (SmPC/FDA)؛ پیش از نشر مطابقت داده شود.]*
+- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر حفظیه، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 
 ## فصل ۱۸ — پنومونی (Pneumonia)
 
@@ -218,7 +218,7 @@
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
-- *[دوزهای انتی‌بیوتیک مطابق BTS 2023 و فورمولری‌های رسمی؛ مدت دقیق تداوی (SLIM 2023) پیش از نشر مطابقت داده شود.]*
+- *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 
 ## فصل ۲۱ — امراض بینابینی ریه، سرطان ریه و ابسهٔ ریه (ILD, Lung Cancer & Lung Abscess)
 
@@ -234,10 +234,13 @@
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *[دوزهای کیموتراپی و ایمونوتراپی مطابق برچسب‌های FDA و NCCN نوشته شده‌اند و پیش از نشر باید با نسخهٔ جاری مطابقت داده شوند.]*
+- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی آنکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در فوریت‌های سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 
 ## فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 
+- Vanderbilt University Medical Center, Division of Acute Care Surgery. **Guidelines for Rapid Sequence Intubation (RSI).** 2022.
+- **Pharmacology for Rapid Sequence Intubation (RSI) Airway Management in Trauma Patients.** J Med Insight (JoMI). Article 299.11.
+- Papazian L, et al. **Neuromuscular blockers in early ARDS (ACURASYS).** N Engl J Med. 2010;363:1107–1116.
 - O'Driscoll BR, et al. **BTS guideline for oxygen use in adults in healthcare and emergency settings.** Thorax. 2017;72(Suppl 1):ii1–ii90.
 - Qadir N, et al. **An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline.** Am J Respir Crit Care Med. 2024;209:24–36 (کورتیکوستیروئید، VV-ECMO، فلج عصبی-عضلی، PEEP بلندتر، و علیه مانورهای طولانی باز کردن).
 - Grasselli G, et al. **ESICM guidelines on acute respiratory distress syndrome.** Intensive Care Med. 2023;49:727–759.
@@ -251,7 +254,7 @@
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *[دوزهای RSI، Cisatracurium، و Naloxone از فورمولری‌های استندرد اند؛ پیش از نشر مطابقت داده شوند. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.]*
+- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 
 ## فصل ۲۳ — سرفهٔ مزمن و همپتیزی (Chronic Cough & Haemoptysis)
 
@@ -265,7 +268,7 @@
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
 - WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *[نسخهٔ جاری رهنمود ملی باید تأیید شود.]*
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *[دوزهای Gabapentin، Morphine، Fluticasone بینی، TXA، و اصلاح انتی‌کواگولانت از منابع بالا و فورمولری‌ها؛ پیش از نشر مطابقت داده شوند.]*
+- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هیموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 
 ## فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 
@@ -279,6 +282,9 @@
 
 ## فصل ۲۵ — خونریزی جهاز هضمی (Gastrointestinal Bleeding)
 
+- Gralnek IM, et al. **ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage — Update 2021.** Endoscopy. 2021;53:300–332.
+- Tripathi D, et al. **UK guidelines on the management of variceal haemorrhage in cirrhotic patients (BSG).** Gut. 2015;64:1680–1704.
+- FDA label: **Kcentra (prothrombin complex concentrate, human)** — Dosage and Administration.
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. **ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.** Am J Gastroenterol. 2021;116:899–917.
 - Gralnek IM, et al. **Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage (NVUGIH): ESGE Guideline – Update 2021.** Endoscopy. 2021;53:300–332.
 - Barkun AN, et al. **Management of Nonvariceal Upper GI Bleeding: International Consensus Group.** Ann Intern Med. 2019;171:805–822.
@@ -290,10 +296,11 @@
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *[دوزها مطابق ACG 2021، Baveno VII و AASLD 2024 نوشته شده‌اند و پیش از نشر باید با متن اصلی رهنمودها و فورمولری محلی مطابقت داده شوند.]*
+- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 
 ## فصل ۲۶ — قرحهٔ هضمیه، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 
+- Chey WD, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
 - Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. **ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.** Am J Gastroenterol. 2022;117:27–56.
@@ -303,10 +310,11 @@
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *[دوزها مطابق ACG 2024 و ACG 2022 از دانش نوشته شده و پیش از نشر باید با متن رهنمودها مطابقت داده شوند؛ شیوع H. pylori و مقاومت Clarithromycin در افغانستان تخمینی است.]*
+- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole وقایوی با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 
 ## فصل ۲۷ — بطن حاد (Acute Abdomen)
 
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
 - Mazuski JE, et al. **The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.** Surg Infect. 2017;18:1–76.
@@ -316,7 +324,7 @@
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *[دوزها از رهنمودهای فوق و فورمولری‌های استندرد (از دانش) و پیش از نشر باید مطابقت داده شوند.]*
+- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 
 ## فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 
@@ -438,10 +446,11 @@
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *[دوزها مطابق AASLD 2021، EASL 2018، Baveno VII و ICA (از دانش) نوشته شده و پیش از نشر باید با متن اصلی مطابقت داده شوند. تأیید Semaglutide برای MASH (2025) باید تأیید شود.]*
+- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرمپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 
 ## فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 
+- Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
 - Vilstrup H, et al. **Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
@@ -452,10 +461,11 @@
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *[دوزهای NAC، Mannitol، Silibinin، و دواهای HE از منابع فوق (از دانش) نوشته شده‌اند و پیش از نشر باید با نسخه‌های جاری مطابقت داده شوند.]*
+- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 
 ## فصل ۳۴ — امراض صفراوی، ابسهٔ کبد و کیست هایداتید (Biliary Disease, Liver Abscess & Hydatid Cyst)
 
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Yokoe M, et al. **Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis.** J Hepatobiliary Pancreat Sci. 2018;25:41–54. Kiriyama S, et al. **TG18: diagnostic criteria and severity grading of acute cholangitis.** 2018;25:17–30. Gomi H, et al. **TG18: antimicrobial therapy for acute cholangitis and cholecystitis.** 2018;25:3–16.
 - ASGE Standards of Practice Committee; Buxbaum JL, et al. **ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis.** Gastrointest Endosc. 2019;89:1075–1105.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.** J Hepatol. 2016;65:146–181.
@@ -464,10 +474,11 @@
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *[دوزها از منابع فوق (از دانش) نوشته شده و پیش از نشر باید مطابقت داده شوند. به‌ویژه مدت Albendazole و دوزهای دوای لومن.]*
+- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 
 ## فصل ۳۵ — پانکراتیت حاد و مزمن (Acute & Chronic Pancreatitis)
 
+- Dumonceau JM, et al. **ERCP-related adverse events: ESGE Guideline.** Endoscopy. 2020;52:127–149.
 - Banks PA, et al. **Classification of acute pancreatitis — 2012: revision of the Atlanta classification and definitions by international consensus.** Gut. 2013;62:102–111.
 - Tenner S, Vege SS, Sheth SG, et al. **American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.** Am J Gastroenterol. 2024;119:419–437.
 - Working Group IAP/APA. **IAP/APA evidence-based guidelines for the management of acute pancreatitis.** Pancreatology. 2013;13(4 Suppl 2):e1–e15.
@@ -481,7 +492,7 @@
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *[دوزهای PERT، مایعات، و دواهای درد مطابق منابع فوق (از دانش) و پیش از نشر باید مطابقت داده شوند.]*
+- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 
 ## فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
 

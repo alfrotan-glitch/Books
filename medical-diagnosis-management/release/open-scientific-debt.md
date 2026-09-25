@@ -90,6 +90,16 @@
 | SD-77 | 86 | FUO/کاهش وزن/عقده: هیچ رهنمود رسمی خوانده نشد — تعریف دقیق FUO، حد کاهش وزن، مدت و معیارهای Biopsy عقده (Excision در برابر FNA/Core) | UNVERIFIED |
 | SD-78 | 87 | تغذیه: پروتوکول WHO SAM (حدود MUAC، مایع، F-75/F-100)؛ دوز Thiamine در Wernicke؛ دوز Supplement K/Phos/Mg؛ طبقه‌بندی BMI و MUAC کاهلان؛ دوز ویتامین A (WHO)؛ Pellagra؛ منبع شیوع Scurvy در افغانستان | UNVERIFIED |
 | SD-79 | 91 | ضمیمهٔ ۹۱: تعدیل گرده/کبد برای دواهایی که در کتاب تأیید نشده‌اند؛ جداول گرده Beers | UNVERIFIED |
+| SD-80 | 25 | Celecoxib (دوز پس از خونریزی)، Lactulose (پیشگیری HE)، Propranolol (NSBB) — از منبع اولیه در بازبینی تأیید نشد | UNVERIFIED |
+| SD-81 | 26 | تعدیل گردهٔ Famotidine (حد CrCl) و دوز Amitriptyline در Functional heartburn — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-82 | 27 | دوزهای Paracetamol IV، Morphine تیترشده، Diclofenac/Ketorolac، Ondansetron و Metoclopramide در بطن حاد — از برچسب رسمی دوباره خوانده نشد | UNVERIFIED |
+| SD-83 | 32 | دوز Baclofen (وابستگی الکول و کرمپ عضلات) و Cholestyramine در خارش — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-84 | 33 | Mannitol، Silibinin، Penicillin G (Amanita)، Methylprednisolone در AIH شدید، LOLA، BCAA، Zinc؛ و دوز Thiamine در Wernicke (فصل ۳۳ و ۸۷) — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-85 | 34 | UDCA برای حل سنگ، Albendazole و Praziquantel در کیست هایداتید (WHO-IWGE) — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-86 | 35 | Insulin انفیوژن در پانکراتیت از Hypertriglyceridaemia، Pregabalin در پانکراتیت مزمن، Prednisolone در AIP، دوز PERT؛ و «دوز معیاری برچسب» Meropenem/Enoxaparin — مطابقت مستقیم با برچسب در این بازبینی انجام نشد | UNVERIFIED |
+| SD-87 | 21 | Nintedanib، Pirfenidone، Prednisolone و Methotrexate در ILD، Mycophenolate در SSc-ILD، Dexamethasone در فشردگی نخاع و متاستاز مغزی، Zoledronic acid، Prednisolone در irAE، و انتی‌بیوتیک‌های ابسهٔ ریه — از منبع اولیه تأیید نشد | UNVERIFIED |
+| SD-88 | 16, 17 | دوزهای انهیلر حفظیه (COPD و آسما)، انتی‌بیوتیک‌های تشدید COPD، Roflumilast، Ensifentrine، Mucolytics، Theophylline، Varenicline/Nicotine/Bupropion، Montelukast، Azithromycin و Hydrocortisone — از برچسب رسمی در این بازبینی خوانده نشد | UNVERIFIED |
+| SD-89 | 20, 23 | انتی‌بیوتیک و مدت تداوی انتان پلورا (BTS 2023)؛ Gabapentin، Morphine، Fluticasone بینی، TXA و اصلاح انتی‌کواگولانت در سرفه/هیموپتیزی — از منبع اولیه تأیید نشد | UNVERIFIED |
 
 ## B. Terminology debt
 

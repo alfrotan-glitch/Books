@@ -108,16 +108,9 @@
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
 #### ۱. N-acetylcysteine (NAC) — **Paracetamol**
-- **اندیکاسیون:** سطح Paracetamol بالای **خط تداوی** در نوموگرام **Rumack-Matthew** (۴–۲۴ ساعت پس از بلع یک‌بارهٔ حاد؛ خط **۱۵۰ mg/L در ۴ ساعت** در امریکا — **۱۰۰ mg/L در ۴ ساعت** در UK)؛ **هر ALF/ALI مرتبط با Paracetamol** (حتی با سطح غیرقابل کشف)؛ **زمان بلع نامعلوم، بلع مرحله‌ای (Staggered)، یا بیش از ۲۴ ساعت** با ALT بلند یا Paracetamol قابل کشف.
-- **رژیم کلاسیک ۲۱ ساعته (سه کیسه) — IV:**
-  1. **۱۵۰ mg/kg** در ۲۰۰ ml Dextrose ۵ فیصد در **۶۰ دقیقه** (در UK قبلاً ۱۵ دقیقه).
-  2. **۵۰ mg/kg** در ۵۰۰ ml در **۴ ساعت**.
-  3. **۱۰۰ mg/kg** در ۱۰۰۰ ml در **۱۶ ساعت**.
-  - (وزن حد اکثر برای محاسبه: **۱۰۰ kg** در بیشتر پروتوکول‌ها؛ حجم مایع در اطفال و مریضان کم‌وزن کم شود.)
-- **رژیم دوکیسه‌ای/SNAP (۱۲ ساعته):** **۱۰۰ mg/kg در ۲ ساعت** + **۲۰۰ mg/kg در ۱۰ ساعت** — **عوارض کمتر** (Anaphylactoid) — در UK و استرالیا استفاده می‌شود.
-- **ادامه:** پس از ختم رژیم، **اگر ALT بلند است یا INR بیش از ۱.۳ یا Paracetamol قابل کشف** ← **ادامهٔ ۱۰۰ mg/kg هر ۱۶ ساعت (۶.۲۵ mg/kg/h)** تا بهبود.
-- **عوارض:** **واکنش Anaphylactoid** (بثورات، خارش، برانکوسپازم — غیر IgE) ← **توقف موقت + انتی‌هیستامین** ← ادامه با سرعت آهسته‌تر (منع مطلق نیست).
-- **زغال فعال (Activated charcoal) ۵۰ g فمی** اگر **کمتر از ۱–۲ ساعت** از بلع گذشته و راه هوایی محافظت‌شده است.
+- **در ALF همیشه NAC:** هر ALF یا آسیب حاد کبد مرتبط با Paracetamol، **حتی با سطح غیرقابل کشف**، و بلع مرحله‌ای (Staggered) یا زمان نامعلوم با ALT بلند.
+- **رژیم‌ها، دوزها، نوموگرام، زغال فعال و عوارض** یک جایگاه دارند: **فصل ۷۹** (ANZ 2020، SNAP).
+- **در ALF، NAC پس از ختم رژیم قطع نمی‌شود:** با انفیوژن کیسهٔ آخر ادامه می‌یابد تا INR و حال مریض بهتر شود (معیار قطع → فصل ۷۹).
 
 #### ۲. NAC در ALF غیر Paracetamol
 - **در انسفالوپاتی Grade I–II:** NAC بقای **بدون پیوند** را بهتر کرد (Lee 2009) ← **همان رژیم IV** (مثلاً **۱۵۰ mg/kg در ۱ ساعت، سپس ۱۲.۵ mg/kg/h × ۴ ساعت، سپس ۶.۲۵ mg/kg/h × ۶۷ ساعت** — مجموع ۷۲ ساعت، پروتوکول کارآزمایی) — AASLD/EASL: **در نظر گرفته شود**؛ ⚠️ **در اطفال فایده ثابت نشده**.
@@ -156,7 +149,7 @@
 ## 💡 Memory Joggers (ALF)
 - 💡 «**INR ≥ ۱.۵ + گیجی + کبد قبلاً سالم = ALF ← ICU + NAC + مرکز پیوند.**»
 - 💡 «**سطح Paracetamol در هر ALF.**»
-- 💡 «**NAC: ۱۵۰ ← ۵۰ ← ۱۰۰ mg/kg** (۱ ← ۴ ← ۱۶ ساعت).»
+- 💡 «**ALF از Paracetamol: NAC تا بهبود، نه تا ختم کیسه.**»
 - 💡 «**افغانستان:** HEV در حاملگی، دواهای ضد سل، سمارق وحشی.»
 - 💡 «**INR را روتین اصلاح نکن** — نشانگر پروگنوز است.»
 - 💡 «**گلوکوز هر ۱–۲ ساعت.**»
@@ -237,7 +230,7 @@
 
 ### الف) Emergency & General Care
 1. **ABC**؛ **Grade III–IV:** محافظت راه هوایی (حالت پهلو، **انتوباسیون** در صورت عدم محافظت)، **NG tube** برای Lactulose.
-2. **گلوکوز کنار بستر**؛ **Thiamine ۱۰۰–۵۰۰ mg IV** در الکولی/سوء تغذیه (**پیش از گلوکوز**).
+2. **گلوکوز کنار بستر**؛ **Thiamine IV** در الکولی/سوء تغذیه (**پیش از گلوکوز**؛ دوز Wernicke → SD-84).
 3. **محرک را پیدا و تداوی کن** (بخش ۴) — **حل ۹۰ فیصد HE با تداوی محرک**.
 4. **قطع دواهای آرام‌بخش**؛ اصلاح **K، Na، مایع**؛ کاهش دیورتیک در دیهایدریشن.
 
@@ -293,6 +286,7 @@
 - ⚠️ **اسهال شدید با Lactulose** ← دیهایدریشن و هایپوناترمی ← کاهش دوز.
 
 ## 📚 References
+- Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
 - Vilstrup H, et al. **Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
@@ -303,7 +297,7 @@
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *[دوزهای NAC، Mannitol، Silibinin، و دواهای HE از منابع فوق (از دانش) نوشته شده‌اند و پیش از نشر باید با نسخه‌های جاری مطابقت داده شوند.]*
+- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر هپاتیت حاد: **INR و شعور** را روزانه ثبت کن.
@@ -318,7 +312,7 @@
 
 ## 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. تعریف ALF؟ ← *INR ≥ ۱.۵ + انسفالوپاتی در مریض بدون سیروز قبلی، کمتر از ۲۶ هفته.*
-2. رژیم ۲۱ ساعتهٔ NAC؟ ← *۱۵۰ mg/kg در ۱ ساعت، ۵۰ mg/kg در ۴ ساعت، ۱۰۰ mg/kg در ۱۶ ساعت.*
+2. چرا در ALF غیر Paracetamol هم NAC در نظر گرفته می‌شود؟ ← *در انسفالوپاتی درجهٔ I–II بقای بدون پیوند را بهتر کرد (Lee 2009).*
 3. معیار King's برای Paracetamol؟ ← *pH کمتر از ۷.۳ (یا لاکتات بلند)؛ یا INR بیش از ۶.۵ + کریاتینین بیش از ۳.۴ + HE Grade III–IV.*
 4. هدف Lactulose؟ ← *۲–۳ اجابت نرم در روز.*
 5. چه وقت Rifaximin اضافه شود؟ ← *پس از اپیزود دوم Overt HE (پیشگیری ثانوی).*

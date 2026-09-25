@@ -318,7 +318,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
 - WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *[نسخهٔ جاری رهنمود ملی باید تأیید شود.]*
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *[دوزهای Gabapentin، Morphine، Fluticasone بینی، TXA، و اصلاح انتی‌کواگولانت از منابع بالا و فورمولری‌ها؛ پیش از نشر مطابقت داده شوند.]*
+- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هیموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفه: **مدت** (حاد، تحت حاد، مزمن) — اولین سؤال.

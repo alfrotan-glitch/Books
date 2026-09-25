@@ -83,7 +83,7 @@
 - **اندوسکوپی بالایی (OGD):**
   - **UGIB غیرواریسی:** **در ۲۴ ساعت** پس از احیا (ACG 2021، ESGE 2021)؛ ⚠️ **اندوسکوپی «بسیار زودهنگام» (کمتر از ۶ ساعت) نتیجه را بهتر نکرد** (Lau 2020، NEJM) — اما در مریض ناپایدار پس از احیا زودتر.
   - **واریسی مشکوک:** **در ۱۲ ساعت** (Baveno VII).
-  - **Erythromycin ۲۵۰ mg IV** در ۵–۳۰ دقیقه، **۳۰–۱۲۰ دقیقه پیش از اندوسکوپی** ← خالی کردن معده، دید بهتر، نیاز کمتر به تکرار (در صورت نبود منع — QT طولانی).
+  - **Erythromycin ۲۵۰ mg IV** در ۵–۳۰ دقیقه، **۲۰–۹۰ دقیقه پیش از اندوسکوپی** (ACG 2021؛ ESGE: ۳۰–۱۲۰ دقیقه) ← خالی کردن معده، دید بهتر، نیاز کمتر به تکرار (در صورت نبود منع — QT طولانی).
   - **تصنیف Forrest** (خطر خونریزی دوباره):
 
 | Forrest | یافته | خطر خونریزی دوباره بدون تداوی | اقدام |
@@ -134,7 +134,7 @@
    - ⚠️ **خونریزی فعال شدید با شوک** ← ترانسفیوژن بدون انتظار برای Hb (پروتوکول ترانسفیوژن زیاد: RBC، FFP، پلیتلت به نسبت متعادل).
 4. **پلیتلت** اگر کمتر از **۵۰×۱۰⁹/L** با خونریزی فعال.
 5. **کواگولوپاتی:**
-   - **Warfarin با خونریزی شدید:** **Vitamin K ۵–۱۰ mg IV آهسته** + **4-factor PCC** (۲۵–۵۰ IU/kg مطابق INR) — ⚠️ **اندوسکوپی را برای اصلاح INR به تأخیر نینداز** (اگر INR کمتر از ۲.۵ است اندوسکوپی قابل انجام است).
+   - **Warfarin با خونریزی شدید:** **Vitamin K ۵–۱۰ mg IV آهسته** + **4-factor PCC** (INR ۲ تا کمتر از ۴: ۲۵ IU/kg؛ ۴–۶: ۳۵ IU/kg؛ بیشتر از ۶: ۵۰ IU/kg؛ وزن حد اکثر ۱۰۰ kg؛ یک دوز — برچسب Kcentra) — ⚠️ **اندوسکوپی را برای اصلاح INR به تأخیر نینداز** (اگر INR کمتر از ۲.۵ است اندوسکوپی قابل انجام است).
    - **DOAC:** قطع؛ در خونریزی تهدیدکنندهٔ حیات: Dabigatran ← **Idarucizumab ۵ g IV**؛ مهارکننده‌های Xa ← **Andexanet alfa** یا **PCC ۵۰ IU/kg**.
    - ⚠️ **در سیروز: FFP و پلیتلت را برای «اصلاح» INR روتین نده** (INR خطر خونریزی را در سیروز نشان نمی‌دهد — Baveno VII).
 6. **انتی‌پلیتلت‌ها:**
@@ -151,7 +151,7 @@
 | مرحله | دوا | دوز و مدت |
 |---|---|---|
 | **پیش از اندوسکوپی** | **PPI IV** (مثلاً **Pantoprazole** یا **Esomeprazole**) | **۸۰ mg IV بولوس** (یا ۴۰ mg IV هر ۱۲ ساعت) — در انتظار اندوسکوپی؛ ⚠️ PPI پیش از اندوسکوپی **مرگ‌ومیر را کم نمی‌کند** اما یافته‌های پرخطر را کم می‌کند (ESGE) |
-| **پیش از اندوسکوپی** | **Erythromycin** | **۲۵۰ mg IV** در ۳۰–۱۲۰ دقیقه پیش از اندوسکوپی (یک دوز) |
+| **پیش از اندوسکوپی** | **Erythromycin** | **۲۵۰ mg IV** در ۲۰–۹۰ دقیقه پیش از اندوسکوپی (یک دوز؛ ACG 2021) |
 | **پس از هیموستاز اندوسکوپیک (Forrest Ia–IIb)** | **PPI با دوز بلند** | **۸۰ mg IV بولوس + انفیوژن ۸ mg/ساعت برای ۷۲ ساعت**؛ **یا** (ACG 2021 — به همان اندازه مؤثر) **۴۰ mg IV/PO دو بار در روز** (دوز بلند متناوب) برای ۳ روز |
 | **سپس** | **PPI فمی دو بار در روز** | **Omeprazole ۴۰ mg** یا **Pantoprazole ۴۰ mg فمی دو بار در روز تا ۱۴ روز** (ACG 2021: روز ۳ تا ۱۴)، سپس **یک بار در روز** — مدت کل **۶–۸ هفته** (مطابق اندازه و علت قرحه) |
 | **Forrest IIc/III** | PPI فمی | یک بار در روز (استندرد)؛ ترخیص زودهنگام |
@@ -194,13 +194,13 @@
 - **ناپایدار** ← **CTA ← TAE**؛ ⚠️ **اگر CTA منفی** و هنوز ناپایدار ← **OGD** (منبع بالایی).
 - **بواسیر:** **فایبر + مایعات**، مسهل‌های نرم‌کننده، Band ligation (جراح).
 - **فیشر:** نرم‌کنندهٔ مواد غایطه + **Glyceryl trinitrate ۰.۴ فیصد موضعی دو بار در روز × ۶–۸ هفته** یا **Diltiazem ۲ فیصد موضعی دو بار در روز** (کمتر سردردی).
-- **کولیت انتانی:** امیبیازیس ← **Metronidazole ۵۰۰–۷۵۰ mg فمی سه بار در روز × ۷–۱۰ روز** + **Paromomycin** (۲۵–۳۵ mg/kg/روز در سه دوز × ۷ روز — دوای لومن)؛ شیگلا ← **Azithromycin ۵۰۰ mg فمی روزانه × ۳ روز** یا Ciprofloxacin ۵۰۰ mg دو بار در روز × ۳ روز (مطابق مقاومت محلی — فصل ۲۹).
+- **کولیت انتانی:** امیبیازیس، Shigella، *C. difficile* — تشخیص و تداوی در فصل ۲۹ (یک جایگاه؛ دوزها همان‌جا تأیید شده‌اند).
 
 ### ج) Non-pharmacological Management
 - **NPO تا اندوسکوپی** (معمولاً ۶ ساعت)؛ پس از اندوسکوپی: در یافته‌های کم‌خطر **تغذیهٔ فوری**؛ در پرخطر پس از ۲۴ ساعت مایعات صاف.
 - **نظارت:** نبض، BP، ادرار (کتتر در شدید — هدف ≥ ۰.۵ ml/kg/h)، Hb هر ۶–۱۲ ساعت.
 - **قطع دایمی NSAID** (آموزش — در افغانستان NSAIDها از دواخانه بدون نسخه خریده می‌شوند)؛ قطع **الکول و سگرت**.
-- **آهن** برای کم‌خونی پس از خونریزی: **آهن فمی** (Ferrous sulfate ۲۰۰ mg — ۶۵ mg آهن عنصری — **یک بار در روز یا یک روز در میان**، تا پر شدن ذخایر ۳ ماه پس از نورمال شدن Hb) یا **آهن IV** در عدم تحمل.
+- **آهن** برای کم‌خونی پس از خونریزی: آهن فمی، و در عدم تحمل یا ضرورت سریع آهن وریدی — دوز و مدت در فصل ۶۱ (BSG 2021).
 
 ### د) Surgical / Procedural Management
 
@@ -248,6 +248,9 @@
 - ⚠️ **کم‌خونی کمبود آهن در مسن** ← سرطان GI تا خلاف آن ثابت شود.
 
 ## 📚 References
+- Gralnek IM, et al. **ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage — Update 2021.** Endoscopy. 2021;53:300–332.
+- Tripathi D, et al. **UK guidelines on the management of variceal haemorrhage in cirrhotic patients (BSG).** Gut. 2015;64:1680–1704.
+- FDA label: **Kcentra (prothrombin complex concentrate, human)** — Dosage and Administration.
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. **ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.** Am J Gastroenterol. 2021;116:899–917.
 - Gralnek IM, et al. **Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage (NVUGIH): ESGE Guideline – Update 2021.** Endoscopy. 2021;53:300–332.
 - Barkun AN, et al. **Management of Nonvariceal Upper GI Bleeding: International Consensus Group.** Ann Intern Med. 2019;171:805–822.
@@ -259,7 +262,7 @@
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *[دوزها مطابق ACG 2021، Baveno VII و AASLD 2024 نوشته شده‌اند و پیش از نشر باید با متن اصلی رهنمودها و فورمولری محلی مطابقت داده شوند.]*
+- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر خونریزی GI: **نبض، BP، Shock index، و DRE** در ۵ دقیقهٔ اول.

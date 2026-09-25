@@ -267,19 +267,19 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 **NSCLC مراحل I–IIIA قابل جراحی:**
 - **جراحی** (Lobectomy + نمونه‌گیری لمف‌نودها) یا **SBRT** در مریضانی که جراحی ممکن نیست (مرحلهٔ I).
 - **II–IIIA:** **ایمونوکیموتراپی قبل و/یا بعد از جراحی (Perioperative)** — مثلاً Nivolumab + کیموتراپی پلاتینی قبل از جراحی (CheckMate 816).
-- **EGFR مثبت پس از جراحی:** **Osimertinib ۸۰ mg فمی روزانه برای ۳ سال** (ADAURA). **ALK مثبت:** **Alectinib ۶۰۰ mg فمی دو بار در روز برای ۲ سال** (ALINA).
+- **EGFR مثبت پس از جراحی:** **Osimertinib برای ۳ سال** (ADAURA). **ALK مثبت:** **Alectinib برای ۲ سال** (ALINA).
 
-**NSCLC مرحلهٔ III غیرقابل جراحی:** **کیموشعاع‌تراپی هم‌زمان** ← **Durvalumab ۱۰ mg/kg IV هر ۲ هفته یا ۱۵۰۰ mg هر ۴ هفته برای ۱۲ ماه** (PACIFIC)؛ در EGFR مثبت: **Osimertinib** (LAURA).
+**NSCLC مرحلهٔ III غیرقابل جراحی:** **کیموشعاع‌تراپی هم‌زمان** ← **Durvalumab برای ۱۲ ماه** (PACIFIC)؛ در EGFR مثبت: **Osimertinib** (LAURA).
 
-**NSCLC مرحلهٔ IV:**
+**NSCLC مرحلهٔ IV:** (دوز و برنامهٔ دواهای ضد سرطان را تیم آنکولوژی از پروتوکول و برچسب جاری تعیین می‌کند؛ این کتاب فقط منطق انتخاب را می‌دهد.)
 
 | پروفایل | تداوی خط اول (مثال‌ها) |
 |---|---|
-| **EGFR (del19/L858R)** | **Osimertinib ۸۰ mg فمی روزانه** تا پیشرفت مرض (± کیموتراپی — FLAURA2؛ یا Amivantamab + Lazertinib — MARIPOSA) |
-| **ALK** | **Alectinib ۶۰۰ mg دو بار در روز** یا **Lorlatinib ۱۰۰ mg روزانه** (CROWN) |
+| **EGFR (del19/L858R)** | **Osimertinib** تا پیشرفت مرض (± کیموتراپی — FLAURA2؛ یا Amivantamab + Lazertinib — MARIPOSA) |
+| **ALK** | **Alectinib** یا **Lorlatinib** (CROWN) |
 | **دیگر تغییرات قابل هدف** | ROS1، BRAF V600E، MET، RET، NTRK، KRAS G12C (خط دوم) — دواهای هدفمند مختص |
-| **بدون تغییر قابل هدف، PD-L1 ≥ ۵۰ فیصد** | **Pembrolizumab ۲۰۰ mg IV هر ۳ هفته یا ۴۰۰ mg هر ۶ هفته** (تا ۲ سال) تنها یا با کیموتراپی |
-| **بدون تغییر، PD-L1 کمتر از ۵۰ فیصد** | **ایمونوکیموتراپی:** غیر Squamous: **Carboplatin AUC 5 IV + Pemetrexed ۵۰۰ mg/m² IV + Pembrolizumab ۲۰۰ mg هر ۳ هفته × ۴ دوره** ← حفظیه با Pemetrexed + Pembrolizumab (KEYNOTE-189)؛ **پیش‌تداوی Pemetrexed:** **Folic acid ۴۰۰–۱۰۰۰ mcg فمی روزانه** (از ۷ روز قبل) + **Vitamin B12 ۱۰۰۰ mcg IM هر ۹ هفته** + Dexamethasone ۴ mg دو بار در روز (روز قبل، روز تداوی، روز بعد)؛ Squamous: Carboplatin + Paclitaxel + Pembrolizumab (KEYNOTE-407) |
+| **بدون تغییر قابل هدف، PD-L1 ≥ ۵۰ فیصد** | **Pembrolizumab** (تا ۲ سال) تنها یا با کیموتراپی |
+| **بدون تغییر، PD-L1 کمتر از ۵۰ فیصد** | **ایمونوکیموتراپی:** غیر Squamous: **Carboplatin + Pemetrexed + Pembrolizumab × ۴ دوره** ← حفظیه با Pemetrexed + Pembrolizumab (KEYNOTE-189)؛ **پیش‌تداوی Pemetrexed:** Folic acid و Vitamin B12 (برای کاهش سمیت مغز استخوان) و Dexamethasone (برای بثورات)؛ Squamous: Carboplatin + Paclitaxel + Pembrolizumab (KEYNOTE-407) |
 
 **SCLC:**
 - **محدود:** **کیموشعاع‌تراپی هم‌زمان** (Cisplatin/Etoposide) ← **Durvalumab حفظیه** (ADRIATIC 2024) ± شعاع‌تراپی پیشگیرانهٔ مغز یا پیگیری با MRI.
@@ -424,7 +424,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *[دوزهای کیموتراپی و ایمونوتراپی مطابق برچسب‌های FDA و NCCN نوشته شده‌اند و پیش از نشر باید با نسخهٔ جاری مطابقت داده شوند.]*
+- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی آنکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در فوریت‌های سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض با کریپیتیشن Velcro: **دربارهٔ کبوتر، شغل، و دواها** بپرس.

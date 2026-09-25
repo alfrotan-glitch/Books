@@ -58,7 +58,7 @@
 | **الکول** (۲۵–۳۵ فیصد در غرب؛ کمتر در افغانستان) | معمولاً سال‌ها مصرف زیاد (بیش از ۴–۵ پیک روزانه) |
 | **Hypertriglyceridaemia** | **TG بیش از ۱۰۰۰ mg/dL** (۱۱.۳ mmol/L)؛ دیابت کنترول‌نشده، حاملگی، استروجن، الکول |
 | **Hypercalcaemia** | هایپرپاراتایرویدیزم، سرطان |
-| **ERCP** | حدود ۳–۵ فیصد؛ پیشگیری با **Indomethacin/Diclofenac ۱۰۰ mg مقعدی** پیش یا بلافاصله پس از ERCP + Stent پانکراسی در پرخطر + **مایع LR تهاجمی حین ERCP** |
+| **ERCP** | حدود ۳–۵ فیصد؛ پیشگیری با **Indomethacin/Diclofenac ۱۰۰ mg مقعدی** بلافاصله پیش از ERCP (ESGE 2020) + Stent پانکراسی در پرخطر + **مایع LR تهاجمی حین ERCP** |
 | **دواها** | Azathioprine/6-MP، **Valproate**، Didanosine، **Pentamidine**، Tetracycline، **Furosemide/Thiazide**، استروجن، **GLP-1 RA** (ارتباط احتمالی)، L-asparaginase، Sulfasalazine |
 | **دیگر** | ترومه، عمل جراحی، **Autoimmune (IgG4)**، **ویروس‌ها** (Mumps، Coxsackie، CMV، HIV)، **پارازیت‌ها** (**Ascaris** — ⚠️ **در افغانستان مهم** — کرم در Ampulla/CBD)، **عقرب‌زدگی** (Tityus)، **Pancreas divisum**، **تومورها** (سرطان پانکراس و IPMN — ⚠️ **در مریض بیش از ۴۰ سال با پانکراتیت بی‌دلیل** تصویربرداری)، جنیتیکی (PRSS1، SPINK1، CFTR)، **Idiopathic** (۱۰–۲۰ فیصد) |
 
@@ -260,6 +260,7 @@
 - ⚠️ **استفراغ دوامدار** ← انسداد اثنی‌عشر یا Pseudocyst.
 
 ## 📚 References
+- Dumonceau JM, et al. **ERCP-related adverse events: ESGE Guideline.** Endoscopy. 2020;52:127–149.
 - Banks PA, et al. **Classification of acute pancreatitis — 2012: revision of the Atlanta classification and definitions by international consensus.** Gut. 2013;62:102–111.
 - Tenner S, Vege SS, Sheth SG, et al. **American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.** Am J Gastroenterol. 2024;119:419–437.
 - Working Group IAP/APA. **IAP/APA evidence-based guidelines for the management of acute pancreatitis.** Pancreatology. 2013;13(4 Suppl 2):e1–e15.
@@ -273,7 +274,7 @@
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *[دوزهای PERT، مایعات، و دواهای درد مطابق منابع فوق (از دانش) و پیش از نشر باید مطابقت داده شوند.]*
+- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر پانکراتیت: **سونوگرافی در ۲۴ ساعت + TG + کلسیم + ALT** (علت).

@@ -82,7 +82,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 
 ### الف) Emergency & General Care
 - **خونریزی** ← فصل ۲۵.
-- **انثقاب** ← احیا، NPO، **PPI IV**، **انتی‌بیوتیک وسیع‌الطیف** (مثلاً **Piperacillin/Tazobactam ۴.۵ g IV هر ۸ ساعت** یا Ceftriaxone + Metronidazole)، **جراحی (ترمیم با Omental patch)**؛ روش **Taylor** (محافظه‌کارانه با NG) فقط در موارد منتخب با انثقاب بسته‌شده.
+- **انثقاب** ← احیا، NPO، **PPI IV**، **انتی‌بیوتیک وسیع‌الطیف** (رژیم و دوز → فصل ۲۷)، **جراحی (ترمیم با Omental patch)**؛ روش **Taylor** (محافظه‌کارانه با NG) فقط در موارد منتخب با انثقاب بسته‌شده.
 - **انسداد خروجی معده** ← NG tube، مایعات IV و اصلاح الکترولیت‌ها (**آلکالوز متابولیک هایپوکلورمیک هایپوکالمیک**)، PPI IV، **اتساع با بالون اندوسکوپیک** یا جراحی؛ ⚠️ **سرطان را رد کن**.
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
@@ -255,6 +255,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - ⚠️ **ناتوانی از بلع بزاق** ← Food bolus ← اندوسکوپی عاجل.
 
 ## 📚 References
+- Chey WD, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
 - Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. **ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.** Am J Gastroenterol. 2022;117:27–56.
@@ -264,7 +265,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *[دوزها مطابق ACG 2024 و ACG 2022 از دانش نوشته شده و پیش از نشر باید با متن رهنمودها مطابقت داده شوند؛ شیوع H. pylori و مقاومت Clarithromycin در افغانستان تخمینی است.]*
+- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole وقایوی با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سوء هاضمه: **ALARM + سن + NSAID** را بپرس.

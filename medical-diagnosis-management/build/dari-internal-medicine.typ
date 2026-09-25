@@ -633,7 +633,7 @@ ECG فعالیت برقی قلب را روی کاغذ ثبت می‌کند. دا
 1. **ST elevation در دو لید هم‌جوار با درد قفسهٔ سینه** ← STEMI: فعال‌سازی PCI یا ترومبولیز (→ فصل ۸).
 2. **تاکیکاردی با QRS پهن** ← VT تا خلاف آن ثابت شود؛ ناپایدار ← کاردیوورژن سنکرونایز.
 3. **بلاک درجهٔ سوم یا Mobitz II با هایپوتنشن/سینکوپ** ← Atropine، پیس ترانس‌کوتانیوس (→ فصل ۱۰).
-4. **QRS پهن + T نوک‌تیز** ← هایپرکالیمی شدید: Calcium gluconate 10% ۱۰ mL IV در ۵–۱۰ دقیقه فوری (→ فصل ۴۲).
+4. **QRS پهن + T نوک‌تیز** ← هایپرکالیمی شدید: Calcium gluconate 10% ۳۰ mL IV در ۱۰ دقیقه فوری (دوز و تداوی کامل → فصل ۴۲).
 5. **Wellens pattern** ← تنگی بحرانی LAD؛ تست ورزش ممنوع، ارجاع برای انجیوگرافی.
 6. **ST elevation در aVR + ST depression منتشر** ← ایسکمی Left main/سه‌رگی.
 7. **QTc \> ۵۰۰ ms یا Torsades** ← Magnesium sulfate ۲ g IV در ۱۰–۱۵ دقیقه (→ فصل ۱۰).
@@ -5197,8 +5197,8 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
     [*دوا*], [*اندیکاسیون*], [*دوز*], [*نکات*],
     [**Azithromycin**], [تشدید مکرر با وجود تداوی (ترجیحاً در سگرتی‌های سابق)], [**۲۵۰ mg PO روزانه** یا **۵۰۰ mg سه بار در هفته**], [**حد اقل یک سال** مطالعه شده؛ پیش از شروع: **ECG (QTc)**، شنوایی، و **رد سل فعال و NTM** (در افغانستان بسیار مهم)],
     [**Roflumilast** (PDE4)], [FEV₁ کمتر از ۵۰ فیصد + برانشیت مزمن + تشدید], [**۲۵۰ mcg PO روزانه برای ۴ هفته** (برای تحمل)، سپس **۵۰۰ mcg روزانه**], [کاهش وزن، اسهال، بی‌خوابی، افسردگی؛ در کم‌وزنی و افسردگی احتیاط],
-    [**Dupilumab** (ضد IL-4Rα)], [تشدید با وجود تداوی سه‌گانه + **BEC ۳۰۰ یا بیشتر** + برانشیت مزمن], [**۳۰۰ mg SC هر ۲ هفته**], [کارآزمایی‌های BOREAS و NOTUS],
-    [**Mepolizumab** (ضد IL-5)], [تشدید با وجود سه‌گانه + BEC بلند], [۱۰۰ mg SC هر ۴ هفته], [کارآزمایی MATINEE (در GOLD 2025/2026 ذکر شده)],
+    [**Dupilumab** (ضد IL-4Rα)], [تشدید با وجود تداوی سه‌گانه + **BEC ۳۰۰ یا بیشتر** + برانشیت مزمن], [تجویز متخصص (دوز از برچسب جاری)], [کارآزمایی‌های BOREAS و NOTUS],
+    [**Mepolizumab** (ضد IL-5)], [تشدید با وجود سه‌گانه + BEC بلند], [تجویز متخصص (دوز از برچسب جاری)], [کارآزمایی MATINEE (در GOLD 2025/2026 ذکر شده)],
     [**Ensifentrine** (PDE3/4 انهیلری)], [تنگی نفس دوامدار با LABA+LAMA], [۳ mg نبولایزر دو بار در روز], [در بسیاری کشورها هنوز موجود نیست],
     [**Mucolytics** (Carbocisteine ۷۵۰ mg PO سه بار ← ۱۵۰۰ mg/روز؛ N-acetylcysteine ۶۰۰ mg PO دو بار)], [برای کاهش تشدید در مریضان منتخب (به‌ویژه بدون ICS)], [], [فایدهٔ متوسط],
     [**Theophylline**], [فقط وقتی دواهای دیگر موجود نیست], [۲۰۰–۳۰۰ mg PO دو بار (آهسته‌رهش)؛ سطح خونی ۵–۱۵ mg/L], [تداخل زیاد (Ciprofloxacin، Erythromycin)، اریتمی، تشنج],
@@ -5313,7 +5313,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980;93:391–398؛ MRC Working Party. Lancet. 1981;1:681–686 (LTOT).
 - Wedzicha JA, et al. **ERS/ATS guideline: Management of COPD exacerbations.** Eur Respir J. 2017;49:1600791.
 - Rochwerg B, et al. **ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
-- *\[دوزهای انهیلرها مطابق لیبل‌های رسمی محصولات (SmPC/FDA). پیش از نشر با لیست دواهای اساسی افغانستان مطابقت داده شود.\]*
+- *تأیید دوز: Prednisolone ۴۰ mg × ۵ روز در تشدید مطابق GOLD و کارآزمایی REDUCE؛ دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). قوت‌های انهیلر، انتی‌بیوتیک‌های تشدید، Roflumilast، Ensifentrine، Mucolytics، Theophylline و دواهای ترک سگرت از برچسب در این بازبینی خوانده نشد → SD-88. مطابقت با لیست دواهای اساسی افغانستان باز است.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفهٔ مزمن در بالای ۴۰ سال با تماس دود: **اسپیرومتری** بنویس.
 2. هر مریض COPD: **BEC** را در دوسیه بنویس — تصمیم ICS به آن بسته است.
@@ -5583,11 +5583,11 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
     [**Tiotropium** (LAMA)], [قدم ۴–۵، کنترول‌نشده], [**Respimat ۲.۵ mcg × ۲ پاف (۵ mcg) یک بار در روز**], [یا ترکیب سه‌گانهٔ ICS–LABA–LAMA],
     [**Montelukast** (LTRA)], [آسمای ورزشی، رینیت همراه، AERD — **گزینهٔ ضعیف‌تر**], [۱۰ mg PO شبانه], [⚠️ **هشدار FDA: اختلالات روانی** (کابوس، افسردگی، افکار خودکشی)],
     [**Azithromycin**], [آسمای شدید کنترول‌نشده (غیر ایوزینوفیلیک یا ایوزینوفیلیک)], [۵۰۰ mg PO **سه بار در هفته**], [حد اقل ۶ ماه؛ QTc، شنوایی؛ **رد سل و NTM**],
-    [**Omalizumab** (ضد IgE)], [**آسمای الرژیک شدید**], [۷۵–۶۰۰ mg SC هر ۲–۴ هفته **بر اساس IgE کل و وزن** (جدول سازنده)], [],
-    [**Mepolizumab** (ضد IL-5)], [آسمای **ایوزینوفیلیک** شدید], [**۱۰۰ mg SC هر ۴ هفته**], [],
-    [**Benralizumab** (ضد IL-5R)], [ایوزینوفیلیک شدید], [**۳۰ mg SC هر ۴ هفته برای ۳ دوز، سپس هر ۸ هفته**], [],
-    [**Dupilumab** (ضد IL-4Rα)], [T2 شدید یا وابسته به ستیروئید فمی], [**۴۰۰ mg SC ابتدایی، سپس ۲۰۰ mg هر ۲ هفته** (وابسته به OCS: ۶۰۰ mg سپس ۳۰۰ mg هر ۲ هفته)], [ایوزینوفیلی گذرا],
-    [**Tezepelumab** (ضد TSLP)], [آسمای شدید (T2-high و T2-low)], [**۲۱۰ mg SC هر ۴ هفته**], [],
+    [**Omalizumab** (ضد IgE)], [**آسمای الرژیک شدید**], [تجویز متخصص (دوز از برچسب جاری)], [],
+    [**Mepolizumab** (ضد IL-5)], [آسمای **ایوزینوفیلیک** شدید], [تجویز متخصص (دوز از برچسب جاری)], [],
+    [**Benralizumab** (ضد IL-5R)], [ایوزینوفیلیک شدید], [تجویز متخصص (دوز از برچسب جاری)], [],
+    [**Dupilumab** (ضد IL-4Rα)], [T2 شدید یا وابسته به ستیروئید فمی], [تجویز متخصص (دوز از برچسب جاری)], [ایوزینوفیلی گذرا],
+    [**Tezepelumab** (ضد TSLP)], [آسمای شدید (T2-high و T2-low)], [تجویز متخصص (دوز از برچسب جاری)], [],
     [**Prednisolone دوز پایین دراز مدت**], [**آخرین راه**], [کمترین دوز ممکن], [عوارض زیاد؛ پیشگیری از اوستیوپوروز],
   ),
   caption: none,
@@ -5663,7 +5663,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *\[دوزهای بیولوژیک‌ها مطابق لیبل‌های رسمی محصول (SmPC/FDA)؛ پیش از نشر مطابقت داده شود.\]*
+- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر حفظیه، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض آسما: **چهار سؤال GINA** را بپرس.
 2. هر نسخه: **هیچ Salbutamol بدون ICS**.
@@ -6729,7 +6729,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
-- *\[دوزهای انتی‌بیوتیک مطابق BTS 2023 و فورمولری‌های رسمی؛ مدت دقیق تداوی (SLIM 2023) پیش از نشر مطابقت داده شود.\]*
+- *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر افیوژن یک‌طرفه: **توراسنتز با سونوگرافی** و **پروتین و LDH سیروم هم‌زمان**.
 2. هر مایع پلورا: **pH با سرنج گاز خون** — نه در ظرف معمول.
@@ -7005,20 +7005,20 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 **NSCLC مراحل I–IIIA قابل جراحی:**
 - **جراحی** (Lobectomy + نمونه‌گیری لمف‌نودها) یا **SBRT** در مریضانی که جراحی ممکن نیست (مرحلهٔ I).
 - **II–IIIA:** **ایمونوکیموتراپی قبل و/یا بعد از جراحی (Perioperative)** — مثلاً Nivolumab + کیموتراپی پلاتینی قبل از جراحی (CheckMate 816).
-- **EGFR مثبت پس از جراحی:** **Osimertinib ۸۰ mg فمی روزانه برای ۳ سال** (ADAURA). **ALK مثبت:** **Alectinib ۶۰۰ mg فمی دو بار در روز برای ۲ سال** (ALINA).
-**NSCLC مرحلهٔ III غیرقابل جراحی:** **کیموشعاع‌تراپی هم‌زمان** ← **Durvalumab ۱۰ mg/kg IV هر ۲ هفته یا ۱۵۰۰ mg هر ۴ هفته برای ۱۲ ماه** (PACIFIC)؛ در EGFR مثبت: **Osimertinib** (LAURA).
-**NSCLC مرحلهٔ IV:**
+- **EGFR مثبت پس از جراحی:** **Osimertinib برای ۳ سال** (ADAURA). **ALK مثبت:** **Alectinib برای ۲ سال** (ALINA).
+**NSCLC مرحلهٔ III غیرقابل جراحی:** **کیموشعاع‌تراپی هم‌زمان** ← **Durvalumab برای ۱۲ ماه** (PACIFIC)؛ در EGFR مثبت: **Osimertinib** (LAURA).
+**NSCLC مرحلهٔ IV:** (دوز و برنامهٔ دواهای ضد سرطان را تیم آنکولوژی از پروتوکول و برچسب جاری تعیین می‌کند؛ این کتاب فقط منطق انتخاب را می‌دهد.)
 #figure(
   table(columns: (auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*پروفایل*], [*تداوی خط اول (مثال‌ها)*],
-    [**EGFR (del19/L858R)**], [**Osimertinib ۸۰ mg فمی روزانه** تا پیشرفت مرض (± کیموتراپی — FLAURA2؛ یا Amivantamab + Lazertinib — MARIPOSA)],
-    [**ALK**], [**Alectinib ۶۰۰ mg دو بار در روز** یا **Lorlatinib ۱۰۰ mg روزانه** (CROWN)],
+    [**EGFR (del19/L858R)**], [**Osimertinib** تا پیشرفت مرض (± کیموتراپی — FLAURA2؛ یا Amivantamab + Lazertinib — MARIPOSA)],
+    [**ALK**], [**Alectinib** یا **Lorlatinib** (CROWN)],
     [**دیگر تغییرات قابل هدف**], [ROS1، BRAF V600E، MET، RET، NTRK، KRAS G12C (خط دوم) — دواهای هدفمند مختص],
-    [**بدون تغییر قابل هدف، PD-L1 ≥ ۵۰ فیصد**], [**Pembrolizumab ۲۰۰ mg IV هر ۳ هفته یا ۴۰۰ mg هر ۶ هفته** (تا ۲ سال) تنها یا با کیموتراپی],
-    [**بدون تغییر، PD-L1 کمتر از ۵۰ فیصد**], [**ایمونوکیموتراپی:** غیر Squamous: **Carboplatin AUC 5 IV + Pemetrexed ۵۰۰ mg/m² IV + Pembrolizumab ۲۰۰ mg هر ۳ هفته × ۴ دوره** ← حفظیه با Pemetrexed + Pembrolizumab (KEYNOTE-189)؛ **پیش‌تداوی Pemetrexed:** **Folic acid ۴۰۰–۱۰۰۰ mcg فمی روزانه** (از ۷ روز قبل) + **Vitamin B12 ۱۰۰۰ mcg IM هر ۹ هفته** + Dexamethasone ۴ mg دو بار در روز (روز قبل، روز تداوی، روز بعد)؛ Squamous: Carboplatin + Paclitaxel + Pembrolizumab (KEYNOTE-407)],
+    [**بدون تغییر قابل هدف، PD-L1 ≥ ۵۰ فیصد**], [**Pembrolizumab** (تا ۲ سال) تنها یا با کیموتراپی],
+    [**بدون تغییر، PD-L1 کمتر از ۵۰ فیصد**], [**ایمونوکیموتراپی:** غیر Squamous: **Carboplatin + Pemetrexed + Pembrolizumab × ۴ دوره** ← حفظیه با Pemetrexed + Pembrolizumab (KEYNOTE-189)؛ **پیش‌تداوی Pemetrexed:** Folic acid و Vitamin B12 (برای کاهش سمیت مغز استخوان) و Dexamethasone (برای بثورات)؛ Squamous: Carboplatin + Paclitaxel + Pembrolizumab (KEYNOTE-407)],
   ),
   caption: none,
 )
@@ -7144,7 +7144,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *\[دوزهای کیموتراپی و ایمونوتراپی مطابق برچسب‌های FDA و NCCN نوشته شده‌اند و پیش از نشر باید با نسخهٔ جاری مطابقت داده شوند.\]*
+- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی آنکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در فوریت‌های سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض با کریپیتیشن Velcro: **دربارهٔ کبوتر، شغل، و دواها** بپرس.
 2. هر ILD: **اسپیرومتری + DLCO + HRCT + سیرولوژی CTD**.
@@ -7272,7 +7272,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 === الف) Emergency & General Care (اقدامات عاجل)
 1. **ABCDE**؛ مریض را **نشسته** قرار بده (مگر شوک).
 2. **اکسیجن** (جدول زیر) — در **مریض بسیار شدید** (ایست، شوک، سپسیس، مسمومیت CO): **ماسک با ذخیره ۱۵ L/min** و سپس تنظیم مطابق هدف.
-3. **تداوی علت:** انتی‌بیوتیک (فصل ۱۸)، برانکودیلاتور (فصل ۱۶–۱۷)، دیورتیک/Nitrate (فصل ۷)، انتی‌کواگولانت (فصل ۱۴)، درن (فصل ۲۰)، **Naloxone** در اوردوز Opioid (**۰.۴ mg IV**، تکرار هر ۲–۳ دقیقه تا ۲ mg یا بیشتر؛ در وابستگی به Opioid دوزهای کوچک‌تر ۰.۰۴–۰.۱ mg برای جلوگیری از سندروم ترک).
+3. **تداوی علت:** انتی‌بیوتیک (فصل ۱۸)، برانکودیلاتور (فصل ۱۶–۱۷)، دیورتیک/Nitrate (فصل ۷)، انتی‌کواگولانت (فصل ۱۴)، درن (فصل ۲۰)، **Naloxone** در اوردوز Opioid (دوز تیترشده و نظارت → فصل ۸۰).
 4. **ارزیابی نیاز به حمایت تنفسی** (HFNO، NIV، یا انتوباسیون).
 === ب) اکسیجن‌تراپی — وسایل (BTS 2017)
 #figure(
@@ -7337,7 +7337,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
     [*مداخله*], [*شواهد و توصیه*],
     [**وضعیت دمر (Prone positioning)**], [**P/F کمتر از ۱۵۰** ← **حد اقل ۱۲–۱۶ ساعت در روز** (PROSEVA: کاهش مرگ‌ومیر ۲۸ روزه از ۳۳ به ۱۶ فیصد) — **توصیهٔ قوی**],
     [**کورتیکوستیروئید**], [**ATS 2024: توصیهٔ مشروط به نفع** استفاده در ARDS؛ مثال رژیم (**DEXA-ARDS**): **Dexamethasone ۲۰ mg IV روزانه × ۵ روز، سپس ۱۰ mg روزانه × ۵ روز**؛ در **COVID-19 نیازمند اکسیجن**: **Dexamethasone ۶ mg IV/PO روزانه × ۱۰ روز** (RECOVERY)؛ در **CAP شدید**: Hydrocortisone (فصل ۱۸)],
-    [**فلج عصبی-عضلی**], [**روتین توصیه نمی‌شود** (ROSE 2019)؛ در ناهماهنگی شدید با ونتیلاتور یا P/F بسیار پایین: **Cisatracurium** (بولوس ۰.۱۵ mg/kg، سپس ۳۷.۵ mg/ساعت — مطابق ACURASYS) برای **۴۸ ساعت**],
+    [**فلج عصبی-عضلی**], [**روتین توصیه نمی‌شود** (ROSE 2019)؛ در ناهماهنگی شدید با ونتیلاتور یا P/F بسیار پایین: **Cisatracurium** (بولوس ۱۵ mg، سپس ۳۷.۵ mg/ساعت — رژیم ACURASYS و ROSE) برای **۴۸ ساعت**],
     [**مدیریت محافظه‌کارانهٔ مایع**], [پس از رفع شوک (FACTT) — تعادل منفی با دیورتیک],
     [**VV-ECMO**], [ARDS **شدید** با وجود تهویهٔ مطلوب و Prone (مثلاً P/F کمتر از ۸۰ برای بیش از ۶ ساعت یا pH کمتر از ۷.۲۵ با PaCO₂ بیش از ۶۰) — در مراکز مجهز (EOLIA)],
     [**HFOV**], [⚠️ **توصیه نمی‌شود** (OSCILLATE — ضرر)],
@@ -7378,6 +7378,9 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - ⚠️ **هایپوتنشن ناگهانی و بالا رفتن فشار راه هوایی روی ونتیلاتور** ← پنوموتوراکس فشاری (فصل ۲۰) — قاعدهٔ **DOPES**: **D**isplacement (جابجایی لوله)، **O**bstruction، **P**neumothorax، **E**quipment، **S**tacked breaths (Auto-PEEP).
 - ⚠️ **ناکامی NIV پس از ۱–۲ ساعت** ← انتوباسیون را به تأخیر نینداز.
 == 📚 References
+- Vanderbilt University Medical Center, Division of Acute Care Surgery. **Guidelines for Rapid Sequence Intubation (RSI).** 2022.
+- **Pharmacology for Rapid Sequence Intubation (RSI) Airway Management in Trauma Patients.** J Med Insight (JoMI). Article 299.11.
+- Papazian L, et al. **Neuromuscular blockers in early ARDS (ACURASYS).** N Engl J Med. 2010;363:1107–1116.
 - O'Driscoll BR, et al. **BTS guideline for oxygen use in adults in healthcare and emergency settings.** Thorax. 2017;72(Suppl 1):ii1–ii90.
 - Qadir N, et al. **An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline.** Am J Respir Crit Care Med. 2024;209:24–36 (کورتیکوستیروئید، VV-ECMO، فلج عصبی-عضلی، PEEP بلندتر، و علیه مانورهای طولانی باز کردن).
 - Grasselli G, et al. **ESICM guidelines on acute respiratory distress syndrome.** Intensive Care Med. 2023;49:727–759.
@@ -7391,7 +7394,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *\[دوزهای RSI، Cisatracurium، و Naloxone از فورمولری‌های استندرد اند؛ پیش از نشر مطابقت داده شوند. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.\]*
+- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض روی اکسیجن: **هدف SpO₂ را در چارت بنویس** (۹۴–۹۸ یا ۸۸–۹۲).
 2. هر COPD تشدید: **ABG قبل و ۱ ساعت پس از NIV یا تغییر اکسیجن**.
@@ -7740,7 +7743,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
 - WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *\[نسخهٔ جاری رهنمود ملی باید تأیید شود.\]*
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *\[دوزهای Gabapentin، Morphine، Fluticasone بینی، TXA، و اصلاح انتی‌کواگولانت از منابع بالا و فورمولری‌ها؛ پیش از نشر مطابقت داده شوند.\]*
+- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هیموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفه: **مدت** (حاد، تحت حاد، مزمن) — اولین سؤال.
 2. هر سرفهٔ مزمن: **CXR + لیست دواها (ACEi) + اسپیرومتری**.
@@ -8146,7 +8149,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - **اندوسکوپی بالایی (OGD):**
 - **UGIB غیرواریسی:** **در ۲۴ ساعت** پس از احیا (ACG 2021، ESGE 2021)؛ ⚠️ **اندوسکوپی «بسیار زودهنگام» (کمتر از ۶ ساعت) نتیجه را بهتر نکرد** (Lau 2020، NEJM) — اما در مریض ناپایدار پس از احیا زودتر.
 - **واریسی مشکوک:** **در ۱۲ ساعت** (Baveno VII).
-- **Erythromycin ۲۵۰ mg IV** در ۵–۳۰ دقیقه، **۳۰–۱۲۰ دقیقه پیش از اندوسکوپی** ← خالی کردن معده، دید بهتر، نیاز کمتر به تکرار (در صورت نبود منع — QT طولانی).
+- **Erythromycin ۲۵۰ mg IV** در ۵–۳۰ دقیقه، **۲۰–۹۰ دقیقه پیش از اندوسکوپی** (ACG 2021؛ ESGE: ۳۰–۱۲۰ دقیقه) ← خالی کردن معده، دید بهتر، نیاز کمتر به تکرار (در صورت نبود منع — QT طولانی).
 - **تصنیف Forrest** (خطر خونریزی دوباره):
 #figure(
   table(columns: (auto, auto, auto, auto),
@@ -8204,7 +8207,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - ⚠️ **خونریزی فعال شدید با شوک** ← ترانسفیوژن بدون انتظار برای Hb (پروتوکول ترانسفیوژن زیاد: RBC، FFP، پلیتلت به نسبت متعادل).
 4. **پلیتلت** اگر کمتر از **۵۰×۱۰⁹/L** با خونریزی فعال.
 5. **کواگولوپاتی:**
-- **Warfarin با خونریزی شدید:** **Vitamin K ۵–۱۰ mg IV آهسته** + **4-factor PCC** (۲۵–۵۰ IU/kg مطابق INR) — ⚠️ **اندوسکوپی را برای اصلاح INR به تأخیر نینداز** (اگر INR کمتر از ۲.۵ است اندوسکوپی قابل انجام است).
+- **Warfarin با خونریزی شدید:** **Vitamin K ۵–۱۰ mg IV آهسته** + **4-factor PCC** (INR ۲ تا کمتر از ۴: ۲۵ IU/kg؛ ۴–۶: ۳۵ IU/kg؛ بیشتر از ۶: ۵۰ IU/kg؛ وزن حد اکثر ۱۰۰ kg؛ یک دوز — برچسب Kcentra) — ⚠️ **اندوسکوپی را برای اصلاح INR به تأخیر نینداز** (اگر INR کمتر از ۲.۵ است اندوسکوپی قابل انجام است).
 - **DOAC:** قطع؛ در خونریزی تهدیدکنندهٔ حیات: Dabigatran ← **Idarucizumab ۵ g IV**؛ مهارکننده‌های Xa ← **Andexanet alfa** یا **PCC ۵۰ IU/kg**.
 - ⚠️ **در سیروز: FFP و پلیتلت را برای «اصلاح» INR روتین نده** (INR خطر خونریزی را در سیروز نشان نمی‌دهد — Baveno VII).
 6. **انتی‌پلیتلت‌ها:**
@@ -8222,7 +8225,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*مرحله*], [*دوا*], [*دوز و مدت*],
     [**پیش از اندوسکوپی**], [**PPI IV** (مثلاً **Pantoprazole** یا **Esomeprazole**)], [**۸۰ mg IV بولوس** (یا ۴۰ mg IV هر ۱۲ ساعت) — در انتظار اندوسکوپی؛ ⚠️ PPI پیش از اندوسکوپی **مرگ‌ومیر را کم نمی‌کند** اما یافته‌های پرخطر را کم می‌کند (ESGE)],
-    [**پیش از اندوسکوپی**], [**Erythromycin**], [**۲۵۰ mg IV** در ۳۰–۱۲۰ دقیقه پیش از اندوسکوپی (یک دوز)],
+    [**پیش از اندوسکوپی**], [**Erythromycin**], [**۲۵۰ mg IV** در ۲۰–۹۰ دقیقه پیش از اندوسکوپی (یک دوز؛ ACG 2021)],
     [**پس از هیموستاز اندوسکوپیک (Forrest Ia–IIb)**], [**PPI با دوز بلند**], [**۸۰ mg IV بولوس + انفیوژن ۸ mg/ساعت برای ۷۲ ساعت**؛ **یا** (ACG 2021 — به همان اندازه مؤثر) **۴۰ mg IV/PO دو بار در روز** (دوز بلند متناوب) برای ۳ روز],
     [**سپس**], [**PPI فمی دو بار در روز**], [**Omeprazole ۴۰ mg** یا **Pantoprazole ۴۰ mg فمی دو بار در روز تا ۱۴ روز** (ACG 2021: روز ۳ تا ۱۴)، سپس **یک بار در روز** — مدت کل **۶–۸ هفته** (مطابق اندازه و علت قرحه)],
     [**Forrest IIc/III**], [PPI فمی], [یک بار در روز (استندرد)؛ ترخیص زودهنگام],
@@ -8268,12 +8271,12 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - **ناپایدار** ← **CTA ← TAE**؛ ⚠️ **اگر CTA منفی** و هنوز ناپایدار ← **OGD** (منبع بالایی).
 - **بواسیر:** **فایبر + مایعات**، مسهل‌های نرم‌کننده، Band ligation (جراح).
 - **فیشر:** نرم‌کنندهٔ مواد غایطه + **Glyceryl trinitrate ۰.۴ فیصد موضعی دو بار در روز × ۶–۸ هفته** یا **Diltiazem ۲ فیصد موضعی دو بار در روز** (کمتر سردردی).
-- **کولیت انتانی:** امیبیازیس ← **Metronidazole ۵۰۰–۷۵۰ mg فمی سه بار در روز × ۷–۱۰ روز** + **Paromomycin** (۲۵–۳۵ mg/kg/روز در سه دوز × ۷ روز — دوای لومن)؛ شیگلا ← **Azithromycin ۵۰۰ mg فمی روزانه × ۳ روز** یا Ciprofloxacin ۵۰۰ mg دو بار در روز × ۳ روز (مطابق مقاومت محلی — فصل ۲۹).
+- **کولیت انتانی:** امیبیازیس، Shigella، *C. difficile* — تشخیص و تداوی در فصل ۲۹ (یک جایگاه؛ دوزها همان‌جا تأیید شده‌اند).
 === ج) Non-pharmacological Management
 - **NPO تا اندوسکوپی** (معمولاً ۶ ساعت)؛ پس از اندوسکوپی: در یافته‌های کم‌خطر **تغذیهٔ فوری**؛ در پرخطر پس از ۲۴ ساعت مایعات صاف.
 - **نظارت:** نبض، BP، ادرار (کتتر در شدید — هدف ≥ ۰.۵ ml/kg/h)، Hb هر ۶–۱۲ ساعت.
 - **قطع دایمی NSAID** (آموزش — در افغانستان NSAIDها از دواخانه بدون نسخه خریده می‌شوند)؛ قطع **الکول و سگرت**.
-- **آهن** برای کم‌خونی پس از خونریزی: **آهن فمی** (Ferrous sulfate ۲۰۰ mg — ۶۵ mg آهن عنصری — **یک بار در روز یا یک روز در میان**، تا پر شدن ذخایر ۳ ماه پس از نورمال شدن Hb) یا **آهن IV** در عدم تحمل.
+- **آهن** برای کم‌خونی پس از خونریزی: آهن فمی، و در عدم تحمل یا ضرورت سریع آهن وریدی — دوز و مدت در فصل ۶۱ (BSG 2021).
 === د) Surgical / Procedural Management
 #figure(
   table(columns: (auto, auto),
@@ -8322,6 +8325,9 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - ⚠️ **خونریزی + درد شدید و بطن تخته‌ای** ← انثقاب.
 - ⚠️ **کم‌خونی کمبود آهن در مسن** ← سرطان GI تا خلاف آن ثابت شود.
 == 📚 References
+- Gralnek IM, et al. **ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage — Update 2021.** Endoscopy. 2021;53:300–332.
+- Tripathi D, et al. **UK guidelines on the management of variceal haemorrhage in cirrhotic patients (BSG).** Gut. 2015;64:1680–1704.
+- FDA label: **Kcentra (prothrombin complex concentrate, human)** — Dosage and Administration.
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. **ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.** Am J Gastroenterol. 2021;116:899–917.
 - Gralnek IM, et al. **Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage (NVUGIH): ESGE Guideline – Update 2021.** Endoscopy. 2021;53:300–332.
 - Barkun AN, et al. **Management of Nonvariceal Upper GI Bleeding: International Consensus Group.** Ann Intern Med. 2019;171:805–822.
@@ -8333,7 +8339,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *\[دوزها مطابق ACG 2021، Baveno VII و AASLD 2024 نوشته شده‌اند و پیش از نشر باید با متن اصلی رهنمودها و فورمولری محلی مطابقت داده شوند.\]*
+- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر خونریزی GI: **نبض، BP، Shock index، و DRE** در ۵ دقیقهٔ اول.
 2. هر UGIB: **GBS را حساب کن** و در دوسیه بنویس.
@@ -8434,7 +8440,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 == 🔹 ۱۰. Management
 === الف) Emergency & General Care
 - **خونریزی** ← فصل ۲۵.
-- **انثقاب** ← احیا، NPO، **PPI IV**، **انتی‌بیوتیک وسیع‌الطیف** (مثلاً **Piperacillin/Tazobactam ۴.۵ g IV هر ۸ ساعت** یا Ceftriaxone + Metronidazole)، **جراحی (ترمیم با Omental patch)**؛ روش **Taylor** (محافظه‌کارانه با NG) فقط در موارد منتخب با انثقاب بسته‌شده.
+- **انثقاب** ← احیا، NPO، **PPI IV**، **انتی‌بیوتیک وسیع‌الطیف** (رژیم و دوز → فصل ۲۷)، **جراحی (ترمیم با Omental patch)**؛ روش **Taylor** (محافظه‌کارانه با NG) فقط در موارد منتخب با انثقاب بسته‌شده.
 - **انسداد خروجی معده** ← NG tube، مایعات IV و اصلاح الکترولیت‌ها (**آلکالوز متابولیک هایپوکلورمیک هایپوکالمیک**)، PPI IV، **اتساع با بالون اندوسکوپیک** یا جراحی؛ ⚠️ **سرطان را رد کن**.
 === ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 ==== ۱. ریشه‌کنی H. pylori — ACG 2024 و Maastricht VI (2022)
@@ -8584,6 +8590,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - ⚠️ **«سوزش سینه» فعالیتی یا با تعرق** ← ACS.
 - ⚠️ **ناتوانی از بلع بزاق** ← Food bolus ← اندوسکوپی عاجل.
 == 📚 References
+- Chey WD, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
 - Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. **ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.** Am J Gastroenterol. 2022;117:27–56.
@@ -8593,7 +8600,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *\[دوزها مطابق ACG 2024 و ACG 2022 از دانش نوشته شده و پیش از نشر باید با متن رهنمودها مطابقت داده شوند؛ شیوع H. pylori و مقاومت Clarithromycin در افغانستان تخمینی است.\]*
+- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole وقایوی با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سوء هاضمه: **ALARM + سن + NSAID** را بپرس.
 2. هر تست H. pylori: **PPI ۲ هفته قطع** — و **نه سیرولوژی**.
@@ -8828,6 +8835,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - ⚠️ **مسن یا ایمونوسپرس با درد بطن «خفیف»** ← آستانهٔ پایین برای CT.
 - ⚠️ **تب تیفوئیدی در هفتهٔ ۲–۳ با درد ناگهانی بطن** ← انثقاب ایلیوم.
 == 📚 References
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
 - Mazuski JE, et al. **The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.** Surg Infect. 2017;18:1–76.
@@ -8837,7 +8845,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *\[دوزها از رهنمودهای فوق و فورمولری‌های استندرد (از دانش) و پیش از نشر باید مطابقت داده شوند.\]*
+- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد بطن: **β-hCG، ECG، گلوکوز، لاکتات، Lipase**.
 2. هر درد بطن: **مسکن در ۳۰ دقیقه**.
@@ -11136,7 +11144,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - **Spironolactone ۱۰۰ mg فمی روزانه + Furosemide ۴۰ mg فمی روزانه** (نسبت **۱۰۰:۴۰** حفظ پتاشیم)؛ **افزایش هر ۳–۵ روز** (۲۰۰/۸۰ ← ۳۰۰/۱۲۰) تا **حد اکثر Spironolactone ۴۰۰ mg + Furosemide ۱۶۰ mg**.
 - **آسیت اول با ادیمای کم:** Spironolactone تنها (۱۰۰ mg ← تا ۴۰۰ mg) قابل قبول است (EASL).
 - **هدف کاهش وزن:** **۰.۵ kg/روز** بدون ادیما؛ **۱ kg/روز** با ادیمای محیطی.
-- **Gynaecomastia دردناک** ← **Amiloride** (۵–۱۰ mg روزانه، حد اکثر ۴۰ mg) یا **Eplerenone** جانشین Spironolactone.
+- **Gynaecomastia دردناک** ← **Amiloride** (۱۰ mg تقریباً معادل Spironolactone ۱۰۰ mg؛ حد اکثر ۳۰ mg روزانه — AASLD 2021) یا **Eplerenone** جانشین Spironolactone.
 - **قطع/کاهش دیورتیک:** **Na کمتر از ۱۲۵ mmol/L** (یا کمتر از ۱۲۰ — EASL)، **AKI**، **K بیش از ۶ یا کمتر از ۳**، انسفالوپاتی، کرمپ‌های شدید (**البومین ۲۰–۴۰ g/هفته** یا Baclofen کمک می‌کند).
 - ⚠️ **محدودیت مایع** فقط در **هایپوناترمی (Na کمتر از ۱۲۵)** — **۱–۱.۵ لیتر/روز**.
 **پاراسنتز حجم بزرگ (LVP) + البومین:**
@@ -11255,7 +11263,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *\[دوزها مطابق AASLD 2021، EASL 2018، Baveno VII و ICA (از دانش) نوشته شده و پیش از نشر باید با متن اصلی مطابقت داده شوند. تأیید Semaglutide برای MASH (2025) باید تأیید شود.\]*
+- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرمپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض سیروزی: **Child-Pugh و MELD** را در دوسیه بنویس.
 2. هر آسیت در بستری: **پاراسنتز تشخیصی (PMN + کلچر در بوتل خون)** در روز اول.
@@ -11389,16 +11397,9 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 10. ⚠️ **دواهای آرام‌بخش و هپاتوتوکسیک را اجتناب کن.**
 === ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 ==== ۱. N-acetylcysteine (NAC) — **Paracetamol**
-- **اندیکاسیون:** سطح Paracetamol بالای **خط تداوی** در نوموگرام **Rumack-Matthew** (۴–۲۴ ساعت پس از بلع یک‌بارهٔ حاد؛ خط **۱۵۰ mg/L در ۴ ساعت** در امریکا — **۱۰۰ mg/L در ۴ ساعت** در UK)؛ **هر ALF/ALI مرتبط با Paracetamol** (حتی با سطح غیرقابل کشف)؛ **زمان بلع نامعلوم، بلع مرحله‌ای (Staggered)، یا بیش از ۲۴ ساعت** با ALT بلند یا Paracetamol قابل کشف.
-- **رژیم کلاسیک ۲۱ ساعته (سه کیسه) — IV:**
-1. **۱۵۰ mg/kg** در ۲۰۰ ml Dextrose ۵ فیصد در **۶۰ دقیقه** (در UK قبلاً ۱۵ دقیقه).
-2. **۵۰ mg/kg** در ۵۰۰ ml در **۴ ساعت**.
-3. **۱۰۰ mg/kg** در ۱۰۰۰ ml در **۱۶ ساعت**.
-- (وزن حد اکثر برای محاسبه: **۱۰۰ kg** در بیشتر پروتوکول‌ها؛ حجم مایع در اطفال و مریضان کم‌وزن کم شود.)
-- **رژیم دوکیسه‌ای/SNAP (۱۲ ساعته):** **۱۰۰ mg/kg در ۲ ساعت** + **۲۰۰ mg/kg در ۱۰ ساعت** — **عوارض کمتر** (Anaphylactoid) — در UK و استرالیا استفاده می‌شود.
-- **ادامه:** پس از ختم رژیم، **اگر ALT بلند است یا INR بیش از ۱.۳ یا Paracetamol قابل کشف** ← **ادامهٔ ۱۰۰ mg/kg هر ۱۶ ساعت (۶.۲۵ mg/kg/h)** تا بهبود.
-- **عوارض:** **واکنش Anaphylactoid** (بثورات، خارش، برانکوسپازم — غیر IgE) ← **توقف موقت + انتی‌هیستامین** ← ادامه با سرعت آهسته‌تر (منع مطلق نیست).
-- **زغال فعال (Activated charcoal) ۵۰ g فمی** اگر **کمتر از ۱–۲ ساعت** از بلع گذشته و راه هوایی محافظت‌شده است.
+- **در ALF همیشه NAC:** هر ALF یا آسیب حاد کبد مرتبط با Paracetamol، **حتی با سطح غیرقابل کشف**، و بلع مرحله‌ای (Staggered) یا زمان نامعلوم با ALT بلند.
+- **رژیم‌ها، دوزها، نوموگرام، زغال فعال و عوارض** یک جایگاه دارند: **فصل ۷۹** (ANZ 2020، SNAP).
+- **در ALF، NAC پس از ختم رژیم قطع نمی‌شود:** با انفیوژن کیسهٔ آخر ادامه می‌یابد تا INR و حال مریض بهتر شود (معیار قطع → فصل ۷۹).
 ==== ۲. NAC در ALF غیر Paracetamol
 - **در انسفالوپاتی Grade I–II:** NAC بقای **بدون پیوند** را بهتر کرد (Lee 2009) ← **همان رژیم IV** (مثلاً **۱۵۰ mg/kg در ۱ ساعت، سپس ۱۲.۵ mg/kg/h × ۴ ساعت، سپس ۶.۲۵ mg/kg/h × ۶۷ ساعت** — مجموع ۷۲ ساعت، پروتوکول کارآزمایی) — AASLD/EASL: **در نظر گرفته شود**؛ ⚠️ **در اطفال فایده ثابت نشده**.
 ==== ۳. تداوی علت‌های خاص
@@ -11436,7 +11437,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 == 💡 Memory Joggers (ALF)
 - 💡 «**INR ≥ ۱.۵ + گیجی + کبد قبلاً سالم = ALF ← ICU + NAC + مرکز پیوند.**»
 - 💡 «**سطح Paracetamol در هر ALF.**»
-- 💡 «**NAC: ۱۵۰ ← ۵۰ ← ۱۰۰ mg/kg** (۱ ← ۴ ← ۱۶ ساعت).»
+- 💡 «**ALF از Paracetamol: NAC تا بهبود، نه تا ختم کیسه.**»
 - 💡 «**افغانستان:** HEV در حاملگی، دواهای ضد سل، سمارق وحشی.»
 - 💡 «**INR را روتین اصلاح نکن** — نشانگر پروگنوز است.»
 - 💡 «**گلوکوز هر ۱–۲ ساعت.**»
@@ -11518,7 +11519,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 == 🔹 ۱۰. Management
 === الف) Emergency & General Care
 1. **ABC**؛ **Grade III–IV:** محافظت راه هوایی (حالت پهلو، **انتوباسیون** در صورت عدم محافظت)، **NG tube** برای Lactulose.
-2. **گلوکوز کنار بستر**؛ **Thiamine ۱۰۰–۵۰۰ mg IV** در الکولی/سوء تغذیه (**پیش از گلوکوز**).
+2. **گلوکوز کنار بستر**؛ **Thiamine IV** در الکولی/سوء تغذیه (**پیش از گلوکوز**؛ دوز Wernicke → SD-84).
 3. **محرک را پیدا و تداوی کن** (بخش ۴) — **حل ۹۰ فیصد HE با تداوی محرک**.
 4. **قطع دواهای آرام‌بخش**؛ اصلاح **K، Na، مایع**؛ کاهش دیورتیک در دیهایدریشن.
 === ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
@@ -11572,6 +11573,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **Melaena** ← خونریزی GI (فصل ۲۵).
 - ⚠️ **اسهال شدید با Lactulose** ← دیهایدریشن و هایپوناترمی ← کاهش دوز.
 == 📚 References
+- Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
 - Vilstrup H, et al. **Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
@@ -11582,7 +11584,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *\[دوزهای NAC، Mannitol، Silibinin، و دواهای HE از منابع فوق (از دانش) نوشته شده‌اند و پیش از نشر باید با نسخه‌های جاری مطابقت داده شوند.\]*
+- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر هپاتیت حاد: **INR و شعور** را روزانه ثبت کن.
 2. هر ALF: **سطح Paracetamol + گلوکوز هر ۱–۲ ساعت + تماس با مرکز پیوند**.
@@ -11594,7 +11596,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - **فصل‌های بعدی:** ۳۲ (HAV، HBV، HEV)، ۳۸ (AKI)، ۴۲ (سودیم و پتاشیم)، مسمومیت‌ها (Paracetamol، سمارق)، و امراض عصبی (دلیریوم، Wernicke).
 == 🔁 مرور ۶۰ ثانیه‌ای (5 Questions)
 1. تعریف ALF؟ ← *INR ≥ ۱.۵ + انسفالوپاتی در مریض بدون سیروز قبلی، کمتر از ۲۶ هفته.*
-2. رژیم ۲۱ ساعتهٔ NAC؟ ← *۱۵۰ mg/kg در ۱ ساعت، ۵۰ mg/kg در ۴ ساعت، ۱۰۰ mg/kg در ۱۶ ساعت.*
+2. چرا در ALF غیر Paracetamol هم NAC در نظر گرفته می‌شود؟ ← *در انسفالوپاتی درجهٔ I–II بقای بدون پیوند را بهتر کرد (Lee 2009).*
 3. معیار King's برای Paracetamol؟ ← *pH کمتر از ۷.۳ (یا لاکتات بلند)؛ یا INR بیش از ۶.۵ + کریاتینین بیش از ۳.۴ + HE Grade III–IV.*
 4. هدف Lactulose؟ ← *۲–۳ اجابت نرم در روز.*
 5. چه وقت Rifaximin اضافه شود؟ ← *پس از اپیزود دوم Overt HE (پیشگیری ثانوی).*
@@ -11964,6 +11966,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **سرفه کردن مایع شور یا غشاهای سفید** ← پاره شدن کیست ریه.
 - ⚠️ **پنکچر «ابسه» بدون رد هایداتید** ← Anaphylaxis.
 == 📚 References
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Yokoe M, et al. **Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis.** J Hepatobiliary Pancreat Sci. 2018;25:41–54. Kiriyama S, et al. **TG18: diagnostic criteria and severity grading of acute cholangitis.** 2018;25:17–30. Gomi H, et al. **TG18: antimicrobial therapy for acute cholangitis and cholecystitis.** 2018;25:3–16.
 - ASGE Standards of Practice Committee; Buxbaum JL, et al. **ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis.** Gastrointest Endosc. 2019;89:1075–1105.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.** J Hepatol. 2016;65:146–181.
@@ -11972,7 +11975,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *\[دوزها از منابع فوق (از دانش) نوشته شده و پیش از نشر باید مطابقت داده شوند. به‌ویژه مدت Albendazole و دوزهای دوای لومن.\]*
+- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد RUQ: **مدت (کمتر یا بیشتر از ۶ ساعت)، تب، یرقان** — سه سؤال.
 2. هر یرقان + تب: **کلچر خون + انتی‌بیوتیک + تماس با اندوسکوپیست**.
@@ -12059,7 +12062,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
     [**الکول** (۲۵–۳۵ فیصد در غرب؛ کمتر در افغانستان)], [معمولاً سال‌ها مصرف زیاد (بیش از ۴–۵ پیک روزانه)],
     [**Hypertriglyceridaemia**], [**TG بیش از ۱۰۰۰ mg/dL** (۱۱.۳ mmol/L)؛ دیابت کنترول‌نشده، حاملگی، استروجن، الکول],
     [**Hypercalcaemia**], [هایپرپاراتایرویدیزم، سرطان],
-    [**ERCP**], [حدود ۳–۵ فیصد؛ پیشگیری با **Indomethacin/Diclofenac ۱۰۰ mg مقعدی** پیش یا بلافاصله پس از ERCP + Stent پانکراسی در پرخطر + **مایع LR تهاجمی حین ERCP**],
+    [**ERCP**], [حدود ۳–۵ فیصد؛ پیشگیری با **Indomethacin/Diclofenac ۱۰۰ mg مقعدی** بلافاصله پیش از ERCP (ESGE 2020) + Stent پانکراسی در پرخطر + **مایع LR تهاجمی حین ERCP**],
     [**دواها**], [Azathioprine/6-MP، **Valproate**، Didanosine، **Pentamidine**، Tetracycline، **Furosemide/Thiazide**، استروجن، **GLP-1 RA** (ارتباط احتمالی)، L-asparaginase، Sulfasalazine],
     [**دیگر**], [ترومه، عمل جراحی، **Autoimmune (IgG4)**، **ویروس‌ها** (Mumps، Coxsackie، CMV، HIV)، **پارازیت‌ها** (**Ascaris** — ⚠️ **در افغانستان مهم** — کرم در Ampulla/CBD)، **عقرب‌زدگی** (Tityus)، **Pancreas divisum**، **تومورها** (سرطان پانکراس و IPMN — ⚠️ **در مریض بیش از ۴۰ سال با پانکراتیت بی‌دلیل** تصویربرداری)، جنیتیکی (PRSS1، SPINK1، CFTR)، **Idiopathic** (۱۰–۲۰ فیصد)],
   ),
@@ -12244,6 +12247,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - ⚠️ **Haematemesis/Melaena** ← واریس معده (ترومبوز ورید طحال) یا Pseudoaneurysm.
 - ⚠️ **استفراغ دوامدار** ← انسداد اثنی‌عشر یا Pseudocyst.
 == 📚 References
+- Dumonceau JM, et al. **ERCP-related adverse events: ESGE Guideline.** Endoscopy. 2020;52:127–149.
 - Banks PA, et al. **Classification of acute pancreatitis — 2012: revision of the Atlanta classification and definitions by international consensus.** Gut. 2013;62:102–111.
 - Tenner S, Vege SS, Sheth SG, et al. **American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.** Am J Gastroenterol. 2024;119:419–437.
 - Working Group IAP/APA. **IAP/APA evidence-based guidelines for the management of acute pancreatitis.** Pancreatology. 2013;13(4 Suppl 2):e1–e15.
@@ -12257,7 +12261,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *\[دوزهای PERT، مایعات، و دواهای درد مطابق منابع فوق (از دانش) و پیش از نشر باید مطابقت داده شوند.\]*
+- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر پانکراتیت: **سونوگرافی در ۲۴ ساعت + TG + کلسیم + ALT** (علت).
 2. هر پانکراتیت: **Ringer ۱.۵ ml/kg/h و ارزیابی هر ۶ ساعت** — نه «۲۵۰ ml/h برای همه».
@@ -23404,13 +23408,13 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980;93:391–398؛ MRC Working Party. Lancet. 1981;1:681–686 (LTOT).
 - Wedzicha JA, et al. **ERS/ATS guideline: Management of COPD exacerbations.** Eur Respir J. 2017;49:1600791.
 - Rochwerg B, et al. **ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
-- *\[دوزهای انهیلرها مطابق لیبل‌های رسمی محصولات (SmPC/FDA). پیش از نشر با لیست دواهای اساسی افغانستان مطابقت داده شود.\]*
+- *تأیید دوز: Prednisolone ۴۰ mg × ۵ روز در تشدید مطابق GOLD و کارآزمایی REDUCE؛ دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). قوت‌های انهیلر، انتی‌بیوتیک‌های تشدید، Roflumilast، Ensifentrine، Mucolytics، Theophylline و دواهای ترک سگرت از برچسب در این بازبینی خوانده نشد → SD-88. مطابقت با لیست دواهای اساسی افغانستان باز است.*
 == فصل ۱۷ — آسما (Asthma)
 - Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حداکثر ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در بزرگسالان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *\[دوزهای بیولوژیک‌ها مطابق لیبل‌های رسمی محصول (SmPC/FDA)؛ پیش از نشر مطابقت داده شود.\]*
+- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر حفظیه، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 == فصل ۱۸ — پنومونی (Pneumonia)
 - Metlay JP, et al. **Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the ATS and IDSA.** Am J Respir Crit Care Med. 2019;200:e45–e67 (رژیم‌های سرپایی: Amoxicillin ۱ g سه بار، Doxycycline ۱۰۰ mg دو بار، ماکرولاید در مقاومت کمتر از ۲۵ فیصد؛ بستری: Ceftriaxone ۱–۲ g + Azithromycin ۵۰۰ mg؛ Ampicillin/Sulbactam ۱.۵–۳ g هر ۶ ساعت؛ حد اقل ۵ روز؛ عدم پوشش روتین انیروب در آسپیراسیون؛ حذف HCAP).
 - Kalil AC, et al. **Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the IDSA and ATS.** Clin Infect Dis. 2016;63:e61–e111 (رژیم‌های تجربی؛ ۷ روز).
@@ -23436,7 +23440,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
-- *\[دوزهای انتی‌بیوتیک مطابق BTS 2023 و فورمولری‌های رسمی؛ مدت دقیق تداوی (SLIM 2023) پیش از نشر مطابقت داده شود.\]*
+- *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 == فصل ۲۱ — امراض بینابینی ریه، سرطان ریه و ابسهٔ ریه (ILD, Lung Cancer & Lung Abscess)
 - Raghu G, et al. **Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.** Am J Respir Crit Care Med. 2022;205:e18–e47.
 - Richeldi L, et al. **Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis (FIBRONEER-IPF).** N Engl J Med. 2025; و تأیید FDA برای Jascayd (اکتوبر ۲۰۲۵): دوز ۱۸ mg دو بار در روز، کاهش به ۹ mg دو بار مگر با Pirfenidone. \[Pharmacy Times\](https:\/\/www.pharmacytimes.com/view/nerandomilast-receives-fda-approval-for-idiopathic-pulmonary-fibrosis)
@@ -23450,8 +23454,11 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *\[دوزهای کیموتراپی و ایمونوتراپی مطابق برچسب‌های FDA و NCCN نوشته شده‌اند و پیش از نشر باید با نسخهٔ جاری مطابقت داده شوند.\]*
+- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی آنکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در فوریت‌های سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ ریه در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 == فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
+- Vanderbilt University Medical Center, Division of Acute Care Surgery. **Guidelines for Rapid Sequence Intubation (RSI).** 2022.
+- **Pharmacology for Rapid Sequence Intubation (RSI) Airway Management in Trauma Patients.** J Med Insight (JoMI). Article 299.11.
+- Papazian L, et al. **Neuromuscular blockers in early ARDS (ACURASYS).** N Engl J Med. 2010;363:1107–1116.
 - O'Driscoll BR, et al. **BTS guideline for oxygen use in adults in healthcare and emergency settings.** Thorax. 2017;72(Suppl 1):ii1–ii90.
 - Qadir N, et al. **An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline.** Am J Respir Crit Care Med. 2024;209:24–36 (کورتیکوستیروئید، VV-ECMO، فلج عصبی-عضلی، PEEP بلندتر، و علیه مانورهای طولانی باز کردن).
 - Grasselli G, et al. **ESICM guidelines on acute respiratory distress syndrome.** Intensive Care Med. 2023;49:727–759.
@@ -23465,7 +23472,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *\[دوزهای RSI، Cisatracurium، و Naloxone از فورمولری‌های استندرد اند؛ پیش از نشر مطابقت داده شوند. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.\]*
+- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 == فصل ۲۳ — سرفهٔ مزمن و همپتیزی (Chronic Cough & Haemoptysis)
 - Morice AH, et al. **ERS guidelines on the diagnosis and treatment of chronic cough in adults and children.** Eur Respir J. 2020;55:1901136.
 - Irwin RS, et al. **Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report.** Chest. 2018;153:196–209.
@@ -23477,7 +23484,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
 - WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *\[نسخهٔ جاری رهنمود ملی باید تأیید شود.\]*
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *\[دوزهای Gabapentin، Morphine، Fluticasone بینی، TXA، و اصلاح انتی‌کواگولانت از منابع بالا و فورمولری‌ها؛ پیش از نشر مطابقت داده شوند.\]*
+- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هیموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 == فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 - Innes JA, Dover AR, Fairhurst K. **Macleod's Clinical Examination.** 15th Ed. Elsevier; 2023 — The gastrointestinal system.
 - Talley NJ, O'Connor S. **Clinical Examination: A Systematic Guide to Physical Diagnosis.** 9th Ed. Elsevier; 2021.
@@ -23487,6 +23494,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - American College of Radiology. **ACR Appropriateness Criteria — Acute Nonlocalized Abdominal Pain; Right Upper Quadrant Pain.** (نسخه‌های جاری).
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
 == فصل ۲۵ — خونریزی جهاز هضمی (Gastrointestinal Bleeding)
+- Gralnek IM, et al. **ESGE Guideline: Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage — Update 2021.** Endoscopy. 2021;53:300–332.
+- Tripathi D, et al. **UK guidelines on the management of variceal haemorrhage in cirrhotic patients (BSG).** Gut. 2015;64:1680–1704.
+- FDA label: **Kcentra (prothrombin complex concentrate, human)** — Dosage and Administration.
 - Laine L, Barkun AN, Saltzman JR, Martel M, Leontiadis GI. **ACG Clinical Guideline: Upper Gastrointestinal and Ulcer Bleeding.** Am J Gastroenterol. 2021;116:899–917.
 - Gralnek IM, et al. **Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage (NVUGIH): ESGE Guideline – Update 2021.** Endoscopy. 2021;53:300–332.
 - Barkun AN, et al. **Management of Nonvariceal Upper GI Bleeding: International Consensus Group.** Ann Intern Med. 2019;171:805–822.
@@ -23498,8 +23508,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *\[دوزها مطابق ACG 2021، Baveno VII و AASLD 2024 نوشته شده‌اند و پیش از نشر باید با متن اصلی رهنمودها و فورمولری محلی مطابقت داده شوند.\]*
+- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 == فصل ۲۶ — قرحهٔ هضمیه، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
+- Chey WD, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
 - Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. **ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease.** Am J Gastroenterol. 2022;117:27–56.
@@ -23509,8 +23520,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *\[دوزها مطابق ACG 2024 و ACG 2022 از دانش نوشته شده و پیش از نشر باید با متن رهنمودها مطابقت داده شوند؛ شیوع H. pylori و مقاومت Clarithromycin در افغانستان تخمینی است.\]*
+- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole وقایوی با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 == فصل ۲۷ — بطن حاد (Acute Abdomen)
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
 - Mazuski JE, et al. **The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.** Surg Infect. 2017;18:1–76.
@@ -23520,7 +23532,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *\[دوزها از رهنمودهای فوق و فورمولری‌های استندرد (از دانش) و پیش از نشر باید مطابقت داده شوند.\]*
+- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 == فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 **رهنمودها**
 - **ACG Clinical Guideline Update: Ulcerative Colitis in Adults.** Am J Gastroenterol. 2025. doi:10.14309/ajg.0000000000003463
@@ -23626,8 +23638,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *\[دوزها مطابق AASLD 2021، EASL 2018، Baveno VII و ICA (از دانش) نوشته شده و پیش از نشر باید با متن اصلی مطابقت داده شوند. تأیید Semaglutide برای MASH (2025) باید تأیید شود.\]*
+- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرمپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 == فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
+- Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
 - European Association for the Study of the Liver. **EASL Clinical Practical Guidelines on the management of acute (fulminant) liver failure.** J Hepatol. 2017;66:1047–1081.
 - Vilstrup H, et al. **Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
@@ -23638,8 +23651,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *\[دوزهای NAC، Mannitol، Silibinin، و دواهای HE از منابع فوق (از دانش) نوشته شده‌اند و پیش از نشر باید با نسخه‌های جاری مطابقت داده شوند.\]*
+- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 == فصل ۳۴ — امراض صفراوی، ابسهٔ کبد و کیست هایداتید (Biliary Disease, Liver Abscess & Hydatid Cyst)
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Yokoe M, et al. **Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis.** J Hepatobiliary Pancreat Sci. 2018;25:41–54. Kiriyama S, et al. **TG18: diagnostic criteria and severity grading of acute cholangitis.** 2018;25:17–30. Gomi H, et al. **TG18: antimicrobial therapy for acute cholangitis and cholecystitis.** 2018;25:3–16.
 - ASGE Standards of Practice Committee; Buxbaum JL, et al. **ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis.** Gastrointest Endosc. 2019;89:1075–1105.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.** J Hepatol. 2016;65:146–181.
@@ -23648,8 +23662,9 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *\[دوزها از منابع فوق (از دانش) نوشته شده و پیش از نشر باید مطابقت داده شوند. به‌ویژه مدت Albendazole و دوزهای دوای لومن.\]*
+- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 == فصل ۳۵ — پانکراتیت حاد و مزمن (Acute & Chronic Pancreatitis)
+- Dumonceau JM, et al. **ERCP-related adverse events: ESGE Guideline.** Endoscopy. 2020;52:127–149.
 - Banks PA, et al. **Classification of acute pancreatitis — 2012: revision of the Atlanta classification and definitions by international consensus.** Gut. 2013;62:102–111.
 - Tenner S, Vege SS, Sheth SG, et al. **American College of Gastroenterology Guidelines: Management of Acute Pancreatitis.** Am J Gastroenterol. 2024;119:419–437.
 - Working Group IAP/APA. **IAP/APA evidence-based guidelines for the management of acute pancreatitis.** Pancreatology. 2013;13(4 Suppl 2):e1–e15.
@@ -23663,7 +23678,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *\[دوزهای PERT، مایعات، و دواهای درد مطابق منابع فوق (از دانش) و پیش از نشر باید مطابقت داده شوند.\]*
+- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 == فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
 - Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. (Executive summary: kdigo.org)
 - KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (تعریف و مراحل؛ از طریق مرورهای PMC4206042 و PMC13242417 نیز تأیید شد)

@@ -210,6 +210,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - ⚠️ **تب تیفوئیدی در هفتهٔ ۲–۳ با درد ناگهانی بطن** ← انثقاب ایلیوم.
 
 ## 📚 References
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Di Saverio S, et al. **Diagnosis and treatment of acute appendicitis: 2020 update of the WSES Jerusalem guidelines.** World J Emerg Surg. 2020;15:27.
 - CODA Collaborative. **A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis.** N Engl J Med. 2020;383:1907–1919.
 - Mazuski JE, et al. **The Surgical Infection Society Revised Guidelines on the Management of Intra-Abdominal Infection.** Surg Infect. 2017;18:1–76.
@@ -219,7 +220,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *[دوزها از رهنمودهای فوق و فورمولری‌های استندرد (از دانش) و پیش از نشر باید مطابقت داده شوند.]*
+- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد بطن: **β-hCG، ECG، گلوکوز، لاکتات، Lipase**.

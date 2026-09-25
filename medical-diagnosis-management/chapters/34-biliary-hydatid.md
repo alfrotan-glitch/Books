@@ -359,6 +359,7 @@
 - ⚠️ **پنکچر «ابسه» بدون رد هایداتید** ← Anaphylaxis.
 
 ## 📚 References
+- Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Yokoe M, et al. **Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis.** J Hepatobiliary Pancreat Sci. 2018;25:41–54. Kiriyama S, et al. **TG18: diagnostic criteria and severity grading of acute cholangitis.** 2018;25:17–30. Gomi H, et al. **TG18: antimicrobial therapy for acute cholangitis and cholecystitis.** 2018;25:3–16.
 - ASGE Standards of Practice Committee; Buxbaum JL, et al. **ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis.** Gastrointest Endosc. 2019;89:1075–1105.
 - European Association for the Study of the Liver. **EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones.** J Hepatol. 2016;65:146–181.
@@ -367,7 +368,7 @@
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *[دوزها از منابع فوق (از دانش) نوشته شده و پیش از نشر باید مطابقت داده شوند. به‌ویژه مدت Albendazole و دوزهای دوای لومن.]*
+- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد RUQ: **مدت (کمتر یا بیشتر از ۶ ساعت)، تب، یرقان** — سه سؤال.

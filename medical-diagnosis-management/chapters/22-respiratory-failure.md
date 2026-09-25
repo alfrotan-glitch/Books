@@ -103,7 +103,7 @@
 ### الف) Emergency & General Care (اقدامات عاجل)
 1. **ABCDE**؛ مریض را **نشسته** قرار بده (مگر شوک).
 2. **اکسیجن** (جدول زیر) — در **مریض بسیار شدید** (ایست، شوک، سپسیس، مسمومیت CO): **ماسک با ذخیره ۱۵ L/min** و سپس تنظیم مطابق هدف.
-3. **تداوی علت:** انتی‌بیوتیک (فصل ۱۸)، برانکودیلاتور (فصل ۱۶–۱۷)، دیورتیک/Nitrate (فصل ۷)، انتی‌کواگولانت (فصل ۱۴)، درن (فصل ۲۰)، **Naloxone** در اوردوز Opioid (**۰.۴ mg IV**، تکرار هر ۲–۳ دقیقه تا ۲ mg یا بیشتر؛ در وابستگی به Opioid دوزهای کوچک‌تر ۰.۰۴–۰.۱ mg برای جلوگیری از سندروم ترک).
+3. **تداوی علت:** انتی‌بیوتیک (فصل ۱۸)، برانکودیلاتور (فصل ۱۶–۱۷)، دیورتیک/Nitrate (فصل ۷)، انتی‌کواگولانت (فصل ۱۴)، درن (فصل ۲۰)، **Naloxone** در اوردوز Opioid (دوز تیترشده و نظارت → فصل ۸۰).
 4. **ارزیابی نیاز به حمایت تنفسی** (HFNO، NIV، یا انتوباسیون).
 
 ### ب) اکسیجن‌تراپی — وسایل (BTS 2017)
@@ -160,7 +160,7 @@
 |---|---|
 | **وضعیت دمر (Prone positioning)** | **P/F کمتر از ۱۵۰** ← **حد اقل ۱۲–۱۶ ساعت در روز** (PROSEVA: کاهش مرگ‌ومیر ۲۸ روزه از ۳۳ به ۱۶ فیصد) — **توصیهٔ قوی** |
 | **کورتیکوستیروئید** | **ATS 2024: توصیهٔ مشروط به نفع** استفاده در ARDS؛ مثال رژیم (**DEXA-ARDS**): **Dexamethasone ۲۰ mg IV روزانه × ۵ روز، سپس ۱۰ mg روزانه × ۵ روز**؛ در **COVID-19 نیازمند اکسیجن**: **Dexamethasone ۶ mg IV/PO روزانه × ۱۰ روز** (RECOVERY)؛ در **CAP شدید**: Hydrocortisone (فصل ۱۸) |
-| **فلج عصبی-عضلی** | **روتین توصیه نمی‌شود** (ROSE 2019)؛ در ناهماهنگی شدید با ونتیلاتور یا P/F بسیار پایین: **Cisatracurium** (بولوس ۰.۱۵ mg/kg، سپس ۳۷.۵ mg/ساعت — مطابق ACURASYS) برای **۴۸ ساعت** |
+| **فلج عصبی-عضلی** | **روتین توصیه نمی‌شود** (ROSE 2019)؛ در ناهماهنگی شدید با ونتیلاتور یا P/F بسیار پایین: **Cisatracurium** (بولوس ۱۵ mg، سپس ۳۷.۵ mg/ساعت — رژیم ACURASYS و ROSE) برای **۴۸ ساعت** |
 | **مدیریت محافظه‌کارانهٔ مایع** | پس از رفع شوک (FACTT) — تعادل منفی با دیورتیک |
 | **VV-ECMO** | ARDS **شدید** با وجود تهویهٔ مطلوب و Prone (مثلاً P/F کمتر از ۸۰ برای بیش از ۶ ساعت یا pH کمتر از ۷.۲۵ با PaCO₂ بیش از ۶۰) — در مراکز مجهز (EOLIA) |
 | **HFOV** | ⚠️ **توصیه نمی‌شود** (OSCILLATE — ضرر) |
@@ -206,6 +206,9 @@
 - ⚠️ **ناکامی NIV پس از ۱–۲ ساعت** ← انتوباسیون را به تأخیر نینداز.
 
 ## 📚 References
+- Vanderbilt University Medical Center, Division of Acute Care Surgery. **Guidelines for Rapid Sequence Intubation (RSI).** 2022.
+- **Pharmacology for Rapid Sequence Intubation (RSI) Airway Management in Trauma Patients.** J Med Insight (JoMI). Article 299.11.
+- Papazian L, et al. **Neuromuscular blockers in early ARDS (ACURASYS).** N Engl J Med. 2010;363:1107–1116.
 - O'Driscoll BR, et al. **BTS guideline for oxygen use in adults in healthcare and emergency settings.** Thorax. 2017;72(Suppl 1):ii1–ii90.
 - Qadir N, et al. **An Update on Management of Adult Patients with ARDS: An Official ATS Clinical Practice Guideline.** Am J Respir Crit Care Med. 2024;209:24–36 (کورتیکوستیروئید، VV-ECMO، فلج عصبی-عضلی، PEEP بلندتر، و علیه مانورهای طولانی باز کردن).
 - Grasselli G, et al. **ESICM guidelines on acute respiratory distress syndrome.** Intensive Care Med. 2023;49:727–759.
@@ -219,7 +222,7 @@
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *[دوزهای RSI، Cisatracurium، و Naloxone از فورمولری‌های استندرد اند؛ پیش از نشر مطابقت داده شوند. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.]*
+- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض روی اکسیجن: **هدف SpO₂ را در چارت بنویس** (۹۴–۹۸ یا ۸۸–۹۲).

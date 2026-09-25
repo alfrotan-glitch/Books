@@ -126,7 +126,7 @@
 - **Spironolactone ۱۰۰ mg فمی روزانه + Furosemide ۴۰ mg فمی روزانه** (نسبت **۱۰۰:۴۰** حفظ پتاشیم)؛ **افزایش هر ۳–۵ روز** (۲۰۰/۸۰ ← ۳۰۰/۱۲۰) تا **حد اکثر Spironolactone ۴۰۰ mg + Furosemide ۱۶۰ mg**.
 - **آسیت اول با ادیمای کم:** Spironolactone تنها (۱۰۰ mg ← تا ۴۰۰ mg) قابل قبول است (EASL).
 - **هدف کاهش وزن:** **۰.۵ kg/روز** بدون ادیما؛ **۱ kg/روز** با ادیمای محیطی.
-- **Gynaecomastia دردناک** ← **Amiloride** (۵–۱۰ mg روزانه، حد اکثر ۴۰ mg) یا **Eplerenone** جانشین Spironolactone.
+- **Gynaecomastia دردناک** ← **Amiloride** (۱۰ mg تقریباً معادل Spironolactone ۱۰۰ mg؛ حد اکثر ۳۰ mg روزانه — AASLD 2021) یا **Eplerenone** جانشین Spironolactone.
 - **قطع/کاهش دیورتیک:** **Na کمتر از ۱۲۵ mmol/L** (یا کمتر از ۱۲۰ — EASL)، **AKI**، **K بیش از ۶ یا کمتر از ۳**، انسفالوپاتی، کرمپ‌های شدید (**البومین ۲۰–۴۰ g/هفته** یا Baclofen کمک می‌کند).
 - ⚠️ **محدودیت مایع** فقط در **هایپوناترمی (Na کمتر از ۱۲۵)** — **۱–۱.۵ لیتر/روز**.
 
@@ -253,7 +253,7 @@
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *[دوزها مطابق AASLD 2021، EASL 2018، Baveno VII و ICA (از دانش) نوشته شده و پیش از نشر باید با متن اصلی مطابقت داده شوند. تأیید Semaglutide برای MASH (2025) باید تأیید شود.]*
+- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرمپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض سیروزی: **Child-Pugh و MELD** را در دوسیه بنویس.

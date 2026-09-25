@@ -229,11 +229,11 @@
 | **Tiotropium** (LAMA) | قدم ۴–۵، کنترول‌نشده | **Respimat ۲.۵ mcg × ۲ پاف (۵ mcg) یک بار در روز** | یا ترکیب سه‌گانهٔ ICS–LABA–LAMA |
 | **Montelukast** (LTRA) | آسمای ورزشی، رینیت همراه، AERD — **گزینهٔ ضعیف‌تر** | ۱۰ mg PO شبانه | ⚠️ **هشدار FDA: اختلالات روانی** (کابوس، افسردگی، افکار خودکشی) |
 | **Azithromycin** | آسمای شدید کنترول‌نشده (غیر ایوزینوفیلیک یا ایوزینوفیلیک) | ۵۰۰ mg PO **سه بار در هفته** | حد اقل ۶ ماه؛ QTc، شنوایی؛ **رد سل و NTM** |
-| **Omalizumab** (ضد IgE) | **آسمای الرژیک شدید** | ۷۵–۶۰۰ mg SC هر ۲–۴ هفته **بر اساس IgE کل و وزن** (جدول سازنده) | |
-| **Mepolizumab** (ضد IL-5) | آسمای **ایوزینوفیلیک** شدید | **۱۰۰ mg SC هر ۴ هفته** | |
-| **Benralizumab** (ضد IL-5R) | ایوزینوفیلیک شدید | **۳۰ mg SC هر ۴ هفته برای ۳ دوز، سپس هر ۸ هفته** | |
-| **Dupilumab** (ضد IL-4Rα) | T2 شدید یا وابسته به ستیروئید فمی | **۴۰۰ mg SC ابتدایی، سپس ۲۰۰ mg هر ۲ هفته** (وابسته به OCS: ۶۰۰ mg سپس ۳۰۰ mg هر ۲ هفته) | ایوزینوفیلی گذرا |
-| **Tezepelumab** (ضد TSLP) | آسمای شدید (T2-high و T2-low) | **۲۱۰ mg SC هر ۴ هفته** | |
+| **Omalizumab** (ضد IgE) | **آسمای الرژیک شدید** | تجویز متخصص (دوز از برچسب جاری) | |
+| **Mepolizumab** (ضد IL-5) | آسمای **ایوزینوفیلیک** شدید | تجویز متخصص (دوز از برچسب جاری) | |
+| **Benralizumab** (ضد IL-5R) | ایوزینوفیلیک شدید | تجویز متخصص (دوز از برچسب جاری) | |
+| **Dupilumab** (ضد IL-4Rα) | T2 شدید یا وابسته به ستیروئید فمی | تجویز متخصص (دوز از برچسب جاری) | ایوزینوفیلی گذرا |
+| **Tezepelumab** (ضد TSLP) | آسمای شدید (T2-high و T2-low) | تجویز متخصص (دوز از برچسب جاری) | |
 | **Prednisolone دوز پایین دراز مدت** | **آخرین راه** | کمترین دوز ممکن | عوارض زیاد؛ پیشگیری از اوستیوپوروز |
 
 **اصول تنظیم:**
@@ -312,7 +312,7 @@
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *[دوزهای بیولوژیک‌ها مطابق لیبل‌های رسمی محصول (SmPC/FDA)؛ پیش از نشر مطابقت داده شود.]*
+- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر حفظیه، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 
