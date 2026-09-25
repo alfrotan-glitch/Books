@@ -1,10 +1,10 @@
 @echo off
 setlocal EnableDelayedExpansion
-title Digital Book Extraction Engine - Windows Pipeline
+title Digital Book Extraction Engine - UI & Automation
 
 echo ===============================================================================
 echo    DIGITAL BOOK EXTRACTION ENGINE & FORENSICS PIPELINE (PRODUCTION-GRADE)
-echo    Windows-First & Multi-Engine OCR ^| Correct Reading Order ^& Layout Recovery
+echo    Graphical Web Interface for Non-Technical Users ^& One-Click Execution
 echo ===============================================================================
 echo.
 
@@ -61,54 +61,22 @@ if not exist ".venv\Scripts\python.exe" (
     set "PYTHON_EXE=.venv\Scripts\python.exe"
 )
 
-:: 4. Parse Command-Line Arguments
-if "%~1"=="--ui" goto launch_ui
-if "%~1"=="--server" goto launch_ui
+:: 4. Check CLI arguments (for power users)
+if "%~1"=="--cli" goto run_cli
 if "%~1"=="--benchmark" goto run_bench
 if "%~1"=="--inspect" goto run_inspect
 
-:: Check if user passed a specific PDF path
-if not "%~1"=="" (
-    if exist "%~1" (
-        echo [INFO] Processing specified file: %~1
-        "%PYTHON_EXE%" -m src.cli process "%~1"
-        goto finish
-    )
-)
-
-:: 5. Check inbox/ directory for PDFs
-set INBOX_COUNT=0
-for %%f in (inbox\*.pdf) do (
-    set /a INBOX_COUNT+=1
-)
-
-if !INBOX_COUNT! gtr 0 (
-    echo [INFO] Found !INBOX_COUNT! PDF file^(s^) in inbox\. Starting automated extraction...
-    echo.
-    "%PYTHON_EXE%" -m src.cli process
-    goto finish
-) else (
-    echo [INFO] No PDF files detected in 'inbox\'.
-    echo.
-    echo Options:
-    echo   1. Place one or more PDF books into the 'inbox\' folder and re-run run.bat
-    echo   2. Or launch the Web Dashboard now to upload and process files in your browser.
-    echo.
-    set /p CHOICE="Launch Web Dashboard now? (Y/N, default=Y): "
-    if /i "!CHOICE!"=="N" (
-        echo.
-        echo Please drop your PDF book into 'inbox\' and double-click run.bat!
-        pause
-        exit /b 0
-    )
-    goto launch_ui
-)
-
-:launch_ui
-echo [INFO] Launching Web Dashboard on http://localhost:8000 ...
-echo Press Ctrl+C in this console to stop the server.
+:: 5. Default Non-Technical Mode: Launch Web Dashboard & Open Browser
+echo [INFO] Launching Graphical Dashboard for non-technical users...
+echo [INFO] Opening http://localhost:8000 in your browser...
+echo.
 start http://localhost:8000
 "%PYTHON_EXE%" -m src.cli serve --host 0.0.0.0 --port 8000
+goto finish
+
+:run_cli
+echo [INFO] Running in Command-Line Mode...
+"%PYTHON_EXE%" -m src.cli process %2 %3
 goto finish
 
 :run_bench
@@ -121,9 +89,5 @@ goto finish
 goto finish
 
 :finish
-echo.
-echo ===============================================================================
-echo Processing finished. Deliverables are saved in the 'output\' directory.
-echo ===============================================================================
 pause
 exit /b 0
