@@ -154,7 +154,7 @@
    - اگر **قبلاً Diuretic فمی می‌گرفت:** ۱ تا ۲ برابر دوز روزانهٔ فمی، به شکل IV
    - Furosemide را **۲–۳ بار در روز** یا به شکل انفیوژن دوامدار بده؛ یک بولوس واحد روزانه توصیه نمی‌شود.
    - پاسخ را ببین: پاسخ کافی = **Sodium ادرار بیشتر از ۵۰–۷۰ mEq/L پس از ۲ ساعت** و/یا **ادرار بیشتر از ۱۰۰–۱۵۰ mL/h در ۶ ساعت اول** (ESC 2021). اگر پاسخ کم بود، دوز Loop را دو برابر کن؛ اگر باز هم کم بود، یک Thiazide یا Acetazolamide اضافه کن (نه دو Loop diuretic با هم). حد اعظمی روزانهٔ Furosemide وریدی معمولاً **۴۰۰–۶۰۰ mg** است؛ در عدم کفایهٔ شدید گرده تا ۱۰۰۰ mg در نظر گرفته می‌شود (ESC 2021، شکل ۱۳).
-4. **قدم ۴ — Vasodilator** (ESC 2021: اگر **BP سیستولیک > ۱۱۰ mmHg**، Class IIb): **Nitroglycerin** IV ۱۰–۲۰ mcg/min شروع، افزایش هر ۵ دقیقه تا ۲۰۰ mcg/min — یا **Nitroprusside** ۰.۳ mcg/kg/min (تا ۵ mcg/kg/min). در ادیمای حاد شش با فشار بسیار بلند، Nitroglycerin به شکل **بولوس ۱–۲ mg** هم داده می‌شود (ESC 2021). در LVH یا تنگی شدید Aortic با احتیاط زیاد. 🔒 ارقام انفیوژن Nitrate/Nitroprusside در جدول ضمیمهٔ ۲۱ ESC آمده که خوانده نشد → **SD-99**.
+4. **قدم ۴ — Vasodilator** (ESC 2021: اگر **BP سیستولیک > ۱۱۰ mmHg**، Class IIb): **Nitroglycerin** IV ۱۰–۲۰ mcg/min شروع، افزایش هر ۵ دقیقه تا ۲۰۰ mcg/min — یا **Nitroprusside** ۰.۳ mcg/kg/min (تا ۵ mcg/kg/min). در ادیمای حاد شش با فشار بسیار بلند، Nitroglycerin به شکل **بولوس ۱–۲ mg** هم داده می‌شود (ESC 2021). در LVH یا تنگی شدید Aortic با احتیاط زیاد. بدیل Nitroglycerin: **Isosorbide dinitrate** IV از ۱ mg/h شروع، تا ۱۰ mg/h. عوارض عمده: Hypotension و سردردی؛ در استعمال دوامدار Nitrate **تحمل (Tolerance)** پیدا می‌شود؛ Nitroprusside به نور حساس است و خطر مسمومیت Cyanide/Thiocyanate دارد (ESC 2021، جدول ضمیمهٔ ۲۱).
 5. **قدم ۵ — درد صدر یا MI:** تداوی ACS (فصل ۸)
 6. **قدم ۶ — AF با ضربان تیز:** کنترول ضربان با Digoxin IV (ESC 2021: اگر ضربان بیشتر از ۱۱۰ با وجود Beta-blocker؛ بولوس **۰٫۲۵–۰٫۵ mg IV** اگر قبلاً Digoxin نگرفته؛ در CKD و سالمندان سطح سیرم را اندازه کن) یا Amiodarone IV؛ اگر ناپایدار → Cardioversion (فصل ۱۰)
 7. **قدم ۷ — شوک کاردیوجنیک:** Inotrope فقط وقتی **BP سیستولیک کمتر از ۹۰** با علایم کم‌رسیدن خون به اعضا است (به‌طور روتین نه)؛ Vasopressor ترجیحاً **Noradrenaline**؛ و در مراکز مجهز حمایت میخانیکی دوران (فصل ۷۷). سرعت انفیوژن (ESC 2021، جدول ۲۲): **Dobutamine ۲–۲۰ µg/kg/min**؛ **Norepinephrine ۰٫۲–۱٫۰ µg/kg/min**؛ **Epinephrine ۰٫۰۵–۰٫۵ µg/kg/min**؛ Milrinone ۰٫۳۷۵–۰٫۷۵ µg/kg/min؛ Levosimendan ۰٫۱ µg/kg/min (۰٫۰۵–۰٫۲). با دوز کم شروع کن و نزدیک نظارت کن. **Opiate به‌طور روتین توصیه نمی‌شود** (ESC 2021، Class III).
@@ -189,7 +189,7 @@
 **ستون ۳ — MRA (Mineralocorticoid Receptor Antagonist):**
 | دوا | دوز | راه/تکرار | کنترااندیکاسیون |
 |---|---|---|---|
-| **Spironolactone** | شروع ۲۵ mg (۱۲.۵ mg اگر گرده یا پوتاشیم نگران‌کننده است) → هدف ۵۰ mg | PO / OD | احتیاط در K⁺ بالاتر از ۵.۰ و کاهش وظیفهٔ گرده (ESC 2021)؛ حدود دقیق قطع → SD-99 |
+| **Spironolactone** | شروع ۲۵ mg (۱۲.۵ mg اگر گرده یا پوتاشیم نگران‌کننده است) → هدف ۵۰ mg | PO / OD | احتیاط/مشورهٔ متخصص اگر K⁺ > ۵.۰ یا eGFR < ۳۰؛ **نصف دوز** اگر K⁺ > ۵.۵ یا eGFR < ۳۰؛ **فوراً قطع** اگر K⁺ > ۶.۰ یا eGFR < ۲۰. K⁺ و Creatinine در هفتهٔ ۱ و ۴ پس از شروع یا افزایش دوز (ESC 2021، جدول ضمیمهٔ ۴) |
 | **Eplerenone** | ۲۵ → ۵۰ mg | PO / OD | همان؛ Gynaecomastia کمتر |
 
 **ستون ۴ — SGLT2 Inhibitor (تمام HFrEF، با یا بدون دیابت):**
@@ -214,7 +214,7 @@
 
 **Dosing در عدم کفایه گرده:**
 - ACEI/ARB: eGFR < ۳۰ — احتیاط + پایش K⁺/Cr
-- Spironolactone: eGFR < ۳۰ — ممنوع
+- Spironolactone: eGFR < ۳۰ — ESC 2021 احتیاط و مشورهٔ متخصص؛ AHA 2022 آن را مضاد استطباب شروع می‌داند
 - Furosemide: eGFR < ۳۰ — دوز بالاتر (۸۰–۱۶۰ mg)
 - SGLT2i: eGFR < ۲۰–۲۵ — شروع نکن
 
