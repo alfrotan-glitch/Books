@@ -102,12 +102,12 @@
 - **Cyclophosphamide** در مرض تهدیدکنندهٔ عضو؛ **Rituximab** در مرض مقاوم.
 - *(دوزها → SD-59.)*
 
-### (۵) Lupus nephritis (EULAR 2023؛ فصل ۴۲)
+### (۵) Lupus nephritis (EULAR 2023؛ فصل ۳۷)
 - **دواهای لنگر:** Glucocorticoid + **Mycophenolate** یا **Cyclophosphamide وریدی دوز پایین** (رژیم Euro-Lupus).
 - **اضافه کردن Belimumab یا یک Calcineurin inhibitor** (Voclosporin یا Tacrolimus) در نظر گرفته شود، به ویژه در Nephritis شدید.
 - **نگهداری:** Mycophenolate یا Azathioprine، و **تداوی حد اقل ۳ سال** ادامه یابد.
 - **حفاظت گرده:** ACE inhibitor یا ARB برای پروتینوریا، و کنترول فشار.
-- *(دوزها → SD-59؛ هماهنگ با KDIGO 2024 در فصل ۴۲.)*
+- *(دوزها → SD-59؛ هماهنگ با KDIGO 2024 در فصل ۳۷.)*
 
 ### (۶) حاملگی — پلان، نه تصادف
 - **حاملگی را در دورهٔ آرامش مرض** (حد اقل چند ماه) پلان کن. *(مدت → SD-59.)*

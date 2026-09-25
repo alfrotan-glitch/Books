@@ -14912,13 +14912,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۳. Pathophysiology — Step-by-step
 **Metabolic acidosis از دو راه:**
-1. **اضافه شدن اسید** (Lactate، Ketones، سموم، اسیدهای احتباسی در Uraemia) → HCO₃⁻ برای خنثی کردن مصرف می‌شود → جای آن را یک **anion ناسنجیده** می‌گیرد → **Anion gap بلند**.
+1. **اضافه شدن اسید** (Lactate، Ketones، سموم، اسیدهای احتباسی در Uraemia) → HCO₃⁻ برای خنثی کردن مصرف می‌شود → جای آن را یک **anion که در لابراتوار اندازه نمی‌شود** می‌گیرد → **Anion gap بلند**.
 2. **از دست رفتن HCO₃⁻** (اسهال، RTA) → گرده Chloride را نگه می‌دارد → **Anion gap نورمال (Hyperchloraemic)**.
-3. مرکز تنفس pH پایین را حس می‌کند → تنفس عمیق و سریع (**Kussmaul**) → PaCO₂ پایین.
+- **جبران:** مرکز تنفس pH پایین را حس می‌کند → تنفس عمیق و سریع (**Kussmaul**) → PaCO₂ پایین.
 **Metabolic alkalosis — دو قدم:**
 1. **تولید:** از دست رفتن H⁺ (استفراغ، Nasogastric suction، Diuretic) یا اضافه شدن قلوی.
 2. **ادامه (Maintenance):** گرده نورمال HCO₃⁻ اضافی را فوراً دفع می‌کند؛ alkalosis فقط وقتی ادامه می‌یابد که گرده نتواند — **کم‌حجمی، کمبود Chloride، کمبود K⁺، Aldosterone زیاد**.
-3. **به همین دلیل** تداوی اکثر alkalosisها = **Saline و Potassium**.
+- **به همین دلیل** تداوی اکثر alkalosisها = **Saline و Potassium**.
 **Respiratory:** تهویهٔ ناکافی (COPD، ضعف عضلات، Opioid) → CO₂ احتباس؛ تهویهٔ زیاد (اضطراب، درد، Hypoxia، سپسیس اولیه، Salicylate، حاملگی، مرض کبد) → CO₂ پایین.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۴. Etiology & Risk Factors
@@ -21071,12 +21071,12 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - و/یا دواهای Biologic: **Belimumab** یا **Anifrolumab**.
 - **Cyclophosphamide** در مرض تهدیدکنندهٔ عضو؛ **Rituximab** در مرض مقاوم.
 - *(دوزها → SD-59.)*
-=== (۵) Lupus nephritis (EULAR 2023؛ فصل ۴۲)
+=== (۵) Lupus nephritis (EULAR 2023؛ فصل ۳۷)
 - **دواهای لنگر:** Glucocorticoid + **Mycophenolate** یا **Cyclophosphamide وریدی دوز پایین** (رژیم Euro-Lupus).
 - **اضافه کردن Belimumab یا یک Calcineurin inhibitor** (Voclosporin یا Tacrolimus) در نظر گرفته شود، به ویژه در Nephritis شدید.
 - **نگهداری:** Mycophenolate یا Azathioprine، و **تداوی حد اقل ۳ سال** ادامه یابد.
 - **حفاظت گرده:** ACE inhibitor یا ARB برای پروتینوریا، و کنترول فشار.
-- *(دوزها → SD-59؛ هماهنگ با KDIGO 2024 در فصل ۴۲.)*
+- *(دوزها → SD-59؛ هماهنگ با KDIGO 2024 در فصل ۳۷.)*
 === (۶) حاملگی — پلان، نه تصادف
 - **حاملگی را در دورهٔ آرامش مرض** (حد اقل چند ماه) پلان کن. *(مدت → SD-59.)*
 - **Mycophenolate، Methotrexate و Cyclophosphamide** در حاملگی **منع‌اند**. پیش از حاملگی به دواهای مجاز تبدیل کن.
