@@ -441,3 +441,8 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۵۶ — Aplastic، Leukaemia، تب در Neutropenia
 - دوز نوشته نشد (عمداً؛ SD-49). VERIFIED: تعریف FN (IDSA 2010: ۳۸.۳ یا ۳۸.۰ برای ۱ ساعت؛ ANC کمتر از ۵۰۰ یا انتظار در ۴۸ ساعت)؛ Antibiotic در ۶۰ دقیقه (ASCO/IDSA 2018 از منابع مبتنی بر آن)؛ BSH 2024 AA: ۱۰۰/۵۰/۱.۵؛ SAA ۲۵ فیصد + ۰.۵/۲۰/۶۰؛ VSAA ۰.۲.
+
+## فصل ۵۷ — انعقاد و Platelet
+- VERIFIED (ASH 2019 ITP متن اولیه): Steroid اگر کمتر از ۳۰ (مشروط)؛ نظارت اگر ۳۰ یا بیشتر (قوی)؛ Prednisone ۰.۵–۲.۰ mg/kg یا Dexamethasone ۴۰ mg ×۴ روز؛ مدت کل ۶ هفته یا کمتر (قوی)؛ مرور 2022 بدون تغییر.
+- VERIFIED (ASH 2018 HIT): 4Ts پایین → علیه قطع؛ متوسط → قطع (قوی) + غیر Heparin (مشروط)؛ بلند → قطع + غیر Heparin (قوی)؛ Warfarin پیش از بهبود نه؛ DOAC بر Warfarin.
+- ثانوی (SD-50): ISTH DIC Score؛ IVIG ۱ g/kg.

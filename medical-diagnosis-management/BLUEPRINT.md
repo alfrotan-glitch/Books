@@ -46,6 +46,7 @@
 | 54 | نوشته شده: فقر آهن (BSG 2021، AGA 2020)، B12/Folate (NICE 2024 ثانوی)؛ SD-47 |
 | 55 | نوشته شده: رهیافت همولیز، DAT، G6PD/Primaquine (WHO)، AIHA گرم (Jäger 2020)، ارثی، همولیز کشنده؛ SD-48 |
 | 56 | نوشته شده: FN (IDSA/ASCO)، Leukaemia حاد و سه عاجل (APL، Leukostasis، TLS)، CML مختصر، AA (BSH 2024)؛ SD-49 |
+| 57 | نوشته شده: رهیافت خون‌ریزی، TTP/HUS، ITP (ASH 2019)، HIT (ASH 2018)، DIC (ISTH)؛ SD-50 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)

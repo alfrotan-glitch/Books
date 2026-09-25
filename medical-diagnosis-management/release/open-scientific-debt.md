@@ -59,6 +59,7 @@
 | SD-47 | ۵۴ | منبع اولیه خوانده نشد: متن NICE NG239 (رژیم Hydroxocobalamin از رهنمود NHS مبتنی بر آن؛ حدود B12 و MMA)؛ رژیم معادل Cyanocobalamin تزریقی و دوز فمی؛ دوز و مدت Folic acid؛ مقدار آهن عنصری و مدت ادامهٔ آهن پس از نورمال شدن Hb؛ مستحضرات آهن وریدی؛ منبع نظارت Potassium در شروع تداوی B12 | UNVERIFIED — OPEN |
 | SD-48 | ۵۵ | منبع اولیه خوانده نشد: فاصلهٔ تکرار G6PD پس از حمله؛ تداوی Cold agglutinin disease؛ رژیم Rituximab (از منابع ثانوی)؛ توصیهٔ ترانسفیوژن در AIHA؛ دوز Folic acid در همولیز مزمن؛ تداوی Thalassaemia major/Chelation؛ پروتوکول واکنش حاد ترانسفیوژن و منبع رسمی امنیت هویت | UNVERIFIED — OPEN |
 | SD-49 | ۵۶ | منبع اولیه خوانده نشد: متن اولیهٔ IDSA 2010 (رژیم و دوز Cefepime/Pip-tazo/Meropenem؛ اندیکاسیون Vancomycin؛ منع معاینهٔ رکتال)؛ ELN APL (ATRA بر اساس شک، دوز)؛ حد WBC در Leukostasis؛ دوز Allopurinol/Rasburicase در TLS؛ تداوی SAA (ATG، Ciclosporin، Eltrombopag، پیوند) و توصیهٔ ترانسفیوژن اقارب؛ Neutropenia نژادی خوش‌خیم در جمعیت افغان | UNVERIFIED — OPEN |
+| SD-50 | ۵۷ | منبع اولیه خوانده نشد: ISTH 2020 TTP (رژیم تبادل پلازما، Steroid، Caplacizumab، Rituximab؛ FFP به عنوان پل؛ منع Platelet)؛ PLASMIC؛ حد ADAMTS13 ۱۰ فیصد؛ فهرست سکرین ثانوی ITP در ASH؛ دوز IVIG (از ASH 2011)؛ پروتوکول خون‌ریزی تهدیدکننده در ITP؛ امتیازدهی 4Ts؛ دوز Anticoagulantهای غیر Heparin؛ متن اولیهٔ ISTH DIC (اختلاف ۰/۲/۳ و ۰/۱/۲) و حدود فرآورده‌ها | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt

@@ -95,3 +95,9 @@
 2. Compound: Pancytopenia (۵۳)، B12 (۵۴)، G6PD/Rasburicase (۵۵)، Carbimazole (۴۸)، الکترولیت (۴۲)، DIC (۵۷)، سپسیس (۶۰).
 3. حد ۵۰۰/mm³ فصل ۵۳ این‌جا تأیید شد (بخش SD-46 مربوط).
 4. زبان: اسکنر و grep دستی پاک.
+
+### فصل ۵۷ — انعقاد و Platelet
+1. دو کیس متضاد (ITP عدد پایین/خطر کم؛ TTP عدد بالاتر/خطر مرگ)؛ هر دو بسته شد.
+2. Compound: لام و Pseudothrombocytopenia (۵۳)، DAT (۵۵)، APL (۵۶)، Steroid (۵۰–۵۱)، سپسیس (۶۰)، HELLP (۸۴).
+3. اختلاف منابع ISTH DIC صریحاً ذکر شد.
+4. زبان: اسکنر و grep دستی پاک.
