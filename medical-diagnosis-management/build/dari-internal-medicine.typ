@@ -22013,7 +22013,7 @@ ORS و آموزش آب پاک و شستن دست با او بده.
     [**۳**], [اگر غوطه‌ور کردن ممکن نیست: **تبخیری** — آب سرد روی تمام بدن + **پکه**؛ و **یخ روی تمام بدن** (نه فقط گردن و بغل)],
     [**۴**], [**هدف: ۳۸.۳–۳۸.۸ °C** (WMS 2024)، سپس سرد کردن فعال را **ایستاد کن** (جلوگیری از Hypothermia)؛ برای بازگشت حرارت نظارت کن],
     [**۵**], [**مایع وریدی ایزوتونیک:** کاهل **۱–۲ لیتر** برای شروع؛ طفل **۲۰ ml/kg** (WMS 2024). مایع سرد، اگر موجود است],
-    [**۶**], [**تشنج یا بی‌قراری** → Benzodiazepine (فصل ۷۳)],
+    [**۶**], [**تشنج یا بی‌قراری** → Benzodiazepine (دوز در فصل ۷۳)],
   ),
   caption: none,
 )
@@ -22101,3 +22101,162 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. Wilderness Medical Society. Clinical practice guidelines for the prevention and treatment of heat illness: 2024 update. *Wilderness Environ Med.* 2024. (خلاصهٔ Medscape، مستقیم.)
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
 3. Lott C, Truhlář A, Alfonzo A, et al. European Resuscitation Council Guidelines 2021: cardiac arrest in special circumstances. *Resuscitation.* 2021;161:152–219. (خوانده نشد → SD-73.)
+= فصل ۸۴ — امراض داخله در حاملگی
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش دوازدهم — گروه‌های خاص** · *Currentness audit: فشار بلند شدید در حاملگی — **ACOG Committee Opinion 692/767** (Emergent therapy for acute-onset, severe hypertension؛ متن و Order sets مستقیم خوانده شد)؛ Magnesium sulfate — ACOG از طریق **ABEM Clinical Policy Alert 2024** (مستقیم). اصول مصئونیت دوا از فصل‌های قبلی کتاب. رهنمودهای WHO 2011 (Preeclampsia)، Gestational diabetes، Thyroid، و VTE در حاملگی در این جلسه خوانده نشد → SD-74.*
+]
+== «فقط سردردی دارم»
+**نسرین** ۲۳ ساله، **حاملهٔ ۳۴ هفته** (اولین حاملگی)، از یک قریهٔ لوگر با **سردردی شدید** و «**تاری چشم**» آمد. پاهایش و **صورتش** پندیده است. فشارش **۱۷۲/۱۱۴**؛ پس از ۱۵ دقیقه **۱۶۸/۱۱۲**. Dipstick ادرار: **Protein ۳+**. شوهرش می‌گوید: «Paracetamol بدهید، برویم.»
+**این مریض ممکن است در ساعت آینده تشنج کند یا سکتهٔ مغزی کند.** مرگ مادر از Preeclampsia و Eclampsia در افغانستان هنوز شایع است، و **اکثر آن قابل جلوگیری است**.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. قواعد کلی — دو مریض در یک بدن
+1. **مادر را تداوی کن.** مادر سالم بهترین حفاظت برای جنین است. **تداوی ضروری را به خاطر ترس از جنین قطع نکن** (مثلاً صرع، آسما، Thyroid، TB).
+2. **هر زن در سن باروری:** «آیا حامله هستی؟» — **پیش از هر دوا، X-ray، یا تداوی**. شک داری → **تست حاملگی**.
+3. **فیزیولوژی حاملگی** تست‌ها را تغییر می‌دهد:
+- **Haemoglobin کمی پایین** (رقیق شدن)؛ **کریاتینین پایین‌تر** (کریاتینین «عادی کاهل» در حاملگی ممکن است غیرعادی باشد)؛
+- **تنفس بیشتر** و **PaCO₂ پایین‌تر**؛ **D-dimer بلند**؛ **ALP بلند** (از پلاسنتا)؛
+- **نبض کمی بلند و فشار در نیمهٔ اول پایین‌تر**.
+4. **تصویربرداری ضروری را دریغ نکن.** CXR و CT صدر به جنین دوز کم می‌رسانند؛ **Ultrasound و MRI** بدون اشعه‌اند. *(ارقام دوز → SD-74.)*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. دواها در حاملگی — آنچه باید بدانی
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [***نه** (خطر ثابت‌شده برای جنین)*], [***بدیل***], [*فصل*],
+    [**ACE inhibitor و ARB**], [Labetalol، Nifedipine، Methyldopa], [۶],
+    [**Warfarin** (به ویژه هفته‌های ۶–۱۲)], [**LMWH**], [۱۴],
+    [**Valproate**], [Levetiracetam، Lamotrigine], [۷۳],
+    [**Statin**], [قطع در حاملگی], [۵۲],
+    [**Methotrexate، Mycophenolate، Leflunomide**], [Hydroxychloroquine، Azathioprine، Sulfasalazine], [۶۷، ۶۸],
+    [**Tetracycline** و **Fluoroquinolone** (به‌طور عمومی)], [Beta-lactam، Macrolide], [—],
+    [**Isotretinoin**، **Thalidomide**], [—], [—],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**مصئون و مهم:** Paracetamol، Penicillin و Cephalosporin، **Insulin**، **Levothyroxine**، Hydroxychloroquine، **LMWH**، Labetalol، Nifedipine، Methyldopa، و **دواهای خط اول TB** (فصل ۱۹). *(جزئیات هر دوا در فصل مربوطه و SD-74.)*
+**⚠️ Iodine رادیواکتیف** و **Carbimazole در سه ماه اول** نه (فصل ۴۸).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. فشار بلند در حاملگی
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*نوع*], [*تعریف*],
+    [**فشار بلند مزمن**], [پیش از حاملگی یا پیش از هفتهٔ ۲۰],
+    [**فشار بلند حاملگی**], [پس از هفتهٔ ۲۰، بدون Proteinuria یا علایم شدید],
+    [**Preeclampsia**], [فشار بلند پس از هفتهٔ ۲۰ + **Proteinuria**، یا **آسیب اعضا** (Platelet کم، کبد، گرده، ریه، مغز یا چشم)],
+    [**Eclampsia**], [Preeclampsia + **تشنج**],
+    [**HELLP**], [Haemolysis، آنزیم‌های کبد بلند، Platelet کم (فصل ۵۷)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**Preeclampsia تا ۶ هفته پس از ولادت** ممکن است شروع شود. **سردردی و فشار بلند در زن تازه ولادت کرده = Preeclampsia تا رد شود.** *(حد زمانی دقیق → SD-74.)*
+=== علایم شدید (Severe features)
+**فشار ۱۶۰/۱۱۰ یا بیشتر**، **سردردی شدید**، **اختلال دید**، **درد اپی‌گاستر یا ربع فوقانی راست**، Platelet کم، کریاتینین بلند، ادیم ریه.
+=== ۴. فشار ۱۶۰/۱۱۰ یا بیشتر — عاجل (ACOG)
+- **اگر ۱۵ دقیقه یا بیشتر باقی بماند → تداوی در ۳۰–۶۰ دقیقه** (برای جلوگیری از **سکتهٔ مغزی مادر**).
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دوا*], [*دوز اول (ACOG Order sets)*], [*قدم بعدی*],
+    [**Labetalol وریدی**], [**۲۰ mg** در بیشتر از ۲ دقیقه], [فشار را در ۱۰ دقیقه چک کن؛ اگر هنوز بلند → **۴۰ mg** *(قدم‌های بعدی → SD-74)*],
+    [**Hydralazine وریدی**], [**۵ یا ۱۰ mg** در بیشتر از ۲ دقیقه], [پس از ۲۰ دقیقه، اگر هنوز بلند → **۱۰ mg**],
+    [**Nifedipine فوری‌رهش فمی**], [**۱۰ mg**], [*(تکرار → SD-74)* — **زیر زبان نه** (افت شدید فشار)],
+    [**بدون خط وریدی و بدون Nifedipine**], [**Labetalol ۲۰۰ mg فمی**؛ تکرار پس از ۳۰ دقیقه], [],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **Labetalol:** در **آسما**، Bradycardia، و عدم کفایهٔ قلب نه.
+- **Hydralazine:** خطر افت فشار مادر.
+- **هدف: نه عادی، بلکه بیرون از محدودهٔ شدید.** *(هدف عددی → SD-74.)*
+- **Magnesium ضد فشار نیست.**
+=== ۵. Magnesium sulfate — جلوگیری و تداوی Eclampsia
+- **دوای انتخابی برای جلوگیری از تشنج** در Preeclampsia با علایم شدید، و **تداوی Eclampsia** (ACOG). **از Diazepam و Phenytoin بهتر است.**
+- **وریدی** (ACOG، از طریق ABEM): **۴–۶ g در ۲۰–۳۰ دقیقه**، سپس **۱–۲ g در ساعت**. *(رژیم عضلی Pritchard، و مدت → SD-74.)*
+- **نظارت مسمومیت Magnesium** در هر ساعت:
+- **Reflex زانو** (اول از بین می‌رود)؛
+- **شمارش تنفس**؛
+- **ادرار** (Magnesium از گرده دفع می‌شود؛ ادرار کم → تجمع).
+- **مسمومیت** → انفیوژن را ایستاد کن؛ **Calcium gluconate** پادزهر است. *(دوز و حدود → SD-74.)*
+- **⚠️ Myasthenia gravis** → Magnesium خطرناک است (فصل ۷۶).
+=== ۶. تداوی قطعی = ولادت
+**زمان ولادت** با داکتر ولادی‌نسایی تعیین می‌شود. **داکتر داخله فشار را کنترول و از تشنج جلوگیری می‌کند؛ ولادی‌نسایی زمان ولادت را تصمیم می‌گیرد.** همکاری فوری.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۷. دیگر مشکلات داخله در حاملگی (کوتاه، با ارجاع)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*مشکل*], [*نکتهٔ کلیدی*], [*فصل*],
+    [**انمی فقر آهن**], [شایع‌ترین؛ آهن فمی، و Folic acid], [۵۴],
+    [**VTE**], [خطر ۴–۵ برابر (رقم → SD-74)؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC], [۱۴],
+    [**UTI و Bacteriuria بی‌علامه**], [در حاملگی **تداوی** می‌شود (برخلاف غیر حامله)؛ Pyelonephritis خطرناک است], [۴۰],
+    [**دیابت حاملگی**], [تست در هفته‌های ۲۴–۲۸؛ **Insulin** اصل تداوی], [۴۶],
+    [**Thyroid**], [Hypothyroidism: دوز Levothyroxine را **زیاد کن**؛ Hyperthyroidism: **PTU در سه ماه اول**، سپس Carbimazole], [۴۸، ۴۹],
+    [**صرع**], [Valproate نه؛ Folic acid؛ تشنج در حاملگی = Eclampsia تا رد شود], [۷۳],
+    [**مرض قلب دریچه‌ای (Rheumatic)**], [Mitral stenosis در حاملگی بدتر می‌شود (حجم خون زیاد)؛ **در افغانستان شایع**], [۹],
+    [**ملاریا**], [در حاملگی شدیدتر است], [۶۱],
+    [**Hepatitis E**], [در حاملگی (به ویژه سه ماه سوم) **عدم کفایهٔ حاد کبد** با مرگ بلند], [۳۲],
+    [**TB**], [دواهای خط اول مصئون؛ **Pyridoxine** با Isoniazid], [۱۹],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به نسرین
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*زمان*], [*اقدام*],
+    [۰], [۱۷۲/۱۱۴ و پس از ۱۵ دقیقه ۱۶۸/۱۱۲ + سردردی و تاری دید + Protein ۳+ → **Preeclampsia با علایم شدید**],
+    [۵ دقیقه], [**Magnesium sulfate ۴ g وریدی در ۲۰ دقیقه**، سپس **۱ g/ساعت**],
+    [۱۰ دقیقه], [خط وریدی بود و او آسما نداشت → **Labetalol ۲۰ mg وریدی**],
+    [۲۰ دقیقه (۱۰ دقیقه پس از دوز اول)], [۱۶۴/۱۰۸ → **Labetalol ۴۰ mg**],
+    [۴۰ دقیقه], [**۱۴۸/۹۶** ✓],
+    [], [Platelet ۹۲۰۰۰، ALT ۱۸۰ → **HELLP در حال شکل‌گیری**],
+    [], [Reflex، تنفس و ادرار هر ساعت؛ Catheter],
+    [۴ ساعت], [ولادی‌نسایی: **ولادت** (سزارین). مادر و طفل زنده.],
+    [۳ روز پس از ولادت], [سردردی دوباره، فشار ۱۶۲/۱۰۴ → **دوباره تداوی** (Preeclampsia پس از ولادت)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**پیگیری:** فشار در هفته‌های بعد؛ **خطر قلبی–عروقی درازمدت** بلندتر است (فصل ۵۲، ۶)؛ در حاملگی بعدی، **مراقبت زود**. *(Aspirin وقایوی → SD-74.)*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **هر زن در سن باروری: «آیا حامله هستی؟» پیش از هر دوا.**
+2. **مادر را تداوی کن؛ دوای ضروری را قطع نکن.**
+3. **ACE inhibitor، ARB، Warfarin، Valproate، Statin، Methotrexate — در حاملگی نه.**
+4. **فشار ۱۶۰/۱۱۰ یا بیشتر برای ۱۵ دقیقه → تداوی در ۳۰–۶۰ دقیقه.**
+5. **Labetalol ۲۰ mg وریدی، Hydralazine ۵–۱۰ mg وریدی، یا Nifedipine ۱۰ mg فمی (نه زیر زبان).**
+6. **Magnesium: ۴–۶ g در ۲۰–۳۰ دقیقه، سپس ۱–۲ g/ساعت؛ Reflex، تنفس و ادرار را هر ساعت ببین.**
+7. **تشنج در حاملگی یا پس از ولادت = Eclampsia.**
+8. **سردردی و فشار بلند پس از ولادت = Preeclampsia تا رد شود.**
+== ⚠️ Red Flags
+- فشار ۱۶۰/۱۱۰ یا بیشتر در حاملگی یا پس از ولادت.
+- سردردی شدید، تاری دید، یا درد اپی‌گاستر در حاملگی.
+- تشنج در حاملگی.
+- زردی در حاملگی (Hepatitis E، HELLP، کبد چرب حاد حاملگی).
+- تنگی نفس در حاملگی (PE، Mitral stenosis، Peripartum cardiomyopathy).
+== ⏱️ مرور ۶۰ ثانیه
+1. کی فشار در حاملگی عاجل است؟ ← ۱۶۰/۱۱۰ یا بیشتر برای ۱۵ دقیقه.
+2. سه دوای خط اول؟ ← Labetalol وریدی، Hydralazine وریدی، Nifedipine فوری‌رهش فمی.
+3. دوز Magnesium وریدی؟ ← ۴–۶ g در ۲۰–۳۰ دقیقه، سپس ۱–۲ g/ساعت.
+4. اولین علامهٔ مسمومیت Magnesium؟ ← از بین رفتن Reflex زانو.
+5. ضد انعقاد در حاملگی؟ ← LMWH.
+== 📚 References
+1. American College of Obstetricians and Gynecologists. Committee Opinion No. 767: Emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period. *Obstet Gynecol.* 2019;133:e174–e180. (Order sets مستقیم؛ نسخهٔ ۶۹۲.)
+2. American Board of Emergency Medicine. Key Advances: Hypertensive disorders of pregnancy — Clinical policy alert. 2024.
+3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خوانده نشد → SD-74.)

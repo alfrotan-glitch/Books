@@ -530,3 +530,6 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 83
 - VERIFIED (WMS 2024 خلاصه، 2019 متن): هدف ۳۸.۳–۳۸.۸ °C؛ مایع ۱–۲ L کاهل، ۲۰ ml/kg طفل؛ حرارت مقعدی؛ غوطه‌ور در آب یخ؛ ۴۰ یا بیشتر → تداوی گرمازدگی.
+
+## فصل 84
+- VERIFIED (ACOG CO 692/767 Order sets مستقیم): Labetalol ۲۰ mg IV در بیشتر از ۲ دقیقه → ۴۰ mg؛ Hydralazine ۵–۱۰ mg IV → ۱۰ mg پس از ۲۰ دقیقه؛ Nifedipine IR ۱۰ mg فمی (زیر زبان نه)؛ Labetalol ۲۰۰ mg فمی بدون خط، تکرار ۳۰ دقیقه؛ ۱۶۰/۱۱۰ برای ۱۵ دقیقه → ۳۰–۶۰ دقیقه. Magnesium (ACOG via ABEM 2024): ۴–۶ g در ۲۰–۳۰ دقیقه، سپس ۱–۲ g/ساعت.
