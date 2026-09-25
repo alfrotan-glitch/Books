@@ -62,6 +62,7 @@
 | SD-50 | ۵۷ | منبع اولیه خوانده نشد: ISTH 2020 TTP (رژیم تبادل پلازما، Steroid، Caplacizumab، Rituximab؛ FFP به عنوان پل؛ منع Platelet)؛ PLASMIC؛ حد ADAMTS13 ۱۰ فیصد؛ فهرست سکرین ثانوی ITP در ASH؛ دوز IVIG (از ASH 2011)؛ پروتوکول خون‌ریزی تهدیدکننده در ITP؛ امتیازدهی 4Ts؛ دوز Anticoagulantهای غیر Heparin؛ متن اولیهٔ ISTH DIC (اختلاف ۰/۲/۳ و ۰/۱/۲) و حدود فرآورده‌ها | UNVERIFIED — OPEN |
 | SD-51 | ۵۸ | منبع اولیه خوانده نشد: متن IMWG 2014 (حد انمی CRAB و ضایعات استخوانی؛ «بیشتر از یک» در MRI)؛ پیگیری MGUS؛ دوز Dexamethasone در فشار بر نخاع؛ مرحله‌بندی Lugano؛ تداوی Lymphoma/Myeloma/MDS (تخصصی، عمداً ننوشته) | UNVERIFIED — OPEN |
 | SD-52 | ۵۹–۶۰ | SSC 2026 (Prescott 2026) جانشین SSC 2021؛ فقط صفحهٔ SCCM/Springer و خلاصه‌ها خوانده شد: دوز Hydrocortisone 2026، کنترول منبع ۶ ساعت، جزئیات Vasopressin؛ تعریف Sepsis-3 از JAMA 2016 مستقیم خوانده نشد؛ دوز/رقیق‌سازی Norepinephrine تأیید نشد؛ دوزهای Antibiotic Febrile Neutropenia (معوق از ۵۶) هنوز منبع ندارند | UNVERIFIED |
+| SD-53 | ۶۱ | متن اصلی WHO malaria guidelines/Severe Malaria Handbook مستقیم خوانده نشد (دوزها از MSF، severemalaria.org، pocket manual مبتنی بر WHO)؛ معیارهای عددی ملاریای شدید؛ ACT خط اول و پروتوکول ملی افغانستان؛ Primaquine در شیردهی/حد سنی؛ ارقام اپیدمیولوژی ملاریا، Dengue، CCHF؛ مقدار مایع وریدی Dengue؛ فهرست کامل علایم هشدار WHO 2025؛ Ribavirin در CCHF | UNVERIFIED |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt

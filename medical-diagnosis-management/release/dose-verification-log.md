@@ -454,3 +454,7 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (SSC 2026 صفحهٔ SCCM/Springer): ۳۰ mL/kg کریستالوئید در ۳ ساعت؛ وزن واقعی/تعدیل‌شده در BMI بیشتر از ۳۰؛ MAP ۶۵ و ۶۰–۶۵ در ۶۵ سال یا بیشتر؛ ترتیب Norepinephrine → Vasopressin → Epinephrine.
 - VERIFIED (SSC 2021): Hydrocortisone ۲۰۰ mg/روز در NE ۰.۲۵ µg/kg/min یا بیشتر برای ۴ ساعت یا بیشتر؛ Hb ۷۰؛ قند ۱۸۰/۱۴۴–۱۸۰؛ Tidal ۶ mL/kg، Plateau ۳۰ یا کمتر.
 - UNVERIFIED (SD-52): دوز Hydrocortisone در 2026؛ دوز Norepinephrine؛ دوز Antibiotic FN.
+
+## فصل ۶۱ — ملاریا، Dengue، CCHF
+- ثانوی-همخوان (MSF + severemalaria.org + pocket manual WHO-based + NHS): Artesunate ۲.۴ mg/kg در ۰/۱۲/۲۴ ساعت بعد روزانه، ۳ mg/kg در کمتر از ۲۰ kg؛ AL ۴ تابلیت ۰/۸/۲۴/۳۶/۴۸/۶۰؛ Chloroquine ۲۵ mg/kg base (۶۰۰/۳۰۰/۳۰۰/۳۰۰)؛ Primaquine ۰.۲۵–۰.۵ mg/kg × ۱۴ روز (۱۵ mg)، ۰.۷۵ mg/kg هفته‌وار × ۸ در کمبود خفیف G6PD. منبع اولیه WHO → SD-53 (UNVERIFIED).
+- VERIFIED (WHO arboviral 2025 خلاصه): NSAID نه؛ Corticosteroid نه؛ Platelet پروفیلاکتیک نه در کمتر از ۵۰٬۰۰۰؛ CRT و Lactate.
