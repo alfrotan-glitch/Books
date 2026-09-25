@@ -607,3 +607,4 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - فصل ۸: منع «SBP > ۱۸۰» — ACC/AHA 2025 جدول ۱۴ آن را «نسبی» در وقت مراجعه و «فشار شدید مقاوم به تداوی» را «مطلق» می‌داند؛ جدول فصل همین را دارد → تضاد واقعی نیست (تفاوت 2013/2025 = guideline attribution).
 - ✅ فصل ۷: ESC 2021 جدول‌های ضمیمهٔ ۲۱ و ۴ (متن PDF ضمیمه) — Nitroglycerin/Nitroprusside مطابق؛ ISDN ۱→۱۰ mg/h افزوده؛ حدود K⁺/eGFR برای MRA (احتیاط، نصف دوز، قطع) درج شد.
 - ✅ فصل ۷: ESC 2021 بخش ۱۱.۱ (Wiley) — آستانه‌های رد BNP/NT-proBNP/MR-proANP در HF حاد مطابق؛ Rule-in سنی NT-proBNP افزوده شد.
+- ✅ فصل ۸: ESC 2023 ACS (PDF ehad191، جدول ۶ و ضمیمهٔ S11) — Aspirin LD ۱۵۰–۳۰۰ mg فمی/۷۵–۲۵۰ mg IV و منع مطلق سکتهٔ ایسکیمیک ۶ ماه تأیید؛ SD-99 → VERIFIED.
