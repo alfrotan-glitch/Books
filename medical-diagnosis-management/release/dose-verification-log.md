@@ -491,3 +491,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل ۷۰ — ارتریت سپتیک، SpA، Osteomyelitis
 - هیچ دوز mg نوشته نشد. VERIFIED (IDSA 2015 via Guideline Central): ۶ هفته برای NVO باکتریایی، ۳ ماه برای Brucella؛ نگه‌داشتن Antibiotic تجربی در مریض ثابت. VERIFIED (ASAS-EULAR 2022 خلاصه): NSAID تا دوز اعظمی؛ Steroid سیستمیک دراز مدت و csDMARD در Axial نه.
+
+## فصل 71
+- دوز نوشته نشد.
+
+## فصل 72
+- ثانوی-همخوان (چند خلاصهٔ AHA 2026): Tenecteplase ۰.۲۵ mg/kg اعظمی ۲۵ mg؛ Alteplase ۰.۹ mg/kg اعظمی ۹۰ mg؛ TNK ۰.۴ نه؛ فشار ۱۸۵/۱۱۰، ۱۸۰/۱۰۵، ۲۲۰/۱۲۰؛ EVT تا ۲۴ ساعت؛ SBP کمتر از ۱۴۰ پس از EVT مضر. UNVERIFIED (SD-62): سایر.

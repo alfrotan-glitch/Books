@@ -72,6 +72,7 @@
 | SD-60 | ۶۹ | ACR 2020 gout متن کامل خوانده نشد (استطباب‌های مشروط ULT، حد اعظمی Allopurinol در CKD، Febuxostat)؛ دوز NSAID/Glucocorticoid در حمله؛ دوز Colchicine پروفیلاکسی؛ EULAR 2016 مستقیم خوانده نشد؛ شیوع HLA-B*58:01 در افغانستان؛ ACR 2019 OA خوانده نشد (NSAID موضعی، Glucosamine، Opioid، دفعات Steroid داخل مفصل) | UNVERIFIED |
 | SD-61 | ۷۰ | ارتریت سپتیک: رهنمود واحد تازه نیافتم؛ حدود WBC مایع مفصل و رژیم/دوز/مدت Antibiotic نوشته نشد؛ ASAS-EULAR 2022 و IDSA 2015 فقط از خلاصه‌ها؛ دوزهای NSAID، Sulfasalazine، Biologic و رژیم‌های Osteomyelitis نوشته نشد | UNVERIFIED |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
+| SD-62 | 72 | متن اصلی AHA/ASA 2026 AIS خوانده نشد (خلاصه‌ها)؛ فهرست منع‌های Thrombolysis؛ AHA 2021 پیش‌گیری ثانوی (DAPT Loading/مدت، زمان ضد انعقاد پس از سکته)؛ AHA 2022 ICH (هدف فشار، Aspirin/Heparin) خوانده نشد | UNVERIFIED |
 
 ## B. Terminology debt
 

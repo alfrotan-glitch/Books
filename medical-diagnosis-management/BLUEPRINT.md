@@ -60,6 +60,8 @@
 | 68 | نوشته شده: SLE (EULAR 2023)؛ SD-59 |
 | 69 | نوشته شده: نقرس (ACR 2020)، OA (ACR 2019)؛ SD-60 |
 | 70 | نوشته شده: ارتریت سپتیک، Axial SpA (ASAS-EULAR 2022)، Vertebral osteomyelitis (IDSA 2015)؛ SD-61 |
+| 71 | نوشته شده: رهیافت عصبی (کجا/چه، UMN/LMN، mimics) |
+| 72 | نوشته شده: سکته و TIA (AHA/ASA 2026)؛ SD-62 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)
