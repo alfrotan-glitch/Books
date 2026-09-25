@@ -47,6 +47,8 @@
 | SD-35 | ۴۷ | تأییدنشده: فاکتور Sodium اصلاح‌شده، غلظت Dextrose پس از قند کمتر از ۲۵۰، ادامهٔ Basal insulin در جریان انفیوژن (JBDS)، محاسبهٔ دوز انتقال زیرجلدی، دوز Phosphate؛ JBDS-IP نسخهٔ جدید بررسی نشد | UNVERIFIED — OPEN |
 | SD-36 | ۴۸ | تأییدنشده: دوز Beta-blocker غیر-طوفانی (فقط secondary)، دوز قطرهٔ SSKI/Lugol (secondary)، معادل Carbimazole–MMI، مدت ATD و قطع با TRAb، آماده‌سازی Iodide پیش از جراحی، Glucocorticoid در Subacute thyroiditis و Orbitopathy، حدود سن/TSH در Subclinical، نقاط Burch–Wartofsky، نسبت T3/T4، برگشت AF | UNVERIFIED — OPEN |
 | SD-37 | ۴۸ | ETA 2018 Graves، EUGOGO 2021، ATA 2017 حاملگی خوانده نشد؛ نسخهٔ جدیدتر ATA hyperthyroidism کامل جستجو نشد | CURRENTNESS NOTE |
+| SD-38 | ۴۹ | تأییدنشده: زمان ناشتا/فاصلهٔ Levothyroxine از غذا و Iron/Calcium، افزایش ۲۰–۳۰٪ در حاملگی (secondary)، حدود TSH هر trimester، متن اصلی NICE NG145 (۲۵–۵۰ mcg و گرد کردن از منابع ثانوی)، Hydrocortisone ۱۰۰ mg هر ۸ ساعت در Myxoedema coma (Endotext secondary) | UNVERIFIED — OPEN |
+| SD-39 | ۴۹ | ETA 2013 Subclinical، ATA 2017 حاملگی، و رهنمود جدید ATA Hypothyroidism پس از 2014 کامل جستجو نشد | CURRENTNESS NOTE |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)

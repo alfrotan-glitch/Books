@@ -399,3 +399,7 @@ VERIFIED (Umpierrez et al., Diabetes Care 2024، متن PDF/PMC): Saline 0.9% ۱
 ### فصل ۴۸ — Hyperthyroidism (۲۰۲۶-۰۹-۲۵)
 
 VERIFIED (ATA 2016 متن اصلی، Sage/Duke PDF): MMI شروع ۵–۱۰ / ۱۰–۲۰ / ۳۰–۴۰ mg روزانه نظر به FT4 (۱–۱.۵ / ۱.۵–۲ / ۲–۳ × ULN)؛ PTU ۵۰–۱۵۰ mg سه بار در روز؛ طوفان (جدول ۷): PTU ۵۰۰–۱۰۰۰ mg بار اول سپس ۲۵۰ mg هر ۴ ساعت، MMI ۶۰–۸۰ mg/روز، Propranolol ۶۰–۸۰ mg هر ۴ ساعت، Hydrocortisone ۳۰۰ mg IV سپس ۱۰۰ mg هر ۸ ساعت. باقی → SD-36.
+
+### فصل ۴۹ — Hypothyroidism (۲۰۲۶-۰۹-۲۵)
+
+VERIFIED (ATA 2014 متن اصلی): Levothyroxine ۱.۶ (۱.۶–۱.۸) mcg/kg؛ ۲۵–۵۰ mcg در خفیف؛ تیتر ۱۲.۵–۲۵ mcg، TSH در ۴–۶ هفته؛ Myxoedema coma: LT4 IV بار ۲۰۰–۴۰۰ mcg سپس ۱.۶ mcg/kg × ۷۵٪؛ T3 IV بار ۵–۲۰ mcg سپس ۲.۵–۱۰ mcg هر ۸ ساعت؛ Glucocorticoid پیش از LT4. VERIFIED (برچسب FDA Synthroid): حاملگی جدید ۱.۶ / ۱.۰ mcg/kg؛ مسن/قلبی کمتر از ۱.۶ و تیتر ۶–۸ هفته. اختلاف: برچسب/Endotext بار ۳۰۰–۵۰۰ mcg. باقی → SD-38.

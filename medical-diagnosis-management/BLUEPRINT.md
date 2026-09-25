@@ -75,3 +75,4 @@ python3 tools/build.py            # PDF + DOCX + EPUB در build/
 - [x] فصل ۴۶ (دیابت) — v2.1؛ ADA 2026؛ SD-33/34
 - [x] فصل ۴۷ (DKA/HHS) — v2.1؛ Consensus 2024؛ SD-35
 - [x] فصل ۴۸ (Hyperthyroidism) — v2.1؛ ATA 2016 + مرور 2024؛ SD-36/37
+- [x] فصل ۴۹ (Hypothyroidism) — v2.1؛ ATA 2014 + NICE NG145 + FDA؛ SD-38/39
