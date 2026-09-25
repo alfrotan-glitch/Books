@@ -221,7 +221,7 @@
 |---|---|---|---|---|
 | **Tenecteplase (TNK)** | **وزن-مبنا:** <۶۰ kg = ۳۰ mg / ۶۰–۶۹ kg = ۳۵ mg / ۷۰–۷۹ kg = ۴۰ mg / ۸۰–۸۹ kg = ۴۵ mg / ≥۹۰ kg = ۵۰ mg | IV (bolus) | یک‌بار | ساده‌ترین — فقط یک bolus |
 | **Alteplase (tPA)** | **۱۵ mg bolus → ۰.۷۵ mg/kg (max ۵۰ mg) در ۳۰ دقیقه → ۰.۵ mg/kg (max ۳۵ mg) در ۶۰ دقیقه** | IV | دوامدار | این رژیم برای وزن کمتر از ۶۷ kg است؛ وزن ۶۷ kg یا بیشتر: ۱۵ mg → ۵۰ mg در ۳۰ دقیقه → ۳۵ mg در ۶۰ دقیقه (مجموع ۱۰۰ mg) — ACC/AHA 2025 جدول ۱۳ |
-| **Streptokinase (SK)** | **۱.۵ million U در ۱۰۰–۲۵۰ mL NS** | IV infusion | ۶۰ دقیقه | Fibrin-specific (TNK، Alteplase) ترجیح دارد؛ دوز SK در این نشست از منبع اولیه تأیید نشد (SD-99) |
+| **Streptokinase (SK)** | **۱.۵ million U** | IV infusion | ۳۰–۶۰ دقیقه | Fibrin-specific (TNK، Alteplase) ترجیح دارد. SK قوی Antigenic است: اگر در **۶ ماه گذشته** SK گرفته، **منع مطلق** دارد (ACCF/AHA 2013 STEMI، جدول ۵ و ۶) |
 
 **منع‌های Fibrinolysis در STEMI (ACC/AHA 2025، جدول ۱۴ — از متن رهنمود):**
 
@@ -312,6 +312,7 @@
 
 - Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
+- O'Gara PT, et al. 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction. Circulation 2013;127:e362–e425 (doi:10.1161/CIR.0b013e3182742cf6) — superseded by the 2025 guideline; used only for the Streptokinase dose and its 6-month re-exposure contraindication (Tables 5–6), which the 2025 guideline does not list.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".

@@ -16,6 +16,9 @@
 #set list(marker: text(fill: teal)[●], indent: 0.5em, body-indent: 0.65em)
 #set enum(numbering: "۱.", indent: 0.5em, body-indent: 0.65em)
 
+// ── long tables must break across pages (figures are unbreakable by default) ──
+#show figure: set block(breakable: true)
+
 // ── headings ──
 #set heading(numbering: none)
 #show heading.where(level: 1): it => {

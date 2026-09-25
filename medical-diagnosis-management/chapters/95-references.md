@@ -87,6 +87,7 @@
 
 - Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
+- O'Gara PT, et al. 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction. Circulation 2013;127:e362–e425 (doi:10.1161/CIR.0b013e3182742cf6) — superseded by the 2025 guideline; used only for the Streptokinase dose and its 6-month re-exposure contraindication (Tables 5–6), which the 2025 guideline does not list.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".
@@ -178,7 +179,7 @@
 
 ## فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
 
-- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org — ABE assessment tool and Figure 3.8 read directly.
 
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.

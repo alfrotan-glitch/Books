@@ -16,6 +16,9 @@
 #set list(marker: text(fill: teal)[●], indent: 0.5em, body-indent: 0.65em)
 #set enum(numbering: "۱.", indent: 0.5em, body-indent: 0.65em)
 
+// ── long tables must break across pages (figures are unbreakable by default) ──
+#show figure: set block(breakable: true)
+
 // ── headings ──
 #set heading(numbering: none)
 #show heading.where(level: 1): it => {
@@ -2308,7 +2311,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
     [*دوا*], [*دوز*], [*راه*], [*مدت*], [*یادداشت*],
     [**Tenecteplase (TNK)**], [**وزن-مبنا:** \<۶۰ kg = ۳۰ mg / ۶۰–۶۹ kg = ۳۵ mg / ۷۰–۷۹ kg = ۴۰ mg / ۸۰–۸۹ kg = ۴۵ mg / ≥۹۰ kg = ۵۰ mg], [IV (bolus)], [یک‌بار], [ساده‌ترین — فقط یک bolus],
     [**Alteplase (tPA)**], [**۱۵ mg bolus → ۰.۷۵ mg/kg (max ۵۰ mg) در ۳۰ دقیقه → ۰.۵ mg/kg (max ۳۵ mg) در ۶۰ دقیقه**], [IV], [دوامدار], [این رژیم برای وزن کمتر از ۶۷ kg است؛ وزن ۶۷ kg یا بیشتر: ۱۵ mg → ۵۰ mg در ۳۰ دقیقه → ۳۵ mg در ۶۰ دقیقه (مجموع ۱۰۰ mg) — ACC/AHA 2025 جدول ۱۳],
-    [**Streptokinase (SK)**], [**۱.۵ million U در ۱۰۰–۲۵۰ mL NS**], [IV infusion], [۶۰ دقیقه], [Fibrin-specific (TNK، Alteplase) ترجیح دارد؛ دوز SK در این نشست از منبع اولیه تأیید نشد (SD-99)],
+    [**Streptokinase (SK)**], [**۱.۵ million U**], [IV infusion], [۳۰–۶۰ دقیقه], [Fibrin-specific (TNK، Alteplase) ترجیح دارد. SK قوی Antigenic است: اگر در **۶ ماه گذشته** SK گرفته، **منع مطلق** دارد (ACCF/AHA 2013 STEMI، جدول ۵ و ۶)],
   ),
   caption: none,
 )
@@ -2404,6 +2407,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 == 📚 References
 - Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
+- O'Gara PT, et al. 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction. Circulation 2013;127:e362–e425 (doi:10.1161/CIR.0b013e3182742cf6) — superseded by the 2025 guideline; used only for the Streptokinase dose and its 6-month re-exposure contraindication (Tables 5–6), which the 2025 guideline does not list.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".
@@ -5055,7 +5059,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 = فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): GOLD 2025 اساس جدول‌ها؛ GOLD 2026 نشر شده (تعریف تازهٔ گروه‌ها و تشدید) — یادداشت در متن (SD-93).*
+  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): گروه‌های ABE و تداوی ابتدایی با Pocket Guide رسمی GOLD 2026 مطابقت شد؛ بخش تشدید هنوز GOLD 2025 است (SD-93).*
 ]
 == 🩺 مریض این فصل
 کاکا خان‌محمد، ۶۶ ساله، چهل سال سگرت کشیده و سال‌ها روی تنور نان کار کرده است. از سه روز تنگی نفس او بیشتر و بلغمش زرد و زیاد شده است. SpO₂ ۸۶ فیصد است. نرس اکسیجن را با بلندترین جریان وصل کرده و پس از یک ساعت مریض خواب‌آلود شده است.
@@ -5099,23 +5103,23 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
   caption: none,
 )
 #v(0.4em)
-=== ب) گروه‌های ABE (برای انتخاب تداوی ابتدایی)
+=== ب) گروه‌های ABE (برای انتخاب تداوی ابتدایی — GOLD 2026)
 #figure(
   table(columns: (auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [**], [***mMRC ۰–۱ یا CAT کمتر از ۱۰***], [***mMRC ۲ یا بیشتر، یا CAT ۱۰ یا بیشتر***],
-    [**۰ یا ۱ تشدید متوسط در سال (بدون بستری در شفاخانه)**], [**گروه A**], [**گروه B**],
-    [**۲ یا بیشتر تشدید متوسط، یا ۱ یا بیشتر تشدید با بستری در شفاخانه**], [**گروه E**], [**گروه E**],
+    [**هیچ تشدید متوسط یا شدید در سال گذشته**], [**گروه A**], [**گروه B**],
+    [**۱ یا بیشتر تشدید متوسط یا شدید در سال گذشته**], [**گروه E**], [**گروه E**],
   ),
   caption: none,
 )
 #v(0.4em)
-- **CAT (COPD Assessment Test):** ۸ سؤال، امتیاز ۰–۴۰.
+- **CAT (COPD Assessment Test):** ۸ سؤال، امتیاز ۰–۴۰. GOLD 2026 نام آن را **CAAT** گذاشته؛ امتیازها یکسان‌اند.
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  🔄 **CURRENTNESS NOTE — GOLD 2026:** گزارش GOLD 2026 معیارهای گروه A، B و E را از نو تعریف کرده، بخش تازهٔ **فعالیت مرض (Disease activity)** افزوده و می‌گوید **یک تشدید متوسط** کافی است تا تشدید تداوی ملاحظه شود (هدف: هیچ تشدید). فصل تشدید (شدت بر اساس پیشنهاد Rome) هم کاملاً بازنویسی شده. جدول بالا هنوز بر GOLD 2025 استوار است، چون متن کامل 2026 برای مطابقت خط به خط دستیاب نشد (SD-93).
+  🔄 **CURRENTNESS NOTE — GOLD 2026:** جدول بالا و جدول تداوی ابتدایی با Pocket Guide رسمی GOLD 2026 (شکل‌های ABE و 3.8) مطابقت شد: در GOLD 2025، گروه E «۲ یا بیشتر تشدید متوسط، یا ۱ تشدید با بستری» بود؛ اکنون **یک تشدید متوسط یا شدید** کافی است. هدف تداوی، **فعالیت کم مرض** یعنی هیچ تشدید است. فصل تشدید در GOLD 2026 کاملاً بازنویسی شده؛ بخش تشدید این فصل هنوز بر GOLD 2025 (Rome) استوار است و با متن 2026 مطابقت نشده (SD-93).
 ]
 - **Pre-COPD / PRISm:** اعراض یا تغییرات ساختاری با اسپیرومتری نورمال، یا FEV₁/FVC نورمال با FEV₁ پایین — در معرض خطر COPD.
 === ج) تصنیف تشدید (ECOPD — Rome proposal، GOLD 2025)
@@ -5259,7 +5263,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **Aminophylline/Theophylline وریدی توصیه نمی‌شود** (سمیت بیشتر از فایده).
 - **CRP** و **Procalcitonin** برای کاهش انتی‌بیوتیک غیرضروری کمک می‌کنند.
 - **Prednisolone ۵ روزه** به اندازهٔ ۱۴ روزه مؤثر است و ستیروئید کمتری می‌دهد.
-==== ۲. تداوی نگهدارنده (GOLD 2025)
+==== ۲. تداوی نگهدارنده (GOLD 2025؛ تداوی ابتدایی در GOLD 2026 بدون تغییر)
 **تداوی ابتدایی:**
 #figure(
   table(columns: (auto, auto),
@@ -5276,7 +5280,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 #v(0.4em)
 - ⚠️ **LABA + ICS در COPD تشویق نمی‌شود**. اگر ICS لازم است، **تداوی سه‌گانه** (LABA + LAMA + ICS) بهتر است.
 - **برای همه:** **SABA در صورت نیاز** (Salbutamol ۱۰۰ mcg MDI، ۱–۲ پاف).
-**دوزهای انهیلرها (بزرگسال):**
+**دوزهای انهیلرها (کاهلان):**
 #figure(
   table(columns: (auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -5433,7 +5437,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **ادیمای تازه** ← Cor pulmonale یا عدم کفایهٔ قلب چپ.
 - ⚠️ **تشدید دوم در ۸ هفته** ← ارزیابی مجدد تشخیص، تداوی و امراض همراه.
 == 📚 References
-- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org — ABE assessment tool and Figure 3.8 read directly.
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
 - Bhatt SP, et al. **Dupilumab for COPD with type 2 inflammation (BOREAS).** N Engl J Med. 2023;389:205–214؛ **(NOTUS).** N Engl J Med. 2024;390:2274–2283.
@@ -23632,6 +23636,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == فصل ۸ — سندروم کرونری حاد: سکته قلبی (Acute Coronary Syndrome / Myocardial Infarction)
 - Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
+- O'Gara PT, et al. 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction. Circulation 2013;127:e362–e425 (doi:10.1161/CIR.0b013e3182742cf6) — superseded by the 2025 guideline; used only for the Streptokinase dose and its 6-month re-exposure contraindication (Tables 5–6), which the 2025 guideline does not list.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".
@@ -23703,7 +23708,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - WHO. **Consolidated guidelines on tuberculosis. Module 3: Diagnosis** (GeneXpert به عنوان تست تشخیصی اولیه).
 - Harrison's Principles of Internal Medicine, 21st Ed — Approach to the Patient with Disease of the Respiratory System.
 == فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
-- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org — ABE assessment tool and Figure 3.8 read directly.
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
 - Bhatt SP, et al. **Dupilumab for COPD with type 2 inflammation (BOREAS).** N Engl J Med. 2023;389:205–214؛ **(NOTUS).** N Engl J Med. 2024;390:2274–2283.

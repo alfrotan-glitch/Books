@@ -371,7 +371,7 @@ def build_epub():
   <manifest>
 {chr(10).join(manifest)}
   </manifest>
-  <spine>
+  <spine page-progression-direction="rtl">
 {chr(10).join(spine)}
   </spine>
 </package>"""
