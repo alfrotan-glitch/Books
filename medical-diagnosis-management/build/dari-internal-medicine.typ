@@ -21306,3 +21306,284 @@ ORS و آموزش آب پاک و شستن دست با او بده.
 1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023. (خوانده نشد → SD-67.)
 2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018. (خوانده نشد → SD-67.)
 3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017. (خوانده نشد → SD-67.)
+= فصل ۷۸ — ایست قلبی و شوک
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش یازدهم — عاجل و سمیت** · *Currentness audit: **2025 AHA Guidelines for CPR and ECC — Part 9: Adult Advanced Life Support** (cpr.heart.org) و **الگوریتم ACLS 2025** مستقیم خوانده شد. مراقبت پس از ایست (هدف حرارت، فشار، اکسیجن) و دوزهای وازوپرسور در شوک → SD-68. Septic shock در فصل ۶۰، Anaphylaxis در فصل ۸۲.*
+]
+== «نبض ندارد»
+در سرویس داخله، **حاجی نورالحق** ۶۲ ساله که دیروز با درد صدر بستر شده بود، هنگام رفتن به تشناب **افتاد**. نرس فریاد می‌زند. تو اولین داکتر هستی که می‌رسی. او جواب نمی‌دهد و **به طور عادی نفس نمی‌کشد**؛ فقط گاه‌گاه یک «نفس کشیدن بریده» (Gasping) دارد.
+**ده ثانیه** وقت داری تا تصمیم بگیری. Gasping تنفس نیست.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. ایست قلبی — اصل
+**هر دقیقه بدون فشار صدر، شانس زنده ماندن را کم می‌کند.** سه کار زندگی می‌بخشد: **تشخیص زود، فشار صدر خوب، و Defibrillation زود.**
+=== تشخیص
+- **جواب نمی‌دهد + تنفس عادی ندارد (یا فقط Gasping)** → ایست قلبی. کمک بخواه، Defibrillator بخواه، **فشار صدر را شروع کن**.
+- **نبض را کمتر از ۱۰ ثانیه** بجوی. اگر مطمئن نیستی، **شروع کن**.
+=== فشار صدر با کیفیت بلند (AHA 2025)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [**], [**],
+    [**محل**], [نیمهٔ پایین استخوان صدر],
+    [**عمق**], [**حداقل ۵ cm** (۵–۶ cm)],
+    [**سرعت**], [**۱۰۰–۱۲۰ در دقیقه**],
+    [**برگشت کامل صدر**], [بلی — روی صدر تکیه نکن],
+    [**وقفه**], [**کمترین**؛ توقف برای نبض و ریتم کمتر از ۱۰ ثانیه],
+    [**بدون راه هوایی پیشرفته**], [**۳۰ فشار : ۲ تنفس**],
+    [**با راه هوایی پیشرفته**], [**۱ تنفس هر ۶ ثانیه** (۱۰ در دقیقه)، فشار بدون توقف],
+    [**فشاردهنده**], [**هر ۲ دقیقه عوض کن** (یا زودتر اگر خسته است)],
+    [**تهویه**], [**زیاد نده** (فشار داخل صدر را بلند و جریان خون را کم می‌کند)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. ریتم: شاک‌پذیر یا نه؟ (الگوریتم ACLS 2025)
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [**], [***VF / VT بی‌نبض (شاک‌پذیر)***], [***Asystole / PEA (غیر شاک‌پذیر)***],
+    [**شاک**], [**فوراً**؛ Biphasic مطابق دستگاه، **Monophasic ۳۶۰ J**؛ پس از هر شاک **۲ دقیقه CPR بدون وقفه**], [**نه**],
+    [**Epinephrine**], [**پس از ناکامی شاک‌های اول**], [**هر چه زودتر**],
+    [**دوز Epinephrine**], [**۱ mg وریدی/IO هر ۳–۵ دقیقه** (عملاً هر دو دور CPR)], [همان],
+    [**ضد Arrhythmia**], [**VF/pVT مقاوم: Amiodarone ۳۰۰ mg**، سپس **۱۵۰ mg**؛ یا **Lidocaine ۱–۱.۵ mg/kg** (دوز اول)], [—],
+    [**نه**], [Vasopressin به جای Epinephrine؛ **Epinephrine با دوز بلند**], [همان],
+  ),
+  caption: none,
+)
+#v(0.4em)
+*(دوز دوم Lidocaine → SD-68.)*
+=== علل قابل برگشت — «H و T»
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*H*], [*T*],
+    [**Hypoxia**], [**Tension pneumothorax**],
+    [**Hypovolaemia** (خون‌ریزی)], [**Tamponade** (فصل ۴)],
+    [**Hydrogen ion** (Acidosis)], [**Toxins** (فصل ۷۹–۸۱)],
+    [**Hypo/Hyperkalaemia** (فصل ۴۴)], [**Thrombosis — ریوی** (فصل ۲۲)],
+    [**Hypothermia** (فصل ۸۳)], [**Thrombosis — قلبی** (MI، فصل ۲)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**در PEA، علت را فعالانه بجوی**؛ Epinephrine تنها کافی نیست. **Ultrasound** کنار بستر (Tamponade، Pneumothorax، RV بزرگ) اگر موجود است و CPR را قطع نمی‌کند.
+=== چه وقت متوقف شویم؟
+تصمیم تیمی است: مدت، ریتم، علت، و حالت قبلی مریض. **Capnography (EtCO₂)** پایین مداوم کمک می‌کند. *(معیارهای مشخص → SD-68.)* **با فامیل با احترام و صادقانه گپ بزن.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. پس از بازگشت دوران (ROSC)
+- **ABC:** راه هوایی؛ **اکسیجن کافی ولی نه زیاد**؛ فشار کافی.
+- **ECG ۱۲ لیده:** اگر STEMI → **Cath عاجل** (فصل ۲).
+- **جلوگیری از تب و کنترول حرارت** در مریضی که بیدار نیست؛ علت را تداوی کن. *(اهداف دقیق حرارت، فشار و SpO₂ → SD-68.)*
+- **قند و تشنج** را کنترول کن (فصل ۷۳).
+- **پروگنوز عصبی را زود تعیین نکن.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۴. شوک — «فشار پایین» کافی نیست
+**شوک = نرسیدن اکسیجن کافی به انساج.** مریض ممکن است فشار عادی داشته باشد و در شوک باشد.
+**علایم Hypoperfusion:** پوست سرد و مرطوب (یا گرم در Sepsis اوایل)، **Capillary refill** بیشتر از ۳ ثانیه، **گیچی**، **ادرار کم**، و **Lactate بلند**.
+=== چهار نوع — تفریق با معاینه
+#figure(
+  table(columns: (auto, auto, auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*نوع*], [*علت‌ها*], [*JVP*], [*پوست*], [*کلید تداوی*],
+    [**Hypovolaemic**], [خون‌ریزی (فصل ۳۰)، اسهال و استفراغ (فصل ۶۳)، سوختگی (فصل ۸۲)], [**پایین**], [سرد], [**مایع یا خون**، و توقف خون‌ریزی],
+    [**Distributive**], [**Sepsis** (فصل ۶۰)، **Anaphylaxis** (فصل ۸۲)، Neurogenic، Adrenal crisis (فصل ۵۰)], [پایین یا عادی], [**گرم** (اوایل)], [مایع + Noradrenaline؛ **Adrenaline در Anaphylaxis**؛ Hydrocortisone در Adrenal],
+    [**Cardiogenic**], [**MI** (فصل ۲)، Arrhythmia، عدم کفایهٔ حاد قلب (فصل ۳)], [**بلند**، رال ریه], [سرد], [**مایع زیاد نه**؛ Inotrope؛ Revascularization],
+    [**Obstructive**], [**Tamponade**، **Tension pneumothorax**، **PE شدید** (فصل ۲۲)], [**بلند**، ریه پاک], [سرد], [**رفع انسداد**: Pericardiocentesis، کشیدن هوا، Thrombolysis],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**سه سؤال در کنار بستر:**
+1. **JVP بلند است یا پایین؟** (پر یا خالی)
+2. **پوست گرم است یا سرد؟**
+3. **ریه‌ها رال دارد یا پاک است؟**
+**Ultrasound کنار بستر** (قلب، IVC، ریه، شکم) نوع شوک را سریع‌تر روشن می‌کند.
+=== اصول
+- **دو خط وریدی بزرگ**؛ Lactate؛ قند؛ کلچر در شک به Sepsis.
+- **مایع به اندازه، و دوباره ارزیابی**: پس از هر Bolus، فشار، ادرار، ریه و JVP را ببین. **مایع زیاد در Cardiogenic می‌کشد.**
+- **Noradrenaline** وازوپرسور اول در اکثر شوک‌ها (فصل ۶۰). *(دوزها → SD-68.)*
+- **Hydrocortisone** در Adrenal crisis (فصل ۵۰) و Septic shock مقاوم (فصل ۶۰).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به حاجی نورالحق
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*دقیقه*], [*اقدام*],
+    [۰], [جواب نمی‌دهد، Gasping → **کمک + فشار صدر**],
+    [۲], [Defibrillator: **VF** → **شاک**؛ CPR فوراً ادامه یافت],
+    [۴], [هنوز VF → شاک دوم؛ **Epinephrine ۱ mg**],
+    [۶], [هنوز VF → شاک سوم؛ **Amiodarone ۳۰۰ mg**],
+    [۸], [**ROSC**],
+    [۱۰], [ECG: **ST elevation قدامی** → انتقال برای Cath؛ جلوگیری از تب],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **درس:** مریض درد صدر در سرویس **Monitor** نداشت. اگر ریتم نظارت می‌شد، VF در ثانیه‌ها دیده می‌شد.
+- **Compound (فصل ۲):** MI حاد + VF → بزرگ‌ترین علت مرگ ناگهانی در اولین ساعات.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **جواب نمی‌دهد + تنفس عادی ندارد (Gasping هم) = ایست قلبی → فشار صدر.**
+2. **عمق ۵–۶ cm، سرعت ۱۰۰–۱۲۰، برگشت کامل، وقفهٔ کمتر از ۱۰ ثانیه.**
+3. **VF/pVT: شاک اول؛ Asystole/PEA: Epinephrine زود.**
+4. **Epinephrine ۱ mg هر ۳–۵ دقیقه؛ Amiodarone ۳۰۰ سپس ۱۵۰ در VF مقاوم.**
+5. **در PEA، H و T را بجوی.**
+6. **شوک: JVP، پوست، ریه — سه سؤال برای چهار نوع.**
+7. **مایع به اندازه، و پس از هر Bolus دوباره ارزیابی کن.**
+== ⚠️ Red Flags
+- بی‌جوابی با تنفس غیرعادی.
+- پوست سرد، گیچی و ادرار کم، حتی با فشار عادی.
+- Lactate بلند.
+- JVP بلند با فشار پایین (Tamponade، PE، Cardiogenic).
+- Bradycardia یا Tachycardia شدید با فشار پایین.
+== ⏱️ مرور ۶۰ ثانیه
+1. نسبت فشار به تنفس بدون راه هوایی پیشرفته؟ ← ۳۰:۲.
+2. Epinephrine در Asystole کی؟ ← هر چه زودتر.
+3. Amiodarone در VF مقاوم؟ ← ۳۰۰ mg، سپس ۱۵۰ mg.
+4. JVP بلند + ریه پاک + فشار پایین؟ ← Obstructive (Tamponade، PE، Tension pneumothorax).
+5. چرا تهویهٔ زیاد نه؟ ← فشار داخل صدر را بلند و جریان خون را کم می‌کند.
+== 📚 References
+1. American Heart Association. 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care — Part 9: Adult Advanced Life Support. *Circulation.* 2025. cpr.heart.org.
+2. American Heart Association. Adult Cardiac Arrest Circular Algorithm. 2025.
+= فصل ۷۹ — رهیافت به مسمومیت؛ Organophosphate و Aluminium phosphide
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش یازدهم — عاجل و سمیت** · *Currentness audit: اتروپین‌سازی مطابق پروتوکول Eddleston (Lancet 2008؛ نقل در مرور BJA 2019، مستقیم خوانده شد) و Merck Manual Professional 2025 (مستقیم). شواهد Pralidoxime متناقض است (پایین). Aluminium phosphide: هیچ رهنمود رسمی خوانده نشد → SD-69. در این فصل، Class of recommendation آن‌طور که در منابع ثانوی آمده بود نقل نشده؛ فقط اعداد مستقیم.*
+]
+== «گندم‌دوا خورده»
+**ساعت ۲ شب**، **گل‌بی‌بی** ۱۹ ساله را از یک قریه آوردند. پس از جنجال خانوادگی «**دوای کرم‌کش باغ**» خورده است. **بوی تیز شبیه سیر** می‌دهد؛ **عرق** از او می‌چکد؛ **آب دهن** زیاد دارد؛ **مردمک‌ها ریزه** است؛ و ریه‌هایش پر از **رال** است. نبض **۴۸** و فشار **۷۵/۴۰**.
+در همان شب، **یک مرد جوان** را آوردند که «**تابلت گندم**» (Aluminium phosphide) خورده است: هوشیار، اما فشارش **۶۰/-** است.
+هر دو **خودکشی** بود. هر دو **در افغانستان شایع** است. یکی **پادزهر** دارد؛ دیگری ندارد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۱. رهیافت عمومی به مریض مسموم
+1. **ABC اول، پادزهر دوم.** قند را فوراً چک کن.
+2. **چه، چه وقت، چه مقدار؟** بسته یا بوتل را بخواه. از همراهان بپرس.
+3. **Toxidrome را بشناس:**
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*Toxidrome*], [*علایم*], [*مثال*],
+    [**Cholinergic**], [**مردمک ریزه**، عرق، آب دهن، **ترشحات ریه**، Bradycardia، اسهال، ادرار، ضعف و Fasciculation], [**Organophosphate**، Carbamate],
+    [**Anticholinergic**], [**مردمک گشاد**، **پوست خشک و سرخ**، تب، Tachycardia، احتباس ادرار، Delirium], [ضد حساسیت، Amitriptyline، **دانهٔ داتوره (Datura)**],
+    [**Opioid**], [**مردمک ریزه**، **تنفس کم**، خواب‌آلودگی], [Heroin، Tramadol، تریاک (فصل ۸۱)],
+    [**Sympathomimetic**], [مردمک گشاد، **عرق**، Tachycardia، فشار بلند، تب], [Methamphetamine («شیشه»)],
+    [**Sedative**], [خواب‌آلودگی با علایم حیاتی نسبتاً عادی], [Benzodiazepine],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**کلید تفریق Cholinergic از Opioid:** هر دو مردمک ریزه دارند؛ اما **ترشحات، عرق و Bradycardia** Cholinergic است.
+**کلید تفریق Anticholinergic از Sympathomimetic:** **پوست خشک** در Anticholinergic، **عرق** در Sympathomimetic.
+4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(حد زمانی و دوز → SD-69.)* **استفراغ را تحریک نکن.**
+5. **ECG** (QRS و QT)، Paracetamol level در هر خودکشی دوایی (فصل ۸۰).
+6. **هر خودکشی → ارزیابی روانی پیش از رخصت**، و با فامیل گپ بزن. **خودکشی در زنان جوان افغان** با فشار خانوادگی و خشونت همراه است؛ **با مهربانی و بدون قضاوت** بپرس و خطر خانه را ارزیابی کن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۲. مسمومیت Organophosphate
+**Acetylcholinesterase** را بند می‌کند → Acetylcholine زیاد در:
+- **Muscarinic:** مردمک ریزه، عرق، آب دهن، اشک، **ترشحات و تنگی قصبات**، Bradycardia، اسهال، استفراغ، ادرار.
+- **Nicotinic:** **Fasciculation**، **ضعف عضلات** (و تنفسی)؛ ممکن است Tachycardia و فشار بلند بسازد.
+- **CNS:** گیچی، تشنج، کوما.
+**مرگ از:** ترشحات ریه و تنگی قصبات، **ضعف عضلات تنفسی**، و کوما.
+**تشخیص بالینی است.** Cholinesterase را اگر موجود است بفرست، اما **منتظر آن نمان**.
+=== تداوی
+1. **پاک‌سازی:** کالا را بکش و پوست را با آب و صابون بشوی. **کارمندان دستکش بپوشند.**
+2. **راه هوایی:** Suction؛ اکسیجن؛ **Intubation زود** در ضعف تنفسی. **⚠️ Succinylcholine نه** (فلج طولانی).
+3. **Atropine — دوز بلند و سریع (پروتوکول Eddleston):**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*قدم*], [*کار*],
+    [**شروع**], [**Atropine ۱–۳ mg وریدی Bolus** (Merck: ۲–۳ mg؛ اطفال ۰.۰۵ mg/kg)],
+    [**هر ۵ دقیقه ارزیابی**], [صدر، نبض، فشار],
+    [**هدف ناکام شد**], [**دوز قبلی را دو چند کن** (۲ → ۴ → ۸ → ۱۶ mg …)],
+    [**هدف (اتروپین‌سازی)**], [**صدر پاک** (بدون رال منتشر)، **نبض بیشتر از ۸۰**، **فشار سیستولیک بیشتر از ۸۰ mmHg** (± پوست خشک)],
+    [**نگهداری**], [**انفیوژن: ۱۰–۲۰٪ مجموع دوز Bolus در هر ساعت**؛ تنظیم مطابق هدف],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **مردمک هدف نیست.** مردمک ممکن است ریزه بماند.
+- **Tachycardia مانع Atropine نیست** اگر صدر هنوز پر است (ممکن است از Hypoxia یا Nicotinic باشد).
+- **دوز زیاد Atropine:** Delirium، تب، **عدم صداهای روده**، احتباس ادرار، و مردمک بسیار گشاد → انفیوژن را **قطع کن** و با دوز کمتر دوباره شروع کن.
+- **رال موضعی** (یک طرف) ممکن است **Aspiration** باشد، نه ترشح؛ با آن Atropine را زیاد نکن.
+- در موارد شدید، **گرام‌ها** Atropine لازم می‌شود. **ذخیرهٔ شفاخانه را از پیش آماده کن.**
+4. **Pralidoxime (Oxime):**
+- Enzyme را پیش از «Aging» (غیرقابل برگشت شدن) دوباره فعال می‌سازد.
+- **شواهد فایده متناقض است** (مرور BJA و Merck). **اگر موجود است**، زود بده.
+- Merck: **۱–۲ g وریدی در ۱۵–۳۰ دقیقه**، سپس انفیوژن **۸ mg/kg/ساعت** (کاهل).
+- **Pralidoxime هرگز جای Atropine را نمی‌گیرد.**
+5. **Benzodiazepine** برای تشنج (فصل ۷۳).
+=== سندرم بینابینی (Intermediate syndrome)
+- **۲۴–۹۶ ساعت** پس از مسمومیت، پس از بهبود Cholinergic:
+- **ضعف گردن، عضلات قریب، و اعصاب قحفی**؛
+- **عدم کفایهٔ تنفسی ناگهانی**.
+- **مریض «خوب‌شده» را زود رخصت نکن.** قدرت خم کردن گردن را هر روز بسنج. *(زمان‌بندی دقیق → SD-69.)*
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ۳. Aluminium phosphide — «تابلت گندم»
+- برای حفظ گندم در گدام استعمال می‌شود. با آب و اسید معده، **گاز Phosphine** آزاد می‌کند که **Mitochondria** را در تمام بدن بند می‌کند.
+- **مرگ بسیار بلند** است و **پادزهر ندارد**. *(ارقام → SD-69.)*
+- **تصویر:** استفراغ، **بوی ماهی خراب یا سیر**، **شوک مقاوم** (Myocarditis)، **Arrhythmia**، **Metabolic acidosis شدید**، و ARDS. مریض اکثراً **تا آخر هوشیار** است.
+- **تداوی حمایوی است:** اکسیجن؛ مایع با احتیاط؛ وازوپرسور؛ اصلاح Acidosis؛ نظارت ECG؛ و ICU. *(پاک‌سازی معده با روغن، Magnesium و دیگر تداوی‌های پیشنهادی **شواهد محکم ندارند** → SD-69.)*
+- **Phosphine از بدن مریض و استفراغ** برای کارمندان خطرناک است: اتاق باز و تهویه.
+- **وقایه نجات‌بخش‌تر از تداوی است:** محدود ساختن فروش، و آگاهی قریه‌ها.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ↩️ برگشت به گل‌بی‌بی
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*زمان*], [*اقدام*], [*ارزیابی*],
+    [۰], [کالا کشیده، شسته؛ اکسیجن؛ Suction؛ **Atropine ۲ mg**], [صدر پر، نبض ۴۸],
+    [۵ دقیقه], [**۴ mg**], [صدر پر، نبض ۵۶],
+    [۱۰], [**۸ mg**], [رال کم، نبض ۷۴],
+    [۱۵], [**۱۶ mg**], [**صدر پاک، نبض ۹۶، فشار ۱۰۰/۶۰** ✓],
+    [], [**مجموع Bolus ۳۰ mg → انفیوژن ۳–۶ mg/ساعت** (۱۰–۲۰٪)], [],
+    [روز ۳], [**نمی‌توانست سر خود را از بالشت بلند کند**؛ تنفس سطحی], [**Intermediate syndrome** → Intubation و تهویه برای ۵ روز],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- گل‌بی‌بی زنده ماند. **پیش از رخصت**، روان‌شناس با او و مادرش (جدا از دیگران) گپ زد.
+- مرد جوان با تابلت گندم، با وجود وازوپرسور و ICU، **در ۱۲ ساعت فوت کرد.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 قواعد ماندگار
+1. **ABC اول؛ قند را چک کن؛ Toxidrome را بشناس.**
+2. **مردمک ریزه + ترشحات + Bradycardia = Organophosphate.**
+3. **Atropine: شروع ۱–۳ mg، هر ۵ دقیقه دو چند، تا صدر پاک، نبض و فشار بیشتر از ۸۰.**
+4. **هدف صدر است، نه مردمک.**
+5. **Intermediate syndrome را منتظر باش: قدرت گردن را هر روز بسنج.**
+6. **تابلت گندم پادزهر ندارد؛ حمایت و وقایه.**
+7. **هر خودکشی = ارزیابی روانی و امنیت خانه.**
+== ⚠️ Red Flags
+- ترشحات ریه و Bradycardia در مسمومیت.
+- ضعف گردن در روزهای ۱–۴ پس از Organophosphate.
+- شوک و Arrhythmia پس از خوردن تابلت گندم.
+- مسمومیت در زن حامله یا طفل.
+- هر اقدام به خودکشی.
+== ⏱️ مرور ۶۰ ثانیه
+1. سه هدف اتروپین‌سازی؟ ← صدر پاک، نبض بیشتر از ۸۰، سیستولیک بیشتر از ۸۰.
+2. اگر هدف در ۵ دقیقه نرسید؟ ← دوز را دو چند کن.
+3. انفیوژن نگهداری؟ ← ۱۰–۲۰٪ مجموع Bolus در ساعت.
+4. کدام Relaxant در OP نه؟ ← Succinylcholine.
+5. Aluminium phosphide چه پادزهر دارد؟ ← ندارد.
+== 📚 References
+1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
+2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
+3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.

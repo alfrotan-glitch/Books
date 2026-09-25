@@ -512,3 +512,9 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 
 ## فصل 77
 - هیچ دوز mg نوشته نشد (فقط اصول) → SD-67.
+
+## فصل 78
+- VERIFIED (AHA 2025 Part 9 و الگوریتم مستقیم): Epinephrine ۱ mg هر ۳–۵ دقیقه؛ Amiodarone ۳۰۰ سپس ۱۵۰ mg؛ Lidocaine ۱–۱.۵ mg/kg؛ Monophasic ۳۶۰ J؛ عمق حداقل ۵ cm، ۱۰۰–۱۲۰/min؛ ۳۰:۲؛ ۱ تنفس هر ۶ ثانیه.
+
+## فصل 79
+- VERIFIED-ثانوی (Eddleston via BJA 2019؛ Merck 2025 مستقیم): Atropine ۱–۳ mg (Merck ۲–۳؛ اطفال ۰.۰۵ mg/kg) دو چند هر ۵ دقیقه؛ هدف صدر پاک، HR و SBP بیشتر از ۸۰؛ انفیوژن ۱۰–۲۰٪/ساعت؛ Pralidoxime ۱–۲ g در ۱۵–۳۰ دقیقه، سپس ۸ mg/kg/ساعت (Merck).
