@@ -236,21 +236,37 @@ class BookPipeline:
             # Verify if native extraction actually yielded text
             total_extracted = sum(len(r.text) for r in ordered_regions)
             if total_extracted < self.config.min_native_chars:
-                # Fallback to OCR if native text was empty or corrupted
-                self.logger.info(f"Page {page_num}: Native extraction sparse ({total_extracted} chars), falling back to OCR.")
-                warnings.append("Native extraction produced minimal text; performed OCR fallback.")
+                if self.ocr_manager.is_ocr_available:
+                    self.logger.info(f"Page {page_num}: Native extraction sparse ({total_extracted} chars), falling back to OCR.")
+                    warnings.append("Native extraction produced minimal text; performed OCR fallback.")
+                    image = reader.render_page_to_numpy(page_num, dpi=self.config.ocr_dpi)
+                    ordered_regions, prep_res, method_used, ocr_confidence, ocr_warn = self.ocr_manager.process_image(
+                        image, page_num, is_rtl=is_rtl
+                    )
+                    warnings.extend(ocr_warn)
+                else:
+                    warnings.append("OCR engine not available; retained native extraction output.")
+        else:
+            # Scanned / Image / Rotated / Complex layout -> Render high-DPI image and run OCR pipeline
+            if self.ocr_manager.is_ocr_available:
                 image = reader.render_page_to_numpy(page_num, dpi=self.config.ocr_dpi)
                 ordered_regions, prep_res, method_used, ocr_confidence, ocr_warn = self.ocr_manager.process_image(
                     image, page_num, is_rtl=is_rtl
                 )
                 warnings.extend(ocr_warn)
-        else:
-            # Scanned / Image / Rotated / Complex layout -> Render high-DPI image and run OCR pipeline
-            image = reader.render_page_to_numpy(page_num, dpi=self.config.ocr_dpi)
-            ordered_regions, prep_res, method_used, ocr_confidence, ocr_warn = self.ocr_manager.process_image(
-                image, page_num, is_rtl=is_rtl
-            )
-            warnings.extend(ocr_warn)
+            else:
+                # Fallback: check if page has any native text before declaring failure
+                raw_text = page.get_text("text").strip()
+                if raw_text:
+                    ordered_regions = self.native_extractor.process_page(page, page_num, is_rtl=is_rtl)
+                    method_used = ExtractionMethod.FALLBACK
+                    ocr_confidence = 0.7
+                    warnings.append("No OCR engine available; extracted raw PDF text layer.")
+                else:
+                    raise RuntimeError(
+                        "این صفحه اسکن‌شده تصویری است اما موتور OCR فعال نیست. "
+                        "پایتون ۳.۱۴ از RapidOCR پشتیبانی نمی‌کند؛ لطفاً پایتون ۳.۱۲ استاندارد را نصب کنید."
+                    )
 
         # Perform OCR Error Detection and High-Confidence Cleaning
         for reg in ordered_regions:

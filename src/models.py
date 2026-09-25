@@ -51,6 +51,7 @@ class ExtractionMethod(str, Enum):
     OCR_TESSERACT = "OCR_TESSERACT"
     OCR_HYBRID = "OCR_HYBRID"
     FALLBACK = "FALLBACK"
+    FAILED = "FAILED"
 
 
 @dataclass

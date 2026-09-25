@@ -53,6 +53,10 @@ class OCRManager:
         self._tesseract_available = self._check_tesseract()
 
     @property
+    def is_ocr_available(self) -> bool:
+        return bool(RAPIDOCR_AVAILABLE or self._tesseract_available)
+
+    @property
     def rapid_engine(self) -> Optional[RapidOCR]:
         if not RAPIDOCR_AVAILABLE:
             return None
