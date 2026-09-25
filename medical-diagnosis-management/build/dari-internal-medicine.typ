@@ -14939,3 +14939,256 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 3. AG بلند + Osmolal gap بلند + تاری دید؟ — *Methanol.*
 4. استفراغ دوامدار، کدام اختلال؟ تداوی؟ — *Metabolic alkalosis Chloride-responsive؛ Saline + K⁺.*
 5. آیا Bicarbonate مرگ را در Acidaemia شدید با AKI کم می‌کند؟ — *BICARICU-2 (2025): نه؛ اما نیاز به KRT را کم کرد.*
+= فصل ۴۴ — اختلالات آب و Sodium: Hyponatraemia، Hypernatraemia، SIADH و Diabetes insipidus
+#block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
+  #set text(fill: rgb("#0f2744"))
+  **بخش پنجم — گرده** · *سبک v2.1 (ACTIVE / PROVISIONAL)* · *با Currentness audit (رهنمود اروپایی 2014 + شواهد 2021–2025)*
+]
+== دو خطر مخالف
+**بی‌بی زرغونه** ۷۶ ساله، که برای فشار خون Thiazide می‌خورد، با گیچی و افتادن آورده شده. Sodium او **۱۱۸ mmol/L** است. نوکریوال دو اشتباه ممکن دارد:
+1. **هیچ کار نکند** → اگر Sodium پایین‌تر رود یا مغز پُندیده باشد، اختلاج و مرگ.
+2. **خیلی سریع اصلاح کند** → پس از چند روز فلج و گنگی از **Osmotic demyelination syndrome (ODS)**.
+این فصل می‌آموزد **چه وقت سریع** (علایم شدید) و **چه وقت آهسته** (مزمن) باید رفت — و مهمتر از همه، **حد** اصلاح را.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱. Core Concept (مفهوم بنیادی)
+- **Sodium خون یک اختلال آب است، نه اختلال نمک.** Hyponatraemia اکثراً یعنی **آب زیاد نسبت به Sodium**، نه کمبود Sodium تام بدن.
+- **ADH (Vasopressin)** کلید اصلی است: آب را در گرده نگه می‌دارد. ADH زیاد (نامناسب) → Hyponatraemia؛ ADH کم یا بی‌اثر → Diabetes insipidus و Hypernatraemia.
+- **تشنگی** دفاع اصلی در مقابل Hypernatraemia است — به همین دلیل Hypernatraemia در مریضی دیده می‌شود که **نمی‌تواند آب بنوشد** (مسن، کوما، طفل).
+- مغز در مقابل تغییر Osmolality خود را **در ۴۸ ساعت** تطبیق می‌دهد → این مرز «حاد» و «مزمن» است.
+💡 **تشبیه:** حجرات مغز مثل **اسفنج در آب** هستند. آب رقیق (Hyponatraemia) → اسفنج پُف می‌کند. اگر آهسته رقیق شود، اسفنج یاد می‌گیرد مقداری از املاح خود را بیرون کند و کمتر پُف کند. حالا اگر آب را **ناگهان** دوباره غلیظ کنی، اسفنج تطبیق‌یافته **چروک و پاره** می‌شود — این ODS است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۲. Definition & Classification (تعریف و تصنیف)
+**Hyponatraemia (رهنمود اروپایی 2014 — ESE/ESICM/ERA-EDTA):**
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*محور*], [*گروه‌ها*],
+    [**شدت بیوشیمیک**], [خفیف (Mild) · متوسط (Moderate) · عمیق (Profound)],
+    [**زمان**], [**حاد:** کمتر از ۴۸ ساعت · **مزمن:** ۴۸ ساعت یا بیشتر (یا نامعلوم → مزمن فرض کن)],
+    [**علایم**], [متوسط (سردرد، گیچی، دلبدی) · **شدید** (استفراغ، دیسترس قلبی–تنفسی، خواب‌آلودگی/کوما، اختلاج)],
+    [**Osmolality و حجم**], [Hypotonic (شایع) · Isotonic/Hypertonic (Pseudo، Hyperglycaemia) · کم‌حجم/نورموحجم/پرحجم],
+  ),
+  caption: none,
+)
+#v(0.4em)
+*حدود عددی سه گروه شدت (۱۳۰–۱۳۵، ۱۲۵–۱۲۹، کمتر از ۱۲۵ mmol/L) در رهنمود اروپایی آمده اما در این نشست مستقیم از متن آن خوانده نشد → SD-30.*
+**Hypernatraemia:** Sodium بلندتر از حد نورمال لابراتوار؛ حاد/مزمن با همان مرز ۴۸ ساعت.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۳. Pathophysiology — Step-by-step
+**Hyponatraemia:**
+1. Sodium خون = نسبت Sodium قابل تبادل به **آب تام بدن**.
+2. Hyponatraemia وقتی رخ می‌دهد که آب وارد شود و **گرده نتواند آب آزاد را دفع کند** — تقریباً همیشه به خاطر **ADH**.
+3. ADH به دو دلیل ترشح می‌شود:
+- **مناسب اما «غیر اسموتیک»:** کم شدن حجم مؤثر خون (کم‌آبی، عدم کفایهٔ قلب، سیروز) — بدن حجم را بر Osmolality ترجیح می‌دهد.
+- **نامناسب (SIADH):** درد، دلبدی، دواها، مرض شش/مغز، تومور.
+4. آب از خون رقیق به داخل حجرات مغز می‌رود → **Cerebral oedema** → سردرد، استفراغ، اختلاج، **فتق مغز (Herniation)**.
+5. در ۴۸ ساعت حجرات مغز Osmolyteها را بیرون می‌کنند → پُندیدگی کم می‌شود → علایم خفیف‌تر اما **آسیب‌پذیری در مقابل اصلاح سریع**.
+6. اصلاح سریع → کشیدن آب از حجرات تطبیق‌یافته → **ODS** (اکثراً پس از ۲–۶ روز: Dysarthria، Dysphagia، Quadriparesis، Locked-in). *(زمان ۲–۶ روز از دانش عمومی کتب درسی است → SD-30.)*
+**Hypernatraemia:**
+1. ضیاع آب بیشتر از Sodium (تب، تعرق، اسهال، Diuresis اسموتیک، DI) **+ دسترسی ناکافی به آب**.
+2. آب از حجرات مغز بیرون می‌آید → حجرات چروک → اختلال شعور، خون‌ریزی داخل جمجمه (کشیدن رگ‌ها).
+**Diabetes insipidus (Arginine vasopressin deficiency/resistance):**
+- **مرکزی** (نام جدید: AVP deficiency): ADH ساخته نمی‌شود (جراحی/ترضیض/تومور هیپوفیز).
+- **گرده‌ای** (AVP resistance): گرده به ADH جواب نمی‌دهد (Lithium، Hypercalcaemia، Hypokalaemia، ارثی).
+- نتیجه: ادرار زیاد رقیق؛ اگر تشنگی و آب کافی باشد Sodium نورمال می‌ماند.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۴. Etiology & Risk Factors
+**Hyponatraemia Hypotonic — نظر به حجم:**
+#figure(
+  table(columns: (auto, auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*کم‌حجم (Hypovolaemic)*], [*نورموحجم (Euvolaemic)*], [*پرحجم (Hypervolaemic)*],
+    [استفراغ، اسهال (فصل ۳۴)], [**SIADH**], [**عدم کفایهٔ قلب** (فصل ۷)],
+    [**Thiazide** (شایع در مسن)], [Hypothyroidism (فصل ۴۹)], [**سیروز** (فصل ۳۰)],
+    [Cerebral/renal salt wasting], [**کمبود Glucocorticoid** (فصل ۵۰)], [Nephrotic syndrome، AKI/CKD پیشرفته],
+    [Addison (Mineralocorticoid)], [نوشیدن آب زیاد (Psychogenic polydipsia)، **Beer potomania/رژیم «چای و نان»**], [—],
+    [], [ورزش استقامتی], [—],
+  ),
+  caption: none,
+)
+#v(0.4em)
+**علل SIADH:** مغزی (Meningitis، ترضیض، Stroke، خون‌ریزی)، ششی (پنومونیا، **TB**)، تومور (**Small cell lung cancer**)، **دوا** (SSRIs، Carbamazepine/Oxcarbazepine، Cyclophosphamide، Opioids، **MDMA**)، درد و دلبدی پس از جراحی.
+**Hyponatraemia غیر Hypotonic:** **Hyperglycaemia** (آب را از حجرات بیرون می‌کشد)، Mannitol؛ **Pseudohyponatraemia** (Lipid یا پروتین بسیار بلند با روش غیرمستقیم).
+**Hypernatraemia:** مسن بستری/معلول، کوما، اطفال با اسهال، DI، Diuresis اسموتیک (قند بلند)، Saline یا Bicarbonate زیاد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۵. Symptoms & Signs
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*Hyponatraemia*], [*Hypernatraemia*],
+    [متوسط: سردرد، دلبدی، گیچی], [تشنگی (اگر هوشیار)],
+    [**شدید: استفراغ، خواب‌آلودگی، اختلاج، کوما، توقف تنفس**], [بی‌قراری، خواب‌آلودگی، کوما، اختلاج],
+    [مزمن «خفیف»: **افتادن، اختلال راه رفتن، تمرکز کم، کسر استخوان** — «بی‌علامت» واقعی نیست], [ضعف عضلات],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- DI: **پُرادراری** و تشنگی شدید (مخصوصاً ترجیح آب سرد)، بیدار شدن شبانه.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۶. Clinical Examination
+- **وضع حجم** — مهمترین و **غیرقابل‌اعتمادترین** معاینه: فشار ایستاده/نشسته، JVP، خشکی مخاط، اذیما، Ascites.
+- سطح شعور (GCS)، علایم عصبی بؤرهٔ.
+- علایم مرض زمینه‌ای: عدم کفایهٔ قلب، سیروز، Hypothyroidism، Addison (پیگمانتیشن، فشار پایین)، کتلهٔ ششی.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۷. Quick Differential Diagnosis
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*سؤال*], [*اگر بلی*],
+    [قند بلند است؟], [Hyponatraemia «انتقالی» — تداوی قند],
+    [Osmolality سیروم نورمال/بلند؟], [Pseudo یا Hypertonic],
+    [**Osmolality ادرار پایین** (خیلی رقیق)؟], [آب زیاد (Polydipsia) یا Solute کم (Beer potomania)],
+    [Osmolality ادرار بلند + **Sodium ادرار پایین**؟], [حجم مؤثر کم (کم‌آبی، عدم کفایهٔ قلب، سیروز)],
+    [Osmolality ادرار بلند + **Sodium ادرار بلند**؟], [SIADH، Diuretic، کمبود Glucocorticoid، Hypothyroidism، Salt wasting، CKD],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۸. Investigations — Basic → Advanced
+**پایه (پیش از تداوی — نمونه‌ها را پیش از Saline بگیر):**
+- Sodium، K⁺، Urea، Creatinine، **Glucose**، **Osmolality سیروم**.
+- **Osmolality ادرار** و **Sodium ادرار** (نمونهٔ تصادفی).
+- TSH، **Cortisol** صبحگاهی (یا تست تحریک — فصل ۵۰).
+- Lipid/پروتین اگر شک Pseudo.
+**پیشرفته:**
+- X-ray/CT سینه (تومور، TB)، تصویربرداری مغز نظر به تابلو.
+- Hypernatraemia/پُرادراری: Osmolality ادرار، **Water deprivation test** یا **Copeptin** (تحریک‌شده با Arginine یا Hypertonic saline) برای تفریق DI مرکزی، گرده‌ای و Primary polydipsia — در مرکز متخصص.
+- Calcium و K⁺ (علل DI گرده‌ای)، سطح Lithium.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۹. Diagnosis & Diagnostic Criteria
+**الگوریتم رهنمود اروپایی (خلاصه):**
+1. Hyperglycaemia را رد کن؛ تأیید Hypotonic بودن.
+2. **Osmolality ادرار:** اگر خیلی پایین → آب/Solute.
+3. **Sodium ادرار:** پایین → حجم مؤثر کم؛ بلند → بعدی.
+4. آیا Diuretic، استفراغ، Addison؟ → اگر نه، و مریض نورموحجم: **SIADH**.
+**معیارهای SIADH (اساسی):** Hyponatraemia Hypotonic، ادرار **نامناسب غلیظ**، Sodium ادرار بلند با مصرف نمک نورمال، **نورموحجم**، و **رد** Hypothyroidism، کمبود Glucocorticoid و مصرف اخیر Diuretic. *(حدود عددی Osmolality و Sodium ادرار → SD-30.)*
+⚠️ **کمبود Cortisol** دقیقاً مثل SIADH دیده می‌شود — پیش از برچسب SIADH رد کن؛ اشتباه در اینجا کشنده است.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۰. Management (تداوی)
+=== ۱۰.۱ Hyponatraemia با علایم **شدید** — حاد یا مزمن (رهنمود اروپایی 2014، تأییدشده از متن)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*قدم*], [*کار*],
+    [۱], [**۱۵۰ mL Saline 3% (Hypertonic) وریدی در ۲۰ دقیقه** (1D)],
+    [۲], [Sodium را **پس از ۲۰ دقیقه** ببین و در همان وقت **۱۵۰ mL دوم** را در ۲۰ دقیقه بده (2D)],
+    [۳], [تکرار **دو بار** یا تا **۵ mmol/L افزایش** Sodium (2D)],
+    [۴], [در واحد با مانیتورینگ نزدیک],
+    [۵], [اگر علایم بهتر شد پس از ۵ mmol/L افزایش: **Hypertonic saline را قطع کن**؛ لاین را با کمترین حجم Saline 0.9% باز نگه دار؛ تداوی مخصوص علت],
+    [۶], [**حد (Limit):** افزایش **حداکثر ۱۰ mmol/L در ۲۴ ساعت اول** و **۸ mmol/L در هر ۲۴ ساعت بعدی** تا Sodium به ۱۳۰ mmol/L برسد (1D)],
+    [۷], [Sodium را پس از ۶ و ۱۲ ساعت و بعد روزانه ببین (رهنمود)],
+  ),
+  caption: none,
+)
+#v(0.4em)
+- **فرق هدف و حد:** **هدف** = ۵ mmol/L برای رفع خطر؛ **حد** = مرزی که نباید عبور کرد.
+- **رهنمود امریکایی (Verbalis 2013):** بولوس **۱۰۰ mL** 3% (به جای ۱۵۰ mL)؛ در مریضان **پرخطر برای ODS** حد سخت‌تر **۸ mmol/L در ۲۴ ساعت اول** (**اختلاف منابع**، EJE 2025).
+- **پرخطر برای ODS:** Hypokalaemia، سوءتغذیه، **الکهولیزم**، مرض پیشرفتهٔ کبد، Sodium بسیار پایین.
+- 🔄 **کارآزمایی SALSA (2021)** بولوس سریع را با انفیوژن آهسته مقایسه کرد؛ اصلاح بیش از حد در هر دو رخ داد. **CURRENTNESS NOTE:** مطالعات مشاهده‌ای 2023–2025 پیشنهاد می‌کنند که حدهای سخت شاید بیش از حد محافظه‌کار باشند؛ رهنمود رسمی تا کنون تغییر نکرده (SD-31).
+=== ۱۰.۲ علایم **متوسط**
+- ارزیابی تشخیصی فوری، قطع دواهای عامل، تداوی علت.
+- **یک** انفیوژن ۱۵۰ mL Saline 3% در ۲۰ دقیقه پیشنهاد می‌شود (2D)؛ هدف حدود ۵ mmol/L در ۲۴ ساعت؛ همان حدود ۱۰/۸.
+=== ۱۰.۳ بدون علایم شدید/متوسط — مزمن (تداوی نظر به علت)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*نوع*], [*تداوی*],
+    [**کم‌حجم**], [**Saline 0.9%** یا محلول کریستالوئید متوازن — ⚠️ با برگشت حجم، ADH قطع می‌شود و **Sodium ناگهان بلند می‌رود** (Aquaresis) → مانیتور ادرار و Sodium],
+    [**SIADH**], [**محدودیت مایع** خط اول؛ خط دوم (رهنمود اروپایی): **Urea فمی** یا Loop diuretic با نمک فمی (دوز → SD-30)؛ **Lithium و Demeclocycline نه** (1D)؛ Vaptan: در متوسط نه (1C)، در عمیق نه (رهنمود اروپایی)؛ رهنمود امریکایی نقش محدود قایل است (**اختلاف منابع**)],
+    [**پرحجم** (عدم کفایهٔ قلب، سیروز)], [محدودیت مایع و تداوی مرض اصلی (فصل ۷، ۳۰)؛ Saline نه],
+    [**Thiazide**], [قطع دایمی],
+    [**کمبود Glucocorticoid / Hypothyroidism**], [Hydrocortisone / Levothyroxine (فصل ۴۹–۵۰)],
+    [خفیف], [تداوی تنها برای بلند کردن عدد پیشنهاد نمی‌شود (2C) — اما علت را پیدا کن],
+  ),
+  caption: none,
+)
+#v(0.4em)
+=== ۱۰.۴ اصلاح بیش از حد (Overcorrection)
+- اگر Sodium بیشتر از **۱۰ mmol/L در ۲۴ ساعت اول** یا **۸ mmol/L در هر ۲۴ ساعت بعد** بلند رفت → **فوراً پایین آوردن دوباره** (1D): قطع مایعات Sodium‌دار، **آب بدون املاح** (فمی یا Dextrose 5% وریدی)، و **Desmopressin** با مشورهٔ متخصص (دوزها → SD-30).
+=== ۱۰.۵ Hypernatraemia
+- **آب را جبران کن**: فمی/NG ترجیح دارد؛ وریدی Dextrose 5% (یا Hypotonic).
+- **مزمن:** آهسته پایین بیاور (خطر Cerebral oedema)؛ **حاد** (مثلاً ساعت‌ها) را می‌توان سریعتر اصلاح کرد. 🔒 سرعت دقیق اصلاح و فورمول کمبود آب از منبع اولیه تأیید نشد → **SD-30**.
+- علت: دسترسی به آب، تب، اسهال، قند، DI.
+=== ۱۰.۶ Diabetes insipidus
+- **مرکزی (AVP deficiency):** **Desmopressin** (فمی، زیر زبانی، بینی، زرقی). ⚠️ خطر **Hyponatraemia** با Desmopressin — به مریض بگو فقط وقتی تشنه است بنوشد؛ Sodium را منظم ببین. 🔒 دوز → SD-30.
+- **گرده‌ای:** علت را رفع کن (Lithium، Calcium، K⁺)؛ غذای کم‌نمک/کم‌پروتین؛ Thiazide (به شکل متناقض ادرار را کم می‌کند)؛ متخصص.
+- مریض DI که **نمی‌تواند بنوشد** (کوما، جراحی) → Hypernatraemia خطرناک؛ مایع وریدی و Desmopressin با دقت.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۱. Complications (اختلاطات)
+#figure(
+  table(columns: (auto, auto),
+    stroke: 0.5pt + rgb("#9fb8bb"),
+    inset: (x: 5pt, y: 4pt),
+    fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
+    [*اختلاط*], [*زمینه*],
+    [**Cerebral oedema، اختلاج، Herniation**], [Hyponatraemia حاد شدید],
+    [**Osmotic demyelination syndrome**], [اصلاح سریع Hyponatraemia مزمن],
+    [افتادن، کسر، اختلال حافظه], [Hyponatraemia مزمن «خفیف»],
+    [خون‌ریزی داخل جمجمه], [Hypernatraemia شدید حاد],
+    [Cerebral oedema], [اصلاح سریع Hypernatraemia مزمن],
+  ),
+  caption: none,
+)
+#v(0.4em)
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔹 ۱۲. Prognosis & Follow-up
+- Hyponatraemia نشانهٔ پیش‌بینی بد در عدم کفایهٔ قلب، سیروز و پنومونیا است — عدد، شدت مرض زمینه‌ای را نشان می‌دهد.
+- بعد از رخصت: Sodium را در چند روز تکرار کن؛ دواهای عامل را در لست حساسیت/احتیاط بنویس (Thiazide، SSRI).
+- SIADH بدون علت روشن → جستجوی تومور (سینه).
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 💡 Memory Joggers
+- 💡 **«Sodium = مشکل آب؛ حجم = مشکل Sodium.»**
+- 💡 **«۱۵۰ در ۲۰، دو بار، تا ۵»** — بولوس اروپایی.
+- 💡 **«۱۰ بعد ۸»** — حد اصلاح در ۲۴ ساعت اول و هر ۲۴ ساعت بعد.
+- 💡 **«SIADH تشخیص حذفی است — اول Cortisol، TSH و Diuretic.»**
+- 💡 **ODS:** «**From low to high, the pons will die**».
+- 💡 **Hypernatraemia = کسی که نمی‌تواند آب بنوشد.**
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⚠️ Red Flags
+- ⚠️ Hyponatraemia با **استفراغ، خواب‌آلودگی، اختلاج** → Saline 3% فوراً.
+- ⚠️ **ادرار زیاد رقیق** در جریان تداوی (Aquaresis) → Sodium هر چند ساعت؛ خطر اصلاح بیش از حد.
+- ⚠️ الکهولیزم، سوءتغذیه، Hypokalaemia، مرض کبد → حد اصلاح سخت‌تر.
+- ⚠️ فشار پایین + Hyponatraemia + K⁺ بلند → **Addisonian crisis** (فصل ۵۰).
+- ⚠️ مریض بعد از جراحی هیپوفیز با پُرادراری → DI.
+- ⚠️ مسن کوماتوز با Sodium بلند → کمبود شدید آب؛ انتان را جستجو کن.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 📚 References
+1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39) — (توصیه‌های ۷.۱–۷.۵ از متن خوانده شد).
+2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013 — (به نقل از منابع ۳ و ۴؛ متن اصلی خوانده نشد).
+3. Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol*. 2025;192(6):754 — (اختلاف ۸ در مقابل ۱۰ mmol/L؛ ۱۰۰ در مقابل ۱۵۰ mL).
+4. Treatment of symptomatic hyponatremia with hypertonic saline: a real-life observational study. *Eur J Endocrinol*. 2021;184(5):647.
+5. Danish I. *Short Textbook of Medical Diagnosis and Management* — اسکلیت.
+**Currentness audit (۲۰۲۶-۰۹-۲۵):** رهنمود اروپایی 2014 هنوز مرجع رسمی است؛ مرور 2025 (EJE) اختلاف عمل در اروپا را نشان داد. نام‌گذاری جدید DI (AVP deficiency/resistance) در متن آمد. **CURRENTNESS NOTE (SD-31):** جستجوی نسخهٔ جدید رهنمود اروپایی و بحث حدود اصلاح پس از 2023 کامل نشد؛ متن SALSA اصلی خوانده نشد.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🎯 قدم کوچک در کنار بستر
+1. **نمونهٔ Osmolality و Sodium ادرار را پیش از هر مایع** بگیر.
+2. Sodium را روی یک **جدول وقت‌دار** بنویس — ساعت و مقدار — تا اصلاح بیش از حد را زود ببینی.
+3. ادرار ساعتی را در مریض تحت تداوی ثبت کن.
+4. پیش از «SIADH» نوشتن، Cortisol و TSH فرستاده‌ای؟
+5. لست دواها: Thiazide، SSRI، Carbamazepine.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== 🔗 اتصال به فصل‌ها
+- **فصل ۷:** عدم کفایهٔ قلب · **فصل ۳۰:** سیروز · **فصل ۳۴:** اسهال.
+- **فصل ۳۷:** Nephrotic syndrome · **فصل ۴۲:** K⁺ و Calcium (علل DI گرده‌ای).
+- **فصل ۴۷:** Hyperglycaemia و Sodium اصلاح‌شده.
+- **فصل ۴۹:** Hypothyroidism · **فصل ۵۰:** کمبود Cortisol.
+#block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
+== ⏱️ مرور ۶۰ ثانیه
+1. Sodium ۱۱۵ با اختلاج — تداوی؟ — *۱۵۰ mL Saline 3% در ۲۰ دقیقه، Sodium را ببین، تکرار تا دو بار یا ۵ mmol/L افزایش.*
+2. حد اصلاح؟ — *حداکثر ۱۰ mmol/L در ۲۴ ساعت اول، ۸ در هر ۲۴ ساعت بعد (پرخطر: ۸ در روز اول — رهنمود امریکایی).*
+3. Osmolality ادرار بلند + Sodium ادرار پایین؟ — *حجم مؤثر کم.*
+4. سه تشخیص که پیش از SIADH رد می‌شوند؟ — *کمبود Glucocorticoid، Hypothyroidism، Diuretic.*
+5. Sodium پس از Saline در مریض کم‌آب در ۶ ساعت ۹ mmol/L بلند رفت — چرا؟ — *حجم برگشت، ADH قطع شد، Aquaresis؛ مایع را تعدیل کن و خطر Overcorrection را مدیریت کن.*

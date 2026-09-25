@@ -383,3 +383,7 @@ VERIFIED (متن رهنمود اولیه): Calcium gluconate 10% ۳۰ mL در ۱
 ### فصل ۴۳ — اسید–قلوی (۲۰۲۶-۰۹-۲۵)
 
 هیچ دوز دوایی عددی وارد نشد → SD-29 UNVERIFIED. نتایج BICAR-ICU (خلاصهٔ WikiJournalClub) و BICARICU-2 (خلاصهٔ The Bottom Line) = secondary، ثبت در SD-29.
+
+### فصل ۴۴ — آب و Sodium (۲۰۲۶-۰۹-۲۵)
+
+VERIFIED (متن رهنمود اروپایی 2014، توصیه‌های ۷.۱–۷.۵): Saline 3% ۱۵۰ mL در ۲۰ دقیقه، تکرار تا دو بار یا +۵ mmol/L؛ حد ۱۰ mmol/L در ۲۴ ساعت اول و ۸ در هر ۲۴ ساعت بعد تا ۱۳۰؛ علایم متوسط: یک بولوس ۱۵۰ mL؛ مخالفت با Lithium/Demeclocycline. بولوس امریکایی ۱۰۰ mL و حد ۸ در پرخطر = secondary (EJE 2021/2025). باقی → SD-30.

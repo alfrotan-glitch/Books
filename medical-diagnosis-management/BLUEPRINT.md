@@ -70,3 +70,4 @@ python3 tools/build.py            # PDF + DOCX + EPUB در build/
 - صفحات پیش: شمارگان رومی (i, ii...)؛ بدنه: ۱, ۲, ۳...
 - گلاساری واحد اصطلاحات: `glossary.csv` — اسکن با `scripts/terminology_scanner.py` (از skill)
 - [x] فصل ۴۳ (اسید–قلوی) — v2.1؛ BICARICU-2 2025؛ SD-29
+- [x] فصل ۴۴ (آب و Sodium) — v2.1؛ رهنمود اروپایی 2014؛ SD-30/31

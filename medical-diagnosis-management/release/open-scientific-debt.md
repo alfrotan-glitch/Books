@@ -39,6 +39,8 @@
 | SD-27 | ۴۲ | دوزهای تأییدنشده: KCl وریدی/فمی (غلظت و سرعت حداکثر)، Potassium binders (SZC، Patiromer)، Calcium با Digoxin، حجم Saline در Hypercalcaemia، Glucocorticoid/Calcitonin/Denosumab، Magnesium sulfate، Phosphate، Calcium فمی و Vitamin D؛ «بیش از ۹۰ فیصد» علل Hypercalcaemia بدون منبع اولیه؛ عدد دوزی وارد نشد | UNVERIFIED — OPEN |
 | SD-28 | ۴۲ | نسخهٔ جدیدتر از 2016 برای رهنمودهای عاجل Society for Endocrinology جستجو نشد؛ مقایسه با KDIGO/ERC انجام نشد | CURRENTNESS NOTE |
 | SD-29 | ۴۳ | دوزهای Sodium bicarbonate، Fomepizole/Ethanol، Folinic acid، Acetazolamide و آستانه‌های دیالیز در الکهول‌های سمی تأیید نشد؛ حد نورمال Anion gap و فاکتور اصلاح Albumin از منبع اولیه نیامد؛ فورمول‌های جبران از منابع آموزشی ثانوی؛ BICARICU-2 فقط از خلاصهٔ ثانوی (متن اصلی خوانده نشد) | UNVERIFIED — OPEN |
+| SD-30 | ۴۴ | تأییدنشده: حدود عددی شدت Hyponatraemia (۱۳۰/۱۲۵)، زمان ODS، حدود Osmolality/Sodium ادرار در SIADH، دوز Urea/Desmopressin/Loop+نمک، سرعت اصلاح Hypernatraemia و فورمول کمبود آب؛ عدد دوزی وارد نشد | UNVERIFIED — OPEN |
+| SD-31 | ۴۴ | نسخهٔ جدید رهنمود اروپایی Hyponatraemia و شواهد 2023–2025 دربارهٔ حدود اصلاح کامل جستجو نشد؛ SALSA و Verbalis 2013 فقط از منابع ثانوی | CURRENTNESS NOTE |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
