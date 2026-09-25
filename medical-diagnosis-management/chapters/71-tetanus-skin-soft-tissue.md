@@ -1,6 +1,6 @@
 # فصل ۷۱ — Tetanus و انتانات جلد و نسج نرم
 
-> **بخش دهم — انتانات** · *Currentness audit: Tetanus — CDC و AAP Red Book (از طریق CDPH Tetanus Quicksheet، می ۲۰۲۶): TIG تداوی ۵۰۰ IU و پروفیلاکسی ۲۵۰ U. Metronidazole و Magnesium از Medscape (ثانوی) → SD-57. SSTI — اصول IDSA Practice Guideline for SSTI (Stevens DL et al., CID 2014)؛ متن اصلی خوانده نشد و **دوز Antibiotic نوشته نشد** → SD-57. رهنمود بین‌المللی تازه‌تری برای SSTI یافت نشد.*
+> **بخش دهم — انتانات**
 
 ## یک میخ زنگ‌زده و یک زخم پا
 
@@ -33,18 +33,18 @@
 2. **خنثی کردن توکسین آزاد — TIG (Human tetanus immunoglobulin):** **۵۰۰ IU عضلی یک دوز، فوراً** (CDC و AAP Red Book). بخشی از دوز ممکن است دور زخم زرق شود. اگر TIG نیست، IVIG قابل بررسی است (CDC).
 3. **از بین بردن منبع توکسین:**
    - **پاک‌کاری و Debridement زخم**؛
-   - **Metronidazole** بر Penicillin ترجیح دارد، چون Penicillin هم مانند توکسین، اثر GABA را مهار می‌کند (Medscape). *(دوز → SD-57.)*
+   - **Metronidazole** بر Penicillin ترجیح دارد، چون Penicillin هم مانند توکسین، اثر GABA را مهار می‌کند (Medscape). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 4. **کنترول اسپاسم و اتونوم:**
    - Benzodiazepine؛
    - **Magnesium sulphate** وریدی: اسپاسم و بی‌ثباتی قلبی–عروقی را کم می‌کند، اما نیاز به تنفس مصنوعی را کم نمی‌سازد.
    - با Magnesium، **Reflex زانو** را نظارت کن. فقدان آن یعنی دوز را کم کن.
-   - *(دوزهای Benzodiazepine و Magnesium → SD-57؛ پروتوکول ICU.)*
+   - *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 5. **واکسین:** **Tetanus مصونیت نمی‌سازد.** دورهٔ کامل واکسین Td را شروع کن، در محل جدا از TIG.
 
 **تغذیه، جلوگیری از زخم بستر و VTE (فصل ۱۴)، و حمایت روانی** — مریض هوشیار است و هفته‌ها درد می‌کشد.
 
 ### ۴. جلوگیری در زخم تازه — مهم‌ترین درس
-*(CDC؛ از طریق CDPH Quicksheet. جزئیات جدول → SD-57.)*
+
 
 | سابقهٔ واکسین | زخم پاک و کوچک | زخم دیگر (خاک، فضله، بزاق، نفوذی عمیق، له‌شده، سوختگی) |
 |---|---|---|
@@ -69,7 +69,7 @@
 | **Necrotizing fasciitis** | درد **بسیار شدیدتر از ظاهر**، سریع‌پیشرونده، بی‌حسی، تاول، رنگ بنفش یا سیاه، کرپیتیشن، سپسیس | **جراحی عاجل** + Antibiotic وسیع‌الطیف + احیا (فصل ۶۷) |
 | **پای دیابتی انتانی** | زخم، چرک، سرخی، استخوان قابل لمس | فصل ۴۶؛ Osteomyelitis را رد کن |
 
-*(اصول از IDSA 2014؛ دوزها → SD-57.)*
+ *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 ### ۲. Necrotizing fasciitis — «نسرین» را از دست نده
 - **سرنخ‌های سرخ:**
@@ -80,7 +80,7 @@
   - **سپسیس یا شوک**.
 - **تشخیص با جراحی است.** CT ممکن است کمک کند، اما **هرگز جراحی را به تأخیر نیندازد**. نسج مرده فقط با برداشتن جراحی خوب می‌شود. Antibiotic به آن نمی‌رسد.
 - **عوامل خطر:** دیابت، سیروز، Immunosuppression، و زرق مواد.
-- **تداوی:** **Debridement جراحی عاجل و مکرر** + Antibiotic وسیع‌الطیف تجربی (پوشش Streptococcus، Staphylococcus شامل MRSA، Gram-negative و Anaerobe؛ IDSA) + احیای سپسیس (فصل ۶۷). *(رژیم و دوز → SD-57.)*
+- **تداوی:** **Debridement جراحی عاجل و مکرر** + Antibiotic وسیع‌الطیف تجربی (پوشش Streptococcus، Staphylococcus شامل MRSA، Gram-negative و Anaerobe؛ IDSA) + احیای سپسیس (فصل ۶۷). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 ### ۳. Cellulitis — دام‌ها
 - **Cellulitis دو‌طرفه نادر است.** سرخی هر دو پا اکثراً **Stasis dermatitis**، اکزیما یا Lipodermatosclerosis است. Antibiotic لازم نیست.
@@ -128,5 +128,5 @@
 
 ## 📚 References
 1. California Department of Public Health. Tetanus Quicksheet (بر اساس CDC و AAP Red Book). 2026.
-2. Medscape. Tetanus Treatment & Management. 2025. (ثانوی؛ Metronidazole و Magnesium → SD-57.)
-3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52. (متن اصلی خوانده نشد → SD-57.)
+2. Medscape. Tetanus Treatment & Management. 2025.
+3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52.

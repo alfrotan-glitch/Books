@@ -288,7 +288,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 7. **INR > ۵ با خونریزی** در مریض دریچهٔ مصنوعی ← Vitamin K + جایگزینی فکتورها با مشورهٔ قلب (→ فصل ۶۴).
 
 ## 📚 References
-- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). AS, primary MR and AR intervention rows checked against Tables 3–4 (New/Revised recommendations) of the guideline text (2026-09-25). CURRENTNESS NOTE: MS and secondary MR rows not yet line-checked against the full 2025 section text.
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y).
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.

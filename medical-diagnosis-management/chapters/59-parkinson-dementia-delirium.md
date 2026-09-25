@@ -1,6 +1,6 @@
 # فصل ۵۹ — Parkinson، Dementia و Delirium: مغز سالخورده
 
-> **بخش هشتم — نورولوژی** · *Currentness audit: اصول از NICE NG71 (Parkinson's disease، 2017)، NICE NG97 (Dementia، 2018)، و NICE CG103 (Delirium، به‌روز ۲۰۲۳)، و معیارهای MDS برای Parkinson. **در این جلسه هیچ‌کدام مستقیم خوانده نشد** → SD-67. فصل دوز mg ندارد؛ اصول و خطرها را درس می‌دهد.*
+> **بخش هشتم — نورولوژی**
 
 ## «پدرم دیوانه شده»
 
@@ -30,7 +30,7 @@
 ## ۲. Delirium — عاجل پنهان
 - **شایع** در سالخوردگان شفاخانه، پس از جراحی، و در ICU؛ **خطر مرگ را بالا می‌برد**.
 - **Hypoactive** (خواب‌آلود و آرام) بیشتر از **Hyperactive** (بی‌قرار) **از دست می‌رود**.
-- **تشخیص:** شروع حاد و نوسان + **اختلال توجه** (مثلاً ماه‌های سال را از آخر به اول بگوید) + فکر پراکنده یا تغییر شعور. *(ابزارهای 4AT و CAM → SD-67.)*
+- **تشخیص:** شروع حاد و نوسان + **اختلال توجه** (مثلاً ماه‌های سال را از آخر به اول بگوید) + فکر پراکنده یا تغییر شعور.
 
 ### علت را بجوی — اکثراً چند علت با هم
 | گروه | مثال |
@@ -48,7 +48,7 @@
 ### تداوی
 1. **علت‌ها را تداوی کن**؛ دواهای مضر را قطع کن.
 2. **غیر دوایی (اصل تداوی):** فامیل در کنار؛ ساعت و نور روز؛ **عینک و سمعک**؛ آب و غذا؛ حرکت؛ خواب شب؛ **مریض را به بستر نبند (Physical restraint)**.
-3. **دوای ضد روانی** فقط وقتی مریض برای خود یا دیگران **خطرناک** است یا بسیار پریشان است، با **کمترین دوز و کوتاه‌ترین مدت**. *(دوز → SD-67.)*
+3. **دوای ضد روانی** فقط وقتی مریض برای خود یا دیگران **خطرناک** است یا بسیار پریشان است، با **کمترین دوز و کوتاه‌ترین مدت**. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
    - **⚠️ در Parkinson و Lewy body dementia، Haloperidol و ضد روانی‌های قوی نه** — سختی شدید و حتی مرگ.
 4. **Benzodiazepine** Delirium را بدتر می‌کند؛ **فقط در قطع الکول یا Benzodiazepine**.
 
@@ -63,7 +63,7 @@
   - **دواها**.
 - **تست‌ها:** CBC، الکترولیت‌ها، Calcium، کارکرد گرده و کبد، TSH، B12؛ تصویربرداری مغز.
 - **تداوی:**
-  - **Cholinesterase inhibitor** (Donepezil، …) در Alzheimer خفیف تا متوسط، و در Lewy body. **Memantine** در متوسط تا شدید. *(دوزها و معیارها → SD-67.)*
+  - **Cholinesterase inhibitor** (Donepezil، …) در Alzheimer خفیف تا متوسط، و در Lewy body. **Memantine** در متوسط تا شدید. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
   - **مهم‌تر از دوا:** حمایت فامیل، ایمنی خانه، تصمیم‌های قانونی زودتر، و **حمایت از مراقب** (خسته شدن مراقب شایع است).
 - **فرهنگ افغانی:** فامیل بزرگ مراقبت را **نعمت** می‌داند، اما اکثراً **Dementia را «پیری» یا «جادو»** می‌پندارد. توضیح بده که **مرض مغز** است.
 
@@ -78,7 +78,7 @@
   - **Levodopa** (با Carbidopa یا Benserazide) مؤثرترین دواست.
   - Dopamine agonist و MAO-B inhibitor بدیل‌ها در جوانان‌اند.
   - Dopamine agonist با **اختلال کنترول تکانه** (قمار، خرید) همراه است؛ از مریض و فامیل بپرس.
-  - *(دوزها → SD-67.)*
+  - *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **⚠️ Levodopa را ناگهان قطع نکن** (مثلاً هنگام جراحی یا NPO): خطر **سختی شدید و تب** شبیه Neuroleptic malignant syndrome. اگر بلع نمی‌شود، راه بدیل پیدا کن.
 - **در شفاخانه:** دوای Parkinson را **سر وقت** بده. تأخیر حتی چند ساعته مریض را بی‌حرکت می‌کند.
 - **ضد استفراغ در Parkinson:** Metoclopramide و Haloperidol نه؛ **Domperidone** *(احتیاط QT)*.
@@ -122,6 +122,6 @@
 5. Parkinsonism دوایی شایع در افغانستان؟ ← Metoclopramide.
 
 ## 📚 References
-1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023. (خوانده نشد → SD-67.)
-2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018. (خوانده نشد → SD-67.)
-3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017. (خوانده نشد → SD-67.)
+1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023.
+2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018.
+3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017.

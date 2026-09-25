@@ -1,6 +1,6 @@
 # فصل ۲۹ — اسهال حاد، Rehydration و یبوست (Acute Diarrhoea, Rehydration & Constipation)
 
-> **بخش چهارم — سیستم هضمی** · *با Currentness audit (2025/2026). این فصل تنها جایگاه اسهال حاد در کتاب است (شامل Cholera و دیزانتری با رهنمود GTFCC)؛ اسهال مزمن → فصل ۳۰، IBD → فصل ۲۸.*
+> **بخش چهارم — سیستم هضمی**
 
 ## مریضی که آب بدنش از دست می‌رفت
 
@@ -340,7 +340,7 @@
 
 - **چرا این‌قدر مهم؟** در شکل شدید، بدون تداوی تا **۵۰ فیصد** مریضان می‌میرند؛ با تداوی درست، **هیچ کس نباید از Dehydration بمیرد**. حدود **۸۰ فیصد** مبتلایان علایم ندارند اما تا **۱۴ روز** باکتری را دفع می‌کنند؛ از علامه‌داران حدود **۲۰ فیصد** Dehydration شدید پیدا می‌کنند (GTFCC Field Manual).
 - **چند نفر از یک قریه با اسهال آبکی شدید** → Cholera تا خلاف آن ثابت شود → **در همان روز به نظارت امراض اطلاع بده**؛ RDT و نمونهٔ کلچر.
-- **Plan C در طفل کوچک‌تر از یک سال:** همان ۱۰۰ mL/kg، اما در **۶ ساعت** (نه ۳). بدیل Ringer lactate: Saline نورمال، Glucose ۵ فیصد در Saline نورمال، یا Cholera saline — **Glucose ۵ فیصد خالص نه**. تقسیم ۳۰/۷۰ از جدول تصویری GTFCC مستقیم خوانده نشد و بر منابع مبتنی بر WHO استوار است (SD-55).
+- **Plan C در طفل کوچک‌تر از یک سال:** همان ۱۰۰ mL/kg، اما در **۶ ساعت** (نه ۳). بدیل Ringer lactate: Saline نورمال، Glucose ۵ فیصد در Saline نورمال، یا Cholera saline — **Glucose ۵ فیصد خالص نه**.
 - **هر ۱۵–۳۰ دقیقه** ارزیابی کن؛ شاید بیشتر از یک خط وریدی لازم باشد. **اگر خط وریدی ممکن نیست** و مریض نمی‌نوشد: ORS از راه **Nasogastric tube** (نه در مریض استفراغ‌کننده) تا خط وریدی پیدا شود.
 - **عوارض تداوی:** Pulmonary oedema از مایع زیاد (مسن، مریض قلبی — شش‌ها را هر بار بشنو)؛ AKI از مایع کم؛ Hypoglycaemia و Hypokalaemia، به ویژه در طفل Malnourished که فقط Ringer lactate می‌گیرد.
 - **رخصت (GTFCC)** وقتی: علایم Dehydration ندارد، ORS را بدون استفراغ می‌نوشد، **۴ ساعت بدون اسهال آبکی** است، بدون کمک راه می‌رود، و ادرار دارد. ORS و آموزش آب پاک و شستن دست با او بده.
@@ -382,9 +382,9 @@
 | **Fidaxomicin — رژیم طولانی** | ۲۰۰ mg دو بار روزانه در روزهای ۱–۵، بعد ۲۰۰ mg یک بار در روزهای یک‌درمیان از روز ۷ تا ۲۵ | خطر بلند عود، به‌خصوص مسن‌ها بستری | ESCMID 2021 |
 | **Vancomycin (فمی)** | **۱۲۵ mg PO چهار بار روزانه برای ۱۰ روز** | بدیل قابل قبول وقتی Fidaxomicin موجود نیست | IDSA/SHEA 2021 |
 | **Metronidazole** | — | **فقط** در CDI غیرشدید وقتی Vancomycin فمی و Fidaxomicin موجود نیستند | IDSA/SHEA 2021؛ ESCMID 2021 |
-| **CDI فولمیننت** (شوک، Ileus، توسع کولون) | Vancomycin فمی با دوز بلندتر + Metronidazole IV؛ مشورهٔ جراحی | دوز دقیق را از رهنمود IDSA/SHEA مرکز خود بگیر | IDSA/SHEA 2017 (دوز در این فصل عمداً ذکر نشده — SD-07) |
+| **CDI فولمیننت** (شوک، Ileus، توسع کولون) | Vancomycin فمی با دوز بلندتر + Metronidazole IV؛ مشورهٔ جراحی | دوز دقیق را از رهنمود IDSA/SHEA مرکز خود بگیر | IDSA/SHEA 2017 *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)* |
 
-**🔄 Currentness 2025:** **Bezlotoxumab (Zinplava)** که IDSA/SHEA 2021 و ACG 2021 برای پیشگیری از عود پیشنهاد کرده بودند، **در جنوری 2025 توسط شرکت سازنده (Merck) متوقف شد** و دیگر در بازار نیست (ASHP Drug Shortage؛ FDA Drug Shortages). برای عودهای مکرر، **Faecal microbiota transplantation (FMT)** گزینهٔ اصلی باقی می‌ماند (ESCMID 2021).
+**🔄 به‌روزرسانی 2025:** **Bezlotoxumab (Zinplava)** که IDSA/SHEA 2021 و ACG 2021 برای پیشگیری از عود پیشنهاد کرده بودند، **در جنوری 2025 توسط شرکت سازنده (Merck) متوقف شد** و دیگر در بازار نیست (ASHP Drug Shortage؛ FDA Drug Shortages). برای عودهای مکرر، **Faecal microbiota transplantation (FMT)** گزینهٔ اصلی باقی می‌ماند (ESCMID 2021).
 
 **Vancomycin وریدی برای CDI کار نمی‌کند** چون به داخل روده ترشح نمی‌شود. فقط شکل فمی (یا از راه رکتوم در Ileus) مؤثر است.
 
@@ -395,7 +395,7 @@
 | **Metronidazole** | **۷۵۰ mg PO سه بار روزانه برای ۵–۱۰ روز** | امیبیازیس روده‌ای حاد (دیزانتری امیبی) | **Child-Pugh C: ۳۷۵ mg هر ۸ ساعت برای ۵–۱۰ روز**. در همودیالیز، اگر دوز با دیالیز هم‌زمان شود، دوز اضافی پس از دیالیز را در نظر بگیر. با الکول مصرف نشود | برچسب FDA Flagyl (بازنگری 07/2025) |
 | **Tinidazole** | **۲ g PO روزانه برای ۳ روز** با غذا | امیبیازیس روده‌ای | | برچسب FDA Tindamax |
 | **Tinidazole** | **۲ g PO یک دوز** با غذا | Giardiasis — انتخاب اول | | برچسب FDA Tindamax؛ AAFP 2022 |
-| **دوای لومنی** (Paromomycin یا Diloxanide) | دوز مطابق برچسب محلی | **پس از** Metronidazole یا Tinidazole در امیبیازیس | دوای نسجی سیست‌های داخل لومن را پاک نمی‌کند؛ بدون دوای لومنی عود رخ می‌دهد. دوز در این فصل تأیید نشده — SD-07 | CDC |
+| **دوای لومنی** (Paromomycin یا Diloxanide) | دوز مطابق برچسب محلی | **پس از** Metronidazole یا Tinidazole در امیبیازیس | دوای نسجی سیست‌های داخل لومن را پاک نمی‌کند؛ بدون دوای لومنی عود رخ می‌دهد. | CDC |
 
 **دام تشخیص بیش از حد Amoebiasis:** «Amoeba» در مواد غایطه اکثراً *E. dispar* بی‌ضرر است که زیر میکروسکوپ از *E. histolytica* جدا نمی‌شود. بدون تصویر بالینی (اسهال خونی آهسته، ابسهٔ کبد — فصل ۳۴) یا Antigen/PCR، هر «امیب» را تداوی نکن.
 
@@ -405,11 +405,11 @@
 |---|---|---|---|---|
 | **Loperamide** | **۴ mg PO در ابتدا، بعد ۲ mg پس از هر اجابت نرم؛ حد اعظمی ۱۶ mg در ۲۴ ساعت** | اسهال آبکی بدون تب در کاهلان؛ همراه انتی‌بیوتیک در اسهال مسافرین | **دیزانتری با تب یا خون، شک به C. difficile یا STEC** ← به کار نبر (توکسین را در روده نگه می‌دارد). **هشدار FDA:** دوزهای بالاتر از مقدار توصیه‌شده ← طولانی شدن QT، Torsades و مرگ؛ با دواهای طولانی‌کنندهٔ QT احتیاط. در اطفال کوچک به کار نبر | برچسب FDA؛ ACG 2016 |
 | **Zinc** (فقط اطفال) | **۵ mg PO روزانه تا ۱۴ روز** برای اطفال تا ۱۰ سال | اسهال حاد آبکی یا پایدار در اطفال | توصیهٔ مشروط WHO 2024؛ دوز کم برای کم کردن استفراغ. در رهنمودهای قدیمی‌تر WHO: ۱۰–۲۰ mg برای ۱۰–۱۴ روز | WHO 2024 Guideline on pneumonia & diarrhoea in children |
-| **Zinc در کولرا** (اطفال ۶ ماه تا ۵ سال) | **Zinc sulphate ۲۰ mg روزانه برای ۱۰ روز** (GTFCC) | اسهال آبکی در شیوع کولرا | **اختلاف منابع:** GTFCC هنوز ۲۰ mg می‌نویسد؛ WHO 2024 (تازه‌تر، مبتنی بر مرور شواهد) ۵ mg را ترجیح می‌دهد. تا رهنمود ملی روشن شود، در برنامهٔ کولرا مطابق GTFCC و در سایر اسهال‌ها مطابق WHO 2024 (SD-55). Zinc جذب Ciprofloxacin را کم می‌کند: Antibiotic را ۲ ساعت پیش یا ۴–۶ ساعت پس از Zinc بده | GTFCC Field Manual |
+| **Zinc در کولرا** (اطفال ۶ ماه تا ۵ سال) | **Zinc sulphate ۲۰ mg روزانه برای ۱۰ روز** (GTFCC) | اسهال آبکی در شیوع کولرا | **اختلاف منابع:** GTFCC هنوز ۲۰ mg می‌نویسد؛ WHO 2024 (تازه‌تر، مبتنی بر مرور شواهد) ۵ mg را ترجیح می‌دهد. تا رهنمود ملی روشن شود، در برنامهٔ کولرا مطابق GTFCC و در سایر اسهال‌ها مطابق WHO 2024. Zinc جذب Ciprofloxacin را کم می‌کند: Antibiotic را ۲ ساعت پیش یا ۴–۶ ساعت پس از Zinc بده | GTFCC Field Manual |
 
 **Probiotics:** ACG 2016 استعمال روتین آن را در اسهال حاد کاهلان توصیه نمی‌کند (مگر در اسهال مرتبط با انتی‌بیوتیک). WHO 2024 هم برای اطفال آن را توصیه نمی‌کند.
 
-**🔄 Currentness (WHO 2024، اطفال تا ۱۰ سال):** انتی‌بیوتیک در اسهال آبکی حاد توصیه نمی‌شود. فقط در **خون قابل دید** در مواد غایطه، **Ciprofloxacin** انتخاب اول است. دوز Zinc به ۵ mg روزانه کاهش یافته است. این مهم است چون بسیاری از داکتران جوان در افغانستان اطفال را هم می‌بینند.
+**🔄 به‌روزرسانی (WHO 2024، اطفال تا ۱۰ سال):** انتی‌بیوتیک در اسهال آبکی حاد توصیه نمی‌شود. فقط در **خون قابل دید** در مواد غایطه، **Ciprofloxacin** انتخاب اول است. دوز Zinc به ۵ mg روزانه کاهش یافته است. این مهم است چون بسیاری از داکتران جوان در افغانستان اطفال را هم می‌بینند.
 
 ### C. Non-pharmacological
 
@@ -441,7 +441,7 @@
 | **۴** | **Prucalopride** | مطابق برچسب | **قوی** | سردردی، درد بطن، دلبدی، اسهال | AGA–ACG 2023 |
 | **۴** | **Lubiprostone** | مطابق برچسب؛ **در عدم کفایهٔ متوسط یا شدید کبد دوز کمتر: ۸ µg دو بار روزانه** | مشروط | دلبدی وابسته به دوز؛ با غذا کمتر | AGA–ACG 2023 |
 
-> دوز دقیق Senna، Bisacodyl، Magnesium oxide، Lactulose، Linaclotide، Plecanatide و Prucalopride در این دوره از برچسب تأیید نشده و عمداً بدون رقم نوشته شده است (SD-07).
+> دوز Senna، Bisacodyl، Magnesium oxide، Lactulose، Linaclotide، Plecanatide و Prucalopride را از برچسب دوا بگیر.
 
 💡 **Memory Jogger — «PEG اول، Stimulant برای نجات، Prescription بعد از شکست OTC».**
 
@@ -522,7 +522,7 @@
 ## 📚 References
 
 - World Health Organization. **The Treatment of Diarrhoea: A Manual for Physicians and Other Senior Health Workers.** 4th revision. WHO; 2005.
-- World Health Organization. **Guideline on management of pneumonia and diarrhoea in children up to 10 years of age.** WHO; 2024. (خلاصه: Indian Pediatrics 2025;62:775–778.)
+- World Health Organization. **Guideline on management of pneumonia and diarrhoea in children up to 10 years of age.** WHO; 2024.
 - Médecins Sans Frontières. **Clinical Guidelines — Dehydration** (WHO Treatment Plans B and C). medicalguidelines.msf.org.
 - Global Task Force on Cholera Control (GTFCC). **Cholera Outbreak Response Field Manual** — Section 7, Case management.
 - Global Task Force on Cholera Control (GTFCC). **Interim Technical Note: Use of antibiotics for the treatment and control of cholera.** 2025.

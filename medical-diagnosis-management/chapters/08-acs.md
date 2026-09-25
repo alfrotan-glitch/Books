@@ -170,7 +170,7 @@
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
-**Antiplatelet (هر دو نوع ACS؛ ACC/AHA 2025 جدول ۷ — از متن رهنمود):**
+**Antiplatelet (هر دو نوع ACS؛ ACC/AHA 2025 جدول ۷):**
 | دوا | دوز | راه | تکرار | مدت / یادداشت |
 |---|---|---|---|---|
 | **Aspirin** | **۱۵۰–۳۰۰ mg (جویده)**، یا ۷۵–۲۵۰ mg IV اگر بلع ممکن نیست (ESC 2023)؛ ACC/AHA 2025: **۱۶۲–۳۲۵ mg** — هر دو قابل قبول؛ تابلت غیرپوش‌دار جویده شود، حتی اگر مریض قبلاً Aspirin می‌خورد | PO | یک‌بار | سپس ۷۵–۱۰۰ mg PO/OD — مادام‌العمر؛ همراه Ticagrelor فقط ۱۰۰ mg یا کمتر |
@@ -178,7 +178,7 @@
 | **Ticagrelor** | **۱۸۰ mg** | PO | یک‌بار | سپس ۹۰ mg PO/BID — ۱۲ ماه (Ticagrelor > Clopidogrel در ACS)؛ همراه Fibrinolysis نه |
 | **Prasugrel** | **۶۰ mg** | PO | یک‌بار | سپس ۱۰ mg PO/OD — ۱۲ ماه؛ **۵ mg** اگر وزن کمتر از ۶۰ kg یا سن ۷۵ یا بیشتر (با احتیاط). فقط اگر PCI می‌شود؛ در سکته/TIA سابق نه؛ همراه Fibrinolysis نه |
 
-**Anticoagulant (ACC/AHA 2025، جدول ۱۰ — از متن رهنمود خوانده شد):**
+**Anticoagulant (ACC/AHA 2025، جدول ۱۰):**
 | دوا | دوز | راه | تکرار | یادداشت |
 |---|---|---|---|---|
 | **Unfractionated Heparin (UFH)** | **Bolus ۶۰ U/kg (max ۴۰۰۰) + Infusion ۱۲ U/kg/hr (max ۱۰۰۰ U/hr)** | IV | دوامدار | هدف aPTT **۶۰–۸۰ ثانیه**؛ همراه Fibrinolysis **۵۰–۷۰ ثانیه**. در PCI: هدف ACT ۲۵۰–۳۰۰ ثانیه. تا Revascularization قطع نکن |
@@ -223,7 +223,7 @@
 | **Alteplase (tPA)** | **۱۵ mg bolus → ۰.۷۵ mg/kg (max ۵۰ mg) در ۳۰ دقیقه → ۰.۵ mg/kg (max ۳۵ mg) در ۶۰ دقیقه** | IV | دوامدار | این رژیم برای وزن کمتر از ۶۷ kg است؛ وزن ۶۷ kg یا بیشتر: ۱۵ mg → ۵۰ mg در ۳۰ دقیقه → ۳۵ mg در ۶۰ دقیقه (مجموع ۱۰۰ mg) — ACC/AHA 2025 جدول ۱۳ |
 | **Streptokinase (SK)** | **۱.۵ million U** | IV infusion | ۳۰–۶۰ دقیقه | Fibrin-specific (TNK، Alteplase) ترجیح دارد. SK قوی Antigenic است: اگر در **۶ ماه گذشته** SK گرفته، **منع مطلق** دارد (ACCF/AHA 2013 STEMI، جدول ۵ و ۶) |
 
-**منع‌های Fibrinolysis در STEMI (ACC/AHA 2025، جدول ۱۴ — از متن رهنمود):**
+**منع‌های Fibrinolysis در STEMI (ACC/AHA 2025، جدول ۱۴):**
 
 | منع مطلق | منع نسبی |
 |---|---|

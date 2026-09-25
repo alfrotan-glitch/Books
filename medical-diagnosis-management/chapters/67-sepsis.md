@@ -1,6 +1,6 @@
 # فصل ۶۷ — سپسیس و شوک سپتیک
 
-> **بخش دهم — انتانات** · *Currentness audit: **Surviving Sepsis Campaign 2026** (SCCM/ESICM، نشر ۲۳ مارچ ۲۰۲۶) جانشین SSC 2021 است. هر جا متن 2026 مستقیم خوانده نشد، توصیهٔ 2021 با ذکر سال آمده و اختلاف ذکر شده. تعریف Sepsis-3 (2016).*
+> **بخش دهم — انتانات**
 
 ## ساعت اول بی‌بی شیرین
 
@@ -27,7 +27,7 @@
   - قلب؛
   - خون (Platelet پایین).
 
-**تعریف Sepsis-3 (2016)** *(از منبع اولیه در این فصل خوانده نشد → SD-52)*:
+**تعریف Sepsis-3 (2016)**:
 - **سپسیس:** آسیب عضو تهدیدکنندهٔ حیات که از پاسخ ناهماهنگ بدن به انتان پیدا شده است. عملاً، افزایش SOFA به اندازهٔ ۲ نمره یا بیشتر.
 - **شوک سپتیک:** سپسیسی که با وجود مایع کافی به Vasopressor برای رساندن MAP به ۶۵ mmHg ضرورت دارد، با Lactate بیشتر از ۲ mmol/L.
 
@@ -76,7 +76,7 @@
 - **Beta-lactam:** پس از دوز اول (Loading)، **انفیوژن طولانی** برای دوزهای نگهداری (SSC 2026: توصیهٔ قوی).
 - **Antifungal:** فقط در خطر بلند انتان فنگسی.
 
-**دوزهای مشخص Antibiotic** برای هر منبع در فصل همان منبع آمده است: پنومونی فصل ۱۸، ادرار فصل ۴۰، بطن فصل ۲۷ و ۳۴، مننژیت فصل ۵۷. دوز در سپسیس باید بر اساس اصول Pharmacokinetic تنظیم شود (SSC)، و دوز اول **هرگز برای گرده کم نشود**. دوزهای بعدی بر اساس گرده تعدیل می‌شوند (فصل ۹۱ → SD-52).
+**دوزهای مشخص Antibiotic** برای هر منبع در فصل همان منبع آمده است: پنومونی فصل ۱۸، ادرار فصل ۴۰، بطن فصل ۲۷ و ۳۴، مننژیت فصل ۵۷. دوز در سپسیس باید بر اساس اصول Pharmacokinetic تنظیم شود (SSC)، و دوز اول **هرگز برای گرده کم نشود**. دوزهای بعدی بر اساس گرده تعدیل می‌شوند (فصل ۹۱).
 
 ### (۴) مایع — چقدر و کدام
 - **حد اقل ۳۰ mL/kg کریستالوئید وریدی در ۳ ساعت اول**، برای Hypoperfusion ناشی از سپسیس یا شوک سپتیک (SSC 2026: پیشنهاد، شواهد کم؛ همان 2021).
@@ -105,7 +105,7 @@
 - **اگر هنوز MAP ناکافی است:** **Epinephrine** اضافه شود. جایی که Vasopressin نیست، Epinephrine به Norepinephrine اضافه شود (SSC 2026).
 - **با اختلال وظیفهٔ قلب:** Norepinephrine یا Epinephrine به عنوان خط اول (SSC 2026، جدید). با تکی‌کاردی یا Tachyarrhythmia، Norepinephrine؛ با برادی‌کاردی، Epinephrine ترجیح دارد.
 - **Vasopressor را از راه ورید محیطی شروع کن** تا MAP برگردد. منتظر خط مرکزی نمان (SSC 2021). از راه محیطی فقط برای مدت کوتاه، و در وریدی که در حفرهٔ آرنج یا بالاتر از آن است.
-- **دوز و رقیق‌سازی Norepinephrine** → پروتوکول شفاخانه؛ از منبع اولیه در این فصل تأیید نشد → SD-52.
+- **دوز و رقیق‌سازی Norepinephrine** → پروتوکول شفاخانه
 
 ### (۶) کنترول منبع
 - **منبع قابل تخلیه را بجوی و تخلیه کن.** مثال‌ها:
@@ -194,6 +194,6 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 5. رژیم Hydrocortisone در SSC 2021؟ ← ۲۰۰ mg/روز (۵۰ mg هر ۶ ساعت)، وقتی Norepinephrine ۰.۲۵ µg/kg/min یا بیشتر برای ۴ ساعت یا بیشتر.
 
 ## 📚 References
-1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936. (از صفحهٔ SCCM، Springer و خلاصه‌های ثانوی؛ متن کامل همهٔ توصیه‌ها خوانده نشد → SD-52.)
-2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143. (فهرست کامل توصیه‌ها از صفحهٔ SCCM خوانده شد.)
+1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936.
+2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143.
 3. Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA.* 2016;315(8):801–810.

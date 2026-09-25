@@ -1,6 +1,6 @@
 # فصل ۱۱ — امراض پریکارد: پریکاردیت، افیوژن، تامپوناد و پریکاردیت انقباضی (Pericardial Diseases)
 
-> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2025 Myocarditis & Pericarditis (جانشین ESC 2015) و ACC Concise Clinical Guidance 2025؛ جاهایی که هنوز «ESC 2015» آمده، توصیه در 2025 تأیید شده است.*
+> **بخش دوم — سیستم قلب و عروق**
 
 ## 🩺 مریض این فصل
 
@@ -362,8 +362,6 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 ## 📚 References
 
 - Adler Y, et al. **2015 ESC Guidelines for the diagnosis and management of pericardial diseases.** Eur Heart J. 2015;36:2921–2964 (جدول ۶: Aspirin ۷۵۰–۱۰۰۰ mg هر ۸ ساعت، Ibuprofen ۶۰۰ mg هر ۸ ساعت، Colchicine نظر به وزن برای ۳ ماه؛ دوزهای راجعه).
-- **2025 ESC Guidelines for the management of myocarditis and pericarditis.** Eur Heart J. 2025 (تأیید NSAID/Aspirin + Colchicine به عنوان خط اول و ضد IL-1 در راجعه). *[مشخصات کامل صفحه باید پیش از نشر تأیید شود.]*
-- **ACC Concise Clinical Guidance on the management of pericarditis (2025).** J Am Coll Cardiol. 2025 (Colchicine ۳ ماه در حملهٔ اول و ۶–۱۲ ماه در راجعه؛ محدودیت ورزش؛ ضد IL-1). *[مشخصات کامل باید تأیید شود.]*
 - Imazio M, et al. **Medical therapy of pericarditis: tips and tricks for clinical practice.** J Cardiovasc Med. 2024;25(6) (جدول ۱: دوز Indomethacin و Prednisone ۰.۲–۰.۵ mg/kg/روز).
 - Imazio M, et al. **A randomized trial of colchicine for acute pericarditis (ICAP).** N Engl J Med. 2013;369:1522–1528.
 - Mayosi BM, et al. **Prednisolone and Mycobacterium indicus pranii in tuberculous pericarditis (IMPI).** N Engl J Med. 2014;371:1121–1130.

@@ -1,6 +1,6 @@
 # فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 
-> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2025 UC و Crohn، AGA Living Guidelines 2025، ECCO (جاری).*
+> **بخش چهارم — سیستم هضمی**
 
 ## مریضی که دو تشخیص روی میز داشت
 
@@ -546,7 +546,6 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 - **ASUC: clinical features, initial management and role of advanced therapies.** 2025 (PMC12561010) — Truelove–Witts و Oxford index.
 - CADTH/NCBI: **Latent tuberculosis infection testing prior to biologic therapy — summary of guidelines** (NBK567073).
 
-**برچسب‌های دوایی (منبع دوزها)**
 - Infliximab — FDA label.
 - Adalimumab (biosimilar adalimumab-aacf) — FDA label 2024 / DailyMed.
 - ENTYVIO (vedolizumab) — FDA label.

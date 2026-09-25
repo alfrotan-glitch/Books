@@ -1,6 +1,6 @@
 # فصل ۳۸ — آسیب حاد گرده (Acute Kidney Injury, AKI)
 
-> **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+> **بخش ششم — گرده**
 
 ## ادامهٔ قصهٔ حاجی نورالله
 
@@ -43,7 +43,7 @@ AKI = **یکی** از این‌ها:
 | **۲** | ۲.۰–۲.۹ برابر | کمتر از ۰.۵ mL/kg/ساعت برای ۱۲ ساعت یا بیشتر |
 | **۳** | ۳ برابر، یا رسیدن به ۴ mg/dL یا بیشتر، یا شروع دیالیز | کمتر از ۰.۳ mL/kg/ساعت برای ۲۴ ساعت یا بیشتر، یا Anuria برای ۱۲ ساعت یا بیشتر |
 
-> 🔄 **CURRENTNESS NOTE:** پیش‌نویس **KDIGO 2026 AKI/AKD** از مارچ 2026 برای نظرخواهی عمومی نشر شده و AKI و AKD (Acute Kidney Disease) را یک طیف پیوسته می‌داند، با بیومارکرهای ساختمانی در تعریف. این متن **پیش‌نویس** است؛ کتاب از آن توصیه‌ای وارد نمی‌کند. معیار این فصل KDIGO 2012 است.
+> 🔄 **به‌روزرسانی:** پیش‌نویس **KDIGO 2026 AKI/AKD** از مارچ 2026 برای نظرخواهی عمومی نشر شده و AKI و AKD (Acute Kidney Disease) را یک طیف پیوسته می‌داند، با بیومارکرهای ساختمانی در تعریف. این متن **پیش‌نویس** است؛ کتاب از آن توصیه‌ای وارد نمی‌کند. معیار این فصل KDIGO 2012 است.
 
 ### تصنیف بر پایهٔ محل
 
@@ -205,7 +205,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 
 **نوع کرستالوئید:** در مریضان بستری، تریال‌های جدیدتر (مثل **SMART، NEJM 2018**) کرستالوئید **متوازن** (Ringer's lactate و مشابه) را با Normal saline مقایسه کرده‌اند و در بعضی گروه‌ها نتایج گرده‌ای بهتری با مایع متوازن دیدند؛ انتخاب نهایی با پروتوکول محلی و وضعیت مریض است (مثلاً آسیب مغزی).
 
-*دوز Furosemide برای اضافه‌بار حجم در AKI در این فصل ثبت نشد — به پاسخ مریض و پروتوکول محلی بستگی دارد (بدهی SD-17).*
+*دوز Furosemide برای اضافه‌بار حجم در AKI در این فصل ثبت نشد — به پاسخ مریض و پروتوکول محلی بستگی دارد.*
 
 ### ۱۰.۴ علت‌های خاص — خلاصه
 
@@ -250,7 +250,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 
 - AKI خفیف Prerenal که زود تداوی شود، اکثراً کاملاً بهبود می‌یابد.
 - AKI شدید، مخصوصاً با سپسیس یا ضرورت دیالیز، **مرگ بلند** دارد و خطر **CKD و AKI دوباره** را زیاد می‌کند.
-- **پیگیری پس از رخصت:** KDIGO 2012 ارزیابی دوبارهٔ مریض را پس از AKI برای بهبود، AKI تازه، یا بدتر شدن CKD قبلی پیشنهاد می‌کند؛ فاصلهٔ دقیق از متن اولیه تأیید نشد (SD-21).
+- **پیگیری پس از رخصت:** KDIGO 2012 ارزیابی دوبارهٔ مریض را پس از AKI برای بهبود، AKI تازه، یا بدتر شدن CKD قبلی پیشنهاد می‌کند.
 - **دواهای متوقف‌شده** (ACEi/ARB، Metformin، SGLT2i، Diuretic) را پس از بهبود **با برنامه دوباره شروع کن** — فراموش کردن آن‌ها هم زیان دارد.
 - **حاجی نورالله:** پس از رخصت، Diclofenac نه؛ Lisinopril پس از پایدار شدن Creatinine و پوتاشیم دوباره شروع؛ Creatinine و ACR در پیگیری.
 
@@ -281,8 +281,8 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 
 ## 📚 References
 
-- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (توصیه‌های 3.1.1، 3.3.5، 3.4.1–3.4.2، 3.5.1–3.5.3، 3.8.1، 5.1.1–5.1.2، 5.2.2 از متن رهنمود و Canadian Society of Nephrology commentary، AJKD 2013)
-- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس**). kdigo.org — فقط Currentness note.
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (توصیه‌های 3.1.1، 3.3.5، 3.4.1–3.4.2، 3.5.1–3.5.3، 3.8.1، 5.1.1–5.1.2، 5.2.2)
+- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس**). kdigo.org.
 - STARRT-AKI Investigators. **Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury.** N Engl J Med. 2020;383:240–251.
 - Semler MW, et al. (SMART). **Balanced Crystalloids versus Saline in Critically Ill Adults.** N Engl J Med. 2018;378:829–839.
 - ACR–NKF. **Use of IV Iodinated Contrast Media in Patients With Kidney Disease.** 2020 (فصل ۳۶).

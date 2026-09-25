@@ -1,6 +1,6 @@
 # فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
 
-> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): گروه‌های ABE و تداوی ابتدایی با Pocket Guide رسمی GOLD 2026 مطابقت شد؛ بخش تشدید هنوز GOLD 2025 است (SD-93).*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -57,7 +57,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 - **CAT (COPD Assessment Test):** ۸ سؤال، امتیاز ۰–۴۰. GOLD 2026 نام آن را **CAAT** گذاشته؛ امتیازها یکسان‌اند.
 
-> 🔄 **CURRENTNESS NOTE — GOLD 2026:** جدول بالا و جدول تداوی ابتدایی با Pocket Guide رسمی GOLD 2026 (شکل‌های ABE و 3.8) مطابقت شد: در GOLD 2025، گروه E «۲ یا بیشتر تشدید متوسط، یا ۱ تشدید با بستری» بود؛ اکنون **یک تشدید متوسط یا شدید** کافی است. هدف تداوی، **فعالیت کم مرض** یعنی هیچ تشدید است. فصل تشدید در GOLD 2026 کاملاً بازنویسی شده؛ بخش تشدید این فصل هنوز بر GOLD 2025 (Rome) استوار است و با متن 2026 مطابقت نشده (SD-93).
+> 🔄 **GOLD 2026:** در GOLD 2025، گروه E «۲ یا بیشتر تشدید متوسط، یا ۱ تشدید با بستری» بود؛ اکنون **یک تشدید متوسط یا شدید** کافی است. هدف تداوی، **فعالیت کم مرض** یعنی هیچ تشدید است. فصل تشدید در GOLD 2026 کاملاً بازنویسی شده؛ بخش تشدید این فصل هنوز بر GOLD 2025 (Rome) استوار است و با متن 2026 مطابقت نشده.
 - **Pre-COPD / PRISm:** اعراض یا تغییرات ساختاری با اسپیرومتری نورمال، یا FEV₁/FVC نورمال با FEV₁ پایین — در معرض خطر COPD.
 
 ### ج) تصنیف تشدید (ECOPD — Rome proposal، GOLD 2025)
@@ -357,7 +357,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **تشدید دوم در ۸ هفته** ← ارزیابی مجدد تشخیص، تداوی و امراض همراه.
 
 ## 📚 References
-- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org — ABE assessment tool and Figure 3.8 read directly.
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org.
 
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
@@ -366,7 +366,6 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980;93:391–398؛ MRC Working Party. Lancet. 1981;1:681–686 (LTOT).
 - Wedzicha JA, et al. **ERS/ATS guideline: Management of COPD exacerbations.** Eur Respir J. 2017;49:1600791.
 - Rochwerg B, et al. **ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
-- *تأیید دوز: Prednisolone ۴۰ mg × ۵ روز در تشدید مطابق GOLD و کارآزمایی REDUCE؛ دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). قوت‌های انهیلر، انتی‌بیوتیک‌های تشدید، Roflumilast، Ensifentrine، Mucolytics، Theophylline و دواهای ترک سگرت از برچسب در این بازبینی خوانده نشد → SD-88. مطابقت با لیست دواهای اساسی افغانستان باز است.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 

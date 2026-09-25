@@ -1,6 +1,6 @@
 # فصل ۲۵ — خونریزی جهاز هضمی (Gastrointestinal Bleeding)
 
-> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2021 UGIB، ACG 2023 LGIB (جانشین توصیهٔ کولونوسکوپی ۲۴ ساعته)، BSG 2019 LGIB، Baveno VII (جاری).*
+> **بخش چهارم — سیستم هضمی**
 
 ## 🩺 مریض این فصل
 
@@ -280,7 +280,6 @@
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر خونریزی GI: **نبض، BP، Shock index، و DRE** در ۵ دقیقهٔ اول.

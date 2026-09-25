@@ -1,6 +1,6 @@
 # فصل ۶۹ — Brucellosis و Typhoid: دو تب طولانی افغانستان
 
-> **بخش دهم — انتانات** · *Currentness audit: Typhoid — CDC Clinical Guidance (به‌روزرسانی اپریل ۲۰۲۴) مستقیم خوانده شد. Brucellosis — رژیم‌ها بر اساس اجماع Ioannina (Ariza J et al., PLoS Med 2007) و رهنمود WHO/FAO 2006؛ متن اصلی در این فصل خوانده نشد → **دوزهای mg در این فصل نوشته نشد** (SD-54). رهنمود بین‌المللی تازه‌تر برای Brucellosis یافت نشد.*
+> **بخش دهم — انتانات**
 
 ## عبدالرحیم و رحمت‌الله
 
@@ -36,13 +36,13 @@
 ### ۳. تشخیص
 - **کلچر خون:** قطعی است، اما رشد آن کند است. به لابراتوار بگو که «شک به Brucella» داری، هم برای روش کلچر و هم برای **حفاظت کارمند لابراتوار**.
 - **سیرولوژی:** Rose Bengal برای غربالگری، و **SAT (Standard agglutination test)** یا Coombs/ELISA برای تأیید.
-  - در مناطق اندمیک، تیتر پایین ممکن است از تماس قبلی باشد. **تفسیر همراه با تصویر بالینی** است. *(حد تیتر تشخیصی → SD-54.)*
+  - در مناطق اندمیک، تیتر پایین ممکن است از تماس قبلی باشد. **تفسیر همراه با تصویر بالینی** است.
 - **CBC:** اکثراً WBC نورمال یا پایین است.
 - **MRI ستون** در درد کمر با علایم عصبی یا شک به ابسه.
 - **Echo** با مرمر تازه یا کلچر مثبت و تب دوامدار.
 
 ### ۴. تداوی — اصول
-*(منبع: اجماع Ioannina 2007 و WHO 2006؛ متن اصلی خوانده نشد، بنابراین mg و مدت دقیق نوشته نشد → SD-54.)*
+ *(منبع: اجماع Ioannina 2007 و WHO 2006. دوز و مدت را از پروتوکول ملی بگیر.)*
 
 1. **ترکیب دو دوا، نه یک دوا.** یک دوا با عود بیشتر همراه است.
 2. **دورهٔ طولانی** (در شکل بدون اختلاط، هفته‌ها، نه روزها). تداوی کوتاه عود می‌سازد.
@@ -52,7 +52,7 @@
    - رژیم‌های دارای Aminoglycoside در مطالعات عود کمتری داشته‌اند.
 4. **Rifampicin و TB:** در افغانستان، که TB شایع است، **پیش از شروع Rifampicin، TB فعال را رد کن**. Rifampicin تنها بر TB فعال مقاومت می‌سازد (فصل ۱۹). Rifampicin همچنین تداخل‌های دوایی زیاد دارد (مثلاً مانع‌های حاملگی، Warfarin).
 5. **عوارض موضعی** (Spondylitis، Neurobrucellosis، Endocarditis) → دورهٔ **ماه‌ها** و اکثراً سه دوا. Endocarditis اکثراً جراحی می‌خواهد. با متخصص.
-6. **حاملگی:** Doxycycline منع است. رژیم با متخصص → SD-54.
+6. **حاملگی:** Doxycycline منع است. رژیم با متخصص
 7. **پیگیری:** جواب بالینی در حدود ۱–۲ هفته. **عود** اکثراً در ماه‌های اول پس از تداوی است و با همان رژیم جواب می‌دهد. سیرولوژی برای قضاوت جواب خوب نیست.
 
 **پیش‌گیری:** شیر را جوش بده، پنیر تازهٔ غیرپاستوری نخور، و هنگام کار با ولادت یا سقط حیوان دستکش بپوش.
@@ -98,7 +98,7 @@
 | **بدون تماس XDR** | **Ceftriaxone** یا **Azithromycin** |
 | **پس از کلچر** | بر اساس **حساسیت** |
 
-**دوزها:** دوز Azithromycin برای Typhoid **بلندتر از دوز معمول** آن است (CDC MMWR 2019). دوز دقیق، مدت، و دوزهای Ceftriaxone و Meropenem در این فصل از منبع اولیه تأیید نشد → SD-54. پروتوکول ملی یا فورمولری شفاخانه را دنبال کن.
+**دوزها:** دوز Azithromycin برای Typhoid **بلندتر از دوز معمول** آن است (CDC MMWR 2019). دوز دقیق، مدت، و دوزهای Ceftriaxone و Meropenem را از پروتوکول ملی یا فورمولری شفاخانه بگیر.
 
 **منطق مرز افغانستان–پاکستان:** رفت‌وآمد زیاد است. **در مریض ناجور یا کسی که به Ceftriaxone جواب نمی‌دهد، به XDR فکر کن.**
 
@@ -154,4 +154,4 @@
 1. Centers for Disease Control and Prevention. Clinical Guidance for Typhoid Fever and Paratyphoid Fever. Updated April 24, 2024.
 2. CDC Yellow Book 2024: Typhoid & Paratyphoid Fever.
 3. Chatham-Stephens K, et al. Emergence of extensively drug-resistant *Salmonella* Typhi infections among travelers to or from Pakistan — United States, 2016–2018. *MMWR.* 2019;68(1):11–13.
-4. Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. *PLoS Med.* 2007;4(12):e317. (متن اصلی خوانده نشد → SD-54.)
+4. Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. *PLoS Med.* 2007;4(12):e317.

@@ -1,6 +1,6 @@
 # فصل ۳۵ — پانکراتیت حاد و مزمن (Acute & Chronic Pancreatitis)
 
-> **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): ACG 2024 Acute pancreatitis و Atlanta 2012 (جاری)؛ ACG 2020 و HaPanEU مزمن (جاری).*
+> **بخش پنجم — کبد، صفرا و پانکراس**
 
 ## 🩺 مریض این فصل
 
@@ -292,7 +292,6 @@
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر پانکراتیت: **سونوگرافی در ۲۴ ساعت + TG + کلسیم + ALT** (علت).

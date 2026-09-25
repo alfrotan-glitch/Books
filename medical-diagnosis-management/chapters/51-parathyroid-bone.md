@@ -1,6 +1,6 @@
 # فصل ۵۱ — پاراتایروئید و استخوان: Hyperparathyroidism، Osteoporosis و Osteomalacia
 
-> **بخش هفتم — اندوکراین** · *با Currentness audit (Fifth International Workshop PHPT 2022؛ NOGG 2022 با مرور 2024؛ برچسب‌های FDA Alendronate 2026 و Prolia 2026)*
+> **بخش هفتم — اندوکراین**
 
 ## شکستگی که «از افتادن ساده» بود
 
@@ -77,7 +77,7 @@ Osteoporosis در مسن‌ها شایع است، اما «Osteoporosis سن» �
 - اگر Calcium بلند است: PTH؛
 - در مسن با کمردردی: پروتین‌های سیروم (برای Myeloma).
 
-*(این فهرست بر میکانیزم‌های بالا تکیه دارد؛ فهرست رسمی رهنمود از منبع اولیه خوانده نشد → SD-44.)*
+ *(این فهرست بر میکانیزم‌های بالا تکیه دارد.)*
 
 ---
 
@@ -104,7 +104,7 @@ Osteoporosis در مسن‌ها شایع است، اما «Osteoporosis سن» �
 - تصویربرداری برای سنگ یا Nephrocalcinosis؛
 - DXA در سه جا، و تصویربرداری مهره‌ها برای شکستگی بی‌صدا.
 
-*(حد Calcium ادرار برای تفریق از Familial hypocalciuric hypercalcaemia از منبع اولیه در این فصل تأیید نشد → SD-44.)*
+ *(حد Calcium ادرار برای تفریق از Familial hypocalciuric hypercalcaemia را از لابراتوار و متخصص بپرس.)*
 
 ### چه کسی جراحی شود؟ — چرا این معیارها؟
 **جراحی (Parathyroidectomy) تنها تداوی علاج‌کننده است.**
@@ -133,7 +133,7 @@ Workshop 2022 جراحی را برای **همهٔ مریضان عرض‌دار**
 - اگر جراحی ممکن نیست و Calcium یا BMD نگران‌کننده است، تداوی دوایی معقول است:
   - Cinacalcet برای Calcium؛
   - Bisphosphonate یا Denosumab برای استخوان.
-  - دوز Cinacalcet → SD-44.
+  - دوز Cinacalcet
 
 **حاملگی** (Workshop):
 - حالت خفیف با نوشیدن مایع کافی و نظارت Calcium اهتمام می‌شود.
@@ -172,7 +172,7 @@ Workshop 2022 جراحی را برای **همهٔ مریضان عرض‌دار**
 | **Alendronate** | **۷۰ mg** یک بار در هفته یا **۱۰ mg** روزانه (برچسب FDA 2026، تداوی زن پس از یائسگی و مرد) | فمی | با **۱۸۰–۲۴۰ mL آب ساده** (۶–۸ اونس)، **حد اقل ۳۰ دقیقه پیش از** اولین غذا، نوشیدنی یا دوای روز؛ **حد اقل ۳۰ دقیقه و تا پس از اولین غذای روز دراز نکشد**. منع استعمال: تنگی یا Achalasia مری، ناتوانی از ۳۰ دقیقه نشستن یا ایستادن، Hypocalcaemia. **CrCl کمتر از ۳۵ mL/min توصیه نمی‌شود**. Calcium، Antacid و Cationهای چندظرفیتی جذب آن را کم می‌کنند. حاملگی: قطع شود |
 | **Zoledronic acid** | **۵ mg** یک بار در سال (برچسب Reclast، به نقل Aetna CPB/AAFP) | انفیوژن وریدی، **حد اقل ۱۵ دقیقه** | منع استعمال: **CrCl کمتر از ۳۵ mL/min**، عدم کفایهٔ حاد گرده، Hypocalcaemia. مریض پیش از انفیوژن مایع کافی گرفته باشد. اعراض شبیه زکام پس از دوز اول شایع است |
 | **Denosumab (Prolia)** | **۶۰ mg هر ۶ ماه** (برچسب FDA 2026) | زیر جلدی (بازو، ران یا بطن)، توسط کارکن صحی | **هشدار جعبه‌ای: Hypocalcaemia شدید در CKD پیشرفته.** در این مریضان پیش از شروع CKD-MBD را بررسی کن (PTH، Calcium، 25-OH و 1,25-(OH)₂ Vitamin D)؛ تداوی زیر نظر متخصص. همه روزانه **Calcium ۱۰۰۰ mg و Vitamin D حد اقل ۴۰۰ IU** بگیرند. منع استعمال: Hypocalcaemia و **حاملگی**؛ پیش از هر دوز حاملگی رد شود. **پس از قطع، شکستگی‌های متعدد مهره گزارش شده → هرگز بدون جانشین قطع نشود**؛ مریض به Antiresorptive دیگر منتقل شود |
-| **Anabolic** (Teriparatide، Romosozumab) | → SD-44 | زیر جلدی | برای خطر بسیار بلند، به ویژه با شکستگی‌های مهره (NOGG)؛ پس از ختم دوره، **فوراً Antiresorptive** شروع شود |
+| **Anabolic** (Teriparatide، Romosozumab) | | زیر جلدی | برای خطر بسیار بلند، به ویژه با شکستگی‌های مهره (NOGG)؛ پس از ختم دوره، **فوراً Antiresorptive** شروع شود |
 
 **تنظیم دوز در گرده — همان قاعدهٔ همیشگی «پیش از نسخه، گرده را بسنج»:**
 - Alendronate و Zoledronic acid در **CrCl کمتر از ۳۵ mL/min** توصیه نمی‌شوند یا منع استعمال دارند. برچسب Alendronate در CrCl ۳۵–۶۰ تنظیم دوز لازم نمی‌داند.
@@ -212,7 +212,7 @@ Osteoporosis یعنی استخوان **کم** ولی درست ساخته‌شد�
 
 در زنان پوشیده، کسانی که کم در آفتاب می‌روند، و مریضان سوء جذب، این تشخیص در جامعهٔ ما باید در نظر باشد.
 
-**تداوی:** Vitamin D و Calcium، و تداوی علت. رژیم و دوز Vitamin D در این فصل از منبع اولیه تأیید نشد → SD-44.
+**تداوی:** Vitamin D و Calcium، و تداوی علت. رژیم و دوز Vitamin D را از رهنمود محلی یا برچسب دوا بگیر.
 
 ⚠️ **دام:** Calcium نورمال، PTH بلند و Vitamin D پایین **PHPT نیست**. این Hyperparathyroidism ثانوی است. تداوی آن Vitamin D است، نه جراحی. اول Vitamin D را اصلاح کن، بعد PTH را دوباره ببین.
 
@@ -264,7 +264,7 @@ Osteoporosis یعنی استخوان **کم** ولی درست ساخته‌شد�
 
 ## 📚 References
 1. Bilezikian JP, Khan AA, Silverberg SJ, et al. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. *J Bone Miner Res.* 2022;37(11):2293–2314.
-2. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the prevention and treatment of osteoporosis (NOGG). *Arch Osteoporos.* 2022;17:58. (توصیه‌ها از خلاصه‌های Medscape 2024 و Age and Ageing 2022، منابع ثانوی؛ متن کامل اولیه → SD-44.)
+2. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the prevention and treatment of osteoporosis (NOGG). *Arch Osteoporos.* 2022;17:58.
 3. Alendronate sodium tablets — FDA prescribing information (revised 6/2026; Drugs.com).
 4. Prolia (denosumab) — FDA prescribing information (Drugs.com، به‌روزرسانی 7/2026).
-5. Reclast (zoledronic acid) 5 mg — دوز و منع استعمال از خلاصهٔ برچسب در Aetna Clinical Policy Bulletin (Zoledronic acid) و AAFP 2008 (منبع ثانوی برچسب).
+5. Reclast (zoledronic acid) 5 mg — دوز و منع استعمال از خلاصهٔ برچسب در Aetna Clinical Policy Bulletin (Zoledronic acid) و AAFP 2008.

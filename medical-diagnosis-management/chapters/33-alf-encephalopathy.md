@@ -1,6 +1,6 @@
 # فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 
-> **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): EASL 2022 HE (جانشین جزئی AASLD/EASL 2014)؛ ALF: EASL 2017 (جاری).*
+> **بخش پنجم — کبد، صفرا و پانکراس**
 
 ## 🩺 مریض این فصل
 
@@ -316,7 +316,6 @@
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر هپاتیت حاد: **INR و شعور** را روزانه ثبت کن.

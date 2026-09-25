@@ -160,7 +160,7 @@
   - **ACC/AHA 2025:** ۱۳۰/۸۰ mmHg یا بلندتر (مرحله ۱ از ۱۳۰–۱۳۹ یا ۸۰–۸۹).
   - **ESH 2023 و WHO:** ۱۴۰/۹۰ mmHg یا بلندتر.
   - **اختلاف منابع:** این کتاب طبقه‌بندی ACC/AHA 2025 را اساس می‌گیرد، اما در ۱۳۰–۱۳۹/۸۰–۸۹ تداوی دوایی فقط پس از ۳–۶ ماه تغییر شیوهٔ زندگی یا در خطر بلند شروع می‌شود (بخش ۱۰).
-- **حدود تشخیص با ABPM/HBPM** (پایین‌تر از کلینیک) → SD-37.
+- **حدود تشخیص با ABPM/HBPM** (پایین‌تر از کلینیک)
 - **تشخیص عاجل هایپرتنسیو:** فشار بسیار بلند (اکثراً ۱۸۰/۱۲۰ یا بلندتر) + **حد اقل یک** نشانهٔ آسیب حاد ارگان هدف:
   - سکتهٔ مغزی ایسکیمیک یا خونریزی مغزی؛ Hypertensive encephalopathy
   - عدم کفایهٔ حاد قلب و ادیمای حاد شش؛ ACS
@@ -185,7 +185,7 @@
 3. **قدم ۳ — اگر فشار شدید بدون آسیب حاد است (Urgency):** مریض را در جای آرام بنشان و دوباره اندازه کن؛ دوای فمی را شروع یا دوباره شروع کن؛ فشار را در **روزها** پایین بیاور. **پیچکاری وریدی یا Nifedipine زیر زبانی نه.**
 4. **قدم ۴ — پیگیری:** مریض Urgency را در چند روز تا ۱–۲ هفته دوباره ببین.
 
-**دواهای وریدی عاجل هایپرتنسیو (ACC/AHA 2017، جدول ۱۹ — از متن رهنمود خوانده شد):**
+**دواهای وریدی عاجل هایپرتنسیو (ACC/AHA 2017، جدول ۱۹):**
 
 | دوا | دوز شروع | تنظیم / حد اعظمی | یادداشت |
 |---|---|---|---|
@@ -309,7 +309,7 @@
 8. **هایپوتنشن شدید پس از شروع دوا یا پس از پایین آوردن تیز فشار** → دوا را قطع کن، مریض را دراز بخوابان، مایع وریدی؛ علایم ایسکیمی مغز را ببین.
 
 ## 📚 References
-- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065 — Tables 19–20 (IV drugs for hypertensive emergency) read in the guideline full text 2026-09-25.
+- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065.
 
 - Jones DW, et al. **2025 AHA/ACC Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults.** Hypertension. 2025 (doi 10.1161/HYP.0000000000000249) — جانشین رهنمود 2017.
 - ESC/ESH 2023 Guidelines for the Management of Arterial Hypertension.

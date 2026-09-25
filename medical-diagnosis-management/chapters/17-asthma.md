@@ -1,6 +1,6 @@
 # فصل ۱۷ — آسما (Asthma)
 
-> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): GINA 2025؛ تغییرات GINA 2026 (هدف SpO₂، Adrenaline اول در Anaphylaxis، بازبینی پس از یک حمله) درج شد (SD-96).*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -323,7 +323,6 @@
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر نگهدارنده، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 

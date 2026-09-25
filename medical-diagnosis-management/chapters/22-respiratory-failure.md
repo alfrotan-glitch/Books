@@ -1,6 +1,6 @@
 # فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 
-> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS 2024 ARDS، ESICM 2023 ARDS، تعریف جهانی ARDS 2024 (جاری)؛ BTS 2017 اکسیجن (هنوز نسخهٔ جاری BTS)؛ ERS/ATS 2017 NIV.*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -240,7 +240,6 @@
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض روی اکسیجن: **هدف SpO₂ را در چارت بنویس** (۹۴–۹۸ یا ۸۸–۹۲).

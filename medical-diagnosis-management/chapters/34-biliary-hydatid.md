@@ -1,6 +1,6 @@
 # فصل ۳۴ — امراض صفراوی، ابسهٔ کبد و کیست هایداتید (Biliary Disease, Liver Abscess & Hydatid Cyst)
 
-> **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): Tokyo Guidelines 2018 و WSES 2020 کولی‌سیستیت (جاری)؛ WHO-IWGE Echinococcosis (جاری).*
+> **بخش پنجم — کبد، صفرا و پانکراس**
 
 ## 🩺 مریض این فصل
 
@@ -168,7 +168,7 @@
 
 - **حاجی قادر عاجل‌تر است:** تب + یرقان + درد (Charcot) + Hypotension → **کلانژیت حاد شدید**. احیا، کلچر، انتی‌بیوتیک مطابق بخش ۱۰ (WSES 2021)، و **درناژ صفراوی عاجل (ERCP)** — انتی‌بیوتیک بدون درناژ کافی نیست.
 - **رحیمه:** **کولی‌سیستیت حاد** با Ultrasound تأیید شد → انتی‌بیوتیک و **Cholecystectomy زود** در همان بستری، اگر وضع او اجازه دهد (TG18).
-- **صمد:** در ساحهٔ مالداری، کیست کبد = **Hydatid** تا خلاف آن ثابت شود → سیرولوژی و تصنیف WHO-IWGE در Ultrasound. ⚠️ **پنکچر بی‌پلان نه** — خطر Anaphylaxis و انتشار؛ تداوی (جراحی، PAIR یا دوایی) از روی مرحله انتخاب می‌شود و Albendazole همراه آن است (بخش ج همین فصل؛ دوز → SD-85).
+- **صمد:** در ساحهٔ مالداری، کیست کبد = **Hydatid** تا خلاف آن ثابت شود → سیرولوژی و تصنیف WHO-IWGE در Ultrasound. ⚠️ **پنکچر بی‌پلان نه** — خطر Anaphylaxis و انتشار؛ تداوی (جراحی، PAIR یا دوایی) از روی مرحله انتخاب می‌شود و Albendazole همراه آن است *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 
 ---
 
@@ -384,7 +384,6 @@
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد RUQ: **مدت (کمتر یا بیشتر از ۶ ساعت)، تب، یرقان** — سه سؤال.

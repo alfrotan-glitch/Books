@@ -1,6 +1,6 @@
 # فصل ۴۰ — انتان مجاری ادرار (Urinary Tract Infection, UTI)
 
-> **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+> **بخش ششم — گرده**
 
 ## سه «UTI» که هر سه یک تداوی ندارند
 
@@ -244,7 +244,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - **UTI در مرد، عودکننده یا اختلاطی** ← ارزیابی علت (Ultrasound، باقی‌ماندهٔ ادرار، ارجاع یورولوژی).
 - **حاملگی:** کلچر پس از تداوی مطابق برنامهٔ مراقبت حاملگی.
 - **↩️ مریم** (Cystitis سادهٔ زن غیرحامله): معاینهٔ ادرار؛ **Nitrofurantoin ۳ روز** (eGFR نورمال) یا Fosfomycin یک دوز، مطابق بخش ۱۰.۲ — نه Ciprofloxacin. به او گفته شد اگر در ۴۸ ساعت بهتر نشد، یا تب و درد پهلو پیدا کرد، برگردد. نسرین (۱۰.۳) و حاجی رحیم (۱۰.۷) در همان بخش‌ها بسته شدند.
-- *وقایهٔ UTI عودکننده (انتی‌بیوتیک پیشگیرانه، Methenamine، Estrogen مهبلی در یائسگی) — بدهی SD-24 (دوزها از منبع اولیه در این دوره تأیید نشد).*
+- *وقایهٔ UTI عودکننده (انتی‌بیوتیک پیشگیرانه، Methenamine، Estrogen مهبلی در یائسگی) — با متخصص.*
 
 ---
 
@@ -275,7 +275,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 
 - NICE. **Urinary tract infection (lower): antimicrobial prescribing (NG109).** 2018 — توصیه‌های 1.1–1.4 و جداول ۱–۳.
 - NICE. **Pyelonephritis (acute): antimicrobial prescribing (NG111).** 2018 (به‌روز با هشدار MHRA جنوری 2024) — جداول ۱–۲.
-- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric (خلاصه‌های Guideline Central و emDocs 2025).
+- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric.
 - MHRA Drug Safety Update. **Fluoroquinolone antibiotics: must now only be prescribed when other commonly recommended antibiotics are inappropriate.** January 2024.
 
 ---

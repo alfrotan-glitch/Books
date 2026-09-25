@@ -1,6 +1,6 @@
 # فصل ۳۱ — هپاتیت‌های ویروسی (Viral Hepatitis: A, B, C, D, E)
 
-> **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): WHO 2024 HBV (اساس کتاب)، EASL 2023 HDV، AASLD/IDSA 2025 HBV (جانشین AASLD 2018؛ SD-97).*
+> **بخش پنجم — کبد، صفرا و پانکراس**
 
 ## دو مریض، یک سؤال
 
@@ -58,7 +58,7 @@
 |---|---|---|---|---|---|
 | **نوع ویروس** | RNA (Picornavirus) | **DNA** (Hepadnavirus) | RNA (Flavivirus) | RNA ناقص (نیاز به HBsAg) | RNA (Hepevirus) |
 | **انتقال** | غایطه به دهن | خون، جنسی، **مادر به طفل** | **خون** (جنسی کم) | خون، جنسی | **غایطه به دهن (آب آلوده)** |
-| **دورهٔ کمون** (CDC) | ۱۵–۵۰ روز (اوسط ۲۸) | ۶۰–۱۵۰ روز (اوسط ۹۰) | ۱۴–۱۸۲ روز | مانند HBV | *(در منابع بررسی‌شده تأیید نشد)* |
+| **دورهٔ کمون** (CDC) | ۱۵–۵۰ روز (اوسط ۲۸) | ۶۰–۱۵۰ روز (اوسط ۹۰) | ۱۴–۱۸۲ روز | مانند HBV | |
 | **مزمن شدن** | **هرگز** | **نوزاد حدود ۹۰ فیصد؛ طفل ۱–۵ ساله حدود ۳۰ فیصد؛ کاهل حدود ۵ فیصد یا کمتر** (CDC) | **حدود ۷۰ فیصد (۵۵–۸۵ فیصد)** (WHO) | Superinfection: اکثراً مزمن | فقط در ایمونوسپرس (**Genotype 3 و 4**؛ Genotype 1 و 2 مزمن گزارش نشده — EASL) |
 | **ALF** | نادر | نادر، اما مهم | نادر | خطر بیشتر از HBV تنها | ⚠️ **حاملگی: مرگ‌ومیر حدود ۲۵ فیصد** (EASL 2018) |
 | **واکسین** | **بلی** | **بلی** | نه | **واکسین HBV هم محافظت می‌کند** | در افغانستان در دسترس نیست |
@@ -513,7 +513,6 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Schillie S, et al. **Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the ACIP.** MMWR Recomm Rep. 2018;67(1):1–31.
 - CDC. **Clinical Overview of Hepatitis B**; **Clinical Overview of Viral Hepatitis** (incubation periods). cdc.gov.
 
-**برچسب‌های دوایی (منبع دوزها)**
 - VIREAD (tenofovir disoproxil fumarate) — DailyMed/FDA.
 - BARACLUDE (entecavir) — DailyMed/FDA.
 - VEMLIDY (tenofovir alafenamide) — FDA label 2024.

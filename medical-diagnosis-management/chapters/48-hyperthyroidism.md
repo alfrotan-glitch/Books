@@ -1,6 +1,6 @@
 # فصل ۴۸ — پُرکاری تایروئید و تایروتوکسیکوز (Hyperthyroidism & Thyrotoxicosis)
 
-> **بخش هفتم — اندوکراین** · *با Currentness audit (ATA 2016؛ مرور Endocrine Practice 2024)*
+> **بخش هفتم — اندوکراین**
 
 ## سه تپش قلب
 
@@ -114,7 +114,7 @@
 - **Radioactive iodine uptake (RAIU) و Scan** — Graves (منتشر بلند)، گره‌ای (نقاط گرم)، Thyroiditis (پایین). ⚠️ در حاملگی و شیردهی نه.
 - **Ultrasound Doppler** — جریان خون بلند در Graves (بدیل وقتی RAIU در دسترس نیست — وضع بسیاری از ولایات).
 - ESR/CRP (Subacute thyroiditis)؛ Thyroglobulin (منبع خارجی).
-- **نسبت T3 به T4** بلند به نفع Graves/گره‌ای — 🔒 حد نسبت → SD-36.
+- **نسبت T3 به T4** بلند به نفع Graves/گره‌ای — حد نسبت
 
 ---
 
@@ -123,7 +123,7 @@
 1. **TSH پایین** → تایروتوکسیکوز ممکن.
 2. FT4 و T3 → Overt یا Subclinical.
 3. **علت:** Orbitopathy + گواتر منتشر = Graves (بالینی)؛ در غیر آن TRAb، RAIU یا Doppler.
-4. **Thyroid storm:** تشخیص **بالینی** — تب، Tachycardia/AF، اختلال شعور، علایم هضمی/کبدی، عدم کفایهٔ قلب در زمینهٔ تایروتوکسیکوز؛ **Burch–Wartofsky score** کمک می‌کند (نقاط → SD-36). **منتظر تست نمان.**
+4. **Thyroid storm:** تشخیص **بالینی** — تب، Tachycardia/AF، اختلال شعور، علایم هضمی/کبدی، عدم کفایهٔ قلب در زمینهٔ تایروتوکسیکوز؛ **Burch–Wartofsky score** کمک می‌کند. **منتظر تست نمان.**
 
 ---
 
@@ -136,7 +136,7 @@
 | **Propylthiouracil (PTU)** | **۵۰۰–۱۰۰۰ mg بار اول، بعد ۲۵۰ mg هر ۴ ساعت** (فمی/NG) | بستن ساخت + بستن تبدیل T4 به T3 |
 | یا **Methimazole** | **۶۰–۸۰ mg در روز** (منقسم) | بستن ساخت |
 | **Propranolol** | **۶۰–۸۰ mg هر ۴ ساعت** (فمی) | علایم Adrenergic؛ در عدم کفایهٔ قلب احتیاط/مانیتورینگ تهاجمی |
-| **Iodine** (SSKI/Lugol) | **حد اقل ۱ ساعت پس از** دوای ضد تایروئید — 🔒 دوز قطره → SD-36 | بستن رها شدن هورمون |
+| **Iodine** (SSKI/Lugol) | **حد اقل ۱ ساعت پس از** دوای ضد تایروئید — دوز قطره | بستن رها شدن هورمون |
 | **Hydrocortisone** | **۳۰۰ mg وریدی بار اول، بعد ۱۰۰ mg هر ۸ ساعت** | بستن تبدیل T4→T3؛ وقایه از کمبود نسبی Adrenal |
 | حمایتی | سرد کردن (Paracetamol — **Aspirin نه**، چون هورمون آزاد را زیاد می‌کند)، مایع، اکسیجن، تداوی علت (انتان) | — |
 
@@ -146,7 +146,7 @@
 ### ۱۰.۲ کنترول علایم — Beta-blocker
 - در همه مریضان علامت‌دار (مخصوصاً مسن، ضربان بلند، مرض قلبی) مگر ممنوع (آسما شدید).
 - **در Thyroiditis تنها تداوی لازم** اکثراً Beta-blocker است.
-- 🔒 دوز معمول Propranolol/Atenolol/Metoprolol برای تایروتوکسیکوز غیر-طوفانی از متن اولیهٔ ATA خوانده نشد → **SD-36**. (مرور 2024: Propranolol ۱۰–۴۰ mg سه تا چهار بار در روز — منبع ثانوی.)
+- دوز معمول Propranolol/Atenolol/Metoprolol برای تایروتوکسیکوز غیر-طوفانی را از برچسب دوا بگیر
 
 ### ۱۰.۳ Graves — سه راه (تصمیم مشترک با مریض)
 
@@ -161,19 +161,19 @@
 |---|---|
 | **Methimazole (MMI) — انتخاب اول** | دوز شروع روزانه (راهنمای تقریبی): **۵–۱۰ mg** اگر FT4 ۱–۱.۵ برابر حد بالایی نورمال؛ **۱۰–۲۰ mg** اگر ۱.۵–۲ برابر؛ **۳۰–۴۰ mg** اگر ۲–۳ برابر — نظر به علایم، اندازهٔ گواتر و T3 تعدیل شود؛ یک بار در روز کافی است |
 | **PTU** | فقط در: **سه‌ماههٔ اول حاملگی (First trimester)**، **Thyroid storm**، حساسیت به MMI بدون گزینهٔ دیگر؛ **۵۰–۱۵۰ mg سه بار در روز** نظر به شدت؛ ⚠️ **خطر سمیت شدید کبد** |
-| **Carbimazole** | در افغانستان و UK رایج؛ در بدن به Methimazole تبدیل می‌شود. 🔒 معادل دوز → SD-36 — از برچسب محلی استفاده کن |
-| پیگیری | FT4 و T3 در ۲–۶ هفته پس از شروع؛ دوز را با بهبود کم کن؛ مدت معمول برای Graves حدود ۱۲–۱۸ ماه، سپس بررسی TRAb برای قطع (🔒 جزئیات → SD-36) |
+| **Carbimazole** | در افغانستان و UK رایج؛ در بدن به Methimazole تبدیل می‌شود. معادل دوز — از برچسب محلی استفاده کن |
+| پیگیری | FT4 و T3 در ۲–۶ هفته پس از شروع؛ دوز را با بهبود کم کن؛ مدت معمول برای Graves حدود ۱۲–۱۸ ماه، سپس بررسی TRAb برای قطع |
 
 ⚠️ **Agranulocytosis:** به مریض **به طور کتبی** بگو: **تب یا گلودرد** → دوا را قطع کن و **فوراً CBC** بده. همچنین علایم کبدی (زردی، ادرار تیره، درد بطن)، Rash، درد مفاصل، Vasculitis (مخصوصاً PTU).
 
-**آماده‌سازی برای RAI یا جراحی:** رساندن به حالت نزدیک به Euthyroid با ATD و Beta-blocker؛ پیش از جراحی Graves، Potassium iodide در روزهای پیش از عمل (ATA — جزئیات → SD-36).
+**آماده‌سازی برای RAI یا جراحی:** رساندن به حالت نزدیک به Euthyroid با ATD و Beta-blocker؛ پیش از جراحی Graves، Potassium iodide در روزهای پیش از عمل.
 
 ### ۱۰.۴ گواتر گره‌ای سمی و Adenoma
 - **RAI** یا **جراحی** (قطعی)؛ ATD طولانی‌مدت برای کسانی که هیچ‌کدام را نمی‌خواهند/نمی‌توانند (Remission نمی‌آورد).
 
 ### ۱۰.۵ Thyroiditis
 - **Beta-blocker** برای علایم؛ **ATD نه**.
-- **Subacute (دردناک):** NSAID؛ در درد شدید Glucocorticoid (🔒 دوز → SD-36).
+- **Subacute (دردناک):** NSAID؛ در درد شدید Glucocorticoid *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 - مرحلهٔ بعدی ممکن **Hypothyroidism** (موقت یا دایمی) → TSH را پس از چند هفته تکرار کن.
 
 ### ۱۰.۶ حاملگی
@@ -184,12 +184,12 @@
 - همکاری با متخصص نسایی (فصل ۸۳).
 
 ### ۱۰.۷ Subclinical hyperthyroidism
-- تداوی نظر به **سن، شدت TSH پایین، مرض قلبی، Osteoporosis** — مخصوصاً مسن‌تر و TSH کاملاً سرکوب‌شده (🔒 حدود سن و TSH → SD-36).
+- تداوی نظر به **سن، شدت TSH پایین، مرض قلبی، Osteoporosis** — مخصوصاً مسن‌تر و TSH کاملاً سرکوب‌شده.
 
 ### ۱۰.۸ Graves orbitopathy
 - **ترک سگرت** (مهمترین)، Euthyroid نگه داشتن، ارجاع به چشم (مخصوصاً تغییر دید/رنگ‌بینی = Optic neuropathy → **عاجل**).
-- خفیف: Selenium (در مناطق کمبود — EUGOGO، منبع ثانوی)، قطره‌های مرطوب‌کننده.
-- متوسط–شدید: Glucocorticoid وریدی، دواهای بیولوژیک — متخصص (دوز → SD-36).
+- خفیف: Selenium، قطره‌های مرطوب‌کننده.
+- متوسط–شدید: Glucocorticoid وریدی، دواهای بیولوژیک — متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 
 ---
 
@@ -213,7 +213,7 @@
 - Graves با ATD: بخشی Remission می‌کنند؛ عود شایع است — مریض را آگاه کن.
 - پس از RAI/جراحی: TSH/FT4 منظم؛ اکثراً Levothyroxine دایمی.
 - TRAb بلند در زمان قطع ATD → خطر عود بیشتر.
-- AF معمولاً با Euthyroid شدن در بسیاری برمی‌گردد (عدد → SD-36).
+- AF معمولاً با Euthyroid شدن در بسیاری برمی‌گردد.
 
 ---
 
@@ -241,11 +241,10 @@
 
 ## 📚 References
 
-1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
-2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — منبع ثانوی).
-3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (منبع ثانوی).
+1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229.
+2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X).
+3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363.
 
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
 
 ---
 

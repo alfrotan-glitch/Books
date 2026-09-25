@@ -1,6 +1,6 @@
 # فصل ۷۷ — ایست قلبی و شوک
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **2025 AHA Guidelines for CPR and ECC — Part 9: Adult Advanced Life Support** (cpr.heart.org) و **الگوریتم ACLS 2025** مستقیم خوانده شد. مراقبت پس از ایست (هدف حرارت، فشار، اکسیجن) و دوزهای وازوپرسور در شوک → SD-68. Septic shock در فصل ۶۷، Anaphylaxis در فصل ۸۱.*
+> **بخش دوازدهم — عاجل و سمیت**
 
 ## «نبض ندارد»
 
@@ -25,7 +25,7 @@
 | **سرعت** | **۱۰۰–۱۲۰ در دقیقه** |
 | **برگشت کامل صدر** | بلی — روی صدر تکیه نکن |
 | **وقفه** | **کمترین**؛ توقف برای نبض و ریتم کمتر از ۱۰ ثانیه |
-| **بدون راه هوایی پیشرفته** | **۳۰ فشار : ۲ تنفس** |
+| **بدون راه هوایی پیشرفته** | **۳۰ فشار: ۲ تنفس** |
 | **با راه هوایی پیشرفته** | **۱ تنفس هر ۶ ثانیه** (۱۰ در دقیقه)، فشار بدون توقف |
 | **فشاردهنده** | **هر ۲ دقیقه عوض کن** (یا زودتر اگر خسته است) |
 | **تهویه** | **زیاد نده** (فشار داخل صدر را بلند و جریان خون را کم می‌کند) |
@@ -42,7 +42,7 @@
 | **ضد Arrhythmia** | **VF/pVT مقاوم: Amiodarone ۳۰۰ mg**، سپس **۱۵۰ mg**؛ یا **Lidocaine ۱–۱.۵ mg/kg** (دوز اول) | — |
 | **نه** | Vasopressin به جای Epinephrine؛ **Epinephrine با دوز بلند** | همان |
 
-**ERC 2025 (اروپا؛ متن رهنمود خوانده شد) همین منطق را با شمارش شاک بیان می‌کند:** در ریتم شاک‌پذیر، **Adrenaline ۱ mg پس از شاک سوم**، بعد هر ۳–۵ دقیقه؛ **Amiodarone ۳۰۰ mg پس از سه شاک** و **۱۵۰ mg پس از پنج شاک** (چه VF پیاپی باشد چه عودکننده)؛ اگر Amiodarone نیست، **Lidocaine ۱۰۰ mg** و پس از پنج شاک **۵۰ mg** اضافی. در ریتم غیر شاک‌پذیر، Adrenaline ۱ mg هر چه زودتر. Calcium، Sodium bicarbonate و Corticosteroid به‌طور روتین در ایست داده نشود.
+**ERC 2025 (اروپا) همین منطق را با شمارش شاک بیان می‌کند:** در ریتم شاک‌پذیر، **Adrenaline ۱ mg پس از شاک سوم**، بعد هر ۳–۵ دقیقه؛ **Amiodarone ۳۰۰ mg پس از سه شاک** و **۱۵۰ mg پس از پنج شاک** (چه VF پیاپی باشد چه عودکننده)؛ اگر Amiodarone نیست، **Lidocaine ۱۰۰ mg** و پس از پنج شاک **۵۰ mg** اضافی. در ریتم غیر شاک‌پذیر، Adrenaline ۱ mg هر چه زودتر. Calcium، Sodium bicarbonate و Corticosteroid به‌طور روتین در ایست داده نشود.
 
 ### علل قابل برگشت — «H و T»
 | H | T |
@@ -56,7 +56,7 @@
 **در PEA، علت را فعالانه بجوی**؛ Epinephrine تنها کافی نیست. **Ultrasound** کنار بستر (Tamponade، Pneumothorax، RV بزرگ) اگر موجود است و CPR را قطع نمی‌کند.
 
 ### چه وقت متوقف شویم؟
-تصمیم تیمی است: مدت، ریتم، علت، و حالت قبلی مریض. **Capnography (EtCO₂)** پایین مداوم کمک می‌کند. *(معیارهای مشخص → SD-68.)* **با فامیل با احترام و صادقانه گپ بزن.**
+تصمیم تیمی است: مدت، ریتم، علت، و حالت قبلی مریض. **Capnography (EtCO₂)** پایین مداوم کمک می‌کند. **با فامیل با احترام و صادقانه گپ بزن.**
 
 ---
 
@@ -92,7 +92,7 @@
 ### اصول
 - **دو خط وریدی بزرگ**؛ Lactate؛ قند؛ کلچر در شک به سپسیس.
 - **مایع به اندازه، و دوباره ارزیابی**: پس از هر Bolus، فشار، ادرار، شش و JVP را ببین. **مایع زیاد در Cardiogenic می‌کشد.**
-- **Noradrenaline** وازوپرسور اول در اکثر شوک‌ها (فصل ۶۷). *(دوزها → SD-68.)*
+- **Noradrenaline** وازوپرسور اول در اکثر شوک‌ها (فصل ۶۷). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **Hydrocortisone** در Adrenal crisis (فصل ۵۰) و Septic shock مقاوم (فصل ۶۷).
 
 ---
@@ -138,4 +138,4 @@
 ## 📚 References
 1. American Heart Association. 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care — Part 9: Adult Advanced Life Support. *Circulation.* 2025. cpr.heart.org.
 2. American Heart Association. Adult Cardiac Arrest Circular Algorithm. 2025.
-3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3) — (بخش‌های Vasopressor، Antiarrhythmic و Other medication خوانده شد ۲۰۲۶-۰۹-۲۵).
+3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3).

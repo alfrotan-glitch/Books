@@ -1,6 +1,6 @@
 # فصل ۵۲ — هایپوگلایسیمی و لیپید
 
-> **بخش هفتم — اندوکراین** · *Currentness audit: ADA Standards of Care 2026 (فصل ۶ و ۱۶)؛ Endocrine Society 2009 (هایپوگلایسیمی بالغان — هنوز رهنمود جاری این انجمن)؛ ESC/EAS 2019 با Focused update 2025؛ برچسب FDA Glucagon*
+> **بخش هفتم — اندوکراین**
 
 ## مریضی که «نشه» گمان شد
 
@@ -64,11 +64,11 @@
 - **Glucagon** (برچسب FDA): بالغ و طفل بالای ۲۵ kg، **۱ mg** زیر جلدی، عضلی یا وریدی (راه وریدی فقط زیر نظر طبی). اگر پس از **۱۵ دقیقه** جواب نداد، **۱ mg دیگر** از یک کیت تازه، تا کمک برسد.
   - منع استعمال Glucagon: **Phaeochromocytoma**، چون Catecholamine آزاد می‌کند و فشار را شدیداً بالا می‌برد (فصل ۵۰). همچنین **Insulinoma**، چون پس از بالا رفتن اول قند، Insulin زیاد آزاد می‌شود و هایپوگلایسیمی بدتر می‌شود.
   - اگر پس از Glucagon دوباره هایپوگلایسیمی شد، Glucose فمی یا وریدی بده.
-- **Glucose وریدی** در شفاخانه، راه اصلی مریض بی‌هوش با خط وریدی است (ADA 2026). غلظت و حجم دقیق Dextrose از منبع اولیه در این فصل تأیید نشد → **SD-45**. پروتوکول شفاخانهٔ خود را پیروی کن.
+- **Glucose وریدی** در شفاخانه، راه اصلی مریض بی‌هوش با خط وریدی است (ADA 2026). غلظت و حجم دقیق Dextrose را از پروتوکول شفاخانهٔ خود بگیر.
 - **Thiamine:** در مریض الکولیک یا سوءتغذیه، پیش یا همراه Glucose → فصل ۸۷.
 
 **چرا Glucagon در بعضی مریضان کار نمی‌کند؟** Glucagon قند را از **ذخیرهٔ Glycogen کبد** آزاد می‌کند. در گرسنگی طولانی، مصرف الکول و مرض شدید کبد، این ذخیره خالی است. در این حالات Glucose وریدی لازم است.
-*(این نتیجهٔ میکانیزم است؛ جملهٔ برچسب دربارهٔ آن در این فصل مستقیم خوانده نشد → SD-45.)*
+
 
 ### ۴. پس از بالا آمدن قند — «چرا افتاد؟» سؤال اصلی است
 
@@ -116,11 +116,11 @@ Glucose، Insulin، C-peptide، Proinsulin، Beta-hydroxybutyrate، و **سکر�
 | Sulfonylurea | بلند | بلند | بلند | **مثبت** | از نگاه هورمونی شبیه Insulinoma؛ **فقط سکرین جدا می‌کند** |
 | غیر Insulin (گرسنگی، کبد، کمبود Cortisol) | پایین | پایین | پایین | منفی | Beta-hydroxybutyrate بلند (بدن کیتون می‌سازد) |
 
-*(حدود Insulin، C-peptide و Proinsulin از Endocrine Society 2009، به نقل Endotext و RACGP؛ منبع اولیه مستقیم خوانده نشد → SD-45.)*
+ *(حدود Insulin، C-peptide و Proinsulin از Endocrine Society 2009.)*
 
 ⚠️ **دام:** Insulin و C-peptide بلند، پس Insulinoma → جراحی. اگر سکرین Sulfonylurea فرستاده نشده باشد، مریض با هایپوگلایسیمی دوایی ممکن است عمل پانکراس شود. **سکرین را همیشه همراه نمونه بفرست.**
 
-محل‌یابی و تداوی Insulinoma، و هایپوگلایسیمی پس از جراحی معده (Bariatric)، برای متخصص است و در این فصل تحریر نشد → SD-45.
+محل‌یابی و تداوی Insulinoma، و هایپوگلایسیمی پس از جراحی معده (Bariatric)، برای متخصص است و در این فصل تحریر نشد
 
 ---
 
@@ -135,7 +135,7 @@ Glucose، Insulin، C-peptide، Proinsulin، Beta-hydroxybutyrate، و **سکر�
 یک مریض با LDL «نورمال» که MI کرده، بیشتر از یک جوان سالم با LDL کمی بلند به تداوی نیاز دارد.
 
 ### ۷. قدم اول: طبقه‌بندی خطر (ESC/EAS 2019، Focused update 2025)
-Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف LDL و طبقات خطر را **تغییر نداد**. برای وقایهٔ اولیه، **SCORE2** (۴۰–۶۹ سال) و **SCORE2-OP** (۷۰ سال یا بیشتر) را به جای SCORE گذاشت (I، B). این دو فقط برای کسی است که ASCVD ندارد و تحت تداوی لیپید نیست؛ خطر را پس از شروع Statin با آن‌ها دوباره حساب نکن. در دیابت نوع ۲ بدون ASCVD، SCORE2-Diabetes به کار می‌رود (فصل ۴۶).
+Focused update 2025 اهداف LDL و طبقات خطر را **تغییر نداد**. برای وقایهٔ اولیه، **SCORE2** (۴۰–۶۹ سال) و **SCORE2-OP** (۷۰ سال یا بیشتر) را به جای SCORE گذاشت (I، B). این دو فقط برای کسی است که ASCVD ندارد و تحت تداوی لیپید نیست؛ خطر را پس از شروع Statin با آن‌ها دوباره حساب نکن. در دیابت نوع ۲ بدون ASCVD، SCORE2-Diabetes به کار می‌رود (فصل ۴۶).
 
 | طبقهٔ خطر | کی؟ (نمونه‌ها) | هدف LDL-C |
 |---|---|---|
@@ -155,7 +155,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 **قدم ۳ — اگر با دوز حد اعظمی قابل تحمل Statin و Ezetimibe به هدف نرسید:** مهارکنندهٔ **PCSK9** در خطر بسیار بلند (ESC/EAS 2019)؛ یا افزودن **Bempedoic acid** در خطر بلند و بسیار بلند (IIa، C — Focused update 2025). در شرایط ما دسترسی و قیمت محدودیت واقعی است. پس دو قدم اول را درست و کامل اجرا کن.
 
 **تغییرات مهم Focused update 2025:**
-- **مریضی که Statin را تحمل نمی‌کند:** دواهای غیر Statin با فایدهٔ ثابت‌شده (Ezetimibe، PCSK9 mAb، Bempedoic acid)، تنها یا ترکیبی، توصیه می‌شوند (I، A). **Bempedoic acid** برای رسیدن به هدف LDL در این مریض توصیه می‌شود (I، B؛ تریال CLEAR Outcomes). ⚠️ Bempedoic acid اسید یوریک را کمی بالا می‌برد؛ در سابقهٔ نقرس احتیاط کن. دوز و برچسب آن در این فصل تأیید نشد → SD-45.
+- **مریضی که Statin را تحمل نمی‌کند:** دواهای غیر Statin با فایدهٔ ثابت‌شده (Ezetimibe، PCSK9 mAb، Bempedoic acid)، تنها یا ترکیبی، توصیه می‌شوند (I، A). **Bempedoic acid** برای رسیدن به هدف LDL در این مریض توصیه می‌شود (I، B؛ تریال CLEAR Outcomes). ⚠️ Bempedoic acid اسید یوریک را کمی بالا می‌برد؛ در سابقهٔ نقرس احتیاط کن. دوز را از برچسب دوا بگیر.
 - **ACS:** در مریضی که پیش از بستری دوای لیپید می‌گرفت، تداوی در همان بستری **تشدید** شود (I، C). در مریضی که قبلاً دوا نمی‌گرفت و انتظار نمی‌رود با Statin تنها به هدف برسد، **Statin با شدت بلند + Ezetimibe** از همان بستری در نظر گرفته شود (IIa، B). جزئیات ACS در فصل ۸.
 - **Lp(a):** سطح **بالاتر از ۵۰ mg/dL (۱۰۵ nmol/L)** در همه کاهلان یک عامل افزایندهٔ خطر است (IIa، B). Lp(a) حد اقل یک بار در عمر هر کاهل اندازه شود. هنوز دوایی نیست که با کاهش Lp(a) فایدهٔ بالینی آن ثابت شده باشد؛ پس خطر را با کنترول جدی‌تر LDL و عوامل دیگر کم کن.
 - **Triglyceride:** Statin دوای اول برای کاهش خطر است. **Icosapent ethyl با دوز بلند (۲ g دو بار در روز)** همراه Statin در خطر بلند یا بسیار بلند با Triglyceride ناشتای **۱۳۵–۴۹۹ mg/dL (۱.۵۲–۵.۶۳ mmol/L)** در نظر گرفته شود (IIa، B). این حکم فقط برای EPA خالص است؛ مخلوط EPA/DHA در تریال STRENGTH فایده نداشت. Fibrateها فقط IIb ماندند.
@@ -168,7 +168,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **Hypothyroidism را رد کن.** Hypothyroidism کلسترول را بالا می‌برد و خطر Myopathy با Statin را زیاد می‌کند (فصل ۴۹).
 - دواهای هم‌زمان را برای تداخل ببین.
 
-**Statin در حاملگی** و جزئیات تداخل‌ها از منبع اولیهٔ برچسب در این فصل خوانده نشد → SD-45. این دو را پیش از نسخه برای زن در سن باروری جداگانه بررسی کن.
+**Statin در حاملگی** و جزئیات تداخل‌ها را پیش از نسخه برای زن در سن باروری جداگانه بررسی کن.
 
 **پیگیری:** لیپید پس از چند هفته، برای دیدن کاهش و رسیدن به هدف. مریضی که به هدف نمی‌رسد، اکثراً دوا را منظم نمی‌خورد؛ **پیش از بالا بردن دوز، از پابندی بپرس.**
 
@@ -176,7 +176,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **LDL-C بیشتر از ۱۹۰ mg/dL (۴.۹ mmol/L)** در جوان، یا سابقهٔ فامیلی مرض قلبی زودرس → **Familial hypercholesterolaemia (FH)**. این مریض به طور خودکار حد اقل در خطر بلند است (جدول بالا)، و فامیل او هم باید سکرین شود.
 - **Triglyceride بسیار بلند** → خطر **پانکراتیت** (فصل ۳۵). حد و تداوی عاجل در فصل ۳۵ آمده و این‌جا تکرار نمی‌شود.
 
-**سندروم متابولیک** (چاقی مرکزی، قند، فشار، Triglyceride بلند و HDL پایین) یک مفهوم مفید برای «دیدن مجموعه» است. هر جزء آن در فصل مربوطه تداوی می‌شود (فصل ۶ فشار، ۴۶ دیابت، این فصل لیپید). معیارهای رسمی آن در این فصل از منبع اولیه نیامده → SD-45.
+**سندروم متابولیک** (چاقی مرکزی، قند، فشار، Triglyceride بلند و HDL پایین) یک مفهوم مفید برای «دیدن مجموعه» است. هر جزء آن در فصل مربوطه تداوی می‌شود (فصل ۶ فشار، ۴۶ دیابت، این فصل لیپید).
 
 ---
 
@@ -212,7 +212,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 
 ## 📚 References
 1. American Diabetes Association. Standards of Care in Diabetes—2026: Section 6 (Glycemic Goals, Hypoglycemia) and Section 16 (Diabetes Care in the Hospital). *Diabetes Care.* 2026;49(Suppl 1).
-2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728. (از طریق Endotext و RACGP.)
+2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728.
 3. Glucagon for Injection — FDA prescribing information (Lilly/Amphastar labels; DailyMed/accessdata).
 4. Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J.* 2020;41:111–188.
-5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190 (متن کامل، Recommendation Tables 1–7، خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190.

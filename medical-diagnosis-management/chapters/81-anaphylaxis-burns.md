@@ -1,6 +1,6 @@
 # فصل ۸۱ — Anaphylaxis و سوختگی
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Resuscitation Council UK 2021 — Emergency treatment of anaphylaxis** (متن رهنمود و خلاصه مستقیم خوانده شد). سوختگی: **American Burn Association Clinical Practice Guidelines on Burn Shock Resuscitation** (2023) از خلاصه و پروتوکول‌های مبتنی بر آن؛ متن کامل خوانده نشد. دوز انفیوژن Adrenaline، مدت نظارت پس از Anaphylaxis، و جزئیات سرد کردن و ارجاع سوختگی → SD-72.*
+> **بخش دوازدهم — عاجل و سمیت**
 
 ## دو صحنه در یک شب
 
@@ -33,7 +33,7 @@
 | **۳** | **Adrenaline عضلی — فوراً** در **قسمت قدامی–جانبی ران**: **کاهل و طفل بالای ۱۲ سال: ۵۰۰ microgram** (۰.۵ mL از محلول ۱ mg/mL). **اگر شک داری، بده.** |
 | **۴** | **پس از ۵ دقیقه**، اگر مشکل A/B/C باقی است → **Adrenaline عضلی را تکرار کن**. |
 | **۵** | **اکسیجن** با جریان بلند؛ **خط وریدی**؛ **مایع**: **کاهل ۵۰۰–۱۰۰۰ mL**، طفل **۲۰ mL/kg** Crystalloid — **زود** اگر فشار پایین است. |
-| **۶** | **Anaphylaxis مقاوم** (بدون بهبود پس از **دو دوز** عضلی) → **انفیوژن Adrenaline وریدی** توسط شخص مجرب؛ و متخصص. *(دوز انفیوژن → SD-72.)* |
+| **۶** | **Anaphylaxis مقاوم** (بدون بهبود پس از **دو دوز** عضلی) → **انفیوژن Adrenaline وریدی** توسط شخص مجرب؛ و متخصص. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)* |
 
 **دوز عضلی Adrenaline برای اطفال (RCUK):**
 | سن | دوز |
@@ -75,7 +75,7 @@
 3. **دوران:** شوک سوختگی ساعت‌ها بعد می‌آید. **شوک در ساعت اول** → به **خونریزی یا ترضیض دیگر** فکر کن.
 
 ### ۳. سرد کردن و پوشاندن
-- **آب جاری سرد (نه یخ)** زود پس از سوختگی. *(مدت و حد زمانی → SD-72.)*
+- **آب جاری سرد (نه یخ)** زود پس از سوختگی.
 - **مریض را گرم نگه دار** (Hypothermia، به ویژه در اطفال و سوختگی وسیع).
 - **پوشش تمیز و غیرچسپنده** (پلاستیک غذا مناسب است). **روغن، خمیر دندان، یا تخم مرغ نه.**
 
@@ -91,14 +91,14 @@
   - نیمه در **۸ ساعت اول** (از **زمان سوختگی**، نه از رسیدن به شفاخانه)؛ نیمهٔ دیگر در ۱۶ ساعت بعد.
 - **هدف: ادرار حد اقل ۰.۵ mL/kg/ساعت در کاهل** (Catheter). مایع را **هر ساعت** مطابق ادرار تنظیم کن.
 - **مایع زیاد (Fluid creep)** هم خطرناک است: ادیم، Compartment syndrome، و ARDS.
-- *(ادرار هدف در اطفال، و Albumin → SD-72.)*
+-
 
 ### ۶. دیگر اهتمامات
 - **درد:** Opioid وریدی با دوز تنظیم‌شده.
 - **Tetanus** (فصل ۷۱).
 - **Antibiotic وقایوی نه** (فصل ۷۱)؛ انتان را با علایم تداوی کن.
 - **تغذیه زود** (فصل ۸۷).
-- **راجع به مرکز سوختگی:** سوختگی وسیع؛ صورت، دست، پا، ناحیهٔ تناسلی، یا مفاصل؛ Inhalation injury؛ سوختگی برقی یا کیمیاوی؛ دایره‌وی؛ و اطفال و سالخوردگان. *(معیارهای دقیق → SD-72.)*
+- **راجع به مرکز سوختگی:** سوختگی وسیع؛ صورت، دست، پا، ناحیهٔ تناسلی، یا مفاصل؛ Inhalation injury؛ سوختگی برقی یا کیمیاوی؛ دایره‌وی؛ و اطفال و سالخوردگان.
 
 ---
 
@@ -148,4 +148,4 @@
 - Dodd A, et al. **Evidence update for the treatment of anaphylaxis.** Resuscitation. 2021;163:86–96.
 - NICE. **Anaphylaxis: assessment and referral after emergency treatment (NG258).** 2026 — بخش Period of observation.
 1. Resuscitation Council UK. Emergency treatment of anaphylaxis: guidelines for healthcare providers. May 2021.
-2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023. (خلاصه خوانده شد → SD-72.)
+2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023.

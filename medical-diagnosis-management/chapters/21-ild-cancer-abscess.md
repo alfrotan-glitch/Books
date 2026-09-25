@@ -1,6 +1,6 @@
 # فصل ۲۱ — امراض بینابینی شش، سرطان شش و ابسهٔ شش (ILD, Lung Cancer & Lung Abscess)
 
-> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS/ERS/JRS/ALAT 2022 IPF و PPF (جاری)؛ NCCN 2026 سرطان شش (فقط اصول، دوز تخصصی نوشته نمی‌شود).*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -440,7 +440,6 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی انکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در حالات عاجل سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ شش در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض با Crackles Velcro: **دربارهٔ کبوتر، شغل، و دواها** بپرس.

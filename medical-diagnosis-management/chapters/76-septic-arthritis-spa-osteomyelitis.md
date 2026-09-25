@@ -1,6 +1,6 @@
 # فصل ۷۶ — ارتریت سپتیک، Spondyloarthritis و Osteomyelitis
 
-> **بخش یازدهم — روماتولوژی** · *Currentness audit: ارتریت سپتیک — رهنمود بین‌المللی تازه و واحد یافت نشد؛ اصول بالینی استندرد، **بدون دوز Antibiotic** (SD-61). Axial spondyloarthritis — **ASAS-EULAR 2022** (Ramiro S et al., Ann Rheum Dis 2023) از RheumNow، ResearchGate و Manchester Research Explorer. Vertebral osteomyelitis — **IDSA 2015** (Berbari EF et al., CID 2015؛ Guideline Central، بازبینی می ۲۰۲۶).*
+> **بخش یازدهم — روماتولوژی**
 
 ## سه درد، سه عجله
 
@@ -32,14 +32,14 @@
 - **تب ممکن است نباشد.** نبود تب انتان را رد نمی‌کند (فصل ۶۶).
 - **Aspiration مایع — پیش از Antibiotic:**
   - **گرام و کلچر**؛
-  - **شمارش WBC** (بسیار بلند با غلبهٔ Neutrophil اکثراً به انتان اشاره دارد؛ اما **هیچ عددی انتان را به طور قطعی رد یا تأیید نمی‌کند**) → *حدود عددی → SD-61*؛
+  - **شمارش WBC** (بسیار بلند با غلبهٔ Neutrophil اکثراً به انتان اشاره دارد؛ اما **هیچ عددی انتان را به طور قطعی رد یا تأیید نمی‌کند**)؛
   - **کرستال**. کرستال مثبت انتان را رد نمی‌کند؛ هر دو ممکن است با هم باشند.
 - **کلچر خون** (دو ست).
 - CRP، ESR و WBC کمک می‌کنند، اما **نه برای رد**.
 - **شک به Gonococcus:** کلچر یا NAAT از ادرار، عنق رحم یا احلیل، و گلو.
 
 ### ۳. تداوی
-1. **Antibiotic وریدی تجربی فوراً پس از Aspiration**، بر اساس **گرام**، سن، عوامل خطر، و **خطر MRSA** و مقاومت محلی. بعد بر اساس کلچر تنظیم کن. *(رژیم‌ها، دوزها و مدت → SD-61.)*
+1. **Antibiotic وریدی تجربی فوراً پس از Aspiration**، بر اساس **گرام**، سن، عوامل خطر، و **خطر MRSA** و مقاومت محلی. بعد بر اساس کلچر تنظیم کن. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 2. **تخلیهٔ مفصل:** Aspiration مکرر با سوزن، یا **شستشوی جراحی/Arthroscopic**. **برای مفصل لگن، مفصل مصنوعی، یا جواب ضعیف → ارتوپیدی.**
 3. **مفصل مصنوعی انتانی** → ارتوپیدی از روز اول.
 4. **فزیوتراپی** پس از کنترول انتان، برای حفظ حرکت.
@@ -90,7 +90,7 @@
    - **Psoriasis قابل ملاحظه:** IL-17i.
 6. **پیش از Biologic:** **TB نهفته و HBV** (فصل ۱۹، ۳۱؛ مثل فصل ۷۳).
 
-*(دوزها → SD-61.)*
+ *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 **Reactive arthritis:**
 - Oligoarthritis پاها ۱–۴ هفته پس از **اسهال** (فصل ۲۹) یا **انتان تناسلی** (*Chlamydia*)؛ با یا بدون Conjunctivitis/Uveitis.
@@ -131,7 +131,7 @@
   - **۳ ماه** برای **Brucella**؛
   - TB → رژیم TB (فصل ۱۹).
 - **ارزیابی بالینی و CRP/ESR در حدود هفتهٔ ۴** (IDSA).
-- *(رژیم‌ها و دوزها → SD-61.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 ⚠️ **ضعف پا، بی‌حسی، یا مشکل ادرار و مواد غایطه با کمر درد و تب = ابسهٔ Epidural تا خلاف آن ثابت شود → MRI و جراحی عاجل.** ساعت‌ها بین راه رفتن و فلج دایمی فاصله است.
 
@@ -180,5 +180,5 @@
 5. چه وقت Antibiotic را تا Biopsy نگه داریم؟ ← معاینهٔ عصبی نورمال و همودینامیک ثابت.
 
 ## 📚 References
-1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34. (از خلاصه‌ها.)
+1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34.
 2. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 IDSA clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. *Clin Infect Dis.* 2015;61(6):e26–e46. (از Guideline Central.)

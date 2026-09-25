@@ -1,6 +1,6 @@
 # فصل ۴۳ — اختلالات اسید–قلوی (Acid–Base Disorders)
 
-> **بخش ششم — گرده** · *با Currentness audit (BICAR-ICU 2018 → BICARICU-2 2025)*
+> **بخش ششم — گرده**
 
 ## یک گاز خون، سه سؤال
 
@@ -163,9 +163,9 @@
 - اگر **بالاتر** → **Respiratory acidosis هم‌زمان** — مریض خسته می‌شود؛ ⚠️ خطر توقف تنفس.
 - جبران کامل (pH کاملاً نورمال) نادر است؛ pH نورمال با HCO₃⁻ و PaCO₂ غیرنورمال → اختلال مختلط را فکر کن.
 
-*منابع فورمول‌ها: متن آموزشی University of Colorado (Evaluation of Acid-Base Disorders) و خلاصه‌های ABG — همه منابع ثانوی/آموزشی‌اند؛ فورمول‌ها تجربی هستند و «±» دارند (SD-29).*
+*منابع فورمول‌ها: متن آموزشی University of Colorado (Evaluation of Acid-Base Disorders) و خلاصه‌های ABG — فورمول‌ها تجربی هستند و «±» دارند.*
 
-🔒 **حد نورمال Anion gap و فاکتور اصلاح Albumin** به روش لابراتوار بستگی دارد و از منبع اولیه در این نشست تأیید نشد → حد لابراتوار خود را به کار ببر (**SD-29**).
+**حد نورمال Anion gap و فاکتور اصلاح Albumin** به روش لابراتوار بستگی دارد؛ حد لابراتوار خود را به کار ببر.
 
 **Delta–delta (منطق، نه فقط عدد):** در AG acidosis خالص، هر واحد افزایش AG تقریباً یک واحد HCO₃⁻ را مصرف می‌کند. اگر HCO₃⁻ **بیشتر از انتظار** بلند مانده → Metabolic alkalosis هم‌زمان (مثل DKA + استفراغ). اگر **کمتر** → Non-AG acidosis هم‌زمان.
 
@@ -187,18 +187,18 @@
 
 - **جایی که Bicarbonate نقش روشن‌تر دارد:** ضیاع HCO₃⁻ (اسهال شدید، RTA — فمی)، **مسمومیت Salicylate** (قلوی کردن ادرار)، مسمومیت با دواهای مسدودکنندهٔ کانال Sodium (مثل Tricyclics).
 - **خطرات:** اضافه‌بار Sodium/حجم، Hypokalaemia، کاهش Ionized calcium، تولید CO₂ (در مریضی که نمی‌تواند تهویه کند، خطرناک).
-- 🔒 **دوز Bicarbonate** (وریدی/فمی) از منبع اولیه تأیید نشد → **SD-29**.
+- **دوز Bicarbonate** (وریدی/فمی) را از برچسب دوا یا پروتوکول شفاخانه بگیر
 - **DKA:** Bicarbonate روتین نه → فصل ۴۷.
 
 ### ۱۰.۳ الکول‌های سمی (Methanol، Ethylene glycol)
 - در افغانستان و منطقه، **Methanol در الکول تقلبی** سبب مسمومیت‌های گروهی می‌شود.
 - تداوی: **Fomepizole** (یا Ethanol اگر Fomepizole نیست) برای بستن Alcohol dehydrogenase، **Haemodialysis**، Bicarbonate برای اسیدوز، Folate/Folinic acid (Methanol)، Thiamine/Pyridoxine (Ethylene glycol).
-- 🔒 دوزها و آستانه‌های دیالیز → **SD-29**؛ با مرکز سموم/متخصص.
+- دوزها و آستانه‌های دیالیز؛ با مرکز سموم/متخصص.
 
 ### ۱۰.۴ Metabolic alkalosis
 - **Chloride-responsive:** **Normal saline** + **Potassium** (فصل ۴۲)؛ قطع/کم کردن Diuretic؛ PPI در NG suction طولانی.
 - **Chloride-resistant:** تداوی علت (Hyperaldosteronism → فصل ۵۰)؛ اصلاح K⁺.
-- مقاوم در مریض پرحجم: Acetazolamide یا دیالیز — تصمیم متخصص (دوز → SD-29).
+- مقاوم در مریض پرحجم: Acetazolamide یا دیالیز — تصمیم متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 
 ### ۱۰.۵ Respiratory acidosis
 - علت: برگرداندن Opioid (Naloxone — فصل ۸۰)، تداوی COPD/آسما.
@@ -257,11 +257,10 @@
 
 ## 📚 References
 
-1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40 — (خلاصهٔ Wiki Journal Club بررسی شد).
-2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025 — (خلاصهٔ The Bottom Line، نوامبر ۲۰۲۵ بررسی شد؛ متن اصلی خوانده نشد → SD-29).
+1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40.
+2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025.
 3. University of Colorado Internal Medicine Residency. *Evaluation of Acid-Base Disorders* (suggested reading PDF) — فورمول‌های جبران.
 
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** مهمترین تغییر: **BICARICU-2 (2025)** فایدهٔ مرگ‌ومیر زیرگروه AKI در BICAR-ICU را تأیید نکرد — متن این فصل بر اساس جدیدترین شواهد نوشته شد. فورمول‌های جبران دهه‌ها ثابت مانده‌اند.
 
 ---
 

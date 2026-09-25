@@ -1,6 +1,6 @@
 # فصل ۱۹ — توبرکلوز (سل) (Tuberculosis)
 
-> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): WHO Consolidated TB Module 4 (2025)، ATS/CDC/ERS/IDSA 2025 (جاری)؛ رهنمود ملی NTP افغانستان.*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -359,7 +359,6 @@
 - Dorman SE, et al. **Four-Month Rifapentine Regimens with or without Moxifloxacin for Tuberculosis (Study 31/A5349).** N Engl J Med. 2021;384:1705–1718.
 - Nyang'wa BT, et al. **A 24-Week, All-Oral Regimen for Rifampin-Resistant Tuberculosis (TB-PRACTECAL).** N Engl J Med. 2022;387:2331–2343.
 - Thwaites GE, et al. **Dexamethasone for the treatment of tuberculous meningitis in adolescents and adults.** N Engl J Med. 2004;351:1741–1751.
-- **National Tuberculosis Programme, Ministry of Public Health, Afghanistan** — رهنمود ملی (برای رژیم‌ها، فورم‌های ثبت، و دسترسی به دواهای MDR). *[نسخهٔ جاری باید پیش از نشر مطابقت داده شود.]*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 

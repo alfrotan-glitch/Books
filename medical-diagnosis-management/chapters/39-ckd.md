@@ -1,6 +1,6 @@
 # فصل ۳۹ — مرض مزمن گرده (Chronic Kidney Disease, CKD)
 
-> **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+> **بخش ششم — گرده**
 
 ## گرده‌ای که بی‌صدا پیر شد
 
@@ -162,14 +162,14 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 
 | دوا | دوز · راه · تکرار · مدت | تعدیل گرده‌ای | منبع |
 |---|---|---|---|
-| **Dapagliflozin** (برای CKD، عدم کفایهٔ قلب) | **۱۰ mg فمی یک بار روزانه**، دوامدار | eGFR ۲۵ یا بیشتر: دوز نورمال. **شروع در eGFR کمتر از ۲۵ توصیه نمی‌شود.** اگر در جریان تداوی زیر ۲۵ رفت، ادامهٔ ۱۰ mg ممکن است. برای کنترول قند در eGFR کمتر از ۴۵ توصیه نمی‌شود (بی‌اثر) | **VERIFIED:** FARXIGA US Prescribing Information (DailyMed، نسخهٔ 06/2026) §2.2–2.3 |
+| **Dapagliflozin** (برای CKD، عدم کفایهٔ قلب) | **۱۰ mg فمی یک بار روزانه**، دوامدار | eGFR ۲۵ یا بیشتر: دوز نورمال. **شروع در eGFR کمتر از ۲۵ توصیه نمی‌شود.** اگر در جریان تداوی زیر ۲۵ رفت، ادامهٔ ۱۰ mg ممکن است. برای کنترول قند در eGFR کمتر از ۴۵ توصیه نمی‌شود (بی‌اثر) | FARXIGA US Prescribing Information (DailyMed، نسخهٔ 06/2026) §2.2–2.3 |
 
 ⚠️ **تفاوت منابع:** KDIGO 2024 شروع SGLT2i را از **eGFR ۲۰** توصیه می‌کند (بر پایهٔ مجموع تریال‌ها، از جمله Empagliflozin)؛ برچسب Dapagliflozin شروع را از **eGFR ۲۵** اجازه می‌دهد. هنگام تجویز یک دوای مشخص، **برچسب همان دوا** را رعایت کن.
 
 **احتیاط‌های SGLT2i:** انتانات فنگسی تناسلی؛ **Ketoacidosis** (حتی با قند نورمال) در روزه، جراحی یا مرض حاد؛ کم‌آبی با دیورتیک‌ها. در ماه رمضان با داکتر برنامه‌ریزی شود.
 
 ### ۱۰.۴ دواهای هدفمند (KDIGO 2024)
-- **Nonsteroidal MRA** (مثلاً Finerenone): در **دیابت نوع ۲، eGFR بیشتر از ۲۵، پوتاشیم نورمال، و Albuminuria (بیشتر از ۳ mg/mmol) با وجود حد اعظمی دوز RASi** (Rec 3.8.1، 2A). پوتاشیم را منظم نظارت کن. *دوز در این فصل ثبت نشد (SD-22).*
+- **Nonsteroidal MRA** (مثلاً Finerenone): در **دیابت نوع ۲، eGFR بیشتر از ۲۵، پوتاشیم نورمال، و Albuminuria (بیشتر از ۳ mg/mmol) با وجود حد اعظمی دوز RASi** (Rec 3.8.1، 2A). پوتاشیم را منظم نظارت کن. *دوز در این فصل ثبت نشد.*
 - **GLP-1 RA طولانی‌اثر:** در دیابت نوع ۲ + CKD وقتی هدف قند با Metformin و SGLT2i نرسیده یا این دواها ممکن نیست (Rec 3.9.1، 1B).
 - **CCB از گروه Dihydropyridine یا دیورتیک** برای رسیدن به هدف فشار؛ **MRA ستیروئیدی** در فشار مقاوم اگر eGFR ۴۵ یا بیشتر (شکل ۲).
 - **Antiplatelet** فقط برای مرض قلبی-عروقی آترواسکلروتیک ثابت.
@@ -180,8 +180,8 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 |---|---|---|
 | **اسیدوز متابولیک** | تداوی دوایی ± غذایی را **در نظر بگیر** تا اسیدوز مهم رخ ندهد (مثلاً Bicarbonate سیروم **کمتر از ۱۸ mmol/L** در کاهلان)؛ نگذار Bicarbonate از حد بالای نورمال بگذرد یا فشار، پوتاشیم و حجم را خراب کند | PP 3.10.1–3.10.2 |
 | **Hyperkalaemia** | اکثراً با اقدامات کاهش پوتاشیم (نه قطع RASi) قابل کنترول است؛ محدودیت غذاهای پرپوتاشیم پروسس‌شده؛ Binderها بر پایهٔ دسترسی محلی | PP 3.6.3، 3.11 |
-| **کم‌خونی** | آهن و ESA بر پایهٔ رهنمود KDIGO Anaemia | KDIGO Anaemia (SD-22) |
-| **CKD-MBD** | فاسفیت، کلسیم، PTH، Vitamin D — KDIGO 2017 CKD-MBD | SD-22 |
+| **کم‌خونی** | آهن و ESA بر پایهٔ رهنمود KDIGO Anaemia | KDIGO Anaemia |
+| **CKD-MBD** | فاسفیت، کلسیم، PTH، Vitamin D — KDIGO 2017 CKD-MBD | |
 | **Hyperuricaemia** | علامه‌دار (نقرس) ← کاهش اسید یوریک (1C)؛ **Xanthine oxidase inhibitor** بر Uricosuric ارجح؛ حملهٔ حاد: **Colchicine دوز پایین یا Glucocorticoid** بهتر از NSAID. بی‌علامه ← برای کند کردن CKD تداوی نکن (2D) | Rec 3.14.1–3.14.2 |
 
 ### ۱۰.۶ مدیریت دوا (Drug stewardship) — KDIGO 2024 فصل ۴
@@ -254,7 +254,7 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 
 - KDIGO CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. و **Executive summary** (kdigo.org) — جداول ۴ و ۵، شکل‌های ۲ و ۳.
 - **FARXIGA (dapagliflozin) US Prescribing Information.** AstraZeneca; DailyMed (Recent major changes 06/2026).
-- KDIGO 2022 Diabetes in CKD Guideline؛ KDIGO 2017 CKD-MBD Update؛ KDIGO Anaemia in CKD — (ارجاع موضوعی؛ جزئیات در SD-22).
+- KDIGO 2022 Diabetes in CKD Guideline؛ KDIGO 2017 CKD-MBD Update؛ KDIGO Anaemia in CKD.
 
 ---
 

@@ -1,6 +1,6 @@
 # فصل ۸۰ — Opioid، کاربن مونوکساید و Cyanide
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: دوزهای پادزهر از **Antidote Use Guideline 2023** (New Jersey Poison Information & Education System، مستقیم) و مرور PMC 2017 دربارهٔ دوز Naloxone؛ جدول ۲ سند رسمی AHA 2023 Toxicology (Highlights، مستقیم ۲۰۲۶-۰۹-۲۵) برای Naloxone، Hydroxocobalamin، Nitrite و Thiosulfate. شواهد Hyperbaric oxygen و مدت اکسیجن در CO → SD-71.*
+> **بخش دوازدهم — عاجل و سمیت**
 
 ## یک شب زمستان در کابل
 
@@ -62,12 +62,12 @@
 
 ### تداوی
 1. **از محیط بیرون کن.** (به فامیل بگو که اتاق را **پیش از برگشت** باز کنند.)
-2. **اکسیجن ۱۰۰ فیصد** با ماسک Non-rebreather (یا Intubation). اکسیجن CO را **چندین برابر سریع‌تر** از هوا بیرون می‌کند. **ادامه بده تا علایم رفع شود.** *(مدت و حد COHb → SD-71.)*
-3. **Hyperbaric oxygen (HBO):** در مسمومیت شدید (بی‌هوشی، علایم عصبی، ایسکیمی قلبی، حاملگی) پیشنهاد می‌شود، اما **شواهد متناقض است** و در افغانستان **موجود نیست**. **اکسیجن ۱۰۰ فیصد نورموباریک را به خاطر HBO به تأخیر نینداز.** → SD-71.
+2. **اکسیجن ۱۰۰ فیصد** با ماسک Non-rebreather (یا Intubation). اکسیجن CO را **چندین برابر سریع‌تر** از هوا بیرون می‌کند. **ادامه بده تا علایم رفع شود.**
+3. **Hyperbaric oxygen (HBO):** در مسمومیت شدید (بی‌هوشی، علایم عصبی، ایسکیمی قلبی، حاملگی) پیشنهاد می‌شود، اما **شواهد متناقض است** و در افغانستان **موجود نیست**. **اکسیجن ۱۰۰ فیصد نورموباریک را به خاطر HBO به تأخیر نینداز.**
 4. **حاملگی:** Haemoglobin جنین CO را محکم‌تر نگه می‌دارد → اکسیجن را طولانی‌تر بده؛ با ولادی‌نسایی.
 
 ### علایم دیرهنگام
-**علایم عصبی تأخیری** (حافظه، شخصیت، Parkinsonism) **روزها تا هفته‌ها** پس از بهبود ظاهری. **پیگیری کن.** *(ارقام → SD-71.)*
+**علایم عصبی تأخیری** (حافظه، شخصیت، Parkinsonism) **روزها تا هفته‌ها** پس از بهبود ظاهری. **پیگیری کن.**
 
 ### وقایه
 - **صندلی و بخاری ذغالی را در اتاق خواب بسته روشن نگذار.**
@@ -143,4 +143,4 @@
 ## 📚 References
 1. New Jersey Poison Information & Education System (NJPIES). Antidote Use Guideline. 2023.
 2. Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. *Ther Adv Drug Saf.* 2018;9(1):63–88.
-3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. جدول ۲ از سند رسمی Highlights آن (cpr.heart.org) مستقیم خوانده شد.
+3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184.

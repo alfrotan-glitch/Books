@@ -1,6 +1,6 @@
 # فصل ۴۱ — سنگ گرده و حالب (Renal and Ureteric Stones, Urolithiasis)
 
-> **بخش ششم — گرده** · *با Currentness audit (NICE NG118 + EAU Urolithiasis 2025)*
+> **بخش ششم — گرده**
 
 ## دو درد پهلو، دو سرنوشت
 
@@ -173,7 +173,7 @@
 | سوم | **Opioid** — اگر هر دو ممنوع یا ناکافی | EAU: Opioid انتخاب دوم (Weak) |
 | **نه** | **Antispasmodic** (مثل Hyoscine) | NICE: **پیشنهاد نشود** — فایده‌ای بیش از NSAID ندارد |
 
-🔒 **دوزها:** NICE و EAU نام دوا و ترتیب را می‌دهند، **دوز نمی‌دهند**. دوز دقیق NSAID/Paracetamol/Opioid برای colic از منبع اولیهٔ دوایی (BNF/برچسب) هنوز تأیید نشده → **SD-26 (UNVERIFIED)**. در این فصل دوز عددی نیامده؛ از formulary محلی استفاده کن.
+**دوزها:** NICE و EAU نام دوا و ترتیب را می‌دهند، **دوز نمی‌دهند**. دوز دقیق NSAID/Paracetamol/Opioid برای colic را از formulary محلی یا برچسب دوا بگیر.
 
 ⚠️ اگر درد با مسکن کنترول نشد → **تخلیه یا برداشتن سنگ** (EAU، Strong).
 
@@ -185,7 +185,7 @@
 - EAU: MET فقط در مریض آگاه و وقتی برداشتن فعال لازم نیست؛ اگر انتان، درد مقاوم یا خرابی وظیفهٔ گرده پیدا شد، قطع شود.
 - **اختلاف منابع:** کارآزمایی بزرگ SUSPEND (2015) فایده‌ای نشان نداد؛ NICE پس از مرور شواهد جدیدتر دوباره آن را پیشنهاد کرد. EAU هم شواهد را «متناقض» می‌خواند. این اختلاف را به مریض بگو.
 
-🔒 دوز Tamsulosin (معمول‌ترین Alpha blocker) و مدت MET → **SD-26 (UNVERIFIED)**؛ عدد نیامده.
+دوز Tamsulosin (معمول‌ترین Alpha blocker) و مدت MET را از برچسب دوا بگیر.
 
 ### ۱۰.۴ انتظار (Watchful waiting)
 
@@ -221,7 +221,7 @@
 - سنگ Uric acid (Radiolucent، HU پایین) با **قلوی کردن ادرار (هدف pH بالاتر از ۷.۰)** حل می‌شود (EAU 2025، Oral chemolysis).
 - در سنگ حالب Uric acid، ترکیب قلوی‌سازی با Tamsulosin مؤثرتر از هر کدام به تنهایی است (EAU، شواهد 1b).
 - pH را مریض خودش با نوار اندازه می‌گیرد؛ قلوی‌سازی بیش از حد خطر Calcium phosphate را زیاد می‌کند.
-- دوز Potassium citrate/Sodium bicarbonate → **SD-26 (UNVERIFIED)**.
+- دوز Potassium citrate/Sodium bicarbonate را از برچسب دوا بگیر.
 
 ### ۱۰.۷ وقایه از عود (NICE NG118)
 
@@ -246,7 +246,7 @@
 
 - Potassium citrate: مراقب **Hyperkalaemia** در CKD و مصرف ACEi/ARB/Spironolactone.
 - Thiazide: مراقب Hypokalaemia، Hyponatraemia، بلند شدن Calcium خون (اگر Hyperparathyroidism پنهان باشد آشکار می‌شود).
-- 🔒 دوز Potassium citrate و Thiazide برای وقایهٔ سنگ → **SD-26 (UNVERIFIED)**.
+- دوز Potassium citrate و Thiazide برای وقایهٔ سنگ را از برچسب دوا بگیر.
 
 **Struvite:** برداشتن کامل سنگ + تداوی انتان؛ بدون برداشتن کامل، انتان عود می‌کند.
 **Cystine:** مایعات بسیار زیاد، قلوی‌سازی و دواهای خاص — ارجاع به متخصص (جزئیات خارج از حدود این فصل).
@@ -305,11 +305,10 @@
 
 ## 📚 References
 
-1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https://www.nice.org.uk/guidance/ng118 — (توصیه‌های ۱.۱–۱.۸ مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵).
+1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https://www.nice.org.uk/guidance/ng118.
 2. European Association of Urology. *EAU Guidelines on Urolithiasis* — Limited update March 2025 (full text and Pocket Guidelines 2025). https://uroweb.org/guidelines/urolithiasis
 3. Pickard R, et al. SUSPEND trial. *Lancet*. 2015 — (به نقل از بحث کمیتهٔ NICE NG118).
 
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** NICE NG118 (2019) هنوز رهنمود فعال است؛ EAU Urolithiasis نسخهٔ Limited update مارچ 2025 بررسی شد و با NICE در اصول (NSAID اول، تخلیهٔ عاجل انسداد انتانی، PCNL برای بزرگتر از ۲ cm) هم‌خوان است. اختلاف: ارزیابی متابولیک ۲۴ ساعته (NICE توصیه نکرده، EAU برای پرخطرها) و MET (شواهد متناقض). **CURRENTNESS NOTE:** رهنمودهای AUA بررسی نشد.
 
 ---
 

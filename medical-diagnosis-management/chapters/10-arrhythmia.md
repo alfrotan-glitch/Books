@@ -1,6 +1,6 @@
 # فصل ۱۰ — فیبریلیشن دهلیزی و اریتمی‌ها (Atrial Fibrillation & Cardiac Arrhythmias)
 
-> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تاکی/برادیکاردی و جدول دوای عاجل با متن ERC 2025 ALS مطابقت شد (احیا: فصل ۷۷)؛ AHA 2025 خط به خط مقایسه نشده (SD-98).*
+> **بخش دوم — سیستم قلب و عروق**
 
 ## 🩺 مریض این فصل
 
@@ -164,7 +164,7 @@
 
 ### الف) Emergency & General Care (اقدامات عاجل)
 
-📋 **الگوریتم تاکی‌اریتمی (ERC 2025 ALS — متن رهنمود خوانده شد):**
+📋 **الگوریتم تاکی‌اریتمی (ERC 2025 ALS):**
 1. **ABCDE**، اکسیجن اگر SpO2 < ۹۴ فیصد، کانول وریدی، مانیتور، ECG ۱۲ لیدی.
 2. **علایم خطر؟** شوک (فشار سیستولیک < ۹۰ با علایم کم‌خونرسانی)، سینکوپ، عدم کفایهٔ قلب، ایسکیمی قلبی — **یا اریتمی درست پس از ROSC**.
    - **بلی ← کاردیوورژن سنکرونایز** (مریض هوشیار با Sedation/بی‌هوشی محتاطانه؛ خطر افت فشار را بدان). انرژی: **AF** — شاک اول با **حد اعظمی انرژی دستگاه**؛ **Flutter و SVT** — **۷۰–۱۲۰ J** و بعد افزایش مرحله‌وار؛ **VT با نبض** — **۱۲۰–۱۵۰ J** و بعد افزایش. (ERC 2025). **اختلاف رهنمود:** AHA 2025 (Part 9) برای کاردیوورژن **AF و Flutter** شاک اول با **۲۰۰ J یا بیشتر** را ترجیح می‌دهد. VT چندشکلی (Polymorphic) همیشه ناپایدار است → **Defibrillation فوری**، نه کاردیوورژن سنکرونایز (AHA 2025).
@@ -191,7 +191,7 @@
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
-**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز ERC 2025 ALS — متن رهنمود خوانده شد؛ در عاجل از ورید محیطی هم داده می‌شوند):**
+**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز ERC 2025 ALS؛ در عاجل از ورید محیطی هم داده می‌شوند):**
 
 | دوا | اندیکاسیون | دوز | راه/تکرار | نکتهٔ ایمنی |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@
 |---|---|---|---|
 | **کاردیوورژن برقی سنکرونایز** | مطابق دستگاه (بای‌فازیک؛ معمولاً انرژی بالا در AF) | AF ناپایدار؛ AF پایدار انتخابی | ترومبوس دهلیز چپ؛ AF > ۴۸ ساعت بدون انتی‌کواگولیشن یا TEE |
 | **Flecainide «تابلت در جیب» (Pill-in-the-pocket)** | **۲۰۰ mg PO (وزن < ۷۰ kg) یا ۳۰۰ mg PO (وزن ≥ ۷۰ kg)** یک دوز هنگام حمله | AF حمله‌ای **بدون** مرض ساختمانی قلب؛ همراه با Beta-blocker/دوای بلاک‌کنندهٔ گرهٔ AV | **CAD، MI قبلی، عدم کفایهٔ قلب، LVH قابل ملاحظه**، فلاتر دهلیزی؛ اولین دوز زیر نظر شفاخانه و توسط متخصص شروع شود |
-| **Amiodarone** (برگرداندن ریتم/نگهداری) | IV مطابق بالا؛ فمی: بارگیری مجموع حدود ۶–۱۰ g طی ۲–۴ هفته، سپس **۱۰۰–۲۰۰ mg روزانه** | مرض ساختمانی قلب، عدم کفایهٔ قلب | — ؛ پیگیری **TSH، LFT، CXR/وظیفهٔ شش، چشم** |
+| **Amiodarone** (برگرداندن ریتم/نگهداری) | IV مطابق بالا؛ فمی: بارگیری مجموع حدود ۶–۱۰ g طی ۲–۴ هفته، سپس **۱۰۰–۲۰۰ mg روزانه** | مرض ساختمانی قلب، عدم کفایهٔ قلب | —؛ پیگیری **TSH، LFT، CXR/وظیفهٔ شش، چشم** |
 | **Catheter ablation** (جدا کردن وریدهای ریوی) | — | AF حمله‌ای علامت‌دار (خط اول در مریضان منتخب)؛ ناکامی دوا؛ عدم کفایهٔ قلب با EF پایین | — |
 
 📋 **انتی‌کواگولیشن و کاردیوورژن:**
@@ -338,7 +338,7 @@
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
 - Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
-- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
+- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3).
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
 - Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of SVT (REVERT). Lancet 2015;386:1747–1753.
 - Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J 2020;41:655–720.

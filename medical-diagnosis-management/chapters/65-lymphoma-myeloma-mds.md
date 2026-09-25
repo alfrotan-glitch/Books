@@ -1,6 +1,6 @@
 # فصل ۶۵ — Lymphoma، Multiple myeloma و MDS
 
-> **بخش نهم — خون** · *Currentness audit: IMWG 2014 (معیارهای Myeloma)؛ iwCLL 2018 (CLL)؛ تداوی سرطان‌های خون تخصصی است → این فصل فقط شناخت، تشخیص، عاجل‌ها و مراقبت داکتر داخله را می‌پوشاند*
+> **بخش نهم — خون**
 
 ## مردی که سه داکتر سه تشخیص داده بودند
 
@@ -60,19 +60,19 @@
 **CRAB** (آسیب عضو که به Myeloma نسبت داده شود):
 - **Calcium:** بیشتر از **۰.۲۵ mmol/L (۱ mg/dL)** بالاتر از حد بالای نورمال، یا بیشتر از **۲.۷۵ mmol/L (۱۱ mg/dL)**؛
 - **گرده:** Creatinine clearance کمتر از **۴۰ mL/min** یا Creatinine سیروم بیشتر از **۱۷۷ µmol/L (۲ mg/dL)**؛
-- **انمی:** Hb بیشتر از ۲۰ g/L پایین‌تر از حد پایین نورمال، یا کمتر از ۱۰۰ g/L *(حد انمی از منبع ثانوی → SD-51)*؛
+- **انمی:** Hb بیشتر از ۲۰ g/L پایین‌تر از حد پایین نورمال، یا کمتر از ۱۰۰ g/L؛
 - **استخوان:** یک یا بیشتر ضایعهٔ لیتیک در X-ray، CT یا PET-CT.
 
 **یا SLiM** (نشانگرهایی که پیشرفت به آسیب عضو را تقریباً حتمی می‌سازند):
 - **S** — Plasma cell کلونال **۶۰ فیصد یا بیشتر**؛
 - **Li** — نسبت Free light chain درگیر به غیردرگیر **۱۰۰ یا بیشتر** (به شرط اینکه Light chain درگیر حد اقل ۱۰۰ mg/L باشد)؛
 - **M** — **بیشتر از یک** ضایعهٔ موضعی در MRI.
-  *(یک منبع ثانوی «یک یا بیشتر» نوشته است؛ اکثر منابع و متن IMWG «بیشتر از یک» دارند.)*
+
 
 **MGUS** (پروتین M بدون آسیب عضو، با Plasma cell کمتر از ۱۰ فیصد):
 - شایع است، به ویژه در مسن‌ها.
 - **Myeloma نیست**، اما سالانه فیصد کمی به Myeloma یا مرض مشابه پیشرفت می‌کند. پس پیگیری لازم است.
-- جزئیات و فاصلهٔ پیگیری → SD-51.
+- جزئیات و فاصلهٔ پیگیری
 
 ### ۴. عاجل‌ها و مراقبت داکتر داخله
 تداوی ضد سرطان تخصصی است. اما **مریض Myeloma اکثراً پیش داکتر داخله می‌آید**، با این عاجل‌ها:
@@ -81,7 +81,7 @@
 |---|---|
 | **Hypercalcaemia** | مایع وریدی، و بقیه طبق **فصل ۴۲** (Zoledronic acid با تعدیل گرده) |
 | **AKI** | مایع، **قطع NSAIDs**، دوری از Contrast بی‌ضرورت، اصلاح Calcium؛ فصل ۳۸ |
-| **فشار بر نخاع** (Spinal cord compression) | کمردردی + ضعف پا، سطح حسی، یا اختلال مثانه → **MRI عاجل**، **Dexamethasone**، و مشورهٔ فوری جراحی عصبی و انکولوژی. **هر ساعت مهم است: مریضی که هنوز راه می‌رود، باید راه رفتن را حفظ کند.** دوز Dexamethasone → SD-51 |
+| **فشار بر نخاع** (Spinal cord compression) | کمردردی + ضعف پا، سطح حسی، یا اختلال مثانه → **MRI عاجل**، **Dexamethasone**، و مشورهٔ فوری جراحی عصبی و انکولوژی. **هر ساعت مهم است: مریضی که هنوز راه می‌رود، باید راه رفتن را حفظ کند.** دوز Dexamethasone |
 | **Hyperviscosity** | خونریزی مخاطی، اختلال دید، سردردی، کنفیوژن → **Plasmapheresis** عاجل؛ متخصص |
 | **انتان** | تب را جدی بگیر؛ Antibiotic زود؛ واکسین‌ها (فصل ۶۷) |
 
@@ -121,7 +121,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 
 ### ۷. تشخیص و مرحله‌بندی
 - **بیوپسی Excisional** و Immunohistochemistry → نوع دقیق.
-- **مرحله‌بندی** با PET-CT یا CT (سیستم Lugano) → متخصص. جزئیات → SD-51.
+- **مرحله‌بندی** با PET-CT یا CT (سیستم Lugano) → متخصص. جزئیات
 - **پیش از تداوی:** HBV (Rituximab HBV را فعال می‌کند — فصل ۳۱)، HCV، HIV (فصل ۷۰).
 
 ### ۸. عاجل‌های Lymphoma
@@ -205,5 +205,5 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 5. چرا پیش از Rituximab HBV را بسنجیم؟ ← خطر فعال شدن مجدد HBV.
 
 ## 📚 References
-1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548. (از طریق IMF/myeloma.org و Medscape.)
+1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548.
 2. Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. *Blood.* 2018;131(25):2745–2760.

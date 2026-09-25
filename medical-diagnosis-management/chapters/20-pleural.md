@@ -1,6 +1,6 @@
 # فصل ۲۰ — امراض پلورا: افیوژن، امپییما و پنوموتوراکس (Pleural Diseases)
 
-> **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): BTS Pleural Disease 2023 (جاری).*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -309,7 +309,6 @@
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
-- *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 

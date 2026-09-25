@@ -1,6 +1,6 @@
 # فصل ۴۴ — اختلالات آب و Sodium: Hyponatraemia، Hypernatraemia، SIADH و Diabetes insipidus
 
-> **بخش ششم — گرده** · *با Currentness audit (رهنمود اروپایی 2014 + شواهد 2021–2025)*
+> **بخش ششم — گرده**
 
 ## دو خطر مخالف
 
@@ -49,7 +49,7 @@
    - **نامناسب (SIADH):** درد، دلبدی، دواها، مرض شش/مغز، تومور.
 4. آب از خون رقیق به داخل حجرات مغز می‌رود → **Cerebral oedema** → سردرد، استفراغ، اختلاج، **فتق مغز (Herniation)**.
 5. در ۴۸ ساعت حجرات مغز Osmolyteها را بیرون می‌کنند → پُندیدگی کم می‌شود → علایم خفیف‌تر اما **آسیب‌پذیری در مقابل اصلاح سریع**.
-6. اصلاح سریع → کشیدن آب از حجرات تطبیق‌یافته → **ODS** (اکثراً پس از ۲–۶ روز: Dysarthria، Dysphagia، Quadriparesis، Locked-in). *(زمان ۲–۶ روز از دانش عمومی کتب درسی است → SD-30.)*
+6. اصلاح سریع → کشیدن آب از حجرات تطبیق‌یافته → **ODS** (اکثراً پس از ۲–۶ روز: Dysarthria، Dysphagia، Quadriparesis، Locked-in).
 
 **Hypernatraemia:**
 1. ضیاع آب بیشتر از Sodium (تب، تعرق، اسهال، Diuresis اسموتیک، DI) **+ دسترسی ناکافی به آب**.
@@ -71,7 +71,7 @@
 | **Thiazide** (شایع در مسن) | Hypothyroidism (فصل ۴۹) | **سیروز** (فصل ۳۲) |
 | Cerebral/renal salt wasting | **کمبود Glucocorticoid** (فصل ۵۰) | Nephrotic syndrome، AKI/CKD پیشرفته |
 | Addison (Mineralocorticoid) | نوشیدن آب زیاد (Psychogenic polydipsia)، **Beer potomania/رژیم «چای و نان»** | — |
-|  | ورزش استقامتی | — |
+| | ورزش استقامتی | — |
 
 **علل SIADH:** مغزی (Meningitis، ترضیض، Stroke، خونریزی)، ششی (پنومونی، **TB**)، تومور (**Small cell lung cancer**)، **دوا** (SSRIs، Carbamazepine/Oxcarbazepine، Cyclophosphamide، Opioids، **MDMA**)، درد و دلبدی پس از جراحی.
 
@@ -144,7 +144,7 @@
 
 ## 🔹 ۱۰. Management (تداوی)
 
-### ۱۰.۱ Hyponatraemia با علایم **شدید** — حاد یا مزمن (رهنمود اروپایی 2014، تأییدشده از متن)
+### ۱۰.۱ Hyponatraemia با علایم **شدید** — حاد یا مزمن (رهنمود اروپایی 2014)
 
 | قدم | کار |
 |---|---|
@@ -159,7 +159,7 @@
 - **فرق هدف و حد:** **هدف** = ۵ mmol/L برای رفع خطر؛ **حد** = مرزی که نباید عبور کرد.
 - **رهنمود امریکایی (Verbalis 2013):** بولوس **۱۰۰ mL** 3% (به جای ۱۵۰ mL)؛ در مریضان **پرخطر برای ODS** حد سخت‌تر **۸ mmol/L در ۲۴ ساعت اول** (**اختلاف منابع**، EJE 2025).
 - **پرخطر برای ODS:** Hypokalaemia، سوءتغذیه، **الکولیزم**، مرض پیشرفتهٔ کبد، Sodium بسیار پایین.
-- 🔄 **کارآزمایی SALSA (2021)** بولوس سریع را با انفیوژن آهسته مقایسه کرد؛ اصلاح بیش از حد در هر دو رخ داد. **CURRENTNESS NOTE:** مطالعات مشاهده‌ای 2023–2025 پیشنهاد می‌کنند که حدهای سخت شاید بیش از حد محافظه‌کار باشند؛ رهنمود رسمی تا کنون تغییر نکرده (SD-31).
+- 🔄 **کارآزمایی SALSA (2021)** بولوس سریع را با انفیوژن آهسته مقایسه کرد؛ اصلاح بیش از حد در هر دو رخ داد. مطالعات مشاهده‌ای 2023–2025 پیشنهاد می‌کنند که حدهای سخت شاید بیش از حد محافظه‌کار باشند؛ رهنمود رسمی تا کنون تغییر نکرده.
 
 ### ۱۰.۲ علایم **متوسط**
 - ارزیابی تشخیصی فوری، قطع دواهای عامل، تداوی علت.
@@ -176,15 +176,15 @@
 | خفیف | تداوی تنها برای بلند کردن عدد پیشنهاد نمی‌شود (2C) — اما علت را پیدا کن |
 
 ### ۱۰.۴ اصلاح بیش از حد (Overcorrection)
-- اگر Sodium بیشتر از **۱۰ mmol/L در ۲۴ ساعت اول** یا **۸ mmol/L در هر ۲۴ ساعت بعد** بلند رفت → **فوراً پایین آوردن دوباره** (1D): قطع مایعات Sodium‌دار، **آب بدون املاح** (فمی یا Dextrose 5% وریدی)، و **Desmopressin** با مشورهٔ متخصص (دوزها → SD-30).
+- اگر Sodium بیشتر از **۱۰ mmol/L در ۲۴ ساعت اول** یا **۸ mmol/L در هر ۲۴ ساعت بعد** بلند رفت → **فوراً پایین آوردن دوباره** (1D): قطع مایعات Sodium‌دار، **آب بدون املاح** (فمی یا Dextrose 5% وریدی)، و **Desmopressin** با مشورهٔ متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 
 ### ۱۰.۵ Hypernatraemia
 - **آب را جبران کن**: فمی/NG ترجیح دارد؛ وریدی Dextrose 5% (یا Hypotonic).
-- **مزمن:** آهسته پایین بیاور (خطر Cerebral oedema)؛ **حاد** (مثلاً ساعت‌ها) را می‌توان سریعتر اصلاح کرد. 🔒 سرعت دقیق اصلاح و فورمول کمبود آب از منبع اولیه تأیید نشد → **SD-30**.
+- **مزمن:** آهسته پایین بیاور (خطر Cerebral oedema)؛ **حاد** (مثلاً ساعت‌ها) را می‌توان سریعتر اصلاح کرد. سرعت اصلاح را با متخصص و پروتوکول شفاخانه تعیین کن
 - علت: دسترسی به آب، تب، اسهال، قند، DI.
 
 ### ۱۰.۶ Diabetes insipidus
-- **مرکزی (AVP deficiency):** **Desmopressin** (فمی، زیر زبانی، بینی، زرقی). ⚠️ خطر **Hyponatraemia** با Desmopressin — به مریض بگو فقط وقتی تشنه است بنوشد؛ Sodium را منظم ببین. 🔒 دوز → SD-30.
+- **مرکزی (AVP deficiency):** **Desmopressin** (فمی، زیر زبانی، بینی، زرقی). ⚠️ خطر **Hyponatraemia** با Desmopressin — به مریض بگو فقط وقتی تشنه است بنوشد؛ Sodium را منظم ببین. دوز
 - **گرده‌ای:** علت را رفع کن (Lithium، Calcium، K⁺)؛ غذای کم‌نمک/کم‌پروتین؛ Thiazide (به شکل متناقض ادرار را کم می‌کند)؛ متخصص.
 - مریض DI که **نمی‌تواند بنوشد** (کوما، جراحی) → Hypernatraemia خطرناک؛ مایع وریدی و Desmopressin با دقت.
 
@@ -234,12 +234,11 @@
 
 ## 📚 References
 
-1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39) — (توصیه‌های ۷.۱–۷.۵ از متن خوانده شد).
-2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013 — (به نقل از منابع ۳ و ۴؛ متن اصلی خوانده نشد).
+1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39).
+2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013.
 3. Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol*. 2025;192(6):754 — (اختلاف ۸ در مقابل ۱۰ mmol/L؛ ۱۰۰ در مقابل ۱۵۰ mL).
 4. Treatment of symptomatic hyponatremia with hypertonic saline: a real-life observational study. *Eur J Endocrinol*. 2021;184(5):647.
 
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** رهنمود اروپایی 2014 هنوز مرجع رسمی است؛ مرور 2025 (EJE) اختلاف عمل در اروپا را نشان داد. نام‌گذاری جدید DI (AVP deficiency/resistance) در متن آمد. **CURRENTNESS NOTE (SD-31):** جستجوی نسخهٔ جدید رهنمود اروپایی و بحث حدود اصلاح پس از 2023 کامل نشد؛ متن SALSA اصلی خوانده نشد.
 
 ---
 

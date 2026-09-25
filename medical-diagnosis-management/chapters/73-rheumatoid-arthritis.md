@@ -1,6 +1,6 @@
 # فصل ۷۳ — Rheumatoid arthritis
 
-> **بخش یازدهم — روماتولوژی** · *Currentness audit: **EULAR 2022 update** (Smolen JS et al., Ann Rheum Dis 2023) و **ACR 2021** (Fraenkel L et al., Arthritis Care Res 2021) — از خلاصه‌های Medscape، Rheumatology Advisor و Healio؛ متن اصلی خوانده نشد → SD-58. اختلاف دو رهنمود دربارهٔ Glucocorticoid ذکر شده. معیارهای طبقه‌بندی ACR/EULAR 2010 از منبع اولیه خوانده نشد → SD-58.*
+> **بخش یازدهم — روماتولوژی**
 
 ## فریده، شش ماه بعد از «درد بند»
 
@@ -33,7 +33,7 @@
 - **سختی صبحگاهی طولانی**.
 - **بیشتر از ۶ هفته**.
 
-**معیارهای طبقه‌بندی ACR/EULAR 2010** *(جزئیات → SD-58)*:
+**معیارهای طبقه‌بندی ACR/EULAR 2010**:
 - چهار حوزه نمره داده می‌شوند:
   1. تعداد و نوع مفاصل درگیر؛
   2. **سیرولوژی** (RF و Anti-CCP)؛
@@ -69,11 +69,11 @@
 - **دوز:**
   - EULAR: **دوز در ظرف ۴–۶ هفته به حدود ۰.۳ mg/kg در هفته** رسانده شود.
   - ACR 2021: حد اقل **۱۵ mg در هفته در ظرف ۴–۶ هفته**، نه شروع با ۷.۵ mg و ماه‌ها انتظار.
-  - *(دوز شروع دقیق و حد اعظمی → SD-58.)*
+  - *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - ⚠️ **Methotrexate یک بار در هفته است، نه روزانه.** **خوردن روزانهٔ آن اشتباهاً مرگ‌بار بوده است** (سرکوب مغز استخوان، التهاب شدید مخاط). روز هفته را روی نسخه **به کلمات بنویس** (مثلاً «هر روز شنبه»)، و به مریض و فامیل توضیح بده.
-- **Folic acid** همراه آن عوارض را کم می‌کند. *(دوز → SD-58.)*
+- **Folic acid** همراه آن عوارض را کم می‌کند. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **منع و احتیاط:**
-  - **حاملگی:** منع مطلق (سقط، تشوهات). مانع حاملگی مؤثر لازم است. زمان قطع پیش از حاملگی → SD-58.
+  - **حاملگی:** منع مطلق (سقط، تشوهات). مانع حاملگی مؤثر لازم است. زمان قطع پیش از حاملگی
   - **CKD** (تراکم دوا → سمیت)، **مرض کبدی**، **الکول**، و **انتان فعال**.
   - **تداخل:** **Co-trimoxazole** با Methotrexate خطر سرکوب مغز استخوان را بالا می‌برد.
 - **پیگیری:** CBC، ALT، Creatinine به طور منظم. **سرفهٔ خشک تازه و تنگی نفس** → Pneumonitis Methotrexate (فصل ۲۱).
@@ -82,14 +82,14 @@
 - **EULAR 2022:** Glucocorticoid **کوتاه‌مدت** (Bridging) را هنگام شروع یا تغییر DMARD در نظر بگیر، و **هر چه زودتر کم و قطع کن**، معمولاً در ظرف **۳ ماه**.
 - **ACR 2021:** Glucocorticoid را **حتی‌الامکان نده**. به جای آن DMARD را تغییر بده یا اضافه کن.
 - **قضاوت برای این کتاب:** هر دو یک پیام دارند: **Glucocorticoid دراز مدت نه**. Bridging کوتاه، با پلان قطع از روز اول، قابل قبول است (EULAR). **Dexamethasone زرقی مکرر بدون DMARD** (عادت شایع) **با هیچ رهنمودی موافق نیست.**
-- **دوز Bridging** → SD-58.
+- **دوز Bridging**
 
 ### (۴) اگر Methotrexate کافی نبود یا منع بود
 - **منع یا عدم تحمل زودهنگام:** **Leflunomide** یا **Sulfasalazine** (EULAR). **Hydroxychloroquine** در ترکیب هم استعمال می‌شود.
 - **هدف به دست نیامد، و عوامل پروگنوز (Prognosis) بد نیست:** DMARD متداول دیگر یا ترکیب.
 - **با عوامل پروگنوز بد** (Anti-CCP یا RF بلند، فعالیت بلند، Erosion زودهنگام، ناکامی دو DMARD): **DMARD Biologic** (مثلاً ضد TNF) یا **JAK inhibitor** (EULAR). JAK inhibitorها در مریضان با عوامل خطر قلبی، VTE یا سرطان با احتیاط استعمال شوند (EULAR 2022).
 - **پیش از Biologic:** **TB نهفته** را غربالگری و تداوی کن (در افغانستان بسیار مهم؛ فصل ۱۹)، و **HBV** را هم.
-- *(دوزهای Leflunomide، Sulfasalazine، Hydroxychloroquine و Biologicها → SD-58.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 ### (۵) NSAID
 درد را کم می‌کند، اما **مرض را متوقف نمی‌سازد**. با احتیاط در معده (فصل ۲۶)، گرده (فصل ۳۸) و قلب؛ کوتاه‌ترین مدت ممکن.
@@ -140,6 +140,6 @@
 5. پیش از Biologic؟ ← غربالگری TB نهفته و HBV.
 
 ## 📚 References
-1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18. (از خلاصه‌ها → SD-58.)
-2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939. (از خلاصه‌ها → SD-58.)
-3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
+1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939.
+3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581.

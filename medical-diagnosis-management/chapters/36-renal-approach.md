@@ -1,6 +1,6 @@
 # فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
 
-> **بخش ششم — گرده** · *با Currentness audit (2025/2026)* · *فصل رهیافتی — ساختار تابع وظیفه (R9 اصلاح‌شده)*
+> **بخش ششم — گرده**
 
 ## سه ورق لابراتوار روی یک میز
 
@@ -122,7 +122,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 | ۲ | ۲.۰–۲.۹ برابر | کمتر از ۰.۵ mL/kg/ساعت برای ۱۲ ساعت یا بیشتر |
 | ۳ | ۳ برابر، یا رسیدن به ۴ mg/dL یا بیشتر، یا شروع دیالیز | کمتر از ۰.۳ mL/kg/ساعت برای ۲۴ ساعت یا بیشتر، یا Anuria برای ۱۲ ساعت یا بیشتر |
 
-> 🔄 **CURRENTNESS NOTE:** KDIGO در مارچ 2026 **پیش‌نویس (Public-review draft)** رهنمود **KDIGO 2026 AKI/AKD** را برای نظرخواهی عمومی نشر کرد (مهلت نظر تا ۲۷ اپریل 2026). طبق صفحهٔ رسمی KDIGO، این متن هنوز **پیش‌نویس** است و گروه کاری آن را برای نشر نهایی آماده می‌کند. پیش‌نویس AKI و AKD را یک طیف پیوسته می‌داند و در تعریف، هم معیارهای وظیفوی و هم بیومارکرهای ساختمانی را به کار می‌برد. **این کتاب هیچ توصیه‌ای را از پیش‌نویس وارد نمی‌کند.** تعریف منتشرشده و معیار جاری هنوز **KDIGO 2012** است. پیش‌نویس بودن یک رهنمود تازه به معنای غلط بودن رهنمود 2012 نیست. اگر نسخهٔ نهایی پیش از نشر کتاب منتشر شد، Global currentness audit باید دوباره اجرا شود.
+> 🔄 **به‌روزرسانی:** KDIGO در مارچ 2026 **پیش‌نویس (Public-review draft)** رهنمود **KDIGO 2026 AKI/AKD** را برای نظرخواهی عمومی نشر کرد (مهلت نظر تا ۲۷ اپریل 2026). طبق صفحهٔ رسمی KDIGO، این متن هنوز **پیش‌نویس** است و گروه کاری آن را برای نشر نهایی آماده می‌کند. پیش‌نویس AKI و AKD را یک طیف پیوسته می‌داند و در تعریف، هم معیارهای وظیفوی و هم بیومارکرهای ساختمانی را به کار می‌برد. **این کتاب هیچ توصیه‌ای را از پیش‌نویس وارد نمی‌کند.** تعریف منتشرشده و معیار جاری هنوز **KDIGO 2012** است. پیش‌نویس بودن یک رهنمود تازه به معنای غلط بودن رهنمود 2012 نیست.
 
 ### چگونه AKI را از CKD جدا کنیم؟
 
@@ -165,7 +165,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 | **Specific gravity** | غلظت ادرار | تفسیر پروتین و خون را تعدیل می‌کند |
 | **pH** | اسیدیت | سنگ‌ها و اسیدوز توبولی (فصل ۴۱، ۴۳) |
 
-⚠️ **AUA/SUFU (2020؛ تأییدشده در بازنگری 2025):** Haematuria میکروسکوپیک را **فقط با dipstick تعریف نکن**. dipstick مثبت (Trace یا بیشتر) باید به **میکروسکوپ رسمی ادرار** بینجامد.
+⚠️ **AUA/SUFU (2020؛ در بازنگری 2025 حفظ شد):** Haematuria میکروسکوپیک را **فقط با dipstick تعریف نکن**. dipstick مثبت (Trace یا بیشتر) باید به **میکروسکوپ رسمی ادرار** بینجامد.
 
 ### ۵.۳ میکروسکوپ — جایی که تشخیص پیدا می‌شود
 
@@ -244,7 +244,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 
 **پیگیری:** پس از ارزیابی منفی، دربارهٔ تکرار Urinalysis با مریض تصمیم مشترک بگیر (۲۲). اگر Urinalysis بعدی منفی بود، ارزیابی می‌تواند ختم شود (۲۳). Haematuria ظاهری تازه، افزایش واضح Microhaematuria یا اعراض تازهٔ یورولوژیک ← ارزیابی دوباره (۲۵).
 
-> 🔄 **Currentness (AUA/SUFU 2025):** تعریف ۳ RBC/HPF یا بیشتر و رویکرد بر پایهٔ خطر از 2020 حفظ شد. تغییرها: زنان کم‌خطر بالای ۶۰ سال از گروه خطر بلند خارج شدند، ارزیابی فوری برای گروه کم‌خطر حذف شد، و مارکرهای ادرار برای گروه متوسط اضافه شدند.
+> 🔄 **به‌روزرسانی (AUA/SUFU 2025):** تعریف ۳ RBC/HPF یا بیشتر و رویکرد بر پایهٔ خطر از 2020 حفظ شد. تغییرها: زنان کم‌خطر بالای ۶۰ سال از گروه خطر بلند خارج شدند، ارزیابی فوری برای گروه کم‌خطر حذف شد، و مارکرهای ادرار برای گروه متوسط اضافه شدند.
 
 ⚠️ **مریض تحت Warfarin یا دیگر ضد انعقادها** که Haematuria دارد، مثل هر مریض دیگر ارزیابی می‌شود؛ ضد انعقاد علت را «توضیح» نمی‌دهد.
 
@@ -280,7 +280,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 
 - **NSAID + ACE inhibitor/ARB + Diuretic** در مریض کم‌آب ← AKI پیش‌گرده‌ای. در مریض کم‌آب یا AKI، ضرورت هر سه را دوباره بسنج.
 - Aminoglycosides، Vancomycin، Amphotericin B، Lithium، Calcineurin inhibitors ← سطح دوا و Creatinine را نظارت کن.
-- **دوز دواها در CKD:** برای هر دوا، تعدیل گرده‌ای در همان فصل دوا و در دفتر تأیید دوز آمده است. در دواهای با حاشیهٔ تداوی تنگ (Narrow therapeutic index)، وقتی eGFRcr کم‌اعتبار است، Cystatin C یا GFR اندازه‌گیری‌شده کمک می‌کند (KDIGO 2024).
+- **دوز دواها در CKD:** برای هر دوا، تعدیل گرده‌ای در همان فصل دوا آمده است. در دواهای با حاشیهٔ تداوی تنگ (Narrow therapeutic index)، وقتی eGFRcr کم‌اعتبار است، Cystatin C یا GFR اندازه‌گیری‌شده کمک می‌کند (KDIGO 2024).
 
 *این فصل رهیافتی دوز تازه‌ای معرفی نمی‌کند؛ تداوی‌ها در فصل‌های ۳۷–۴۴ می‌آیند.*
 
@@ -344,11 +344,11 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 ## 📚 References
 
 - Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. (Executive summary: kdigo.org)
-- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (تعریف و مراحل؛ از طریق مرورهای PMC4206042 و PMC13242417 نیز تأیید شد)
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138.
 - KDIGO Glomerular Diseases Work Group. **KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases** — Top 10 Takeaways (تعریف سندروم نفروتیک).
 - Barocas DA, et al. **Microhematuria: AUA/SUFU Guideline.** J Urol. 2020;204:778–786. PMID 32698717.
 - Barocas DA, Lotan Y, Matulewicz RS, Raman JD, Westerman ME, Kirkby E, Pak L, Souter L. **Updates to Microhematuria: AUA/SUFU Guideline (2025).** J Urol. doi:10.1097/JU.0000000000004490. و **AUA/SUFU Microhematuria Diagnostic Algorithm** (12 March 2025)، auanet.org.
-- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس، نهایی نیست**). kdigo.org/guidelines/acute-kidney-injury — فقط برای Currentness note.
+- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس، نهایی نیست**). kdigo.org/guidelines/acute-kidney-injury.
 - Davenport MS, et al. **Use of Intravenous Iodinated Contrast Media in Patients With Kidney Disease: Consensus Statements from the ACR and the NKF.** Radiology / Kidney Med. 2020.
 - College of American Pathologists. **Chronic Kidney Disease Testing** (CKD-EPI 2021 بدون نژاد). 2025.
 

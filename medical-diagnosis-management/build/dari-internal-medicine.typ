@@ -1523,7 +1523,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 - **ACC/AHA 2025:** ۱۳۰/۸۰ mmHg یا بلندتر (مرحله ۱ از ۱۳۰–۱۳۹ یا ۸۰–۸۹).
 - **ESH 2023 و WHO:** ۱۴۰/۹۰ mmHg یا بلندتر.
 - **اختلاف منابع:** این کتاب طبقه‌بندی ACC/AHA 2025 را اساس می‌گیرد، اما در ۱۳۰–۱۳۹/۸۰–۸۹ تداوی دوایی فقط پس از ۳–۶ ماه تغییر شیوهٔ زندگی یا در خطر بلند شروع می‌شود (بخش ۱۰).
-- **حدود تشخیص با ABPM/HBPM** (پایین‌تر از کلینیک) → SD-37.
+- **حدود تشخیص با ABPM/HBPM** (پایین‌تر از کلینیک)
 - **تشخیص عاجل هایپرتنسیو:** فشار بسیار بلند (اکثراً ۱۸۰/۱۲۰ یا بلندتر) + **حد اقل یک** نشانهٔ آسیب حاد ارگان هدف:
 - سکتهٔ مغزی ایسکیمیک یا خونریزی مغزی؛ Hypertensive encephalopathy
 - عدم کفایهٔ حاد قلب و ادیمای حاد شش؛ ACS
@@ -1543,7 +1543,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 - **استثنا — سکتهٔ مغزی ایسکیمیک:** اگر Thrombolysis پلان است، فشار پیش از آن کمتر از ۱۸۵/۱۱۰ و پس از آن کمتر از ۱۸۰/۱۰۵؛ بدون Thrombolysis، فشار تا ۲۲۰/۱۲۰ اکثراً تداوی نمی‌شود (فصل ۵۴).
 3. **قدم ۳ — اگر فشار شدید بدون آسیب حاد است (Urgency):** مریض را در جای آرام بنشان و دوباره اندازه کن؛ دوای فمی را شروع یا دوباره شروع کن؛ فشار را در **روزها** پایین بیاور. **پیچکاری وریدی یا Nifedipine زیر زبانی نه.**
 4. **قدم ۴ — پیگیری:** مریض Urgency را در چند روز تا ۱–۲ هفته دوباره ببین.
-**دواهای وریدی عاجل هایپرتنسیو (ACC/AHA 2017، جدول ۱۹ — از متن رهنمود خوانده شد):**
+**دواهای وریدی عاجل هایپرتنسیو (ACC/AHA 2017، جدول ۱۹):**
 #figure(
   table(columns: (auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -1677,7 +1677,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 7. **فشار بلند در حاملگی پس از هفتهٔ ۲۰ + پروتین در ادرار، سردردی یا تشنج** → Pre-eclampsia/Eclampsia — Magnesium sulfate (فصل ۸۳).
 8. **هایپوتنشن شدید پس از شروع دوا یا پس از پایین آوردن تیز فشار** → دوا را قطع کن، مریض را دراز بخوابان، مایع وریدی؛ علایم ایسکیمی مغز را ببین.
 == 📚 References
-- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065 — Tables 19–20 (IV drugs for hypertensive emergency) read in the guideline full text 2026-09-25.
+- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065.
 - Jones DW, et al. **2025 AHA/ACC Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults.** Hypertension. 2025 (doi 10.1161/HYP.0000000000000249) — جانشین رهنمود 2017.
 - ESC/ESH 2023 Guidelines for the Management of Arterial Hypertension.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 330–332 (Hypertension).
@@ -1880,7 +1880,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 === ب) Pharmacotherapy — چهار ستون HFrEF (ESC 2021 / AHA 2022)
 ⚗️ **فرمول ۴ ستون:**
 `HFrEF = (ARNI/ACEI/ARB) + (Beta-blocker) + (MRA) + (SGLT2i) — هم‌زمان، دوز کم شروع، تدریجی افزایش`
-**دوزهای شروع و هدف (ESC 2021، جدول ۸ — از متن رهنمود خوانده شد):**
+**دوزهای شروع و هدف (ESC 2021، جدول ۸):**
 **ستون ۱ — RAAS Blocker (ARNI \> ACEI/ARB):**
 #figure(
   table(columns: (auto, auto, auto, auto, auto, auto),
@@ -1913,7 +1913,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  ⚠️ **Beta-blocker را فقط در مریض پایدار و بدون احتباس مایع شروع کن** — دوز کم، و به‌تدریج تا دوز هدف یا حد اعظمی دوز قابل تحمل بالا ببر (ESC 2021). در مریض بستری با AHF، پس از پایدار شدن با احتیاط شروع شود. *(فاصلهٔ دقیق افزایش دوز در جدول ضمیمهٔ ESC است که خوانده نشد → SD-99.)*
+  ⚠️ **Beta-blocker را فقط در مریض پایدار و بدون احتباس مایع شروع کن** — دوز کم، و به‌تدریج تا دوز هدف یا حد اعظمی دوز قابل تحمل بالا ببر (ESC 2021). در مریض بستری با AHF، پس از پایدار شدن با احتیاط شروع شود. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 ]
 **ستون ۳ — MRA (Mineralocorticoid Receptor Antagonist):**
 #figure(
@@ -2214,7 +2214,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 - **High Risk** (GRACE \> 140 / ST تغییر / HF / arrhythmia) → **Early Invasive (CAG+PCI در 24 ساعت)**
 - **Low Risk** → تست ورزش / CTA / Medical Management
 === ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
-**Antiplatelet (هر دو نوع ACS؛ ACC/AHA 2025 جدول ۷ — از متن رهنمود):**
+**Antiplatelet (هر دو نوع ACS؛ ACC/AHA 2025 جدول ۷):**
 #figure(
   table(columns: (auto, auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -2229,7 +2229,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
   caption: none,
 )
 #v(0.4em)
-**Anticoagulant (ACC/AHA 2025، جدول ۱۰ — از متن رهنمود خوانده شد):**
+**Anticoagulant (ACC/AHA 2025، جدول ۱۰):**
 #figure(
   table(columns: (auto, auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -2317,7 +2317,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
   caption: none,
 )
 #v(0.4em)
-**منع‌های Fibrinolysis در STEMI (ACC/AHA 2025، جدول ۱۴ — از متن رهنمود):**
+**منع‌های Fibrinolysis در STEMI (ACC/AHA 2025، جدول ۱۴):**
 #figure(
   table(columns: (auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -2763,7 +2763,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 6. **تنگی نفس حاد، کاهش صدای کلیک دریچهٔ میکانیکی یا INR پایین** ← ترومبوز دریچه: Echo/TEE عاجل.
 7. **INR \> ۵ با خونریزی** در مریض دریچهٔ مصنوعی ← Vitamin K + جایگزینی فکتورها با مشورهٔ قلب (→ فصل ۶۴).
 == 📚 References
-- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). AS, primary MR and AR intervention rows checked against Tables 3–4 (New/Revised recommendations) of the guideline text (2026-09-25). CURRENTNESS NOTE: MS and secondary MR rows not yet line-checked against the full 2025 section text.
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y).
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.
@@ -2796,7 +2796,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 = فصل ۱۰ — فیبریلیشن دهلیزی و اریتمی‌ها (Atrial Fibrillation & Cardiac Arrhythmias)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تاکی/برادیکاردی و جدول دوای عاجل با متن ERC 2025 ALS مطابقت شد (احیا: فصل ۷۷)؛ AHA 2025 خط به خط مقایسه نشده (SD-98).*
+  **بخش دوم — سیستم قلب و عروق**
 ]
 == 🩺 مریض این فصل
 حاجی عبدالرحمن، ۷۴ ساله، دیابتی و مبتلا به فشار بلند، با «لرزش قلب» و ضعف از دو روز آمده است. نبض نامنظم و حدود ۱۳۰ در دقیقه است؛ فشار او پایدار است. ECG: ریتم کاملاً نامنظم بدون موج P.
@@ -2968,7 +2968,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 - **خطر خونریزی:** فکتورهای قابل اصلاح را پیدا و تداوی کن (فشار بلند خون کنترول‌نشده، الکول، NSAID/Aspirin همراه، کم‌خونی، INR ناپایدار). **امتیاز خونریزی بالا دلیل قطع انتی‌کواگولیشن نیست**، بلکه دلیل مراقبت بیشتر است.
 == 🔹 ۱۰. Management (تداوی)
 === الف) Emergency & General Care (اقدامات عاجل)
-📋 **الگوریتم تاکی‌اریتمی (ERC 2025 ALS — متن رهنمود خوانده شد):**
+📋 **الگوریتم تاکی‌اریتمی (ERC 2025 ALS):**
 1. **ABCDE**، اکسیجن اگر SpO2 \< ۹۴ فیصد، کانول وریدی، مانیتور، ECG ۱۲ لیدی.
 2. **علایم خطر؟** شوک (فشار سیستولیک \< ۹۰ با علایم کم‌خونرسانی)، سینکوپ، عدم کفایهٔ قلب، ایسکیمی قلبی — **یا اریتمی درست پس از ROSC**.
 - **بلی ← کاردیوورژن سنکرونایز** (مریض هوشیار با Sedation/بی‌هوشی محتاطانه؛ خطر افت فشار را بدان). انرژی: **AF** — شاک اول با **حد اعظمی انرژی دستگاه**؛ **Flutter و SVT** — **۷۰–۱۲۰ J** و بعد افزایش مرحله‌وار؛ **VT با نبض** — **۱۲۰–۱۵۰ J** و بعد افزایش. (ERC 2025). **اختلاف رهنمود:** AHA 2025 (Part 9) برای کاردیوورژن **AF و Flutter** شاک اول با **۲۰۰ J یا بیشتر** را ترجیح می‌دهد. VT چندشکلی (Polymorphic) همیشه ناپایدار است → **Defibrillation فوری**، نه کاردیوورژن سنکرونایز (AHA 2025).
@@ -2990,7 +2990,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 3. **خطر آسیستول** (حتی بدون علایم خطر): **Mobitz II، بلاک کامل با QRS پهن، وقفهٔ بطینی \> ۳ ثانیه، آسیستول اخیر** ← پیس. در «آسیستول» ECG را برای **موج P** دقیق ببین؛ این حالت به پیس بهتر جواب می‌دهد.
 ⚠️ **Atropine را در قلب پیوندشده نده** — می‌تواند بلاک درجهٔ بلند یا توقف سینوس بسازد؛ در قلب پیوندشده یا آسیب نخاع **Aminophylline ۱۰۰–۲۰۰ mg IV آهسته** در نظر گرفته شود. **Atropine را در بلاک درجهٔ بلند با QRS پهن نده** — بی‌اثر است و بلاک را بدتر می‌کند؛ مستقیم به پیس فکر کن.
 === ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
-**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز ERC 2025 ALS — متن رهنمود خوانده شد؛ در عاجل از ورید محیطی هم داده می‌شوند):**
+**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز ERC 2025 ALS؛ در عاجل از ورید محیطی هم داده می‌شوند):**
 #figure(
   table(columns: (auto, auto, auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -3061,7 +3061,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
     [*روش/دوا*], [*دوز*], [*مناسب برای*], [*ممنوع در*],
     [**کاردیوورژن برقی سنکرونایز**], [مطابق دستگاه (بای‌فازیک؛ معمولاً انرژی بالا در AF)], [AF ناپایدار؛ AF پایدار انتخابی], [ترومبوس دهلیز چپ؛ AF \> ۴۸ ساعت بدون انتی‌کواگولیشن یا TEE],
     [**Flecainide «تابلت در جیب» (Pill-in-the-pocket)**], [**۲۰۰ mg PO (وزن \< ۷۰ kg) یا ۳۰۰ mg PO (وزن ≥ ۷۰ kg)** یک دوز هنگام حمله], [AF حمله‌ای **بدون** مرض ساختمانی قلب؛ همراه با Beta-blocker/دوای بلاک‌کنندهٔ گرهٔ AV], [**CAD، MI قبلی، عدم کفایهٔ قلب، LVH قابل ملاحظه**، فلاتر دهلیزی؛ اولین دوز زیر نظر شفاخانه و توسط متخصص شروع شود],
-    [**Amiodarone** (برگرداندن ریتم/نگهداری)], [IV مطابق بالا؛ فمی: بارگیری مجموع حدود ۶–۱۰ g طی ۲–۴ هفته، سپس **۱۰۰–۲۰۰ mg روزانه**], [مرض ساختمانی قلب، عدم کفایهٔ قلب], [— ؛ پیگیری **TSH، LFT، CXR/وظیفهٔ شش، چشم**],
+    [**Amiodarone** (برگرداندن ریتم/نگهداری)], [IV مطابق بالا؛ فمی: بارگیری مجموع حدود ۶–۱۰ g طی ۲–۴ هفته، سپس **۱۰۰–۲۰۰ mg روزانه**], [مرض ساختمانی قلب، عدم کفایهٔ قلب], [—؛ پیگیری **TSH، LFT، CXR/وظیفهٔ شش، چشم**],
     [**Catheter ablation** (جدا کردن وریدهای ریوی)], [—], [AF حمله‌ای علامت‌دار (خط اول در مریضان منتخب)؛ ناکامی دوا؛ عدم کفایهٔ قلب با EF پایین], [—],
   ),
   caption: none,
@@ -3152,7 +3152,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
 - Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
-- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
+- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3).
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
 - Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of SVT (REVERT). Lancet 2015;386:1747–1753.
 - Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J 2020;41:655–720.
@@ -3184,7 +3184,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 = فصل ۱۱ — امراض پریکارد: پریکاردیت، افیوژن، تامپوناد و پریکاردیت انقباضی (Pericardial Diseases)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2025 Myocarditis & Pericarditis (جانشین ESC 2015) و ACC Concise Clinical Guidance 2025؛ جاهایی که هنوز «ESC 2015» آمده، توصیه در 2025 تأیید شده است.*
+  **بخش دوم — سیستم قلب و عروق**
 ]
 == 🩺 مریض این فصل
 وحید، ۳۰ ساله، از سه روز درد تیز صدر دارد که با نفس عمیق و دراز کشیدن بدتر و با نشستن و خم شدن به پیش بهتر می‌شود. یک هفته پیش زکام داشت. در معاینه یک صدای خراشیده (Friction rub) شنیده می‌شود. ECG: بلند شدن منتشر ST با پایین رفتن PR.
@@ -3560,8 +3560,6 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 - ⚠️ **تنفس مصنوعی با فشار مثبت پیش از درناژ** در تامپوناد می‌تواند سبب ایست قلبی شود.
 == 📚 References
 - Adler Y, et al. **2015 ESC Guidelines for the diagnosis and management of pericardial diseases.** Eur Heart J. 2015;36:2921–2964 (جدول ۶: Aspirin ۷۵۰–۱۰۰۰ mg هر ۸ ساعت، Ibuprofen ۶۰۰ mg هر ۸ ساعت، Colchicine نظر به وزن برای ۳ ماه؛ دوزهای راجعه).
-- **2025 ESC Guidelines for the management of myocarditis and pericarditis.** Eur Heart J. 2025 (تأیید NSAID/Aspirin + Colchicine به عنوان خط اول و ضد IL-1 در راجعه). *\[مشخصات کامل صفحه باید پیش از نشر تأیید شود.\]*
-- **ACC Concise Clinical Guidance on the management of pericarditis (2025).** J Am Coll Cardiol. 2025 (Colchicine ۳ ماه در حملهٔ اول و ۶–۱۲ ماه در راجعه؛ محدودیت ورزش؛ ضد IL-1). *\[مشخصات کامل باید تأیید شود.\]*
 - Imazio M, et al. **Medical therapy of pericarditis: tips and tricks for clinical practice.** J Cardiovasc Med. 2024;25(6) (جدول ۱: دوز Indomethacin و Prednisone ۰.۲–۰.۵ mg/kg/روز).
 - Imazio M, et al. **A randomized trial of colchicine for acute pericarditis (ICAP).** N Engl J Med. 2013;369:1522–1528.
 - Mayosi BM, et al. **Prednisolone and Mycobacterium indicus pranii in tuberculous pericarditis (IMPI).** N Engl J Med. 2014;371:1121–1130.
@@ -3592,7 +3590,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 = فصل ۱۲ — اندوکاردیت انتانی (Infective Endocarditis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2023 Endocarditis و معیارهای Duke–ISCVID 2023 (جاری)؛ AHA 2021 برای وقایه (جاری).*
+  **بخش دوم — سیستم قلب و عروق**
 ]
 == 🩺 مریض این فصل
 کریم، ۳۴ ساله، از سه هفته تب، خستگی و کاهش وزن دارد. در طفولیت تب روماتیزمی داشته است. دو ماه پیش دندانش کشیده شد. داکتران محلی سه نوع انتی‌بیوتیک فمی داده‌اند؛ تب برای چند روز کم شد و باز برگشت. در معاینه: مرمر Pansystolic قمه و خونریزی‌های خطی زیر ناخن.
@@ -4013,7 +4011,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 = فصل ۱۳ — امراض اورت و شرایین محیطی (Aortic Diseases & Peripheral Arterial Disease)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 PAD/اورت و ACC/AHA 2024 PAD (جاری)؛ ACC/AHA 2022 اورت (جاری).*
+  **بخش دوم — سیستم قلب و عروق**
 ]
 == 🩺 مریض این فصل
 حاجی شیرآقا، ۶۹ ساله، سگرتی و مبتلا به فشار بلند، با درد ناگهانی و پاره‌کنندهٔ صدر که به پشت بین دو کتف می‌رود، آمده است. فشار در بازوی راست ۱۷۰/۱۰۰ و در بازوی چپ ۱۳۰/۸۰ mmHg است. ECG تغییرات واضح ایسکیمی ندارد.
@@ -4367,7 +4365,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 - ⚠️ **درد استراحت شبانه، زخم یا سیاه شدن انگشت** ← CLTI ← ارجاع فوری.
 - ⚠️ **درد شدید عضله پس از بازگشت جریان** ← سندروم کمپارتمنت.
 == 📚 References
-- Mazzolai L, et al. **2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.** Eur Heart J. 2024;45:3538–3700 (اهداف ضربان کمتر از ۶۰ و سیستولیک ۱۰۰–۱۲۰ در AAS؛ حد جراحی AAA: ۵۵ mm مرد و ۵۰ mm زن؛ Clopidogrel/Aspirin؛ هدف LDL). *\[صفحات دقیق پیش از نشر تأیید شود.\]*
+- Mazzolai L, et al. **2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.** Eur Heart J. 2024;45:3538–3700 (اهداف ضربان کمتر از ۶۰ و سیستولیک ۱۰۰–۱۲۰ در AAS؛ حد جراحی AAA: ۵۵ mm مرد و ۵۰ mm زن؛ Clopidogrel/Aspirin؛ هدف LDL).
 - Gornik HL, et al. **2024 ACC/AHA/Multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease.** Circulation/JACC. 2024 (Rivaroxaban ۲.۵ mg دو بار + Aspirin دوز پایین: Class I؛ DAPT ۱–۶ ماه پس از مداخلهٔ اندوواسکولار؛ ورزش نظارت‌شده).
 - Isselbacher EM, et al. **2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease.** Circulation. 2022;146:e334–e482.
 - Anand SS, et al. **COMPASS PAD subgroup.** Lancet. 2018;391:219–229؛ Bonaca MP, et al. **VOYAGER PAD.** N Engl J Med. 2020;382:1994–2004.
@@ -4397,7 +4395,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 = فصل ۱۴ — ترومبوآمبولی وریدی: DVT و آمبولی شش (Venous Thromboembolism: DVT & Pulmonary Embolism)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2019 PE (هنوز جاری در اروپا)؛ AHA/ACC 2026 PE با طبقه‌بندی A–E نشر شده — یادداشت تازگی در متن (SD-91).*
+  **بخش دوم — سیستم قلب و عروق**
 ]
 == 🩺 مریض این فصل
 فاطمه، ۳۲ ساله، ده روز پس از سزارین، با تنگی نفس ناگهانی و درد صدر که با نفس عمیق بدتر می‌شود، آمده است. نبض ۱۱۸، SpO₂ ۹۱ فیصد و فشار پایدار است. ساق پای چپش پندیده و دردناک است.
@@ -4425,7 +4423,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 === PE — طبقه‌بندی خطر مرگ زودرس (ESC 2019)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  🔄 **CURRENTNESS NOTE:** رهنمود **AHA/ACC 2026** (فبروری 2026) طبقه‌بندی تازهٔ **Category A تا E** را معرفی کرد: A = بی‌علامت (رخصت از عاجل ممکن)؛ B = باعلامت با نمرهٔ شدت پایین (sPESI صفر، PESI ≤ ۸۵؛ رخصت زود)؛ C = بیومارکر بلند و/یا اختلال بطین راست؛ D = عدم کفایهٔ قلبی-تنفسی آغازین؛ E = هایپوتنشن دوامدار. C تا E بستری می‌شوند. این رهنمود DOAC را در مریضان مناسب ترجیح می‌دهد و PERT را توصیه می‌کند. جدول زیر (ESC 2019) هنوز معتبر و در عمل رایج است؛ جزئیات زیرگروه‌های 2026 در این فصل هنوز خط به خط مطابقت نشده.
+  🔄 **به‌روزرسانی:** رهنمود **AHA/ACC 2026** (فبروری 2026) طبقه‌بندی تازهٔ **Category A تا E** را معرفی کرد: A = بی‌علامت (رخصت از عاجل ممکن)؛ B = باعلامت با نمرهٔ شدت پایین (sPESI صفر، PESI ≤ ۸۵؛ رخصت زود)؛ C = بیومارکر بلند و/یا اختلال بطین راست؛ D = عدم کفایهٔ قلبی-تنفسی آغازین؛ E = هایپوتنشن دوامدار. C تا E بستری می‌شوند. این رهنمود DOAC را در مریضان مناسب ترجیح می‌دهد و PERT را توصیه می‌کند. جدول زیر (ESC 2019) هنوز معتبر و در عمل رایج است؛ جزئیات زیرگروه‌های 2026 در این فصل هنوز خط به خط مطابقت نشده.
 ]
 #figure(
   table(columns: (auto, auto, auto, auto, auto),
@@ -4780,7 +4778,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 = فصل ۱۵ — رهیافت و معاینهٔ سیستم تنفسی (Respiratory Approach & Examination)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ ادعای رهنمودی جدید ندارد. تعریف‌های COPD و آسما در فصل‌های ۱۶–۱۷.*
+  **بخش سوم — سیستم تنفسی**
 ]
 🖼 **تمثیل ذهنی:** سیستم تنفسی را مانند **یک درخت وارونه در یک صندوق** تصور کن.
 - **تنهٔ درخت** قصبه‌الریه (Trachea) است و **شاخه‌ها** برانکس‌ها.
@@ -5062,7 +5060,7 @@ PE شدید، پنوموتوراکس فشاری، انفارکت بطین راس
 = فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): گروه‌های ABE و تداوی ابتدایی با Pocket Guide رسمی GOLD 2026 مطابقت شد؛ بخش تشدید هنوز GOLD 2025 است (SD-93).*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 کاکا خان‌محمد، ۶۶ ساله، چهل سال سگرت کشیده و سال‌ها روی تنور نان کار کرده است. از سه روز تنگی نفس او بیشتر و بلغمش زرد و زیاد شده است. SpO₂ ۸۶ فیصد است. نرس اکسیجن را با بلندترین جریان وصل کرده و پس از یک ساعت مریض خواب‌آلود شده است.
@@ -5122,7 +5120,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - **CAT (COPD Assessment Test):** ۸ سؤال، امتیاز ۰–۴۰. GOLD 2026 نام آن را **CAAT** گذاشته؛ امتیازها یکسان‌اند.
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  🔄 **CURRENTNESS NOTE — GOLD 2026:** جدول بالا و جدول تداوی ابتدایی با Pocket Guide رسمی GOLD 2026 (شکل‌های ABE و 3.8) مطابقت شد: در GOLD 2025، گروه E «۲ یا بیشتر تشدید متوسط، یا ۱ تشدید با بستری» بود؛ اکنون **یک تشدید متوسط یا شدید** کافی است. هدف تداوی، **فعالیت کم مرض** یعنی هیچ تشدید است. فصل تشدید در GOLD 2026 کاملاً بازنویسی شده؛ بخش تشدید این فصل هنوز بر GOLD 2025 (Rome) استوار است و با متن 2026 مطابقت نشده (SD-93).
+  🔄 **GOLD 2026:** در GOLD 2025، گروه E «۲ یا بیشتر تشدید متوسط، یا ۱ تشدید با بستری» بود؛ اکنون **یک تشدید متوسط یا شدید** کافی است. هدف تداوی، **فعالیت کم مرض** یعنی هیچ تشدید است. فصل تشدید در GOLD 2026 کاملاً بازنویسی شده؛ بخش تشدید این فصل هنوز بر GOLD 2025 (Rome) استوار است و با متن 2026 مطابقت نشده.
 ]
 - **Pre-COPD / PRISm:** اعراض یا تغییرات ساختاری با اسپیرومتری نورمال، یا FEV₁/FVC نورمال با FEV₁ پایین — در معرض خطر COPD.
 === ج) تصنیف تشدید (ECOPD — Rome proposal، GOLD 2025)
@@ -5440,7 +5438,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **ادیمای تازه** ← Cor pulmonale یا عدم کفایهٔ قلب چپ.
 - ⚠️ **تشدید دوم در ۸ هفته** ← ارزیابی مجدد تشخیص، تداوی و امراض همراه.
 == 📚 References
-- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org — ABE assessment tool and Figure 3.8 read directly.
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org.
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
 - Bhatt SP, et al. **Dupilumab for COPD with type 2 inflammation (BOREAS).** N Engl J Med. 2023;389:205–214؛ **(NOTUS).** N Engl J Med. 2024;390:2274–2283.
@@ -5448,7 +5446,6 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980;93:391–398؛ MRC Working Party. Lancet. 1981;1:681–686 (LTOT).
 - Wedzicha JA, et al. **ERS/ATS guideline: Management of COPD exacerbations.** Eur Respir J. 2017;49:1600791.
 - Rochwerg B, et al. **ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
-- *تأیید دوز: Prednisolone ۴۰ mg × ۵ روز در تشدید مطابق GOLD و کارآزمایی REDUCE؛ دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). قوت‌های انهیلر، انتی‌بیوتیک‌های تشدید، Roflumilast، Ensifentrine، Mucolytics، Theophylline و دواهای ترک سگرت از برچسب در این بازبینی خوانده نشد → SD-88. مطابقت با لیست دواهای اساسی افغانستان باز است.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفهٔ مزمن در بالای ۴۰ سال با تماس دود: **اسپیرومتری** بنویس.
 2. هر مریض COPD: **BEC** را در دوسیه بنویس — تصمیم ICS به آن بسته است.
@@ -5472,7 +5469,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 = فصل ۱۷ — آسما (Asthma)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): GINA 2025؛ تغییرات GINA 2026 (هدف SpO₂، Adrenaline اول در Anaphylaxis، بازبینی پس از یک حمله) درج شد (SD-96).*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 مریم، ۱۹ ساله و محصل، با تنگی نفس شدید آمده است. نمی‌تواند یک جمله را کامل بگوید. در سینه‌اش Wheeze کم شنیده می‌شود. SpO₂ ۹۰ فیصد و نبض ۱۲۵ است. از یک سال فقط «اسپری آبی» استفاده می‌کند، گاهی روزانه چند بار.
@@ -5801,7 +5798,6 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر نگهدارنده، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض آسما: **چهار سؤال GINA** را بپرس.
 2. هر نسخه: **هیچ Salbutamol بدون ICS**.
@@ -5824,7 +5820,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 = فصل ۱۸ — پنومونی (Pneumonia)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS/IDSA 2019 CAP؛ ATS 2025 CAP (کورتیکوستیروئید در CAP شدید) درج شد؛ IDSA/ATS 2016 HAP/VAP (جاری) (SD-94).*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 حاجی نورآقا، ۷۲ ساله، از دو روز تب، سرفه با بلغم زنگ‌زده و درد صدر طرف راست دارد. امروز پسرش می‌گوید «کمی گیج است». تنفس ۳۲ در دقیقه، فشار ۹۵/۶۰، یوریا بلند. در CXR کدورت لوب تحتانی راست.
@@ -6172,7 +6168,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 = فصل ۱۹ — توبرکلوز (سل) (Tuberculosis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): WHO Consolidated TB Module 4 (2025)، ATS/CDC/ERS/IDSA 2025 (جاری)؛ رهنمود ملی NTP افغانستان.*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 گل‌بی‌بی، ۲۴ ساله از هلمند، از دو ماه سرفه، تب شبانه، عرق شبانه و کاهش وزن دارد. سه بار «انتی‌بیوتیک برای پنومونی» گرفته است. شوهرش هم پارسال سرفهٔ طولانی داشت. تازه ولادت کرده و طفل شیرخوار دارد.
@@ -6560,7 +6556,6 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - Dorman SE, et al. **Four-Month Rifapentine Regimens with or without Moxifloxacin for Tuberculosis (Study 31/A5349).** N Engl J Med. 2021;384:1705–1718.
 - Nyang'wa BT, et al. **A 24-Week, All-Oral Regimen for Rifampin-Resistant Tuberculosis (TB-PRACTECAL).** N Engl J Med. 2022;387:2331–2343.
 - Thwaites GE, et al. **Dexamethasone for the treatment of tuberculous meningitis in adolescents and adults.** N Engl J Med. 2004;351:1741–1751.
-- **National Tuberculosis Programme, Ministry of Public Health, Afghanistan** — رهنمود ملی (برای رژیم‌ها، فورم‌های ثبت، و دسترسی به دواهای MDR). *\[نسخهٔ جاری باید پیش از نشر مطابقت داده شود.\]*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفهٔ ۲ هفته یا بیشتر: **دو نمونهٔ بلغم برای GeneXpert** — امروز.
 2. هر مریض سل: **وزن**، **تست HIV**، **قند خون**، و **LFT پایه**.
@@ -6583,7 +6578,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 = فصل ۲۰ — امراض پلورا: افیوژن، امپییما و پنوموتوراکس (Pleural Diseases)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): BTS Pleural Disease 2023 (جاری).*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 کاکا جمعه‌خان، ۶۰ ساله، از یک هفته پس از «پنومونی» هنوز تب دارد و درد صدر طرف چپ او بدتر شده است. در معاینه: صدای مات در قاعدهٔ چپ و کاهش صدای تنفس. CXR: افیوژن متوسط.
@@ -6883,7 +6878,6 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
-- *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر افیوژن یک‌طرفه: **توراسنتز با سونوگرافی** و **پروتین و LDH سیروم هم‌زمان**.
 2. هر مایع پلورا: **pH با سرنج گاز خون** — نه در ظرف معمول.
@@ -6908,7 +6902,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 = فصل ۲۱ — امراض بینابینی شش، سرطان شش و ابسهٔ شش (ILD, Lung Cancer & Lung Abscess)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS/ERS/JRS/ALAT 2022 IPF و PPF (جاری)؛ NCCN 2026 سرطان شش (فقط اصول، دوز تخصصی نوشته نمی‌شود).*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 دو مریض در یک روز: **حاجی ولی**، ۶۸ ساله و سگرتی، از سه ماه سرفه، هموپتیزی خفیف و کاهش وزن دارد؛ در CXR یک کتلهٔ پیرامونی دیده می‌شود. **خانم شفیقه**، ۶۲ ساله و غیرسگرتی، از یک سال تنگی نفس تدریجی و سرفهٔ خشک دارد؛ در قاعدهٔ هر دو شش Crackles «Velcro» شنیده می‌شود و ناخن‌هایش Clubbing دارند.
@@ -7307,7 +7301,6 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی انکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در حالات عاجل سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ شش در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض با Crackles Velcro: **دربارهٔ کبوتر، شغل، و دواها** بپرس.
 2. هر ILD: **اسپیرومتری + DLCO + HRCT + سیرولوژی CTD**.
@@ -7328,7 +7321,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 = فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *Currentness audit (سپتمبر 2026): ATS 2024 ARDS، ESICM 2023 ARDS، تعریف جهانی ARDS 2024 (جاری)؛ BTS 2017 اکسیجن (هنوز نسخهٔ جاری BTS)؛ ERS/ATS 2017 NIV.*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 زرمینه، ۴۰ ساله، سه روز پس از پانکراتیت شدید، تنفس ۳۶ در دقیقه دارد و با ماسک ساده SpO₂ او ۸۵ فیصد است. CXR: کدورت‌های دوطرفه. قلبش نورمال کار می‌کند.
@@ -7568,7 +7561,6 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض روی اکسیجن: **هدف SpO₂ را در چارت بنویس** (۹۴–۹۸ یا ۸۸–۹۲).
 2. هر COPD تشدید: **ABG قبل و ۱ ساعت پس از NIV یا تغییر اکسیجن**.
@@ -7587,7 +7579,7 @@ ILD گروهی بزرگ (بیش از ۲۰۰) از امراض است که **بی�
 = فصل ۲۳ — سرفهٔ مزمن و هموپتیزی (Chronic Cough & Haemoptysis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سوم — سیستم تنفسی** · *فصل رهیافتی (Approach chapter)* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ اصول سرفهٔ مزمن و هموپتیزی از منابع استندرد. دوزهای علامتی → SD-89.*
+  **بخش سوم — سیستم تنفسی**
 ]
 == 🩺 مریض این فصل
 انور، ۴۵ ساله و معلم، از چهار ماه سرفهٔ خشک دارد. سگرت نمی‌کشد. CXR نورمال است. سه دور انتی‌بیوتیک و شربت سرفه گرفته است. برای فشار بلند از شش ماه **Enalapril** می‌گیرد. شب‌ها ترشح پشت بینی دارد و گاهی حرقت معده.
@@ -7879,9 +7871,8 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - Wand O, et al. **Inhaled tranexamic acid for hemoptysis treatment: a randomized controlled trial.** Chest. 2018;154:1379–1384.
 - Ittrich H, et al. **The diagnosis and treatment of hemoptysis.** Dtsch Arztebl Int. 2017;114:371–381.
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
-- WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *\[نسخهٔ جاری رهنمود ملی باید تأیید شود.\]*
+- WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته.
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفه: **مدت** (حاد، تحت حاد، مزمن) — اولین سؤال.
 2. هر سرفهٔ مزمن: **CXR + لیست دواها (ACEi) + اسپیرومتری**.
@@ -7901,7 +7892,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 = فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *فصل رهیافتی؛ رهیافت بخش کبد (یرقان، معاینهٔ کبد) هم این‌جاست.* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ ادعای رهنمودی جدید ندارد.*
+  **بخش چهارم — سیستم هضمی**
 ]
 🖼 **تمثیل ذهنی:** سیستم هضمی را مانند یک **خط تولید طولانی در فابریکه** (حدود ۸–۹ متر از دهن تا مقعد) تصور کن:
 - **ورودی و انتقال:** دهن، مری (نوار انتقال).
@@ -8210,7 +8201,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 = فصل ۲۵ — خونریزی جهاز هضمی (Gastrointestinal Bleeding)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2021 UGIB، ACG 2023 LGIB (جانشین توصیهٔ کولونوسکوپی ۲۴ ساعته)، BSG 2019 LGIB، Baveno VII (جاری).*
+  **بخش چهارم — سیستم هضمی**
 ]
 == 🩺 مریض این فصل
 کاکا رسول، ۵۵ ساله، برای درد زانو از دو ماه Diclofenac می‌خورد. امروز صبح دو بار استفراغ خون‌آلود داشت و مواد غایطه‌اش سیاه و چسپناک است. نبض ۱۱۵ و فشار ۹۵/۶۰ mmHg است. Hb ۸.۱ g/dL.
@@ -8488,7 +8479,6 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر خونریزی GI: **نبض، BP، Shock index، و DRE** در ۵ دقیقهٔ اول.
 2. هر UGIB: **GBS را حساب کن** و در دوسیه بنویس.
@@ -8507,7 +8497,7 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 = فصل ۲۶ — قرحهٔ هضمی، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2024 H. pylori، Maastricht VI 2022، ACG 2022 GERD، ACG/CAG 2017 Dyspepsia (جاری).*
+  **بخش چهارم — سیستم هضمی**
 ]
 == 🩺 مریض این فصل
 لیلا، ۳۸ ساله، از شش ماه درد و سوزش شرسوفی دارد که با غذا کمی بهتر می‌شود. چند دور Omeprazole گرفته؛ با قطع آن درد برمی‌گردد. کاهش وزن، استفراغ، خونریزی یا کم‌خونی ندارد. پدرش سرطان معده داشته است.
@@ -8759,7 +8749,6 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole پیشگیرانه با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سوء هاضمه: **ALARM + سن + NSAID** را بپرس.
 2. هر تست H. pylori: **PPI ۲ هفته قطع** — و **نه سیرولوژی**.
@@ -8778,7 +8767,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 = فصل ۲۷ — بطن حاد (Acute Abdomen)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): WSES 2020–2022 (آپاندیسیت، کولی‌سیستیت، AMI)، ESVS 2025 mesenteric (جانشین 2017؛ SD-95)، SIS/IDSA اصول IAI.*
+  **بخش چهارم — سیستم هضمی**
 ]
 == 🩺 مریض این فصل
 ثمینه، ۲۶ ساله، از ۱۲ ساعت درد بطن دارد که اول دور ناف بود و حالا در قسمت تحتانی راست است. دلبدی و بی‌اشتهایی دارد. تب ۳۸.۲. عادت ماهوار او دو هفته تأخیر کرده است.
@@ -8941,7 +8930,7 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 ==== ۴. ایسکیمی حاد مساریقی (ESVS 2025، WSES 2022)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **ESVS 2025** (Koelemay MJ et al., جانشین 2017) — متن اصلی خوانده شد: ⚠️ **یک اندازه‌گیری D-dimer یا Lactate برای تأیید یا رد ایسکیمی حاد مساریقی توصیه نمی‌شود** (برخلاف رهنمود 2017 که D-dimer نورمال را برای رد به کار می‌برد). با شک بالینی، **CTA فوری در مرحلهٔ شریانی و وریدی**، و شک به AMI را در درخواست CTA بنویس. مریض در مرکزی تداوی شود که خدمات ۲۴ ساعته و Revascularisation باز و Endovascular دارد.
+  **ESVS 2025** (Koelemay MJ et al., جانشین 2017): ⚠️ **یک اندازه‌گیری D-dimer یا Lactate برای تأیید یا رد ایسکیمی حاد مساریقی توصیه نمی‌شود** (برخلاف رهنمود 2017 که D-dimer نورمال را برای رد به کار می‌برد). با شک بالینی، **CTA فوری در مرحلهٔ شریانی و وریدی**، و شک به AMI را در درخواست CTA بنویس. مریض در مرکزی تداوی شود که خدمات ۲۴ ساعته و Revascularisation باز و Endovascular دارد.
 ]
 - **Heparin غیرفرکشنه فوری:** **بولوس ۸۰ U/kg IV** (یا ۵٬۰۰۰ U) ← **انفیوژن ۱۸ U/kg/h**، تنظیم با aPTT (۱.۵–۲.۵ برابر) — فصل ۱۴.
 - **انتی‌بیوتیک وسیع‌الطیف** (انتقال باکتریایی) — مانند بالا.
@@ -9019,7 +9008,6 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد بطن: **β-hCG، ECG، گلوکوز، لاکتات، Lipase**.
 2. هر درد بطن: **مسکن در ۳۰ دقیقه**.
@@ -9038,7 +9026,7 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 = فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2025 UC و Crohn، AGA Living Guidelines 2025، ECCO (جاری).*
+  **بخش چهارم — سیستم هضمی**
 ]
 == مریضی که دو تشخیص روی میز داشت
 حمید ۲۳ ساله است و محصل پوهنتون در کابل. چهار ماه است که روزانه چهار تا شش بار مواد غایطهٔ نرم دارد. درد او در ناحیهٔ راست پایین بطن است و بعد از غذا بدتر می‌شود. در این مدت هفت کیلوگرام وزن کم کرده است. گاهی شب‌ها تب خفیف می‌کند. دو هفته پیش در کنار مقعد یک دانهٔ دردناک پیدا شد که خودش باز شد و حالا از آن ترشح می‌آید.
@@ -9561,7 +9549,6 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 - **Management of acute severe ulcerative colitis.** World J Gastrointest Pathophysiol. 2014 (PMC4231522) — دوز Ciclosporin و نظارت.
 - **ASUC: clinical features, initial management and role of advanced therapies.** 2025 (PMC12561010) — Truelove–Witts و Oxford index.
 - CADTH/NCBI: **Latent tuberculosis infection testing prior to biologic therapy — summary of guidelines** (NBK567073).
-**برچسب‌های دوایی (منبع دوزها)**
 - Infliximab — FDA label.
 - Adalimumab (biosimilar adalimumab-aacf) — FDA label 2024 / DailyMed.
 - ENTYVIO (vedolizumab) — FDA label.
@@ -9589,7 +9576,7 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 = فصل ۲۹ — اسهال حاد، Rehydration و یبوست (Acute Diarrhoea, Rehydration & Constipation)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *با Currentness audit (2025/2026). این فصل تنها جایگاه اسهال حاد در کتاب است (شامل Cholera و دیزانتری با رهنمود GTFCC)؛ اسهال مزمن → فصل ۳۰، IBD → فصل ۲۸.*
+  **بخش چهارم — سیستم هضمی**
 ]
 == مریضی که آب بدنش از دست می‌رفت
 رحیم ۴۵ ساله است و در یک قریهٔ ننگرهار زندگی می‌کند. تابستان است. از دیشب ده‌ها بار مواد غایطهٔ آبکی داشته است. مواد غایطه بی‌بو و خاکستری‌رنگ است و مثل **آب برنج** به نظر می‌رسد. استفراغ هم دارد. تب ندارد. در قریه دو نفر دیگر هم در همین هفته به همین حال افتاده‌اند.
@@ -9932,7 +9919,7 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 ==== کولرا: آنچه GTFCC به پلان‌ها اضافه می‌کند
 - **چرا این‌قدر مهم؟** در شکل شدید، بدون تداوی تا **۵۰ فیصد** مریضان می‌میرند؛ با تداوی درست، **هیچ کس نباید از Dehydration بمیرد**. حدود **۸۰ فیصد** مبتلایان علایم ندارند اما تا **۱۴ روز** باکتری را دفع می‌کنند؛ از علامه‌داران حدود **۲۰ فیصد** Dehydration شدید پیدا می‌کنند (GTFCC Field Manual).
 - **چند نفر از یک قریه با اسهال آبکی شدید** → Cholera تا خلاف آن ثابت شود → **در همان روز به نظارت امراض اطلاع بده**؛ RDT و نمونهٔ کلچر.
-- **Plan C در طفل کوچک‌تر از یک سال:** همان ۱۰۰ mL/kg، اما در **۶ ساعت** (نه ۳). بدیل Ringer lactate: Saline نورمال، Glucose ۵ فیصد در Saline نورمال، یا Cholera saline — **Glucose ۵ فیصد خالص نه**. تقسیم ۳۰/۷۰ از جدول تصویری GTFCC مستقیم خوانده نشد و بر منابع مبتنی بر WHO استوار است (SD-55).
+- **Plan C در طفل کوچک‌تر از یک سال:** همان ۱۰۰ mL/kg، اما در **۶ ساعت** (نه ۳). بدیل Ringer lactate: Saline نورمال، Glucose ۵ فیصد در Saline نورمال، یا Cholera saline — **Glucose ۵ فیصد خالص نه**.
 - **هر ۱۵–۳۰ دقیقه** ارزیابی کن؛ شاید بیشتر از یک خط وریدی لازم باشد. **اگر خط وریدی ممکن نیست** و مریض نمی‌نوشد: ORS از راه **Nasogastric tube** (نه در مریض استفراغ‌کننده) تا خط وریدی پیدا شود.
 - **عوارض تداوی:** Pulmonary oedema از مایع زیاد (مسن، مریض قلبی — شش‌ها را هر بار بشنو)؛ AKI از مایع کم؛ Hypoglycaemia و Hypokalaemia، به ویژه در طفل Malnourished که فقط Ringer lactate می‌گیرد.
 - **رخصت (GTFCC)** وقتی: علایم Dehydration ندارد، ORS را بدون استفراغ می‌نوشد، **۴ ساعت بدون اسهال آبکی** است، بدون کمک راه می‌رود، و ادرار دارد. ORS و آموزش آب پاک و شستن دست با او بده.
@@ -9989,12 +9976,12 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
     [**Fidaxomicin — رژیم طولانی**], [۲۰۰ mg دو بار روزانه در روزهای ۱–۵، بعد ۲۰۰ mg یک بار در روزهای یک‌درمیان از روز ۷ تا ۲۵], [خطر بلند عود، به‌خصوص مسن‌ها بستری], [ESCMID 2021],
     [**Vancomycin (فمی)**], [**۱۲۵ mg PO چهار بار روزانه برای ۱۰ روز**], [بدیل قابل قبول وقتی Fidaxomicin موجود نیست], [IDSA/SHEA 2021],
     [**Metronidazole**], [—], [**فقط** در CDI غیرشدید وقتی Vancomycin فمی و Fidaxomicin موجود نیستند], [IDSA/SHEA 2021؛ ESCMID 2021],
-    [**CDI فولمیننت** (شوک، Ileus، توسع کولون)], [Vancomycin فمی با دوز بلندتر + Metronidazole IV؛ مشورهٔ جراحی], [دوز دقیق را از رهنمود IDSA/SHEA مرکز خود بگیر], [IDSA/SHEA 2017 (دوز در این فصل عمداً ذکر نشده — SD-07)],
+    [**CDI فولمیننت** (شوک، Ileus، توسع کولون)], [Vancomycin فمی با دوز بلندتر + Metronidazole IV؛ مشورهٔ جراحی], [دوز دقیق را از رهنمود IDSA/SHEA مرکز خود بگیر], [IDSA/SHEA 2017 *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
   ),
   caption: none,
 )
 #v(0.4em)
-**🔄 Currentness 2025:** **Bezlotoxumab (Zinplava)** که IDSA/SHEA 2021 و ACG 2021 برای پیشگیری از عود پیشنهاد کرده بودند، **در جنوری 2025 توسط شرکت سازنده (Merck) متوقف شد** و دیگر در بازار نیست (ASHP Drug Shortage؛ FDA Drug Shortages). برای عودهای مکرر، **Faecal microbiota transplantation (FMT)** گزینهٔ اصلی باقی می‌ماند (ESCMID 2021).
+**🔄 به‌روزرسانی 2025:** **Bezlotoxumab (Zinplava)** که IDSA/SHEA 2021 و ACG 2021 برای پیشگیری از عود پیشنهاد کرده بودند، **در جنوری 2025 توسط شرکت سازنده (Merck) متوقف شد** و دیگر در بازار نیست (ASHP Drug Shortage؛ FDA Drug Shortages). برای عودهای مکرر، **Faecal microbiota transplantation (FMT)** گزینهٔ اصلی باقی می‌ماند (ESCMID 2021).
 **Vancomycin وریدی برای CDI کار نمی‌کند** چون به داخل روده ترشح نمی‌شود. فقط شکل فمی (یا از راه رکتوم در Ileus) مؤثر است.
 ==== ۴. پرازیت‌ها
 #figure(
@@ -10006,7 +9993,7 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
     [**Metronidazole**], [**۷۵۰ mg PO سه بار روزانه برای ۵–۱۰ روز**], [امیبیازیس روده‌ای حاد (دیزانتری امیبی)], [**Child-Pugh C: ۳۷۵ mg هر ۸ ساعت برای ۵–۱۰ روز**. در همودیالیز، اگر دوز با دیالیز هم‌زمان شود، دوز اضافی پس از دیالیز را در نظر بگیر. با الکول مصرف نشود], [برچسب FDA Flagyl (بازنگری 07/2025)],
     [**Tinidazole**], [**۲ g PO روزانه برای ۳ روز** با غذا], [امیبیازیس روده‌ای], [], [برچسب FDA Tindamax],
     [**Tinidazole**], [**۲ g PO یک دوز** با غذا], [Giardiasis — انتخاب اول], [], [برچسب FDA Tindamax؛ AAFP 2022],
-    [**دوای لومنی** (Paromomycin یا Diloxanide)], [دوز مطابق برچسب محلی], [**پس از** Metronidazole یا Tinidazole در امیبیازیس], [دوای نسجی سیست‌های داخل لومن را پاک نمی‌کند؛ بدون دوای لومنی عود رخ می‌دهد. دوز در این فصل تأیید نشده — SD-07], [CDC],
+    [**دوای لومنی** (Paromomycin یا Diloxanide)], [دوز مطابق برچسب محلی], [**پس از** Metronidazole یا Tinidazole در امیبیازیس], [دوای نسجی سیست‌های داخل لومن را پاک نمی‌کند؛ بدون دوای لومنی عود رخ می‌دهد.], [CDC],
   ),
   caption: none,
 )
@@ -10021,13 +10008,13 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
     [*دوا*], [*دوز · راه · تکرار · مدت*], [*موارد استعمال*], [*منع استعمال و احتیاط*], [*منبع*],
     [**Loperamide**], [**۴ mg PO در ابتدا، بعد ۲ mg پس از هر اجابت نرم؛ حد اعظمی ۱۶ mg در ۲۴ ساعت**], [اسهال آبکی بدون تب در کاهلان؛ همراه انتی‌بیوتیک در اسهال مسافرین], [**دیزانتری با تب یا خون، شک به C. difficile یا STEC** ← به کار نبر (توکسین را در روده نگه می‌دارد). **هشدار FDA:** دوزهای بالاتر از مقدار توصیه‌شده ← طولانی شدن QT، Torsades و مرگ؛ با دواهای طولانی‌کنندهٔ QT احتیاط. در اطفال کوچک به کار نبر], [برچسب FDA؛ ACG 2016],
     [**Zinc** (فقط اطفال)], [**۵ mg PO روزانه تا ۱۴ روز** برای اطفال تا ۱۰ سال], [اسهال حاد آبکی یا پایدار در اطفال], [توصیهٔ مشروط WHO 2024؛ دوز کم برای کم کردن استفراغ. در رهنمودهای قدیمی‌تر WHO: ۱۰–۲۰ mg برای ۱۰–۱۴ روز], [WHO 2024 Guideline on pneumonia & diarrhoea in children],
-    [**Zinc در کولرا** (اطفال ۶ ماه تا ۵ سال)], [**Zinc sulphate ۲۰ mg روزانه برای ۱۰ روز** (GTFCC)], [اسهال آبکی در شیوع کولرا], [**اختلاف منابع:** GTFCC هنوز ۲۰ mg می‌نویسد؛ WHO 2024 (تازه‌تر، مبتنی بر مرور شواهد) ۵ mg را ترجیح می‌دهد. تا رهنمود ملی روشن شود، در برنامهٔ کولرا مطابق GTFCC و در سایر اسهال‌ها مطابق WHO 2024 (SD-55). Zinc جذب Ciprofloxacin را کم می‌کند: Antibiotic را ۲ ساعت پیش یا ۴–۶ ساعت پس از Zinc بده], [GTFCC Field Manual],
+    [**Zinc در کولرا** (اطفال ۶ ماه تا ۵ سال)], [**Zinc sulphate ۲۰ mg روزانه برای ۱۰ روز** (GTFCC)], [اسهال آبکی در شیوع کولرا], [**اختلاف منابع:** GTFCC هنوز ۲۰ mg می‌نویسد؛ WHO 2024 (تازه‌تر، مبتنی بر مرور شواهد) ۵ mg را ترجیح می‌دهد. تا رهنمود ملی روشن شود، در برنامهٔ کولرا مطابق GTFCC و در سایر اسهال‌ها مطابق WHO 2024. Zinc جذب Ciprofloxacin را کم می‌کند: Antibiotic را ۲ ساعت پیش یا ۴–۶ ساعت پس از Zinc بده], [GTFCC Field Manual],
   ),
   caption: none,
 )
 #v(0.4em)
 **Probiotics:** ACG 2016 استعمال روتین آن را در اسهال حاد کاهلان توصیه نمی‌کند (مگر در اسهال مرتبط با انتی‌بیوتیک). WHO 2024 هم برای اطفال آن را توصیه نمی‌کند.
-**🔄 Currentness (WHO 2024، اطفال تا ۱۰ سال):** انتی‌بیوتیک در اسهال آبکی حاد توصیه نمی‌شود. فقط در **خون قابل دید** در مواد غایطه، **Ciprofloxacin** انتخاب اول است. دوز Zinc به ۵ mg روزانه کاهش یافته است. این مهم است چون بسیاری از داکتران جوان در افغانستان اطفال را هم می‌بینند.
+**🔄 به‌روزرسانی (WHO 2024، اطفال تا ۱۰ سال):** انتی‌بیوتیک در اسهال آبکی حاد توصیه نمی‌شود. فقط در **خون قابل دید** در مواد غایطه، **Ciprofloxacin** انتخاب اول است. دوز Zinc به ۵ mg روزانه کاهش یافته است. این مهم است چون بسیاری از داکتران جوان در افغانستان اطفال را هم می‌بینند.
 === C. Non-pharmacological
 - **ادامهٔ غذا:** رژیم نورمال سن. محدودیت غذایی سخت فایده ندارد.
 - **آب پاک و شستن دست:** مهم‌ترین پیشگیری. در شیوع کولرا: کلورینیشن آب، دفع صحی فضله، اطلاع به صحت عامه.
@@ -10061,7 +10048,7 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  دوز دقیق Senna، Bisacodyl، Magnesium oxide، Lactulose، Linaclotide، Plecanatide و Prucalopride در این دوره از برچسب تأیید نشده و عمداً بدون رقم نوشته شده است (SD-07).
+  دوز Senna، Bisacodyl، Magnesium oxide، Lactulose، Linaclotide، Plecanatide و Prucalopride را از برچسب دوا بگیر.
 ]
 💡 **Memory Jogger — «PEG اول، Stimulant برای نجات، Prescription بعد از شکست OTC».**
 **Docusate:** رهنمود AGA–ACG 2023 برای آن توصیه‌ای نداد؛ تفسیر ACG یادآوری می‌کند که مطالعات کوچک قبلی برتری آن بر Placebo را نشان ندادند.
@@ -10134,7 +10121,7 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
 - World Health Organization. **The Treatment of Diarrhoea: A Manual for Physicians and Other Senior Health Workers.** 4th revision. WHO; 2005.
-- World Health Organization. **Guideline on management of pneumonia and diarrhoea in children up to 10 years of age.** WHO; 2024. (خلاصه: Indian Pediatrics 2025;62:775–778.)
+- World Health Organization. **Guideline on management of pneumonia and diarrhoea in children up to 10 years of age.** WHO; 2024.
 - Médecins Sans Frontières. **Clinical Guidelines — Dehydration** (WHO Treatment Plans B and C). medicalguidelines.msf.org.
 - Global Task Force on Cholera Control (GTFCC). **Cholera Outbreak Response Field Manual** — Section 7, Case management.
 - Global Task Force on Cholera Control (GTFCC). **Interim Technical Note: Use of antibiotics for the treatment and control of cholera.** 2025.
@@ -10171,7 +10158,7 @@ Ileum انتهایی دو وظیفهٔ خاص دارد: جذب **ویتامین 
 = فصل ۳۰ — سوء جذب و سندروم رودهٔ تحریک‌پذیر (Malabsorption & Irritable Bowel Syndrome)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش چهارم — سیستم هضمی** · *با Currentness audit (2025/2026)*
+  **بخش چهارم — سیستم هضمی**
 ]
 == دو مریض با یک شکایت
 **زرغونه** ۲۶ ساله است و در هرات زندگی می‌کند. از چند سال به این طرف روزانه دو تا چهار بار مواد غایطهٔ نرم، **پرحجم، کم‌رنگ و بدبو** دارد که به سختی با آب شسته می‌شود. نفخ دارد و خسته است. سه بار برای «کم‌خونی» تابلت آهن گرفته، اما هیموگلوبین او بلند نرفته است. قدش از خواهرانش کوتاه‌تر است. نان گندم غذای اصلی خانواده است.
@@ -10484,23 +10471,23 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*حالت*], [*دوز · راه · تکرار · مدت*], [*منبع*],
     [**انتخاب راه**], [**IM تمام عمر** در Autoimmune gastritis، Gastrectomy کامل، یا قطع کامل Ileum انتهایی. در سوء جذب دیگر (مثلاً **Coeliac**، Gastrectomy قسمی): B12 بده و **IM را به جای فمی در نظر بگیر**. اگر فمی داده شود: **دست کم ۱ mg روزانه**. پیگیری اول **۳ ماه** پس از شروع (در حاملگی و شیردهی ۱ ماه)], [**NICE NG239 (2024)** — متن اصلی، توصیه‌های 1.5.3، 1.5.4، 1.5.5 و 1.6.1],
-    [**بدون علایم عصبی**], [**برچسب دوا (Datasheet):** Hydroxocobalamin **۲۵۰ µg تا ۱ mg IM یک روز در میان برای ۱–۲ هفته**، بعد **۲۵۰ µg هفته‌وار تا نورمال شدن شمارش خون**؛ نگهداری **۱ mg هر ۲–۳ ماه**. پیشگیری در Gastrectomy یا سندروم‌های سوء جذب: **۱ mg هر ۲–۳ ماه**. *رژیم رایج بریتانیا (BNF، از منابع ثانوی): ۱ mg IM سه بار در هفته برای ۲ هفته، بعد هر ۲–۳ ماه.* نگهداری در علت‌های غیرغذایی **تمام عمر** (NG239)], [**VERIFIED:** Hydroxocobalamin Panpharma 1 mg/mL Datasheet (Medsafe NZ) §4.2 · BNF: UNVERIFIED (دسترسی محدود)],
-    [**با علایم عصبی**], [**Hydroxocobalamin ۱ mg IM یک روز در میان تا وقتی بهبود ادامه دارد**؛ نگهداری **۱ mg هر ۲ ماه، تمام عمر**], [**VERIFIED:** Medsafe Datasheet §4.2 (با رژیم BNF نیز یکسان است)],
+    [**بدون علایم عصبی**], [**برچسب دوا (Datasheet):** Hydroxocobalamin **۲۵۰ µg تا ۱ mg IM یک روز در میان برای ۱–۲ هفته**، بعد **۲۵۰ µg هفته‌وار تا نورمال شدن شمارش خون**؛ نگهداری **۱ mg هر ۲–۳ ماه**. پیشگیری در Gastrectomy یا سندروم‌های سوء جذب: **۱ mg هر ۲–۳ ماه**. *رژیم رایج بریتانیا: ۱ mg IM سه بار در هفته برای ۲ هفته، بعد هر ۲–۳ ماه.* نگهداری در علت‌های غیرغذایی **تمام عمر** (NG239)], [Hydroxocobalamin Datasheet (Medsafe NZ) §4.2],
+    [**با علایم عصبی**], [**Hydroxocobalamin ۱ mg IM یک روز در میان تا وقتی بهبود ادامه دارد**؛ نگهداری **۱ mg هر ۲ ماه، تمام عمر**], [Medsafe Datasheet §4.2 (با رژیم BNF نیز یکسان است)],
   ),
   caption: none,
 )
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  ⚠️ متن اصلی NG239 بررسی شد: انتخاب راه، حد اقل دوز فمی و زمان پیگیری از خود رهنمود است. NG239 برنامهٔ دوز IM را ذکر نمی‌کند. برنامهٔ IM از **برچسب رسمی دوا** (Medsafe Datasheet) تأیید شد. رژیم بریتانیایی «سه بار در هفته برای ۲ هفته» فقط از منابع ثانوی BNF است (UNVERIFIED).
+  ⚠️ انتخاب راه، حد اقل دوز فمی و زمان پیگیری از NG239 است. برنامهٔ IM از **برچسب رسمی دوا** است، چون NG239 آن را نمی‌دهد.
 ]
-**آهن، فولات، ویتامین D و کلسیم:** اصلاح لازم است، اما دوزهای آن‌ها در این فصل از منبع تأیید نشد و عمداً بدون رقم نوشته شده است. به فصل‌های ۶۱ و ۵۱ مراجعه کن (SD-10).
+**آهن، فولات، ویتامین D و کلسیم:** اصلاح لازم است، دوزها در فصل‌های ۶۱ و ۵۱ آمده است.
 ==== ۴. Giardia و Tropical sprue
 - **Giardia:** Tinidazole ۲ g PO یک دوز با غذا (برچسب FDA Tindamax — فصل ۲۹).
-- **Tropical sprue:** تداوی کلاسیک ترکیب Tetracycline و فولات است؛ دوز و مدت در این دوره از منبع تأیید نشد (SD-10).
+- **Tropical sprue:** تداوی کلاسیک ترکیب Tetracycline و فولات است؛ دوز و مدت را از رهنمود محلی بگیر.
 ==== ۵. SIBO
 - علت زمینه‌ای را اصلاح کن (دیابت، دواهای کاهندهٔ حرکت روده).
-- Rifaximin در مطالعات برای SIBO به کار رفته، اما **در ایالات متحده برای SIBO منظور نشده است**؛ دوز در این فصل تأیید نشد (SD-10).
+- Rifaximin در مطالعات برای SIBO به کار رفته، اما **در ایالات متحده برای SIBO منظور نشده است**؛ دوز را از برچسب دوا بگیر.
 ==== ۶. IBS — تداوی بر اساس نوع و علامهٔ غالب
 **قاعدهٔ اول:** اول **رابطهٔ خوب داکتر و مریض**: تشخیص را با اطمینان بگو، توضیح بده که روده سالم است اما حساس، و از تست‌ها و انتی‌بیوتیک‌های تکراری جلوگیری کن. ⚠️ فرید پنج بار Metronidazole گرفته بود بدون اینکه امیب داشته باشد.
 #figure(
@@ -10523,11 +10510,11 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
   caption: none,
 )
 #v(0.4em)
-**🔄 Currentness:** **Tegaserod (Zelnorm)** که AGA 2022 برای زنان کمتر از ۶۵ سال بدون سابقهٔ مرض ایسکیمیک قلبی پیشنهاد کرده بود، **در ۳۰ جون 2022 توسط شرکت سازنده از بازار ایالات متحده برداشته شد** (به دلیل تجارتی، نه ایمنی). در این کتاب به‌عنوان گزینهٔ فعلی ذکر نمی‌شود.
+**🔄 به‌روزرسانی:** **Tegaserod (Zelnorm)** که AGA 2022 برای زنان کمتر از ۶۵ سال بدون سابقهٔ مرض ایسکیمیک قلبی پیشنهاد کرده بود، **در ۳۰ جون 2022 توسط شرکت سازنده از بازار ایالات متحده برداشته شد** (به دلیل تجارتی، نه ایمنی). در این کتاب به‌عنوان گزینهٔ فعلی ذکر نمی‌شود.
 **ACG 2021 علیه:** Probiotics برای علایم کلی IBS، و Faecal microbiota transplantation. **Bile acid sequestrants:** ACG 2021 به طور مشروط علیه استعمال روتین آن‌ها در IBS-D است؛ AGA، BSG و ESNM آن را یک گزینهٔ ممکن می‌دانند، بدون توصیهٔ رسمی (مرور J Clin Med 2024).
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  دوز Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA و Antispasmodics در این فصل از برچسب تأیید نشد و عمداً بدون رقم نوشته شده است (SD-10، SD-12). دوزهای Linaclotide و Plecanatide از متن ACG 2021 (دوزهای مطالعه‌شده) نقل شده‌اند، نه از برچسب.
+  دوز Eluxadoline، Alosetron، Lubiprostone، Tenapanor، TCA و Antispasmodics را از برچسب دوا بگیر. دوزهای Linaclotide و Plecanatide دوزهای مطالعه‌شده در ACG 2021 اند.
 ]
 === C. Non-pharmacological
 #figure(
@@ -10622,7 +10609,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 - FDA label: **Xifaxan (rifaximin)** — §2.3 IBS-D. DailyMed.
 - FDA label: **Tindamax (tinidazole)** — Giardiasis. DailyMed.
 - Alfasigma USA. **Zelnorm (tegaserod) Notice of Withdrawal from Market.** 30 June 2022.
-- NICE. **Vitamin B12 deficiency in over 16s: diagnosis and management (NG239).** 2024 (متن اصلی بررسی شد)؛ و NICE CKS/BNF برای برنامهٔ دوز IM (از خلاصه‌های ثانوی).
+- NICE. **Vitamin B12 deficiency in over 16s: diagnosis and management (NG239).** 2024 (متن اصلی بررسی شد)؛ و NICE CKS/BNF برای برنامهٔ دوز IM.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 قدم کوچک در کنار بستر
 فردا در هر مریض اسهال مزمن، پیش از هر تست دیگر این سه سؤال را بپرس:
@@ -10644,7 +10631,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
 = فصل ۳۱ — هپاتیت‌های ویروسی (Viral Hepatitis: A, B, C, D, E)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): WHO 2024 HBV (اساس کتاب)، EASL 2023 HDV، AASLD/IDSA 2025 HBV (جانشین AASLD 2018؛ SD-97).*
+  **بخش پنجم — کبد، صفرا و پانکراس**
 ]
 == دو مریض، یک سؤال
 ساعت ده صبح است و در یک روز دو مریض به شفاخانهٔ هرات می‌آیند.
@@ -10712,7 +10699,7 @@ ACG 2021 یک **رویکرد تشخیص مثبت** را توصیه می‌کند
     [*ویژگی*], [***HAV***], [***HBV***], [***HCV***], [***HDV***], [***HEV***],
     [**نوع ویروس**], [RNA (Picornavirus)], [**DNA** (Hepadnavirus)], [RNA (Flavivirus)], [RNA ناقص (نیاز به HBsAg)], [RNA (Hepevirus)],
     [**انتقال**], [غایطه به دهن], [خون، جنسی، **مادر به طفل**], [**خون** (جنسی کم)], [خون، جنسی], [**غایطه به دهن (آب آلوده)**],
-    [**دورهٔ کمون** (CDC)], [۱۵–۵۰ روز (اوسط ۲۸)], [۶۰–۱۵۰ روز (اوسط ۹۰)], [۱۴–۱۸۲ روز], [مانند HBV], [*(در منابع بررسی‌شده تأیید نشد)*],
+    [**دورهٔ کمون** (CDC)], [۱۵–۵۰ روز (اوسط ۲۸)], [۶۰–۱۵۰ روز (اوسط ۹۰)], [۱۴–۱۸۲ روز], [مانند HBV], [],
     [**مزمن شدن**], [**هرگز**], [**نوزاد حدود ۹۰ فیصد؛ طفل ۱–۵ ساله حدود ۳۰ فیصد؛ کاهل حدود ۵ فیصد یا کمتر** (CDC)], [**حدود ۷۰ فیصد (۵۵–۸۵ فیصد)** (WHO)], [Superinfection: اکثراً مزمن], [فقط در ایمونوسپرس (**Genotype 3 و 4**؛ Genotype 1 و 2 مزمن گزارش نشده — EASL)],
     [**ALF**], [نادر], [نادر، اما مهم], [نادر], [خطر بیشتر از HBV تنها], [⚠️ **حاملگی: مرگ‌ومیر حدود ۲۵ فیصد** (EASL 2018)],
     [**واکسین**], [**بلی**], [**بلی**], [نه], [**واکسین HBV هم محافظت می‌کند**], [در افغانستان در دسترس نیست],
@@ -11163,7 +11150,6 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Qaseem A, et al. **WHO Guidelines on Treatment of HCV Infection: Best Practice Advice From the ACP.** Ann Intern Med. 2020.
 - Schillie S, et al. **Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the ACIP.** MMWR Recomm Rep. 2018;67(1):1–31.
 - CDC. **Clinical Overview of Hepatitis B**; **Clinical Overview of Viral Hepatitis** (incubation periods). cdc.gov.
-**برچسب‌های دوایی (منبع دوزها)**
 - VIREAD (tenofovir disoproxil fumarate) — DailyMed/FDA.
 - BARACLUDE (entecavir) — DailyMed/FDA.
 - VEMLIDY (tenofovir alafenamide) — FDA label 2024.
@@ -11197,7 +11183,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 = فصل ۳۲ — سیروز کبد و اختلاطات آن (Liver Cirrhosis & Its Complications)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): Baveno VII 2022، AASLD 2021 Ascites/HRS، AASLD 2024 portal hypertension، EASL 2018 decompensated cirrhosis (جاری).*
+  **بخش پنجم — کبد، صفرا و پانکراس**
 ]
 == 🩺 مریض این فصل
 حاجی فیض‌محمد، ۵۸ ساله، از سال‌ها HBV دارد و هرگز تداوی نشده است. از یک ماه به این طرف بطنش بزرگ شده است. امروز تب خفیف و درد منتشر بطن دارد و کمی گیج است. در معاینه: آسیت، Spider naevi و Asterixis.
@@ -11423,7 +11409,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 Memory Joggers
 - 💡 «**علت + اختلاطات + HCC هر ۶ ماه + پیوند.**»
-- 💡 «**۱۰۰:۴۰** — Spironolactone : Furosemide (حد اکثر ۴۰۰:۱۶۰).»
+- 💡 «**۱۰۰:۴۰** — Spironolactone: Furosemide (حد اکثر ۴۰۰:۱۶۰).»
 - 💡 «**بیش از ۵ لیتر کشیدی ← ۸ g البومین برای هر لیتر.**»
 - 💡 «**SBP = PMN ≥ ۲۵۰ ← Cefotaxime/Ceftriaxone + البومین ۱.۵ و ۱ (روز ۱ و ۳).**»
 - 💡 «**HRS: البومین ۱ g/kg × ۲ روز ← Terlipressin + البومین.**»
@@ -11453,7 +11439,6 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرامپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض سیروزی: **Child-Pugh و MELD** را در دوسیه بنویس.
 2. هر آسیت در بستری: **پاراسنتز تشخیصی (PMN + کلچر در بوتل خون)** در روز اول.
@@ -11472,7 +11457,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 = فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): EASL 2022 HE (جانشین جزئی AASLD/EASL 2014)؛ ALF: EASL 2017 (جاری).*
+  **بخش پنجم — کبد، صفرا و پانکراس**
 ]
 == 🩺 مریض این فصل
 نسیمه، ۲۲ ساله، دو روز پس از خوردن مقدار نامعلوم تابلت Paracetamol پس از یک مشاجرهٔ خانوادگی، با یرقان و گیجی آمده است. INR ۴.۵، ALT چند هزار، قند ۵۵ mg/dL.
@@ -11788,7 +11773,6 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر هپاتیت حاد: **INR و شعور** را روزانه ثبت کن.
 2. هر ALF: **سطح Paracetamol + گلوکوز هر ۱–۲ ساعت + تماس با مرکز پیوند**.
@@ -11807,7 +11791,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 = فصل ۳۴ — امراض صفراوی، ابسهٔ کبد و کیست هایداتید (Biliary Disease, Liver Abscess & Hydatid Cyst)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): Tokyo Guidelines 2018 و WSES 2020 کولی‌سیستیت (جاری)؛ WHO-IWGE Echinococcosis (جاری).*
+  **بخش پنجم — کبد، صفرا و پانکراس**
 ]
 == 🩺 مریض این فصل
 سه مریض در یک هفته: **رحیمه**، ۴۲ ساله، از یک روز درد مداوم ربع فوقانی راست، تب و Murphy مثبت دارد. **حاجی قادر**، ۷۰ ساله، تب با لرزه، یرقان و درد ربع فوقانی راست دارد و فشارش پایین است. **صمد**، ۳۰ ساله و چوپان از غور، یک کتلهٔ کیستیک بزرگ در کبد دارد که تصادفی پیدا شده است.
@@ -11980,7 +11964,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 == ↩️ برگشت به مریض
 - **حاجی قادر عاجل‌تر است:** تب + یرقان + درد (Charcot) + Hypotension → **کلانژیت حاد شدید**. احیا، کلچر، انتی‌بیوتیک مطابق بخش ۱۰ (WSES 2021)، و **درناژ صفراوی عاجل (ERCP)** — انتی‌بیوتیک بدون درناژ کافی نیست.
 - **رحیمه:** **کولی‌سیستیت حاد** با Ultrasound تأیید شد → انتی‌بیوتیک و **Cholecystectomy زود** در همان بستری، اگر وضع او اجازه دهد (TG18).
-- **صمد:** در ساحهٔ مالداری، کیست کبد = **Hydatid** تا خلاف آن ثابت شود → سیرولوژی و تصنیف WHO-IWGE در Ultrasound. ⚠️ **پنکچر بی‌پلان نه** — خطر Anaphylaxis و انتشار؛ تداوی (جراحی، PAIR یا دوایی) از روی مرحله انتخاب می‌شود و Albendazole همراه آن است (بخش ج همین فصل؛ دوز → SD-85).
+- **صمد:** در ساحهٔ مالداری، کیست کبد = **Hydatid** تا خلاف آن ثابت شود → سیرولوژی و تصنیف WHO-IWGE در Ultrasound. ⚠️ **پنکچر بی‌پلان نه** — خطر Anaphylaxis و انتشار؛ تداوی (جراحی، PAIR یا دوایی) از روی مرحله انتخاب می‌شود و Albendazole همراه آن است *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 Memory Joggers
 - 💡 «**۶ ساعت:** کمتر = کولیک؛ بیشتر + تب = کولی‌سیستیت.»
@@ -12188,7 +12172,6 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد RUQ: **مدت (کمتر یا بیشتر از ۶ ساعت)، تب، یرقان** — سه سؤال.
 2. هر یرقان + تب: **کلچر خون + انتی‌بیوتیک + تماس با اندوسکوپیست**.
@@ -12207,7 +12190,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 = فصل ۳۵ — پانکراتیت حاد و مزمن (Acute & Chronic Pancreatitis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): ACG 2024 Acute pancreatitis و Atlanta 2012 (جاری)؛ ACG 2020 و HaPanEU مزمن (جاری).*
+  **بخش پنجم — کبد، صفرا و پانکراس**
 ]
 == 🩺 مریض این فصل
 عبدالله، ۴۵ ساله، از شش ساعت درد شدید شرسوفی دارد که به پشت می‌رود، با استفراغ. Lipase سه برابر بلندتر از حد نورمال است. در Ultrasound سنگ کیسهٔ صفرا دیده می‌شود. نبض ۱۱۰.
@@ -12485,7 +12468,6 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 == 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر پانکراتیت: **سونوگرافی در ۲۴ ساعت + TG + کلسیم + ALT** (علت).
 2. هر پانکراتیت: **Ringer ۱.۵ mL/kg/h و ارزیابی هر ۶ ساعت** — نه «۲۵۰ mL/h برای همه».
@@ -12505,7 +12487,7 @@ WHO توصیه می‌کند **همهٔ افراد ۱۲ ساله و بیشتر**
 = فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (2025/2026)* · *فصل رهیافتی — ساختار تابع وظیفه (R9 اصلاح‌شده)*
+  **بخش ششم — گرده**
 ]
 == سه ورق لابراتوار روی یک میز
 در یک صبح در شفاخانهٔ ولایتی، سه ورق لابراتوار به دست یک داکتر جوان می‌رسد:
@@ -12637,7 +12619,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  🔄 **CURRENTNESS NOTE:** KDIGO در مارچ 2026 **پیش‌نویس (Public-review draft)** رهنمود **KDIGO 2026 AKI/AKD** را برای نظرخواهی عمومی نشر کرد (مهلت نظر تا ۲۷ اپریل 2026). طبق صفحهٔ رسمی KDIGO، این متن هنوز **پیش‌نویس** است و گروه کاری آن را برای نشر نهایی آماده می‌کند. پیش‌نویس AKI و AKD را یک طیف پیوسته می‌داند و در تعریف، هم معیارهای وظیفوی و هم بیومارکرهای ساختمانی را به کار می‌برد. **این کتاب هیچ توصیه‌ای را از پیش‌نویس وارد نمی‌کند.** تعریف منتشرشده و معیار جاری هنوز **KDIGO 2012** است. پیش‌نویس بودن یک رهنمود تازه به معنای غلط بودن رهنمود 2012 نیست. اگر نسخهٔ نهایی پیش از نشر کتاب منتشر شد، Global currentness audit باید دوباره اجرا شود.
+  🔄 **به‌روزرسانی:** KDIGO در مارچ 2026 **پیش‌نویس (Public-review draft)** رهنمود **KDIGO 2026 AKI/AKD** را برای نظرخواهی عمومی نشر کرد (مهلت نظر تا ۲۷ اپریل 2026). طبق صفحهٔ رسمی KDIGO، این متن هنوز **پیش‌نویس** است و گروه کاری آن را برای نشر نهایی آماده می‌کند. پیش‌نویس AKI و AKD را یک طیف پیوسته می‌داند و در تعریف، هم معیارهای وظیفوی و هم بیومارکرهای ساختمانی را به کار می‌برد. **این کتاب هیچ توصیه‌ای را از پیش‌نویس وارد نمی‌کند.** تعریف منتشرشده و معیار جاری هنوز **KDIGO 2012** است. پیش‌نویس بودن یک رهنمود تازه به معنای غلط بودن رهنمود 2012 نیست.
 ]
 === چگونه AKI را از CKD جدا کنیم؟
 #figure(
@@ -12692,7 +12674,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
   caption: none,
 )
 #v(0.4em)
-⚠️ **AUA/SUFU (2020؛ تأییدشده در بازنگری 2025):** Haematuria میکروسکوپیک را **فقط با dipstick تعریف نکن**. dipstick مثبت (Trace یا بیشتر) باید به **میکروسکوپ رسمی ادرار** بینجامد.
+⚠️ **AUA/SUFU (2020؛ در بازنگری 2025 حفظ شد):** Haematuria میکروسکوپیک را **فقط با dipstick تعریف نکن**. dipstick مثبت (Trace یا بیشتر) باید به **میکروسکوپ رسمی ادرار** بینجامد.
 === ۵.۳ میکروسکوپ — جایی که تشخیص پیدا می‌شود
 #figure(
   table(columns: (auto, auto),
@@ -12797,7 +12779,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 **پیگیری:** پس از ارزیابی منفی، دربارهٔ تکرار Urinalysis با مریض تصمیم مشترک بگیر (۲۲). اگر Urinalysis بعدی منفی بود، ارزیابی می‌تواند ختم شود (۲۳). Haematuria ظاهری تازه، افزایش واضح Microhaematuria یا اعراض تازهٔ یورولوژیک ← ارزیابی دوباره (۲۵).
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  🔄 **Currentness (AUA/SUFU 2025):** تعریف ۳ RBC/HPF یا بیشتر و رویکرد بر پایهٔ خطر از 2020 حفظ شد. تغییرها: زنان کم‌خطر بالای ۶۰ سال از گروه خطر بلند خارج شدند، ارزیابی فوری برای گروه کم‌خطر حذف شد، و مارکرهای ادرار برای گروه متوسط اضافه شدند.
+  🔄 **به‌روزرسانی (AUA/SUFU 2025):** تعریف ۳ RBC/HPF یا بیشتر و رویکرد بر پایهٔ خطر از 2020 حفظ شد. تغییرها: زنان کم‌خطر بالای ۶۰ سال از گروه خطر بلند خارج شدند، ارزیابی فوری برای گروه کم‌خطر حذف شد، و مارکرهای ادرار برای گروه متوسط اضافه شدند.
 ]
 ⚠️ **مریض تحت Warfarin یا دیگر ضد انعقادها** که Haematuria دارد، مثل هر مریض دیگر ارزیابی می‌شود؛ ضد انعقاد علت را «توضیح» نمی‌دهد.
 💡 **Memory Jogger — ملالی:** dipstick +۲ ← میکروسکوپ. اگر ≥۳ RBC/HPF و علت گذرا نبود ← خطر او را بسنج. زن جوان، غیرسگرتی، بدون عوامل دیگر ← احتمالاً فقط تکرار Urinalysis.
@@ -12831,7 +12813,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 === ۹.۲ «سه‌گانهٔ خطرناک» و دواهای نفروتوکسیک
 - **NSAID + ACE inhibitor/ARB + Diuretic** در مریض کم‌آب ← AKI پیش‌گرده‌ای. در مریض کم‌آب یا AKI، ضرورت هر سه را دوباره بسنج.
 - Aminoglycosides، Vancomycin، Amphotericin B، Lithium، Calcineurin inhibitors ← سطح دوا و Creatinine را نظارت کن.
-- **دوز دواها در CKD:** برای هر دوا، تعدیل گرده‌ای در همان فصل دوا و در دفتر تأیید دوز آمده است. در دواهای با حاشیهٔ تداوی تنگ (Narrow therapeutic index)، وقتی eGFRcr کم‌اعتبار است، Cystatin C یا GFR اندازه‌گیری‌شده کمک می‌کند (KDIGO 2024).
+- **دوز دواها در CKD:** برای هر دوا، تعدیل گرده‌ای در همان فصل دوا آمده است. در دواهای با حاشیهٔ تداوی تنگ (Narrow therapeutic index)، وقتی eGFRcr کم‌اعتبار است، Cystatin C یا GFR اندازه‌گیری‌شده کمک می‌کند (KDIGO 2024).
 *این فصل رهیافتی دوز تازه‌ای معرفی نمی‌کند؛ تداوی‌ها در فصل‌های ۳۷–۴۴ می‌آیند.*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۱۰. رهیافت گام‌به‌گام — بر میز داکتر
@@ -12885,11 +12867,11 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
 - Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. (Executive summary: kdigo.org)
-- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (تعریف و مراحل؛ از طریق مرورهای PMC4206042 و PMC13242417 نیز تأیید شد)
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138.
 - KDIGO Glomerular Diseases Work Group. **KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases** — Top 10 Takeaways (تعریف سندروم نفروتیک).
 - Barocas DA, et al. **Microhematuria: AUA/SUFU Guideline.** J Urol. 2020;204:778–786. PMID 32698717.
 - Barocas DA, Lotan Y, Matulewicz RS, Raman JD, Westerman ME, Kirkby E, Pak L, Souter L. **Updates to Microhematuria: AUA/SUFU Guideline (2025).** J Urol. doi:10.1097/JU.0000000000004490. و **AUA/SUFU Microhematuria Diagnostic Algorithm** (12 March 2025)، auanet.org.
-- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس، نهایی نیست**). kdigo.org/guidelines/acute-kidney-injury — فقط برای Currentness note.
+- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس، نهایی نیست**). kdigo.org/guidelines/acute-kidney-injury.
 - Davenport MS, et al. **Use of Intravenous Iodinated Contrast Media in Patients With Kidney Disease: Consensus Statements from the ACR and the NKF.** Radiology / Kidney Med. 2020.
 - College of American Pathologists. **Chronic Kidney Disease Testing** (CKD-EPI 2021 بدون نژاد). 2025.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -12917,7 +12899,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 = فصل ۳۷ — سندروم نفروتیک و سندروم نفریتیک (Nephrotic & Nephritic Syndromes)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+  **بخش ششم — گرده**
 ]
 == دو جوان، دو نوع خرابی فلتر
 **احمد شاه** ۲۲ ساله را از فصل ۳۶ می‌شناسیم. از دو هفته پاها و پلک‌هایش پف کرده‌اند، ادرارش **کف‌آلود** است و dipstick او «پروتین +۴» نشان داد. فشار خونش نورمال است و ادرارش خون ندارد.
@@ -13167,7 +13149,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
   caption: none,
 )
 #v(0.4em)
-*دوز دقیق Furosemide در ادیمای نفروتیک در این فصل ثبت نشد، چون KDIGO دوز ثابت نمی‌دهد و به پاسخ مریض بستگی دارد — بدهی SD-17 (UNVERIFIED).*
+*دوز دقیق Furosemide در ادیمای نفروتیک نیامده، چون KDIGO دوز ثابت نمی‌دهد و به پاسخ مریض بستگی دارد.*
 === ۱۰.۳ ضد انعقاد وقایوی در نفروتیک
 - **ضد انعقاد کامل** برای هر ترومبوز در متن سندروم نفروتیک.
 - **ضد انعقاد وقایوی** وقتی خطر ترومبوز از خطر خونریزی شدید بیشتر باشد (KDIGO 2021 PP 1.7.1).
@@ -13183,7 +13165,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*مرض*], [*تداوی خط اول*], [*دوز · راه · تکرار · مدت*], [*منبع*],
-    [**MCD در کاهلان**], [Prednisone/Prednisolone], [**۱ mg/kg یک بار روزانه (حد اعظمی ۸۰ mg)** یا **۲ mg/kg یک روز در میان (حد اعظمی ۱۲۰ mg)**، **فمی**؛ دوز بلند **دست کم ۴ هفته** اگر بهبود کامل رسید و **حد اعظمی ۱۶ هفته** اگر نرسید؛ پس از بهبود، **کاهش آهسته در مجموع تا ۶ ماه**], [**VERIFIED:** KDIGO 2012 GN Ch.5 (5.1.2–5.1.4)؛ همان رژیم در KDIGO 2021 باقی مانده (مرور Karger 2021)],
+    [**MCD در کاهلان**], [Prednisone/Prednisolone], [**۱ mg/kg یک بار روزانه (حد اعظمی ۸۰ mg)** یا **۲ mg/kg یک روز در میان (حد اعظمی ۱۲۰ mg)**، **فمی**؛ دوز بلند **دست کم ۴ هفته** اگر بهبود کامل رسید و **حد اعظمی ۱۶ هفته** اگر نرسید؛ پس از بهبود، **کاهش آهسته در مجموع تا ۶ ماه**], [KDIGO 2012 GN Ch.5 (5.1.2–5.1.4)؛ همان رژیم در KDIGO 2021 باقی مانده (مرور Karger 2021)],
     [**MN**], [تداوی حمایتی؛ ایمونوسپرسیف (Rituximab، CNI، Cyclophosphamide + steroid) بر پایهٔ **خطر** (Creatinine، Albumin، پروتین، anti-PLA2R)], [**متخصص** — دوزها در این فصل وارد نشد], [KDIGO 2021 Ch.3],
     [**FSGS اولیه**], [Glucocorticoid؛ CNI در مقاومت], [**متخصص**], [KDIGO 2021 Ch.6],
     [**IgA nephropathy**], [🔄 **KDIGO 2025:** دو ستون — (۱) مدیریت CKD: RASi حد اعظمی یا **Sparsentan** (جانشین RASi، نه همراه آن)، **SGLT2 inhibitor**؛ (۲) کاهش تولید IgA پاتوژن: مثلاً **Budesonide با رهایش هدفمند (Nefecon)**], [**متخصص**؛ دوزها در این فصل وارد نشد], [KDIGO 2025 IgAN/IgAV],
@@ -13279,7 +13261,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 = فصل ۳۸ — آسیب حاد گرده (Acute Kidney Injury, AKI)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+  **بخش ششم — گرده**
 ]
 == ادامهٔ قصهٔ حاجی نورالله
 در فصل ۳۶ حاجی نورالله را دیدیم: ۶۴ ساله، دیابتی، Creatinine او در دو روز بالا رفته و ادرارش کم شده است. حالا که دوسیه‌اش را کامل می‌خوانیم، چهار چیز پیدا می‌شود:
@@ -13319,7 +13301,7 @@ AKI = **یکی** از این‌ها:
 #v(0.4em)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  🔄 **CURRENTNESS NOTE:** پیش‌نویس **KDIGO 2026 AKI/AKD** از مارچ 2026 برای نظرخواهی عمومی نشر شده و AKI و AKD (Acute Kidney Disease) را یک طیف پیوسته می‌داند، با بیومارکرهای ساختمانی در تعریف. این متن **پیش‌نویس** است؛ کتاب از آن توصیه‌ای وارد نمی‌کند. معیار این فصل KDIGO 2012 است.
+  🔄 **به‌روزرسانی:** پیش‌نویس **KDIGO 2026 AKI/AKD** از مارچ 2026 برای نظرخواهی عمومی نشر شده و AKI و AKD (Acute Kidney Disease) را یک طیف پیوسته می‌داند، با بیومارکرهای ساختمانی در تعریف. این متن **پیش‌نویس** است؛ کتاب از آن توصیه‌ای وارد نمی‌کند. معیار این فصل KDIGO 2012 است.
 ]
 === تصنیف بر پایهٔ محل
 #figure(
@@ -13492,7 +13474,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 - دیورتیک برای تسریع بهبود یا کم کردن دیالیز — پیشنهاد نمی‌شود (5.2.2، 2B).
 **تغذیه:** ترجیحاً از راه **روده‌ای (Enteral)** (KDIGO 3.3.5، 2C).
 **نوع کرستالوئید:** در مریضان بستری، تریال‌های جدیدتر (مثل **SMART، NEJM 2018**) کرستالوئید **متوازن** (Ringer's lactate و مشابه) را با Normal saline مقایسه کرده‌اند و در بعضی گروه‌ها نتایج گرده‌ای بهتری با مایع متوازن دیدند؛ انتخاب نهایی با پروتوکول محلی و وضعیت مریض است (مثلاً آسیب مغزی).
-*دوز Furosemide برای اضافه‌بار حجم در AKI در این فصل ثبت نشد — به پاسخ مریض و پروتوکول محلی بستگی دارد (بدهی SD-17).*
+*دوز Furosemide برای اضافه‌بار حجم در AKI در این فصل ثبت نشد — به پاسخ مریض و پروتوکول محلی بستگی دارد.*
 === ۱۰.۴ علت‌های خاص — خلاصه
 #figure(
   table(columns: (auto, auto),
@@ -13543,7 +13525,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 == 🔹 ۱۲. Prognosis & Follow-up
 - AKI خفیف Prerenal که زود تداوی شود، اکثراً کاملاً بهبود می‌یابد.
 - AKI شدید، مخصوصاً با سپسیس یا ضرورت دیالیز، **مرگ بلند** دارد و خطر **CKD و AKI دوباره** را زیاد می‌کند.
-- **پیگیری پس از رخصت:** KDIGO 2012 ارزیابی دوبارهٔ مریض را پس از AKI برای بهبود، AKI تازه، یا بدتر شدن CKD قبلی پیشنهاد می‌کند؛ فاصلهٔ دقیق از متن اولیه تأیید نشد (SD-21).
+- **پیگیری پس از رخصت:** KDIGO 2012 ارزیابی دوبارهٔ مریض را پس از AKI برای بهبود، AKI تازه، یا بدتر شدن CKD قبلی پیشنهاد می‌کند.
 - **دواهای متوقف‌شده** (ACEi/ARB، Metformin، SGLT2i، Diuretic) را پس از بهبود **با برنامه دوباره شروع کن** — فراموش کردن آن‌ها هم زیان دارد.
 - **حاجی نورالله:** پس از رخصت، Diclofenac نه؛ Lisinopril پس از پایدار شدن Creatinine و پوتاشیم دوباره شروع؛ Creatinine و ACR در پیگیری.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -13565,8 +13547,8 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 - ⚠️ **AKI در مریض تحت Lithium یا Methanol** — دیالیز ممکن است نجات‌بخش باشد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (توصیه‌های 3.1.1، 3.3.5، 3.4.1–3.4.2، 3.5.1–3.5.3، 3.8.1، 5.1.1–5.1.2، 5.2.2 از متن رهنمود و Canadian Society of Nephrology commentary، AJKD 2013)
-- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس**). kdigo.org — فقط Currentness note.
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (توصیه‌های 3.1.1، 3.3.5، 3.4.1–3.4.2، 3.5.1–3.5.3، 3.8.1، 5.1.1–5.1.2، 5.2.2)
+- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس**). kdigo.org.
 - STARRT-AKI Investigators. **Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury.** N Engl J Med. 2020;383:240–251.
 - Semler MW, et al. (SMART). **Balanced Crystalloids versus Saline in Critically Ill Adults.** N Engl J Med. 2018;378:829–839.
 - ACR–NKF. **Use of IV Iodinated Contrast Media in Patients With Kidney Disease.** 2020 (فصل ۳۶).
@@ -13595,7 +13577,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 = فصل ۳۹ — مرض مزمن گرده (Chronic Kidney Disease, CKD)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+  **بخش ششم — گرده**
 ]
 == گرده‌ای که بی‌صدا پیر شد
 **گل‌محمد** ۵۶ ساله، راننده در مسیر کابل–جلال‌آباد، از ده سال دیابت نوع ۲ و فشار بلند دارد. دوا را «وقتی یادش بیاید» می‌گیرد. برای درد کمر هفته‌ها Ibuprofen خورده است. امروز فقط برای «خستگی» آمده. Creatinine او بلند است، eGFR او **۳۸** است و ACR او **۴۵ mg/mmol**. سه ماه پیش هم تقریباً همین اعداد را داشت.
@@ -13760,7 +13742,7 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*دوا*], [*دوز · راه · تکرار · مدت*], [*تعدیل گرده‌ای*], [*منبع*],
-    [**Dapagliflozin** (برای CKD، عدم کفایهٔ قلب)], [**۱۰ mg فمی یک بار روزانه**، دوامدار], [eGFR ۲۵ یا بیشتر: دوز نورمال. **شروع در eGFR کمتر از ۲۵ توصیه نمی‌شود.** اگر در جریان تداوی زیر ۲۵ رفت، ادامهٔ ۱۰ mg ممکن است. برای کنترول قند در eGFR کمتر از ۴۵ توصیه نمی‌شود (بی‌اثر)], [**VERIFIED:** FARXIGA US Prescribing Information (DailyMed، نسخهٔ 06/2026) §2.2–2.3],
+    [**Dapagliflozin** (برای CKD، عدم کفایهٔ قلب)], [**۱۰ mg فمی یک بار روزانه**، دوامدار], [eGFR ۲۵ یا بیشتر: دوز نورمال. **شروع در eGFR کمتر از ۲۵ توصیه نمی‌شود.** اگر در جریان تداوی زیر ۲۵ رفت، ادامهٔ ۱۰ mg ممکن است. برای کنترول قند در eGFR کمتر از ۴۵ توصیه نمی‌شود (بی‌اثر)], [FARXIGA US Prescribing Information (DailyMed، نسخهٔ 06/2026) §2.2–2.3],
   ),
   caption: none,
 )
@@ -13768,7 +13750,7 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 ⚠️ **تفاوت منابع:** KDIGO 2024 شروع SGLT2i را از **eGFR ۲۰** توصیه می‌کند (بر پایهٔ مجموع تریال‌ها، از جمله Empagliflozin)؛ برچسب Dapagliflozin شروع را از **eGFR ۲۵** اجازه می‌دهد. هنگام تجویز یک دوای مشخص، **برچسب همان دوا** را رعایت کن.
 **احتیاط‌های SGLT2i:** انتانات فنگسی تناسلی؛ **Ketoacidosis** (حتی با قند نورمال) در روزه، جراحی یا مرض حاد؛ کم‌آبی با دیورتیک‌ها. در ماه رمضان با داکتر برنامه‌ریزی شود.
 === ۱۰.۴ دواهای هدفمند (KDIGO 2024)
-- **Nonsteroidal MRA** (مثلاً Finerenone): در **دیابت نوع ۲، eGFR بیشتر از ۲۵، پوتاشیم نورمال، و Albuminuria (بیشتر از ۳ mg/mmol) با وجود حد اعظمی دوز RASi** (Rec 3.8.1، 2A). پوتاشیم را منظم نظارت کن. *دوز در این فصل ثبت نشد (SD-22).*
+- **Nonsteroidal MRA** (مثلاً Finerenone): در **دیابت نوع ۲، eGFR بیشتر از ۲۵، پوتاشیم نورمال، و Albuminuria (بیشتر از ۳ mg/mmol) با وجود حد اعظمی دوز RASi** (Rec 3.8.1، 2A). پوتاشیم را منظم نظارت کن. *دوز در این فصل ثبت نشد.*
 - **GLP-1 RA طولانی‌اثر:** در دیابت نوع ۲ + CKD وقتی هدف قند با Metformin و SGLT2i نرسیده یا این دواها ممکن نیست (Rec 3.9.1، 1B).
 - **CCB از گروه Dihydropyridine یا دیورتیک** برای رسیدن به هدف فشار؛ **MRA ستیروئیدی** در فشار مقاوم اگر eGFR ۴۵ یا بیشتر (شکل ۲).
 - **Antiplatelet** فقط برای مرض قلبی-عروقی آترواسکلروتیک ثابت.
@@ -13781,8 +13763,8 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
     [*اختلاط*], [*رویکرد*], [*منبع*],
     [**اسیدوز متابولیک**], [تداوی دوایی ± غذایی را **در نظر بگیر** تا اسیدوز مهم رخ ندهد (مثلاً Bicarbonate سیروم **کمتر از ۱۸ mmol/L** در کاهلان)؛ نگذار Bicarbonate از حد بالای نورمال بگذرد یا فشار، پوتاشیم و حجم را خراب کند], [PP 3.10.1–3.10.2],
     [**Hyperkalaemia**], [اکثراً با اقدامات کاهش پوتاشیم (نه قطع RASi) قابل کنترول است؛ محدودیت غذاهای پرپوتاشیم پروسس‌شده؛ Binderها بر پایهٔ دسترسی محلی], [PP 3.6.3، 3.11],
-    [**کم‌خونی**], [آهن و ESA بر پایهٔ رهنمود KDIGO Anaemia], [KDIGO Anaemia (SD-22)],
-    [**CKD-MBD**], [فاسفیت، کلسیم، PTH، Vitamin D — KDIGO 2017 CKD-MBD], [SD-22],
+    [**کم‌خونی**], [آهن و ESA بر پایهٔ رهنمود KDIGO Anaemia], [KDIGO Anaemia],
+    [**CKD-MBD**], [فاسفیت، کلسیم، PTH، Vitamin D — KDIGO 2017 CKD-MBD], [],
     [**Hyperuricaemia**], [علامه‌دار (نقرس) ← کاهش اسید یوریک (1C)؛ **Xanthine oxidase inhibitor** بر Uricosuric ارجح؛ حملهٔ حاد: **Colchicine دوز پایین یا Glucocorticoid** بهتر از NSAID. بی‌علامه ← برای کند کردن CKD تداوی نکن (2D)], [Rec 3.14.1–3.14.2],
   ),
   caption: none,
@@ -13856,7 +13838,7 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 == 📚 References
 - KDIGO CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. و **Executive summary** (kdigo.org) — جداول ۴ و ۵، شکل‌های ۲ و ۳.
 - **FARXIGA (dapagliflozin) US Prescribing Information.** AstraZeneca; DailyMed (Recent major changes 06/2026).
-- KDIGO 2022 Diabetes in CKD Guideline؛ KDIGO 2017 CKD-MBD Update؛ KDIGO Anaemia in CKD — (ارجاع موضوعی؛ جزئیات در SD-22).
+- KDIGO 2022 Diabetes in CKD Guideline؛ KDIGO 2017 CKD-MBD Update؛ KDIGO Anaemia in CKD.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 قدم کوچک در کنار بستر
 1. به هر مریض دیابتی و فشاری، **ACR** را همراه Creatinine امر کن.
@@ -13883,7 +13865,7 @@ KDIGO 2024 (شکل ۲) تداوی را **لایه‌لایه** می‌بیند: 
 = فصل ۴۰ — انتان مجاری ادرار (Urinary Tract Infection, UTI)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (2025/2026)*
+  **بخش ششم — گرده**
 ]
 == سه «UTI» که هر سه یک تداوی ندارند
 - **مریم** ۲۸ ساله، دو روز است سوزش ادرار و ادرار مکرر دارد. تب ندارد. حامله نیست.
@@ -14155,7 +14137,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - **UTI در مرد، عودکننده یا اختلاطی** ← ارزیابی علت (Ultrasound، باقی‌ماندهٔ ادرار، ارجاع یورولوژی).
 - **حاملگی:** کلچر پس از تداوی مطابق برنامهٔ مراقبت حاملگی.
 - **↩️ مریم** (Cystitis سادهٔ زن غیرحامله): معاینهٔ ادرار؛ **Nitrofurantoin ۳ روز** (eGFR نورمال) یا Fosfomycin یک دوز، مطابق بخش ۱۰.۲ — نه Ciprofloxacin. به او گفته شد اگر در ۴۸ ساعت بهتر نشد، یا تب و درد پهلو پیدا کرد، برگردد. نسرین (۱۰.۳) و حاجی رحیم (۱۰.۷) در همان بخش‌ها بسته شدند.
-- *وقایهٔ UTI عودکننده (انتی‌بیوتیک پیشگیرانه، Methenamine، Estrogen مهبلی در یائسگی) — بدهی SD-24 (دوزها از منبع اولیه در این دوره تأیید نشد).*
+- *وقایهٔ UTI عودکننده (انتی‌بیوتیک پیشگیرانه، Methenamine، Estrogen مهبلی در یائسگی) — با متخصص.*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 Memory Joggers
 - **سه سؤال:** کجا؟ ساده یا اختلاطی؟ سپسیس؟
@@ -14177,7 +14159,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 == 📚 References
 - NICE. **Urinary tract infection (lower): antimicrobial prescribing (NG109).** 2018 — توصیه‌های 1.1–1.4 و جداول ۱–۳.
 - NICE. **Pyelonephritis (acute): antimicrobial prescribing (NG111).** 2018 (به‌روز با هشدار MHRA جنوری 2024) — جداول ۱–۲.
-- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric (خلاصه‌های Guideline Central و emDocs 2025).
+- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric.
 - MHRA Drug Safety Update. **Fluoroquinolone antibiotics: must now only be prescribed when other commonly recommended antibiotics are inappropriate.** January 2024.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 قدم کوچک در کنار بستر
@@ -14203,7 +14185,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 = فصل ۴۱ — سنگ گرده و حالب (Renal and Ureteric Stones, Urolithiasis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (NICE NG118 + EAU Urolithiasis 2025)*
+  **بخش ششم — گرده**
 ]
 == دو درد پهلو، دو سرنوشت
 - **احمد** ۳۵ ساله، ساعت ۳ شب با درد بسیار شدید پهلوی راست که به طرف کشاله می‌رود، به عاجل آمده. آرام نمی‌گیرد، به هر طرف می‌غلتد، استفراغ کرده. تب ندارد.
@@ -14378,7 +14360,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
   caption: none,
 )
 #v(0.4em)
-🔒 **دوزها:** NICE و EAU نام دوا و ترتیب را می‌دهند، **دوز نمی‌دهند**. دوز دقیق NSAID/Paracetamol/Opioid برای colic از منبع اولیهٔ دوایی (BNF/برچسب) هنوز تأیید نشده → **SD-26 (UNVERIFIED)**. در این فصل دوز عددی نیامده؛ از formulary محلی استفاده کن.
+**دوزها:** NICE و EAU نام دوا و ترتیب را می‌دهند، **دوز نمی‌دهند**. دوز دقیق NSAID/Paracetamol/Opioid برای colic را از formulary محلی یا برچسب دوا بگیر.
 ⚠️ اگر درد با مسکن کنترول نشد → **تخلیه یا برداشتن سنگ** (EAU، Strong).
 === ۱۰.۳ Medical Expulsive Therapy (MET)
 - **Alpha blocker** برای سنگ **پایینی (Distal) حالب کوچکتر از ۱۰ mm** در نظر گرفته شود (NICE NG118؛ استفادهٔ خارج از برچسب).
@@ -14386,7 +14368,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - Alpha blocker به عنوان کمک به SWL برای سنگ حالب کوچکتر از ۱۰ mm (NICE 1.5.5).
 - EAU: MET فقط در مریض آگاه و وقتی برداشتن فعال لازم نیست؛ اگر انتان، درد مقاوم یا خرابی وظیفهٔ گرده پیدا شد، قطع شود.
 - **اختلاف منابع:** کارآزمایی بزرگ SUSPEND (2015) فایده‌ای نشان نداد؛ NICE پس از مرور شواهد جدیدتر دوباره آن را پیشنهاد کرد. EAU هم شواهد را «متناقض» می‌خواند. این اختلاف را به مریض بگو.
-🔒 دوز Tamsulosin (معمول‌ترین Alpha blocker) و مدت MET → **SD-26 (UNVERIFIED)**؛ عدد نیامده.
+دوز Tamsulosin (معمول‌ترین Alpha blocker) و مدت MET را از برچسب دوا بگیر.
 === ۱۰.۴ انتظار (Watchful waiting)
 - سنگ گردهٔ **بی‌علامت کوچکتر از ۵ mm** → انتظار در نظر گرفته شود.
 - بزرگتر از ۵ mm → انتظار فقط پس از بحث آگاهانه با مریض (NICE 1.5.1).
@@ -14428,7 +14410,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - سنگ Uric acid (Radiolucent، HU پایین) با **قلوی کردن ادرار (هدف pH بالاتر از ۷.۰)** حل می‌شود (EAU 2025، Oral chemolysis).
 - در سنگ حالب Uric acid، ترکیب قلوی‌سازی با Tamsulosin مؤثرتر از هر کدام به تنهایی است (EAU، شواهد 1b).
 - pH را مریض خودش با نوار اندازه می‌گیرد؛ قلوی‌سازی بیش از حد خطر Calcium phosphate را زیاد می‌کند.
-- دوز Potassium citrate/Sodium bicarbonate → **SD-26 (UNVERIFIED)**.
+- دوز Potassium citrate/Sodium bicarbonate را از برچسب دوا بگیر.
 === ۱۰.۷ وقایه از عود (NICE NG118)
 **غذا و مایع — برای همه (این اعداد مستقیم از NICE 1.8.1):**
 #figure(
@@ -14464,7 +14446,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 #v(0.4em)
 - Potassium citrate: مراقب **Hyperkalaemia** در CKD و مصرف ACEi/ARB/Spironolactone.
 - Thiazide: مراقب Hypokalaemia، Hyponatraemia، بلند شدن Calcium خون (اگر Hyperparathyroidism پنهان باشد آشکار می‌شود).
-- 🔒 دوز Potassium citrate و Thiazide برای وقایهٔ سنگ → **SD-26 (UNVERIFIED)**.
+- دوز Potassium citrate و Thiazide برای وقایهٔ سنگ را از برچسب دوا بگیر.
 **Struvite:** برداشتن کامل سنگ + تداوی انتان؛ بدون برداشتن کامل، انتان عود می‌کند.
 **Cystine:** مایعات بسیار زیاد، قلوی‌سازی و دواهای خاص — ارجاع به متخصص (جزئیات خارج از حدود این فصل).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -14514,10 +14496,9 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 - ⚠️ Stent که تاریخ برداشتن آن گذشته.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https:\/\/www.nice.org.uk/guidance/ng118 — (توصیه‌های ۱.۱–۱.۸ مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵).
+1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https:\/\/www.nice.org.uk/guidance/ng118.
 2. European Association of Urology. *EAU Guidelines on Urolithiasis* — Limited update March 2025 (full text and Pocket Guidelines 2025). https:\/\/uroweb.org/guidelines/urolithiasis
 3. Pickard R, et al. SUSPEND trial. *Lancet*. 2015 — (به نقل از بحث کمیتهٔ NICE NG118).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** NICE NG118 (2019) هنوز رهنمود فعال است؛ EAU Urolithiasis نسخهٔ Limited update مارچ 2025 بررسی شد و با NICE در اصول (NSAID اول، تخلیهٔ عاجل انسداد انتانی، PCNL برای بزرگتر از ۲ cm) هم‌خوان است. اختلاف: ارزیابی متابولیک ۲۴ ساعته (NICE توصیه نکرده، EAU برای پرخطرها) و MET (شواهد متناقض). **CURRENTNESS NOTE:** رهنمودهای AUA بررسی نشد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 قدم کوچک در کنار بستر
 1. به هر مریض colic اول **درجهٔ حرارت و فشار** را نگاه کن.
@@ -14544,7 +14525,7 @@ Sepsis bundle، کلچر خون و ادرار، **Ultrasound** برای انسد
 = فصل ۴۲ — اختلالات Potassium، Calcium، Magnesium و Phosphate
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (UKKA 2023 Hyperkalaemia؛ Society for Endocrinology)*
+  **بخش ششم — گرده**
 ]
 \>
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
@@ -14618,7 +14599,7 @@ Pseudohyperkalaemia · AKI/CKD · دوا · DKA · Addison · Rhabdomyolysis/Tum
 - مرور لست دواها.
 == 🔹 ۹. Diagnosis & Diagnostic Criteria
 K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گرده؟ دوا؟ انتقال؟).
-== 🔹 ۱۰. Management — UKKA 2023 (تأییدشده از متن رهنمود)
+== 🔹 ۱۰. Management — UKKA 2023
 === قدم ۱ — محافظت قلب (اگر ECG تغییر دارد)
 #figure(
   table(columns: (auto, auto, auto),
@@ -14633,7 +14614,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 )
 #v(0.4em)
 - Calcium سطح K⁺ را پایین نمی‌آورد؛ اثرش موقت است. ECG را پس از زرق دوباره ببین.
-- ⚠️ مریض با **Digoxin:** احتیاط و مشورهٔ متخصص (خطر سمیت قلبی). شیوهٔ آهسته‌تر در رهنمودهای محلی آمده (UNVERIFIED از منبع اولیه → SD-27).
+- ⚠️ مریض با **Digoxin:** احتیاط و مشورهٔ متخصص (خطر سمیت قلبی). شیوهٔ آهسته‌تر در رهنمودهای محلی آمده.
 - ⚠️ Calcium را با Sodium bicarbonate در یک لاین مخلوط نکن (رسوب).
 === قدم ۲ — انتقال K⁺ به داخل حجره
 #figure(
@@ -14653,7 +14634,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 - قند خون را **پیش از Insulin** و بعد به طور منظم تا چند ساعت اندازه کن؛ **Hypoglycaemia** شایع‌ترین ضرر است، مخصوصاً در CKD و وزن کم.
 - 25 g glucose در عمل = ۵۰ mL از Glucose 50% (رهنمودهای NHS محلی)؛ غلظت در دسترس خود را حساب کن.
 === قدم ۳ — خارج کردن K⁺
-- **Potassium binders:** UKKA: **Sodium zirconium cyclosilicate** برای شدید داده شود و برای متوسط در نظر گرفته شود؛ **Patiromer** در متوسط/شدید در نظر گرفته شود. دوز در الگوریتم ERC 2025: **Sodium zirconium cyclosilicate ۱۰ g فمی** یا **Patiromer ۸.۴ g**؛ دوز نگهدارنده و مدت از برچسب تأیید نشد → **SD-27**.
+- **Potassium binders:** UKKA: **Sodium zirconium cyclosilicate** برای شدید داده شود و برای متوسط در نظر گرفته شود؛ **Patiromer** در متوسط/شدید در نظر گرفته شود. دوز در الگوریتم ERC 2025: **Sodium zirconium cyclosilicate ۱۰ g فمی** یا **Patiromer ۸.۴ g**؛ دوز نگهدارنده و مدت را از برچسب دوا بگیر
 - **دیالیز:** Hyperkalaemia مقاوم، AKI شدید/Anuria، ESKD (فصل ۳۸).
 - **ادرار:** مایعات در کم‌آبی؛ Loop diuretic در مریض پرحجم با وظیفهٔ گرده (دوز → فصل ۷/۳۸).
 === قدم ۴ — وقایه
@@ -14704,13 +14685,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 #v(0.4em)
 - Magnesium هم‌زمان (اگر لازم): **Magnesium sulfate 50% (۱ g = ۴ mmol)** — معمول **۲ g در ۴ ساعت**؛ عاجل **۲ g در ۱۰–۱۵ دقیقه** (یک بار قابل تکرار)؛ ایست قلبی **۲ g در ۲ دقیقه** (ERC 2025).
 - ECG و مانیتور قلبی اگر K⁺ کمتر از ۳.۰ است؛ خطر در مریض تحت Digoxin بیشتر است.
-🔒 **غلظت حد اعظمی KCl در ورید محیطی در برابر مرکزی و دوز فمی KCl** از منبع اولیه تأیید نشد → **SD-27 (UNVERIFIED)**؛ از پروتوکول محلی پیروی کن.
+**غلظت حد اعظمی KCl در ورید محیطی در برابر مرکزی و دوز فمی KCl** را از پروتوکول شفاخانه بگیر.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ج) Hypercalcaemia
 == 🔹 ۱. Core Concept
 **بیش از ۹۰ فیصد علل = دو علت:** **Primary hyperparathyroidism** (سرپایی، خفیف، مزمن) و **سرطان** (بستری، شدید، سریع). اولین تست جداکننده: **PTH**.
 💡 «**Stones, bones, groans, thrones, psychic moans**» — سنگ گرده، درد استخوان، درد بطن/یبوست، پُرادراری، اختلال روانی.
-*(«بیش از ۹۰ فیصد» یک تعمیم مشهور کتب درسی است؛ منبع اولیهٔ عدد در این نشست بررسی نشد → در SD-27 ثبت شد.)*
+*(«بیش از ۹۰ فیصد» یک عدد تقریبی کتب درسی است.)*
 == 🔹 ۲. Classification
 #figure(
   table(columns: (auto, auto),
@@ -14757,13 +14738,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*قدم*], [*کار*],
-    [۱], [**مایع وریدی (Normal saline)** — مریض را **euvolaemic** کن پیش از هر تداوی دیگر؛ احتیاط در عدم کفایهٔ قلب/گرده. 🔒 حجم و سرعت → SD-27],
+    [۱], [**مایع وریدی (Normal saline)** — مریض را **euvolaemic** کن پیش از هر تداوی دیگر؛ احتیاط در عدم کفایهٔ قلب/گرده. حجم و سرعت],
     [۲], [دواهای عامل را قطع کن (Thiazide، Calcium، Vitamin D، Lithium اگر ممکن)],
     [۳], [**Bisphosphonate وریدی** (اگر Creatinine clearance بالاتر از ۳۰ mL/min): **Zoledronic acid ۴ mg در ۱۵ دقیقه** یا **Pamidronate ۳۰–۹۰ mg** (نظر به شدت) به سرعت ۲۰ mg/ساعت],
     [— CrCl کمتر از ۳۰], [Ibandronic acid ۲ mg در ۲ ساعت (پروتوکول NHS)؛ Zoledronic/Pamidronate در این حالت خارج از برچسب است — تصمیم متخصص],
     [۴], [Calcium را پس از **۳–۵ روز** دوباره ببین (کمترین سطح پس از Bisphosphonate در ۲–۴ روز)],
-    [۵], [علت: سرطان (Oncology)، Hyperparathyroidism (فصل ۵۱)، Granuloma (Glucocorticoid — دوز → SD-27)],
-    [۶], [مقاوم یا عدم کفایهٔ گرده: Calcitonin، Denosumab، دیالیز — تصمیم متخصص (دوز → SD-27)],
+    [۵], [علت: سرطان (Oncology)، Hyperparathyroidism (فصل ۵۱)، Granuloma *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
+    [۶], [مقاوم یا عدم کفایهٔ گرده: Calcitonin، Denosumab، دیالیز — تصمیم متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
   ),
   caption: none,
 )
@@ -14798,12 +14779,12 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
   caption: none,
 )
 #v(0.4em)
-- **Magnesium را اصلاح کن** — بدون آن Calcium بلند نمی‌ماند (دوز Mg → SD-27).
+- **Magnesium را اصلاح کن** — بدون آن Calcium بلند نمی‌ماند *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 - **Hypoparathyroidism (مثلاً پس از جراحی):** Alfacalcidol یا Calcitriol — **دوز شروع حدود ۰.۲۵–۰.۵ mcg در روز** (SfE 2013)؛ قوی‌اند و Hypercalcaemia می‌سازند → Calcium را مکرر اندازه کن.
 - ⚠️ **انفیوژن حجم زیاد Calcium در ESKD/دیالیز نه** (SfE) → رهنمود KDOQI/متخصص.
 - ⚠️ مریض با **Digoxin** یا Arrhythmia → مانیتورینگ مسلسل ECG.
 - Extravasation Calcium → نکروز نسج؛ ورید بزرگ.
-**خفیف (بی‌علامت، ۱.۹ یا بیشتر):** Calcium فمی + تداوی علت (Vitamin D، Mg). 🔒 دوز Calcium فمی و Vitamin D (SfE نام‌های تجارتی UK می‌دهد، نه عنصر Calcium به mg) → SD-27.
+**خفیف (بی‌علامت، ۱.۹ یا بیشتر):** Calcium فمی + تداوی علت (Vitamin D، Mg). دوز Calcium فمی و Vitamin D (SfE نام‌های تجارتی UK می‌دهد، نه عنصر Calcium به mg)
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == هـ) Magnesium و Phosphate (مختصر)
 #figure(
@@ -14812,9 +14793,9 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*اختلال*], [*علل کلیدی*], [*چرا مهم است*], [*تداوی*],
-    [**Hypomagnesaemia**], [PPI طولانی، Diuretics، الکول، اسهال، Aminoglycosides، Cisplatin], [Hypokalaemia و Hypocalcaemia مقاوم؛ **Torsades de pointes**], [Magnesium sulfate وریدی (شدید/Torsades) یا فمی — 🔒 دوز → SD-27],
+    [**Hypomagnesaemia**], [PPI طولانی، Diuretics، الکول، اسهال، Aminoglycosides، Cisplatin], [Hypokalaemia و Hypocalcaemia مقاوم؛ **Torsades de pointes**], [Magnesium sulfate وریدی (شدید/Torsades) یا فمی — دوز],
     [Hypermagnesaemia], [CKD + مصرف Mg (انتی‌اسید، مسهل)، تداوی Pre-eclampsia], [ضعف، از بین رفتن رفلکس‌ها، تنفس ضعیف، Bradycardia], [قطع Mg؛ Calcium gluconate وریدی (انتاگونیست)؛ دیالیز],
-    [**Hypophosphataemia**], [**Refeeding syndrome**، الکول، DKA در حال تداوی، Respiratory alkalosis], [ضعف عضلات تنفسی، همولیز، Rhabdomyolysis], [Phosphate فمی/وریدی نظر به شدت — 🔒 دوز → SD-27],
+    [**Hypophosphataemia**], [**Refeeding syndrome**، الکول، DKA در حال تداوی، Respiratory alkalosis], [ضعف عضلات تنفسی، همولیز، Rhabdomyolysis], [Phosphate فمی/وریدی نظر به شدت — دوز],
     [Hyperphosphataemia], [CKD (فصل ۳۹)، Tumour lysis، Rhabdomyolysis], [رسوب Calcium–Phosphate، Hypocalcaemia], [علت؛ Binder در CKD؛ دیالیز],
   ),
   caption: none,
@@ -14847,13 +14828,12 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ Torsades de pointes → Magnesium.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https:\/\/guidelines.ukkidney.org/hyperkalaemia/ — (Guidelines 16.2a/b، 16.3.1، 16.4.1–3، 16.5، 16.6، 25.1–25.2 خوانده شد).
+1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https:\/\/guidelines.ukkidney.org/hyperkalaemia/.
 2. Society for Endocrinology. *Emergency Endocrine Guidance: Emergency management of acute hypocalcaemia in adult patients.* Endocr Connect. 2016;5(5):G7–8; correction 2019 (PubMed 32022081) — (بولوس، انفیوژن، ۲.۲ mmol).
 3. Society for Endocrinology. *Acute hypocalcaemia — for use in adult patients* (2013 leaflet) — (Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg؛ هشدار ESKD).
-4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753 — (شکل‌های ۲ و ۳: Hyperkalaemia و Hypokalaemia؛ خوانده شد ۲۰۲۶-۰۹-۲۵).
+4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753.
 5. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
-6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** UKKA Hyperkalaemia 2023 جدیدترین رهنمود ملی بررسی‌شده است (صفحهٔ آنلاین آن تا دسمبر ۲۰۲۵ به‌روز شده). رهنمودهای Society for Endocrinology 2016 (با تصحیح 2019) هنوز مرجع عاجل‌اند؛ **CURRENTNESS NOTE:** نسخهٔ جدیدتر SfE جستجو نشد. KDIGO/ERC برای Hyperkalaemia با UKKA مقایسه نشد.
+6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🎯 قدم کوچک در کنار بستر
 1. هر K⁺ بلند → **ECG در ۵ دقیقه**.
@@ -14882,7 +14862,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۳ — اختلالات اسید–قلوی (Acid–Base Disorders)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (BICAR-ICU 2018 → BICARICU-2 2025)*
+  **بخش ششم — گرده**
 ]
 == یک گاز خون، سه سؤال
 یک مریض دیابتی با استفراغ و تنفس عمیق آمده. گاز خون شریانی (ABG) او pH پایین، HCO₃⁻ پایین و PaCO₂ پایین دارد. نوکریوال می‌نویسد «Metabolic acidosis» و کار تمام. اما سه سؤال بی‌جواب مانده:
@@ -15060,8 +15040,8 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - اگر PaCO₂ **پایین‌تر** از Winter است → **Respiratory alkalosis هم‌زمان** (نه «جبران بهتر»).
 - اگر **بالاتر** → **Respiratory acidosis هم‌زمان** — مریض خسته می‌شود؛ ⚠️ خطر توقف تنفس.
 - جبران کامل (pH کاملاً نورمال) نادر است؛ pH نورمال با HCO₃⁻ و PaCO₂ غیرنورمال → اختلال مختلط را فکر کن.
-*منابع فورمول‌ها: متن آموزشی University of Colorado (Evaluation of Acid-Base Disorders) و خلاصه‌های ABG — همه منابع ثانوی/آموزشی‌اند؛ فورمول‌ها تجربی هستند و «±» دارند (SD-29).*
-🔒 **حد نورمال Anion gap و فاکتور اصلاح Albumin** به روش لابراتوار بستگی دارد و از منبع اولیه در این نشست تأیید نشد → حد لابراتوار خود را به کار ببر (**SD-29**).
+*منابع فورمول‌ها: متن آموزشی University of Colorado (Evaluation of Acid-Base Disorders) و خلاصه‌های ABG — فورمول‌ها تجربی هستند و «±» دارند.*
+**حد نورمال Anion gap و فاکتور اصلاح Albumin** به روش لابراتوار بستگی دارد؛ حد لابراتوار خود را به کار ببر.
 **Delta–delta (منطق، نه فقط عدد):** در AG acidosis خالص، هر واحد افزایش AG تقریباً یک واحد HCO₃⁻ را مصرف می‌کند. اگر HCO₃⁻ **بیشتر از انتظار** بلند مانده → Metabolic alkalosis هم‌زمان (مثل DKA + استفراغ). اگر **کمتر** → Non-AG acidosis هم‌زمان.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۱۰. Management (تداوی)
@@ -15083,16 +15063,16 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 **تفسیر:** فایدهٔ مرگ‌ومیر که زیرگروه BICAR-ICU نشان داد، در کارآزمایی تأییدی BICARICU-2 **تکرار نشد**؛ اما Bicarbonate ممکن است نیاز به دیالیز را کم یا به تعویق اندازد. Bicarbonate **روتین نیست**؛ تصمیم در ICU/متخصص.
 - **جایی که Bicarbonate نقش روشن‌تر دارد:** ضیاع HCO₃⁻ (اسهال شدید، RTA — فمی)، **مسمومیت Salicylate** (قلوی کردن ادرار)، مسمومیت با دواهای مسدودکنندهٔ کانال Sodium (مثل Tricyclics).
 - **خطرات:** اضافه‌بار Sodium/حجم، Hypokalaemia، کاهش Ionized calcium، تولید CO₂ (در مریضی که نمی‌تواند تهویه کند، خطرناک).
-- 🔒 **دوز Bicarbonate** (وریدی/فمی) از منبع اولیه تأیید نشد → **SD-29**.
+- **دوز Bicarbonate** (وریدی/فمی) را از برچسب دوا یا پروتوکول شفاخانه بگیر
 - **DKA:** Bicarbonate روتین نه → فصل ۴۷.
 === ۱۰.۳ الکول‌های سمی (Methanol، Ethylene glycol)
 - در افغانستان و منطقه، **Methanol در الکول تقلبی** سبب مسمومیت‌های گروهی می‌شود.
 - تداوی: **Fomepizole** (یا Ethanol اگر Fomepizole نیست) برای بستن Alcohol dehydrogenase، **Haemodialysis**، Bicarbonate برای اسیدوز، Folate/Folinic acid (Methanol)، Thiamine/Pyridoxine (Ethylene glycol).
-- 🔒 دوزها و آستانه‌های دیالیز → **SD-29**؛ با مرکز سموم/متخصص.
+- دوزها و آستانه‌های دیالیز؛ با مرکز سموم/متخصص.
 === ۱۰.۴ Metabolic alkalosis
 - **Chloride-responsive:** **Normal saline** + **Potassium** (فصل ۴۲)؛ قطع/کم کردن Diuretic؛ PPI در NG suction طولانی.
 - **Chloride-resistant:** تداوی علت (Hyperaldosteronism → فصل ۵۰)؛ اصلاح K⁺.
-- مقاوم در مریض پرحجم: Acetazolamide یا دیالیز — تصمیم متخصص (دوز → SD-29).
+- مقاوم در مریض پرحجم: Acetazolamide یا دیالیز — تصمیم متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 === ۱۰.۵ Respiratory acidosis
 - علت: برگرداندن Opioid (Naloxone — فصل ۸۰)، تداوی COPD/آسما.
 - **Non-invasive ventilation (NIV)** در COPD هایپرکپنیک (فصل ۱۶ و ۲۲)؛ تهویهٔ میخانیکی در ناکامی.
@@ -15142,10 +15122,9 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ اکسیجن زیاد در COPD هایپرکپنیک.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40 — (خلاصهٔ Wiki Journal Club بررسی شد).
-2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025 — (خلاصهٔ The Bottom Line، نوامبر ۲۰۲۵ بررسی شد؛ متن اصلی خوانده نشد → SD-29).
+1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40.
+2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025.
 3. University of Colorado Internal Medicine Residency. *Evaluation of Acid-Base Disorders* (suggested reading PDF) — فورمول‌های جبران.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** مهمترین تغییر: **BICARICU-2 (2025)** فایدهٔ مرگ‌ومیر زیرگروه AKI در BICAR-ICU را تأیید نکرد — متن این فصل بر اساس جدیدترین شواهد نوشته شد. فورمول‌های جبران دهه‌ها ثابت مانده‌اند.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: همان گاز خون، حالا با سه جواب
 مریض دیابتی ما را دوباره ببین؛ این بار با همان سه سؤال:
@@ -15178,7 +15157,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۴ — اختلالات آب و Sodium: Hyponatraemia، Hypernatraemia، SIADH و Diabetes insipidus
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش ششم — گرده** · *با Currentness audit (رهنمود اروپایی 2014 + شواهد 2021–2025)*
+  **بخش ششم — گرده**
 ]
 == دو خطر مخالف
 **بی‌بی زرغونه** ۷۶ ساله، که برای فشار خون Thiazide می‌خورد، با گیچی و افتادن آورده شده. Sodium او **۱۱۸ mmol/L** است. نوکریوال دو اشتباه ممکن دارد:
@@ -15221,7 +15200,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - **نامناسب (SIADH):** درد، دلبدی، دواها، مرض شش/مغز، تومور.
 4. آب از خون رقیق به داخل حجرات مغز می‌رود → **Cerebral oedema** → سردرد، استفراغ، اختلاج، **فتق مغز (Herniation)**.
 5. در ۴۸ ساعت حجرات مغز Osmolyteها را بیرون می‌کنند → پُندیدگی کم می‌شود → علایم خفیف‌تر اما **آسیب‌پذیری در مقابل اصلاح سریع**.
-6. اصلاح سریع → کشیدن آب از حجرات تطبیق‌یافته → **ODS** (اکثراً پس از ۲–۶ روز: Dysarthria، Dysphagia، Quadriparesis، Locked-in). *(زمان ۲–۶ روز از دانش عمومی کتب درسی است → SD-30.)*
+6. اصلاح سریع → کشیدن آب از حجرات تطبیق‌یافته → **ODS** (اکثراً پس از ۲–۶ روز: Dysarthria، Dysphagia، Quadriparesis، Locked-in).
 **Hypernatraemia:**
 1. ضیاع آب بیشتر از Sodium (تب، تعرق، اسهال، Diuresis اسموتیک، DI) **+ دسترسی ناکافی به آب**.
 2. آب از حجرات مغز بیرون می‌آید → حجرات چروک → اختلال شعور، خونریزی داخل جمجمه (کشیدن رگ‌ها).
@@ -15310,7 +15289,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 ⚠️ **کمبود Cortisol** دقیقاً مثل SIADH دیده می‌شود — پیش از برچسب SIADH رد کن؛ اشتباه در اینجا کشنده است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۱۰. Management (تداوی)
-=== ۱۰.۱ Hyponatraemia با علایم **شدید** — حاد یا مزمن (رهنمود اروپایی 2014، تأییدشده از متن)
+=== ۱۰.۱ Hyponatraemia با علایم **شدید** — حاد یا مزمن (رهنمود اروپایی 2014)
 #figure(
   table(columns: (auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -15331,7 +15310,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - **فرق هدف و حد:** **هدف** = ۵ mmol/L برای رفع خطر؛ **حد** = مرزی که نباید عبور کرد.
 - **رهنمود امریکایی (Verbalis 2013):** بولوس **۱۰۰ mL** 3% (به جای ۱۵۰ mL)؛ در مریضان **پرخطر برای ODS** حد سخت‌تر **۸ mmol/L در ۲۴ ساعت اول** (**اختلاف منابع**، EJE 2025).
 - **پرخطر برای ODS:** Hypokalaemia، سوءتغذیه، **الکولیزم**، مرض پیشرفتهٔ کبد، Sodium بسیار پایین.
-- 🔄 **کارآزمایی SALSA (2021)** بولوس سریع را با انفیوژن آهسته مقایسه کرد؛ اصلاح بیش از حد در هر دو رخ داد. **CURRENTNESS NOTE:** مطالعات مشاهده‌ای 2023–2025 پیشنهاد می‌کنند که حدهای سخت شاید بیش از حد محافظه‌کار باشند؛ رهنمود رسمی تا کنون تغییر نکرده (SD-31).
+- 🔄 **کارآزمایی SALSA (2021)** بولوس سریع را با انفیوژن آهسته مقایسه کرد؛ اصلاح بیش از حد در هر دو رخ داد. مطالعات مشاهده‌ای 2023–2025 پیشنهاد می‌کنند که حدهای سخت شاید بیش از حد محافظه‌کار باشند؛ رهنمود رسمی تا کنون تغییر نکرده.
 === ۱۰.۲ علایم **متوسط**
 - ارزیابی تشخیصی فوری، قطع دواهای عامل، تداوی علت.
 - **یک** انفیوژن ۱۵۰ mL Saline 3% در ۲۰ دقیقه پیشنهاد می‌شود (2D)؛ هدف حدود ۵ mmol/L در ۲۴ ساعت؛ با همان حدهای ۱۰ و ۸ mmol/L.
@@ -15353,13 +15332,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 )
 #v(0.4em)
 === ۱۰.۴ اصلاح بیش از حد (Overcorrection)
-- اگر Sodium بیشتر از **۱۰ mmol/L در ۲۴ ساعت اول** یا **۸ mmol/L در هر ۲۴ ساعت بعد** بلند رفت → **فوراً پایین آوردن دوباره** (1D): قطع مایعات Sodium‌دار، **آب بدون املاح** (فمی یا Dextrose 5% وریدی)، و **Desmopressin** با مشورهٔ متخصص (دوزها → SD-30).
+- اگر Sodium بیشتر از **۱۰ mmol/L در ۲۴ ساعت اول** یا **۸ mmol/L در هر ۲۴ ساعت بعد** بلند رفت → **فوراً پایین آوردن دوباره** (1D): قطع مایعات Sodium‌دار، **آب بدون املاح** (فمی یا Dextrose 5% وریدی)، و **Desmopressin** با مشورهٔ متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 === ۱۰.۵ Hypernatraemia
 - **آب را جبران کن**: فمی/NG ترجیح دارد؛ وریدی Dextrose 5% (یا Hypotonic).
-- **مزمن:** آهسته پایین بیاور (خطر Cerebral oedema)؛ **حاد** (مثلاً ساعت‌ها) را می‌توان سریعتر اصلاح کرد. 🔒 سرعت دقیق اصلاح و فورمول کمبود آب از منبع اولیه تأیید نشد → **SD-30**.
+- **مزمن:** آهسته پایین بیاور (خطر Cerebral oedema)؛ **حاد** (مثلاً ساعت‌ها) را می‌توان سریعتر اصلاح کرد. سرعت اصلاح را با متخصص و پروتوکول شفاخانه تعیین کن
 - علت: دسترسی به آب، تب، اسهال، قند، DI.
 === ۱۰.۶ Diabetes insipidus
-- **مرکزی (AVP deficiency):** **Desmopressin** (فمی، زیر زبانی، بینی، زرقی). ⚠️ خطر **Hyponatraemia** با Desmopressin — به مریض بگو فقط وقتی تشنه است بنوشد؛ Sodium را منظم ببین. 🔒 دوز → SD-30.
+- **مرکزی (AVP deficiency):** **Desmopressin** (فمی، زیر زبانی، بینی، زرقی). ⚠️ خطر **Hyponatraemia** با Desmopressin — به مریض بگو فقط وقتی تشنه است بنوشد؛ Sodium را منظم ببین. دوز
 - **گرده‌ای:** علت را رفع کن (Lithium، Calcium، K⁺)؛ غذای کم‌نمک/کم‌پروتین؛ Thiazide (به شکل متناقض ادرار را کم می‌کند)؛ متخصص.
 - مریض DI که **نمی‌تواند بنوشد** (کوما، جراحی) → Hypernatraemia خطرناک؛ مایع وریدی و Desmopressin با دقت.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -15402,11 +15381,10 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ مسن کوماتوز با Sodium بلند → کمبود شدید آب؛ انتان را جستجو کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39) — (توصیه‌های ۷.۱–۷.۵ از متن خوانده شد).
-2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013 — (به نقل از منابع ۳ و ۴؛ متن اصلی خوانده نشد).
+1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39).
+2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013.
 3. Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol*. 2025;192(6):754 — (اختلاف ۸ در مقابل ۱۰ mmol/L؛ ۱۰۰ در مقابل ۱۵۰ mL).
 4. Treatment of symptomatic hyponatremia with hypertonic saline: a real-life observational study. *Eur J Endocrinol*. 2021;184(5):647.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** رهنمود اروپایی 2014 هنوز مرجع رسمی است؛ مرور 2025 (EJE) اختلاف عمل در اروپا را نشان داد. نام‌گذاری جدید DI (AVP deficiency/resistance) در متن آمد. **CURRENTNESS NOTE (SD-31):** جستجوی نسخهٔ جدید رهنمود اروپایی و بحث حدود اصلاح پس از 2023 کامل نشد؛ متن SALSA اصلی خوانده نشد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: بی‌بی زرغونه
 - **سؤال اول: شدت علایم.** تصمیم با همین سؤال شروع می‌شود، نه با عدد Sodium. گیچی و افتادن را باید سنجید: آیا اختلاج، کاهش شعور یا استفراغ شدید هم دارد؟ اگر علایم شدید باشد، Hypertonic saline طبق الگوریتم همین فصل داده می‌شود، چون خطر فوری پُندیدگی مغز است.
@@ -15436,7 +15414,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۵ — رهیافت به مریض اندوکراین: خواندن درست تست‌های هورمونی (Approach to Endocrine Disease)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *فصل رهیافتی — ساختار تابع وظیفه (مثل فصل ۳۶)* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ حدود و معیارها در فصل‌های ۴۶–۵۲ با منبع می‌آیند.*
+  **بخش هفتم — اندوکراین**
 ]
 == سه ورق هورمونی
 - **ورق اول — شکیلا**، ۳۰ ساله، خسته است. TSH او «کمی بلند» آمده. همان روز Levothyroxine شروع شد. او دو هفته قبل از **پنومونی شدید** رخصت شده بود.
@@ -15483,7 +15461,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
   caption: none,
 )
 #v(0.4em)
-🔒 **دوزها، زمان‌بندی و حدود قطع این تست‌ها** در فصل‌های مربوط با منبع آمده‌اند یا در فهرست بدهی ثبت‌اند؛ این فصل فقط منطق را می‌دهد.
+**دوزها، زمان‌بندی و حدود قطع این تست‌ها** در فصل‌های مربوط آمده‌اند؛ این فصل فقط منطق را می‌دهد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۴. زمان، ریتم و حالت — چه وقت نمونه بگیریم؟
 #figure(
@@ -15538,7 +15516,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
   caption: none,
 )
 #v(0.4em)
-🔒 حدود اندازه و Hounsfield برای هر سیستم در فصل‌های مربوط با منبع می‌آید.
+حدود اندازه و Hounsfield برای هر سیستم در فصل‌های مربوط با منبع می‌آید.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۷. عاجل‌های اندوکراین — شناخت زودهنگام
 #figure(
@@ -15614,7 +15592,6 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 1. U.S. Food and Drug Administration. *Biotin (Vitamin B7): Safety Communication — May Interfere with Lab Tests* (2017; updated 2019).
 2. Jameson JL, et al., eds. *Harrison's Principles of Internal Medicine* — Approach to the patient with endocrine disorders (اصول عمومی؛ بدون عدد مشخص نقل‌شده).
 3. رهنمودهای مخصوص هر مرض در فصل‌های ۴۶–۵۲.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** این فصل اصول می‌دهد و عدد دوایی ندارد. نام‌گذاری جدید DI (AVP deficiency/resistance) در فصل ۴۴ آمده. **CURRENTNESS NOTE:** متن هشدار FDA در این نشست دوباره خوانده نشد (SD-32).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به سه ورق
 - **شکیلا:** TSH در دورهٔ بهبودی از مرض حاد اندازه گرفته شده بود، یعنی احتمال پیش از تست (Pretest probability) برای Hypothyroidism پایین بود و زمینه عدد را بی‌اعتبار می‌کرد. تصمیم درست این است: Levothyroxine قطع شود و TSH پس از بهبودی تکرار شود.
@@ -15640,7 +15617,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۶ — دیابت شکری (Diabetes Mellitus)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *با Currentness audit (ADA Standards of Care 2026)*
+  **بخش هفتم — اندوکراین**
 ]
 == سه مریض دیابتی، سه تداوی
 - **حاجی گل‌آقا** ۵۶ ساله، چاق، دو سال قبل **سکتهٔ قلبی** کرده. HbA1c او ۸.۲ فیصد است. فقط Metformin می‌خورد.
@@ -15770,7 +15747,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 == 🔹 ۱۰. Management (تداوی)
 === ۱۰.۱ عاجل
 - **DKA / HHS** → فصل ۴۷.
-- **Hypoglycaemia** (ADA 6.15): در مریض **هوشیار** با قند کمتر از ۷۰ mg/dL (۳.۹ mmol/L) → **Glucose** (یا هر کاربوهایدریت حاوی Glucose)؛ غذای پرچربی/پرپروتین برای تداوی اولیه نه؛ **پس از ۱۵ دقیقه** اگر هنوز پایین است، تکرار. مریض بی‌هوش → Glucagon یا Glucose وریدی (فصل ۵۲). 🔒 مقدار گرام Glucose → SD-33.
+- **Hypoglycaemia** (ADA 6.15): در مریض **هوشیار** با قند کمتر از ۷۰ mg/dL (۳.۹ mmol/L) → **Glucose** (یا هر کاربوهایدریت حاوی Glucose)؛ غذای پرچربی/پرپروتین برای تداوی اولیه نه؛ **پس از ۱۵ دقیقه** اگر هنوز پایین است، تکرار. مریض بی‌هوش → Glucagon یا Glucose وریدی (فصل ۵۲). مقدار گرام Glucose
 - ADA 6.16: **Glucagon** برای همه مصرف‌کنندگان Insulin یا پرخطر نسخه شود؛ فامیل آموزش ببیند.
 === ۱۰.۲ اهداف قند (ADA 2026)
 #figure(
@@ -15824,24 +15801,24 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     [*دوا*], [*قوت قندی*], [*Hypoglycaemia*], [*وزن*], [*نکات کلیدی*],
     [**Metformin** (فمی)], [بلند], [نه], [خنثی/کمی کم], [**ممنوع در eGFR کمتر از ۳۰**؛ عوارض هضمی (تیتر آهسته، شکل XR، با غذا)؛ کمبود **B12**],
     [**SGLT2 inhibitor** (فمی)], [متوسط–بلند], [نه], [کم], [قلب/گرده؛ شروع/ادامه برای فایدهٔ ارگان تا eGFR بیشتر از ۲۰؛ **DKA (حتی Euglycaemic)** — پیش از جراحی (مثلاً ۳–۴ روز)، در مرض شدید و ناشتای طولانی قطع؛ انتان قارچی تناسلی؛ UTI/Urosepsis؛ Fournier (نادر)],
-    [**GLP-1 RA** (زرقی/فمی)], [بلند–بسیار بلند], [نه], [کاهش زیاد], [قلب، گرده، کبد؛ عوارض هضمی؛ (جزئیات جدول ADA → SD-33)],
+    [**GLP-1 RA** (زرقی/فمی)], [بلند–بسیار بلند], [نه], [کاهش زیاد], [قلب، گرده، کبد؛ عوارض هضمی؛],
     [**Dual GIP/GLP-1 RA** (Tirzepatide)], [بسیار بلند], [نه], [کاهش بسیار زیاد], [HFpEF + چاقی],
     [**DPP-4 inhibitor**], [متوسط], [نه], [خنثی], [با GLP-1 RA نه],
     [**Pioglitazone**], [بلند], [نه], [افزایش], [MASH؛ **ادیما/عدم کفایهٔ قلب**، کسر],
-    [**Sulfonylurea**], [بلند], [**بلی**], [افزایش], [ارزان؛ **در مسن و CKD خطرناک** — Glibenclamide خطر بیشتر دارد (از منابع ثانوی)],
+    [**Sulfonylurea**], [بلند], [**بلی**], [افزایش], [ارزان؛ **در مسن و CKD خطرناک** — Glibenclamide خطر بیشتر دارد],
     [**Insulin**], [بالاترین], [**بلی**], [افزایش], [بخش ۱۰ همین فصل],
   ),
   caption: none,
 )
 #v(0.4em)
-🔒 **دوزهای هر دوا** (شروع، تیتر، حد اعظمی، تعدیل گرده) در ADA نیامده و از منبع اولیهٔ دوایی (BNF/برچسب) در این نشست تأیید نشد → **SD-33 (UNVERIFIED)**. در این فصل دوز عددی نیامده.
+**دوزهای هر دوا** (شروع، تیتر، حد اعظمی، تعدیل گرده) در ADA نیامده؛ آن‌ها را از برچسب دوا یا formulary بگیر.
 **زمینهٔ افغانستان (تفسیر مؤلف):** GLP-1 RA و SGLT2i اکثراً گران یا در دسترس نیستند. در عمل: Metformin + (اگر ممکن) SGLT2i برای مریض قلبی/گرده‌ای؛ از Sulfonylurea در مسن و CKD تا حد امکان پرهیز؛ Insulin انسانی (NPH/Regular) ارزان‌تر اما خطر Hypoglycaemia بیشتر از Analog — ADA در Type 1 **Analog** را ترجیح می‌دهد (9.2). این عدم تطابق منابع–امکانات را به مریض و ادارهٔ صحی بگو.
 === ۱۰.۴ Type 1
 - **Insulin چند بار در روز** (Basal + Prandial) یا **پمپ (CSII)** (ADA 9.1، A).
 - **Analog** بر Insulin انسانی ترجیح دارد تا Hypoglycaemia کم شود (9.2، A).
 - آموزش **شمارش کاربوهایدریت**، دوز اصلاحی، **قواعد روز مریضی** (Sick-day rules — Insulin را هرگز قطع نکن؛ Ketone را ببین) (9.3).
 - **CGM** از زمان تشخیص (ADA 7.15).
-- 🔒 دوز شروع Insulin (واحد/kg) و الگوریتم تیتر → **SD-33**.
+- دوز شروع Insulin (واحد/kg) و الگوریتم تیتر
 === ۱۰.۵ غیر دوایی (ADA بخش ۵ و ۸)
 - **فعالیت:** حد اقل **۱۵۰ دقیقه در هفته** فعالیت هوازی متوسط–شدید در حد اقل ۳ روز، بیش از دو روز پیاپی بی‌فعالیت نه (5.36)؛ **۲–۳ جلسه تمرین مقاومتی** در هفته (5.37)؛ نشستن طولانی را **هر ۳۰ دقیقه** قطع کن (5.34).
 - **غذا:** غذای کم‌پروسس، فایبر زیاد (حد اقل ۱۴ g فایبر به ازای هر ۱۰۰۰ kcal)؛ **آب** به جای نوشابه و **جوس** (5.21، 5.25)؛ Sodium کمتر از ۲۳۰۰ mg در روز (5.20)؛ الگوی مدیترانه‌ای؛ پروتین گیاهی (دال، نخود، مغزها).
@@ -15900,9 +15877,8 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ HbA1c ناهماهنگ با قند → کم‌خونی، Haemoglobinopathy.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. American Diabetes Association Professional Practice Committee. *Standards of Care in Diabetes—2026*. Diabetes Care. 2026;49(Suppl 1). Section 2: doi:10.2337/dc26-S002 (جدول ۲.۱ و توصیه‌های ۲.۱–۲.۱۰)؛ Sections 5, 6, 7, 8, 9 — (متن توصیه‌ها از خلاصهٔ رسمی Guideline Central/ADA، به‌روز ۲۰۲۶-۰۹-۱۶ خوانده شد).
-2. UpToDate. ADA criteria for diagnosis of diabetes (تأیید اعتبار جدول برای نسخهٔ 2026).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ADA Standards 2026 (دسمبر ۲۰۲۵) جدیدترین نسخه است. تغییرات مهم نسبت به کتب قدیمی: (۱) GLP-1 RA/SGLT2i «بدون توجه به HbA1c» برای محافظت ارگان؛ (۲) GLP-1 based therapy بر Insulin ترجیح دارد؛ (۳) Tirzepatide در HFpEF + چاقی؛ (۴) GLP-1 RA در eGFR کمتر از ۳۰ و دیالیز؛ (۵) CGM از زمان تشخیص؛ (۶) «Metformin همیشه خط اول» دیگر قاعدهٔ مطلق نیست — انتخاب نظر به ارگان‌ها. **CURRENTNESS NOTE:** توصیه‌های KDIGO دیابت در CKD و IDF–DAR 2021 در این نشست دوباره خوانده نشدند (SD-34).
+1. American Diabetes Association Professional Practice Committee. *Standards of Care in Diabetes—2026*. Diabetes Care. 2026;49(Suppl 1). Section 2: doi:10.2337/dc26-S002 (جدول ۲.۱ و توصیه‌های ۲.۱–۲.۱۰)؛ Sections 5, 6, 7, 8, 9.
+2. UpToDate. ADA criteria for diagnosis of diabetes.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به سه مریض
 - **حاجی گل‌آقا:** سابقهٔ سکتهٔ قلبی یعنی تصمیم بر اساس **محافظت ارگان** گرفته می‌شود. GLP-1 RA یا SGLT2 inhibitor با فایدهٔ ثابت‌شدهٔ قلبی اضافه می‌شود، حتی اگر HbA1c نزدیک هدف بود. هدف نهایی تداوی کاهش حوادث قلبی است، نه تنها یک عدد لابراتوار.
@@ -15931,7 +15907,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۷ — بحران‌های هایپرگلایسمیک: DKA و HHS (Diabetic Ketoacidosis & Hyperosmolar Hyperglycaemic State)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *با Currentness audit (Joint Consensus ADA/EASD/JBDS/AACE/DTS 2024)*
+  **بخش هفتم — اندوکراین**
 ]
 == دو بحران، دو سرعت
 - **زهرا** (همان دختر ۱۹ سالهٔ فصل ۴۶) پیش از رسیدن به کلینیک با **استفراغ، درد بطن، تنفس عمیق** و خواب‌آلودگی به عاجل آورده شده. قند ۴۲۰ mg/dL، pH ۷.۰۸، Ketone خون بسیار بلند. این **DKA** است — در **ساعت‌ها تا یکی دو روز** شکل گرفته.
@@ -16085,7 +16061,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - **مختلط:** معیارهای HHS + Ketonaemia/اسیدوز قابل‌ملاحظه → به عنوان DKA/HHS تداوی (Insulin ۰.۱ U/kg/h).
 - **شدت و محل تداوی:** DKA شدید، HHS، اختلال شعور، شوک، K⁺ غیرنورمال، مرض همراه شدید → **HDU/ICU**.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
-== 🔹 ۱۰. Management (تداوی) — Consensus 2024 (تأییدشده از متن)
+== 🔹 ۱۰. Management (تداوی) — Consensus 2024
 === ۱۰.۱ مایعات
 #figure(
   table(columns: (auto, auto),
@@ -16204,11 +16180,10 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ قطع انفیوژن Insulin بدون Basal قبلی → **DKA برگشتی**.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
+1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).
 3. Kitabchi AE, et al. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335 — (نسخهٔ قبلی برای مقایسه).
 4. Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** Consensus بین‌المللی 2024 جدیدترین مرجع است (جایگزین ADA 2009). تغییرات کلیدی: β-OHB مرکزی، حد قند ۲۰۰/سابقهٔ دیابت، Bicarbonate ۱۸، Insulin زیرجلدی در DKA خفیف/متوسط، معیارهای رفع جدید، حدود جدید HHS. **اختلاف ثانوی:** خلاصهٔ Healio می‌گوید Bicarbonate «حذف» شده؛ الگوریتم اصلی Consensus می‌گوید «فقط اگر pH کمتر از ۷.۰ در نظر گرفته شود» — متن اصلی مبنا قرار گرفت. **CURRENTNESS NOTE:** JBDS-IP (UK) نسخهٔ جدید جداگانه بررسی نشد (SD-35).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: زهرا و کاکا نبی
 - **زهرا (DKA):** مشکل اصلی اسید است. پس هدف نهایی تداوی برطرف شدن Ketone (کمتر از ۰.۶ mmol/L) و اصلاح pH یا Bicarbonate است، نه پایین آمدن قند؛ Anion gap معیار رفع نیست. وقتی قند پایین آمد ولی Ketone باقی بود، Insulin را قطع نمی‌کنیم؛ Dextrose اضافه می‌کنیم تا Insulin ادامه یابد.
@@ -16236,7 +16211,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۸ — پُرکاری تایروئید و تایروتوکسیکوز (Hyperthyroidism & Thyrotoxicosis)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *با Currentness audit (ATA 2016؛ مرور Endocrine Practice 2024)*
+  **بخش هفتم — اندوکراین**
 ]
 == سه تپش قلب
 - **فرشته** ۲۸ ساله، از سه ماه به این طرف با وجود اشتهای زیاد وزن کم کرده، دستانش می‌لرزد، گرمی را تحمل نمی‌کند و **چشمانش برآمده** به نظر می‌رسد.
@@ -16343,13 +16318,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - **Radioactive iodine uptake (RAIU) و Scan** — Graves (منتشر بلند)، گره‌ای (نقاط گرم)، Thyroiditis (پایین). ⚠️ در حاملگی و شیردهی نه.
 - **Ultrasound Doppler** — جریان خون بلند در Graves (بدیل وقتی RAIU در دسترس نیست — وضع بسیاری از ولایات).
 - ESR/CRP (Subacute thyroiditis)؛ Thyroglobulin (منبع خارجی).
-- **نسبت T3 به T4** بلند به نفع Graves/گره‌ای — 🔒 حد نسبت → SD-36.
+- **نسبت T3 به T4** بلند به نفع Graves/گره‌ای — حد نسبت
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۹. Diagnosis & Diagnostic Criteria
 1. **TSH پایین** → تایروتوکسیکوز ممکن.
 2. FT4 و T3 → Overt یا Subclinical.
 3. **علت:** Orbitopathy + گواتر منتشر = Graves (بالینی)؛ در غیر آن TRAb، RAIU یا Doppler.
-4. **Thyroid storm:** تشخیص **بالینی** — تب، Tachycardia/AF، اختلال شعور، علایم هضمی/کبدی، عدم کفایهٔ قلب در زمینهٔ تایروتوکسیکوز؛ **Burch–Wartofsky score** کمک می‌کند (نقاط → SD-36). **منتظر تست نمان.**
+4. **Thyroid storm:** تشخیص **بالینی** — تب، Tachycardia/AF، اختلال شعور، علایم هضمی/کبدی، عدم کفایهٔ قلب در زمینهٔ تایروتوکسیکوز؛ **Burch–Wartofsky score** کمک می‌کند. **منتظر تست نمان.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۱۰. Management (تداوی)
 === ۱۰.۱ عاجل — Thyroid storm (ATA 2016، جدول ۷)
@@ -16362,7 +16337,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     [**Propylthiouracil (PTU)**], [**۵۰۰–۱۰۰۰ mg بار اول، بعد ۲۵۰ mg هر ۴ ساعت** (فمی/NG)], [بستن ساخت + بستن تبدیل T4 به T3],
     [یا **Methimazole**], [**۶۰–۸۰ mg در روز** (منقسم)], [بستن ساخت],
     [**Propranolol**], [**۶۰–۸۰ mg هر ۴ ساعت** (فمی)], [علایم Adrenergic؛ در عدم کفایهٔ قلب احتیاط/مانیتورینگ تهاجمی],
-    [**Iodine** (SSKI/Lugol)], [**حد اقل ۱ ساعت پس از** دوای ضد تایروئید — 🔒 دوز قطره → SD-36], [بستن رها شدن هورمون],
+    [**Iodine** (SSKI/Lugol)], [**حد اقل ۱ ساعت پس از** دوای ضد تایروئید — دوز قطره], [بستن رها شدن هورمون],
     [**Hydrocortisone**], [**۳۰۰ mg وریدی بار اول، بعد ۱۰۰ mg هر ۸ ساعت**], [بستن تبدیل T4→T3؛ وقایه از کمبود نسبی Adrenal],
     [حمایتی], [سرد کردن (Paracetamol — **Aspirin نه**، چون هورمون آزاد را زیاد می‌کند)، مایع، اکسیجن، تداوی علت (انتان)], [—],
   ),
@@ -16374,7 +16349,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 === ۱۰.۲ کنترول علایم — Beta-blocker
 - در همه مریضان علامت‌دار (مخصوصاً مسن، ضربان بلند، مرض قلبی) مگر ممنوع (آسما شدید).
 - **در Thyroiditis تنها تداوی لازم** اکثراً Beta-blocker است.
-- 🔒 دوز معمول Propranolol/Atenolol/Metoprolol برای تایروتوکسیکوز غیر-طوفانی از متن اولیهٔ ATA خوانده نشد → **SD-36**. (مرور 2024: Propranolol ۱۰–۴۰ mg سه تا چهار بار در روز — منبع ثانوی.)
+- دوز معمول Propranolol/Atenolol/Metoprolol برای تایروتوکسیکوز غیر-طوفانی را از برچسب دوا بگیر
 === ۱۰.۳ Graves — سه راه (تصمیم مشترک با مریض)
 #figure(
   table(columns: (auto, auto, auto),
@@ -16398,19 +16373,19 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     [**], [*جزئیات*],
     [**Methimazole (MMI) — انتخاب اول**], [دوز شروع روزانه (راهنمای تقریبی): **۵–۱۰ mg** اگر FT4 ۱–۱.۵ برابر حد بالایی نورمال؛ **۱۰–۲۰ mg** اگر ۱.۵–۲ برابر؛ **۳۰–۴۰ mg** اگر ۲–۳ برابر — نظر به علایم، اندازهٔ گواتر و T3 تعدیل شود؛ یک بار در روز کافی است],
     [**PTU**], [فقط در: **سه‌ماههٔ اول حاملگی (First trimester)**، **Thyroid storm**، حساسیت به MMI بدون گزینهٔ دیگر؛ **۵۰–۱۵۰ mg سه بار در روز** نظر به شدت؛ ⚠️ **خطر سمیت شدید کبد**],
-    [**Carbimazole**], [در افغانستان و UK رایج؛ در بدن به Methimazole تبدیل می‌شود. 🔒 معادل دوز → SD-36 — از برچسب محلی استفاده کن],
-    [پیگیری], [FT4 و T3 در ۲–۶ هفته پس از شروع؛ دوز را با بهبود کم کن؛ مدت معمول برای Graves حدود ۱۲–۱۸ ماه، سپس بررسی TRAb برای قطع (🔒 جزئیات → SD-36)],
+    [**Carbimazole**], [در افغانستان و UK رایج؛ در بدن به Methimazole تبدیل می‌شود. معادل دوز — از برچسب محلی استفاده کن],
+    [پیگیری], [FT4 و T3 در ۲–۶ هفته پس از شروع؛ دوز را با بهبود کم کن؛ مدت معمول برای Graves حدود ۱۲–۱۸ ماه، سپس بررسی TRAb برای قطع],
   ),
   caption: none,
 )
 #v(0.4em)
 ⚠️ **Agranulocytosis:** به مریض **به طور کتبی** بگو: **تب یا گلودرد** → دوا را قطع کن و **فوراً CBC** بده. همچنین علایم کبدی (زردی، ادرار تیره، درد بطن)، Rash، درد مفاصل، Vasculitis (مخصوصاً PTU).
-**آماده‌سازی برای RAI یا جراحی:** رساندن به حالت نزدیک به Euthyroid با ATD و Beta-blocker؛ پیش از جراحی Graves، Potassium iodide در روزهای پیش از عمل (ATA — جزئیات → SD-36).
+**آماده‌سازی برای RAI یا جراحی:** رساندن به حالت نزدیک به Euthyroid با ATD و Beta-blocker؛ پیش از جراحی Graves، Potassium iodide در روزهای پیش از عمل.
 === ۱۰.۴ گواتر گره‌ای سمی و Adenoma
 - **RAI** یا **جراحی** (قطعی)؛ ATD طولانی‌مدت برای کسانی که هیچ‌کدام را نمی‌خواهند/نمی‌توانند (Remission نمی‌آورد).
 === ۱۰.۵ Thyroiditis
 - **Beta-blocker** برای علایم؛ **ATD نه**.
-- **Subacute (دردناک):** NSAID؛ در درد شدید Glucocorticoid (🔒 دوز → SD-36).
+- **Subacute (دردناک):** NSAID؛ در درد شدید Glucocorticoid *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 - مرحلهٔ بعدی ممکن **Hypothyroidism** (موقت یا دایمی) → TSH را پس از چند هفته تکرار کن.
 === ۱۰.۶ حاملگی
 - **PTU در سه‌ماههٔ اول** (MMI در سه‌ماههٔ اول خطر ناهنجاری جنینی دارد)؛ بعد از آن تغییر به MMI در نظر گرفته شود (ATA — **اختلاف** بین رهنمودها دربارهٔ تعویض).
@@ -16419,11 +16394,11 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - **Gestational transient thyrotoxicosis** (hCG) معمولاً ATD نمی‌خواهد.
 - همکاری با متخصص نسایی (فصل ۸۳).
 === ۱۰.۷ Subclinical hyperthyroidism
-- تداوی نظر به **سن، شدت TSH پایین، مرض قلبی، Osteoporosis** — مخصوصاً مسن‌تر و TSH کاملاً سرکوب‌شده (🔒 حدود سن و TSH → SD-36).
+- تداوی نظر به **سن، شدت TSH پایین، مرض قلبی، Osteoporosis** — مخصوصاً مسن‌تر و TSH کاملاً سرکوب‌شده.
 === ۱۰.۸ Graves orbitopathy
 - **ترک سگرت** (مهمترین)، Euthyroid نگه داشتن، ارجاع به چشم (مخصوصاً تغییر دید/رنگ‌بینی = Optic neuropathy → **عاجل**).
-- خفیف: Selenium (در مناطق کمبود — EUGOGO، منبع ثانوی)، قطره‌های مرطوب‌کننده.
-- متوسط–شدید: Glucocorticoid وریدی، دواهای بیولوژیک — متخصص (دوز → SD-36).
+- خفیف: Selenium، قطره‌های مرطوب‌کننده.
+- متوسط–شدید: Glucocorticoid وریدی، دواهای بیولوژیک — متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۱۱. Complications (اختلاطات)
 #figure(
@@ -16449,7 +16424,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - Graves با ATD: بخشی Remission می‌کنند؛ عود شایع است — مریض را آگاه کن.
 - پس از RAI/جراحی: TSH/FT4 منظم؛ اکثراً Levothyroxine دایمی.
 - TRAb بلند در زمان قطع ATD → خطر عود بیشتر.
-- AF معمولاً با Euthyroid شدن در بسیاری برمی‌گردد (عدد → SD-36).
+- AF معمولاً با Euthyroid شدن در بسیاری برمی‌گردد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 Memory Joggers
 - 💡 **«فابریکه یا گدام؟»** — Uptake بلند (فابریکه → ATD کمک می‌کند) در مقابل پایین (گدام → فقط Beta-blocker).
@@ -16468,10 +16443,9 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ فلج ناگهانی با K⁺ پایین در مرد جوان → Thyrotoxic periodic paralysis.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
-2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — منبع ثانوی).
-3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (منبع ثانوی).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
+1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229.
+2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X).
+3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به سه تپش قلب
 - **فرشته:** برآمدگی چشم تقریباً تشخیص Graves را ثابت می‌کند. TRAb تأیید می‌کند. تصمیم بین ATD، Radioiodine و جراحی گرفته می‌شود، و چشم فعال انتخاب را به طرف دور از Radioiodine بی‌محافظت می‌برد.
@@ -16498,7 +16472,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۴۹ — کم‌کاری تایروئید (Hypothyroidism) و Myxoedema coma
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *با Currentness audit (ATA 2014؛ NICE NG145 2019؛ برچسب FDA)*
+  **بخش هفتم — اندوکراین**
 ]
 == خستگی که «عادی» پنداشته شد
 **بی‌بی نسیمه** ۵۴ ساله، از یک سال به این طرف خسته است، **سردی را تحمل نمی‌کند**، یبوست دارد، وزنش بی‌دلیل زیاد شده، پوستش خشک و صدایش **گرفته** شده. همه گفته‌اند «سن است، یائسگی است». اما TSH او **۶۸ mIU/L** و FT4 بسیار پایین است.
@@ -16625,7 +16599,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*قدم*], [*کار*],
     [۱], [**ICU**؛ حمایت تنفسی (Hypoventilation)، **گرم کردن غیرفعال** (کمپل — گرم کردن فعال سریع → Vasodilation و شوک)، مایع با احتیاط (Hyponatraemia)، Glucose],
-    [۲], [نمونهٔ Cortisol بگیر، بعد **Glucocorticoid وریدی به دوز استرس — پیش از Levothyroxine** (ATA)؛ معمول در منابع: **Hydrocortisone ۱۰۰ mg وریدی هر ۸ ساعت** (Endotext — منبع ثانوی)],
+    [۲], [نمونهٔ Cortisol بگیر، بعد **Glucocorticoid وریدی به دوز استرس — پیش از Levothyroxine** (ATA)؛ معمول در منابع: **Hydrocortisone ۱۰۰ mg وریدی هر ۸ ساعت**],
     [۳], [**Levothyroxine وریدی:** **دوز بار ۲۰۰–۴۰۰ mcg** (کمتر در مریض کوچک‌جثه، مسن، مرض کرونری یا Arrhythmia)، بعد **۱.۶ mcg/kg روزانه × ۷۵ فیصد** تا وقتی وریدی داده می‌شود (ATA 2014)],
     [۴], [T3 (Liothyronine) وریدی **اختیاری**: بار **۵–۲۰ mcg**، بعد **۲.۵–۱۰ mcg هر ۸ ساعت** (دوز کمتر در مسن/کرونری) تا بهبود شعور (ATA 2014)],
     [۵], [تداوی محرک (انتان — انتی‌بیوتیک تجربی)؛ Sedative/Opioid را قطع کن],
@@ -16656,7 +16630,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - پس از ثبات: سالانه (یا با تغییر وزن، دوا، حاملگی).
 - **Central:** دوز را با **FT4** (نیمهٔ بالایی نورمال) تنظیم کن، نه TSH؛ **Cortisol را اول اصلاح کن**.
 **خوردن درست (پیام برای مریض):**
-- **ناشتا** با آب، ۳۰–۶۰ دقیقه پیش از صبحانه (یا شب، دیرتر از آخرین غذا) — ثابت هر روز. *(زمان‌ها رایج‌اند اما در این نشست از متن اولیه خوانده نشدند → SD-38.)*
+- **ناشتا** با آب، ۳۰–۶۰ دقیقه پیش از صبحانه (یا شب، دیرتر از آخرین غذا) — ثابت هر روز.
 - **جدا از** Calcium، **Iron** (مکمل آهن — شایع در زنان افغان)، Antacid، PPI، Bile acid sequestrant — فاصلهٔ چند ساعته.
 - **چای و قهوه** جذب را کم می‌کنند — در فرهنگ چای‌نوشی افغانستان مهم است.
 - دوای فراموش‌شده: روز بعد دو دانه قابل قبول است (Half-life طولانی) — با داکتر.
@@ -16672,13 +16646,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
     [*وضع*], [*تصمیم*],
     [**TSH ۱۰ mIU/L یا بیشتر** (تأییدشده با تکرار)], [Levothyroxine را در نظر بگیر (ATA/AACE؛ NICE NG145 — مخصوصاً سن کمتر از ۷۰)],
     [TSH بلند اما کمتر از ۱۰], [فردی: علایم، Anti-TPO، سن، حاملگی/پلان حاملگی، مرض قلبی؛ **در مسن اکثراً تداوی لازم نیست**؛ تکرار TSH],
-    [**حاملگی یا پلان حاملگی**], [آستانهٔ تداوی پایین‌تر — رهنمودهای حاملگی (🔒 حدود هر سه‌ماهه (Trimester) → SD-38)],
+    [**حاملگی یا پلان حاملگی**], [آستانهٔ تداوی پایین‌تر — رهنمودهای حاملگی],
   ),
   caption: none,
 )
 #v(0.4em)
 === ۱۰.۴ حاملگی (مریض قبلاً تحت تداوی)
-- نیاز به Levothyroxine در حاملگی **بلند می‌رود** — به محض تأیید حاملگی دوز را زیاد کن (ATA: حدود **۲۰–۳۰ فیصد** — از منبع ثانوی به نقل از ATA؛ برچسب: ۱۲.۵–۲۵ mcg روزانه) و TSH را **هر ۴ هفته** تا نیمهٔ حاملگی ببین؛ پس از ولادت به دوز قبلی برگرد.
+- نیاز به Levothyroxine در حاملگی **بلند می‌رود** — به محض تأیید حاملگی دوز را زیاد کن و TSH را **هر ۴ هفته** تا نیمهٔ حاملگی ببین؛ پس از ولادت به دوز قبلی برگرد.
 - Hypothyroidism تداوی‌نشده در حاملگی → سقط، Pre-eclampsia، **آسیب رشد مغز جنین**.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 🔹 ۱۱. Complications (اختلاطات)
@@ -16724,11 +16698,10 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ⚠️ Sedative/Opioid در مریض Hypothyroid شدید → سقوط تنفس.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 📚 References
-1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028 — (دوز ۱.۶–۱.۸ mcg/kg، ۲۵–۵۰ mcg، تیتر ۱۲.۵–۲۵ و ۴–۶ هفته، Myxoedema coma توصیهٔ ۲۱ و T3 از متن خوانده شد).
-2. NICE. *Thyroid disease: assessment and management* (NG145). 2019 — (۱.۶ mcg/kg گرد به ۲۵ mcg؛ ۲۵–۵۰ mcg در ۶۵ سال یا بیشتر/قلبی — از Society for Endocrinology 2022 و خلاصه‌های ثانوی؛ متن اصلی NICE در این نشست خوانده نشد → SD-38).
+1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028.
+2. NICE. *Thyroid disease: assessment and management* (NG145). 2019.
 3. SYNTHROID (levothyroxine) prescribing information — دوز حاملگی ۱.۶/۱.۰ mcg/kg؛ تیتر.
-4. Endotext. Myxedema and coma (severe hypothyroidism). 2018 — (Hydrocortisone ۱۰۰ mg هر ۸ ساعت؛ دوز بار ۳۰۰–۵۰۰ mcg؛ هشدار دوز زیاد — منبع ثانوی).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2014 هنوز مرجع جامع ATA است؛ NICE NG145 (2019) رهنمود ملی UK. **CURRENTNESS NOTE (SD-39):** ETA 2013 Subclinical، ATA 2017 حاملگی، و احتمال رهنمود جدید ATA برای Hypothyroidism پس از 2014 در این نشست کامل جستجو نشد.
+4. Endotext. Myxedema and coma (severe hypothyroidism). 2018.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس
 - **بی‌بی نسیمه:** مجموعهٔ علایم (سردی، یبوست، وزن، صدای گرفته) احتمال پیش از تست (Pretest probability) را بلند کرده بود. TSH بلند و FT4 پایین تشخیص Hypothyroidism آشکار را ثابت می‌کند. Levothyroxine با دوز وزنی (یا دوز پایین‌تر اگر مرض قلبی دارد) شروع می‌شود و TSH در فاصلهٔ ذکرشده در جدول دوز تکرار می‌شود. هدف نهایی تداوی بهبود علایم و TSH در محدودهٔ هدف است.
@@ -16754,7 +16727,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 = فصل ۵۰ — امراض ادرنال و Pituitary (Adrenal & Pituitary Disorders)
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *با Currentness audit (ES 2016 PAI و Hypopituitarism؛ ESE/ES 2024؛ ES 2025 Primary aldosteronism؛ ESE 2023 Incidentaloma؛ ES 2014 PPGL؛ ES 2008 Cushing)*
+  **بخش هفتم — اندوکراین**
 ]
 == شوکی که به Saline جواب نداد
 ساعت دو شب است. **کاکا شیرآقا**، ۶۱ ساله، با استفراغ، درد بطن و ضعف شدید به عاجل آورده شده. فشار خونش پایین است. نرس دو لیتر Saline داده، اما فشار تنها کمی بالا آمده و دوباره افتاده.
@@ -16904,7 +16877,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 )
 #v(0.4em)
 **چرا در دوز بلند Fludrocortisone لازم نیست؟** Hydrocortisone در دوز بلند خودش اثر Mineralocorticoid دارد. رهنمود ۲۰۱۶ می‌گوید اگر دوز Hydrocortisone **بیشتر از ۵۰ mg در ۲۴ ساعت** باشد، تعویض Mineralocorticoid لازم نیست. وقتی دوز پایین آمد، در مریض اولیه Fludrocortisone شروع می‌شود.
-**اگر Hydrocortisone موجود نیست؟** رهنمود ۲۰۱۶ (4.2) **Prednisolone** را جایگزین پیشنهاد می‌کند. **Dexamethasone کم‌ترجیح‌ترین** گزینه است و فقط وقتی داده شود که Glucocorticoid دیگری موجود نباشد، چون اثر Mineralocorticoid ندارد. (دوز جایگزین‌ها در این فصل تأیید نشده → SD-40.)
+**اگر Hydrocortisone موجود نیست؟** رهنمود ۲۰۱۶ (4.2) **Prednisolone** را جایگزین پیشنهاد می‌کند. **Dexamethasone کم‌ترجیح‌ترین** گزینه است و فقط وقتی داده شود که Glucocorticoid دیگری موجود نباشد، چون اثر Mineralocorticoid ندارد. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 **عدم کفایهٔ ثانوی:** رهنمود Hypopituitarism 2016 (2.5، Strong) برای Adrenal crisis ناشی از عدم کفایهٔ ثانوی **۵۰–۱۰۰ mg Hydrocortisone** زرقی فوری را توصیه می‌کند. این یک **اختلاف دوز شروع** با رهنمود PAI (۱۰۰ mg) است و هر دو رهنمود حفظ شده‌اند. در عمل، وقتی نوع عدم کفایه معلوم نیست، دوز PAI منطقی است، چون همیشه کافی است.
 ⚠️ **Red Flag — Hypothyroidism همراه:** در مریضی که هم کمبود Cortisol و هم Hypothyroidism دارد (Pituitary، یا Autoimmune polyglandular)، **Glucocorticoid را پیش از Levothyroxine** شروع کن. دلیل: Thyroxine متابولیزم Cortisol را زیاد می‌کند و می‌تواند بحران را آشکار کند. این همان منطقی است که در Myxoedema coma دیدیم (فصل ۴۹).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -16925,11 +16898,11 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 #v(0.4em)
 - **نمک را محدود نکن.** رهنمود (3.7) صریحاً این را توصیه می‌کند. در **هوای گرم** رهنمود افزایش موقتی Fludrocortisone به اندازهٔ **۵۰–۱۰۰ فیصد** یا نمک بیشتر را مطرح می‌کند. این نکته برای تابستان‌های جلال‌آباد و قندهار عملی است.
 - اگر با Fludrocortisone **فشار خون بلند** شد → اول دوز Fludrocortisone را کم کن (3.9). اگر فشار کنترول نشد → دوای ضد فشار شروع کن و Fludrocortisone را ادامه بده (3.10). یعنی Fludrocortisone را کاملاً قطع نکن.
-- **حاملگی:** Hydrocortisone را بر Cortisone acetate، Prednisolone و Prednisone ترجیح بده (2-L). نظر به سیر بالینی دوز را زیاد کن، به ویژه در **سه‌ماههٔ سوم (Third trimester)** (ES 2016، 3.15). مقدار افزایش در این فصل تأیید نشده → SD-40.
-- **عدم کفایهٔ ناشی از Glucocorticoid:** **Fludrocortisone نه** (ESE/ES 2024، R 2.12). مریضی که روی Glucocorticoid طولانی‌اثر است (Dexamethasone، Betamethasone)، وقتی دیگر به آن نیاز نیست، به دوای کوتاه‌اثر (Hydrocortisone یا Prednisone) تبدیل شود (R 2.5). جزئیات Taper و زمان تست محور → SD-40.
+- **حاملگی:** Hydrocortisone را بر Cortisone acetate، Prednisolone و Prednisone ترجیح بده (2-L). نظر به سیر بالینی دوز را زیاد کن، به ویژه در **سه‌ماههٔ سوم (Third trimester)** (ES 2016، 3.15). مقدار افزایش را با متخصص تعیین کن.
+- **عدم کفایهٔ ناشی از Glucocorticoid:** **Fludrocortisone نه** (ESE/ES 2024، R 2.12). مریضی که روی Glucocorticoid طولانی‌اثر است (Dexamethasone، Betamethasone)، وقتی دیگر به آن نیاز نیست، به دوای کوتاه‌اثر (Hydrocortisone یا Prednisone) تبدیل شود (R 2.5). جزئیات Taper و زمان تست محور
 - **ثانوی:** کمترین دوز قابل تحمل برای درازمدت، تا خطر متابولیک و قلبی–عروقی کم شود (Hypopituitarism 2016). Fludrocortisone نه (2.4، Strong).
-- **تداخل دوایی:** رهنمود Hypopituitarism دوای ضد صرع را به عنوان وضعیت خاص ذکر می‌کند، چون دواهای محرک انزایم کبدی می‌توانند نیاز به Glucocorticoid را زیاد کنند. جزئیات دوز → SD-40.
-- **گرده و کبد:** تنظیم دوز اختصاصی Hydrocortisone نگهداری در این فصل از منبع اولیه تأیید نشد → SD-40. در عمل دوز بر اساس بالین تیتر می‌شود.
+- **تداخل دوایی:** رهنمود Hypopituitarism دوای ضد صرع را به عنوان وضعیت خاص ذکر می‌کند، چون دواهای محرک انزایم کبدی می‌توانند نیاز به Glucocorticoid را زیاد کنند. جزئیات دوز
+- **گرده و کبد:** تنظیم دوز اختصاصی Hydrocortisone نگهداری مشخص نیست؛ در عمل دوز بر اساس بالین تیتر می‌شود.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == قواعد روزهای مرض (Sick day rules) — مهم‌ترین درسی که به مریض می‌دهیم
 اکثر بحران‌ها **قابل پیشگیری** هستند. پس هر مریض باید دو قاعده را از بر کند. این قواعد از جدول تعلیم مریض در رهنمود ۲۰۱۶ گرفته شده‌اند:
@@ -16963,7 +16936,6 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - **تداوی کمتر از حد:** خستگی دایمی، وزن کم، و بحران‌های مکرر.
 - **در PAI خودایمنی:** دیگر امراض خودایمنی را پیگیری کن. رهنمود به خصوص **مرض خودایمنی تایروئید** را ذکر می‌کند، که همان Hashimoto فصل ۴۹ است.
 - **پیگیری بالینی:** وزن، فشار (ایستاده و خوابیده)، انرژی، الکترولیت‌ها، و این سؤال: «آیا در این مدت قواعد روزهای مرض را به کار بردی؟»
-(ارقام شیوع و مرگ‌ومیر در این فصل عمداً ذکر نشده‌اند، چون از منبع اولیه تأیید نشدند.)
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: کاکا شیرآقا
 **۱. تصمیم نخست درست بود:** Hydrocortisone ۱۰۰ mg وریدی و Saline به سرعت، پیش از جواب تست. پس از یک ساعت فشارش ثابت شد و Glucose بالا آمد. **جواب به Hydrocortisone** خودش یک سرنخ قوی بود.
@@ -17025,7 +16997,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 **تداوی — چرا دو راه؟** رهنمود ۲۰۲۵ برای مریض PA **تداوی اختصاصی PA** را پیشنهاد می‌کند:
 - **جراحی (Adrenalectomy):** اگر Aldosterone از یک طرف بیاید (lateralizing)، جراحی می‌تواند مرض را علاج کند. به همین دلیل، مریضی که کاندید جراحی است و آن را می‌خواهد به تست‌های تعیین طرف فرستاده می‌شود: CT ادرنال و در صورت لزوم نمونه‌گیری از ورید ادرنال (AVS) در مرکز مجرب.
 - **دوای ضد Mineralocorticoid (MRA):** برای مریضی که جراحی نمی‌خواهد یا کاندید آن نیست. این دوا اثر زیانبار Aldosterone را مستقیماً بند می‌کند.
-- دوز MRA و جزئیات AVS در این فصل از منبع اولیه تأیید نشده → SD-42.
+- دوز MRA و جزئیات AVS با متخصص تعیین می‌شود
 **برگشت به حاجی دین‌محمد:**
 - Renin او سرکوب‌شده و Aldosterone بلند بود. Potassium پایین هم شک را قوی‌تر می‌کرد.
 - **Thiazide بهانهٔ دم دست بود** (دام فکری: نتیجه‌گیری زودهنگام — Premature closure). یک توضیح ممکن مانع جستجوی توضیح قابل علاج شده بود.
@@ -17052,7 +17024,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 **علت و تداوی:** وقتی Cushing ثابت شد، ACTH تعیین می‌کند مسیر کدام است:
 - **ACTH پایین:** منشأ ادرنال است.
 - **ACTH بلند یا نورمال:** منشأ Pituitary است یا یک تومور خارج از Pituitary که ACTH می‌سازد.
-این تست‌ها و تداوی (معمولاً جراحی منبع) در مرکز تخصصی انجام می‌شوند. جزئیات بعد از ۲۰۰۸ (مثلاً اجماع Pituitary Society 2021) در این فصل از منبع اولیه خوانده نشد → SD-43.
+این تست‌ها و تداوی (معمولاً جراحی منبع) در مرکز تخصصی انجام می‌شوند.
 === Phaeochromocytoma — تومور کمیاب که نباید از دست برود
 **چرا «نباید از دست برود»؟** Catecholamine زیاد می‌تواند بحران فشار، Arrhythmia یا Cardiomyopathy بسازد. خطرناک‌ترین لحظه هم جراحی یا پروسیجری است که بدون آمادگی انجام شود.
 - **تست اول:** Metanephrine آزاد پلازما **یا** Metanephrine کسری ادرار (ES 2014، 1.1).
@@ -17065,7 +17037,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - در تمام PPGLهای فعال هورمونی، **بند کردن گیرنده‌ها پیش از جراحی (Blockade)** لازم است (4.1). **Alpha-blocker** انتخاب اول پیشنهادی است.
 - مدت آمادگی **۷–۱۴ روز** است، تا فشار و ضربان قلب نورمال شوند (4.2).
 - **نمک و مایع بیشتر** هم جزء آمادگی است، چون Catecholamine حجم خون را منقبض کرده است. بدون آن، پس از برداشتن تومور Hypotension شدید می‌آید.
-- دوز دواها → SD-42.
+- دوز دواها
 - **جنیتیکی:** رهنمود مشورهٔ جنیتیکی را برای همهٔ مریضان در نظر دارد.
 - **پیگیری:** Metanephrine برای مرض باقی‌مانده، و **تست سالانه برای تمام عمر** (4.4).
 ⚠️ **دام — دواهایی که بحران می‌سازند:** رهنمود ۲۰۱۴ (جدول ۲) این دواها را در مریض Phaeochromocytoma محرک بحران می‌داند:
@@ -17098,7 +17070,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - **کمترین دوز قابل تحمل** برای درازمدت.
 به این‌ها یک قاعدهٔ ایمنی اضافه کن: در مریض Hypopituitarism، **Glucocorticoid پیش از Thyroxine**، به همان دلیلی که در فصل ۴۹ دیدیم.
 **Pituitary apoplexy** (سردرد ناگهانی شدید، اختلال دید یا فلج عصب چشم، و شاید شوک) یک عاجل است: Hydrocortisone فوری و تصویربرداری عاجل.
-این موضوعات در این فصل **تحریر نشده‌اند**: Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های دیگر Pituitary، و تداوی Diabetes insipidus (فصل ۴۴). منابع اولیهٔ آن‌ها هنوز خوانده نشده → SD-43.
+این موضوعات در این فصل **تحریر نشده‌اند**: Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های دیگر Pituitary، و تداوی Diabetes insipidus (فصل ۴۴).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == 💡 قواعد ماندگار
 1. **شوک مقاوم + Na↓ / K↑ / Glucose↓ → Hydrocortisone حالا، تست بعداً.**
@@ -17129,18 +17101,18 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 7. چرا پیش از جراحی Phaeochromocytoma نمک و مایع زیاد داده می‌شود؟ ← Catecholamine حجم خون را کم کرده؛ پس از برداشتن تومور Hypotension شدید می‌آید.
 8. کتلهٔ همگون ادرنال با ۸ HU در CT بدون Contrast، قدم بعدی تصویربرداری چیست؟ ← تصویربرداری بیشتر لازم نیست؛ اما سرکوب Dexamethasone هنوز لازم است.
 == 📚 References
-1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389. (متن کامل و جداول تداوی/تعلیم مریض خوانده شد؛ Guideline Central: صفحه در Dec 2025 مرور شده، بدون نسخهٔ جدید.)
-2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016. (خلاصهٔ توصیه‌ها از صفحهٔ رسمی Endocrine Society: 2.4، 2.5.)
+1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389.
+2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016.
 3. Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. *J Clin Endocrinol Metab / Eur J Endocrinol.* 2024. (نکات اصلی و توصیه‌های R 2.5، R 2.12، R 3.2 از صفحهٔ رسمی Endocrine Society.)
-4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453. (توصیه‌ها و technical remarks از صفحهٔ رسمی و متن OUP خوانده شد.)
+4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453.
 5. Nieman LK, Biller BMK, Findling JW, et al. The Diagnosis of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2008;93(5):1526–1540.
 6. Lenders JWM, Duh QY, Eisenhofer G, et al. Phaeochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2014;99(6):1915–1942.
 7. Fassnacht M, Tsagarakis S, Terzolo M, et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with ENSAT. *Eur J Endocrinol.* 2023.
-8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency (خلاصه در Medscape Guidelines؛ منبع ثانوی، فقط برای تطابق).
+8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency.
 = فصل ۵۱ — پاراتایروئید و استخوان: Hyperparathyroidism، Osteoporosis و Osteomalacia
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *با Currentness audit (Fifth International Workshop PHPT 2022؛ NOGG 2022 با مرور 2024؛ برچسب‌های FDA Alendronate 2026 و Prolia 2026)*
+  **بخش هفتم — اندوکراین**
 ]
 == شکستگی که «از افتادن ساده» بود
 **بی‌بی گلالی** ۶۶ ساله است. در حویلی خانه لغزید و از همان ارتفاع ایستاده افتاد. استخوان ران او شکست.
@@ -17204,7 +17176,7 @@ Osteoporosis در مسن‌ها شایع است، اما «Osteoporosis سن» �
 - 25-OH Vitamin D؛
 - اگر Calcium بلند است: PTH؛
 - در مسن با کمردردی: پروتین‌های سیروم (برای Myeloma).
-*(این فهرست بر میکانیزم‌های بالا تکیه دارد؛ فهرست رسمی رهنمود از منبع اولیه خوانده نشد → SD-44.)*
+*(این فهرست بر میکانیزم‌های بالا تکیه دارد.)*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۴. Primary hyperparathyroidism — Calcium بلند که کسی نخواند
 === از یافته به تشخیص
@@ -17223,7 +17195,7 @@ Osteoporosis در مسن‌ها شایع است، اما «Osteoporosis سن» �
 - **Calcium ادرار ۲۴ ساعته**؛
 - تصویربرداری برای سنگ یا Nephrocalcinosis؛
 - DXA در سه جا، و تصویربرداری مهره‌ها برای شکستگی بی‌صدا.
-*(حد Calcium ادرار برای تفریق از Familial hypocalciuric hypercalcaemia از منبع اولیه در این فصل تأیید نشد → SD-44.)*
+*(حد Calcium ادرار برای تفریق از Familial hypocalciuric hypercalcaemia را از لابراتوار و متخصص بپرس.)*
 === چه کسی جراحی شود؟ — چرا این معیارها؟
 **جراحی (Parathyroidectomy) تنها تداوی علاج‌کننده است.**
 Workshop 2022 جراحی را برای **همهٔ مریضان عرض‌دار** توصیه می‌کند. در مریض **بی‌عرض**، حتی یکی از این معیارها کافی است:
@@ -17255,7 +17227,7 @@ Workshop 2022 جراحی را برای **همهٔ مریضان عرض‌دار**
 - اگر جراحی ممکن نیست و Calcium یا BMD نگران‌کننده است، تداوی دوایی معقول است:
 - Cinacalcet برای Calcium؛
 - Bisphosphonate یا Denosumab برای استخوان.
-- دوز Cinacalcet → SD-44.
+- دوز Cinacalcet
 **حاملگی** (Workshop):
 - حالت خفیف با نوشیدن مایع کافی و نظارت Calcium اهتمام می‌شود.
 - Bisphosphonate و Denosumab **استعمال نشوند**.
@@ -17288,7 +17260,7 @@ Workshop 2022 جراحی را برای **همهٔ مریضان عرض‌دار**
     [**Alendronate**], [**۷۰ mg** یک بار در هفته یا **۱۰ mg** روزانه (برچسب FDA 2026، تداوی زن پس از یائسگی و مرد)], [فمی], [با **۱۸۰–۲۴۰ mL آب ساده** (۶–۸ اونس)، **حد اقل ۳۰ دقیقه پیش از** اولین غذا، نوشیدنی یا دوای روز؛ **حد اقل ۳۰ دقیقه و تا پس از اولین غذای روز دراز نکشد**. منع استعمال: تنگی یا Achalasia مری، ناتوانی از ۳۰ دقیقه نشستن یا ایستادن، Hypocalcaemia. **CrCl کمتر از ۳۵ mL/min توصیه نمی‌شود**. Calcium، Antacid و Cationهای چندظرفیتی جذب آن را کم می‌کنند. حاملگی: قطع شود],
     [**Zoledronic acid**], [**۵ mg** یک بار در سال (برچسب Reclast، به نقل Aetna CPB/AAFP)], [انفیوژن وریدی، **حد اقل ۱۵ دقیقه**], [منع استعمال: **CrCl کمتر از ۳۵ mL/min**، عدم کفایهٔ حاد گرده، Hypocalcaemia. مریض پیش از انفیوژن مایع کافی گرفته باشد. اعراض شبیه زکام پس از دوز اول شایع است],
     [**Denosumab (Prolia)**], [**۶۰ mg هر ۶ ماه** (برچسب FDA 2026)], [زیر جلدی (بازو، ران یا بطن)، توسط کارکن صحی], [**هشدار جعبه‌ای: Hypocalcaemia شدید در CKD پیشرفته.** در این مریضان پیش از شروع CKD-MBD را بررسی کن (PTH، Calcium، 25-OH و 1,25-(OH)₂ Vitamin D)؛ تداوی زیر نظر متخصص. همه روزانه **Calcium ۱۰۰۰ mg و Vitamin D حد اقل ۴۰۰ IU** بگیرند. منع استعمال: Hypocalcaemia و **حاملگی**؛ پیش از هر دوز حاملگی رد شود. **پس از قطع، شکستگی‌های متعدد مهره گزارش شده → هرگز بدون جانشین قطع نشود**؛ مریض به Antiresorptive دیگر منتقل شود],
-    [**Anabolic** (Teriparatide، Romosozumab)], [→ SD-44], [زیر جلدی], [برای خطر بسیار بلند، به ویژه با شکستگی‌های مهره (NOGG)؛ پس از ختم دوره، **فوراً Antiresorptive** شروع شود],
+    [**Anabolic** (Teriparatide، Romosozumab)], [], [زیر جلدی], [برای خطر بسیار بلند، به ویژه با شکستگی‌های مهره (NOGG)؛ پس از ختم دوره، **فوراً Antiresorptive** شروع شود],
   ),
   caption: none,
 )
@@ -17321,7 +17293,7 @@ Osteoporosis یعنی استخوان **کم** ولی درست ساخته‌شد�
 - PTH بلند (Hyperparathyroidism **ثانوی**)؛
 - 25-OH Vitamin D پایین.
 در زنان پوشیده، کسانی که کم در آفتاب می‌روند، و مریضان سوء جذب، این تشخیص در جامعهٔ ما باید در نظر باشد.
-**تداوی:** Vitamin D و Calcium، و تداوی علت. رژیم و دوز Vitamin D در این فصل از منبع اولیه تأیید نشد → SD-44.
+**تداوی:** Vitamin D و Calcium، و تداوی علت. رژیم و دوز Vitamin D را از رهنمود محلی یا برچسب دوا بگیر.
 ⚠️ **دام:** Calcium نورمال، PTH بلند و Vitamin D پایین **PHPT نیست**. این Hyperparathyroidism ثانوی است. تداوی آن Vitamin D است، نه جراحی. اول Vitamin D را اصلاح کن، بعد PTH را دوباره ببین.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: بی‌بی گلالی
@@ -17360,14 +17332,14 @@ Osteoporosis یعنی استخوان **کم** ولی درست ساخته‌شد�
 5. چرا قطع Denosumab خطرناک است؟ ← شکستگی‌های متعدد مهره پس از قطع گزارش شده؛ جانشین لازم است.
 == 📚 References
 1. Bilezikian JP, Khan AA, Silverberg SJ, et al. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. *J Bone Miner Res.* 2022;37(11):2293–2314.
-2. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the prevention and treatment of osteoporosis (NOGG). *Arch Osteoporos.* 2022;17:58. (توصیه‌ها از خلاصه‌های Medscape 2024 و Age and Ageing 2022، منابع ثانوی؛ متن کامل اولیه → SD-44.)
+2. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the prevention and treatment of osteoporosis (NOGG). *Arch Osteoporos.* 2022;17:58.
 3. Alendronate sodium tablets — FDA prescribing information (revised 6/2026; Drugs.com).
 4. Prolia (denosumab) — FDA prescribing information (Drugs.com، به‌روزرسانی 7/2026).
-5. Reclast (zoledronic acid) 5 mg — دوز و منع استعمال از خلاصهٔ برچسب در Aetna Clinical Policy Bulletin (Zoledronic acid) و AAFP 2008 (منبع ثانوی برچسب).
+5. Reclast (zoledronic acid) 5 mg — دوز و منع استعمال از خلاصهٔ برچسب در Aetna Clinical Policy Bulletin (Zoledronic acid) و AAFP 2008.
 = فصل ۵۲ — هایپوگلایسیمی و لیپید
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هفتم — اندوکراین** · *Currentness audit: ADA Standards of Care 2026 (فصل ۶ و ۱۶)؛ Endocrine Society 2009 (هایپوگلایسیمی بالغان — هنوز رهنمود جاری این انجمن)؛ ESC/EAS 2019 با Focused update 2025؛ برچسب FDA Glucagon*
+  **بخش هفتم — اندوکراین**
 ]
 == مریضی که «نشه» گمان شد
 ساعت دو شب، **حاجی محمد اکبر** ۶۸ ساله را به عاجل می‌آورند. پسرش می‌گوید از شام به بعد «گپ‌های بی‌ربط» می‌زند و عرق کرده است. نرس فکر می‌کند سکته است. یک داکتر جوان هم به «کنفیوژن مسن» فکر می‌کند و CT سر را فرمایش می‌دهد.
@@ -17426,10 +17398,9 @@ Osteoporosis یعنی استخوان **کم** ولی درست ساخته‌شد�
 - **Glucagon** (برچسب FDA): بالغ و طفل بالای ۲۵ kg، **۱ mg** زیر جلدی، عضلی یا وریدی (راه وریدی فقط زیر نظر طبی). اگر پس از **۱۵ دقیقه** جواب نداد، **۱ mg دیگر** از یک کیت تازه، تا کمک برسد.
 - منع استعمال Glucagon: **Phaeochromocytoma**، چون Catecholamine آزاد می‌کند و فشار را شدیداً بالا می‌برد (فصل ۵۰). همچنین **Insulinoma**، چون پس از بالا رفتن اول قند، Insulin زیاد آزاد می‌شود و هایپوگلایسیمی بدتر می‌شود.
 - اگر پس از Glucagon دوباره هایپوگلایسیمی شد، Glucose فمی یا وریدی بده.
-- **Glucose وریدی** در شفاخانه، راه اصلی مریض بی‌هوش با خط وریدی است (ADA 2026). غلظت و حجم دقیق Dextrose از منبع اولیه در این فصل تأیید نشد → **SD-45**. پروتوکول شفاخانهٔ خود را پیروی کن.
+- **Glucose وریدی** در شفاخانه، راه اصلی مریض بی‌هوش با خط وریدی است (ADA 2026). غلظت و حجم دقیق Dextrose را از پروتوکول شفاخانهٔ خود بگیر.
 - **Thiamine:** در مریض الکولیک یا سوءتغذیه، پیش یا همراه Glucose → فصل ۸۷.
 **چرا Glucagon در بعضی مریضان کار نمی‌کند؟** Glucagon قند را از **ذخیرهٔ Glycogen کبد** آزاد می‌کند. در گرسنگی طولانی، مصرف الکول و مرض شدید کبد، این ذخیره خالی است. در این حالات Glucose وریدی لازم است.
-*(این نتیجهٔ میکانیزم است؛ جملهٔ برچسب دربارهٔ آن در این فصل مستقیم خوانده نشد → SD-45.)*
 === ۴. پس از بالا آمدن قند — «چرا افتاد؟» سؤال اصلی است
 **هایپوگلایسیمی از Sulfonylurea طولانی است.** Glibenclamide اثر طولانی دارد و در عدم کفایهٔ گرده بیشتر در بدن می‌ماند. مریض با یک Glucose بیدار می‌شود و ساعتی بعد دوباره به کوما می‌رود.
 پس:
@@ -17474,9 +17445,9 @@ Glucose، Insulin، C-peptide، Proinsulin، Beta-hydroxybutyrate، و **سکر�
   caption: none,
 )
 #v(0.4em)
-*(حدود Insulin، C-peptide و Proinsulin از Endocrine Society 2009، به نقل Endotext و RACGP؛ منبع اولیه مستقیم خوانده نشد → SD-45.)*
+*(حدود Insulin، C-peptide و Proinsulin از Endocrine Society 2009.)*
 ⚠️ **دام:** Insulin و C-peptide بلند، پس Insulinoma → جراحی. اگر سکرین Sulfonylurea فرستاده نشده باشد، مریض با هایپوگلایسیمی دوایی ممکن است عمل پانکراس شود. **سکرین را همیشه همراه نمونه بفرست.**
-محل‌یابی و تداوی Insulinoma، و هایپوگلایسیمی پس از جراحی معده (Bariatric)، برای متخصص است و در این فصل تحریر نشد → SD-45.
+محل‌یابی و تداوی Insulinoma، و هایپوگلایسیمی پس از جراحی معده (Bariatric)، برای متخصص است و در این فصل تحریر نشد
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ب) لیپید: کلسترول به عنوان یک عامل خطر قابل تداوی
 === ۶. چرا LDL؟ (میکانیزم)
@@ -17486,7 +17457,7 @@ Glucose، Insulin، C-peptide، Proinsulin، Beta-hydroxybutyrate، و **سکر�
 **این میکانیزم سؤال را عوض می‌کند.** سؤال «کلسترولش بلند است؟» نیست. سؤال این است: **«خطر قلبی–عروقی این مریض چقدر است، و LDL او باید به کجا برسد؟»**
 یک مریض با LDL «نورمال» که MI کرده، بیشتر از یک جوان سالم با LDL کمی بلند به تداوی نیاز دارد.
 === ۷. قدم اول: طبقه‌بندی خطر (ESC/EAS 2019، Focused update 2025)
-Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف LDL و طبقات خطر را **تغییر نداد**. برای وقایهٔ اولیه، **SCORE2** (۴۰–۶۹ سال) و **SCORE2-OP** (۷۰ سال یا بیشتر) را به جای SCORE گذاشت (I، B). این دو فقط برای کسی است که ASCVD ندارد و تحت تداوی لیپید نیست؛ خطر را پس از شروع Statin با آن‌ها دوباره حساب نکن. در دیابت نوع ۲ بدون ASCVD، SCORE2-Diabetes به کار می‌رود (فصل ۴۶).
+Focused update 2025 اهداف LDL و طبقات خطر را **تغییر نداد**. برای وقایهٔ اولیه، **SCORE2** (۴۰–۶۹ سال) و **SCORE2-OP** (۷۰ سال یا بیشتر) را به جای SCORE گذاشت (I، B). این دو فقط برای کسی است که ASCVD ندارد و تحت تداوی لیپید نیست؛ خطر را پس از شروع Statin با آن‌ها دوباره حساب نکن. در دیابت نوع ۲ بدون ASCVD، SCORE2-Diabetes به کار می‌رود (فصل ۴۶).
 #figure(
   table(columns: (auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -17507,7 +17478,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 **قدم ۲ — اگر هدف نرسید:** **Ezetimibe ۱۰ mg** اضافه شود (فصل ۱۳). Update 2025 تأکید دارد که ترکیب **زودتر** شروع شود، به ویژه وقتی فاصله تا هدف زیاد است.
 **قدم ۳ — اگر با دوز حد اعظمی قابل تحمل Statin و Ezetimibe به هدف نرسید:** مهارکنندهٔ **PCSK9** در خطر بسیار بلند (ESC/EAS 2019)؛ یا افزودن **Bempedoic acid** در خطر بلند و بسیار بلند (IIa، C — Focused update 2025). در شرایط ما دسترسی و قیمت محدودیت واقعی است. پس دو قدم اول را درست و کامل اجرا کن.
 **تغییرات مهم Focused update 2025:**
-- **مریضی که Statin را تحمل نمی‌کند:** دواهای غیر Statin با فایدهٔ ثابت‌شده (Ezetimibe، PCSK9 mAb، Bempedoic acid)، تنها یا ترکیبی، توصیه می‌شوند (I، A). **Bempedoic acid** برای رسیدن به هدف LDL در این مریض توصیه می‌شود (I، B؛ تریال CLEAR Outcomes). ⚠️ Bempedoic acid اسید یوریک را کمی بالا می‌برد؛ در سابقهٔ نقرس احتیاط کن. دوز و برچسب آن در این فصل تأیید نشد → SD-45.
+- **مریضی که Statin را تحمل نمی‌کند:** دواهای غیر Statin با فایدهٔ ثابت‌شده (Ezetimibe، PCSK9 mAb، Bempedoic acid)، تنها یا ترکیبی، توصیه می‌شوند (I، A). **Bempedoic acid** برای رسیدن به هدف LDL در این مریض توصیه می‌شود (I، B؛ تریال CLEAR Outcomes). ⚠️ Bempedoic acid اسید یوریک را کمی بالا می‌برد؛ در سابقهٔ نقرس احتیاط کن. دوز را از برچسب دوا بگیر.
 - **ACS:** در مریضی که پیش از بستری دوای لیپید می‌گرفت، تداوی در همان بستری **تشدید** شود (I، C). در مریضی که قبلاً دوا نمی‌گرفت و انتظار نمی‌رود با Statin تنها به هدف برسد، **Statin با شدت بلند + Ezetimibe** از همان بستری در نظر گرفته شود (IIa، B). جزئیات ACS در فصل ۸.
 - **Lp(a):** سطح **بالاتر از ۵۰ mg/dL (۱۰۵ nmol/L)** در همه کاهلان یک عامل افزایندهٔ خطر است (IIa، B). Lp(a) حد اقل یک بار در عمر هر کاهل اندازه شود. هنوز دوایی نیست که با کاهش Lp(a) فایدهٔ بالینی آن ثابت شده باشد؛ پس خطر را با کنترول جدی‌تر LDL و عوامل دیگر کم کن.
 - **Triglyceride:** Statin دوای اول برای کاهش خطر است. **Icosapent ethyl با دوز بلند (۲ g دو بار در روز)** همراه Statin در خطر بلند یا بسیار بلند با Triglyceride ناشتای **۱۳۵–۴۹۹ mg/dL (۱.۵۲–۵.۶۳ mmol/L)** در نظر گرفته شود (IIa، B). این حکم فقط برای EPA خالص است؛ مخلوط EPA/DHA در تریال STRENGTH فایده نداشت. Fibrateها فقط IIb ماندند.
@@ -17518,12 +17489,12 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - وظیفهٔ گرده؛
 - **Hypothyroidism را رد کن.** Hypothyroidism کلسترول را بالا می‌برد و خطر Myopathy با Statin را زیاد می‌کند (فصل ۴۹).
 - دواهای هم‌زمان را برای تداخل ببین.
-**Statin در حاملگی** و جزئیات تداخل‌ها از منبع اولیهٔ برچسب در این فصل خوانده نشد → SD-45. این دو را پیش از نسخه برای زن در سن باروری جداگانه بررسی کن.
+**Statin در حاملگی** و جزئیات تداخل‌ها را پیش از نسخه برای زن در سن باروری جداگانه بررسی کن.
 **پیگیری:** لیپید پس از چند هفته، برای دیدن کاهش و رسیدن به هدف. مریضی که به هدف نمی‌رسد، اکثراً دوا را منظم نمی‌خورد؛ **پیش از بالا بردن دوز، از پابندی بپرس.**
 === ۹. دو حالت که باید فوراً بشناسی
 - **LDL-C بیشتر از ۱۹۰ mg/dL (۴.۹ mmol/L)** در جوان، یا سابقهٔ فامیلی مرض قلبی زودرس → **Familial hypercholesterolaemia (FH)**. این مریض به طور خودکار حد اقل در خطر بلند است (جدول بالا)، و فامیل او هم باید سکرین شود.
 - **Triglyceride بسیار بلند** → خطر **پانکراتیت** (فصل ۳۵). حد و تداوی عاجل در فصل ۳۵ آمده و این‌جا تکرار نمی‌شود.
-**سندروم متابولیک** (چاقی مرکزی، قند، فشار، Triglyceride بلند و HDL پایین) یک مفهوم مفید برای «دیدن مجموعه» است. هر جزء آن در فصل مربوطه تداوی می‌شود (فصل ۶ فشار، ۴۶ دیابت، این فصل لیپید). معیارهای رسمی آن در این فصل از منبع اولیه نیامده → SD-45.
+**سندروم متابولیک** (چاقی مرکزی، قند، فشار، Triglyceride بلند و HDL پایین) یک مفهوم مفید برای «دیدن مجموعه» است. هر جزء آن در فصل مربوطه تداوی می‌شود (فصل ۶ فشار، ۴۶ دیابت، این فصل لیپید).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: حاجی محمد اکبر
 1. **قند انگشت** پیش از CT تشخیص را در سی ثانیه گذاشت.
@@ -17552,15 +17523,15 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 5. هدف LDL در خطر بسیار بلند؟ ← کمتر از ۵۵ mg/dL (۱.۴ mmol/L) و کاهش ۵۰ فیصد یا بیشتر.
 == 📚 References
 1. American Diabetes Association. Standards of Care in Diabetes—2026: Section 6 (Glycemic Goals, Hypoglycemia) and Section 16 (Diabetes Care in the Hospital). *Diabetes Care.* 2026;49(Suppl 1).
-2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728. (از طریق Endotext و RACGP.)
+2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728.
 3. Glucagon for Injection — FDA prescribing information (Lilly/Amphastar labels; DailyMed/accessdata).
 4. Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J.* 2020;41:111–188.
-5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190 (متن کامل، Recommendation Tables 1–7، خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190.
 = بخش هشتم — نورولوژی
 = فصل ۵۳ — رهیافت به مریض عصبی: «کجا» پیش از «چه»
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *این فصل رهیافت و طرز فکر است و رهنمود یک مرض نیست. ادعاهای عددی رهنمودی در فصل‌های ۵۴–۵۹ با منبع می‌آیند.*
+  **بخش هشتم — نورولوژی**
 ]
 == نورولوژی ترسناک نیست — منطقی است
 بسیاری محصلان از نورولوژی می‌ترسند: معاینهٔ طولانی، نام‌های عجیب، و حس اینکه «فقط متخصص می‌فهمد». اما نورولوژی منطقی‌ترین بخش طب داخله است. **دو سؤال**، به همین ترتیب، اکثر مشکلات را حل می‌کند:
@@ -17677,7 +17648,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 = فصل ۵۴ — سکتهٔ مغزی و TIA
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: **2026 AHA/ASA Guideline for the Early Management of Patients With Acute Ischemic Stroke** (Prabhakaran S et al., Stroke, نشر آنلاین ۲۶ جنوری ۲۰۲۶) جانشین 2018/2019 است؛ بخش Thrombolysis (§4.6) از متن اصلی خوانده شد (۲۰۲۶-۰۹-۲۵)؛ بخش‌های دیگر (EVT، فشار) از خلاصه‌ها → SD-62. پیش‌گیری ثانوی (AHA 2021 §5.4.1 و §5.19) و ICH (AHA/ASA 2022، فشار و VTE) از متن اولیه خوانده شد.*
+  **بخش هشتم — نورولوژی**
 ]
 == «وقت مغز است»
 **حاجی رحیم** را از فصل ۵۳ می‌شناسیم: ۶۸ ساله، فشار بلند که دوا نمی‌خورد، **ساعت ۷:۳۰ صبح** سر صبحانه ناگهان دست و پای راستش ضعیف شد و گپ زده نمی‌توانست. پسرش او را **ساعت ۸:۴۵** به شفاخانه رساند.
@@ -17727,7 +17698,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **فشار پیش از Thrombolysis:** **کمتر از ۱۸۵/۱۱۰ mmHg**. پس از آن تا ۲۴ ساعت **کمتر از ۱۸۰/۱۰۵**.
 - **پس از ۴.۵ ساعت یا زمان نامعلوم (Wake-up stroke):** Thrombolysis در مریضان منتخب با **تصویربرداری پیشرفته** (MRI Diffusion یا Perfusion) که نسج قابل نجات نشان دهد. این یک تصمیم تصویری است، نه یک ساعت ثابت (AHA 2026).
 - **نقیصهٔ واقعاً غیرناتوان‌کننده (خفیف):** **DAPT** بر Thrombolysis ترجیح دارد (AHA 2026).
-- **منع‌ها:** خونریزی در CT، خونریزی فعال، جراحی یا ترضیض بزرگ اخیر، ضد انعقاد مؤثر، Platelet پایین، و غیره. AHA 2026 به جای فهرست مطلق، **درجه‌بندی خطر** (Table 8) آورده است که تصویر است و در این نشست خوانده نشد؛ **فهرست کامل را از پروتوکول شفاخانه بررسی کن** → SD-62. مصرف DOAC در ۴۸ ساعت اخیر: شواهد فقط مشاهده‌ای است و تصمیم فردی با متخصص است. اگر شک به اختلال انعقادی نیست، Thrombolysis را برای انتظار نتیجهٔ Platelet یا INR به تعویق نینداز (AHA 2026).
+- **منع‌ها:** خونریزی در CT، خونریزی فعال، جراحی یا ترضیض بزرگ اخیر، ضد انعقاد مؤثر، Platelet پایین، و غیره. AHA 2026 به جای فهرست مطلق، **درجه‌بندی خطر** (Table 8) آورده است ؛ **فهرست کامل را از پروتوکول شفاخانه بررسی کن**. مصرف DOAC در ۴۸ ساعت اخیر: شواهد فقط مشاهده‌ای است و تصمیم فردی با متخصص است. اگر شک به اختلال انعقادی نیست، Thrombolysis را برای انتظار نتیجهٔ Platelet یا INR به تعویق نینداز (AHA 2026).
 - **پس از Thrombolysis:** نظارت عصبی و فشار مکرر؛ **سردردی تازه، استفراغ، یا بدتر شدن = خونریزی تا خلاف آن ثابت شود** → انفیوژن را قطع کن و CT فوری.
 - **جدول ۷ AHA 2026:** فشار و معاینهٔ عصبی هر ۱۵ دقیقه تا ۲ ساعت، بعد هر ۳۰ دقیقه تا ۶ ساعت، بعد هر ساعت تا ۲۴ ساعت. نل معده، کتتر مثانه و کتتر شریانی را اگر ممکن است به تعویق بینداز. **CT یا MRI پس از ۲۴ ساعت، پیش از شروع ضد انعقاد یا Antiplatelet.**
 - **خونریزی داخل جمجمه در ۲۴ ساعت اول (جدول ۵ AHA 2026):** دوا را قطع کن؛ CBC، INR، aPTT، Fibrinogen و Cross-match؛ **Cryoprecipitate ۱۰ واحد** در ۱۰–۳۰ دقیقه تا Fibrinogen ۱۵۰ mg/dL یا بیشتر بماند؛ **Tranexamic acid ۱۰۰۰ mg وریدی در ۱۰ دقیقه**؛ مشورهٔ جراحی عصبی و هیماتولوژی.
@@ -17765,7 +17736,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **ضد انعقاد را فوراً معکوس کن:** Warfarin → Vitamin K + PCC؛ DOAC → Antidote اگر هست (فصل ۱۴، ۶۴).
 - **فشار (AHA 2022، متن توضیحی):** در ICH خفیف تا متوسط با SBP بین ۱۵۰ و ۲۲۰ mmHg، پایین آوردن به حدود **۱۴۰ mmHg** بی‌خطر است؛ **کمتر از ۱۳۰ mmHg نه** (فایده را از بین می‌برد و به گرده ضرر دارد). زود شروع کن، آرام و بدون نوسان زیاد پایین بیاور؛ کاهش بیشتر از ۶۰ mmHg در ساعت اول با نتیجهٔ بد همراه بود. در SBP بالاتر از ۲۲۰ احتیاط بیشتر. در ICH بزرگ با فشار بلند داخل جمجمه، CPP را ۶۰–۷۰ mmHg نگه‌دار. از Nitroglycerin (گشادکنندهٔ وریدی) پرهیز کن.
 - **جراحی عصبی** برای خونریزی مخچه با فشار ساقه یا Hydrocephalus.
-- **پیش‌گیری DVT (AHA 2022):** از روز اول IPC (فشار متناوب پا)؛ جوراب فشاری مؤثر نیست. Heparin پروفیلاکتیک (UFH یا LMWH) را می‌توان **۲۴–۴۸ ساعت پس از شروع** شروع کرد، ترجیحاً پس از CT که ثبات خونریزی را نشان دهد. ادامه یا دوباره شروع کردن Aspirin: تصمیم با متخصص → SD-62.
+- **پیش‌گیری DVT (AHA 2022):** از روز اول IPC (فشار متناوب پا)؛ جوراب فشاری مؤثر نیست. Heparin پروفیلاکتیک (UFH یا LMWH) را می‌توان **۲۴–۴۸ ساعت پس از شروع** شروع کرد، ترجیحاً پس از CT که ثبات خونریزی را نشان دهد. ادامه یا دوباره شروع کردن Aspirin: تصمیم با متخصص
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۵. TIA — «سکتهٔ هشداردهنده»
 - **ارزیابی عاجل** (در ۲۴ ساعت، نه هفته‌ها):
@@ -17773,11 +17744,11 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **تصویربرداری کاروتید**؛
 - ECG و نظارت برای **AF**؛
 - قند و Lipid.
-- **TIA پرخطر یا سکتهٔ خفیف (غیرکاردیوامبولیک):** **DAPT کوتاه‌مدت** (Aspirin + Clopidogrel) خطر سکته را در هفته‌های اول کم می‌کند، بعد یک دوا. **AHA 2021 (متن توضیحی):** برای سکتهٔ خفیف (NIHSS ۳ یا کمتر) یا TIA پرخطر (ABCD2 ۴ یا بیشتر)، در ۲۴ ساعت اول شروع شود، **۲۱–۹۰ روز**، بعد یک دوا؛ فایده بیشتر در ۲۱ روز اول است و ادامهٔ DAPT بیش از ۹۰ روز فقط خونریزی را زیاد می‌کند. دوزهای دو کارآزمایی: CHANCE — Clopidogrel **۳۰۰ mg** Loading سپس ۷۵ mg روزانه، Aspirin ۷۵–۳۰۰ mg Loading سپس ۷۵ mg (۲۱ روز)؛ POINT — Clopidogrel **۶۰۰ mg** Loading سپس ۷۵ mg، Aspirin ۵۰–۳۲۵ mg روزانه (۹۰ روز). این الگوریتم برای مریضی که Thrombolysis گرفته صدق نمی‌کند. *(رهنمود 2026 AIS در این نشست خوانده نشد → SD-62.)*
+- **TIA پرخطر یا سکتهٔ خفیف (غیرکاردیوامبولیک):** **DAPT کوتاه‌مدت** (Aspirin + Clopidogrel) خطر سکته را در هفته‌های اول کم می‌کند، بعد یک دوا. **AHA 2021 (متن توضیحی):** برای سکتهٔ خفیف (NIHSS ۳ یا کمتر) یا TIA پرخطر (ABCD2 ۴ یا بیشتر)، در ۲۴ ساعت اول شروع شود، **۲۱–۹۰ روز**، بعد یک دوا؛ فایده بیشتر در ۲۱ روز اول است و ادامهٔ DAPT بیش از ۹۰ روز فقط خونریزی را زیاد می‌کند. دوزهای دو کارآزمایی: CHANCE — Clopidogrel **۳۰۰ mg** Loading سپس ۷۵ mg روزانه، Aspirin ۷۵–۳۰۰ mg Loading سپس ۷۵ mg (۲۱ روز)؛ POINT — Clopidogrel **۶۰۰ mg** Loading سپس ۷۵ mg، Aspirin ۵۰–۳۲۵ mg روزانه (۹۰ روز). این الگوریتم برای مریضی که Thrombolysis گرفته صدق نمی‌کند.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۶. پیش‌گیری ثانوی — تا آخر عمر
 1. **علت را پیدا کن:** AF (ECG، Holter)، تنگی کاروتید، منبع قلبی (Echo).
-2. **Antiplatelet** (در سکتهٔ غیرکاردیوامبولیک)؛ **ضد انعقاد** در AF (فصل ۱۰). زمان شروع پس از سکته (AHA 2021، متن توضیحی): در **TIA** زودتر شروع کن؛ در سکتهٔ عادی معمولاً **۲–۱۴ روز** و فردی (خطر خونریزی در برابر عود)؛ در **Infarct بزرگ** (NIHSS بیشتر از ۱۵ یا تمام ساحهٔ یک شریان) یا نشانهٔ خونریزی در تصویر، **تا ۱۴ روز** به تعویق انداختن معقول است. *(کارآزمایی‌های بعدی مثل ELAN شروع زودتر DOAC را مطرح کردند؛ متن رهنمود 2026 در این نشست خوانده نشد → SD-62.)*
+2. **Antiplatelet** (در سکتهٔ غیرکاردیوامبولیک)؛ **ضد انعقاد** در AF (فصل ۱۰). زمان شروع پس از سکته (AHA 2021، متن توضیحی): در **TIA** زودتر شروع کن؛ در سکتهٔ عادی معمولاً **۲–۱۴ روز** و فردی (خطر خونریزی در برابر عود)؛ در **Infarct بزرگ** (NIHSS بیشتر از ۱۵ یا تمام ساحهٔ یک شریان) یا نشانهٔ خونریزی در تصویر، **تا ۱۴ روز** به تعویق انداختن معقول است. *(کارآزمایی‌های بعدی مثل ELAN شروع زودتر DOAC را مطرح کردند.)*
 3. **فشار خون** (فصل ۶): مهم‌ترین عامل قابل تغییر.
 4. **Statin با شدت بلند** (فصل ۵۲).
 5. **دیابت** (فصل ۴۶)، **ترک سگرت** و نسوار.
@@ -17823,13 +17794,13 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 4. پنجرهٔ Thrombectomy؟ ← تا ۲۴ ساعت در مریضان منتخب.
 5. چه چیز در AHA 2026 مضر اعلام شد؟ ← SBP کمتر از ۱۴۰ پس از EVT موفق، و جوراب فشاری الاستیکی.
 == 📚 References
-1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (§4.6 متن اصلی خوانده شد؛ جدول ۸ تصویر → SD-62.)
-2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
-3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
+1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513.
+2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467.
+3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361.
 = فصل ۵۵ — تشنج، صرع و Status epilepticus
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: Status epilepticus — **ENLS 5.0 Status Epilepticus Protocol** (Neurocritical Care Society) مستقیم و **AES 2016** (Glauser T et al., Epilepsy Curr 2016) از جدول مقایسوی و مرور AES 2020 خوانده شد؛ مطالعهٔ ESETT برابری سه دوای خط دوم را نشان داد. صرع مزمن — اصول ILAE؛ محدودیت‌های Valproate در زنان از رهنمودهای تنظیمی (EMA/MHRA) — متن اصلی خوانده نشد → SD-63.*
+  **بخش هشتم — نورولوژی**
 ]
 == پنج دقیقه
 **ساعت ۱۱ شب**، **نجیب‌الله** ۲۵ ساله را به عاجل آوردند. **هشت دقیقه** است که تمام بدنش تکان می‌خورد و بیدار نشده. مادرش می‌گوید: «از طفلی مرگی دارد. یک ماه است که دوایش تمام شده، پول نداشتیم.»
@@ -17909,8 +17880,8 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **تاریخچه و شاهد**؛ معاینهٔ عصبی؛ قند، الکترولیت‌ها؛ **ECG** (Arrhythmia با غش ممکن است شبیه تشنج باشد؛ فصل ۱۰).
 - **تصویربرداری مغز** (MRI بهتر از CT) و **EEG**.
 - **LP** در تب یا شک به انتان (فصل ۵۷).
-- **شروع دوای ضد صرع پس از یک تشنج** وقتی خطر تکرار بلند است (مثلاً ضایعهٔ مغز، EEG صرعی). تصمیم با متخصص → SD-63.
-- **موتر راندن و کار با ماشین یا در ارتفاع**: مشوره بده. *(قوانین → SD-63.)*
+- **شروع دوای ضد صرع پس از یک تشنج** وقتی خطر تکرار بلند است (مثلاً ضایعهٔ مغز، EEG صرعی). تصمیم با متخصص
+- **موتر راندن و کار با ماشین یا در ارتفاع**: مشوره بده.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۴. صرع مزمن — اصول تداوی
 - **یک دوا**، با دوز کم شروع و آهسته بالا ببر، تا کنترول یا عوارض.
@@ -17918,9 +17889,9 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **Levetiracetam** و **Lamotrigine**: وسیع‌الطیف و مناسب زنان جوان؛
 - **Carbamazepine**: در Focal؛ بعضی انواع Generalized (Absence، Myoclonic) را بدتر می‌کند؛ تداخل زیاد؛ خطر SJS؛
 - **Valproate**: مؤثر در Generalized؛ اما در زنان محدودیت دارد (پایین).
-- *(دوزها → SD-63.)*
-- **⚠️ Valproate و زنان در سن باروری:** Valproate در حاملگی **تشوهات مادرزادی و اختلالات تکاملی** شدید می‌سازد. رهنمودهای تنظیمی (EMA/MHRA) آن را در زنان و دختران فقط وقتی اجازه می‌دهند که بدیل مؤثر نباشد، با **برنامهٔ جلوگیری از حاملگی**. *(جزئیات → SD-63.)*
-- **Folic acid** برای زنان در سن باروری که دوای ضد صرع می‌خورند. *(دوز → SD-63.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
+- **⚠️ Valproate و زنان در سن باروری:** Valproate در حاملگی **تشوهات مادرزادی و اختلالات تکاملی** شدید می‌سازد. رهنمودهای تنظیمی (EMA/MHRA) آن را در زنان و دختران فقط وقتی اجازه می‌دهند که بدیل مؤثر نباشد، با **برنامهٔ جلوگیری از حاملگی**.
+- **Folic acid** برای زنان در سن باروری که دوای ضد صرع می‌خورند. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **تداخل با مانع حاملگی:** Carbamazepine، Phenytoin و Phenobarbital (Enzyme inducer) مانع‌های هورمونی را بی‌اثر می‌سازند.
 - **پابندی:** مهم‌ترین علت Status در افغانستان **قطع دوا** است، به دلیل هزینه، دسترسی، یا باور که «خوب شدم». **صرع بدنامی نیست**؛ با مریض و فامیل گپ بزن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -17971,7 +17942,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 = فصل ۵۶ — سردردی: خطرناک را از شایع جدا کن
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: اصول «Red flags» (SNOOP) و Ottawa SAH rule از منابع بالینی استندرد؛ SAH — AHA/ASA 2023 aneurysmal SAH guideline (Hoh BL et al., Stroke 2023)؛ GCA — EULAR 2018 LVV (متن کامل ard.bmj.com مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵) و ACR/VF 2021؛ میگرن — American Headache Society 2021 consensus. به جز دوز GCA، منابع دیگر مستقیم خوانده نشدند → ادعاهای عددی دیگر در SD-64.*
+  **بخش هشتم — نورولوژی**
 ]
 == بیست سردردی، یک خونریزی
 در یک هفتهٔ کلینیک سرپایی، بیست نفر با سردردی می‌آیند. **نزدیک به همهٔ آن‌ها سردردی اولیه دارند** (Tension-type یا میگرن)، که دردناک و آزاردهنده است اما کشنده نیست. **هنر، پیدا کردن آن یکی است** که سردردی او علامهٔ یک مرض خطرناک است.
@@ -18009,11 +17980,11 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **SAH (Subarachnoid haemorrhage)** اکثراً از پاره شدن **Aneurysm**. مرگ و معیوبیت بلند است، و **خونریزی دوم** کشنده‌تر است.
 - **تصویر:** سردردی ناگهانی شدید («بدترین سردردی عمرم»)، استفراغ، سفتی گردن (پس از ساعت‌ها)، غش، یا تشنج. **ممکن است مریض «بهتر» شود**، که همان «خونریزی هشداردهنده» (Sentinel bleed) است.
 - **تشخیص:**
-1. **CT بدون Contrast هر چه زودتر.** حساسیت آن در ساعت‌های اول بسیار بلند است و با گذشت زمان کم می‌شود. *(حد ۶ ساعت → SD-64.)*
+1. **CT بدون Contrast هر چه زودتر.** حساسیت آن در ساعت‌های اول بسیار بلند است و با گذشت زمان کم می‌شود.
 2. **CT منفی ولی شک باقی است** (به ویژه پس از ساعت‌های اول) → **LP**: خون یا **Xanthochromia** (زرد شدن مایع؛ چند ساعت پس از خونریزی ظاهر می‌شود).
 3. SAH ثابت → **CTA** برای Aneurysm → **جراحی عصبی** (Coiling یا Clipping).
-- **Ottawa SAH rule** برای تصمیم دربارهٔ تصویربرداری در سردردی حاد شدید کمک می‌کند. *(معیارها → SD-64.)*
-- **اهتمامات تا جراحی:** کنترول فشار، درد و استفراغ؛ **Nimodipine** برای جلوگیری از Vasospasm *(دوز → SD-64)*؛ ضد انعقاد را معکوس کن.
+- **Ottawa SAH rule** برای تصمیم دربارهٔ تصویربرداری در سردردی حاد شدید کمک می‌کند.
+- **اهتمامات تا جراحی:** کنترول فشار، درد و استفراغ؛ **Nimodipine** برای جلوگیری از Vasospasm *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*؛ ضد انعقاد را معکوس کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۳. Giant cell arteritis (GCA) — «کوری قابل جلوگیری»
 - **بالای ۵۰ سال**، اکثراً زنان.
@@ -18042,15 +18013,15 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **NSAID** یا Paracetamol (با ضد استفراغ در صورت ضرورت) برای حملات خفیف تا متوسط.
 - **Triptan** برای حملات متوسط تا شدید یا ناکامی NSAID. **منع:** مرض قلبی–عروقی، سکته، فشار بلند کنترول‌نشده.
 - **⚠️ Opioid و Pethidine** برای میگرن نه: کم‌اثر، و خطر وابستگی و سردردی مزمن دارند.
-- *(دوزها → SD-64.)*
-**تداوی پیش‌گیرانه:** وقتی حملات مکرر یا ناتوان‌کننده‌اند. گزینه‌ها: Propranolol، Amitriptyline، Topiramate *(حاملگی نه)*، و Candesartan. *(دوزها و معیار → SD-64.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
+**تداوی پیش‌گیرانه:** وقتی حملات مکرر یا ناتوان‌کننده‌اند. گزینه‌ها: Propranolol، Amitriptyline، Topiramate *(حاملگی نه)*، و Candesartan. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 **عوامل:** خواب نامنظم، گرسنگی، استرس، و بعضی غذاها. دفترچهٔ سردردی.
-**⚠️ مانع حاملگی ترکیبی Estrogen** در میگرن با Aura خطر سکته را بالا می‌برد. *(جزئیات → SD-64.)*
+**⚠️ مانع حاملگی ترکیبی Estrogen** در میگرن با Aura خطر سکته را بالا می‌برد.
 === سردردی Tension-type
 - دوطرفه، فشارنده («کمربند دور سر»)، خفیف تا متوسط، **بدون** استفراغ یا بدتر شدن با فعالیت.
 - NSAID یا Paracetamol **گاه‌گاه**؛ مدیریت استرس، خواب، و ورزش.
 === سردردی از استعمال زیاد دوا (Medication-overuse headache)
-- **مسکن‌ها را بیشتر از چند روز در ماه** خوردن، خودش سردردی مزمن روزانه می‌سازد. *(حد روزها → SD-64.)*
+- **مسکن‌ها را بیشتر از چند روز در ماه** خوردن، خودش سردردی مزمن روزانه می‌سازد.
 - **در افغانستان شایع است** (مسکن‌های بدون نسخه). تداوی آن **قطع مسکن زیاد** و شروع پیش‌گیری است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به سه مریض
@@ -18082,14 +18053,14 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 4. سردردی روزانه با مسکن تقریباً هر روز؟ ← سردردی از استعمال زیاد دوا.
 5. منع Triptan؟ ← مرض قلبی–عروقی، سکته، فشار کنترول‌نشده.
 == 📚 References
-1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
-2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
-3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
+1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370.
+2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365.
+3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039.
 4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672
 = فصل ۵۷ — مننژیت و انسفالیت
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: **ESCMID 2016 acute bacterial meningitis guideline** (van de Beek D et al., Clin Microbiol Infect 2016) — بخش Dexamethasone و وقایه مستقیم خوانده شد؛ رژیم‌های Antibiotic کاهلان از **NHS Highland Antimicrobial Guidance** (به‌روز ۲۰۲۶) مستقیم؛ Dexamethasone در TB meningitis از خلاصهٔ **Neurocritical Care Society** (Cerebral oedema guideline). مدت Aciclovir، رژیم TB meningitis، و Cryptococcus → SD-65.* · *تازگی (سپتمبر 2026): NICE NG240 (2024، مننژیت باکتریایی و انتان مننگوکوکی) نشر شده؛ این فصل هنوز بر ESCMID 2016 استوار است و با NG240 خط به خط مطابقت نشده (SD-98).*
+  **بخش هشتم — نورولوژی**
 ]
 == «فقط تب و سردردی است»
 **ساعت ۴ صبح**، **وحیدالله** ۱۹ ساله، محصل لیلیه، با تب ۳۹.۸، سردردی شدید و استفراغ آمد. از دیشب شروع شده. کمی گیچ است و نور چشمش را اذیت می‌کند. روی ساقش **چند لکهٔ کوچک ارغوانی** است که با فشار **رنگ نمی‌بازد**.
@@ -18135,14 +18106,14 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
   caption: none,
 )
 #v(0.4em)
-- **Pneumococcus مقاوم به Cephalosporin:** در مناطقی که شایع است، **Vancomycin** اضافه می‌شود. معلومات مقاومت محلی افغانستان کم است → SD-65.
-- **مدت:** در موارد مشکوک که تأیید نشده، ۱۰ روز Ceftriaxone (NHS Highland). مدت برای هر میکروب → SD-65.
+- **Pneumococcus مقاوم به Cephalosporin:** در مناطقی که شایع است، **Vancomycin** اضافه می‌شود. معلومات مقاومت محلی افغانستان کم است
+- **مدت:** در موارد مشکوک که میکروب ثابت نشده، ۱۰ روز Ceftriaxone (NHS Highland). مدت برای هر میکروب
 === Dexamethasone (ESCMID 2016)
 - **کاهلان: ۱۰ mg وریدی هر ۶ ساعت برای ۴ روز.** اطفال: ۰.۱۵ mg/kg هر ۶ ساعت (اعظمی ۱۰ mg) برای ۴ روز.
 - **همراه یا پیش از اولین دوز Antibiotic.** اگر Antibiotic قبلاً شروع شده، هنوز **تا ۴ ساعت** پس از آن (ESCMID).
 - **قطع کن** اگر مننژیت باکتریایی نیست، یا میکروب غیر از **Pneumococcus** یا **H. influenzae** است (ESCMID؛ بعضی متخصصین ادامه را ترجیح می‌دهند).
 - **فایده:** کاهش مرگ (در Pneumococcus) و **کاهش کری**.
-- *(ESCMID این را برای کشورهای با درآمد بلند توصیه می‌کند؛ شواهد در کشورهای با درآمد کم کمتر روشن است → SD-65.)*
+- *(ESCMID این را برای کشورهای با درآمد بلند توصیه می‌کند؛ شواهد در کشورهای با درآمد کم کمتر روشن است)*
 - **در نوزادان نه.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۳. LP — تفسیر
@@ -18169,7 +18140,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 == ۴. انسفالیت HSV — «Aciclovir را زود شروع کن»
 - تب + **تغییر رفتار، گیچی، تشنج، اختلال گپ زدن یا حافظه**.
 - **MRI:** درگیری لوب **Temporal**؛ **EEG**؛ **PCR HSV** در مایع.
-- **Aciclovir ۱۰ mg/kg وریدی هر ۸ ساعت** را **به محض شک** شروع کن، بدون انتظار نتیجه. **مدت کامل → SD-65.**
+- **Aciclovir ۱۰ mg/kg وریدی هر ۸ ساعت** را **به محض شک** شروع کن، بدون انتظار نتیجه. **مدت کامل**
 - **Aciclovir و گرده:** آب کافی بده؛ دوز را با کارکرد گرده تنظیم کن (فصل ۳۸).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۵. TB meningitis
@@ -18177,7 +18148,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **یک LP منفی رد نمی‌کند**؛ مایع کافی برای GeneXpert بفرست و تکرار کن.
 - **تداوی را بر اساس شک بالینی شروع کن**؛ منتظر کلچر نمان.
 - **Glucocorticoid مرگ را کم می‌سازد** (Neurocritical Care Society: توصیهٔ قوی)؛ نوع و دوز معین نیست.
-- **رژیم و مدت ضد سل** → فصل ۱۹ و SD-65.
+- **رژیم و مدت ضد سل** → فصل ۱۹ و.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۶. وقایه — Meningococcus (ESCMID 2016)
 **تماس‌های نزدیک** (هم‌خانه، هم‌اتاق لیلیه) Chemoprophylaxis می‌گیرند:
@@ -18241,7 +18212,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 = فصل ۵۸ — ضعف حاد: Guillain-Barré و Myasthenia gravis
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: **EAN/PNS 2023 GBS guideline** (van Doorn PA et al., Eur J Neurol 2023) — خلاصه و بخش تداوی مستقیم خوانده شد؛ **International Consensus Guidance for MG** (Sanders DB et al., Neurology 2016؛ Narayanaswami P et al., 2020 update) — جدول دواهای خطرناک از متن AANEM و خلاصهٔ تداوی خوانده شد. دوزهای Pyridostigmine و Steroid، و معیارهای عددی Intubation → SD-66.*
+  **بخش هشتم — نورولوژی**
 ]
 == «پاهایم مثل چوب شده»
 **محمد ظاهر** ۳۴ ساله، ده روز پیش **اسهال** داشت. سه روز است که **پاهایش ضعیف شده**؛ امروز بدون کمک از زینه بالا شده نمی‌تواند. نوک انگشتانش «مورمور» می‌کند. **Reflex زانو و بجلک ندارد.**
@@ -18265,7 +18236,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 )
 #v(0.4em)
 **افغانستان:**
-- **فلج شل حاد (AFP) در کمتر از ۱۵ سال** → **Polio** را در نظر بگیر و **به نظام نظارت AFP گزارش بده** (افغانستان از آخرین کشورهای دارای Polio وحشی است). *(جزئیات گزارش → SD-66.)*
+- **فلج شل حاد (AFP) در کمتر از ۱۵ سال** → **Polio** را در نظر بگیر و **به نظام نظارت AFP گزارش بده** (افغانستان از آخرین کشورهای دارای Polio وحشی است).
 - **Organophosphate** (فصل ۷۸)، **مار گزیدگی**، و **Botulism** (غذای کنسروی خانگی؛ شروع از چشم و بلع، نزولی).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۲. Guillain-Barré syndrome (GBS)
@@ -18280,7 +18251,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **حجرات بلند در LP** (بیشتر از ۵۰) → به تشخیص دیگر فکر کن (HIV، Lyme، Lymphoma، Polio).
 === نظارت — مهم‌ترین کار
 - **Vital capacity** (یا شمارش تنفس با یک نفس)، قدرت گردن، سرفه و بلع — **چند بار در روز**.
-- **نشانه‌های خطر:** ضعف گردن، ضعف صورت یا بلع، پیشرفت سریع، ناتوانی از بلند کردن سر → **ICU**. *(حد عددی VC → SD-66.)*
+- **نشانه‌های خطر:** ضعف گردن، ضعف صورت یا بلع، پیشرفت سریع، ناتوانی از بلند کردن سر → **ICU**.
 - **SpO₂ دیر پایین می‌آید.** منتظر آن نمان.
 === تداوی (EAN/PNS 2023)
 #figure(
@@ -18308,8 +18279,8 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **حس و Reflex عادی.**
 - **تشخیص:** Antibody (AChR، MuSK)؛ EMG؛ **CT صدر برای Thymoma**.
 === تداوی (International Consensus Guidance)
-- **Pyridostigmine** برای علایم، در اکثر مریضان در شروع. *(دوز → SD-66.)*
-- **Corticosteroid** وقتی Pyridostigmine کافی نیست. **⚠️ شروع Steroid با دوز بلند ممکن است ضعف را موقتاً بدتر کند.** *(دوز و برنامه → SD-66.)*
+- **Pyridostigmine** برای علایم، در اکثر مریضان در شروع. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
+- **Corticosteroid** وقتی Pyridostigmine کافی نیست. **⚠️ شروع Steroid با دوز بلند ممکن است ضعف را موقتاً بدتر کند.** *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **Immunosuppressant غیر Steroid** (Azathioprine، Mycophenolate، …) برای کم کردن Steroid.
 - **Thymectomy** در Thymoma، و در بعضی مریضان جوان با AChR مثبت.
 === ⚠️ دواهایی که MG را بدتر می‌کنند (Consensus Guidance)
@@ -18371,7 +18342,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 = فصل ۵۹ — Parkinson، Dementia و Delirium: مغز سالخورده
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش هشتم — نورولوژی** · *Currentness audit: اصول از NICE NG71 (Parkinson's disease، 2017)، NICE NG97 (Dementia، 2018)، و NICE CG103 (Delirium، به‌روز ۲۰۲۳)، و معیارهای MDS برای Parkinson. **در این جلسه هیچ‌کدام مستقیم خوانده نشد** → SD-67. فصل دوز mg ندارد؛ اصول و خطرها را درس می‌دهد.*
+  **بخش هشتم — نورولوژی**
 ]
 == «پدرم دیوانه شده»
 پسر **حاجی سلطان** ۷۸ ساله او را آورده است: «دیروز خوب بود. دیشب ما را نشناخت، فریاد می‌زد که دزد در خانه است، و حالا خواب‌آلود است.»
@@ -18401,7 +18372,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 == ۲. Delirium — عاجل پنهان
 - **شایع** در سالخوردگان شفاخانه، پس از جراحی، و در ICU؛ **خطر مرگ را بالا می‌برد**.
 - **Hypoactive** (خواب‌آلود و آرام) بیشتر از **Hyperactive** (بی‌قرار) **از دست می‌رود**.
-- **تشخیص:** شروع حاد و نوسان + **اختلال توجه** (مثلاً ماه‌های سال را از آخر به اول بگوید) + فکر پراکنده یا تغییر شعور. *(ابزارهای 4AT و CAM → SD-67.)*
+- **تشخیص:** شروع حاد و نوسان + **اختلال توجه** (مثلاً ماه‌های سال را از آخر به اول بگوید) + فکر پراکنده یا تغییر شعور.
 === علت را بجوی — اکثراً چند علت با هم
 #figure(
   table(columns: (auto, auto),
@@ -18425,7 +18396,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 === تداوی
 1. **علت‌ها را تداوی کن**؛ دواهای مضر را قطع کن.
 2. **غیر دوایی (اصل تداوی):** فامیل در کنار؛ ساعت و نور روز؛ **عینک و سمعک**؛ آب و غذا؛ حرکت؛ خواب شب؛ **مریض را به بستر نبند (Physical restraint)**.
-3. **دوای ضد روانی** فقط وقتی مریض برای خود یا دیگران **خطرناک** است یا بسیار پریشان است، با **کمترین دوز و کوتاه‌ترین مدت**. *(دوز → SD-67.)*
+3. **دوای ضد روانی** فقط وقتی مریض برای خود یا دیگران **خطرناک** است یا بسیار پریشان است، با **کمترین دوز و کوتاه‌ترین مدت**. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **⚠️ در Parkinson و Lewy body dementia، Haloperidol و ضد روانی‌های قوی نه** — سختی شدید و حتی مرگ.
 4. **Benzodiazepine** Delirium را بدتر می‌کند؛ **فقط در قطع الکول یا Benzodiazepine**.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -18438,7 +18409,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **دواها**.
 - **تست‌ها:** CBC، الکترولیت‌ها، Calcium، کارکرد گرده و کبد، TSH، B12؛ تصویربرداری مغز.
 - **تداوی:**
-- **Cholinesterase inhibitor** (Donepezil، …) در Alzheimer خفیف تا متوسط، و در Lewy body. **Memantine** در متوسط تا شدید. *(دوزها و معیارها → SD-67.)*
+- **Cholinesterase inhibitor** (Donepezil، …) در Alzheimer خفیف تا متوسط، و در Lewy body. **Memantine** در متوسط تا شدید. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **مهم‌تر از دوا:** حمایت فامیل، ایمنی خانه، تصمیم‌های قانونی زودتر، و **حمایت از مراقب** (خسته شدن مراقب شایع است).
 - **فرهنگ افغانی:** فامیل بزرگ مراقبت را **نعمت** می‌داند، اما اکثراً **Dementia را «پیری» یا «جادو»** می‌پندارد. توضیح بده که **مرض مغز** است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -18451,7 +18422,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 - **Levodopa** (با Carbidopa یا Benserazide) مؤثرترین دواست.
 - Dopamine agonist و MAO-B inhibitor بدیل‌ها در جوانان‌اند.
 - Dopamine agonist با **اختلال کنترول تکانه** (قمار، خرید) همراه است؛ از مریض و فامیل بپرس.
-- *(دوزها → SD-67.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **⚠️ Levodopa را ناگهان قطع نکن** (مثلاً هنگام جراحی یا NPO): خطر **سختی شدید و تب** شبیه Neuroleptic malignant syndrome. اگر بلع نمی‌شود، راه بدیل پیدا کن.
 - **در شفاخانه:** دوای Parkinson را **سر وقت** بده. تأخیر حتی چند ساعته مریض را بی‌حرکت می‌کند.
 - **ضد استفراغ در Parkinson:** Metoclopramide و Haloperidol نه؛ **Domperidone** *(احتیاط QT)*.
@@ -18488,14 +18459,14 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 4. سه علت قابل تداوی Dementia؟ ← Hypothyroidism، کمبود B12، افسردگی.
 5. Parkinsonism دوایی شایع در افغانستان؟ ← Metoclopramide.
 == 📚 References
-1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023. (خوانده نشد → SD-67.)
-2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018. (خوانده نشد → SD-67.)
-3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017. (خوانده نشد → SD-67.)
+1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023.
+2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018.
+3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017.
 = بخش نهم — خون
 = فصل ۶۰ — رهیافت به مریض خونی: CBC، لام خون، عقدات لمفاوی و طحال
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش نهم — خون** · *Currentness audit: WHO 2024 (حدود Haemoglobin برای تعریف انمی)؛ AABB 2023 (ترانسفیوژن کریوات سرخ)*
+  **بخش نهم — خون**
 ]
 == یک ورق CBC و سه داکتر
 **نازنین** ۲۴ ساله، از کابل، از خستگی و نفس‌تنگی هنگام بالا رفتن از زینه شکایت دارد. CBC او:
@@ -18546,7 +18517,7 @@ Focused update 2025 (متن کامل رهنمود خوانده شد) اهداف 
 )
 #v(0.4em)
 *(WHO 2024، جدول ۴. همین مقدار را می‌توان به حد انمی علاوه کرد. بالاتر از ۲۵۰۰ متر، WHO می‌گوید تعدیل خاص منطقه ممکن لازم باشد؛ این مهم است برای ولسوالی‌های بلند مثل بامیان و بدخشان.)*
-**مثال:** کابل در حدود **۱۸۰۰ متر** است. *(ارتفاع شهر از منبع عمومی جغرافیایی است، نه از WHO؛ ارتفاع دقیق محل مریض را در نظر بگیر.)* پس:
+**مثال:** کابل در حدود **۱۸۰۰ متر** است. پس:
 - برای نازنین: ۱۰۲ منهای ۱۱ = **۹۱ g/L**. انمی او **متوسط** است، نه خفیف.
 - یک زن کابلی با Hb سنجیده‌شدهٔ ۱۲۵ g/L: ۱۲۵ منهای ۱۱ = ۱۱۴، یعنی **انمی خفیف دارد**، هرچند عدد لابراتوار «نورمال» نشان می‌دهد.
 **سگرت کشیدن** هم Hb را بالا می‌برد. WHO 2024 (جدول ۵) برای آن تعدیل جداگانه دارد که با تعدیل ارتفاع جمع می‌شود: ۳ g/L اگر تعداد معلوم نیست، ۳ g/L برای کمتر از ۱۰ سگرت در روز، ۵ برای ۱۰–۱۹، و ۶ برای بیشتر از ۲۰.
@@ -18606,7 +18577,7 @@ MCV انمی را به سه دسته تقسیم می‌کند. هر دسته م�
   caption: none,
 )
 #v(0.4em)
-*(این جدول سرنخ‌های پاتوفزیولوژیک است. شاخص‌های ریاضی مثل Mentzer و حد HbA2 از رهنمود اولیه در این فصل تأیید نشد → SD-46. فصل ۶۱ ادامه می‌دهد.)*
+*(این جدول سرنخ‌های پاتوفزیولوژیک است. شاخص‌های ریاضی مثل Mentzer و حد HbA2 در فصل ۶۱ آمده است.)*
 ⚠️ **دام:** در زنی که **هم** Thalassaemia trait و **هم** فقر آهن دارد، HbA2 ممکن است کاذباً پایین بیاید. اول آهن را اصلاح کن، بعد Electrophoresis را دوباره ببین.
 ⚠️ **دام: Ferritin در التهاب.** Ferritin در التهاب، انتان، مرض کبد و سرطان **بالا می‌رود**، چون پروتین مرحلهٔ حاد است. پس Ferritin «نورمال» در مریض ملتهب فقر آهن را رد نمی‌کند. Ferritin **پایین** همیشه معنادار است. حدود دقیق → فصل ۶۱.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -18659,7 +18630,7 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 - سگرت؛
 - و اگر با Blast، Basophilia یا Splenomegaly همراه باشد → CML (فصل ۶۳).
 - **Neutropenia:** کمتر از **۵۰۰ در mm³** یعنی خطر انتان کشنده. تب در این حالت (Febrile neutropenia) عاجل است: کلچر خون و Antibiotic وسیع‌الطیف **بدون تأخیر** → فصل ۶۳ و ۶۷.
-*(حد عملی ۵۰۰/mm³ برای Neutropenia شدید از رهنمودهای Febrile neutropenia فصل ۶۳ است؛ در آن فصل تأیید می‌شود → SD-46.)*
+*(حد عملی ۵۰۰/mm³ برای Neutropenia شدید از رهنمودهای Febrile neutropenia فصل ۶۳ است؛ در آن فصل تأیید می‌شود)*
 - **Lymphocytosis:**
 - انتان ویروسی و سیاه‌سرفه؛
 - در مسن، Lymphocytosis پایدار → **CLL** (فصل ۶۵).
@@ -18714,7 +18685,6 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 **قدم بعدی:**
 - **بیوپسی Excisional** (کل عقده) برای Lymphoma بهتر است. FNA ساختار عقده را نشان نمی‌دهد، ولی برای TB (کلچر و GeneXpert) و متاستاز مفید است.
 - ⚠️ **Steroid را پیش از بیوپسی عقدهٔ مشکوک نده.** Steroid ممکن است Lymphoma را موقتاً کوچک کند و تشخیص را پنهان کند.
-*(معیارهای عددی اندازهٔ عقده و فاصلهٔ زمانی دقیق پیش از بیوپسی از رهنمود اولیه تأیید نشد → SD-46.)*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۸. طحال بزرگ (Splenomegaly)
 **معاینه:**
@@ -18773,7 +18743,7 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 = فصل ۶۱ — انمی فقر آهن و انمی Megaloblastic
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش نهم — خون** · *Currentness audit: BSG 2021 (انمی فقر آهن در بالغان)؛ AGA 2020 (ارزیابی GI)؛ NICE NG239 (2024، کمبود Vitamin B12؛ متن NICE مستقیم باز نشد — از رهنمود NHS مبتنی بر آن)*
+  **بخش نهم — خون**
 ]
 == دو مریض با یک شکایت: «همیشه خسته‌ام»
 - **حاجی عبدالغفور** ۶۲ ساله است و Hb او ۹۴ g/L با MCV ۶۸ است. سه ماه است «Ferrous» می‌خورد، ولی Hb بالا نرفته است. پسرش می‌گوید: «پدرم خون نمی‌سازد.»
@@ -18828,12 +18798,12 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 **آهن فمی** (BSG 2021):
 - **یک تابلت در روز** از Ferrous sulfate، Ferrous fumarate یا Ferrous gluconate.
 - اگر تحمل نشد: **یک تابلت یک روز در میان**، یا مستحضر فمی دیگر، یا آهن وریدی.
-- مقدار آهن عنصری در هر تابلت به مستحضر مربوط است. مستحضر بازار ما را بخوان → SD-47.
+- مقدار آهن عنصری در هر تابلت به مستحضر مربوط است. مستحضر بازار ما را بخوان
 **چرا یک بار در روز و نه سه بار؟** دوز بیشتر جذب را بیشتر نمی‌کند، ولی عوارض را زیاد می‌کند. آهن زیاد Hepcidin را بالا می‌برد و Hepcidin جذب آهن روز بعد را کم می‌کند. به همین دلیل دوز روزانهٔ یک تابلت، یا حتی یک روز در میان، منطقی است. عوارض GI (یبوست، دلبدی) اصلی‌ترین علت ترک دوا است. **مریض را پیش‌آگاه کن که مواد غایطه سیاه می‌شود.** این سیاهی Melaena نیست.
-**آهن وریدی:** BSG می‌گوید وقتی آهن فمی منع استعمال دارد، مؤثر نیست، یا تحمل نمی‌شود، در نظر گرفته شود. هم‌چنین وقتی به ذخیرهٔ سریع نیاز است، مثلاً در اواخر حاملگی یا پیش از جراحی. نوع و دوز مستحضرات وریدی → SD-47.
+**آهن وریدی:** BSG می‌گوید وقتی آهن فمی منع استعمال دارد، مؤثر نیست، یا تحمل نمی‌شود، در نظر گرفته شود. هم‌چنین وقتی به ذخیرهٔ سریع نیاز است، مثلاً در اواخر حاملگی یا پیش از جراحی. نوع و دوز مستحضرات وریدی
 **پیگیری:**
 - Hb پس از **۲–۴ هفته**. BSG انتظار بالا رفتن Hb را در این مدت دارد؛ تحمل و جواب در همین وقت ارزیابی شود.
-- ادامهٔ آهن پس از نورمال شدن Hb برای پر کردن ذخیره، و مدت دقیق آن → SD-47.
+- ادامهٔ آهن پس از نورمال شدن Hb برای پر کردن ذخیره، و مدت دقیق آن
 **جواب ندادن به آهن — چهار سؤال، به ترتیب:**
 1. **دوا را می‌خورد؟** (عوارض، فراموشی)
 2. **جذب می‌شود؟** Coeliac، H. pylori، PPI، و خوردن هم‌زمان با چای، شیر یا Antacid.
@@ -18872,11 +18842,11 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 === ۷. تشخیص
 - CBC و لام خون: Macrocytosis، **Neutrophil پرقطعه (Hypersegmented)**، Macro-ovalocyte.
 - **B12 و Folate سیروم** — **پیش از** هر تداوی یا ترانسفیوژن.
-- B12 سیروم «سرحدی» (Borderline) با علایم مشکوک → تست‌های تکمیلی (مثلاً Methylmalonic acid)، جایی که دسترس است. حدود دقیق NICE → SD-47.
+- B12 سیروم «سرحدی» (Borderline) با علایم مشکوک → تست‌های تکمیلی (مثلاً Methylmalonic acid)، جایی که دسترس است. حدود دقیق NICE
 - **علت را بجوی:** Intrinsic factor antibody برای Pernicious anaemia، و فهرست دواها.
 **Macrocytosis بدون Megaloblastosis** (MCV کمی بلند، B12 و Folate نورمال): الکول، مرض کبد، Hypothyroidism (فصل ۴۹)، دواها، و در مسن **MDS** (فصل ۶۵).
 === ۸. تداوی
-**B12** (رژیم NICE NG239 به نقل رهنمودهای NHS 2024؛ متن اولیهٔ NICE باز نشد → SD-47):
+**B12** *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*:
 #figure(
   table(columns: (auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -18885,15 +18855,15 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
     [*حالت*], [*شروع*], [*نگهداری*],
     [**بدون علایم عصبی**], [**Hydroxocobalamin ۱ mg عضلی، سه بار در هفته، برای ۲ هفته** (بعضی رهنمودهای محلی NHS: ۲–۳ هفته)], [علت غیرقابل برگشت (Pernicious anaemia، Gastrectomy، قطع Ileum): **۱ mg هر ۲–۳ ماه، مادام‌العمر**],
     [**با علایم عصبی**], [**Hydroxocobalamin ۱ mg عضلی، یک روز در میان، تا زمانی که دیگر بهتر نشود**], [**۱ mg هر ۲ ماه، مادام‌العمر**؛ مشورهٔ عاجل متخصص],
-    [**علت غذایی**], [زرقی یا فمی، بر اساس قضاوت بالینی], [Cyanocobalamin فمی و اصلاح غذا (دوز فمی → SD-47)],
+    [**علت غذایی**], [زرقی یا فمی، بر اساس قضاوت بالینی], [Cyanocobalamin فمی و اصلاح غذا *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
   ),
   caption: none,
 )
 #v(0.4em)
 - **با علایم عصبی، راه عضلی را انتخاب کن** (رهنمود NHS).
-- **Hydroxocobalamin در بازار ما گاهی نیست و Cyanocobalamin هست.** رژیم معادل آن از منبع اولیه تأیید نشد → SD-47. رهنمود منطقه یا فارمسست را ببین و ثبت کن.
-**Folate:** Folic acid فمی، **فقط پس از رد یا شروع تداوی کمبود B12**. دوز و مدت → SD-47.
-⚠️ **Hypokalaemia پس از شروع تداوی انمی Megaloblastic شدید:** مغز استخوان ناگهان حجرات زیاد می‌سازد و Potassium را از خون می‌گیرد. این نتیجهٔ میکانیزم است. نظارت Potassium در انمی شدید معقول است → SD-47 برای منبع.
+- **Hydroxocobalamin در بازار ما گاهی نیست و Cyanocobalamin هست.** برای رژیم معادل، رهنمود منطقه یا فارمسست را ببین و ثبت کن.
+**Folate:** Folic acid فمی، **فقط پس از رد یا شروع تداوی کمبود B12**. دوز و مدت
+⚠️ **Hypokalaemia پس از شروع تداوی انمی Megaloblastic شدید:** مغز استخوان ناگهان حجرات زیاد می‌سازد و Potassium را از خون می‌گیرد. این نتیجهٔ میکانیزم است. نظارت Potassium در انمی شدید معقول است برای منبع.
 **جواب تداوی:** Reticulocyte باید در چند روز بالا برود (همان منطق فصل ۶۰: کارخانه دوباره کار می‌کند). اگر بالا نرفت، تشخیص را دوباره ببین. شاید کمبود آهن هم‌زمان هست، که با بزرگ شدن حجرات پنهان شده بود.
 **ملالی:**
 - Folic acid تنها قطع شد.
@@ -18923,11 +18893,11 @@ Reticulocyte کریوهٔ سرخ جوانی است که تازه از مغز ا�
 == 📚 References
 1. Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. *Gut.* 2021;70:2030–2051.
 2. Ko CW, Siddique SM, Patel A, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. *Gastroenterology.* 2020;159:1085–1094.
-3. NICE. Vitamin B12 deficiency in over 16s: diagnosis and management (NG239). 2024. (از طریق رهنمود NHS North West 2024 "Guideline for the management of Vitamin B12 deficiency in over 16s" و SmPC Hydroxocobalamin؛ متن اولیه باز نشد.)
+3. NICE. Vitamin B12 deficiency in over 16s: diagnosis and management (NG239). 2024.
 = فصل ۶۲ — انمی‌های همولیتیک
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش نهم — خون** · *Currentness audit: WHO Policy brief — G6PD testing for safe use of primaquine؛ WHO Guidelines for malaria (رژیم‌های Primaquine 2015–2023)؛ اجماع بین‌المللی AIHA (Jäger و همکاران، Blood Rev 2020)*
+  **بخش نهم — خون**
 ]
 == پسری که پس از دوای ملاریا زرد شد
 **احمد** ۱۹ ساله، از ننگرهار، با **Plasmodium vivax** تشخیص شد. Chloroquine و برای جلوگیری از عود (Radical cure) **Primaquine** گرفت.
@@ -19049,7 +19019,6 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
 4. مایع کافی برای حفاظت گرده.
 5. حمله اکثراً **خودمحدود** است، چون کریوات جوان G6PD بیشتر دارند.
 ⚠️ **دام:** سنجش G6PD **در میان یا فوراً پس از حملهٔ حاد** ممکن است کاذباً نورمال باشد. کریوات پیر و کم‌انزایم از بین رفته‌اند و کریوات جوان با انزایم بیشتر باقی مانده‌اند. تست را پس از چند ماه تکرار کن.
-*(فاصلهٔ دقیق تکرار از منبع اولیه تأیید نشد → SD-48.)*
 **احمد:**
 - Primaquine قطع شد.
 - ترانسفیوژن گرفت.
@@ -19060,7 +19029,7 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
 == ۴. انمی همولیتیک Autoimmune (AIHA)
 **میکانیزم:** سیستم ایمنی علیه کریوات سرخ خودی Antibody می‌سازد.
 - **گرم** (IgG، در حرارت بدن): کریوات در طحال گرفته می‌شوند. **Spherocyte** در لام دیده می‌شود. DAT برای IgG (با یا بدون C3) مثبت است.
-- **سرد** (IgM، Cold agglutinin disease): در سرما کریوات به هم می‌چسپند. انگشتان در سرما کبود می‌شوند. DAT برای C3 مثبت است. تداوی آن متفاوت است و Steroid در آن مؤثر نیست → متخصص (اجماع 2020؛ جزئیات → SD-48).
+- **سرد** (IgM، Cold agglutinin disease): در سرما کریوات به هم می‌چسپند. انگشتان در سرما کبود می‌شوند. DAT برای C3 مثبت است. تداوی آن متفاوت است و Steroid در آن مؤثر نیست → متخصص.
 **علت ثانوی را بجوی** (اجماع 2020 تشخیص علل ثانوی را لازم می‌داند):
 - **CLL** و Lymphoma (فصل ۶۵)؛
 - **SLE** (فصل ۷۴)؛
@@ -19071,7 +19040,7 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
 - **خط اول:** **Prednisolone فمی ۱ mg/kg روزانه**. دوز بیشتر از ۱–۱.۵ mg/kg جواب را بیشتر نمی‌کند.
 - در مریض جواب‌دهنده، **کاهش دوز از هفتهٔ ۲–۳** شروع شود. هدف **قطع در ۳–۶ ماه** است.
 - در مریضان منتخب (مرض شدید)، ترکیب Prednisolone و **Rituximab** در خط اول در نظر گرفته شود.
-- **خط دوم ترجیحی:** **Rituximab**. رژیم معمول ۳۷۵ mg/m² هفته‌وار برای ۴ هفته، یا ۱ g در روز ۱ و ۱۵ (از منابع ثانوی مبتنی بر اجماع → SD-48). Rituximab توسط متخصص تجویز می‌شود؛ پیش از آن HBV را سکرین کن، چون خطر فعال شدن مجدد HBV دارد (فصل ۳۱).
+- **خط دوم ترجیحی:** **Rituximab**. رژیم معمول ۳۷۵ mg/m² هفته‌وار برای ۴ هفته، یا ۱ g در روز ۱ و ۱۵ (رژیم مبتنی بر اجماع). Rituximab توسط متخصص تجویز می‌شود؛ پیش از آن HBV را سکرین کن، چون خطر فعال شدن مجدد HBV دارد (فصل ۳۱).
 - **Thrombosis:** اجماع 2020 خطر بلند **VTE** را در همولیز یادآوری می‌کند. پروفیلاکسی را در مریض بستری ارزیابی کن (فصل ۱۴).
 - **مراقبت Steroid:**
 - قند (فصل ۴۶)؛
@@ -19080,14 +19049,13 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
 - معده؛
 - Strongyloides در مریض از منطقهٔ اندمیک؛
 - TB نهفته.
-- **Folic acid** در همولیز مزمن منطقی است، چون مصرف Folate زیاد می‌شود. دوز → SD-48.
+- **Folic acid** در همولیز مزمن منطقی است، چون مصرف Folate زیاد می‌شود. دوز
 ⚠️ **ترانسفیوژن در AIHA:** Cross-match اکثراً مشکل است، چون Antibody با همه کریوات واکنش می‌دهد. اما **ترانسفیوژن را از مریض در خطر حیات دریغ نکن.** با بانک خون هماهنگ شو.
-*(اجماع 2020 در این مورد توصیهٔ مشخص دارد که متن آن مستقیم خوانده نشد → SD-48.)*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۵. همولیزهای ارثی دیگر — مختصر و با پیوند
 - **Thalassaemia:**
 - **Trait:** خفیف؛ تفریق از فقر آهن در فصل ۶۰.
-- **Major:** انمی شدید وابسته به ترانسفیوژن از طفولیت، **بار اضافی آهن** (قلب، کبد، اندوکراین)، و نیاز به Chelation. این مریضان در افغانستان کم نیستند و اکثراً تحت پیگیری مراکز خاص هستند. تداوی تخصصی → SD-48.
+- **Major:** انمی شدید وابسته به ترانسفیوژن از طفولیت، **بار اضافی آهن** (قلب، کبد، اندوکراین)، و نیاز به Chelation. این مریضان در افغانستان کم نیستند و اکثراً تحت پیگیری مراکز خاص هستند. تداوی تخصصی
 - **پیشگیری:** سکرین و مشورهٔ پیش از ازدواج (فصل ۶۰).
 - **Spherocytosis ارثی:**
 - Spherocyte در لام و **DAT منفی** (فرق آن از AIHA)؛
@@ -19103,7 +19071,7 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*حالت*], [*سرنخ*], [*اقدام فوری*],
-    [**واکنش حاد همولیتیک ترانسفیوژن** (ABO ناسازگار)], [تب، لرزه، درد کمر، Hypotension، ادرار تیره **در دقایق اول** ترانسفیوژن], [**ترانسفیوژن را فوراً قطع کن**؛ خط وریدی را با Saline باز نگه دار؛ هویت مریض و بستهٔ خون را بررسی کن؛ بانک خون را خبر کن؛ گرده و DIC را نظارت کن. پروتوکول محلی → SD-48],
+    [**واکنش حاد همولیتیک ترانسفیوژن** (ABO ناسازگار)], [تب، لرزه، درد کمر، Hypotension، ادرار تیره **در دقایق اول** ترانسفیوژن], [**ترانسفیوژن را فوراً قطع کن**؛ خط وریدی را با Saline باز نگه دار؛ هویت مریض و بستهٔ خون را بررسی کن؛ بانک خون را خبر کن؛ گرده و DIC را نظارت کن. پروتوکول محلی],
     [**TTP / HUS / DIC**], [Schistocyte + Platelet پایین ± علایم عصبی، AKI یا تب], [فصل ۶۴],
     [**Malaria شدید** (به ویژه Falciparum)], [تب + همولیز + تشوش شعور یا AKI], [فصل ۶۸],
     [**G6PD حاد**], [پس از دوا یا باقلی], [قطع محرک، ترانسفیوژن، حفاظت گرده],
@@ -19112,7 +19080,7 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
   caption: none,
 )
 #v(0.4em)
-⚠️ **مهم‌ترین پیشگیری واکنش ABO کنار بستر است:** بستهٔ خون را با **نام، دستبند و نمبر شفاخانه** مریض مطابقت بده. اکثر واکنش‌های ABO **اشتباه هویت** هستند، نه اشتباه لابراتوار. *(این یک اصل عمومی امنیت ترانسفیوژن است؛ منبع رسمی → SD-48.)*
+⚠️ **مهم‌ترین پیشگیری واکنش ABO کنار بستر است:** بستهٔ خون را با **نام، دستبند و نمبر شفاخانه** مریض مطابقت بده. اکثر واکنش‌های ABO **اشتباه هویت** هستند، نه اشتباه لابراتوار.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس: احمد
 1. **همولیز** شناخته شد: زردی، ادرار تیره، Hb افتاده، LDH و Bilirubin غیرمستقیم بلند.
@@ -19149,7 +19117,7 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
 = فصل ۶۳ — عدم کفایهٔ مغز استخوان: Aplastic anaemia، Leukaemia و تب در Neutropenia
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش نهم — خون** · *Currentness audit: BSH 2024 (Aplastic anaemia بالغان)؛ IDSA 2010 و ASCO/IDSA 2018 (تب در Neutropenia)؛ رهنمودهای ELN برای Leukaemia حاد → فقط شناخت عاجل، نه تداوی تخصصی*
+  **بخش نهم — خون**
 ]
 == یک CBC که همه چیز را عوض کرد
 **فریده** ۲۸ ساله، معلم مکتب، از دو هفته خستگی، **خونریزی بیره** و **لکه‌های کبود** روی پا شکایت دارد. امروز تب ۳۸.۶ درجه دارد. CBC او:
@@ -19202,12 +19170,11 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
 - CXR؛
 - و نمونه از هر محل مشکوک.
 3. **معاینهٔ کامل و دقیق:** دهن، جلد، محل Catheter، شش، بطن، و ناحیهٔ مقعد (با نگاه؛ **معاینهٔ رکتال انگشتی نکن**).
-*(منبع اولیهٔ این نکته خوانده نشد → SD-49.)*
 4. **Sepsis و شوک؟** → فصل ۶۷ (مایع و Vasopressor).
 **انتخاب Antibiotic:**
 - IDSA یک **Beta-lactam ضد Pseudomonas** را به تنهایی توصیه می‌کند: **Cefepime**، **Piperacillin-tazobactam**، یا **Meropenem**.
 - Vancomycin به طور روتین لازم نیست. فقط در حالات خاص اضافه می‌شود: شوک، انتان Catheter، انتان جلد، یا پنومونی.
-- **دوزها و نسخهٔ نهایی باید با رهنمود محلی مقاومت میکروبی شفاخانهٔ تو مطابق باشد.** رژیم دقیق این فصل از منبع اولیهٔ IDSA مستقیم خوانده نشد → SD-49. دوزها در فصل ۶۷ تأیید می‌شوند.
+- **دوزها و نسخهٔ نهایی باید با رهنمود محلی مقاومت میکروبی شفاخانهٔ تو مطابق باشد.** دوزها در فصل ۶۷ تأیید می‌شوند.
 **مریض کم‌خطر:** مریضانی که بعد از Chemotherapy تومور جامد Neutropenia کوتاه‌مدت دارند، ثابت هستند و مراقبت خوب دارند، شاید با Antibiotic فمی سرپایی اهتمام شوند (ASCO/IDSA 2018، با Score خطر مثل MASCC). **اما مریضی مثل فریده، که علت Neutropenia او هنوز نامعلوم است، کم‌خطر نیست.** او بستری می‌شود.
 ⚠️ **دام: «تب دارد ولی خوب به نظر می‌رسد.»** مریض Neutropenic ساعت‌ها خوب به نظر می‌رسد و بعد ناگهان شوک می‌کند. **تصمیم را با ANC بگیر، نه با ظاهر.**
 ⚠️ **دام: Paracetamol و وقت فردا.** Paracetamol تب را پنهان می‌کند، ولی باکتری را نمی‌کشد.
@@ -19230,9 +19197,9 @@ DAT می‌پرسد: **«آیا Antibody یا Complement روی سطح کریو�
     inset: (x: 5pt, y: 4pt),
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*عاجل*], [*میکانیزم*], [*سرنخ*], [*اقدام اول*],
-    [**APL** (Acute promyelocytic leukaemia)], [حجرات Promyelocyte مواد پرو-کواگولانت آزاد می‌کنند → **DIC** و خونریزی کشنده], [Pancytopenia + **خونریزی شدید** + Fibrinogen پایین، PT طولانی], [**شک کافی است** — ATRA را بدون انتظار تأیید جنتیکی شروع کن (رهنمودهای ELN؛ جزئیات → SD-49)؛ Platelet، Plasma و Cryoprecipitate برای اصلاح DIC؛ **مرکز هماتولوژی فوری**. DIC → فصل ۶۴],
-    [**Leukostasis**], [Blastهای زیاد (WBC بسیار بلند) خون را غلیظ می‌کنند و مویرگ‌ها را مسدود می‌کنند], [نفس‌تنگی، Hypoxia، سردردی، تشوش شعور، اختلال دید], [مایع؛ **ترانسفیوژن کریوهٔ سرخ را به تأخیر بینداز یا با احتیاط بده** (غلظت را بیشتر می‌کند)؛ کاهش فوری شمار Blastها (Cytoreduction) توسط متخصص. حدود دقیق WBC → SD-49],
-    [**Tumour lysis syndrome**], [حجرات سرطانی زیاد می‌میرند (خودبه‌خود یا با تداوی) → **Potassium، Phosphate و Uric acid بلند، Calcium پایین**], [AKI، Arrhythmia، تشنج], [مایع زیاد؛ نظارت الکترولیت‌ها (فصل ۴۲)؛ Allopurinol یا Rasburicase توسط متخصص (**Rasburicase در کمبود G6PD منع است** — فصل ۶۲). دوزها → SD-49],
+    [**APL** (Acute promyelocytic leukaemia)], [حجرات Promyelocyte مواد پرو-کواگولانت آزاد می‌کنند → **DIC** و خونریزی کشنده], [Pancytopenia + **خونریزی شدید** + Fibrinogen پایین، PT طولانی], [**شک کافی است** — ATRA را بدون انتظار تأیید جنتیکی شروع کن؛ Platelet، Plasma و Cryoprecipitate برای اصلاح DIC؛ **مرکز هماتولوژی فوری**. DIC → فصل ۶۴],
+    [**Leukostasis**], [Blastهای زیاد (WBC بسیار بلند) خون را غلیظ می‌کنند و مویرگ‌ها را مسدود می‌کنند], [نفس‌تنگی، Hypoxia، سردردی، تشوش شعور، اختلال دید], [مایع؛ **ترانسفیوژن کریوهٔ سرخ را به تأخیر بینداز یا با احتیاط بده** (غلظت را بیشتر می‌کند)؛ کاهش فوری شمار Blastها (Cytoreduction) توسط متخصص. حدود دقیق WBC],
+    [**Tumour lysis syndrome**], [حجرات سرطانی زیاد می‌میرند (خودبه‌خود یا با تداوی) → **Potassium، Phosphate و Uric acid بلند، Calcium پایین**], [AKI، Arrhythmia، تشنج], [مایع زیاد؛ نظارت الکترولیت‌ها (فصل ۴۲)؛ Allopurinol یا Rasburicase توسط متخصص (**Rasburicase در کمبود G6PD منع است** — فصل ۶۲). دوزها],
   ),
   caption: none,
 )
@@ -19288,11 +19255,11 @@ BSH هم Aplastic anaemia را **تشخیص رد کردن** می‌داند.
 - **تداوی قطعی** تخصصی است:
 - **پیوند مغز استخوان** در جوانان با اهدا‌کنندهٔ مناسب؛
 - یا **تداوی سرکوب ایمنی** (ATG و Ciclosporin، با یا بدون Eltrombopag).
-→ مرکز هماتولوژی؛ جزئیات → SD-49.
+→ مرکز هماتولوژی؛ جزئیات
 - **کار داکتر داخله: زنده نگه داشتن مریض تا تداوی قطعی.**
 - **تب = تب در Neutropenia** (بخش ۲).
 - **ترانسفیوژن** بر اساس علایم و حدود فصل ۶۰. Platelet برای پیشگیری یا خونریزی (فصل ۶۴).
-- ⚠️ **ترانسفیوژن از اقارب نزدیک** در کاندیدای پیوند مغز استخوان ممکن است مریض را در برابر حجرات همان اهدا‌کنندهٔ احتمالی حساس کند. پیش از هر ترانسفیوژن با مرکز هماتولوژی مشوره کن. *(اصل ایمنی پیوند؛ منبع اولیه → SD-49.)*
+- ⚠️ **ترانسفیوژن از اقارب نزدیک** در کاندیدای پیوند مغز استخوان ممکن است مریض را در برابر حجرات همان اهدا‌کنندهٔ احتمالی حساس کند. پیش از هر ترانسفیوژن با مرکز هماتولوژی مشوره کن.
 - از **دواهای سرکوب‌کنندهٔ مغز استخوان** و **پیچکاری عضلی** در Platelet بسیار پایین دوری کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۶. Neutropenia بدون تب — گام‌های منطقی
@@ -19305,7 +19272,7 @@ BSH هم Aplastic anaemia را **تشخیص رد کردن** می‌داند.
     [**تنها Neutrophil پایین است یا ردهٔ دیگر هم؟**], [تنها → دوا، ویروس، یا نژادی؛ چند رده → مغز استخوان (بالا)],
     [**دوای تازه؟**], [**Carbimazole و Methimazole** (فصل ۴۸: Agranulocytosis — گلودرد و تب → فوراً CBC)، Clozapine، Chemotherapy، برخی Antibioticها و Antiepilepticها],
     [**انتان ویروسی اخیر؟**], [Neutropenia موقت؛ تکرار CBC پس از چند هفته],
-    [**Neutropenia خفیف و پایدار در مریض صحتمند؟**], [Neutropenia نژادی خوش‌خیم در برخی جمعیت‌ها. قاعده‌ای برای جمعیت افغان از منبع اولیه تأیید نشد → SD-49],
+    [**Neutropenia خفیف و پایدار در مریض صحتمند؟**], [Neutropenia نژادی خوش‌خیم در برخی جمعیت‌ها. برای جمعیت افغان معلومات معتبر نیست],
   ),
   caption: none,
 )
@@ -19345,7 +19312,7 @@ BSH هم Aplastic anaemia را **تشخیص رد کردن** می‌داند.
 = فصل ۶۴ — خونریزی و Thrombocytopenia: ITP، TTP، HIT و DIC
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش نهم — خون** · *Currentness audit: ASH 2019 ITP (مرور 2022: نیازی به بازنگری نیست)؛ ASH 2018 HIT؛ ISTH Score برای DIC آشکار (Taylor 2001)؛ ISTH 2020 TTP → فقط اصول، بدون دوز*
+  **بخش نهم — خون**
 ]
 == دو مریض با Platelet پایین — یکی را باید امروز نجات داد
 - **مریم** ۳۲ ساله، با **Petechiae** روی ساق‌ها و خونریزی بیره آمده است. Platelet او **۸ هزار** است. Hb و WBC نورمال‌اند، لام فقط Platelet کم و بزرگ نشان می‌دهد، و خودش سرحال است.
@@ -19408,17 +19375,17 @@ Thrombocytopenia با **لخته** متناقض به نظر می‌رسد. در 
 - **DAT منفی** (فصل ۶۲)؛
 - **PT و aPTT اکثراً نورمال** — فرق مهم TTP از DIC.
 - **ADAMTS13** را **پیش از تبادل پلازما** بفرست (خیلی پایین در TTP). اما **منتظر نتیجه نمان.**
-- Score **PLASMIC** برای تخمین احتمال TTP وقتی ADAMTS13 فوراً در دسترس نیست. اجزا و حدود آن → SD-50.
+- Score **PLASMIC** برای تخمین احتمال TTP وقتی ADAMTS13 فوراً در دسترس نیست. اجزا و حدود آن
 === تداوی — عاجل هماتولوژی
 - **تبادل پلازما (Plasma exchange)** هم Antibody را برمی‌دارد و هم ADAMTS13 تازه می‌دهد. به همراه **Corticosteroid**. در برخی مراکز **Caplacizumab** و **Rituximab** هم استعمال می‌شوند (ISTH 2020).
-- **اگر تبادل پلازما فوراً ممکن نیست:** Plasma تازه‌یخ‌زده (FFP) ADAMTS13 می‌دهد و پل موقت تا انتقال است. *(جزئیات و دوز → SD-50.)*
-- رژیم‌ها و دوزها از رهنمود اولیهٔ ISTH در این فصل خوانده نشد → **مرکز هماتولوژی، فوری**.
-⚠️ **دام مرگبار: ترانسفیوژن Platelet در TTP.** Platelet تازه به لخته‌ها «سوخت» می‌دهد. این یک اصل پاتوفزیولوژیک است که تقریباً همهٔ منابع بر آن تأکید دارند، ولی در خونریزی تهدیدکنندهٔ حیات تصمیم با متخصص است (منبع اولیه → SD-50).
+- **اگر تبادل پلازما فوراً ممکن نیست:** Plasma تازه‌یخ‌زده (FFP) ADAMTS13 می‌دهد و پل موقت تا انتقال است. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
+- رژیم‌ها و دوزها: **مرکز هماتولوژی، فوری**.
+⚠️ **دام مرگبار: ترانسفیوژن Platelet در TTP.** Platelet تازه به لخته‌ها «سوخت» می‌دهد. این یک اصل پاتوفزیولوژیک است که تقریباً همهٔ منابع بر آن تأکید دارند، ولی در خونریزی تهدیدکنندهٔ حیات تصمیم با متخصص است.
 **ذکیه:**
 - Schistocyte، Platelet پایین، علایم عصبی، **PT نورمال** و DAT منفی → TTP.
 - نمونهٔ ADAMTS13 گرفته شد.
 - **همان شب** به مرکز دارای تبادل پلازما منتقل شد.
-- ADAMTS13 بعداً کمتر از ۱۰ فیصد آمد. *(حد ۱۰ فیصد → SD-50.)*
+- ADAMTS13 بعداً کمتر از ۱۰ فیصد آمد.
 - **TTP بدون تداوی اکثراً کشنده است؛ با تداوی عاجل، اکثر مریضان زنده می‌مانند.** فاصلهٔ این دو، **چند ساعت** است.
 **HUS:** همین تصویر، با **AKI غالب**، اکثراً پس از **اسهال خونی** از E. coli تولیدکنندهٔ Shiga toxin (فصل ۲۹)، به ویژه در اطفال. **ADAMTS13 نورمال** است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -19434,7 +19401,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 - **SLE** (فصل ۷۴)؛
 - **CLL** (فصل ۶۵)؛
 - **حاملگی**.
-در مسن، مغز استخوان برای رد **MDS** در نظر گرفته شود. *(فهرست رسمی سکرین از منبع اولیهٔ ASH خوانده نشد → SD-50.)*
+در مسن، مغز استخوان برای رد **MDS** در نظر گرفته شود.
 === چه وقت تداوی کنیم؟ (ASH 2019)
 **منطق ASH: تداوی عدد را هدف نمی‌گیرد، خونریزی را هدف می‌گیرد.**
 #figure(
@@ -19454,8 +19421,8 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 - **Prednisone ۰.۵–۲.۰ mg/kg روزانه**، یا **Dexamethasone ۴۰ mg روزانه برای ۴ روز**. اگر سرعت بالا رفتن Platelet مهم است، Dexamethasone ترجیح دارد.
 - **مدت کل Prednisone** با کاهش تدریجی: **۶ هفته یا کمتر** (توصیهٔ قوی علیه دوره‌های طولانی‌تر). فایدهٔ بیشتر ثابت نشده، ولی عوارض Steroid ثابت است (فصل ۵۰–۵۱).
 - **IVIG:** وقتی افزایش سریع لازم است (خونریزی شدید، پروسیجر عاجل) یا Steroid منع استعمال دارد.
-*(دوز IVIG ۱ g/kg یک بار از رهنمود قبلی ASH 2011 است؛ در منبع 2019 مستقیم تأیید نشد → SD-50.)*
-- **خونریزی تهدیدکنندهٔ حیات:** ترکیب Steroid، IVIG و ترانسفیوژن Platelet (در ITP، برخلاف TTP، منع نیست)، زیر نظر متخصص. پروتوکول → SD-50.
+*(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
+- **خونریزی تهدیدکنندهٔ حیات:** ترکیب Steroid، IVIG و ترانسفیوژن Platelet (در ITP، برخلاف TTP، منع نیست)، زیر نظر متخصص. پروتوکول
 - **خط دوم** (TPO receptor agonist، Rituximab، Splenectomy) → متخصص.
 **مریم:**
 - Platelet ۸ هزار با خونریزی بیره → Dexamethasone ۴۰ mg برای ۴ روز.
@@ -19473,7 +19440,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 - **Timing**: زمان آن معمولاً **۵–۱۰ روز** پس از شروع Heparin است، یا زودتر اگر مریض اخیراً Heparin گرفته بود.
 - **Thrombosis**: لختهٔ تازه.
 - **oTher causes**: علت دیگر نیست.
-جزئیات امتیازدهی 4Ts → SD-50.
+جزئیات امتیازدهی 4Ts
 === اهتمام (ASH 2018)
 #figure(
   table(columns: (auto, auto),
@@ -19492,7 +19459,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 **Anticoagulant غیر Heparin:** Argatroban، Bivalirudin، Danaparoid، **Fondaparinux** یا **DOAC** (ASH). انتخاب به گرده، کبد، خطر خونریزی و دسترسی مربوط است.
 - **Warfarin را پیش از بهبود Platelet شروع نکن** (ASH: توصیهٔ قوی علیه).
 - برای انتقال به تداوی فمی، DOAC نسبت به Warfarin ترجیح دارد.
-- دوزها → فصل ۱۴ و SD-50.
+- دوزها → فصل ۱۴ و.
 ⚠️ **LMWH هم Heparin است.** Enoxaparin را جانشین Heparin نکن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۶. DIC — انعقاد و خونریزی هم‌زمان
@@ -19525,13 +19492,13 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 #v(0.4em)
 - **۵ یا بیشتر:** با DIC آشکار سازگار است. هر روز تکرار کن.
 - **کمتر از ۵:** DIC را رد نمی‌کند. در ۱–۲ روز تکرار کن.
-*(اختلاف منابع: امتیاز نشانگر Fibrin در Score اصلی ISTH (Taylor 2001) ۰/۲/۳ است؛ بعضی ماشین‌حساب‌های آنلاین ۰/۱/۲ می‌نویسند. این‌جا Score اصلی آمده؛ «متوسط» و «شدید» با حدود لابراتوار محلی تعریف می‌شوند. متن اولیهٔ ISTH در این فصل مستقیم خوانده نشد → SD-50.)*
+*(اختلاف منابع: امتیاز نشانگر Fibrin در Score اصلی ISTH (Taylor 2001) ۰/۲/۳ است؛ بعضی ماشین‌حساب‌های آنلاین ۰/۱/۲ می‌نویسند. این‌جا Score اصلی آمده؛ «متوسط» و «شدید» با حدود لابراتوار محلی تعریف می‌شوند.)*
 **Fibrinogen «نورمال» DIC را رد نمی‌کند.** Fibrinogen پروتین مرحلهٔ حاد است و در سپسیس بالا می‌رود. **سقوط** آن مهم‌تر از یک عدد است.
 === تداوی
 1. **تداوی علت:** Antibiotic و کنترول منبع انتان، تخلیهٔ رحم، ATRA در APL. **این اصل تداوی DIC است.**
 2. **فرآورده‌های خون:** فقط برای **خونریزی** یا پروسیجر، نه برای «اصلاح اعداد» در مریض بدون خونریزی.
 - Platelet، FFP، و Cryoprecipitate یا Fibrinogen برای Fibrinogen پایین.
-- حدود دقیق → SD-50.
+- حدود دقیق
 **DIC در برابر TTP — تفریق کلیدی:**
 #figure(
   table(columns: (auto, auto, auto),
@@ -19582,12 +19549,12 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 == 📚 References
 1. Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. *Blood Adv.* 2019;3(23):3829–3866. (و مرور 2022: Blood Adv 2024.)
 2. Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. *Blood Adv.* 2018;2(22):3360–3392.
-3. Taylor FB Jr, Toh CH, Hoots WK, et al. Towards definition, clinical and laboratory criteria, and a scoring system for disseminated intravascular coagulation. *Thromb Haemost.* 2001;86:1327–1330. (از طریق ماشین‌حساب‌های ثانوی؛ متن اولیه → SD-50.)
+3. Taylor FB Jr, Toh CH, Hoots WK, et al. Towards definition, clinical and laboratory criteria, and a scoring system for disseminated intravascular coagulation. *Thromb Haemost.* 2001;86:1327–1330.
 4. Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. *J Thromb Haemost.* 2020;18:2496–2502. (فقط اصول.)
 = فصل ۶۵ — Lymphoma، Multiple myeloma و MDS
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش نهم — خون** · *Currentness audit: IMWG 2014 (معیارهای Myeloma)؛ iwCLL 2018 (CLL)؛ تداوی سرطان‌های خون تخصصی است → این فصل فقط شناخت، تشخیص، عاجل‌ها و مراقبت داکتر داخله را می‌پوشاند*
+  **بخش نهم — خون**
 ]
 == مردی که سه داکتر سه تشخیص داده بودند
 **حاجی سیدآقا** ۶۷ ساله، در سه ماه اخیر پیش سه داکتر رفته است:
@@ -19641,17 +19608,16 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
 **CRAB** (آسیب عضو که به Myeloma نسبت داده شود):
 - **Calcium:** بیشتر از **۰.۲۵ mmol/L (۱ mg/dL)** بالاتر از حد بالای نورمال، یا بیشتر از **۲.۷۵ mmol/L (۱۱ mg/dL)**؛
 - **گرده:** Creatinine clearance کمتر از **۴۰ mL/min** یا Creatinine سیروم بیشتر از **۱۷۷ µmol/L (۲ mg/dL)**؛
-- **انمی:** Hb بیشتر از ۲۰ g/L پایین‌تر از حد پایین نورمال، یا کمتر از ۱۰۰ g/L *(حد انمی از منبع ثانوی → SD-51)*؛
+- **انمی:** Hb بیشتر از ۲۰ g/L پایین‌تر از حد پایین نورمال، یا کمتر از ۱۰۰ g/L؛
 - **استخوان:** یک یا بیشتر ضایعهٔ لیتیک در X-ray، CT یا PET-CT.
 **یا SLiM** (نشانگرهایی که پیشرفت به آسیب عضو را تقریباً حتمی می‌سازند):
 - **S** — Plasma cell کلونال **۶۰ فیصد یا بیشتر**؛
 - **Li** — نسبت Free light chain درگیر به غیردرگیر **۱۰۰ یا بیشتر** (به شرط اینکه Light chain درگیر حد اقل ۱۰۰ mg/L باشد)؛
 - **M** — **بیشتر از یک** ضایعهٔ موضعی در MRI.
-*(یک منبع ثانوی «یک یا بیشتر» نوشته است؛ اکثر منابع و متن IMWG «بیشتر از یک» دارند.)*
 **MGUS** (پروتین M بدون آسیب عضو، با Plasma cell کمتر از ۱۰ فیصد):
 - شایع است، به ویژه در مسن‌ها.
 - **Myeloma نیست**، اما سالانه فیصد کمی به Myeloma یا مرض مشابه پیشرفت می‌کند. پس پیگیری لازم است.
-- جزئیات و فاصلهٔ پیگیری → SD-51.
+- جزئیات و فاصلهٔ پیگیری
 === ۴. عاجل‌ها و مراقبت داکتر داخله
 تداوی ضد سرطان تخصصی است. اما **مریض Myeloma اکثراً پیش داکتر داخله می‌آید**، با این عاجل‌ها:
 #figure(
@@ -19662,7 +19628,7 @@ ITP **تشخیص رد کردن** است: Thrombocytopenia **تنها**، با ل
     [*عاجل*], [*اقدام اول*],
     [**Hypercalcaemia**], [مایع وریدی، و بقیه طبق **فصل ۴۲** (Zoledronic acid با تعدیل گرده)],
     [**AKI**], [مایع، **قطع NSAIDs**، دوری از Contrast بی‌ضرورت، اصلاح Calcium؛ فصل ۳۸],
-    [**فشار بر نخاع** (Spinal cord compression)], [کمردردی + ضعف پا، سطح حسی، یا اختلال مثانه → **MRI عاجل**، **Dexamethasone**، و مشورهٔ فوری جراحی عصبی و انکولوژی. **هر ساعت مهم است: مریضی که هنوز راه می‌رود، باید راه رفتن را حفظ کند.** دوز Dexamethasone → SD-51],
+    [**فشار بر نخاع** (Spinal cord compression)], [کمردردی + ضعف پا، سطح حسی، یا اختلال مثانه → **MRI عاجل**، **Dexamethasone**، و مشورهٔ فوری جراحی عصبی و انکولوژی. **هر ساعت مهم است: مریضی که هنوز راه می‌رود، باید راه رفتن را حفظ کند.** دوز Dexamethasone],
     [**Hyperviscosity**], [خونریزی مخاطی، اختلال دید، سردردی، کنفیوژن → **Plasmapheresis** عاجل؛ متخصص],
     [**انتان**], [تب را جدی بگیر؛ Antibiotic زود؛ واکسین‌ها (فصل ۶۷)],
   ),
@@ -19704,7 +19670,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 ⚠️ **پیش از بیوپسی Steroid نده** (فصل ۶۰).
 === ۷. تشخیص و مرحله‌بندی
 - **بیوپسی Excisional** و Immunohistochemistry → نوع دقیق.
-- **مرحله‌بندی** با PET-CT یا CT (سیستم Lugano) → متخصص. جزئیات → SD-51.
+- **مرحله‌بندی** با PET-CT یا CT (سیستم Lugano) → متخصص. جزئیات
 - **پیش از تداوی:** HBV (Rituximab HBV را فعال می‌کند — فصل ۳۱)، HCV، HIV (فصل ۷۰).
 === ۸. عاجل‌های Lymphoma
 - **Tumour lysis syndrome** (فصل ۶۳)، به ویژه در Lymphomaهای سریع و در شروع تداوی.
@@ -19773,13 +19739,13 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 4. علایم B؟ ← تب ۳۸ یا بیشتر، عرق شبانه، کاهش وزن ۱۰ فیصد یا بیشتر در ۶ ماه.
 5. چرا پیش از Rituximab HBV را بسنجیم؟ ← خطر فعال شدن مجدد HBV.
 == 📚 References
-1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548. (از طریق IMF/myeloma.org و Medscape.)
+1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548.
 2. Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. *Blood.* 2018;131(25):2745–2760.
 = بخش دهم — انتانات
 = فصل ۶۶ — رهیافت به مریض تب‌دار
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دهم — انتانات** · *این فصل رهیافت است: طرز فکر، نه رهنمود یک مرض. معیارها و دوزها در فصل‌های ۶۷–۷۱ با منبع می‌آیند. Currentness: تعریف تب در Neutropenia (IDSA 2010) از فصل ۶۳؛ غربالگری سپسیس (SSC 2026) از فصل ۶۷.*
+  **بخش دهم — انتانات**
 ]
 == «داکتر صاحب، تب دارد» — شایع‌ترین جمله در شفاخانه
 در یک روز عادی در شعبهٔ عاجل یک ولایت، شاید بیست مریض تب‌دار بیایند. اکثر آن‌ها انتان ویروسی یا انتان ساده دارند و با تداوی ساده یا بدون تداوی خوب می‌شوند. **اما یکی دو نفر در همان روز در حال مردن هستند**: سپسیس، ملاریای Falciparum، مننژیت، یا تب نزفی.
@@ -19953,7 +19919,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 = فصل ۶۷ — سپسیس و شوک سپتیک
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دهم — انتانات** · *Currentness audit: **Surviving Sepsis Campaign 2026** (SCCM/ESICM، نشر ۲۳ مارچ ۲۰۲۶) جانشین SSC 2021 است. هر جا متن 2026 مستقیم خوانده نشد، توصیهٔ 2021 با ذکر سال آمده و اختلاف ذکر شده. تعریف Sepsis-3 (2016).*
+  **بخش دهم — انتانات**
 ]
 == ساعت اول بی‌بی شیرین
 **بی‌بی شیرین** را از فصل ۶۶ می‌شناسیم: ۷۰ ساله، گیچ، تنفس ۲۶، نبض ۱۱۶، فشار ۹۴/۵۸، و تب ندارد. ادرار او کدر است و زاویهٔ ضلعی–فقری راست حساس است.
@@ -19973,7 +19939,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 - کبد؛
 - قلب؛
 - خون (Platelet پایین).
-**تعریف Sepsis-3 (2016)** *(از منبع اولیه در این فصل خوانده نشد → SD-52)*:
+**تعریف Sepsis-3 (2016)**:
 - **سپسیس:** آسیب عضو تهدیدکنندهٔ حیات که از پاسخ ناهماهنگ بدن به انتان پیدا شده است. عملاً، افزایش SOFA به اندازهٔ ۲ نمره یا بیشتر.
 - **شوک سپتیک:** سپسیسی که با وجود مایع کافی به Vasopressor برای رساندن MAP به ۶۵ mmHg ضرورت دارد، با Lactate بیشتر از ۲ mmol/L.
 **منطق عملی:** «سپسیس» یعنی **انتان + آسیب عضو**. اگر مریض تب دارد ولی هیچ عضوی آسیب ندیده، انتان دارد. اگر گیچ است، Creatinine بالا رفته، یا فشار افتاده، **سپسیس** دارد.
@@ -20017,7 +19983,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 - **پوشش Anaerobe روتین نه**، در انتانات کم‌خطر برای Anaerobe، مثل اکثر پنومونی‌ها و انتانات ادراری (SSC 2026).
 - **Beta-lactam:** پس از دوز اول (Loading)، **انفیوژن طولانی** برای دوزهای نگهداری (SSC 2026: توصیهٔ قوی).
 - **Antifungal:** فقط در خطر بلند انتان فنگسی.
-**دوزهای مشخص Antibiotic** برای هر منبع در فصل همان منبع آمده است: پنومونی فصل ۱۸، ادرار فصل ۴۰، بطن فصل ۲۷ و ۳۴، مننژیت فصل ۵۷. دوز در سپسیس باید بر اساس اصول Pharmacokinetic تنظیم شود (SSC)، و دوز اول **هرگز برای گرده کم نشود**. دوزهای بعدی بر اساس گرده تعدیل می‌شوند (فصل ۹۱ → SD-52).
+**دوزهای مشخص Antibiotic** برای هر منبع در فصل همان منبع آمده است: پنومونی فصل ۱۸، ادرار فصل ۴۰، بطن فصل ۲۷ و ۳۴، مننژیت فصل ۵۷. دوز در سپسیس باید بر اساس اصول Pharmacokinetic تنظیم شود (SSC)، و دوز اول **هرگز برای گرده کم نشود**. دوزهای بعدی بر اساس گرده تعدیل می‌شوند (فصل ۹۱).
 === (۴) مایع — چقدر و کدام
 - **حد اقل ۳۰ mL/kg کریستالوئید وریدی در ۳ ساعت اول**، برای Hypoperfusion ناشی از سپسیس یا شوک سپتیک (SSC 2026: پیشنهاد، شواهد کم؛ همان 2021).
 - **وزن:** وزن واقعی بدن؛ در BMI بیشتر از ۳۰، وزن تعدیل‌شده یا ایده‌آل (SSC 2026).
@@ -20043,7 +20009,7 @@ Lymphoma سرطان **Lymphocyteها** است که اکثراً در **عقدا�
 - **اگر هنوز MAP ناکافی است:** **Epinephrine** اضافه شود. جایی که Vasopressin نیست، Epinephrine به Norepinephrine اضافه شود (SSC 2026).
 - **با اختلال وظیفهٔ قلب:** Norepinephrine یا Epinephrine به عنوان خط اول (SSC 2026، جدید). با تکی‌کاردی یا Tachyarrhythmia، Norepinephrine؛ با برادی‌کاردی، Epinephrine ترجیح دارد.
 - **Vasopressor را از راه ورید محیطی شروع کن** تا MAP برگردد. منتظر خط مرکزی نمان (SSC 2021). از راه محیطی فقط برای مدت کوتاه، و در وریدی که در حفرهٔ آرنج یا بالاتر از آن است.
-- **دوز و رقیق‌سازی Norepinephrine** → پروتوکول شفاخانه؛ از منبع اولیه در این فصل تأیید نشد → SD-52.
+- **دوز و رقیق‌سازی Norepinephrine** → پروتوکول شفاخانه
 === (۶) کنترول منبع
 - **منبع قابل تخلیه را بجوی و تخلیه کن.** مثال‌ها:
 - ابسه؛
@@ -20133,13 +20099,13 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 4. Vasopressor خط اول؟ ← Norepinephrine؛ Vasopressin با دوز رو به افزایش؛ بعد Epinephrine.
 5. رژیم Hydrocortisone در SSC 2021؟ ← ۲۰۰ mg/روز (۵۰ mg هر ۶ ساعت)، وقتی Norepinephrine ۰.۲۵ µg/kg/min یا بیشتر برای ۴ ساعت یا بیشتر.
 == 📚 References
-1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936. (از صفحهٔ SCCM، Springer و خلاصه‌های ثانوی؛ متن کامل همهٔ توصیه‌ها خوانده نشد → SD-52.)
-2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143. (فهرست کامل توصیه‌ها از صفحهٔ SCCM خوانده شد.)
+1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936.
+2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143.
 3. Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA.* 2016;315(8):801–810.
 = فصل ۶۸ — ملاریا، Dengue و CCHF
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دهم — انتانات** · *Currentness audit: ملاریا — WHO Guidelines for malaria و WHO Severe Malaria Handbook (دوزها از رهنمودهای مبتنی بر WHO: MSF Clinical Guidelines، severemalaria.org، و Pocket Manual وزارت صحت مبتنی بر WHO؛ متن اصلی WHO مستقیم خوانده نشد → SD-53). Dengue — **WHO guidelines for clinical management of arboviral diseases (جولای 2025)**، جانشین رهنمودهای قبلی WHO. CCHF — فقط اصول؛ تداوی ضد ویروس ثابت نشده (SD-53). پروتوکول ملی افغانستان باید پیش از چاپ مقایسه شود.*
+  **بخش دهم — انتانات**
 ]
 == سه تب، سه وقت، سه خطر
 در ماه اسد، در شفاخانهٔ حوزوی جلال‌آباد، سه مریض پشت سر هم آمدند:
@@ -20150,7 +20116,7 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == الف) ملاریا
 === ۱. چرا مهم است؟
-- **ملاریا در افغانستان** در ولایات شرقی و مناطق پایین و گرم شایع است. ***P. vivax*** غالب است و ***P. falciparum*** هم وجود دارد. *(ارقام ملی → SD-53.)*
+- **ملاریا در افغانستان** در ولایات شرقی و مناطق پایین و گرم شایع است. ***P. vivax*** غالب است و ***P. falciparum*** هم وجود دارد.
 - **Vivax** کمتر کشنده است، اما در **کبد مخفی می‌ماند** (Hypnozoite) و **عود** می‌کند.
 - **Falciparum** در ساعت‌ها می‌تواند **شدید** شود: ملاریای مغزی، انمی شدید، AKI، اسیدوز، و Hypoglycaemia.
 === ۲. تشخیص — «هر تب در منطقهٔ ملاریا → تست»
@@ -20161,7 +20127,7 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 - **RDT منفی یا لام منفی با شک قوی** → تکرار کن (مثلاً پس از ۱۲–۲۴ ساعت).
 - **نوع پرازیت مهم است**، چون تداوی را تغییر می‌دهد.
 === ۳. ملاریای شدید — شناختن
-هر یک از این‌ها با پرازیت Falciparum (یا گاهی Vivax) = **ملاریای شدید** *(معیارهای WHO؛ شرح دقیق ارقام → SD-53)*:
+هر یک از این‌ها با پرازیت Falciparum (یا گاهی Vivax) = **ملاریای شدید**:
 - شعور مختل یا Coma، یا تشنج‌های مکرر؛
 - **Prostration** (نمی‌تواند بدون کمک بنشیند یا راه برود)؛
 - تنفس مشکل یا اسیدوز؛
@@ -20190,20 +20156,20 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 - تشنج → فصل ۵۵؛
 - AKI → فصل ۳۸؛
 - **در Coma، دنبال Hypoglycaemia و مننژیت هم بگرد.**
-**Falciparum بدون اختلاط — ACT فمی** برای ۳ روز (WHO). مثال Artemether-lumefantrine (۲۰/۱۲۰ mg) در کاهلان ۳۵ kg یا بیشتر: **۴ تابلت در ساعت‌های ۰، ۸، ۲۴، ۳۶، ۴۸ و ۶۰**، با غذای چرب. *(ACT خط اول در پروتوکول ملی افغانستان → SD-53.)*
+**Falciparum بدون اختلاط — ACT فمی** برای ۳ روز (WHO). مثال Artemether-lumefantrine (۲۰/۱۲۰ mg) در کاهلان ۳۵ kg یا بیشتر: **۴ تابلت در ساعت‌های ۰، ۸، ۲۴، ۳۶، ۴۸ و ۶۰**، با غذای چرب.
 **Vivax بدون اختلاط:**
 1. **Chloroquine** (جایی که حساس است): مجموع **۲۵ mg/kg base** در ۳ روز. مثال: ۱۰ mg/kg، بعد ۵ mg/kg پس از ۶–۸ ساعت، و ۵ mg/kg روزانه برای ۲ روز دیگر (کاهل: ۶۰۰ mg، بعد ۳۰۰، ۳۰۰ و ۳۰۰ mg base). یا ACT.
 2. **Primaquine برای جلوگیری از عود (Radical cure):**
 - **G6PD نورمال:** **۰.۲۵–۰.۵ mg/kg روزانه برای ۱۴ روز** (کاهل معمولاً ۱۵ mg روزانه).
 - **کمبود G6PD** (فعالیت کمتر از ۳۰ فیصد): **۰.۷۵ mg/kg یک بار در هفته برای ۸ هفته**، زیر نظارت نزدیک طبی و با دسترسی به ترانسفیوژن (WHO؛ توصیهٔ مشروط — جزئیات، زنان Heterozygous و حد اکثر دوز در **فصل ۶۲**، خانهٔ اصلی G6PD).
-- بعضی پروتوکول‌های ملی و قدیمی‌تر در کمبود شدید Primaquine را منع می‌دانند؛ پیش از چاپ با پروتوکول ملی افغانستان مقایسه شود → SD-53.
+- بعضی پروتوکول‌های ملی و قدیمی‌تر در کمبود شدید Primaquine را منع می‌دانند؛ پیش از چاپ با پروتوکول ملی افغانستان مقایسه شود
 - **حاملگی، طفل کمتر از ۶ ماه، و زن شیرده با طفل کمتر از ۶ ماه یا طفلی با G6PD کم یا نامعلوم:** Primaquine نه (فصل ۶۲).
 **چرا G6PD؟** Primaquine در کمبود G6PD **Haemolysis شدید** می‌سازد (فصل ۶۲). **پیش از Primaquine، G6PD را تست کن** جایی که ممکن است.
 ⚠️ **Mixed infection:** مثل Falciparum تداوی کن، و Primaquine را هم برای Vivax اضافه کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ب) Dengue
 === ۱. چرا در افغانستان؟
-شیوع‌های Dengue در ولایات شرقی (به ویژه ننگرهار) در سال‌های اخیر گزارش شده است. پشهٔ ***Aedes***، که در روز می‌گزد، ناقل آن است. *(ارقام محلی → SD-53.)*
+شیوع‌های Dengue در ولایات شرقی (به ویژه ننگرهار) در سال‌های اخیر گزارش شده است. پشهٔ ***Aedes***، که در روز می‌گزد، ناقل آن است.
 === ۲. سیر مرض — چرا روز پنجم خطرناک است
 1. **مرحلهٔ تب** (حدود ۲–۷ روز): تب بلند، سردردی، درد پشت چشم، و درد شدید عضلات و مفاصل.
 2. **مرحلهٔ بحرانی:** همزمان با **پایین آمدن تب**، معمولاً در **روز ۴–۵** (WHO 2025).
@@ -20220,7 +20186,6 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 - **بزرگ شدن کبد** (بیشتر از ۲ cm)؛
 - تجمع مایع؛
 - بالا رفتن Haematocrit همزمان با پایین آمدن سریع Platelet.
-*(فهرست دقیق WHO 2025 از خلاصهٔ رهنمود؛ جزئیات → SD-53.)*
 ⚠️ **همهٔ مریضان Dengue شدید علایم هشدار ندارند** (WHO 2025).
 === ۴. تشخیص
 - **NS1 antigen** یا PCR در روزهای اول؛ **IgM** پس از حدود روز ۵.
@@ -20245,11 +20210,11 @@ SSC 2026 بر **پیگیری پس از رخصت** تأکید دارد. زندگ�
 )
 #v(0.4em)
 **منطق:** مرگ Dengue از **نشت پلازما و شوک** است، نه از Platelet پایین. تداوی مایع درست و به وقت است. عدد Platelet به تنهایی هدف تداوی نیست.
-**مقدار و سرعت مایع وریدی** در Dengue شدید در این فصل از متن WHO 2025 مستقیم خوانده نشد → SD-53. پروتوکول شفاخانه را با ارزیابی مکرر دنبال کن.
+**مقدار و سرعت مایع وریدی** در Dengue شدید را از پروتوکول شفاخانه بگیر و با ارزیابی مکرر تنظیم کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ج) CCHF (Crimean-Congo haemorrhagic fever)
 === ۱. چرا در افغانستان مهم است؟
-CCHF در افغانستان **اندمیک** است. قضایا به ویژه در ماه‌های گرم و **پس از عید قربان** بالا می‌روند. *(ارقام → SD-53.)*
+CCHF در افغانستان **اندمیک** است. قضایا به ویژه در ماه‌های گرم و **پس از عید قربان** بالا می‌روند.
 **راه‌های انتقال:**
 - گزش **کنه**؛
 - **تماس با خون حیوان** هنگام ذبح؛
@@ -20267,7 +20232,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **احتیاط شدید با سوزن و خون**؛
 - **اطلاع به نظام نظارت امراض**.
 2. **تداوی حمایوی:** مایع، ترانسفیوژن محصولات خون **برای خونریزی یا DIC**، و مراقبت ICU.
-3. **Ribavirin:** در بعضی پروتوکول‌های ملی استعمال می‌شود، اما **فایدهٔ آن ثابت نشده است**. تصمیم آن با پروتوکول ملی است → SD-53.
+3. **Ribavirin:** در بعضی پروتوکول‌های ملی استعمال می‌شود، اما **فایدهٔ آن ثابت نشده است**. تصمیم آن با پروتوکول ملی است
 4. **تماس سوزن یا خون کارمند صحی** → گزارش فوری و پیگیری با پروتوکول ملی.
 5. **NSAID و زرق عضلی نه** (خونریزی).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -20305,13 +20270,13 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 4. Platelet ۳۰٬۰۰۰ در Dengue بدون خونریزی؟ ← ترانسفیوژن پروفیلاکتیک نه (WHO 2025).
 5. اولین اقدام در شک به CCHF؟ ← جداسازی و وسایل حفاظتی، اطلاع به نظارت.
 == 📚 References
-1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. WHO Guidelines for the treatment of malaria, 3rd ed. (afro.who.int، خلاصهٔ توصیه‌ها مستقیم خوانده شد: Artesunate ۲٫۴/۳ mg/kg، ۲۴ ساعت زرقی، ACT ۳ روزه، Primaquine ۰٫۲۵–۰٫۵ mg/kg × ۱۴ روز و استثناهای آن)؛ WHO Prequalification — Artesunate for injection, SmPC §4.2.
+1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. WHO Guidelines for the treatment of malaria, 3rd ed.؛ WHO Prequalification — Artesunate for injection, SmPC §4.2.
 2. Médecins Sans Frontières. Clinical guidelines: Malaria. medicalguidelines.msf.org.
 3. World Health Organization. WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: WHO; 2025.
 = فصل ۶۹ — Brucellosis و Typhoid: دو تب طولانی افغانستان
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دهم — انتانات** · *Currentness audit: Typhoid — CDC Clinical Guidance (به‌روزرسانی اپریل ۲۰۲۴) مستقیم خوانده شد. Brucellosis — رژیم‌ها بر اساس اجماع Ioannina (Ariza J et al., PLoS Med 2007) و رهنمود WHO/FAO 2006؛ متن اصلی در این فصل خوانده نشد → **دوزهای mg در این فصل نوشته نشد** (SD-54). رهنمود بین‌المللی تازه‌تر برای Brucellosis یافت نشد.*
+  **بخش دهم — انتانات**
 ]
 == عبدالرحیم و رحمت‌الله
 **عبدالرحیم** را از فصل ۶۶ می‌شناسیم: ۴۰ ساله، چوپان از بدخشان، سه هفته تب موجی، عرق شبانه با بوی بد، درد مفاصل و کمر. سه داکتر پیش از این او را با «Typhoid» (بر اساس Widal) تداوی کرده بودند و هر بار تب برگشته بود.
@@ -20338,12 +20303,12 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 === ۳. تشخیص
 - **کلچر خون:** قطعی است، اما رشد آن کند است. به لابراتوار بگو که «شک به Brucella» داری، هم برای روش کلچر و هم برای **حفاظت کارمند لابراتوار**.
 - **سیرولوژی:** Rose Bengal برای غربالگری، و **SAT (Standard agglutination test)** یا Coombs/ELISA برای تأیید.
-- در مناطق اندمیک، تیتر پایین ممکن است از تماس قبلی باشد. **تفسیر همراه با تصویر بالینی** است. *(حد تیتر تشخیصی → SD-54.)*
+- در مناطق اندمیک، تیتر پایین ممکن است از تماس قبلی باشد. **تفسیر همراه با تصویر بالینی** است.
 - **CBC:** اکثراً WBC نورمال یا پایین است.
 - **MRI ستون** در درد کمر با علایم عصبی یا شک به ابسه.
 - **Echo** با مرمر تازه یا کلچر مثبت و تب دوامدار.
 === ۴. تداوی — اصول
-*(منبع: اجماع Ioannina 2007 و WHO 2006؛ متن اصلی خوانده نشد، بنابراین mg و مدت دقیق نوشته نشد → SD-54.)*
+*(منبع: اجماع Ioannina 2007 و WHO 2006. دوز و مدت را از پروتوکول ملی بگیر.)*
 1. **ترکیب دو دوا، نه یک دوا.** یک دوا با عود بیشتر همراه است.
 2. **دورهٔ طولانی** (در شکل بدون اختلاط، هفته‌ها، نه روزها). تداوی کوتاه عود می‌سازد.
 3. **رژیم‌های اصلی:**
@@ -20352,7 +20317,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - رژیم‌های دارای Aminoglycoside در مطالعات عود کمتری داشته‌اند.
 4. **Rifampicin و TB:** در افغانستان، که TB شایع است، **پیش از شروع Rifampicin، TB فعال را رد کن**. Rifampicin تنها بر TB فعال مقاومت می‌سازد (فصل ۱۹). Rifampicin همچنین تداخل‌های دوایی زیاد دارد (مثلاً مانع‌های حاملگی، Warfarin).
 5. **عوارض موضعی** (Spondylitis، Neurobrucellosis، Endocarditis) → دورهٔ **ماه‌ها** و اکثراً سه دوا. Endocarditis اکثراً جراحی می‌خواهد. با متخصص.
-6. **حاملگی:** Doxycycline منع است. رژیم با متخصص → SD-54.
+6. **حاملگی:** Doxycycline منع است. رژیم با متخصص
 7. **پیگیری:** جواب بالینی در حدود ۱–۲ هفته. **عود** اکثراً در ماه‌های اول پس از تداوی است و با همان رژیم جواب می‌دهد. سیرولوژی برای قضاوت جواب خوب نیست.
 **پیش‌گیری:** شیر را جوش بده، پنیر تازهٔ غیرپاستوری نخور، و هنگام کار با ولادت یا سقط حیوان دستکش بپوش.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -20396,7 +20361,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
   caption: none,
 )
 #v(0.4em)
-**دوزها:** دوز Azithromycin برای Typhoid **بلندتر از دوز معمول** آن است (CDC MMWR 2019). دوز دقیق، مدت، و دوزهای Ceftriaxone و Meropenem در این فصل از منبع اولیه تأیید نشد → SD-54. پروتوکول ملی یا فورمولری شفاخانه را دنبال کن.
+**دوزها:** دوز Azithromycin برای Typhoid **بلندتر از دوز معمول** آن است (CDC MMWR 2019). دوز دقیق، مدت، و دوزهای Ceftriaxone و Meropenem را از پروتوکول ملی یا فورمولری شفاخانه بگیر.
 **منطق مرز افغانستان–پاکستان:** رفت‌وآمد زیاد است. **در مریض ناجور یا کسی که به Ceftriaxone جواب نمی‌دهد، به XDR فکر کن.**
 **جواب تداوی (CDC Yellow Book):**
 - تب ممکن است **۳–۵ روز** ادامه یابد، ولی حد اعظمی آن روزانه پایین می‌آید.
@@ -20441,11 +20406,11 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 1. Centers for Disease Control and Prevention. Clinical Guidance for Typhoid Fever and Paratyphoid Fever. Updated April 24, 2024.
 2. CDC Yellow Book 2024: Typhoid & Paratyphoid Fever.
 3. Chatham-Stephens K, et al. Emergence of extensively drug-resistant *Salmonella* Typhi infections among travelers to or from Pakistan — United States, 2016–2018. *MMWR.* 2019;68(1):11–13.
-4. Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. *PLoS Med.* 2007;4(12):e317. (متن اصلی خوانده نشد → SD-54.)
+4. Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. *PLoS Med.* 2007;4(12):e317.
 = فصل ۷۰ — HIV: از شک تا تداوی مادام‌العمر
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دهم — انتانات** · *Currentness audit: WHO Consolidated HIV guidelines (2021، با به‌روزرسانی‌های بعدی) برای شروع سریع ART و رژیم خط اول؛ **WHO guidelines on the management of advanced HIV disease (2025)** برای AHD؛ WHO TB operational handbook برای تداخل Rifampicin و Dolutegravir. دوزهای Co-trimoxazole، Fluconazole و ترکیب ثابت خط اول از متن اصلی خوانده نشد → SD-56. پروتوکول ملی افغانستان (برنامهٔ ملی کنترول ایدز) باید پیش از چاپ مقایسه شود.*
+  **بخش دهم — انتانات**
 ]
 == کمال، و سؤالی که کسی نپرسیده بود
 **کمال** ۳۲ ساله، کارگر که چند سال در ایران کار کرده بود: دو ماه اسهال، ۱۰ kg کاهش وزن، سرفه، و **Candida سفید در دهن**. سه بار Antibiotic گرفته بود. هیچ کس از او نپرسیده بود: **«اجازه است برای HIV تست کنیم؟»**
@@ -20453,7 +20418,6 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - کسانی که **مواد مخدر زرقی** استعمال می‌کنند؛
 - مهاجرین بازگشته؛
 - و همسران آن‌ها.
-*(ارقام ملی → SD-56.)*
 کم‌شیوع بودن یعنی **داکتر به آن فکر نمی‌کند**. و همین است که اکثر مریضان در **مرحلهٔ پیشرفته** تشخیص می‌شوند.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۱. چرا به HIV فکر کنیم؟ — سرنخ‌ها
@@ -20502,7 +20466,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
   caption: none,
 )
 #v(0.4em)
-*(دوزهای Fluconazole و Co-trimoxazole → SD-56.)*
+*(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۴. ART — چه وقت و کدام
 === چه وقت؟
@@ -20513,23 +20477,23 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 **در مننژیت TB یا Cryptococcal، ART فوری منع است** (WHO)، به دلیل خطر **IRIS** کشنده در مغز.
 - **IRIS (Immune reconstitution inflammatory syndrome):** سیستم ایمنی که با ART برمی‌گردد، به انتان موجود حمله می‌کند و التهاب شدید می‌سازد.
 - **در مریض با علایم TB بدون مننژیت:** ART را شروع کن و TB را سریع بررسی کن. اگر TB تأیید شد، تداوی TB در ظرف ۷ روز شروع شود (WHO).
-- زمان دقیق ART در مننژیت با متخصص است → SD-56.
+- زمان دقیق ART در مننژیت با متخصص است
 === کدام؟
 - **Dolutegravir (DTG) + دو NRTI** (معمولاً **Tenofovir + Lamivudine** یا Emtricitabine) رژیم **ترجیحی خط اول** است (WHO: توصیهٔ قوی برای کاهلان).
-- مثال: **TLD**، ترکیب ثابت یک تابلت یک بار در روز. *(ترکیب mg → SD-56.)*
+- مثال: **TLD**، ترکیب ثابت یک تابلت یک بار در روز. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **تداخل مهم:** **Rifampicin** غلظت Dolutegravir را کم می‌کند. **WHO: Dolutegravir ۵۰ mg دو بار در روز** (به جای ۵۰ mg یک بار) در زمان تداوی TB با Rifampicin. Rifampicin در Brucellosis هم استعمال می‌شود (فصل ۶۹).
-- **Tenofovir** بر گرده و استخوان اثر دارد. **Creatinine را نظارت کن.** در CrCl پایین، رژیم تغییر می‌کند → SD-56.
+- **Tenofovir** بر گرده و استخوان اثر دارد. **Creatinine را نظارت کن.** در CrCl پایین، رژیم تغییر می‌کند
 - **HBV همزمان:** Tenofovir + Lamivudine هر دو را تداوی می‌کند. **قطع آن‌ها می‌تواند Flare کبدی شدید بسازد** (فصل ۳۱).
 === پیگیری
 - **Viral load** اندازهٔ اصلی موفقیت است. هدف **غیرقابل تشخیص** است.
-- **«غیرقابل تشخیص = غیرقابل انتقال» (U=U):** مریض با Viral load دایماً سرکوب‌شده، HIV را از راه جنسی انتقال نمی‌دهد. این یک پیام قوی برای پابندی است. *(منبع اولیه در این فصل → SD-56.)*
+- **«غیرقابل تشخیص = غیرقابل انتقال» (U=U):** مریض با Viral load دایماً سرکوب‌شده، HIV را از راه جنسی انتقال نمی‌دهد. این یک پیام قوی برای پابندی است.
 - **Viral load بلند** اکثراً یعنی **پابندی ضعیف**، نه مقاومت. اول پابندی را بهبود بده، بعد تکرار کن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۵. جلوگیری
 - **PEP (Post-exposure prophylaxis):**
 - برای **کارمند صحی پس از زخم سوزن** با خون مریض مثبت یا نامعلوم؛
 - و پس از تجاوز جنسی.
-- **هر چه زودتر، ترجیحاً در ساعت‌ها؛ نه پس از ۷۲ ساعت.** *(رژیم → SD-56.)*
+- **هر چه زودتر، ترجیحاً در ساعت‌ها؛ نه پس از ۷۲ ساعت.** *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **جلوگیری از انتقال مادر به طفل:** ART در حاملگی نزدیک به همهٔ انتقال‌ها را جلوگیری می‌کند.
 - برنامه‌های سوزن پاک و تداوی جایگزین مواد مخدر.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -20574,7 +20538,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 = فصل ۷۱ — Tetanus و انتانات جلد و نسج نرم
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دهم — انتانات** · *Currentness audit: Tetanus — CDC و AAP Red Book (از طریق CDPH Tetanus Quicksheet، می ۲۰۲۶): TIG تداوی ۵۰۰ IU و پروفیلاکسی ۲۵۰ U. Metronidazole و Magnesium از Medscape (ثانوی) → SD-57. SSTI — اصول IDSA Practice Guideline for SSTI (Stevens DL et al., CID 2014)؛ متن اصلی خوانده نشد و **دوز Antibiotic نوشته نشد** → SD-57. رهنمود بین‌المللی تازه‌تری برای SSTI یافت نشد.*
+  **بخش دهم — انتانات**
 ]
 == یک میخ زنگ‌زده و یک زخم پا
 - **غلام‌سرور** ۵۰ ساله، دهقان از لوگر: ده روز پیش پایش با میخ زنگ‌زده در طویله زخمی شد. امروز **دهنش باز نمی‌شود**، گردن و پشت او سخت است، و با صدای بلند **اسپاسم دردناک** می‌گیرد. در تمام عمر هیچ واکسین نگرفته است.
@@ -20600,16 +20564,15 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 2. **خنثی کردن توکسین آزاد — TIG (Human tetanus immunoglobulin):** **۵۰۰ IU عضلی یک دوز، فوراً** (CDC و AAP Red Book). بخشی از دوز ممکن است دور زخم زرق شود. اگر TIG نیست، IVIG قابل بررسی است (CDC).
 3. **از بین بردن منبع توکسین:**
 - **پاک‌کاری و Debridement زخم**؛
-- **Metronidazole** بر Penicillin ترجیح دارد، چون Penicillin هم مانند توکسین، اثر GABA را مهار می‌کند (Medscape). *(دوز → SD-57.)*
+- **Metronidazole** بر Penicillin ترجیح دارد، چون Penicillin هم مانند توکسین، اثر GABA را مهار می‌کند (Medscape). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 4. **کنترول اسپاسم و اتونوم:**
 - Benzodiazepine؛
 - **Magnesium sulphate** وریدی: اسپاسم و بی‌ثباتی قلبی–عروقی را کم می‌کند، اما نیاز به تنفس مصنوعی را کم نمی‌سازد.
 - با Magnesium، **Reflex زانو** را نظارت کن. فقدان آن یعنی دوز را کم کن.
-- *(دوزهای Benzodiazepine و Magnesium → SD-57؛ پروتوکول ICU.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 5. **واکسین:** **Tetanus مصونیت نمی‌سازد.** دورهٔ کامل واکسین Td را شروع کن، در محل جدا از TIG.
 **تغذیه، جلوگیری از زخم بستر و VTE (فصل ۱۴)، و حمایت روانی** — مریض هوشیار است و هفته‌ها درد می‌کشد.
 === ۴. جلوگیری در زخم تازه — مهم‌ترین درس
-*(CDC؛ از طریق CDPH Quicksheet. جزئیات جدول → SD-57.)*
 #figure(
   table(columns: (auto, auto, auto),
     stroke: 0.5pt + rgb("#9fb8bb"),
@@ -20643,7 +20606,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
   caption: none,
 )
 #v(0.4em)
-*(اصول از IDSA 2014؛ دوزها → SD-57.)*
+*(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 === ۲. Necrotizing fasciitis — «نسرین» را از دست نده
 - **سرنخ‌های سرخ:**
 - **درد نامتناسب با ظاهر**؛
@@ -20653,7 +20616,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **سپسیس یا شوک**.
 - **تشخیص با جراحی است.** CT ممکن است کمک کند، اما **هرگز جراحی را به تأخیر نیندازد**. نسج مرده فقط با برداشتن جراحی خوب می‌شود. Antibiotic به آن نمی‌رسد.
 - **عوامل خطر:** دیابت، سیروز، Immunosuppression، و زرق مواد.
-- **تداوی:** **Debridement جراحی عاجل و مکرر** + Antibiotic وسیع‌الطیف تجربی (پوشش Streptococcus، Staphylococcus شامل MRSA، Gram-negative و Anaerobe؛ IDSA) + احیای سپسیس (فصل ۶۷). *(رژیم و دوز → SD-57.)*
+- **تداوی:** **Debridement جراحی عاجل و مکرر** + Antibiotic وسیع‌الطیف تجربی (پوشش Streptococcus، Staphylococcus شامل MRSA، Gram-negative و Anaerobe؛ IDSA) + احیای سپسیس (فصل ۶۷). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 === ۳. Cellulitis — دام‌ها
 - **Cellulitis دو‌طرفه نادر است.** سرخی هر دو پا اکثراً **Stasis dermatitis**، اکزیما یا Lipodermatosclerosis است. Antibiotic لازم نیست.
 - **DVT** را رد کن (فصل ۱۴)؛ پندیدگی یک‌طرفهٔ پا ممکن است DVT باشد.
@@ -20693,13 +20656,13 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 5. تداوی اصلی ابسه؟ ← شق و تخلیه.
 == 📚 References
 1. California Department of Public Health. Tetanus Quicksheet (بر اساس CDC و AAP Red Book). 2026.
-2. Medscape. Tetanus Treatment & Management. 2025. (ثانوی؛ Metronidazole و Magnesium → SD-57.)
-3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52. (متن اصلی خوانده نشد → SD-57.)
+2. Medscape. Tetanus Treatment & Management. 2025.
+3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52.
 = بخش یازدهم — روماتولوژی
 = فصل ۷۲ — رهیافت به مریض با درد مفاصل
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش یازدهم — روماتولوژی** · *این فصل رهیافت است و رهنمود یک مرض نیست. معیارهای تشخیصی و تداوی هر مرض در فصل‌های ۷۳–۷۶ با منبع می‌آیند. Currentness: تعریف‌ها و سؤال‌ها بر اصول بالینی عمومی استوارند؛ هیچ ادعای عددی تازه در این فصل نیست، جز آنچه به فصل‌های بعد ارجاع شده.*
+  **بخش یازدهم — روماتولوژی**
 ]
 == «داکتر صاحب، همه بندهایم درد می‌کند»
 این جمله را در هر کلینیک سرپایی افغانستان هر روز چند بار می‌شنوی. پشت آن ممکن است این‌ها باشد:
@@ -20872,7 +20835,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 = فصل ۷۳ — Rheumatoid arthritis
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش یازدهم — روماتولوژی** · *Currentness audit: **EULAR 2022 update** (Smolen JS et al., Ann Rheum Dis 2023) و **ACR 2021** (Fraenkel L et al., Arthritis Care Res 2021) — از خلاصه‌های Medscape، Rheumatology Advisor و Healio؛ متن اصلی خوانده نشد → SD-58. اختلاف دو رهنمود دربارهٔ Glucocorticoid ذکر شده. معیارهای طبقه‌بندی ACR/EULAR 2010 از منبع اولیه خوانده نشد → SD-58.*
+  **بخش یازدهم — روماتولوژی**
 ]
 == فریده، شش ماه بعد از «درد بند»
 **فریده** را از فصل ۷۲ می‌شناسیم: ۳۶ ساله، مادر سه طفل، شش ماه سختی صبحگاهی بیشتر از یک ساعت و پندیدگی متناظر مفاصل کوچک هر دو دست. در این شش ماه:
@@ -20897,7 +20860,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **Polyarthritis متناظر مفاصل کوچک**: MCP، PIP، مچ دست، و MTP پا. **DIP اکثراً سالم است** (برخلاف OA).
 - **سختی صبحگاهی طولانی**.
 - **بیشتر از ۶ هفته**.
-**معیارهای طبقه‌بندی ACR/EULAR 2010** *(جزئیات → SD-58)*:
+**معیارهای طبقه‌بندی ACR/EULAR 2010**:
 - چهار حوزه نمره داده می‌شوند:
 1. تعداد و نوع مفاصل درگیر؛
 2. **سیرولوژی** (RF و Anti-CCP)؛
@@ -20934,11 +20897,11 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **دوز:**
 - EULAR: **دوز در ظرف ۴–۶ هفته به حدود ۰.۳ mg/kg در هفته** رسانده شود.
 - ACR 2021: حد اقل **۱۵ mg در هفته در ظرف ۴–۶ هفته**، نه شروع با ۷.۵ mg و ماه‌ها انتظار.
-- *(دوز شروع دقیق و حد اعظمی → SD-58.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - ⚠️ **Methotrexate یک بار در هفته است، نه روزانه.** **خوردن روزانهٔ آن اشتباهاً مرگ‌بار بوده است** (سرکوب مغز استخوان، التهاب شدید مخاط). روز هفته را روی نسخه **به کلمات بنویس** (مثلاً «هر روز شنبه»)، و به مریض و فامیل توضیح بده.
-- **Folic acid** همراه آن عوارض را کم می‌کند. *(دوز → SD-58.)*
+- **Folic acid** همراه آن عوارض را کم می‌کند. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **منع و احتیاط:**
-- **حاملگی:** منع مطلق (سقط، تشوهات). مانع حاملگی مؤثر لازم است. زمان قطع پیش از حاملگی → SD-58.
+- **حاملگی:** منع مطلق (سقط، تشوهات). مانع حاملگی مؤثر لازم است. زمان قطع پیش از حاملگی
 - **CKD** (تراکم دوا → سمیت)، **مرض کبدی**، **الکول**، و **انتان فعال**.
 - **تداخل:** **Co-trimoxazole** با Methotrexate خطر سرکوب مغز استخوان را بالا می‌برد.
 - **پیگیری:** CBC، ALT، Creatinine به طور منظم. **سرفهٔ خشک تازه و تنگی نفس** → Pneumonitis Methotrexate (فصل ۲۱).
@@ -20946,13 +20909,13 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **EULAR 2022:** Glucocorticoid **کوتاه‌مدت** (Bridging) را هنگام شروع یا تغییر DMARD در نظر بگیر، و **هر چه زودتر کم و قطع کن**، معمولاً در ظرف **۳ ماه**.
 - **ACR 2021:** Glucocorticoid را **حتی‌الامکان نده**. به جای آن DMARD را تغییر بده یا اضافه کن.
 - **قضاوت برای این کتاب:** هر دو یک پیام دارند: **Glucocorticoid دراز مدت نه**. Bridging کوتاه، با پلان قطع از روز اول، قابل قبول است (EULAR). **Dexamethasone زرقی مکرر بدون DMARD** (عادت شایع) **با هیچ رهنمودی موافق نیست.**
-- **دوز Bridging** → SD-58.
+- **دوز Bridging**
 === (۴) اگر Methotrexate کافی نبود یا منع بود
 - **منع یا عدم تحمل زودهنگام:** **Leflunomide** یا **Sulfasalazine** (EULAR). **Hydroxychloroquine** در ترکیب هم استعمال می‌شود.
 - **هدف به دست نیامد، و عوامل پروگنوز (Prognosis) بد نیست:** DMARD متداول دیگر یا ترکیب.
 - **با عوامل پروگنوز بد** (Anti-CCP یا RF بلند، فعالیت بلند، Erosion زودهنگام، ناکامی دو DMARD): **DMARD Biologic** (مثلاً ضد TNF) یا **JAK inhibitor** (EULAR). JAK inhibitorها در مریضان با عوامل خطر قلبی، VTE یا سرطان با احتیاط استعمال شوند (EULAR 2022).
 - **پیش از Biologic:** **TB نهفته** را غربالگری و تداوی کن (در افغانستان بسیار مهم؛ فصل ۱۹)، و **HBV** را هم.
-- *(دوزهای Leflunomide، Sulfasalazine، Hydroxychloroquine و Biologicها → SD-58.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 === (۵) NSAID
 درد را کم می‌کند، اما **مرض را متوقف نمی‌سازد**. با احتیاط در معده (فصل ۲۶)، گرده (فصل ۳۸) و قلب؛ کوتاه‌ترین مدت ممکن.
 === (۶) آنچه دوا نیست
@@ -20993,13 +20956,13 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 4. اختلاف EULAR و ACR؟ ← EULAR: Glucocorticoid کوتاه و قطع در ۳ ماه؛ ACR: حتی‌الامکان نه.
 5. پیش از Biologic؟ ← غربالگری TB نهفته و HBV.
 == 📚 References
-1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18. (از خلاصه‌ها → SD-58.)
-2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939. (از خلاصه‌ها → SD-58.)
-3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
+1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939.
+3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581.
 = فصل ۷۴ — Systemic lupus erythematosus (SLE) و Vasculitis سیستمیک
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش یازدهم — روماتولوژی** · *Currentness audit: **EULAR recommendations for SLE: 2023 update** (Fanouriakis A et al., Ann Rheum Dis 2024;83:15–29) — متن ard.eular.org و شکل الگوریتم آن مستقیم خوانده شد. معیارهای طبقه‌بندی **EULAR/ACR 2019** از منبع اولیه خوانده نشد → SD-59. تداوی Lupus nephritis با KDIGO 2024 (فصل ۳۷) هماهنگ است.*
+  **بخش یازدهم — روماتولوژی**
 ]
 == «چرا هیچ کس نمی‌فهمد مرا چه شده؟»
 **مریم** ۲۶ ساله، معلم از هرات. در دو سال گذشته به پنج داکتر مراجعه کرده بود:
@@ -21045,7 +21008,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 == ۳. تشخیص
 === تست‌ها — منطق ترتیب
 1. **ANA** (با Immunofluorescence):
-- **حساس است.** تقریباً همهٔ مریضان SLE آن را دارند. در **معیارهای EULAR/ACR 2019، ANA مثبت (تیتر ۱:۸۰ یا بیشتر) شرط ورود است** *(→ SD-59)*.
+- **حساس است.** تقریباً همهٔ مریضان SLE آن را دارند. در **معیارهای EULAR/ACR 2019، ANA مثبت (تیتر ۱:۸۰ یا بیشتر) شرط ورود است**.
 - **ANA منفی SLE را تقریباً رد می‌کند.**
 - **ANA مثبت به تنهایی SLE نیست**، چون در بسیاری افراد سالم هم مثبت است (فصل ۷۲).
 2. **اگر ANA مثبت و تصویر بالینی سازگار است:**
@@ -21061,7 +21024,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - فشار خون.
 - **Nephritis اکثراً بی‌علامه آغاز می‌شود.**
 4. **Biopsy گرده** در شک به Nephritis (پروتینوریا یا رسوب فعال) → **Class** تداوی را تعیین می‌کند (فصل ۳۷).
-**معیارهای طبقه‌بندی EULAR/ACR 2019:** شرط ورود ANA است. بعد حوزه‌های بالینی و ایمونولوژیک وزن‌دار نمره می‌گیرند. **این معیارها برای طبقه‌بندی‌اند؛ تشخیص بالینی است** *(جزئیات → SD-59)*.
+**معیارهای طبقه‌بندی EULAR/ACR 2019:** شرط ورود ANA است. بعد حوزه‌های بالینی و ایمونولوژیک وزن‌دار نمره می‌گیرند. **این معیارها برای طبقه‌بندی‌اند؛ تشخیص بالینی است**.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۴. تداوی (EULAR 2023)
 === (۱) هدف
@@ -21077,8 +21040,8 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **قطع آن Flare می‌آورد.**
 - **دوز هدف: ۵ mg/kg وزن واقعی بدن در روز** (EULAR 2023)، که بر اساس خطر Flare و خطر سمیت شبکیه فردی می‌شود.
 - در مرض متوسط یا شدید، دوز ابتدایی بلندتر از ۵ mg/kg (**اما نه بیشتر از ۴۰۰ mg/روز**) ممکن است، و پس از بهبود کم شود.
-- **سمیت شبکیه:** معاینهٔ چشم در شروع و به طور منظم. خطر بیشتر در **مرض گرده**، مرض قبلی شبکیه، و Tamoxifen (EULAR 2023). *(جدول زمانی → SD-59.)*
-- **حاملگی:** HCQ ادامه یابد. *(→ SD-59.)*
+- **سمیت شبکیه:** معاینهٔ چشم در شروع و به طور منظم. خطر بیشتر در **مرض گرده**، مرض قبلی شبکیه، و Tamoxifen (EULAR 2023).
+- **حاملگی:** HCQ ادامه یابد.
 === (۳) Glucocorticoid — پل کوتاه، نه خانه
 - **فقط در صورت ضرورت**، به عنوان **Bridging** در دورهٔ فعالیت مرض (EULAR 2023).
 - **دوز نگهداری: ۵ mg/روز Prednisone یا معادل آن، یا کمتر**، و **در صورت امکان قطع** شود. این حد از ۷.۵ mg در EULAR 2019 **پایین‌تر آورده شده** است.
@@ -21089,15 +21052,15 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 - **Methotrexate، Azathioprine، یا Mycophenolate**؛
 - و/یا دواهای Biologic: **Belimumab** یا **Anifrolumab**.
 - **Cyclophosphamide** در مرض تهدیدکنندهٔ عضو؛ **Rituximab** در مرض مقاوم.
-- *(دوزها → SD-59.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 === (۵) Lupus nephritis (EULAR 2023؛ فصل ۳۷)
 - **دواهای لنگر:** Glucocorticoid + **Mycophenolate** یا **Cyclophosphamide وریدی دوز پایین** (رژیم Euro-Lupus).
 - **اضافه کردن Belimumab یا یک Calcineurin inhibitor** (Voclosporin یا Tacrolimus) در نظر گرفته شود، به ویژه در Nephritis شدید.
 - **نگهداری:** Mycophenolate یا Azathioprine، و **تداوی حد اقل ۳ سال** ادامه یابد.
 - **حفاظت گرده:** ACE inhibitor یا ARB برای پروتینوریا، و کنترول فشار.
-- *(دوزها → SD-59؛ هماهنگ با KDIGO 2024 در فصل ۳۷.)*
+- *(دوزها؛ هماهنگ با KDIGO 2024 در فصل ۳۷.)*
 === (۶) حاملگی — پلان، نه تصادف
-- **حاملگی را در دورهٔ آرامش مرض** (حد اقل چند ماه) پلان کن. *(مدت → SD-59.)*
+- **حاملگی را در دورهٔ آرامش مرض** (حد اقل چند ماه) پلان کن.
 - **Mycophenolate، Methotrexate و Cyclophosphamide** در حاملگی **منع‌اند**. پیش از حاملگی به دواهای مجاز تبدیل کن.
 - **Antiphospholipid antibodies** را پیش از حاملگی بررسی کن (فصل ۶۴).
 - **Anti-Ro/SSA** → خطر **Heart block مادرزادی** نوزاد.
@@ -21137,8 +21100,8 @@ CBC، Creatinine، **معاینهٔ ادرار با میکروسکوپ** (RBC ca
 - **Plasma exchange** در RPGN «در نظر گرفته می‌شود» — تصمیم متخصص است و معمول نیست.
 - نگهداری Remission: **Rituximab**؛ Azathioprine یا Methotrexate بدیل‌ها اند.
 - EGPA عودکننده یا مقاوم: **Mepolizumab**.
-- **دوزها (متن کامل EULAR 2022، ard.bmj.com، ۲۰۲۶-۰۹-۲۵):** Glucocorticoid فمی با دوز شروع **۵۰–۷۵ mg Prednisolone در روز مطابق وزن**، بعد کاهش مرحله‌وار مطابق رژیم کم‌دوز PEXIVAS تا **۵ mg در روز در ماه ۴–۵**؛ در مرض بدون تهدید عضو، دوز شروع کمتر (۰٫۵ mg/kg/day) در مریضان منتخب. **Rituximab:** یا **۳۷۵ mg/m² هفته‌وار برای ۴ هفته**، یا **۱ g در هفتهٔ ۰ و ۲** (اثر و عوارض مشابه). Rituximab در مرض عودکننده و در مریضی که باروری برایش مهم است بر Cyclophosphamide ترجیح دارد. Plasma exchange فقط در مریضان منتخب با **Creatinine بیشتر از ۳۰۰ µmol/L** از Glomerulonephritis فعال. Avacopan پس از ۶–۱۲ ماه قطع شود.
-- 🔒 دوز Cyclophosphamide و جدول کامل کاهش Glucocorticoid (جدول ۴ رهنمود، تصویر) خوانده نشد؛ این تداوی فقط در مرکز متخصص شروع می‌شود (SD-101).
+- **دوزها (EULAR 2022):** Glucocorticoid فمی با دوز شروع **۵۰–۷۵ mg Prednisolone در روز مطابق وزن**، بعد کاهش مرحله‌وار مطابق رژیم کم‌دوز PEXIVAS تا **۵ mg در روز در ماه ۴–۵**؛ در مرض بدون تهدید عضو، دوز شروع کمتر (۰٫۵ mg/kg/day) در مریضان منتخب. **Rituximab:** یا **۳۷۵ mg/m² هفته‌وار برای ۴ هفته**، یا **۱ g در هفتهٔ ۰ و ۲** (اثر و عوارض مشابه). Rituximab در مرض عودکننده و در مریضی که باروری برایش مهم است بر Cyclophosphamide ترجیح دارد. Plasma exchange فقط در مریضان منتخب با **Creatinine بیشتر از ۳۰۰ µmol/L** از Glomerulonephritis فعال. Avacopan پس از ۶–۱۲ ماه قطع شود.
+- دوز Cyclophosphamide و جدول کامل کاهش Glucocorticoid در این کتاب نیامده؛ این تداوی فقط در مرکز متخصص شروع می‌شود.
 === پیگیری
 Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocystis و بررسی انتانات در مریضی که دوای سرکوب ایمنی می‌گیرد، به تصمیم متخصص؛ عود شایع است.
 == ⚠️ تب در مریض SLE: Flare یا انتان؟
@@ -21186,13 +21149,13 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 5. تب در SLE با CRP بسیار بلند؟ ← اول انتان.
 == 📚 References
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
-2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
+2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159.
 3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
 4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672
 = فصل ۷۵ — نقرس و Osteoarthritis
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش یازدهم — روماتولوژی** · *Currentness audit: نقرس — **ACR 2020** (FitzGerald JD et al., Arthritis Care Res 2020;72:744–760)؛ خلاصه و متن جزئی از ResearchGate و Medscape (سپتمبر ۲۰۲۶) خوانده شد. EULAR 2016 برای Colchicine ۰.۵ mg. OA — اصول **ACR/Arthritis Foundation 2019** (Kolasinski SL et al.)؛ متن اصلی خوانده نشد → SD-60.*
+  **بخش یازدهم — روماتولوژی**
 ]
 == دو زانو، دو قصه
 - **حاجی نظر** ۵۸ ساله، چاق، با فشار بلند و CKD مرحلهٔ ۳، که Hydrochlorothiazide می‌خورد: دیشب پس از مهمانی گوشت، **ساعت ۳ شب** از درد شست پای راست بیدار شد. پایش سرخ و داغ است و **حتی تماس لحاف را تحمل نمی‌کند**. این سومین حملهٔ امسال اوست.
@@ -21235,7 +21198,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
   caption: none,
 )
 #v(0.4em)
-*(دوز و مدت NSAID و Glucocorticoid → SD-60.)*
+*(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **دوای کاهش یوریک (Allopurinol) را در حمله قطع نکن** اگر مریض از قبل آن را می‌خورد (ACR 2020).
 - یخ، استراحت مفصل.
 === ۴. تداوی دراز مدت — کاهش اسید یوریک (ULT)
@@ -21243,18 +21206,17 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **Tophi**؛
 - **تخریب مفصل** در تصویربرداری؛
 - یا **حملات مکرر** (دو یا بیشتر در سال).
-*(حالات مشروط، مثل حملهٔ اول با CKD یا سنگ → SD-60.)*
 **⚠️ اسید یوریک بلند بدون علایم (Asymptomatic hyperuricaemia):** ACR 2020 **ULT را توصیه نمی‌کند**. «یوریک بلند در تست» تشخیص نقرس نیست.
 **Allopurinol — خط اول** (ACR 2020، شامل CKD متوسط تا شدید):
 - **دوز شروع پایین: ۱۰۰ mg/روز یا کمتر، و کمتر در CKD** (مرحلهٔ ۳ یا بالاتر؛ معمول ۵۰ mg) (ACR 2020: قوی).
 - **آهسته بالا ببر** (هر چند هفته) تا **اسید یوریک کمتر از ۶ mg/dL** (۳۶۰ µmol/L) برسد (**Treat to target**).
-- **دوز لازم اکثراً از ۳۰۰ mg بیشتر است** (ACR 2020). **«۳۰۰ mg برای همه» اشتباه است**؛ هدف عدد یوریک است، نه یک دوز ثابت. *(حد اعظمی در CKD → SD-60.)*
+- **دوز لازم اکثراً از ۳۰۰ mg بیشتر است** (ACR 2020). **«۳۰۰ mg برای همه» اشتباه است**؛ هدف عدد یوریک است، نه یک دوز ثابت.
 - **منطق دوز پایین:** **Allopurinol hypersensitivity syndrome** (بثورات شدید، SJS/TEN، التهاب کبد و گرده) نادر اما کشنده است. خطر آن با **دوز شروع بلند** و **CKD** بیشتر می‌شود.
-- **HLA-B5801:** در مردم **جنوب شرق آسیا** (Han Chinese، Korean، Thai) و African American تست پیش از شروع پیشنهاد می‌شود (ACR 2020). برای مردم افغانستان، شیوع این Allele در این فصل تأیید نشد → SD-60.
+- **HLA-B5801:** در مردم **جنوب شرق آسیا** (Han Chinese، Korean، Thai) و African American تست پیش از شروع پیشنهاد می‌شود (ACR 2020). برای مردم افغانستان، شیوع این Allele معلوم نیست
 - **پروفیلاکسی حمله هنگام شروع:** Colchicine دوز پایین، NSAID یا Prednisone دوز پایین، برای **۳–۶ ماه** (ACR 2020). کاهش سریع یوریک کرستال‌ها را حرکت می‌دهد و حمله می‌آورد. **به مریض بگو که حمله در ماه‌های اول انتظار می‌رود؛ دوا را قطع نکند.**
 - **مادام‌العمر**: قطع آن یوریک را برمی‌گرداند.
 - **تداخل خطرناک:** **Allopurinol + Azathioprine** (یا 6-Mercaptopurine) → سرکوب شدید مغز استخوان. با هم نده، یا دوز Azathioprine را بسیار کم کن (با متخصص).
-**Febuxostat:** بدیل. *(جزئیات → SD-60.)*
+**Febuxostat:** بدیل.
 **عوامل قابل تغییر:**
 - **Thiazide** را اگر ممکن است با دوای دیگر فشار بدل کن؛ **Losartan** یوریک را کمی پایین می‌آورد (ACR 2020: مشروط).
 - کاهش وزن؛ کم کردن الکول، گوشت سرخ و نوشابهٔ شیرین.
@@ -21271,7 +21233,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - X-ray برای تأیید یا پلان جراحی؛ **شدت X-ray با شدت درد همخوان نیست**.
 - **RF، ANA و «پنل روماتیزمی» لازم نیست** (فصل ۷۲).
 - **Effusion داغ یا التهاب شدید** → ارتریت دیگر (نقرس، CPPD، انتان) را رد کن.
-=== ۳. تداوی (اصول ACR 2019 → SD-60)
+=== ۳. تداوی
 **سنگ بنای تداوی — نه دوا:**
 - **ورزش** (تقویت عضلهٔ ران، راه رفتن، ورزش در آب)؛ **مؤثرترین تداوی** OA زانو و لگن است. «بند فرسوده را استراحت بده» غلط است.
 - **کاهش وزن** در OA زانو؛ حتی کاهش کم فرق می‌سازد.
@@ -21279,10 +21241,10 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 **دواها:**
 - **NSAID موضعی** (جل Diclofenac — Gel) برای OA زانو: توصیهٔ قوی (ACR 2019)، با خطر سیستمیک کمتر. **پیش از NSAID فمی، این را امتحان کن**، به ویژه در مسن‌ها.
 - **NSAID فمی:** کمترین دوز، کوتاه‌ترین مدت، با توجه به معده، گرده و قلب.
-- **Steroid داخل مفصل:** برای **Flare**، **نه مکرر و دایمی**. *(حد دفعات → SD-60.)*
+- **Steroid داخل مفصل:** برای **Flare**، **نه مکرر و دایمی**.
 - **Dexamethasone سیستمیک یا عضلی برای OA: نه.** هیچ جایی در رهنمودها ندارد و عوارض جدی دارد (فصل ۵۰).
 - **Glucosamine و Chondroitin:** ACR 2019 علیه آن‌ها توصیه می‌کند.
-- **Opioid‌های قوی:** نه، یا به ندرت. *(→ SD-60.)*
+- **Opioid‌های قوی:** نه، یا به ندرت.
 - **تعویض مفصل (Arthroplasty):** وقتی درد و معیوبیت با وجود تداوی کامل ادامه دارد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس‌ها
@@ -21319,12 +21281,12 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 5. مؤثرترین تداوی OA زانو؟ ← ورزش و کاهش وزن.
 == 📚 References
 1. FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. *Arthritis Care Res.* 2020;72(6):744–760.
-2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42. (فقط دوز Colchicine ۰.۵ mg؛ مستقیم خوانده نشد → SD-60.)
-3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162. (خوانده نشد → SD-60.)
+2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42.
+3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162.
 = فصل ۷۶ — ارتریت سپتیک، Spondyloarthritis و Osteomyelitis
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش یازدهم — روماتولوژی** · *Currentness audit: ارتریت سپتیک — رهنمود بین‌المللی تازه و واحد یافت نشد؛ اصول بالینی استندرد، **بدون دوز Antibiotic** (SD-61). Axial spondyloarthritis — **ASAS-EULAR 2022** (Ramiro S et al., Ann Rheum Dis 2023) از RheumNow، ResearchGate و Manchester Research Explorer. Vertebral osteomyelitis — **IDSA 2015** (Berbari EF et al., CID 2015؛ Guideline Central، بازبینی می ۲۰۲۶).*
+  **بخش یازدهم — روماتولوژی**
 ]
 == سه درد، سه عجله
 - **حاجی عبدالقیوم** ۶۲ ساله، دیابتی، را از فصل ۷۲ می‌شناسیم: زانوی داغ یک‌گانه با تب. Aspiration: Cocci مثبت گرام خوشه‌ای.
@@ -21350,13 +21312,13 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **تب ممکن است نباشد.** نبود تب انتان را رد نمی‌کند (فصل ۶۶).
 - **Aspiration مایع — پیش از Antibiotic:**
 - **گرام و کلچر**؛
-- **شمارش WBC** (بسیار بلند با غلبهٔ Neutrophil اکثراً به انتان اشاره دارد؛ اما **هیچ عددی انتان را به طور قطعی رد یا تأیید نمی‌کند**) → *حدود عددی → SD-61*؛
+- **شمارش WBC** (بسیار بلند با غلبهٔ Neutrophil اکثراً به انتان اشاره دارد؛ اما **هیچ عددی انتان را به طور قطعی رد یا تأیید نمی‌کند**)؛
 - **کرستال**. کرستال مثبت انتان را رد نمی‌کند؛ هر دو ممکن است با هم باشند.
 - **کلچر خون** (دو ست).
 - CRP، ESR و WBC کمک می‌کنند، اما **نه برای رد**.
 - **شک به Gonococcus:** کلچر یا NAAT از ادرار، عنق رحم یا احلیل، و گلو.
 === ۳. تداوی
-1. **Antibiotic وریدی تجربی فوراً پس از Aspiration**، بر اساس **گرام**، سن، عوامل خطر، و **خطر MRSA** و مقاومت محلی. بعد بر اساس کلچر تنظیم کن. *(رژیم‌ها، دوزها و مدت → SD-61.)*
+1. **Antibiotic وریدی تجربی فوراً پس از Aspiration**، بر اساس **گرام**، سن، عوامل خطر، و **خطر MRSA** و مقاومت محلی. بعد بر اساس کلچر تنظیم کن. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 2. **تخلیهٔ مفصل:** Aspiration مکرر با سوزن، یا **شستشوی جراحی/Arthroscopic**. **برای مفصل لگن، مفصل مصنوعی، یا جواب ضعیف → ارتوپیدی.**
 3. **مفصل مصنوعی انتانی** → ارتوپیدی از روز اول.
 4. **فزیوتراپی** پس از کنترول انتان، برای حفظ حرکت.
@@ -21398,7 +21360,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **Uveitis مکرر یا IBD:** TNF monoclonal antibody ترجیح دارد.
 - **Psoriasis قابل ملاحظه:** IL-17i.
 6. **پیش از Biologic:** **TB نهفته و HBV** (فصل ۱۹، ۳۱؛ مثل فصل ۷۳).
-*(دوزها → SD-61.)*
+*(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 **Reactive arthritis:**
 - Oligoarthritis پاها ۱–۴ هفته پس از **اسهال** (فصل ۲۹) یا **انتان تناسلی** (*Chlamydia*)؛ با یا بدون Conjunctivitis/Uveitis.
 - NSAID؛ **انتان تناسلی فعال را تداوی کن**.
@@ -21432,7 +21394,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **۳ ماه** برای **Brucella**؛
 - TB → رژیم TB (فصل ۱۹).
 - **ارزیابی بالینی و CRP/ESR در حدود هفتهٔ ۴** (IDSA).
-- *(رژیم‌ها و دوزها → SD-61.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 ⚠️ **ضعف پا، بی‌حسی، یا مشکل ادرار و مواد غایطه با کمر درد و تب = ابسهٔ Epidural تا خلاف آن ثابت شود → MRI و جراحی عاجل.** ساعت‌ها بین راه رفتن و فلج دایمی فاصله است.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به کیس‌ها
@@ -21473,13 +21435,13 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 4. مدت Antibiotic در Vertebral osteomyelitis باکتریایی؟ ← ۶ هفته؛ Brucella ۳ ماه (IDSA 2015).
 5. چه وقت Antibiotic را تا Biopsy نگه داریم؟ ← معاینهٔ عصبی نورمال و همودینامیک ثابت.
 == 📚 References
-1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34. (از خلاصه‌ها.)
+1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34.
 2. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 IDSA clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. *Clin Infect Dis.* 2015;61(6):e26–e46. (از Guideline Central.)
 = بخش دوازدهم — عاجل و سمیت
 = فصل ۷۷ — ایست قلبی و شوک
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **2025 AHA Guidelines for CPR and ECC — Part 9: Adult Advanced Life Support** (cpr.heart.org) و **الگوریتم ACLS 2025** مستقیم خوانده شد. مراقبت پس از ایست (هدف حرارت، فشار، اکسیجن) و دوزهای وازوپرسور در شوک → SD-68. Septic shock در فصل ۶۷، Anaphylaxis در فصل ۸۱.*
+  **بخش دوازدهم — عاجل و سمیت**
 ]
 == «نبض ندارد»
 در سرویس داخله، **حاجی نورالحق** ۶۲ ساله که دیروز با درد صدر بستری شده بود، هنگام رفتن به تشناب **افتاد**. نرس فریاد می‌زند. تو اولین داکتر هستی که می‌رسی. او جواب نمی‌دهد و **به طور عادی نفس نمی‌کشد**؛ فقط گاه‌گاه یک «نفس کشیدن بریده» (Gasping) دارد.
@@ -21502,7 +21464,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [**سرعت**], [**۱۰۰–۱۲۰ در دقیقه**],
     [**برگشت کامل صدر**], [بلی — روی صدر تکیه نکن],
     [**وقفه**], [**کمترین**؛ توقف برای نبض و ریتم کمتر از ۱۰ ثانیه],
-    [**بدون راه هوایی پیشرفته**], [**۳۰ فشار : ۲ تنفس**],
+    [**بدون راه هوایی پیشرفته**], [**۳۰ فشار: ۲ تنفس**],
     [**با راه هوایی پیشرفته**], [**۱ تنفس هر ۶ ثانیه** (۱۰ در دقیقه)، فشار بدون توقف],
     [**فشاردهنده**], [**هر ۲ دقیقه عوض کن** (یا زودتر اگر خسته است)],
     [**تهویه**], [**زیاد نده** (فشار داخل صدر را بلند و جریان خون را کم می‌کند)],
@@ -21527,7 +21489,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
   caption: none,
 )
 #v(0.4em)
-**ERC 2025 (اروپا؛ متن رهنمود خوانده شد) همین منطق را با شمارش شاک بیان می‌کند:** در ریتم شاک‌پذیر، **Adrenaline ۱ mg پس از شاک سوم**، بعد هر ۳–۵ دقیقه؛ **Amiodarone ۳۰۰ mg پس از سه شاک** و **۱۵۰ mg پس از پنج شاک** (چه VF پیاپی باشد چه عودکننده)؛ اگر Amiodarone نیست، **Lidocaine ۱۰۰ mg** و پس از پنج شاک **۵۰ mg** اضافی. در ریتم غیر شاک‌پذیر، Adrenaline ۱ mg هر چه زودتر. Calcium، Sodium bicarbonate و Corticosteroid به‌طور روتین در ایست داده نشود.
+**ERC 2025 (اروپا) همین منطق را با شمارش شاک بیان می‌کند:** در ریتم شاک‌پذیر، **Adrenaline ۱ mg پس از شاک سوم**، بعد هر ۳–۵ دقیقه؛ **Amiodarone ۳۰۰ mg پس از سه شاک** و **۱۵۰ mg پس از پنج شاک** (چه VF پیاپی باشد چه عودکننده)؛ اگر Amiodarone نیست، **Lidocaine ۱۰۰ mg** و پس از پنج شاک **۵۰ mg** اضافی. در ریتم غیر شاک‌پذیر، Adrenaline ۱ mg هر چه زودتر. Calcium، Sodium bicarbonate و Corticosteroid به‌طور روتین در ایست داده نشود.
 === علل قابل برگشت — «H و T»
 #figure(
   table(columns: (auto, auto),
@@ -21546,7 +21508,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 #v(0.4em)
 **در PEA، علت را فعالانه بجوی**؛ Epinephrine تنها کافی نیست. **Ultrasound** کنار بستر (Tamponade، Pneumothorax، RV بزرگ) اگر موجود است و CPR را قطع نمی‌کند.
 === چه وقت متوقف شویم؟
-تصمیم تیمی است: مدت، ریتم، علت، و حالت قبلی مریض. **Capnography (EtCO₂)** پایین مداوم کمک می‌کند. *(معیارهای مشخص → SD-68.)* **با فامیل با احترام و صادقانه گپ بزن.**
+تصمیم تیمی است: مدت، ریتم، علت، و حالت قبلی مریض. **Capnography (EtCO₂)** پایین مداوم کمک می‌کند. **با فامیل با احترام و صادقانه گپ بزن.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۳. پس از بازگشت دوران (ROSC)
 - **ABCDE:** راه هوایی؛ **SpO₂ هدف ۹۴–۹۸ فیصد** و PaCO₂ نورمال؛ **فشار سیستولیک بالاتر از ۱۰۰ mmHg** (الگوریتم ERC 2025 ALS).
@@ -21581,7 +21543,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 === اصول
 - **دو خط وریدی بزرگ**؛ Lactate؛ قند؛ کلچر در شک به سپسیس.
 - **مایع به اندازه، و دوباره ارزیابی**: پس از هر Bolus، فشار، ادرار، شش و JVP را ببین. **مایع زیاد در Cardiogenic می‌کشد.**
-- **Noradrenaline** وازوپرسور اول در اکثر شوک‌ها (فصل ۶۷). *(دوزها → SD-68.)*
+- **Noradrenaline** وازوپرسور اول در اکثر شوک‌ها (فصل ۶۷). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **Hydrocortisone** در Adrenal crisis (فصل ۵۰) و Septic shock مقاوم (فصل ۶۷).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به حاجی نورالحق
@@ -21627,11 +21589,11 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == 📚 References
 1. American Heart Association. 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care — Part 9: Adult Advanced Life Support. *Circulation.* 2025. cpr.heart.org.
 2. American Heart Association. Adult Cardiac Arrest Circular Algorithm. 2025.
-3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3) — (بخش‌های Vasopressor، Antiarrhythmic و Other medication خوانده شد ۲۰۲۶-۰۹-۲۵).
+3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3).
 = فصل ۷۸ — رهیافت به مسمومیت؛ Organophosphate و Aluminium phosphide
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: اتروپین‌سازی مطابق پروتوکول Eddleston (Lancet 2008؛ نقل در مرور BJA 2019، مستقیم خوانده شد) و Merck Manual Professional 2025 (مستقیم). شواهد Pralidoxime متناقض است (پایین). Aluminium phosphide: هیچ رهنمود رسمی خوانده نشد → SD-69. در این فصل، Class of recommendation آن‌طور که در منابع ثانوی آمده بود نقل نشده؛ فقط اعداد مستقیم.*
+  **بخش دوازدهم — عاجل و سمیت**
 ]
 == «گندم‌دوا خورده»
 **ساعت ۲ شب**، **گل‌بی‌بی** ۱۹ ساله را از یک قریه آوردند. پس از جنجال خانوادگی «**دوای کرم‌کش باغ**» خورده است. **بوی تیز شبیه سیر** می‌دهد؛ **عرق** از او می‌چکد؛ **آب دهن** زیاد دارد؛ **مردمک‌ها ریزه** است؛ و شش‌هایش پر از **رال** است. نبض **۴۸** و فشار **۷۵/۴۰**.
@@ -21659,7 +21621,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 #v(0.4em)
 **کلید تفریق Cholinergic از Opioid:** هر دو مردمک ریزه دارند؛ اما **ترشحات، عرق و Bradycardia** Cholinergic است.
 **کلید تفریق Anticholinergic از Sympathomimetic:** **پوست خشک** در Anticholinergic، **عرق** در Sympathomimetic.
-4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(حد زمانی و دوز → SD-69.)* **استفراغ را تحریک نکن.**
+4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)* **استفراغ را تحریک نکن.**
 5. **ECG** (QRS و QT)، Paracetamol level در هر خودکشی دوایی (فصل ۷۹).
 6. **هر خودکشی → ارزیابی روانی پیش از رخصت**، و با فامیل گپ بزن. **خودکشی در زنان جوان افغان** با فشار خانوادگی و خشونت همراه است؛ **با مهربانی و بدون قضاوت** بپرس و خطر خانه را ارزیابی کن.
 7. **مسمومیت Beta-blocker یا Calcium channel blocker** (خانهٔ اصلی این موضوع همین‌جاست): علامهٔ اصلی **Bradycardia و فشار پایین** است؛ در Beta-blocker گاهی قند پایین هم دیده می‌شود (با Dextrose تداوی کن). اهتمامات مسمومیت Beta-blocker (AHA 2023 Toxicology focused update؛ CCB در پایین):
@@ -21720,13 +21682,13 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **۲۴–۹۶ ساعت** پس از مسمومیت، پس از بهبود Cholinergic:
 - **ضعف گردن، عضلات قریب، و اعصاب قحفی**؛
 - **عدم کفایهٔ تنفسی ناگهانی**.
-- **مریض «خوب‌شده» را زود رخصت نکن.** قدرت خم کردن گردن را هر روز بسنج. *(زمان‌بندی دقیق → SD-69.)*
+- **مریض «خوب‌شده» را زود رخصت نکن.** قدرت خم کردن گردن را هر روز بسنج.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۳. Aluminium phosphide — «تابلت گندم»
 - برای حفظ گندم در گدام استعمال می‌شود. با آب و اسید معده، **گاز Phosphine** آزاد می‌کند که **Mitochondria** را در تمام بدن بند می‌کند.
-- **مرگ بسیار بلند** است و **پادزهر ندارد**. *(ارقام → SD-69.)*
+- **مرگ بسیار بلند** است و **پادزهر ندارد**.
 - **تصویر:** استفراغ، **بوی ماهی خراب یا سیر**، **شوک مقاوم** (Myocarditis)، **Arrhythmia**، **Metabolic acidosis شدید**، و ARDS. مریض اکثراً **تا آخر هوشیار** است.
-- **تداوی حمایوی است:** اکسیجن؛ مایع با احتیاط؛ وازوپرسور؛ اصلاح Acidosis؛ نظارت ECG؛ و ICU. *(پاک‌سازی معده با روغن، Magnesium و دیگر تداوی‌های پیشنهادی **شواهد محکم ندارند** → SD-69.)*
+- **تداوی حمایوی است:** اکسیجن؛ مایع با احتیاط؛ وازوپرسور؛ اصلاح Acidosis؛ نظارت ECG؛ و ICU.
 - **Phosphine از بدن مریض و استفراغ** برای کارمندان خطرناک است: اتاق باز و تهویه.
 - **وقایه نجات‌بخش‌تر از تداوی است:** محدود ساختن فروش، و آگاهی قریه‌ها.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -21771,15 +21733,15 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 4. کدام Relaxant در OP نه؟ ← Succinylcholine.
 5. Aluminium phosphide چه پادزهر دارد؟ ← ندارد.
 == 📚 References
-1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
+1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607.
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
-4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
+4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161.
 5. St-Onge M, Anseeuw K, Cantrell FL, et al. Experts consensus recommendations for the management of calcium channel blocker poisoning in adults. Crit Care Med 2017;45(3):e306–e315. doi:10.1097/CCM.0000000000002087
 = فصل ۷۹ — مسمومیت Paracetamol
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Updated guidelines for paracetamol poisoning in Australia and New Zealand** (Chiew AL et al., Med J Aust 2020؛ خلاصهٔ MJA مستقیم خوانده شد)؛ رژیم UK/MHRA (خط ۱۰۰) و **SNAP** (Pettie JM et al., EClinicalMedicine 2019، مستقیم). جزئیات دوز زیاد (Massive) و حد رخصت → SD-70.*
+  **بخش دوازدهم — عاجل و سمیت**
 ]
 == «فقط Panadol بود»
 **فرشته** ۲۲ ساله، محصل، ساعت ۶ شام به عاجل آمد. مادرش می‌گوید که **ساعت ۱۲ ظهر** پس از جنجال، **یک پاکت کامل Paracetamol** (۲۰ تابلت ۵۰۰ mg = **۱۰ g**) خورده است. وزنش **۵۰ kg** است. حالا فقط کمی دلبدی دارد و می‌گوید: «خوب هستم، بگذارید بروم.»
@@ -21823,7 +21785,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
   caption: none,
 )
 #v(0.4em)
-**تفاوت:** UK محتاط‌تر است (مریضان بیشتر NAC می‌گیرند). **برای افغانستان**، که سوء تغذیه (کمبود Glutathione) شایع است، و نظارت و پیگیری مشکل است، **خط محتاط‌تر ۱۰۰ منطقی است**. *(این تصمیم نویسنده است، نه توصیهٔ یک رهنمود → SD-70.)*
+**تفاوت:** UK محتاط‌تر است (مریضان بیشتر NAC می‌گیرند). **برای افغانستان**، که سوء تغذیه (کمبود Glutathione) شایع است، و نظارت و پیگیری مشکل است، **خط محتاط‌تر ۱۰۰ منطقی است**. *(این انتخاب نویسنده است، نه توصیهٔ یک رهنمود.)*
 3. **بالای خط → NAC.** زیر خط، با ALT و INR عادی → خطر کم.
 === وقتی Nomogram کار نمی‌کند → NAC را شروع کن
 - **خوردن تدریجی (Staggered)** در بیشتر از ۱ ساعت.
@@ -21897,7 +21859,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 = فصل ۸۰ — Opioid، کاربن مونوکساید و Cyanide
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: دوزهای پادزهر از **Antidote Use Guideline 2023** (New Jersey Poison Information & Education System، مستقیم) و مرور PMC 2017 دربارهٔ دوز Naloxone؛ جدول ۲ سند رسمی AHA 2023 Toxicology (Highlights، مستقیم ۲۰۲۶-۰۹-۲۵) برای Naloxone، Hydroxocobalamin، Nitrite و Thiosulfate. شواهد Hyperbaric oxygen و مدت اکسیجن در CO → SD-71.*
+  **بخش دوازدهم — عاجل و سمیت**
 ]
 == یک شب زمستان در کابل
 **ساعت ۵ صبح**، سه نفر از یک خانه آوردند: **مادر و دو طفل**. شب **صندلی** (منقل ذغال زیر لحاف) را روشن گذاشته بودند و درها بسته بود. مادر **سردردی و استفراغ** دارد و گیچ است؛ طفل بزرگ‌تر **بی‌هوش** است؛ **SpO₂ هر سه ۹۸ فیصد** نشان می‌دهد.
@@ -21957,11 +21919,11 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **ECG و Troponin** (آسیب قلبی)؛ **Lactate**؛ **تست حاملگی**.
 === تداوی
 1. **از محیط بیرون کن.** (به فامیل بگو که اتاق را **پیش از برگشت** باز کنند.)
-2. **اکسیجن ۱۰۰ فیصد** با ماسک Non-rebreather (یا Intubation). اکسیجن CO را **چندین برابر سریع‌تر** از هوا بیرون می‌کند. **ادامه بده تا علایم رفع شود.** *(مدت و حد COHb → SD-71.)*
-3. **Hyperbaric oxygen (HBO):** در مسمومیت شدید (بی‌هوشی، علایم عصبی، ایسکیمی قلبی، حاملگی) پیشنهاد می‌شود، اما **شواهد متناقض است** و در افغانستان **موجود نیست**. **اکسیجن ۱۰۰ فیصد نورموباریک را به خاطر HBO به تأخیر نینداز.** → SD-71.
+2. **اکسیجن ۱۰۰ فیصد** با ماسک Non-rebreather (یا Intubation). اکسیجن CO را **چندین برابر سریع‌تر** از هوا بیرون می‌کند. **ادامه بده تا علایم رفع شود.**
+3. **Hyperbaric oxygen (HBO):** در مسمومیت شدید (بی‌هوشی، علایم عصبی، ایسکیمی قلبی، حاملگی) پیشنهاد می‌شود، اما **شواهد متناقض است** و در افغانستان **موجود نیست**. **اکسیجن ۱۰۰ فیصد نورموباریک را به خاطر HBO به تأخیر نینداز.**
 4. **حاملگی:** Haemoglobin جنین CO را محکم‌تر نگه می‌دارد → اکسیجن را طولانی‌تر بده؛ با ولادی‌نسایی.
 === علایم دیرهنگام
-**علایم عصبی تأخیری** (حافظه، شخصیت، Parkinsonism) **روزها تا هفته‌ها** پس از بهبود ظاهری. **پیگیری کن.** *(ارقام → SD-71.)*
+**علایم عصبی تأخیری** (حافظه، شخصیت، Parkinsonism) **روزها تا هفته‌ها** پس از بهبود ظاهری. **پیگیری کن.**
 === وقایه
 - **صندلی و بخاری ذغالی را در اتاق خواب بسته روشن نگذار.**
 - **دودکش** سالم، **تهویه**، و **جنراتور فقط بیرون از خانه**.
@@ -22024,11 +21986,11 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == 📚 References
 1. New Jersey Poison Information & Education System (NJPIES). Antidote Use Guideline. 2023.
 2. Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. *Ther Adv Drug Saf.* 2018;9(1):63–88.
-3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. جدول ۲ از سند رسمی Highlights آن (cpr.heart.org) مستقیم خوانده شد.
+3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184.
 = فصل ۸۱ — Anaphylaxis و سوختگی
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Resuscitation Council UK 2021 — Emergency treatment of anaphylaxis** (متن رهنمود و خلاصه مستقیم خوانده شد). سوختگی: **American Burn Association Clinical Practice Guidelines on Burn Shock Resuscitation** (2023) از خلاصه و پروتوکول‌های مبتنی بر آن؛ متن کامل خوانده نشد. دوز انفیوژن Adrenaline، مدت نظارت پس از Anaphylaxis، و جزئیات سرد کردن و ارجاع سوختگی → SD-72.*
+  **بخش دوازدهم — عاجل و سمیت**
 ]
 == دو صحنه در یک شب
 **۱.** در سرویس جراحی، **ده دقیقه پس از Ceftriaxone وریدی**، **ملالی** ۳۵ ساله می‌گوید: «گلویم تنگ می‌شود.» پوستش سرخ و پر از **کهیر** است؛ **خس‌خس** دارد؛ فشارش **۷۰/۴۰**. نرس Chlorphenamine و Dexamethasone را آماده می‌کند.
@@ -22055,7 +22017,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [**۳**], [**Adrenaline عضلی — فوراً** در **قسمت قدامی–جانبی ران**: **کاهل و طفل بالای ۱۲ سال: ۵۰۰ microgram** (۰.۵ mL از محلول ۱ mg/mL). **اگر شک داری، بده.**],
     [**۴**], [**پس از ۵ دقیقه**، اگر مشکل A/B/C باقی است → **Adrenaline عضلی را تکرار کن**.],
     [**۵**], [**اکسیجن** با جریان بلند؛ **خط وریدی**؛ **مایع**: **کاهل ۵۰۰–۱۰۰۰ mL**، طفل **۲۰ mL/kg** Crystalloid — **زود** اگر فشار پایین است.],
-    [**۶**], [**Anaphylaxis مقاوم** (بدون بهبود پس از **دو دوز** عضلی) → **انفیوژن Adrenaline وریدی** توسط شخص مجرب؛ و متخصص. *(دوز انفیوژن → SD-72.)*],
+    [**۶**], [**Anaphylaxis مقاوم** (بدون بهبود پس از **دو دوز** عضلی) → **انفیوژن Adrenaline وریدی** توسط شخص مجرب؛ و متخصص. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
   ),
   caption: none,
 )
@@ -22100,7 +22062,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 2. **تنفس:** سوختگی دایره‌وی صدر ممکن است حرکت صدر را محدود کند → **Escharotomy**.
 3. **دوران:** شوک سوختگی ساعت‌ها بعد می‌آید. **شوک در ساعت اول** → به **خونریزی یا ترضیض دیگر** فکر کن.
 === ۳. سرد کردن و پوشاندن
-- **آب جاری سرد (نه یخ)** زود پس از سوختگی. *(مدت و حد زمانی → SD-72.)*
+- **آب جاری سرد (نه یخ)** زود پس از سوختگی.
 - **مریض را گرم نگه دار** (Hypothermia، به ویژه در اطفال و سوختگی وسیع).
 - **پوشش تمیز و غیرچسپنده** (پلاستیک غذا مناسب است). **روغن، خمیر دندان، یا تخم مرغ نه.**
 === ۴. تخمین وسعت (TBSA)
@@ -22114,13 +22076,13 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - نیمه در **۸ ساعت اول** (از **زمان سوختگی**، نه از رسیدن به شفاخانه)؛ نیمهٔ دیگر در ۱۶ ساعت بعد.
 - **هدف: ادرار حد اقل ۰.۵ mL/kg/ساعت در کاهل** (Catheter). مایع را **هر ساعت** مطابق ادرار تنظیم کن.
 - **مایع زیاد (Fluid creep)** هم خطرناک است: ادیم، Compartment syndrome، و ARDS.
-- *(ادرار هدف در اطفال، و Albumin → SD-72.)*
+-
 === ۶. دیگر اهتمامات
 - **درد:** Opioid وریدی با دوز تنظیم‌شده.
 - **Tetanus** (فصل ۷۱).
 - **Antibiotic وقایوی نه** (فصل ۷۱)؛ انتان را با علایم تداوی کن.
 - **تغذیه زود** (فصل ۸۷).
-- **راجع به مرکز سوختگی:** سوختگی وسیع؛ صورت، دست، پا، ناحیهٔ تناسلی، یا مفاصل؛ Inhalation injury؛ سوختگی برقی یا کیمیاوی؛ دایره‌وی؛ و اطفال و سالخوردگان. *(معیارهای دقیق → SD-72.)*
+- **راجع به مرکز سوختگی:** سوختگی وسیع؛ صورت، دست، پا، ناحیهٔ تناسلی، یا مفاصل؛ Inhalation injury؛ سوختگی برقی یا کیمیاوی؛ دایره‌وی؛ و اطفال و سالخوردگان.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ↩️ برگشت به دو صحنه
 **ملالی:**
@@ -22161,11 +22123,11 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Dodd A, et al. **Evidence update for the treatment of anaphylaxis.** Resuscitation. 2021;163:86–96.
 - NICE. **Anaphylaxis: assessment and referral after emergency treatment (NG258).** 2026 — بخش Period of observation.
 1. Resuscitation Council UK. Emergency treatment of anaphylaxis: guidelines for healthcare providers. May 2021.
-2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023. (خلاصه خوانده شد → SD-72.)
+2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023.
 = فصل ۸۲ — گرمازدگی و Hypothermia
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — متن کامل (بخش‌های سرد کردن، هدف حرارت و دوا) خوانده شد؛ **Hypothermia** — **ERC 2025 Special Circumstances** (بخش Accidental hypothermia و شکل ۵، متن رهنمود خوانده شد، سپتمبر 2026)؛ **Frostbite** — WMS 2024 Frostbite update (متن رهنمود).*
+  **بخش دوازدهم — عاجل و سمیت**
 ]
 == جوزای قندهار، جدی بامیان
 **۱.** **سرطان، ساعت ۲ بعد از ظهر، قندهار، ۴۶ درجه.** **عبدالباری** ۲۴ ساله، کارگر خشت‌پزی، در کار **افتاد**. حالا **گیچ و بی‌قرار** است، گپ‌هایش بی‌معنی است، و **حرارت مقعدی ۴۱.۸** است. پوستش **هنوز عرق دارد**.
@@ -22257,7 +22219,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **«هیچ کس مرده نیست تا گرم و مرده نباشد»** — CPR طولانی با گرم کردن ممکن است مریض را با مغز سالم نجات دهد.
 5. **قند و علت‌ها:** Hypoglycaemia، الکول، Opioid، Sepsis، Hypothyroidism، و ترضیض.
 === ۴. سرمازدگی موضعی (Frostbite)
-(WMS 2024 Frostbite — متن رهنمود خوانده شد)
+(WMS 2024 Frostbite)
 - **اول Hypothermia و ترضیض** را اهتمام کن؛ حلقه و انگشتر را زود بکش (پندیدگی می‌آید).
 - **گرم کردن سریع در آب ۳۷–۳۹ °C** (با ترمامتر؛ اگر نیست، دست سالم باید ۳۰ ثانیه آن را تحمل کند) — **فقط وقتی** عضو پس از گرم شدن دوباره یخ نمی‌زند. معمولاً حدود ۳۰ دقیقه، تا عضو سرخ یا بنفش و نرم شود. **آتش، بخاری یا سنگ داغ نه** (سوختگی). **مالش نده**؛ با فشار آرام خشک کن.
 - **درد:** NSAID یا Opioid. **Ibuprofen ۱۲ mg/kg در روز، در دو دوز** (حد اعظمی ۲۴۰۰ mg/روز) تا التیام زخم یا جراحی (معمولاً ۴–۶ هفته).
@@ -22300,16 +22262,16 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 4. مایع اولیه در گرمازدگی کاهل؟ ← ۱–۲ لیتر ایزوتونیک.
 5. چرا مریض Hypothermia را آرام حرکت می‌دهی؟ ← قلب سرد تحریک‌پذیر است؛ خطر VF.
 == 📚 References
-1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
-- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359.
+- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025.
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924.
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
-3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
+3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753.
 = بخش سیزدهم — گروه‌های خاص
 = فصل ۸۳ — امراض داخله در حاملگی
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سیزدهم — گروه‌های خاص** · *Currentness audit: فشار بلند شدید در حاملگی — **ACOG Committee Opinion 692/767** (Emergent therapy for acute-onset, severe hypertension؛ متن و Order sets مستقیم خوانده شد)؛ Magnesium sulfate — ACOG از طریق **ABEM Clinical Policy Alert 2024** (مستقیم). اصول مصئونیت دوا از فصل‌های قبلی کتاب. رهنمودهای WHO 2011 (Preeclampsia)، Gestational diabetes، Thyroid، و VTE در حاملگی در این جلسه خوانده نشد → SD-74.*
+  **بخش سیزدهم — گروه‌های خاص**
 ]
 == «فقط سردردی دارم»
 **نسرین** ۲۳ ساله، **حاملهٔ ۳۴ هفته** (اولین حاملگی)، از یک قریهٔ لوگر با **سردردی شدید** و «**تاری چشم**» آمد. پاهایش و **صورتش** پندیده است. فشارش **۱۷۲/۱۱۴**؛ پس از ۱۵ دقیقه **۱۶۸/۱۱۲**. Dipstick ادرار: **Protein ۳+**. شوهرش می‌گوید: «Paracetamol بدهید، برویم.»
@@ -22322,7 +22284,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **Haemoglobin کمی پایین** (رقیق شدن)؛ **کریاتینین پایین‌تر** (کریاتینین «عادی کاهل» در حاملگی ممکن است غیرعادی باشد)؛
 - **تنفس بیشتر** و **PaCO₂ پایین‌تر**؛ **D-dimer بلند**؛ **ALP بلند** (از پلاسنتا)؛
 - **نبض کمی بلند و فشار در نیمهٔ اول پایین‌تر**.
-4. **تصویربرداری ضروری را دریغ نکن.** CXR و CT صدر به جنین دوز کم می‌رسانند؛ **Ultrasound و MRI** بدون تشعشع‌اند. *(ارقام دوز → SD-74.)*
+4. **تصویربرداری ضروری را دریغ نکن.** CXR و CT صدر به جنین دوز کم می‌رسانند؛ **Ultrasound و MRI** بدون تشعشع‌اند. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۲. دواها در حاملگی — آنچه باید بدانی
 #figure(
@@ -22342,7 +22304,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
   caption: none,
 )
 #v(0.4em)
-**مصئون و مهم:** Paracetamol، Penicillin و Cephalosporin، **Insulin**، **Levothyroxine**، Hydroxychloroquine، **LMWH**، Labetalol، Nifedipine، Methyldopa، و **دواهای خط اول TB** (فصل ۱۹). *(جزئیات هر دوا در فصل مربوطه و SD-74.)*
+**مصئون و مهم:** Paracetamol، Penicillin و Cephalosporin، **Insulin**، **Levothyroxine**، Hydroxychloroquine، **LMWH**، Labetalol، Nifedipine، Methyldopa، و **دواهای خط اول TB** (فصل ۱۹).
 **⚠️ Iodine رادیواکتیف** و **Carbimazole در سه ماه اول** نه (فصل ۴۸).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۳. فشار بلند در حاملگی
@@ -22361,7 +22323,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
   caption: none,
 )
 #v(0.4em)
-**Preeclampsia تا ۶ هفته پس از ولادت** ممکن است شروع شود. **سردردی و فشار بلند در زن تازه ولادت کرده = Preeclampsia تا رد شود.** *(حد زمانی دقیق → SD-74.)*
+**Preeclampsia تا ۶ هفته پس از ولادت** ممکن است شروع شود. **سردردی و فشار بلند در زن تازه ولادت کرده = Preeclampsia تا رد شود.**
 === علایم شدید (Severe features)
 **فشار ۱۶۰/۱۱۰ یا بیشتر**، **سردردی شدید**، **اختلال دید**، **درد اپی‌گاستر یا ربع فوقانی راست**، Platelet کم، کریاتینین بلند، ادیم شش.
 === ۴. فشار ۱۶۰/۱۱۰ یا بیشتر — عاجل (ACOG)
@@ -22382,7 +22344,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 #v(0.4em)
 - **Labetalol:** در **آسما**، Bradycardia، و عدم کفایهٔ قلب نه.
 - **Hydralazine:** خطر افت فشار مادر.
-- **هدف: نه عادی، بلکه بیرون از محدودهٔ شدید.** *(هدف عددی → SD-74.)*
+- **هدف: نه عادی، بلکه بیرون از محدودهٔ شدید.**
 - **Magnesium ضد فشار نیست.**
 === ۵. Magnesium sulfate — جلوگیری و تداوی Eclampsia
 - **دوای انتخابی برای جلوگیری از تشنج** در Preeclampsia با علایم شدید، و **تداوی Eclampsia** (ACOG). **از Diazepam و Phenytoin بهتر است.**
@@ -22394,7 +22356,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **Reflex زانو** (اول از بین می‌رود)؛
 - **شمارش تنفس**؛
 - **ادرار** (Magnesium از گرده دفع می‌شود؛ ادرار کم → تجمع). برچسب FDA: پیش از هر دوز، ادرار حد اقل **۱۰۰ mL در ۴ ساعت** و تنفس حد اقل حدود **۱۶ در دقیقه**.
-- **مسمومیت** → انفیوژن را ایستاد کن؛ **Calcium gluconate** پادزهر است. *(دوز و حدود → SD-74.)*
+- **مسمومیت** → انفیوژن را ایستاد کن؛ **Calcium gluconate** پادزهر است. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **⚠️ Myasthenia gravis** → Magnesium خطرناک است (فصل ۵۸).
 === ۶. تداوی قطعی = ولادت
 **زمان ولادت** با داکتر ولادی‌نسایی تعیین می‌شود. **داکتر داخله فشار را کنترول و از تشنج جلوگیری می‌کند؛ ولادی‌نسایی زمان ولادت را تصمیم می‌گیرد.** همکاری فوری.
@@ -22407,7 +22369,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*مشکل*], [*نکتهٔ کلیدی*], [*فصل*],
     [**انمی فقر آهن**], [شایع‌ترین؛ آهن فمی، و Folic acid], [۶۱],
-    [**VTE**], [خطر ۴–۵ برابر (رقم → SD-74)؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC], [۱۴],
+    [**VTE**], [خطر ۴–۵ برابر؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC], [۱۴],
     [**UTI و Bacteriuria بی‌علامه**], [در حاملگی **تداوی** می‌شود (برخلاف غیر حامله)؛ Pyelonephritis خطرناک است], [۴۰],
     [**دیابت حاملگی**], [تست در هفته‌های ۲۴–۲۸؛ **Insulin** اصل تداوی], [۴۶],
     [**Thyroid**], [Hypothyroidism: دوز Levothyroxine را **زیاد کن**؛ Hyperthyroidism: **PTU در سه ماه اول**، سپس Carbimazole], [۴۸، ۴۹],
@@ -22467,12 +22429,12 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == 📚 References
 1. American College of Obstetricians and Gynecologists. Committee Opinion No. 767: Emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period. *Obstet Gynecol.* 2019;133:e174–e180. (Order sets مستقیم؛ نسخهٔ ۶۹۲.)
 2. American Board of Emergency Medicine. Key Advances: Hypertensive disorders of pregnancy — Clinical policy alert. 2024.
-3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خلاصهٔ توصیه‌ها و بخش Magnesium مستقیم خوانده شد.)
+3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011.
 4. Hospira. Magnesium Sulfate Injection USP 50% — prescribing information (labeling.pfizer.com).
 = فصل ۸۴ — مریض سالخورده
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سیزدهم — گروه‌های خاص** · *Currentness audit: **AGS Beers Criteria 2023** (American Geriatrics Society Beers Criteria Update Expert Panel, J Am Geriatr Soc 2023) — تغییرات کلیدی از خلاصهٔ UIC Drug Information Group (مستقیم) و دو خلاصهٔ دیگر. ابزارهای Frailty، STOPP/START، و رهنمودهای افتادن (World Falls Guidelines 2022) مستقیم خوانده نشد → SD-75.*
+  **بخش سیزدهم — گروه‌های خاص**
 ]
 == «تمام دواهایش را در خریطه آورده‌ام»
 دختر **حاجی بی‌بی گل‌جان** ۸۱ ساله یک **خریطهٔ پلاستیکی پر از دوا** روی میز می‌گذارد. «مادرم از دو ماه به این طرف **سه بار افتاده**، گیچ است، و اشتها ندارد.»
@@ -22516,12 +22478,11 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [**Benzodiazepine**], [اجتناب], [**افتادن، شکستگی، گیچی**],
     [**Anticholinergic قوی** (Chlorphenamine، Amitriptyline، …)], [اجتناب], [**گیچی، احتباس ادرار، یبوست، افتادن**],
     [**NSAID فمی درازمدت**], [اجتناب], [**خونریزی معده، AKI، عدم کفایهٔ قلب**],
-    [**PPI** بیشتر از ۸ هفته], [اجتناب مگر علت واضح], [*(جزئیات → SD-75)*],
+    [**PPI** بیشتر از ۸ هفته], [اجتناب مگر علت واضح], [],
   ),
   caption: none,
 )
 #v(0.4em)
-*(Beers برای ۶۵ سال و بالاتر است، به جز مراقبت تسکینی. فهرست کامل و جداول گرده → SD-75.)*
 === «تمام خریطه» — روش بازبینی دوا
 1. **همه را روی میز بگذار** (دواهای بدون نسخه، گیاهی، و «دوای همسایه» را هم).
 2. **هر دوا:** برای چه؟ هنوز لازم است؟ دوزش مناسب با گرده است؟
@@ -22564,7 +22525,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 #v(0.4em)
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۵. اهداف تداوی — فرد را ببین
-- **فشار، قند و کلسترول** در سالخوردهٔ **سالم و فعال** مانند کاهلان جوان‌تر تداوی می‌شوند؛ در **ضعیف (Frail)، Dementia پیشرفته، یا امید زندگی کوتاه** اهداف **آرام‌تر** است. *(اهداف عددی → فصل‌های ۶، ۴۶، ۵۲ و SD-75.)*
+- **فشار، قند و کلسترول** در سالخوردهٔ **سالم و فعال** مانند کاهلان جوان‌تر تداوی می‌شوند؛ در **ضعیف (Frail)، Dementia پیشرفته، یا امید زندگی کوتاه** اهداف **آرام‌تر** است. *(اهداف عددی → فصل‌های ۶، ۴۶، ۵۲ و.)*
 - **Hypoglycaemia در سالخورده از قند بلند خطرناک‌تر است** (افتادن، Arrhythmia، گیچی).
 - **با مریض و فامیل گپ بزن:** چه می‌خواهند؟ **در فرهنگ افغانی، فامیل در تصمیم‌ها سهم دارد**؛ اما **خود مریض** را هم (اگر توان دارد) بپرس.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -22609,7 +22570,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 = فصل ۸۵ — طفل مریض از دید داکتر داخله
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سیزدهم — گروه‌های خاص** · *این فصل کتاب اطفال نیست. برای داکتر داخله و داکتر عمومی است که در ولسؤالی یا عاجل شب **طفل مریض را هم می‌بیند**. Currentness audit: **WHO IMCI** (Assess and classify the sick child، ماژول ۱، مستقیم) — علایم خطر عمومی؛ Zinc از خلاصهٔ مبتنی بر WHO (World Vision). علایم حیاتی نورمال اطفال، دوزهای Paracetamol/Ibuprofen و Antibiotic اطفال، و دیگر جداول IMCI → SD-76. دوزهای اطفال که در فصل‌های دیگر تأیید شده‌اند، این‌جا ارجاع داده شده‌اند.* · *تازگی (سپتمبر 2026): ERC 2025 Paediatric Life Support نشر شده (۵ تنفس نجات، سپس ۱۵:۲)؛ این فصل احیای اطفال را تداوی نمی‌کند؛ دوزهای Adrenaline عضلی از RCUK 2021 Anaphylaxis (هنوز جاری).*
+  **بخش سیزدهم — گروه‌های خاص**
 ]
 == شب در ولسؤالی
 **ساعت ۱۱ شب**، تو تنها داکتر شفاخانهٔ ولسؤالی هستی. مادری **طفل ۱۸ ماههٔ** خود را آورده: سه روز **اسهال**، امروز **هر چه می‌خورد استفراغ می‌کند**، و حالا «**خیلی خواب می‌کند**».
@@ -22618,7 +22579,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == ۱. طفل کاهل کوچک نیست
 - **ذخیرهٔ کم:** طفل در ساعت‌ها خشک یا Hypoglycaemic می‌شود.
 - **جبران تا آخر، سپس سقوط ناگهانی:** فشار خون در طفل **دیر** پایین می‌آید. **Tachycardia، Capillary refill طولانی، و خواب‌آلودگی** علایم زودتر شوک‌اند. **فشار پایین در طفل = شوک پیشرفته.**
-- **علایم حیاتی نورمال با سن فرق می‌کند.** جدول را در دیوار عاجل داشته باش. *(ارقام → SD-76.)*
+- **علایم حیاتی نورمال با سن فرق می‌کند.** جدول را در دیوار عاجل داشته باش.
 - **تمام دوزها بر اساس وزن (mg/kg)**، با **اعظمی دوز کاهل**. **وزن کن**؛ حدس نزن.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۲. ده ثانیه اول: علایم خطر عمومی (WHO IMCI)
@@ -22646,12 +22607,12 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **ORS** — اساس تداوی. در پلان B، ORS در کلینیک برای **۴ ساعت**.
 - **Zinc** (WHO): **۲۰ mg روزانه برای ۱۰–۱۴ روز**؛ **کمتر از ۶ ماه: ۱۰ mg روزانه**.
 - **شیر مادر و غذا را ادامه بده.**
-- **ضد اسهال (Loperamide) در اطفال نه.** *(→ SD-76.)*
+- **ضد اسهال (Loperamide) در اطفال نه.**
 - **خون در اسهال** → دیزانتری (فصل ۲۹).
 === تب
 - در طفل کمتر از ۳ ماه، **تب جدی است** → ارزیابی کامل.
 - **ملاریا** در مناطق Endemic (فصل ۶۸)؛ **مننژیت** (فصل ۵۷ — Dexamethasone ۰.۱۵ mg/kg اطفال، اعظمی ۱۰ mg)؛ **پنومونی** (تنفس سریع، **کشیده شدن قفسهٔ صدر**)؛ و **انتان ادرار**.
-- **Aspirin برای تب در اطفال نه** (Reye syndrome). *(حد سنی → SD-76.)*
+- **Aspirin برای تب در اطفال نه** (Reye syndrome).
 === تنفس
 - **تنفس سریع** (مطابق سن)، **کشیده شدن پایین قفسهٔ صدر**، **Stridor در آرامی**، یا **کبودی** → پنومونی شدید، عاجل. **تنفس سریع (WHO IMCI 2014):** ۲ تا ۱۲ ماه **۵۰ بار در دقیقه یا بیشتر**؛ ۱۲ ماه تا ۵ سال **۴۰ بار یا بیشتر** — یک دقیقهٔ کامل بشمار. اگر Pulse oximeter هست، **SpO₂ کمتر از ۹۰ فیصد → راجع کن**. تنفس سریع یا کشیده شدن قفسه بدون علامهٔ خطر = پنومونی (Amoxicillin فمی)؛ علامهٔ خطر یا Stridor = پنومونی شدید → دوز اول Antibiotic و راجع عاجل.
 - **خس‌خس** در طفل کوچک: Bronchiolitis یا آسما (فصل ۱۷).
@@ -22683,9 +22644,9 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     fill: (x, y) => if y == 0 { rgb("#136f73") } else if calc.even(y) { rgb("#eef5f5") } else { white },
     [*دقیقه*], [*یافته / اقدام*],
     [۰], [**دو علامهٔ خطر** (استفراغ همه چیز، بی‌حالی) → عاجل],
-    [۲], [**قند ۴۲** → Dextrose وریدی *(دوز → SD-76)*],
+    [۲], [**قند ۴۲** → Dextrose وریدی *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
     [۵], [چشم‌های فرورفته، **برگشت پوست بسیار آهسته**، نمی‌تواند بنوشد، بی‌حال → **خشکی شدید → پلان C** (مایع وریدی مطابق WHO — فصل ۲۹)],
-    [۱۰], [**وزن ۹ kg**؛ **MUAC ۱۲.۸ cm** و ادیم دو پا ندارد → نشانهٔ SAM ندارد (حدود WHO → SD-78؛ فصل ۸۷)، پس پلان C استندرد مناسب است],
+    [۱۰], [**وزن ۹ kg**؛ **MUAC ۱۲.۸ cm** و ادیم دو پا ندارد → نشانهٔ SAM ندارد (حدود WHO؛ فصل ۸۷)، پس پلان C استندرد مناسب است],
     [۳ ساعت], [هوشیار؛ می‌نوشد → ORS],
     [], [**Zinc ۲۰ mg روزانه** برای ۱۰ روز],
     [صبح], [به داکتر اطفال در مرکز ولایت راجع شد، با یادداشت کامل],
@@ -22722,7 +22683,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 = فصل ۸۶ — تب طولانی بدون علت، کاهش وزن و بزرگی عقدات لمفاوی
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سیزدهم — گروه‌های خاص** · *فصل رهیافت؛ دوز جدید ندارد. تعریف‌ها و ترتیب تست‌ها بر اساس اصول استندرد بالینی نوشته شده؛ **هیچ رهنمود رسمی در این جلسه مستقیم خوانده نشد** → تعریف دقیق FUO، حدود کاهش وزن، و معیارهای Biopsy عقده در SD-77. این فصل عمداً از فصل‌های ۱۹، ۶۵، ۶۶، ۶۹، ۷۰ و ۱۲ استفاده می‌کند: همان دانش، در موقعیت تازه.*
+  **بخش سیزدهم — گروه‌های خاص**
 ]
 == سه ماه تب، سه داکتر، سه خریطه Antibiotic
 **عبدالقیوم** ۳۸ ساله، معلم از غزنی، **سه ماه** است که **شام‌ها تب** می‌کند، **شب‌ها عرق** دارد، و **۸ kg** وزن کم کرده است. سه داکتر دیده؛ هر کدام **Antibiotic** داده (Ceftriaxone، Ciprofloxacin، Azithromycin). چند روز بهتر شده، بعد دوباره تب.
@@ -22730,7 +22691,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 **هر Antibiotic بدون تشخیص، تشخیص را دورتر کرده است.**
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۱. تب طولانی بدون علت (FUO)
-**تعریف عملی:** تب مکرر برای **چند هفته** (کلاسیک: بیشتر از ۳ هفته) که با ارزیابی اولیهٔ خوب علت آن پیدا نشده. *(معیارهای دقیق → SD-77.)*
+**تعریف عملی:** تب مکرر برای **چند هفته** (کلاسیک: بیشتر از ۳ هفته) که با ارزیابی اولیهٔ خوب علت آن پیدا نشده.
 === چهار گروه علت — و در افغانستان
 #figure(
   table(columns: (auto, auto, auto),
@@ -22769,7 +22730,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **در غیر آن: Steroid تجربی نه** — Lymphoma و TB را پنهان و بدتر می‌سازد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۲. کاهش وزن بدون علت
-**قابل ملاحظه** وقتی **بیشتر از ۵ فیصد وزن در ۶–۱۲ ماه** بدون کوشش کم شود. *(حد دقیق → SD-77.)* **وزن را ثابت کن** (دفتر، کالای گشاد، وزن قبلی در دوسیه).
+**قابل ملاحظه** وقتی **بیشتر از ۵ فیصد وزن در ۶–۱۲ ماه** بدون کوشش کم شود. **وزن را ثابت کن** (دفتر، کالای گشاد، وزن قبلی در دوسیه).
 **اشتها دارد یا نه؟**
 #figure(
   table(columns: (auto, auto),
@@ -22793,7 +22754,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 === سؤال‌ها
 - **سن:** در طفل و جوان، اکثراً **واکنشی**؛ بالای ۴۰، **سرطان** محتمل‌تر.
 - **موضعی یا منتشر؟**
-- **مدت:** کمتر از ۲ هفته اکثراً واکنشی؛ **بیشتر از ۴–۶ هفته** نیاز به ارزیابی دارد. *(حدود → SD-77.)*
+- **مدت:** کمتر از ۲ هفته اکثراً واکنشی؛ **بیشتر از ۴–۶ هفته** نیاز به ارزیابی دارد.
 - **علایم B:** تب، **عرق شبانه**، کاهش وزن → **Lymphoma یا TB**.
 === معاینه
 #figure(
@@ -22815,7 +22776,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 === رهیافت
 - **سرنخ واضح انتان موضعی** → تداوی و **پیگیری در ۲–۴ هفته**.
 - **بدون سرنخ، عقدهٔ مشکوک، یا بیشتر از ۴ هفته** → **Biopsy**.
-- **Excision biopsy (تمام عقده)** برای Lymphoma بهترین است؛ FNA تنها اکثراً کافی نیست. *(→ SD-77.)*
+- **Excision biopsy (تمام عقده)** برای Lymphoma بهترین است؛ FNA تنها اکثراً کافی نیست.
 - **نسج را برای TB** (GeneXpert، کلچر) **و پاتولوژی** هر دو بفرست.
 - **Antibiotic «امتحانی» و Steroid پیش از Biopsy نه** (فصل ۶۵).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -22851,12 +22812,11 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 4. عقدهٔ Virchow نشانهٔ چیست؟ ← سرطان بطن (معده).
 5. بهترین Biopsy برای Lymphoma؟ ← Excision (تمام عقده).
 == 📚 References
-*این فصل رهیافت است و بر فصل‌های ۱۲، ۱۹، ۶۵، ۶۶، ۶۹ و ۷۰ و منابع آن‌ها تکیه دارد. منبع رسمی مستقل برای تعریف FUO و معیارهای Biopsy عقده در این جلسه خوانده نشد → SD-77.*
 1. منابع فصل ۱۹ (WHO TB)، فصل ۶۵ (Lymphoma)، و فصل ۶۹ (Brucellosis) این کتاب.
 = فصل ۸۷ — سوء تغذیه، Refeeding و کمبود ویتامین‌ها
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **بخش سیزدهم — گروه‌های خاص** · *Currentness audit: معیارهای خطر Refeeding از **NICE CG32** (از طریق سه رهنمود NHS و BAPEN که آن را نقل می‌کنند — مستقیم خوانده شد)؛ دوز Thiamine وقایوی و کالوری شروع از همان رهنمودهای NHS (SWBH 2024، NHS Grampian). سوء تغذیهٔ حاد شدید اطفال (WHO 2013/2023)، دوز Thiamine در Wernicke، و تداوی کمبود ویتامین‌های A، C، D و Iodine در این جلسه مستقیم خوانده نشد → SD-78.* · *تازگی (سپتمبر 2026): WHO 2023 Guideline on wasting and nutritional oedema جانشین WHO 2013 شده (مثلاً مقدار RUTF ۱۵۰–۱۸۵ kcal/kg/روز)؛ پروتوکول اطفال همچنان → SD-78.*
+  **بخش سیزدهم — گروه‌های خاص**
 ]
 == «غذا بدهید، گرسنه است»
 **گل‌احمد** ۴۵ ساله، از یک قریهٔ دورافتادهٔ بادغیس، پس از **ماه‌ها خشک‌سالی و گرسنگی** و دو هفته **اسهال**، آورده شد. **BMI ۱۴**، ضعیف و بی‌حال. خانواده‌اش می‌گوید: «غذا بدهید، گرسنه است.»
@@ -22896,7 +22856,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [**۳**], [**آهسته شروع کن:** خطر بلند **۱۰–۲۰ kcal/kg/روز**؛ خطر بسیار بلند **حد اعظمی ۱۰ kcal/kg/روز**؛ سپس **تدریجی** تا نیاز کامل در ۴–۷ روز],
     [**۴**], [**مایع** با احتیاط (خطر ادیم و عدم کفایهٔ قلب)],
     [**۵**], [**نظارت:** K، Phosphate، Mg، و قند **روزانه** در هفتهٔ اول؛ **ECG/Monitor** در خطر بسیار بلند؛ ادیم و وزن],
-    [**۶**], [**Supplement:** پوتاشیم، Phosphate و Magnesium مطابق سطح *(دوزها → SD-78)*؛ Multivitamin و عناصر کمیاب],
+    [**۶**], [**Supplement:** پوتاشیم، Phosphate و Magnesium مطابق سطح *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*؛ Multivitamin و عناصر کمیاب],
   ),
   caption: none,
 )
@@ -22904,20 +22864,20 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 **⚠️ «Dextrose ۱۰ فیصد برای ضعف» در مریض گرسنه، بدون Thiamine** — راه مستقیم به Wernicke.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۲. سوء تغذیه در کاهلان — تشخیص
-- **BMI** (کمتر از ۱۸.۵ کم وزن؛ کمتر از ۱۶ شدید). *(طبقه‌بندی → SD-78.)*
+- **BMI** (کمتر از ۱۸.۵ کم وزن؛ کمتر از ۱۶ شدید).
 - **کاهش وزن بی‌اراده**؛ خوردن کم.
-- **MUAC** وقتی وزن کردن ممکن نیست (مریض بستری، ادیم، یا حاملگی). *(حدود کاهلان → SD-78.)*
+- **MUAC** وقتی وزن کردن ممکن نیست (مریض بستری، ادیم، یا حاملگی).
 - **ادیم** ممکن است کاهش وزن را پنهان کند.
 - **علت را بجوی:** فقر و ناامنی غذایی؛ **TB، HIV**، سرطان؛ اسهال مزمن و Malabsorption (فصل ۲۹، ۳۰)؛ افسردگی؛ دندان و بلع؛ الکول.
 == ۳. سوء تغذیهٔ حاد شدید در اطفال (SAM) — برای داکتر داخله
 - **در افغانستان بسیار شایع است.** هر طفل مریض را **وزن کن، قد بگیر، MUAC بگیر، و ادیم دو پا را ببین** (فصل ۸۵).
-- **علایم:** MUAC بسیار پایین، **ادیم دو طرفهٔ پا** (Kwashiorkor)، یا لاغری شدید (Marasmus). *(حدود WHO → SD-78.)*
+- **علایم:** MUAC بسیار پایین، **ادیم دو طرفهٔ پا** (Kwashiorkor)، یا لاغری شدید (Marasmus).
 - **SAM با عوارض** (بی‌اشتهایی، علایم خطر IMCI، ادیم شدید) → **بستری در مرکز تغذیه (Stabilization center)**:
 - **Hypoglycaemia و Hypothermia** را جلوگیری کن؛
 - **مایع وریدی با احتیاط بسیار** — **پلان C معمول برای اطفال SAM خطرناک است** (عدم کفایهٔ قلب)؛ پروتوکول خاص WHO؛
 - **Antibiotic روتین** (انتان بدون تب شایع است)؛
 - **F-75** شیر تداوی آهسته، سپس F-100 یا **RUTF**.
-- *(پروتوکول کامل WHO → SD-78.)*
+-
 - **SAM بدون عوارض** با اشتهای خوب → **RUTF در خانه** (برنامهٔ سرپایی).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == ۴. کمبود ویتامین‌ها و عناصر — آنچه در افغانستان می‌بینی
@@ -22931,10 +22891,10 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [**B12 و Folate**], [رژیم گیاهی، سالخوردگی، Metformin، PPI، حاملگی], [انمی Megaloblastic، **Neuropathy و Dementia** (B12)], [فصل ۶۱],
     [**آهن**], [زنان، اطفال، کرم‌ها، خونریزی], [انمی Microcytic], [فصل ۶۱],
     [**ویتامین D**], [**زنان پوشیده و در خانه**، اطفال، سالخوردگان], [Rickets (اطفال)، **Osteomalacia** (درد استخوان، ضعف عضلات قریب)], [فصل ۵۱],
-    [**ویتامین A**], [اطفال سوء تغذیه، سرخکان], [**شب‌کوری**، Xerophthalmia، **کوری**؛ مرگ در سرخکان], [*(دوز WHO → SD-78)*],
-    [**ویتامین C**], [**قحطی**، سالخوردگان تنها، رژیم بدون میوه و سبزی], [**Scurvy:** خونریزی لثه، **خونریزی دور موها**، زخم‌های دیرالتیام، درد مفاصل], [در افغانستان در سال‌های قحطی **شیوع‌های Scurvy** گزارش شده است *(منبع → SD-78)*],
+    [**ویتامین A**], [اطفال سوء تغذیه، سرخکان], [**شب‌کوری**، Xerophthalmia، **کوری**؛ مرگ در سرخکان], [*(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*],
+    [**ویتامین C**], [**قحطی**، سالخوردگان تنها، رژیم بدون میوه و سبزی], [**Scurvy:** خونریزی لثه، **خونریزی دور موها**، زخم‌های دیرالتیام، درد مفاصل], [در افغانستان در سال‌های قحطی **شیوع‌های Scurvy** گزارش شده است],
     [**Iodine**], [مناطق کوهستانی (بدون نمک یددار)], [**Goitre**، Hypothyroidism؛ در حاملگی: عقب‌ماندگی ذهنی طفل], [فصل ۴۹؛ **نمک یددار**],
-    [**Niacin (B3)**], [رژیم فقط جواری، الکول], [**Pellagra:** التهاب پوست در آفتاب، اسهال، Dementia], [*(→ SD-78)*],
+    [**Niacin (B3)**], [رژیم فقط جواری، الکول], [**Pellagra:** التهاب پوست در آفتاب، اسهال، Dementia], [],
     [**Zinc**], [اسهال، سوء تغذیه], [تأخیر رشد، التهاب پوست، اسهال طولانی], [فصل ۸۵],
   ),
   caption: none,
@@ -22972,7 +22932,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 4. سه‌گانهٔ Wernicke؟ ← گیچی، اختلال حرکت چشم، بی‌ثباتی راه رفتن (اکثراً ناقص).
 5. خونریزی لثه و دور موها در قحطی؟ ← Scurvy.
 == 📚 References
-1. National Institute for Health and Care Excellence. Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral nutrition (CG32). 2006, updated 2017. (از طریق رهنمودهای NHS.)
+1. National Institute for Health and Care Excellence. Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral nutrition (CG32). 2006, updated 2017.
 2. Sandwell and West Birmingham NHS Trust. Refeeding syndrome guideline. 2024.
 3. NHS Grampian. Guidance on thiamine replacement in patients at risk of refeeding syndrome.
 4. BAPEN / BIFA. Top tips for preventing and managing refeeding syndrome.
@@ -23082,7 +23042,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 = ضمیمهٔ ۹۱ — تعدیل دوز در عدم کفایهٔ گرده و کبد
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  **این ضمیمه فهرست راهنماست، نه جدول دوز مستقل.** تعدیل دوز هر دوا در همان فصلی آمده که دوا در آن تأیید شده است (منبع در همان فصل و در `release/dose-verification-log.md`). عمداً رقم تازه این‌جا نوشته نشده، تا یک دوز در دو جای کتاب دو رقم مختلف نداشته باشد. **اگر دوایی این‌جا نیست، یعنی کتاب تعدیل آن را تأیید نکرده است → از برچسب رسمی دوا یا فارمسست بپرس** (SD-79).
+  **این ضمیمه فهرست راهنماست، نه جدول دوز مستقل.** تعدیل دوز هر دوا در همان فصلی آمده که دوا در آن تشریح شده است، تا یک دوز در دو جای کتاب دو رقم مختلف نداشته باشد. **اگر دوایی این‌جا نیست، تعدیل آن را از برچسب رسمی دوا یا فارمسست بپرس.**
 ]
 == ۱. اصول
 1. **کارکرد گرده را حساب کن، حدس نزن.** کریاتینین «عادی» در سالخورده، زن لاغر، یا مریض بی‌حرکت ممکن است GFR کم را پنهان کند (فصل ۴، ۳۹، ۸۴).
@@ -23118,7 +23078,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
     [Levetiracetam (نگهداری)], [۵۵], [گرده],
     [Aciclovir], [۵۷], [گرده؛ آب کافی],
     [Magnesium sulfate (ادرار کم → تجمع)], [۸۳], [گرده],
-    [Beers 2023: جداول گرده], [۸۴], [→ SD-75],
+    [Beers 2023: جداول گرده], [۸۴], [مسن],
   ),
   caption: none,
 )
@@ -23140,7 +23100,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 )
 #v(0.4em)
 == 📚 References
-منابع در فصل‌های فهرست‌شده آمده است. تعدیل‌هایی که در کتاب تأیید نشده‌اند در SD-79 ثبت‌اند.
+منابع در فصل‌های فهرست‌شده آمده است. برای دواهای دیگر، برچسب رسمی دوا را ببین.
 = ضمیمهٔ ۹۲ — فورمول‌ها و Scoreها
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
@@ -23603,7 +23563,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 = ضمیمهٔ ۹۵ — منابع کتاب به ترتیب فصل
 #block(breakable: false, fill: rgb("#f2f7f4"), inset: (x: 9pt, y: 6pt), radius: 3pt, stroke: 0.8pt + rgb("#136f73"), above: 0.35em, below: 0.35em)[
   #set text(fill: rgb("#0f2744"))
-  این ضمیمه به‌طور خودکار از بخش «📚 References» هر فصل جمع شده است (`tools/gen_references.py`). منابعی که در متن فصل با «خوانده نشد» نشانی شده‌اند، در فهرست بدهی علمی (`release/open-scientific-debt.md`) ثبت‌اند. هیچ منبعی این‌جا اضافه نشده که در یک فصل نیامده باشد.
+  این ضمیمه منابع همهٔ فصل‌ها را به ترتیب فصل یک‌جا می‌آورد.
 ]
 == فصل ۱ — رهیافت به مریض: تاریخچه، ABCDE و علایم حیاتی (Approach to the Patient)
 - Resuscitation Council UK. The ABCDE Approach (current guidance).
@@ -23645,7 +23605,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Harrison's Principles of Internal Medicine, 21st Ed — Physical examination of the cardiovascular system; Heart murmurs.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۶ — فشار بلند خون و بحران هایپرتنسیو (Hypertension & Hypertensive Crisis)
-- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065 — Tables 19–20 (IV drugs for hypertensive emergency) read in the guideline full text 2026-09-25.
+- Whelton PK, et al. 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension 2018;71:e13–e115. doi:10.1161/HYP.0000000000000065.
 - Jones DW, et al. **2025 AHA/ACC Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults.** Hypertension. 2025 (doi 10.1161/HYP.0000000000000249) — جانشین رهنمود 2017.
 - ESC/ESH 2023 Guidelines for the Management of Arterial Hypertension.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 330–332 (Hypertension).
@@ -23674,7 +23634,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - PLATO (Ticagrelor), TNT (Tenecteplase), GUSTO trials.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۹ — امراض دریچه‌ای قلب و تب روماتیزمی (Valvular Heart Disease & Rheumatic Fever)
-- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y). AS, primary MR and AR intervention rows checked against Tables 3–4 (New/Revised recommendations) of the guideline text (2026-09-25). CURRENTNESS NOTE: MS and secondary MR rows not yet line-checked against the full 2025 section text.
+- 2025 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2025 (ESC Congress 2025; TAVI age threshold 70 y).
 - Vahanian A, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J 2022;43:561–632.
 - Otto CM, et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation 2021;143:e72–e227.
 - Gewitz MH, et al. Revision of the Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography. Circulation 2015;131:1806–1818.
@@ -23689,7 +23649,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
 - Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
-- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
+- European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3).
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
 - Appelboam A, et al. Postural modification to the standard Valsalva manoeuvre for emergency treatment of SVT (REVERT). Lancet 2015;386:1747–1753.
 - Brugada J, et al. 2019 ESC Guidelines for the management of patients with supraventricular tachycardia. Eur Heart J 2020;41:655–720.
@@ -23698,8 +23658,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۱۱ — امراض پریکارد: پریکاردیت، افیوژن، تامپوناد و پریکاردیت انقباضی (Pericardial Diseases)
 - Adler Y, et al. **2015 ESC Guidelines for the diagnosis and management of pericardial diseases.** Eur Heart J. 2015;36:2921–2964 (جدول ۶: Aspirin ۷۵۰–۱۰۰۰ mg هر ۸ ساعت، Ibuprofen ۶۰۰ mg هر ۸ ساعت، Colchicine نظر به وزن برای ۳ ماه؛ دوزهای راجعه).
-- **2025 ESC Guidelines for the management of myocarditis and pericarditis.** Eur Heart J. 2025 (تأیید NSAID/Aspirin + Colchicine به عنوان خط اول و ضد IL-1 در راجعه). *\[مشخصات کامل صفحه باید پیش از نشر تأیید شود.\]*
-- **ACC Concise Clinical Guidance on the management of pericarditis (2025).** J Am Coll Cardiol. 2025 (Colchicine ۳ ماه در حملهٔ اول و ۶–۱۲ ماه در راجعه؛ محدودیت ورزش؛ ضد IL-1). *\[مشخصات کامل باید تأیید شود.\]*
 - Imazio M, et al. **Medical therapy of pericarditis: tips and tricks for clinical practice.** J Cardiovasc Med. 2024;25(6) (جدول ۱: دوز Indomethacin و Prednisone ۰.۲–۰.۵ mg/kg/روز).
 - Imazio M, et al. **A randomized trial of colchicine for acute pericarditis (ICAP).** N Engl J Med. 2013;369:1522–1528.
 - Mayosi BM, et al. **Prednisolone and Mycobacterium indicus pranii in tuberculous pericarditis (IMPI).** N Engl J Med. 2014;371:1121–1130.
@@ -23715,7 +23673,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - SWAB. **Guidelines for the antimicrobial treatment of infective endocarditis** (2025؛ مقایسهٔ ESC و AHA در دوز Daptomycin و Gentamicin).
 - Harrison's Principles of Internal Medicine, 21st Ed — Infective Endocarditis.
 == فصل ۱۳ — امراض اورت و شرایین محیطی (Aortic Diseases & Peripheral Arterial Disease)
-- Mazzolai L, et al. **2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.** Eur Heart J. 2024;45:3538–3700 (اهداف ضربان کمتر از ۶۰ و سیستولیک ۱۰۰–۱۲۰ در AAS؛ حد جراحی AAA: ۵۵ mm مرد و ۵۰ mm زن؛ Clopidogrel/Aspirin؛ هدف LDL). *\[صفحات دقیق پیش از نشر تأیید شود.\]*
+- Mazzolai L, et al. **2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.** Eur Heart J. 2024;45:3538–3700 (اهداف ضربان کمتر از ۶۰ و سیستولیک ۱۰۰–۱۲۰ در AAS؛ حد جراحی AAA: ۵۵ mm مرد و ۵۰ mm زن؛ Clopidogrel/Aspirin؛ هدف LDL).
 - Gornik HL, et al. **2024 ACC/AHA/Multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease.** Circulation/JACC. 2024 (Rivaroxaban ۲.۵ mg دو بار + Aspirin دوز پایین: Class I؛ DAPT ۱–۶ ماه پس از مداخلهٔ اندوواسکولار؛ ورزش نظارت‌شده).
 - Isselbacher EM, et al. **2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease.** Circulation. 2022;146:e334–e482.
 - Anand SS, et al. **COMPASS PAD subgroup.** Lancet. 2018;391:219–229؛ Bonaca MP, et al. **VOYAGER PAD.** N Engl J Med. 2020;382:1994–2004.
@@ -23739,7 +23697,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - WHO. **Consolidated guidelines on tuberculosis. Module 3: Diagnosis** (GeneXpert به عنوان تست تشخیصی اولیه).
 - Harrison's Principles of Internal Medicine, 21st Ed — Approach to the Patient with Disease of the Respiratory System.
 == فصل ۱۶ — مرض انسدادی مزمن شش (Chronic Obstructive Pulmonary Disease — COPD)
-- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org — ABE assessment tool and Figure 3.8 read directly.
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report: Key Changes Summary (10 Nov 2025) and GOLD 2026 Pocket Guide (v1.0, 11 Nov 2025). goldcopd.org.
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
 - Bhatt SP, et al. **Dupilumab for COPD with type 2 inflammation (BOREAS).** N Engl J Med. 2023;389:205–214؛ **(NOTUS).** N Engl J Med. 2024;390:2274–2283.
@@ -23747,14 +23705,12 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980;93:391–398؛ MRC Working Party. Lancet. 1981;1:681–686 (LTOT).
 - Wedzicha JA, et al. **ERS/ATS guideline: Management of COPD exacerbations.** Eur Respir J. 2017;49:1600791.
 - Rochwerg B, et al. **ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
-- *تأیید دوز: Prednisolone ۴۰ mg × ۵ روز در تشدید مطابق GOLD و کارآزمایی REDUCE؛ دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). قوت‌های انهیلر، انتی‌بیوتیک‌های تشدید، Roflumilast، Ensifentrine، Mucolytics، Theophylline و دواهای ترک سگرت از برچسب در این بازبینی خوانده نشد → SD-88. مطابقت با لیست دواهای اساسی افغانستان باز است.*
 == فصل ۱۷ — آسما (Asthma)
 - Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2026 Update (ginasthma.org, May 2026) — summary of changes: oxygen only if SpO₂ \<92%, upper target 95%; adrenaline first if anaphylaxis with asthma; review treatment after a single exacerbation.
 - Global Initiative for Asthma. **Global Strategy for Asthma Management and Prevention, 2025 update** و **GINA Summary Guide 2025** (Track 1 و 2؛ دوزهای MART؛ حد اعظمی ۱۲ استنشاق؛ Prednisolone ۴۰–۵۰ mg برای ۵–۷ روز در کاهلان و ۱–۲ mg/kg تا ۴۰ mg برای ۳–۵ روز در اطفال؛ SABA ۴–۱۰ پاف هر ۲۰ دقیقه؛ Magnesium IV). ginasthma.org.
 - British Thoracic Society / SIGN / NICE. **BTS/NICE/SIGN Asthma guideline: diagnosis, monitoring and chronic asthma management** (2024) و **SIGN 158 — management of acute asthma** (معیارهای شدت؛ Magnesium ۲ g در ۲۰ دقیقه).
 - O'Byrne PM, et al. **Inhaled combined budesonide–formoterol as needed in mild asthma (SYGMA 1).** N Engl J Med. 2018;378:1865–1876؛ Beasley R, et al. **(Novel START).** N Engl J Med. 2019;380:2020–2030.
 - Menzies-Gow A, et al. **Tezepelumab in adults and adolescents with severe, uncontrolled asthma (NAVIGATOR).** N Engl J Med. 2021;384:1800–1809.
-- *تأیید دوز: دوزهای حملهٔ حاد (Salbutamol ۴–۱۰ پاف هر ۲۰ دقیقه، Prednisolone ۴۰–۵۰ mg × ۵–۷ روز، Magnesium ۲ g IV در ۲۰ دقیقه) با GINA 2024 Summary Guide مطابقت داده شد؛ Adrenaline با فصل ۸۱. دوز بیولوژیک‌ها عمداً حذف شد (تجویز متخصص). دوزهای انهیلر نگهدارنده، Tiotropium، Montelukast، Azithromycin و Hydrocortisone از برچسب در این بازبینی خوانده نشد → SD-88.*
 == فصل ۱۸ — پنومونی (Pneumonia)
 - Jones BE, Ramirez JA, Oren E, et al. Diagnosis and Management of Community-Acquired Pneumonia. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2025; doi:10.1164/rccm.202507-1692ST.
 - Metlay JP, et al. **Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the ATS and IDSA.** Am J Respir Crit Care Med. 2019;200:e45–e67 (رژیم‌های سرپایی: Amoxicillin ۱ g سه بار، Doxycycline ۱۰۰ mg دو بار، ماکرولاید در مقاومت کمتر از ۲۵ فیصد؛ بستری: Ceftriaxone ۱–۲ g + Azithromycin ۵۰۰ mg؛ Ampicillin/Sulbactam ۱.۵–۳ g هر ۶ ساعت؛ حد اقل ۵ روز؛ عدم پوشش روتین انیروب در آسپیراسیون؛ حذف HCAP).
@@ -23772,7 +23728,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Dorman SE, et al. **Four-Month Rifapentine Regimens with or without Moxifloxacin for Tuberculosis (Study 31/A5349).** N Engl J Med. 2021;384:1705–1718.
 - Nyang'wa BT, et al. **A 24-Week, All-Oral Regimen for Rifampin-Resistant Tuberculosis (TB-PRACTECAL).** N Engl J Med. 2022;387:2331–2343.
 - Thwaites GE, et al. **Dexamethasone for the treatment of tuberculous meningitis in adolescents and adults.** N Engl J Med. 2004;351:1741–1751.
-- **National Tuberculosis Programme, Ministry of Public Health, Afghanistan** — رهنمود ملی (برای رژیم‌ها، فورم‌های ثبت، و دسترسی به دواهای MDR). *\[نسخهٔ جاری باید پیش از نشر مطابقت داده شود.\]*
 == فصل ۲۰ — امراض پلورا: افیوژن، امپییما و پنوموتوراکس (Pleural Diseases)
 - Roberts ME, et al. **British Thoracic Society Guideline for pleural disease.** Thorax. 2023;78(Suppl 3):s1–s42 (پنوموتوراکس: تأکید بر اعراض، مدیریت محافظه‌کارانه و آمبولاتوری؛ افیوژن: سونوگرافی پیش از مداخله؛ امپییما: درن، tPA/DNase، انتی‌بیوتیک؛ افیوژن سرطانی: Talc یا IPC).
 - Light RW, et al. **Pleural effusions: the diagnostic separation of transudates and exudates.** Ann Intern Med. 1972;77:507–513.
@@ -23781,7 +23736,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Rahman NM, et al. **Effect of opioids vs NSAIDs and larger vs smaller chest tube size on pain control and pleurodesis efficacy (TIME1).** JAMA. 2015;314:2641–2653.
 - Porcel JM. **Tuberculous pleural effusion** (مروری بر ADA). Lung. 2009;187:263–270.
 - Harrison's Principles of Internal Medicine, 21st Ed — Disorders of the Pleura.
-- *وضعیت دوز: دوزهای انتی‌بیوتیک انتان پلورا و مدت تداوی در این بازبینی از منبع اولیه (BTS 2023) خوانده نشد → SD-89. تا بسته شدن آن، رژیم را با رهنمود محلی و برچسب تطبیق بده.*
 == فصل ۲۱ — امراض بینابینی شش، سرطان شش و ابسهٔ شش (ILD, Lung Cancer & Lung Abscess)
 - Raghu G, et al. **Idiopathic Pulmonary Fibrosis (an Update) and Progressive Pulmonary Fibrosis in Adults: An Official ATS/ERS/JRS/ALAT Clinical Practice Guideline.** Am J Respir Crit Care Med. 2022;205:e18–e47.
 - Richeldi L, et al. **Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis (FIBRONEER-IPF).** N Engl J Med. 2025; و تأیید FDA برای Jascayd (اکتوبر ۲۰۲۵): دوز ۱۸ mg دو بار در روز، کاهش به ۹ mg دو بار مگر با Pirfenidone. #link("https://www.pharmacytimes.com/view/nerandomilast-receives-fda-approval-for-idiopathic-pulmonary-fibrosis")[Pharmacy Times]
@@ -23795,7 +23749,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Gandhi L, et al. **Pembrolizumab plus chemotherapy in metastatic NSCLC (KEYNOTE-189).** N Engl J Med. 2018;378:2078–2092. Wu YL, et al. **Osimertinib in resected EGFR-mutated NSCLC (ADAURA).** N Engl J Med. 2020;383:1711–1723.
 - Temel JS, et al. **Early palliative care for patients with metastatic NSCLC.** N Engl J Med. 2010;363:733–742.
 - Harrison's Principles of Internal Medicine, 21st Ed — Interstitial Lung Diseases; Neoplasms of the Lung; Lung Abscess.
-- *تأیید دوز: دوزهای کیموتراپی، هدفمند و ایمونوتراپی عمداً حذف شد (تجویز تخصصی انکولوژی؛ منطق انتخاب باقی است). Nerandomilast با برچسب FDA 2025 مطابقت داده شد. Nintedanib، Pirfenidone، Prednisolone/Methotrexate در ILD، Mycophenolate، Dexamethasone در حالات عاجل سرطان، Zoledronic acid، Prednisolone در irAE و انتی‌بیوتیک‌های ابسهٔ شش در این بازبینی از منبع اولیه خوانده نشد → SD-87.*
 == فصل ۲۲ — عدم کفایهٔ حاد تنفسی، ARDS و اکسیجن‌تراپی (Acute Respiratory Failure, ARDS & Oxygen Therapy)
 - Vanderbilt University Medical Center, Division of Acute Care Surgery. **Guidelines for Rapid Sequence Intubation (RSI).** 2022.
 - **Pharmacology for Rapid Sequence Intubation (RSI) Airway Management in Trauma Patients.** J Med Insight (JoMI). Article 299.11.
@@ -23813,7 +23766,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Rochwerg B, et al. **ERS/ATS guidelines: noninvasive ventilation for acute respiratory failure.** Eur Respir J. 2017;50:1602426.
 - Chu DK, et al. **Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA).** Lancet. 2018;391:1693–1705.
 - Bellani G, et al. **LUNG SAFE.** JAMA. 2016;315:788–800.
-- *دوزهای RSI با پروتوکول RSI مرکز طبی Vanderbilt (2022) و مرور فارمکولوژی RSI (JoMI) مطابقت داده شد؛ رژیم Cisatracurium از پروتوکول ACURASYS/ROSE. ارزش نورمال PaO₂ در ارتفاع کابل تقریبی است.*
 == فصل ۲۳ — سرفهٔ مزمن و هموپتیزی (Chronic Cough & Haemoptysis)
 - Morice AH, et al. **ERS guidelines on the diagnosis and treatment of chronic cough in adults and children.** Eur Respir J. 2020;55:1901136.
 - Irwin RS, et al. **Classification of Cough as a Symptom in Adults and Management Algorithms: CHEST Guideline and Expert Panel Report.** Chest. 2018;153:196–209.
@@ -23823,9 +23775,8 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Wand O, et al. **Inhaled tranexamic acid for hemoptysis treatment: a randomized controlled trial.** Chest. 2018;154:1379–1384.
 - Ittrich H, et al. **The diagnosis and treatment of hemoptysis.** Dtsch Arztebl Int. 2017;114:371–381.
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
-- WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *\[نسخهٔ جاری رهنمود ملی باید تأیید شود.\]*
+- WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته.
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 == فصل ۲۴ — رهیافت و معاینهٔ بطن (Approach to the GI Patient & Abdominal Examination)
 - Innes JA, Dover AR, Fairhurst K. **Macleod's Clinical Examination.** 15th Ed. Elsevier; 2023 — The gastrointestinal system.
 - Talley NJ, O'Connor S. **Clinical Examination: A Systematic Guide to Physical Diagnosis.** 9th Ed. Elsevier; 2021.
@@ -23849,7 +23800,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Lau JYW, et al. **Timing of Endoscopy for Acute Upper Gastrointestinal Bleeding.** N Engl J Med. 2020;382:1299–1308.
 - Sung JJ, et al. **Continuation of low-dose aspirin therapy in peptic ulcer bleeding.** Ann Intern Med. 2010;152:1–9.
 - Snook J, et al. **British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults.** Gut. 2021;70:2030–2051.
-- *تأیید دوز: PPI، Erythromycin و آستانهٔ ترانسفیوژن با متن ACG 2021 (و ESGE 2021)؛ Terlipressin، Octreotide، Somatostatin، Ceftriaxone و Carvedilol با Baveno VII و رهنمود BSG؛ PCC با برچسب Kcentra. Celecoxib، Lactulose و Propranolol در این فصل از منبع اولیه دوباره خوانده نشد → SD-80.*
 == فصل ۲۶ — قرحهٔ هضمی، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 - Chey WD, Howden CW, Moss SF, et al. **ACG Clinical Guideline: Treatment of Helicobacter pylori Infection.** Am J Gastroenterol. 2024;119:1730–1753.
 - Malfertheiner P, et al. **Management of Helicobacter pylori infection: the Maastricht VI/Florence consensus report.** Gut. 2022;71:1724–1762.
@@ -23860,7 +23810,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole پیشگیرانه با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 == فصل ۲۷ — بطن حاد (Acute Abdomen)
 - Koelemay MJ, Geelkerken RH, Kärkkäinen J, et al. European Society for Vascular Surgery (ESVS) 2025 Clinical Practice Guidelines on the Management of Diseases of the Mesenteric and Renal Arteries and Veins. Eur J Vasc Endovasc Surg 2025;70:153–218.
 - Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
@@ -23872,7 +23821,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 == فصل ۲۸ — امراض التهابی روده (Inflammatory Bowel Disease: Crohn's Disease و Ulcerative Colitis)
 **رهنمودها**
 - **ACG Clinical Guideline Update: Ulcerative Colitis in Adults.** Am J Gastroenterol. 2025. doi:10.14309/ajg.0000000000003463
@@ -23893,7 +23841,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - **Management of acute severe ulcerative colitis.** World J Gastrointest Pathophysiol. 2014 (PMC4231522) — دوز Ciclosporin و نظارت.
 - **ASUC: clinical features, initial management and role of advanced therapies.** 2025 (PMC12561010) — Truelove–Witts و Oxford index.
 - CADTH/NCBI: **Latent tuberculosis infection testing prior to biologic therapy — summary of guidelines** (NBK567073).
-**برچسب‌های دوایی (منبع دوزها)**
 - Infliximab — FDA label.
 - Adalimumab (biosimilar adalimumab-aacf) — FDA label 2024 / DailyMed.
 - ENTYVIO (vedolizumab) — FDA label.
@@ -23903,7 +23850,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۲۹ — اسهال حاد، Rehydration و یبوست (Acute Diarrhoea, Rehydration & Constipation)
 - World Health Organization. **The Treatment of Diarrhoea: A Manual for Physicians and Other Senior Health Workers.** 4th revision. WHO; 2005.
-- World Health Organization. **Guideline on management of pneumonia and diarrhoea in children up to 10 years of age.** WHO; 2024. (خلاصه: Indian Pediatrics 2025;62:775–778.)
+- World Health Organization. **Guideline on management of pneumonia and diarrhoea in children up to 10 years of age.** WHO; 2024.
 - Médecins Sans Frontières. **Clinical Guidelines — Dehydration** (WHO Treatment Plans B and C). medicalguidelines.msf.org.
 - Global Task Force on Cholera Control (GTFCC). **Cholera Outbreak Response Field Manual** — Section 7, Case management.
 - Global Task Force on Cholera Control (GTFCC). **Interim Technical Note: Use of antibiotics for the treatment and control of cholera.** 2025.
@@ -23936,7 +23883,7 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - FDA label: **Xifaxan (rifaximin)** — §2.3 IBS-D. DailyMed.
 - FDA label: **Tindamax (tinidazole)** — Giardiasis. DailyMed.
 - Alfasigma USA. **Zelnorm (tegaserod) Notice of Withdrawal from Market.** 30 June 2022.
-- NICE. **Vitamin B12 deficiency in over 16s: diagnosis and management (NG239).** 2024 (متن اصلی بررسی شد)؛ و NICE CKS/BNF برای برنامهٔ دوز IM (از خلاصه‌های ثانوی).
+- NICE. **Vitamin B12 deficiency in over 16s: diagnosis and management (NG239).** 2024 (متن اصلی بررسی شد)؛ و NICE CKS/BNF برای برنامهٔ دوز IM.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۳۱ — هپاتیت‌های ویروسی (Viral Hepatitis: A, B, C, D, E)
 **رهنمودها**
@@ -23954,7 +23901,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Qaseem A, et al. **WHO Guidelines on Treatment of HCV Infection: Best Practice Advice From the ACP.** Ann Intern Med. 2020.
 - Schillie S, et al. **Prevention of Hepatitis B Virus Infection in the United States: Recommendations of the ACIP.** MMWR Recomm Rep. 2018;67(1):1–31.
 - CDC. **Clinical Overview of Hepatitis B**; **Clinical Overview of Viral Hepatitis** (incubation periods). cdc.gov.
-**برچسب‌های دوایی (منبع دوزها)**
 - VIREAD (tenofovir disoproxil fumarate) — DailyMed/FDA.
 - BARACLUDE (entecavir) — DailyMed/FDA.
 - VEMLIDY (tenofovir alafenamide) — FDA label 2024.
@@ -23979,7 +23925,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرامپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 == فصل ۳۳ — عدم کفایهٔ حاد کبد و انسفالوپاتی کبدی (Acute Liver Failure & Hepatic Encephalopathy)
 - Vilstrup H, et al. **Hepatic Encephalopathy in Chronic Liver Disease: 2014 Practice Guideline by AASLD and EASL.** Hepatology. 2014;60:715–735.
 - Lee WM, Stravitz RT, Larson AM. **Introduction to the revised AASLD Position Paper on management of acute liver failure 2011.** Hepatology. 2012;55:965–967.
@@ -23991,7 +23936,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Bass NM, et al. **Rifaximin treatment in hepatic encephalopathy.** N Engl J Med. 2010;362:1071–1081.
 - Rahimi RS, et al. **Lactulose vs polyethylene glycol 3350–electrolyte solution for treatment of overt hepatic encephalopathy (HELP).** JAMA Intern Med. 2014;174:1727–1733.
 - Bateman DN, et al. **Reduction of adverse effects from intravenous acetylcysteine treatment for paracetamol poisoning (SNAP).** Lancet. 2014;383:697–704.
-- *تأیید دوز: NAC در Paracetamol یک جایگاه دارد (فصل ۷۹)؛ رژیم NAC غیر Paracetamol پروتوکول کارآزمایی Lee 2009؛ Lactulose و Rifaximin با AASLD/EASL 2014 HE مطابقت داده شد. Mannitol، Silibinin، Penicillin G، Methylprednisolone در AIH، LOLA، BCAA، Zinc و Thiamine از منبع اولیه در این بازبینی خوانده نشد → SD-84.*
 == فصل ۳۴ — امراض صفراوی، ابسهٔ کبد و کیست هایداتید (Biliary Disease, Liver Abscess & Hydatid Cyst)
 - Sartelli M, et al. **WSES/GAIS/SIS-E/WSIS/AAST global clinical pathways for patients with intra-abdominal infections.** World J Emerg Surg. 2021;16:49.
 - Yokoe M, et al. **Tokyo Guidelines 2018: diagnostic criteria and severity grading of acute cholecystitis.** J Hepatobiliary Pancreat Sci. 2018;25:41–54. Kiriyama S, et al. **TG18: diagnostic criteria and severity grading of acute cholangitis.** 2018;25:17–30. Gomi H, et al. **TG18: antimicrobial therapy for acute cholangitis and cholecystitis.** 2018;25:3–16.
@@ -24002,7 +23946,6 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - World Health Organization. **Echinococcosis — Fact sheet** (نسخهٔ جاری).
 - Lübbert C, Wiegand J, Karlas T. **Therapy of Liver Abscesses.** Viszeralmedizin. 2014;30:334–341. Stanley SL. **Amoebiasis.** Lancet. 2003;361:1025–1034.
 - CDC. **Amebiasis — Treatment** (Metronidazole/Tinidazole + Paromomycin/Diloxanide).
-- *تأیید دوز: انتی‌بیوتیک‌های صفراوی با مسیرهای WSES 2021 (کولی‌سیستیت و کلانژیت) مطابقت داده شد؛ Metronidazole ۷۵۰ mg سه بار، Paromomycin ۲۵–۳۵ mg/kg/روز و Diloxanide ۵۰۰ mg سه بار با برچسب و منابع CDC؛ Adrenaline ۰.۵ mg IM با فصل ۸۱. مسکن‌ها → SD-82؛ UDCA، Albendazole و Praziquantel در Echinococcus از منبع اولیه در این بازبینی خوانده نشد → SD-85.*
 == فصل ۳۵ — پانکراتیت حاد و مزمن (Acute & Chronic Pancreatitis)
 - Dumonceau JM, et al. **ERCP-related adverse events: ESGE Guideline.** Endoscopy. 2020;52:127–149.
 - Banks PA, et al. **Classification of acute pancreatitis — 2012: revision of the Atlanta classification and definitions by international consensus.** Gut. 2013;62:102–111.
@@ -24018,14 +23961,13 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - Whitcomb DC, et al. **AGA Clinical Practice Update on the Epidemiology, Evaluation, and Management of Exocrine Pancreatic Insufficiency.** Gastroenterology. 2023;165:1292–1301.
 - Issa Y, et al. **Effect of Early Surgery vs Endoscopy-First Approach on Pain in Patients With Chronic Pancreatitis (ESCAPE).** JAMA. 2020;323:237–247.
 - Olesen SS, et al. **Pregabalin reduces pain in patients with chronic pancreatitis in a randomized, controlled trial.** Gastroenterology. 2011;141:536–543.
-- *تأیید دوز: NSAID مقعدی پیش از ERCP با ESGE 2020؛ Meropenem و Enoxaparin در دوز معیاری برچسب. Paracetamol/Morphine → SD-82. Insulin در Hypertriglyceridaemia، Pregabalin و Prednisolone در AIP و دوز PERT از منبع اولیه در این بازبینی خوانده نشد → SD-86.*
 == فصل ۳۶ — رهیافت به مریض گرده‌ای: معاینهٔ ادرار و eGFR (Approach to Kidney Disease: Urinalysis & eGFR)
 - Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. (Executive summary: kdigo.org)
-- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (تعریف و مراحل؛ از طریق مرورهای PMC4206042 و PMC13242417 نیز تأیید شد)
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138.
 - KDIGO Glomerular Diseases Work Group. **KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases** — Top 10 Takeaways (تعریف سندروم نفروتیک).
 - Barocas DA, et al. **Microhematuria: AUA/SUFU Guideline.** J Urol. 2020;204:778–786. PMID 32698717.
 - Barocas DA, Lotan Y, Matulewicz RS, Raman JD, Westerman ME, Kirkby E, Pak L, Souter L. **Updates to Microhematuria: AUA/SUFU Guideline (2025).** J Urol. doi:10.1097/JU.0000000000004490. و **AUA/SUFU Microhematuria Diagnostic Algorithm** (12 March 2025)، auanet.org.
-- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس، نهایی نیست**). kdigo.org/guidelines/acute-kidney-injury — فقط برای Currentness note.
+- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس، نهایی نیست**). kdigo.org/guidelines/acute-kidney-injury.
 - Davenport MS, et al. **Use of Intravenous Iodinated Contrast Media in Patients With Kidney Disease: Consensus Statements from the ACR and the NKF.** Radiology / Kidney Med. 2020.
 - College of American Pathologists. **Chronic Kidney Disease Testing** (CKD-EPI 2021 بدون نژاد). 2025.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
@@ -24039,8 +23981,8 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 - NHS Lothian (edren.org). **Nephrotic syndrome guideline.** 2024.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۳۸ — آسیب حاد گرده (Acute Kidney Injury, AKI)
-- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (توصیه‌های 3.1.1، 3.3.5، 3.4.1–3.4.2، 3.5.1–3.5.3، 3.8.1، 5.1.1–5.1.2، 5.2.2 از متن رهنمود و Canadian Society of Nephrology commentary، AJKD 2013)
-- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس**). kdigo.org — فقط Currentness note.
+- KDIGO AKI Work Group. **KDIGO Clinical Practice Guideline for Acute Kidney Injury.** Kidney Int Suppl. 2012;2:1–138. (توصیه‌های 3.1.1، 3.3.5، 3.4.1–3.4.2، 3.5.1–3.5.3، 3.8.1، 5.1.1–5.1.2، 5.2.2)
+- KDIGO. **KDIGO 2026 Clinical Practice Guideline for AKI and AKD — Public Review Draft** (مارچ 2026؛ **پیش‌نویس**). kdigo.org.
 - STARRT-AKI Investigators. **Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury.** N Engl J Med. 2020;383:240–251.
 - Semler MW, et al. (SMART). **Balanced Crystalloids versus Saline in Critically Ill Adults.** N Engl J Med. 2018;378:829–839.
 - ACR–NKF. **Use of IV Iodinated Contrast Media in Patients With Kidney Disease.** 2020 (فصل ۳۶).
@@ -24048,108 +23990,99 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == فصل ۳۹ — مرض مزمن گرده (Chronic Kidney Disease, CKD)
 - KDIGO CKD Work Group. **KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease.** Kidney Int. 2024;105(4S):S117–S314. و **Executive summary** (kdigo.org) — جداول ۴ و ۵، شکل‌های ۲ و ۳.
 - **FARXIGA (dapagliflozin) US Prescribing Information.** AstraZeneca; DailyMed (Recent major changes 06/2026).
-- KDIGO 2022 Diabetes in CKD Guideline؛ KDIGO 2017 CKD-MBD Update؛ KDIGO Anaemia in CKD — (ارجاع موضوعی؛ جزئیات در SD-22).
+- KDIGO 2022 Diabetes in CKD Guideline؛ KDIGO 2017 CKD-MBD Update؛ KDIGO Anaemia in CKD.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۰ — انتان مجاری ادرار (Urinary Tract Infection, UTI)
 - NICE. **Urinary tract infection (lower): antimicrobial prescribing (NG109).** 2018 — توصیه‌های 1.1–1.4 و جداول ۱–۳.
 - NICE. **Pyelonephritis (acute): antimicrobial prescribing (NG111).** 2018 (به‌روز با هشدار MHRA جنوری 2024) — جداول ۱–۲.
-- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric (خلاصه‌های Guideline Central و emDocs 2025).
+- Trautner BW, et al. **IDSA 2025 Guidelines on Management and Treatment of Complicated Urinary Tract Infections** — Duration of Antibiotics; Clin Infect Dis. 2025. doi:10.1093/cid/ciaf462. و بخش‌های انتخاب empiric.
 - MHRA Drug Safety Update. **Fluoroquinolone antibiotics: must now only be prescribed when other commonly recommended antibiotics are inappropriate.** January 2024.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۱ — سنگ گرده و حالب (Renal and Ureteric Stones, Urolithiasis)
-1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https:\/\/www.nice.org.uk/guidance/ng118 — (توصیه‌های ۱.۱–۱.۸ مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵).
+1. NICE. *Renal and ureteric stones: assessment and management* (NG118). 2019. https:\/\/www.nice.org.uk/guidance/ng118.
 2. European Association of Urology. *EAU Guidelines on Urolithiasis* — Limited update March 2025 (full text and Pocket Guidelines 2025). https:\/\/uroweb.org/guidelines/urolithiasis
 3. Pickard R, et al. SUSPEND trial. *Lancet*. 2015 — (به نقل از بحث کمیتهٔ NICE NG118).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** NICE NG118 (2019) هنوز رهنمود فعال است؛ EAU Urolithiasis نسخهٔ Limited update مارچ 2025 بررسی شد و با NICE در اصول (NSAID اول، تخلیهٔ عاجل انسداد انتانی، PCNL برای بزرگتر از ۲ cm) هم‌خوان است. اختلاف: ارزیابی متابولیک ۲۴ ساعته (NICE توصیه نکرده، EAU برای پرخطرها) و MET (شواهد متناقض). **CURRENTNESS NOTE:** رهنمودهای AUA بررسی نشد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۲ — اختلالات Potassium، Calcium، Magnesium و Phosphate
-1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https:\/\/guidelines.ukkidney.org/hyperkalaemia/ — (Guidelines 16.2a/b، 16.3.1، 16.4.1–3، 16.5، 16.6، 25.1–25.2 خوانده شد).
+1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https:\/\/guidelines.ukkidney.org/hyperkalaemia/.
 2. Society for Endocrinology. *Emergency Endocrine Guidance: Emergency management of acute hypocalcaemia in adult patients.* Endocr Connect. 2016;5(5):G7–8; correction 2019 (PubMed 32022081) — (بولوس، انفیوژن، ۲.۲ mmol).
 3. Society for Endocrinology. *Acute hypocalcaemia — for use in adult patients* (2013 leaflet) — (Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg؛ هشدار ESKD).
-4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753 — (شکل‌های ۲ و ۳: Hyperkalaemia و Hypokalaemia؛ خوانده شد ۲۰۲۶-۰۹-۲۵).
+4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753.
 5. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
-6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** UKKA Hyperkalaemia 2023 جدیدترین رهنمود ملی بررسی‌شده است (صفحهٔ آنلاین آن تا دسمبر ۲۰۲۵ به‌روز شده). رهنمودهای Society for Endocrinology 2016 (با تصحیح 2019) هنوز مرجع عاجل‌اند؛ **CURRENTNESS NOTE:** نسخهٔ جدیدتر SfE جستجو نشد. KDIGO/ERC برای Hyperkalaemia با UKKA مقایسه نشد.
+6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۳ — اختلالات اسید–قلوی (Acid–Base Disorders)
-1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40 — (خلاصهٔ Wiki Journal Club بررسی شد).
-2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025 — (خلاصهٔ The Bottom Line، نوامبر ۲۰۲۵ بررسی شد؛ متن اصلی خوانده نشد → SD-29).
+1. Jaber S, et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU). *Lancet*. 2018;392(10141):31–40.
+2. BICARICU-2 investigators. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. 2025.
 3. University of Colorado Internal Medicine Residency. *Evaluation of Acid-Base Disorders* (suggested reading PDF) — فورمول‌های جبران.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** مهمترین تغییر: **BICARICU-2 (2025)** فایدهٔ مرگ‌ومیر زیرگروه AKI در BICAR-ICU را تأیید نکرد — متن این فصل بر اساس جدیدترین شواهد نوشته شد. فورمول‌های جبران دهه‌ها ثابت مانده‌اند.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۴ — اختلالات آب و Sodium: Hyponatraemia، Hypernatraemia، SIADH و Diabetes insipidus
-1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39) — (توصیه‌های ۷.۱–۷.۵ از متن خوانده شد).
-2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013 — (به نقل از منابع ۳ و ۴؛ متن اصلی خوانده نشد).
+1. Spasovski G, Vanholder R, Allolio B, et al. Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Eur J Endocrinol*. 2014;170(3):G1–G47. doi:10.1530/EJE-13-1020 (هم‌زمان: *Nephrol Dial Transplant*. 2014;29 Suppl 2:ii1–ii39).
+2. Verbalis JG, et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. *Am J Med*. 2013.
 3. Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol*. 2025;192(6):754 — (اختلاف ۸ در مقابل ۱۰ mmol/L؛ ۱۰۰ در مقابل ۱۵۰ mL).
 4. Treatment of symptomatic hyponatremia with hypertonic saline: a real-life observational study. *Eur J Endocrinol*. 2021;184(5):647.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** رهنمود اروپایی 2014 هنوز مرجع رسمی است؛ مرور 2025 (EJE) اختلاف عمل در اروپا را نشان داد. نام‌گذاری جدید DI (AVP deficiency/resistance) در متن آمد. **CURRENTNESS NOTE (SD-31):** جستجوی نسخهٔ جدید رهنمود اروپایی و بحث حدود اصلاح پس از 2023 کامل نشد؛ متن SALSA اصلی خوانده نشد.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۵ — رهیافت به مریض اندوکراین: خواندن درست تست‌های هورمونی (Approach to Endocrine Disease)
 1. U.S. Food and Drug Administration. *Biotin (Vitamin B7): Safety Communication — May Interfere with Lab Tests* (2017; updated 2019).
 2. Jameson JL, et al., eds. *Harrison's Principles of Internal Medicine* — Approach to the patient with endocrine disorders (اصول عمومی؛ بدون عدد مشخص نقل‌شده).
 3. رهنمودهای مخصوص هر مرض در فصل‌های ۴۶–۵۲.
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** این فصل اصول می‌دهد و عدد دوایی ندارد. نام‌گذاری جدید DI (AVP deficiency/resistance) در فصل ۴۴ آمده. **CURRENTNESS NOTE:** متن هشدار FDA در این نشست دوباره خوانده نشد (SD-32).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۶ — دیابت شکری (Diabetes Mellitus)
-1. American Diabetes Association Professional Practice Committee. *Standards of Care in Diabetes—2026*. Diabetes Care. 2026;49(Suppl 1). Section 2: doi:10.2337/dc26-S002 (جدول ۲.۱ و توصیه‌های ۲.۱–۲.۱۰)؛ Sections 5, 6, 7, 8, 9 — (متن توصیه‌ها از خلاصهٔ رسمی Guideline Central/ADA، به‌روز ۲۰۲۶-۰۹-۱۶ خوانده شد).
-2. UpToDate. ADA criteria for diagnosis of diabetes (تأیید اعتبار جدول برای نسخهٔ 2026).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ADA Standards 2026 (دسمبر ۲۰۲۵) جدیدترین نسخه است. تغییرات مهم نسبت به کتب قدیمی: (۱) GLP-1 RA/SGLT2i «بدون توجه به HbA1c» برای محافظت ارگان؛ (۲) GLP-1 based therapy بر Insulin ترجیح دارد؛ (۳) Tirzepatide در HFpEF + چاقی؛ (۴) GLP-1 RA در eGFR کمتر از ۳۰ و دیالیز؛ (۵) CGM از زمان تشخیص؛ (۶) «Metformin همیشه خط اول» دیگر قاعدهٔ مطلق نیست — انتخاب نظر به ارگان‌ها. **CURRENTNESS NOTE:** توصیه‌های KDIGO دیابت در CKD و IDF–DAR 2021 در این نشست دوباره خوانده نشدند (SD-34).
+1. American Diabetes Association Professional Practice Committee. *Standards of Care in Diabetes—2026*. Diabetes Care. 2026;49(Suppl 1). Section 2: doi:10.2337/dc26-S002 (جدول ۲.۱ و توصیه‌های ۲.۱–۲.۱۰)؛ Sections 5, 6, 7, 8, 9.
+2. UpToDate. ADA criteria for diagnosis of diabetes.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۷ — بحران‌های هایپرگلایسمیک: DKA و HHS (Diabetic Ketoacidosis & Hyperosmolar Hyperglycaemic State)
-1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479) — (معیارها، جدول شدت، الگوریتم تداوی و معیارهای رفع از متن PDF/PMC خوانده شد).
+1. Umpierrez GE, Davis GM, ElSayed NA, et al. Hyperglycemic crises in adults with diabetes: a consensus report. *Diabetes Care*. 2024;47(8):1257–1275. doi:10.2337/dci24-0032 (هم‌زمان *Diabetologia*. 2024;67:1455–1479).
 2. Rodriguez Alvarez P, et al. Hyperglycemic crises in adults: a look at the 2024 consensus report. *Cleve Clin J Med*. 2025;92(3):152–158 — (تغییرات نسبت به 2009؛ حد ۳–۸ mOsm/kg/h).
 3. Kitabchi AE, et al. Hyperglycemic crises in adult patients with diabetes. *Diabetes Care*. 2009;32(7):1335 — (نسخهٔ قبلی برای مقایسه).
 4. Joint British Diabetes Societies for Inpatient Care. **The Management of Diabetic Ketoacidosis in Adults.** Revised March 2023 (Dhatariya KK, et al. Diabet Med. 2022;39:e14788).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** Consensus بین‌المللی 2024 جدیدترین مرجع است (جایگزین ADA 2009). تغییرات کلیدی: β-OHB مرکزی، حد قند ۲۰۰/سابقهٔ دیابت، Bicarbonate ۱۸، Insulin زیرجلدی در DKA خفیف/متوسط، معیارهای رفع جدید، حدود جدید HHS. **اختلاف ثانوی:** خلاصهٔ Healio می‌گوید Bicarbonate «حذف» شده؛ الگوریتم اصلی Consensus می‌گوید «فقط اگر pH کمتر از ۷.۰ در نظر گرفته شود» — متن اصلی مبنا قرار گرفت. **CURRENTNESS NOTE:** JBDS-IP (UK) نسخهٔ جدید جداگانه بررسی نشد (SD-35).
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۸ — پُرکاری تایروئید و تایروتوکسیکوز (Hyperthyroidism & Thyrotoxicosis)
-1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
-2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — منبع ثانوی).
-3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (منبع ثانوی).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
+1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229.
+2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X).
+3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۴۹ — کم‌کاری تایروئید (Hypothyroidism) و Myxoedema coma
-1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028 — (دوز ۱.۶–۱.۸ mcg/kg، ۲۵–۵۰ mcg، تیتر ۱۲.۵–۲۵ و ۴–۶ هفته، Myxoedema coma توصیهٔ ۲۱ و T3 از متن خوانده شد).
-2. NICE. *Thyroid disease: assessment and management* (NG145). 2019 — (۱.۶ mcg/kg گرد به ۲۵ mcg؛ ۲۵–۵۰ mcg در ۶۵ سال یا بیشتر/قلبی — از Society for Endocrinology 2022 و خلاصه‌های ثانوی؛ متن اصلی NICE در این نشست خوانده نشد → SD-38).
+1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028.
+2. NICE. *Thyroid disease: assessment and management* (NG145). 2019.
 3. SYNTHROID (levothyroxine) prescribing information — دوز حاملگی ۱.۶/۱.۰ mcg/kg؛ تیتر.
-4. Endotext. Myxedema and coma (severe hypothyroidism). 2018 — (Hydrocortisone ۱۰۰ mg هر ۸ ساعت؛ دوز بار ۳۰۰–۵۰۰ mcg؛ هشدار دوز زیاد — منبع ثانوی).
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2014 هنوز مرجع جامع ATA است؛ NICE NG145 (2019) رهنمود ملی UK. **CURRENTNESS NOTE (SD-39):** ETA 2013 Subclinical، ATA 2017 حاملگی، و احتمال رهنمود جدید ATA برای Hypothyroidism پس از 2014 در این نشست کامل جستجو نشد.
+4. Endotext. Myxedema and coma (severe hypothyroidism). 2018.
 #block(above: 0.5em, below: 0.5em)[#align(center, line(length: 100%, stroke: 0.9pt + rgb("#b8913a")))]
 == فصل ۵۰ — امراض ادرنال و Pituitary (Adrenal & Pituitary Disorders)
-1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389. (متن کامل و جداول تداوی/تعلیم مریض خوانده شد؛ Guideline Central: صفحه در Dec 2025 مرور شده، بدون نسخهٔ جدید.)
-2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016. (خلاصهٔ توصیه‌ها از صفحهٔ رسمی Endocrine Society: 2.4، 2.5.)
+1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389.
+2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016.
 3. Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. *J Clin Endocrinol Metab / Eur J Endocrinol.* 2024. (نکات اصلی و توصیه‌های R 2.5، R 2.12، R 3.2 از صفحهٔ رسمی Endocrine Society.)
-4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453. (توصیه‌ها و technical remarks از صفحهٔ رسمی و متن OUP خوانده شد.)
+4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453.
 5. Nieman LK, Biller BMK, Findling JW, et al. The Diagnosis of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2008;93(5):1526–1540.
 6. Lenders JWM, Duh QY, Eisenhofer G, et al. Phaeochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2014;99(6):1915–1942.
 7. Fassnacht M, Tsagarakis S, Terzolo M, et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with ENSAT. *Eur J Endocrinol.* 2023.
-8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency (خلاصه در Medscape Guidelines؛ منبع ثانوی، فقط برای تطابق).
+8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency.
 == فصل ۵۱ — پاراتایروئید و استخوان: Hyperparathyroidism، Osteoporosis و Osteomalacia
 1. Bilezikian JP, Khan AA, Silverberg SJ, et al. Evaluation and Management of Primary Hyperparathyroidism: Summary Statement and Guidelines from the Fifth International Workshop. *J Bone Miner Res.* 2022;37(11):2293–2314.
-2. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the prevention and treatment of osteoporosis (NOGG). *Arch Osteoporos.* 2022;17:58. (توصیه‌ها از خلاصه‌های Medscape 2024 و Age and Ageing 2022، منابع ثانوی؛ متن کامل اولیه → SD-44.)
+2. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the prevention and treatment of osteoporosis (NOGG). *Arch Osteoporos.* 2022;17:58.
 3. Alendronate sodium tablets — FDA prescribing information (revised 6/2026; Drugs.com).
 4. Prolia (denosumab) — FDA prescribing information (Drugs.com، به‌روزرسانی 7/2026).
-5. Reclast (zoledronic acid) 5 mg — دوز و منع استعمال از خلاصهٔ برچسب در Aetna Clinical Policy Bulletin (Zoledronic acid) و AAFP 2008 (منبع ثانوی برچسب).
+5. Reclast (zoledronic acid) 5 mg — دوز و منع استعمال از خلاصهٔ برچسب در Aetna Clinical Policy Bulletin (Zoledronic acid) و AAFP 2008.
 == فصل ۵۲ — هایپوگلایسیمی و لیپید
 1. American Diabetes Association. Standards of Care in Diabetes—2026: Section 6 (Glycemic Goals, Hypoglycemia) and Section 16 (Diabetes Care in the Hospital). *Diabetes Care.* 2026;49(Suppl 1).
-2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728. (از طریق Endotext و RACGP.)
+2. Cryer PE, Axelrod L, Grossman AB, et al. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab.* 2009;94(3):709–728.
 3. Glucagon for Injection — FDA prescribing information (Lilly/Amphastar labels; DailyMed/accessdata).
 4. Mach F, Baigent C, Catapano AL, et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J.* 2020;41:111–188.
-5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190 (متن کامل، Recommendation Tables 1–7، خوانده شد ۲۰۲۶-۰۹-۲۵).
+5. Mach F, Koskinas KC, Roeters van Lennep JE, et al. 2025 focused update of the 2019 ESC/EAS dyslipidaemia guidelines. *Eur Heart J.* 2025;46(42):4359. doi:10.1093/eurheartj/ehaf190.
 == فصل ۵۳ — رهیافت به مریض عصبی: «کجا» پیش از «چه»
 این فصل رهیافت بالینی است؛ منابع رهنمودی در فصل‌های ۵۴–۵۹ آمده‌اند.
 == فصل ۵۴ — سکتهٔ مغزی و TIA
-1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513. (§4.6 متن اصلی خوانده شد؛ جدول ۸ تصویر → SD-62.)
-2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467. (§5.19 متن توضیحی خوانده شد، ۲۰۲۶-۰۹-۲۵.)
-3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361. (متن توضیحی بخش فشار و VTE خوانده شد، ۲۰۲۶-۰۹-۲۵.)
+1. Prabhakaran S, Gonzalez NR, Zachrison KS, et al. 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: a guideline from the AHA/ASA. *Stroke.* Published online January 26, 2026. doi:10.1161/STR.0000000000000513.
+2. Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 Guideline for the prevention of stroke in patients with stroke and TIA. *Stroke.* 2021;52:e364–e467.
+3. Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 Guideline for the management of patients with spontaneous intracerebral hemorrhage. *Stroke.* 2022;53:e282–e361.
 == فصل ۵۵ — تشنج، صرع و Status epilepticus
 1. Neurocritical Care Society. Emergency Neurological Life Support (ENLS) 5.0: Status Epilepticus Protocol.
 2. Glauser T, Shinnar S, Gloss D, et al. Evidence-based guideline: treatment of convulsive status epilepticus in children and adults. *Epilepsy Curr.* 2016;16(1):48–61.
 3. Vossler DG, Bainbridge JL, Boggs JG, et al. Treatment of refractory convulsive status epilepticus: a comprehensive review by the AES Treatments Committee. *Epilepsy Curr.* 2020;20(5):245–264.
 == فصل ۵۶ — سردردی: خطرناک را از شایع جدا کن
-1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
-2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
-3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
+1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370.
+2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365.
+3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039.
 4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672
 == فصل ۵۷ — مننژیت و انسفالیت
 1. van de Beek D, Cabellos C, Dzupova O, et al. ESCMID guideline: diagnosis and treatment of acute bacterial meningitis. *Clin Microbiol Infect.* 2016;22(Suppl 3):S37–S62.
@@ -24160,16 +24093,16 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 2. Sanders DB, Wolfe GI, Benatar M, et al. International consensus guidance for management of myasthenia gravis. *Neurology.* 2016;87:419–425.
 3. Narayanaswami P, Sanders DB, Wolfe G, et al. International consensus guidance for management of myasthenia gravis: 2020 update. *Neurology.* 2021;96:114–122.
 == فصل ۵۹ — Parkinson، Dementia و Delirium: مغز سالخورده
-1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023. (خوانده نشد → SD-67.)
-2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018. (خوانده نشد → SD-67.)
-3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017. (خوانده نشد → SD-67.)
+1. National Institute for Health and Care Excellence. Delirium: prevention, diagnosis and management in hospital and long-term care (CG103). Updated 2023.
+2. National Institute for Health and Care Excellence. Dementia: assessment, management and support (NG97). 2018.
+3. National Institute for Health and Care Excellence. Parkinson's disease in adults (NG71). 2017.
 == فصل ۶۰ — رهیافت به مریض خونی: CBC، لام خون، عقدات لمفاوی و طحال
 1. World Health Organization. Guideline on haemoglobin cutoffs to define anaemia in individuals and populations. Geneva: WHO; 2024.
 2. Carson JL, Stanworth SJ, Guyatt G, et al. Red Blood Cell Transfusion: 2023 AABB International Guidelines. *JAMA.* 2023;330(19):1892–1902.
 == فصل ۶۱ — انمی فقر آهن و انمی Megaloblastic
 1. Snook J, Bhala N, Beales ILP, et al. British Society of Gastroenterology guidelines for the management of iron deficiency anaemia in adults. *Gut.* 2021;70:2030–2051.
 2. Ko CW, Siddique SM, Patel A, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. *Gastroenterology.* 2020;159:1085–1094.
-3. NICE. Vitamin B12 deficiency in over 16s: diagnosis and management (NG239). 2024. (از طریق رهنمود NHS North West 2024 "Guideline for the management of Vitamin B12 deficiency in over 16s" و SmPC Hydroxocobalamin؛ متن اولیه باز نشد.)
+3. NICE. Vitamin B12 deficiency in over 16s: diagnosis and management (NG239). 2024.
 == فصل ۶۲ — انمی‌های همولیتیک
 1. World Health Organization. Testing for G6PD deficiency for safe use of primaquine in radical cure of P. vivax and P. ovale malaria: policy brief. Geneva: WHO; 2016.
 2. World Health Organization. WHO guidelines for malaria (رژیم‌های Primaquine؛ رژیم ۷ روزه 2022). Geneva: WHO.
@@ -24182,64 +24115,64 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == فصل ۶۴ — خونریزی و Thrombocytopenia: ITP، TTP، HIT و DIC
 1. Neunert C, Terrell DR, Arnold DM, et al. American Society of Hematology 2019 guidelines for immune thrombocytopenia. *Blood Adv.* 2019;3(23):3829–3866. (و مرور 2022: Blood Adv 2024.)
 2. Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: heparin-induced thrombocytopenia. *Blood Adv.* 2018;2(22):3360–3392.
-3. Taylor FB Jr, Toh CH, Hoots WK, et al. Towards definition, clinical and laboratory criteria, and a scoring system for disseminated intravascular coagulation. *Thromb Haemost.* 2001;86:1327–1330. (از طریق ماشین‌حساب‌های ثانوی؛ متن اولیه → SD-50.)
+3. Taylor FB Jr, Toh CH, Hoots WK, et al. Towards definition, clinical and laboratory criteria, and a scoring system for disseminated intravascular coagulation. *Thromb Haemost.* 2001;86:1327–1330.
 4. Zheng XL, Vesely SK, Cataland SR, et al. ISTH guidelines for treatment of thrombotic thrombocytopenic purpura. *J Thromb Haemost.* 2020;18:2496–2502. (فقط اصول.)
 == فصل ۶۵ — Lymphoma، Multiple myeloma و MDS
-1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548. (از طریق IMF/myeloma.org و Medscape.)
+1. Rajkumar SV, Dimopoulos MA, Palumbo A, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. *Lancet Oncol.* 2014;15:e538–e548.
 2. Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. *Blood.* 2018;131(25):2745–2760.
 == فصل ۶۶ — رهیافت به مریض تب‌دار
 1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936; *Crit Care Med.* 2026. (فقط موارد غربالگری و زمان Antibiotic؛ جزئیات در فصل ۶۷.)
 == فصل ۶۷ — سپسیس و شوک سپتیک
-1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936. (از صفحهٔ SCCM، Springer و خلاصه‌های ثانوی؛ متن کامل همهٔ توصیه‌ها خوانده نشد → SD-52.)
-2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143. (فهرست کامل توصیه‌ها از صفحهٔ SCCM خوانده شد.)
+1. Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2026. *Intensive Care Med.* 2026;52(5):863–936.
+2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. *Crit Care Med.* 2021;49(11):e1063–e1143.
 3. Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA.* 2016;315(8):801–810.
 == فصل ۶۸ — ملاریا، Dengue و CCHF
-1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. WHO Guidelines for the treatment of malaria, 3rd ed. (afro.who.int، خلاصهٔ توصیه‌ها مستقیم خوانده شد: Artesunate ۲٫۴/۳ mg/kg، ۲۴ ساعت زرقی، ACT ۳ روزه، Primaquine ۰٫۲۵–۰٫۵ mg/kg × ۱۴ روز و استثناهای آن)؛ WHO Prequalification — Artesunate for injection, SmPC §4.2.
+1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. WHO Guidelines for the treatment of malaria, 3rd ed.؛ WHO Prequalification — Artesunate for injection, SmPC §4.2.
 2. Médecins Sans Frontières. Clinical guidelines: Malaria. medicalguidelines.msf.org.
 3. World Health Organization. WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: WHO; 2025.
 == فصل ۶۹ — Brucellosis و Typhoid: دو تب طولانی افغانستان
 1. Centers for Disease Control and Prevention. Clinical Guidance for Typhoid Fever and Paratyphoid Fever. Updated April 24, 2024.
 2. CDC Yellow Book 2024: Typhoid & Paratyphoid Fever.
 3. Chatham-Stephens K, et al. Emergence of extensively drug-resistant *Salmonella* Typhi infections among travelers to or from Pakistan — United States, 2016–2018. *MMWR.* 2019;68(1):11–13.
-4. Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. *PLoS Med.* 2007;4(12):e317. (متن اصلی خوانده نشد → SD-54.)
+4. Ariza J, Bosilkovski M, Cascio A, et al. Perspectives for the treatment of brucellosis in the 21st century: the Ioannina recommendations. *PLoS Med.* 2007;4(12):e317.
 == فصل ۷۰ — HIV: از شک تا تداوی مادام‌العمر
 1. World Health Organization. WHO guidelines on the management of advanced HIV disease. Geneva: WHO; 2025.
 2. World Health Organization. Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring: recommendations for a public health approach. Geneva: WHO; 2021 (و به‌روزرسانی‌ها).
 3. World Health Organization. WHO operational handbook on tuberculosis: Module 6 — TB and comorbidities, §4.2 HIV treatment and care for people with TB. tbksp.who.int.
 == فصل ۷۱ — Tetanus و انتانات جلد و نسج نرم
 1. California Department of Public Health. Tetanus Quicksheet (بر اساس CDC و AAP Red Book). 2026.
-2. Medscape. Tetanus Treatment & Management. 2025. (ثانوی؛ Metronidazole و Magnesium → SD-57.)
-3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52. (متن اصلی خوانده نشد → SD-57.)
+2. Medscape. Tetanus Treatment & Management. 2025.
+3. Stevens DL, Bisno AL, Chambers HF, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the IDSA. *Clin Infect Dis.* 2014;59(2):e10–e52.
 == فصل ۷۲ — رهیافت به مریض با درد مفاصل
 این فصل رهیافت بالینی است و ادعای عددی تازه ندارد. منابع رهنمودی هر مرض در فصل خودش آمده است:
 1. RA — EULAR 2022 و ACR 2021 (فصل ۷۳).
 2. ارتریت سپتیک، نقرس و OA — فصل‌های ۷۵ و ۷۶.
 3. Brucellosis — فصل ۶۹.
 == فصل ۷۳ — Rheumatoid arthritis
-1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18. (از خلاصه‌ها → SD-58.)
-2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939. (از خلاصه‌ها → SD-58.)
-3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
+1. Smolen JS, Landewé RBM, Bergstra SA, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2022 update. *Ann Rheum Dis.* 2023;82:3–18.
+2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939.
+3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581.
 == فصل ۷۴ — Systemic lupus erythematosus (SLE) و Vasculitis سیستمیک
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
-2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
+2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159.
 3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
 4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672
 == فصل ۷۵ — نقرس و Osteoarthritis
 1. FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. *Arthritis Care Res.* 2020;72(6):744–760.
-2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42. (فقط دوز Colchicine ۰.۵ mg؛ مستقیم خوانده نشد → SD-60.)
-3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162. (خوانده نشد → SD-60.)
+2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42.
+3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162.
 == فصل ۷۶ — ارتریت سپتیک، Spondyloarthritis و Osteomyelitis
-1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34. (از خلاصه‌ها.)
+1. Ramiro S, Nikiphorou E, Sepriano A, et al. ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. *Ann Rheum Dis.* 2023;82:19–34.
 2. Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 IDSA clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. *Clin Infect Dis.* 2015;61(6):e26–e46. (از Guideline Central.)
 == فصل ۷۷ — ایست قلبی و شوک
 1. American Heart Association. 2025 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care — Part 9: Adult Advanced Life Support. *Circulation.* 2025. cpr.heart.org.
 2. American Heart Association. Adult Cardiac Arrest Circular Algorithm. 2025.
-3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3) — (بخش‌های Vasopressor، Antiarrhythmic و Other medication خوانده شد ۲۰۲۶-۰۹-۲۵).
+3. European Resuscitation Council. European Resuscitation Council Guidelines 2025: Adult Advanced Life Support. *Resuscitation.* 2025 (PII S0300-9572(25)00281-3).
 == فصل ۷۸ — رهیافت به مسمومیت؛ Organophosphate و Aluminium phosphide
-1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
+1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607.
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
-4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
+4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161.
 5. St-Onge M, Anseeuw K, Cantrell FL, et al. Experts consensus recommendations for the management of calcium channel blocker poisoning in adults. Crit Care Med 2017;45(3):e306–e315. doi:10.1097/CCM.0000000000002087
 == فصل ۷۹ — مسمومیت Paracetamol
 1. Chiew AL, Reith D, Pomerleau A, et al. Updated guidelines for the management of paracetamol poisoning in Australia and New Zealand. *Med J Aust.* 2020;212(4):175–183.
@@ -24248,22 +24181,22 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 == فصل ۸۰ — Opioid، کاربن مونوکساید و Cyanide
 1. New Jersey Poison Information & Education System (NJPIES). Antidote Use Guideline. 2023.
 2. Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. *Ther Adv Drug Saf.* 2018;9(1):63–88.
-3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184. جدول ۲ از سند رسمی Highlights آن (cpr.heart.org) مستقیم خوانده شد.
+3. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association focused update on the management of patients with cardiac arrest or life-threatening toxicity due to poisoning. *Circulation.* 2023;148:e149–e184.
 == فصل ۸۱ — Anaphylaxis و سوختگی
 - Dodd A, et al. **Evidence update for the treatment of anaphylaxis.** Resuscitation. 2021;163:86–96.
 - NICE. **Anaphylaxis: assessment and referral after emergency treatment (NG258).** 2026 — بخش Period of observation.
 1. Resuscitation Council UK. Emergency treatment of anaphylaxis: guidelines for healthcare providers. May 2021.
-2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023. (خلاصه خوانده شد → SD-72.)
+2. American Burn Association. Clinical practice guidelines on burn shock resuscitation. *J Burn Care Res.* Published online December 2023.
 == فصل ۸۲ — گرمازدگی و Hypothermia
-1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
-- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359.
+- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025.
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924.
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
-3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
+3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753.
 == فصل ۸۳ — امراض داخله در حاملگی
 1. American College of Obstetricians and Gynecologists. Committee Opinion No. 767: Emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period. *Obstet Gynecol.* 2019;133:e174–e180. (Order sets مستقیم؛ نسخهٔ ۶۹۲.)
 2. American Board of Emergency Medicine. Key Advances: Hypertensive disorders of pregnancy — Clinical policy alert. 2024.
-3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خلاصهٔ توصیه‌ها و بخش Magnesium مستقیم خوانده شد.)
+3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011.
 4. Hospira. Magnesium Sulfate Injection USP 50% — prescribing information (labeling.pfizer.com).
 == فصل ۸۴ — مریض سالخورده
 1. 2023 American Geriatrics Society Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria for potentially inappropriate medication use in older adults. *J Am Geriatr Soc.* 2023;71(7):2052–2081.
@@ -24274,10 +24207,9 @@ Creatinine، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocys
 3. Neurocritical Care Society. ENLS 5.0 Status Epilepticus Protocol; Glauser T, et al. *Epilepsy Curr.* 2016;16:48–61.
 4. Resuscitation Council UK. Emergency treatment of anaphylaxis. 2021.
 == فصل ۸۶ — تب طولانی بدون علت، کاهش وزن و بزرگی عقدات لمفاوی
-*این فصل رهیافت است و بر فصل‌های ۱۲، ۱۹، ۶۵، ۶۶، ۶۹ و ۷۰ و منابع آن‌ها تکیه دارد. منبع رسمی مستقل برای تعریف FUO و معیارهای Biopsy عقده در این جلسه خوانده نشد → SD-77.*
 1. منابع فصل ۱۹ (WHO TB)، فصل ۶۵ (Lymphoma)، و فصل ۶۹ (Brucellosis) این کتاب.
 == فصل ۸۷ — سوء تغذیه، Refeeding و کمبود ویتامین‌ها
-1. National Institute for Health and Care Excellence. Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral nutrition (CG32). 2006, updated 2017. (از طریق رهنمودهای NHS.)
+1. National Institute for Health and Care Excellence. Nutrition support for adults: oral nutrition support, enteral tube feeding and parenteral nutrition (CG32). 2006, updated 2017.
 2. Sandwell and West Birmingham NHS Trust. Refeeding syndrome guideline. 2024.
 3. NHS Grampian. Guidance on thiamine replacement in patients at risk of refeeding syndrome.
 4. BAPEN / BIFA. Top tips for preventing and managing refeeding syndrome.

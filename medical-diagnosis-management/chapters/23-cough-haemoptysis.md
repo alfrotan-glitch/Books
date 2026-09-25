@@ -1,6 +1,6 @@
 # فصل ۲۳ — سرفهٔ مزمن و هموپتیزی (Chronic Cough & Haemoptysis)
 
-> **بخش سوم — سیستم تنفسی** · *فصل رهیافتی (Approach chapter)* · *Currentness audit (سپتمبر 2026): فصل رهیافت؛ اصول سرفهٔ مزمن و هموپتیزی از منابع استندرد. دوزهای علامتی → SD-89.*
+> **بخش سوم — سیستم تنفسی**
 
 ## 🩺 مریض این فصل
 
@@ -293,9 +293,8 @@ Pseudohaemoptysis (بینی، حلق، GI) — جدول بالا.
 - Wand O, et al. **Inhaled tranexamic acid for hemoptysis treatment: a randomized controlled trial.** Chest. 2018;154:1379–1384.
 - Ittrich H, et al. **The diagnosis and treatment of hemoptysis.** Dtsch Arztebl Int. 2017;114:371–381.
 - Davidson K, Shojaee S. **Managing massive hemoptysis.** Chest. 2020;157:77–88.
-- WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته. *[نسخهٔ جاری رهنمود ملی باید تأیید شود.]*
+- WHO / Afghan National TB Programme — غربالگری سل در سرفه بیش از ۲ هفته.
 - Harrison's Principles of Internal Medicine, 21st Ed — Cough; Hemoptysis.
-- *وضعیت دوز: Gabapentin در سرفهٔ مزمن، Morphine، Fluticasone بینی، TXA در هموپتیزی و اصلاح انتی‌کواگولانت در این بازبینی از منبع اولیه خوانده نشد → SD-89 (اصلاح Warfarin با PCC → فصل ۲۵).*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سرفه: **مدت** (حاد، تحت حاد، مزمن) — اولین سؤال.

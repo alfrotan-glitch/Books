@@ -1,6 +1,6 @@
 # فصل ۵۶ — سردردی: خطرناک را از شایع جدا کن
 
-> **بخش هشتم — نورولوژی** · *Currentness audit: اصول «Red flags» (SNOOP) و Ottawa SAH rule از منابع بالینی استندرد؛ SAH — AHA/ASA 2023 aneurysmal SAH guideline (Hoh BL et al., Stroke 2023)؛ GCA — EULAR 2018 LVV (متن کامل ard.bmj.com مستقیم خوانده شد، ۲۰۲۶-۰۹-۲۵) و ACR/VF 2021؛ میگرن — American Headache Society 2021 consensus. به جز دوز GCA، منابع دیگر مستقیم خوانده نشدند → ادعاهای عددی دیگر در SD-64.*
+> **بخش هشتم — نورولوژی**
 
 ## بیست سردردی، یک خونریزی
 
@@ -39,11 +39,11 @@
 - **SAH (Subarachnoid haemorrhage)** اکثراً از پاره شدن **Aneurysm**. مرگ و معیوبیت بلند است، و **خونریزی دوم** کشنده‌تر است.
 - **تصویر:** سردردی ناگهانی شدید («بدترین سردردی عمرم»)، استفراغ، سفتی گردن (پس از ساعت‌ها)، غش، یا تشنج. **ممکن است مریض «بهتر» شود**، که همان «خونریزی هشداردهنده» (Sentinel bleed) است.
 - **تشخیص:**
-  1. **CT بدون Contrast هر چه زودتر.** حساسیت آن در ساعت‌های اول بسیار بلند است و با گذشت زمان کم می‌شود. *(حد ۶ ساعت → SD-64.)*
+  1. **CT بدون Contrast هر چه زودتر.** حساسیت آن در ساعت‌های اول بسیار بلند است و با گذشت زمان کم می‌شود.
   2. **CT منفی ولی شک باقی است** (به ویژه پس از ساعت‌های اول) → **LP**: خون یا **Xanthochromia** (زرد شدن مایع؛ چند ساعت پس از خونریزی ظاهر می‌شود).
   3. SAH ثابت → **CTA** برای Aneurysm → **جراحی عصبی** (Coiling یا Clipping).
-- **Ottawa SAH rule** برای تصمیم دربارهٔ تصویربرداری در سردردی حاد شدید کمک می‌کند. *(معیارها → SD-64.)*
-- **اهتمامات تا جراحی:** کنترول فشار، درد و استفراغ؛ **Nimodipine** برای جلوگیری از Vasospasm *(دوز → SD-64)*؛ ضد انعقاد را معکوس کن.
+- **Ottawa SAH rule** برای تصمیم دربارهٔ تصویربرداری در سردردی حاد شدید کمک می‌کند.
+- **اهتمامات تا جراحی:** کنترول فشار، درد و استفراغ؛ **Nimodipine** برای جلوگیری از Vasospasm *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*؛ ضد انعقاد را معکوس کن.
 
 ---
 
@@ -78,20 +78,20 @@
 - **NSAID** یا Paracetamol (با ضد استفراغ در صورت ضرورت) برای حملات خفیف تا متوسط.
 - **Triptan** برای حملات متوسط تا شدید یا ناکامی NSAID. **منع:** مرض قلبی–عروقی، سکته، فشار بلند کنترول‌نشده.
 - **⚠️ Opioid و Pethidine** برای میگرن نه: کم‌اثر، و خطر وابستگی و سردردی مزمن دارند.
-- *(دوزها → SD-64.)*
+- *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
-**تداوی پیش‌گیرانه:** وقتی حملات مکرر یا ناتوان‌کننده‌اند. گزینه‌ها: Propranolol، Amitriptyline، Topiramate *(حاملگی نه)*، و Candesartan. *(دوزها و معیار → SD-64.)*
+**تداوی پیش‌گیرانه:** وقتی حملات مکرر یا ناتوان‌کننده‌اند. گزینه‌ها: Propranolol، Amitriptyline، Topiramate *(حاملگی نه)*، و Candesartan. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 **عوامل:** خواب نامنظم، گرسنگی، استرس، و بعضی غذاها. دفترچهٔ سردردی.
 
-**⚠️ مانع حاملگی ترکیبی Estrogen** در میگرن با Aura خطر سکته را بالا می‌برد. *(جزئیات → SD-64.)*
+**⚠️ مانع حاملگی ترکیبی Estrogen** در میگرن با Aura خطر سکته را بالا می‌برد.
 
 ### سردردی Tension-type
 - دوطرفه، فشارنده («کمربند دور سر»)، خفیف تا متوسط، **بدون** استفراغ یا بدتر شدن با فعالیت.
 - NSAID یا Paracetamol **گاه‌گاه**؛ مدیریت استرس، خواب، و ورزش.
 
 ### سردردی از استعمال زیاد دوا (Medication-overuse headache)
-- **مسکن‌ها را بیشتر از چند روز در ماه** خوردن، خودش سردردی مزمن روزانه می‌سازد. *(حد روزها → SD-64.)*
+- **مسکن‌ها را بیشتر از چند روز در ماه** خوردن، خودش سردردی مزمن روزانه می‌سازد.
 - **در افغانستان شایع است** (مسکن‌های بدون نسخه). تداوی آن **قطع مسکن زیاد** و شروع پیش‌گیری است.
 
 ---
@@ -130,7 +130,7 @@
 5. منع Triptan؟ ← مرض قلبی–عروقی، سکته، فشار کنترول‌نشده.
 
 ## 📚 References
-1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370. (خوانده نشد → SD-64.)
-2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365. (خوانده نشد → SD-64.)
-3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039. (خوانده نشد → SD-64.)
+1. Hoh BL, Ko NU, Amin-Hanjani S, et al. 2023 Guideline for the management of patients with aneurysmal subarachnoid hemorrhage. *Stroke.* 2023;54:e314–e370.
+2. Maz M, Chung SA, Abril A, et al. 2021 ACR/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. *Arthritis Rheumatol.* 2021;73:1349–1365.
+3. Ailani J, Burch RC, Robbins MS. The American Headache Society consensus statement: update on integrating new migraine treatments into clinical practice. *Headache.* 2021;61:1021–1039.
 4. Hellmich B, Agueda A, Monti S, et al. 2018 Update of the EULAR recommendations for the management of large vessel vasculitis. Ann Rheum Dis 2020;79(1):19–30. doi:10.1136/annrheumdis-2019-215672

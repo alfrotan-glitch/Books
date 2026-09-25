@@ -1,6 +1,6 @@
 # فصل ۴۲ — اختلالات Potassium، Calcium، Magnesium و Phosphate
 
-> **بخش ششم — گرده** · *با Currentness audit (UKKA 2023 Hyperkalaemia؛ Society for Endocrinology)*
+> **بخش ششم — گرده**
 >
 > Sodium و آب (Hyponatraemia، SIADH، DI) در **فصل ۴۴** آمده‌اند؛ اسید–قلوی در **فصل ۴۳**.
 
@@ -84,7 +84,7 @@ Pseudohyperkalaemia · AKI/CKD · دوا · DKA · Addison · Rhabdomyolysis/Tum
 
 K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گرده؟ دوا؟ انتقال؟).
 
-## 🔹 ۱۰. Management — UKKA 2023 (تأییدشده از متن رهنمود)
+## 🔹 ۱۰. Management — UKKA 2023
 
 ### قدم ۱ — محافظت قلب (اگر ECG تغییر دارد)
 
@@ -94,7 +94,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 | **Calcium chloride 10%** | **۱۰ mL وریدی در ۵ دقیقه** | **ترجیحی در توقف قلب یا نزدیک به توقف** (UKKA 25.1)؛ به ورید بزرگ — تخریش‌کننده |
 
 - Calcium سطح K⁺ را پایین نمی‌آورد؛ اثرش موقت است. ECG را پس از زرق دوباره ببین.
-- ⚠️ مریض با **Digoxin:** احتیاط و مشورهٔ متخصص (خطر سمیت قلبی). شیوهٔ آهسته‌تر در رهنمودهای محلی آمده (UNVERIFIED از منبع اولیه → SD-27).
+- ⚠️ مریض با **Digoxin:** احتیاط و مشورهٔ متخصص (خطر سمیت قلبی). شیوهٔ آهسته‌تر در رهنمودهای محلی آمده.
 - ⚠️ Calcium را با Sodium bicarbonate در یک لاین مخلوط نکن (رسوب).
 
 ### قدم ۲ — انتقال K⁺ به داخل حجره
@@ -111,7 +111,7 @@ K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گر�
 
 ### قدم ۳ — خارج کردن K⁺
 
-- **Potassium binders:** UKKA: **Sodium zirconium cyclosilicate** برای شدید داده شود و برای متوسط در نظر گرفته شود؛ **Patiromer** در متوسط/شدید در نظر گرفته شود. دوز در الگوریتم ERC 2025: **Sodium zirconium cyclosilicate ۱۰ g فمی** یا **Patiromer ۸.۴ g**؛ دوز نگهدارنده و مدت از برچسب تأیید نشد → **SD-27**.
+- **Potassium binders:** UKKA: **Sodium zirconium cyclosilicate** برای شدید داده شود و برای متوسط در نظر گرفته شود؛ **Patiromer** در متوسط/شدید در نظر گرفته شود. دوز در الگوریتم ERC 2025: **Sodium zirconium cyclosilicate ۱۰ g فمی** یا **Patiromer ۸.۴ g**؛ دوز نگهدارنده و مدت را از برچسب دوا بگیر
 - **دیالیز:** Hyperkalaemia مقاوم، AKI شدید/Anuria، ESKD (فصل ۳۸).
 - **ادرار:** مایعات در کم‌آبی؛ Loop diuretic در مریض پرحجم با وظیفهٔ گرده (دوز → فصل ۷/۳۸).
 
@@ -163,7 +163,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - Magnesium هم‌زمان (اگر لازم): **Magnesium sulfate 50% (۱ g = ۴ mmol)** — معمول **۲ g در ۴ ساعت**؛ عاجل **۲ g در ۱۰–۱۵ دقیقه** (یک بار قابل تکرار)؛ ایست قلبی **۲ g در ۲ دقیقه** (ERC 2025).
 - ECG و مانیتور قلبی اگر K⁺ کمتر از ۳.۰ است؛ خطر در مریض تحت Digoxin بیشتر است.
 
-🔒 **غلظت حد اعظمی KCl در ورید محیطی در برابر مرکزی و دوز فمی KCl** از منبع اولیه تأیید نشد → **SD-27 (UNVERIFIED)**؛ از پروتوکول محلی پیروی کن.
+**غلظت حد اعظمی KCl در ورید محیطی در برابر مرکزی و دوز فمی KCl** را از پروتوکول شفاخانه بگیر.
 
 ---
 
@@ -175,7 +175,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 💡 «**Stones, bones, groans, thrones, psychic moans**» — سنگ گرده، درد استخوان، درد بطن/یبوست، پُرادراری، اختلال روانی.
 
-*(«بیش از ۹۰ فیصد» یک تعمیم مشهور کتب درسی است؛ منبع اولیهٔ عدد در این نشست بررسی نشد → در SD-27 ثبت شد.)*
+ *(«بیش از ۹۰ فیصد» یک عدد تقریبی کتب درسی است.)*
 
 ## 🔹 ۲. Classification
 
@@ -213,13 +213,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 | قدم | کار |
 |---|---|
-| ۱ | **مایع وریدی (Normal saline)** — مریض را **euvolaemic** کن پیش از هر تداوی دیگر؛ احتیاط در عدم کفایهٔ قلب/گرده. 🔒 حجم و سرعت → SD-27 |
+| ۱ | **مایع وریدی (Normal saline)** — مریض را **euvolaemic** کن پیش از هر تداوی دیگر؛ احتیاط در عدم کفایهٔ قلب/گرده. حجم و سرعت |
 | ۲ | دواهای عامل را قطع کن (Thiazide، Calcium، Vitamin D، Lithium اگر ممکن) |
 | ۳ | **Bisphosphonate وریدی** (اگر Creatinine clearance بالاتر از ۳۰ mL/min): **Zoledronic acid ۴ mg در ۱۵ دقیقه** یا **Pamidronate ۳۰–۹۰ mg** (نظر به شدت) به سرعت ۲۰ mg/ساعت |
 | — CrCl کمتر از ۳۰ | Ibandronic acid ۲ mg در ۲ ساعت (پروتوکول NHS)؛ Zoledronic/Pamidronate در این حالت خارج از برچسب است — تصمیم متخصص |
 | ۴ | Calcium را پس از **۳–۵ روز** دوباره ببین (کمترین سطح پس از Bisphosphonate در ۲–۴ روز) |
-| ۵ | علت: سرطان (Oncology)، Hyperparathyroidism (فصل ۵۱)، Granuloma (Glucocorticoid — دوز → SD-27) |
-| ۶ | مقاوم یا عدم کفایهٔ گرده: Calcitonin، Denosumab، دیالیز — تصمیم متخصص (دوز → SD-27) |
+| ۵ | علت: سرطان (Oncology)، Hyperparathyroidism (فصل ۵۱)، Granuloma *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)* |
+| ۶ | مقاوم یا عدم کفایهٔ گرده: Calcitonin، Denosumab، دیالیز — تصمیم متخصص *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)* |
 
 ⚠️ **Furosemide به طور روتین نه** — فقط پس از جبران حجم و برای اضافه‌بار مایع (کم‌آبی را بدتر می‌کند).
 ⚠️ Bisphosphonate: Hypocalcaemia بعدی، اختلال گرده، Osteonecrosis فک (در مصرف طولانی).
@@ -252,13 +252,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 | معادل | هر ۱۰ mL Calcium gluconate 10% = **۲.۲ mmol** Calcium |
 | Calcium chloride | بدیل، اما تخریش‌کننده‌تر — **فقط از لاین مرکزی** |
 
-- **Magnesium را اصلاح کن** — بدون آن Calcium بلند نمی‌ماند (دوز Mg → SD-27).
+- **Magnesium را اصلاح کن** — بدون آن Calcium بلند نمی‌ماند *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*.
 - **Hypoparathyroidism (مثلاً پس از جراحی):** Alfacalcidol یا Calcitriol — **دوز شروع حدود ۰.۲۵–۰.۵ mcg در روز** (SfE 2013)؛ قوی‌اند و Hypercalcaemia می‌سازند → Calcium را مکرر اندازه کن.
 - ⚠️ **انفیوژن حجم زیاد Calcium در ESKD/دیالیز نه** (SfE) → رهنمود KDOQI/متخصص.
 - ⚠️ مریض با **Digoxin** یا Arrhythmia → مانیتورینگ مسلسل ECG.
 - Extravasation Calcium → نکروز نسج؛ ورید بزرگ.
 
-**خفیف (بی‌علامت، ۱.۹ یا بیشتر):** Calcium فمی + تداوی علت (Vitamin D، Mg). 🔒 دوز Calcium فمی و Vitamin D (SfE نام‌های تجارتی UK می‌دهد، نه عنصر Calcium به mg) → SD-27.
+**خفیف (بی‌علامت، ۱.۹ یا بیشتر):** Calcium فمی + تداوی علت (Vitamin D، Mg). دوز Calcium فمی و Vitamin D (SfE نام‌های تجارتی UK می‌دهد، نه عنصر Calcium به mg)
 
 ---
 
@@ -266,9 +266,9 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 | اختلال | علل کلیدی | چرا مهم است | تداوی |
 |---|---|---|---|
-| **Hypomagnesaemia** | PPI طولانی، Diuretics، الکول، اسهال، Aminoglycosides، Cisplatin | Hypokalaemia و Hypocalcaemia مقاوم؛ **Torsades de pointes** | Magnesium sulfate وریدی (شدید/Torsades) یا فمی — 🔒 دوز → SD-27 |
+| **Hypomagnesaemia** | PPI طولانی، Diuretics، الکول، اسهال، Aminoglycosides، Cisplatin | Hypokalaemia و Hypocalcaemia مقاوم؛ **Torsades de pointes** | Magnesium sulfate وریدی (شدید/Torsades) یا فمی — دوز |
 | Hypermagnesaemia | CKD + مصرف Mg (انتی‌اسید، مسهل)، تداوی Pre-eclampsia | ضعف، از بین رفتن رفلکس‌ها، تنفس ضعیف، Bradycardia | قطع Mg؛ Calcium gluconate وریدی (انتاگونیست)؛ دیالیز |
-| **Hypophosphataemia** | **Refeeding syndrome**، الکول، DKA در حال تداوی، Respiratory alkalosis | ضعف عضلات تنفسی، همولیز، Rhabdomyolysis | Phosphate فمی/وریدی نظر به شدت — 🔒 دوز → SD-27 |
+| **Hypophosphataemia** | **Refeeding syndrome**، الکول، DKA در حال تداوی، Respiratory alkalosis | ضعف عضلات تنفسی، همولیز، Rhabdomyolysis | Phosphate فمی/وریدی نظر به شدت — دوز |
 | Hyperphosphataemia | CKD (فصل ۳۹)، Tumour lysis، Rhabdomyolysis | رسوب Calcium–Phosphate، Hypocalcaemia | علت؛ Binder در CKD؛ دیالیز |
 
 ⚠️ **Refeeding syndrome:** در مریض سوءتغذیه (مثلاً پس از گرسنگی طولانی) غذا را **آهسته** شروع کن و Phosphate، K⁺ و Mg را پیش و بعد از شروع ببین.
@@ -310,14 +310,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ## 📚 References
 
-1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https://guidelines.ukkidney.org/hyperkalaemia/ — (Guidelines 16.2a/b، 16.3.1، 16.4.1–3، 16.5، 16.6، 25.1–25.2 خوانده شد).
+1. UK Kidney Association. *Clinical Practice Guideline: Treatment of Acute Hyperkalaemia in Adults.* Oct 2023 (final version Dec 2023). https://guidelines.ukkidney.org/hyperkalaemia/.
 2. Society for Endocrinology. *Emergency Endocrine Guidance: Emergency management of acute hypocalcaemia in adult patients.* Endocr Connect. 2016;5(5):G7–8; correction 2019 (PubMed 32022081) — (بولوس، انفیوژن، ۲.۲ mmol).
 3. Society for Endocrinology. *Acute hypocalcaemia — for use in adult patients* (2013 leaflet) — (Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg؛ هشدار ESKD).
-4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753 — (شکل‌های ۲ و ۳: Hyperkalaemia و Hypokalaemia؛ خوانده شد ۲۰۲۶-۰۹-۲۵).
+4. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753.
 5. Society for Endocrinology. *Emergency management of acute hypercalcaemia in adult patients.* Endocr Connect. 2016;5(5):G9–11. doi:10.1530/EC-16-0055 — (Bisphosphonates).
-6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025 — (درجه‌بندی شدت؛ رژیم CrCl کمتر از ۳۰) — منبع ثانوی/محلی.
+6. Kent & Medway NHS Formulary. *Treatment of acute hypercalcaemia in adults.* 2025.
 
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** UKKA Hyperkalaemia 2023 جدیدترین رهنمود ملی بررسی‌شده است (صفحهٔ آنلاین آن تا دسمبر ۲۰۲۵ به‌روز شده). رهنمودهای Society for Endocrinology 2016 (با تصحیح 2019) هنوز مرجع عاجل‌اند؛ **CURRENTNESS NOTE:** نسخهٔ جدیدتر SfE جستجو نشد. KDIGO/ERC برای Hyperkalaemia با UKKA مقایسه نشد.
 
 ---
 

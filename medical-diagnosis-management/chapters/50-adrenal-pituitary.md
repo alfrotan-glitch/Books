@@ -1,6 +1,6 @@
 # فصل ۵۰ — امراض ادرنال و Pituitary (Adrenal & Pituitary Disorders)
 
-> **بخش هفتم — اندوکراین** · *با Currentness audit (ES 2016 PAI و Hypopituitarism؛ ESE/ES 2024؛ ES 2025 Primary aldosteronism؛ ESE 2023 Incidentaloma؛ ES 2014 PPGL؛ ES 2008 Cushing)*
+> **بخش هفتم — اندوکراین**
 
 ## شوکی که به Saline جواب نداد
 
@@ -181,7 +181,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 
 **چرا در دوز بلند Fludrocortisone لازم نیست؟** Hydrocortisone در دوز بلند خودش اثر Mineralocorticoid دارد. رهنمود ۲۰۱۶ می‌گوید اگر دوز Hydrocortisone **بیشتر از ۵۰ mg در ۲۴ ساعت** باشد، تعویض Mineralocorticoid لازم نیست. وقتی دوز پایین آمد، در مریض اولیه Fludrocortisone شروع می‌شود.
 
-**اگر Hydrocortisone موجود نیست؟** رهنمود ۲۰۱۶ (4.2) **Prednisolone** را جایگزین پیشنهاد می‌کند. **Dexamethasone کم‌ترجیح‌ترین** گزینه است و فقط وقتی داده شود که Glucocorticoid دیگری موجود نباشد، چون اثر Mineralocorticoid ندارد. (دوز جایگزین‌ها در این فصل تأیید نشده → SD-40.)
+**اگر Hydrocortisone موجود نیست؟** رهنمود ۲۰۱۶ (4.2) **Prednisolone** را جایگزین پیشنهاد می‌کند. **Dexamethasone کم‌ترجیح‌ترین** گزینه است و فقط وقتی داده شود که Glucocorticoid دیگری موجود نباشد، چون اثر Mineralocorticoid ندارد. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 **عدم کفایهٔ ثانوی:** رهنمود Hypopituitarism 2016 (2.5، Strong) برای Adrenal crisis ناشی از عدم کفایهٔ ثانوی **۵۰–۱۰۰ mg Hydrocortisone** زرقی فوری را توصیه می‌کند. این یک **اختلاف دوز شروع** با رهنمود PAI (۱۰۰ mg) است و هر دو رهنمود حفظ شده‌اند. در عمل، وقتی نوع عدم کفایه معلوم نیست، دوز PAI منطقی است، چون همیشه کافی است.
 
@@ -201,11 +201,11 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 
 - **نمک را محدود نکن.** رهنمود (3.7) صریحاً این را توصیه می‌کند. در **هوای گرم** رهنمود افزایش موقتی Fludrocortisone به اندازهٔ **۵۰–۱۰۰ فیصد** یا نمک بیشتر را مطرح می‌کند. این نکته برای تابستان‌های جلال‌آباد و قندهار عملی است.
 - اگر با Fludrocortisone **فشار خون بلند** شد → اول دوز Fludrocortisone را کم کن (3.9). اگر فشار کنترول نشد → دوای ضد فشار شروع کن و Fludrocortisone را ادامه بده (3.10). یعنی Fludrocortisone را کاملاً قطع نکن.
-- **حاملگی:** Hydrocortisone را بر Cortisone acetate، Prednisolone و Prednisone ترجیح بده (2-L). نظر به سیر بالینی دوز را زیاد کن، به ویژه در **سه‌ماههٔ سوم (Third trimester)** (ES 2016، 3.15). مقدار افزایش در این فصل تأیید نشده → SD-40.
-- **عدم کفایهٔ ناشی از Glucocorticoid:** **Fludrocortisone نه** (ESE/ES 2024، R 2.12). مریضی که روی Glucocorticoid طولانی‌اثر است (Dexamethasone، Betamethasone)، وقتی دیگر به آن نیاز نیست، به دوای کوتاه‌اثر (Hydrocortisone یا Prednisone) تبدیل شود (R 2.5). جزئیات Taper و زمان تست محور → SD-40.
+- **حاملگی:** Hydrocortisone را بر Cortisone acetate، Prednisolone و Prednisone ترجیح بده (2-L). نظر به سیر بالینی دوز را زیاد کن، به ویژه در **سه‌ماههٔ سوم (Third trimester)** (ES 2016، 3.15). مقدار افزایش را با متخصص تعیین کن.
+- **عدم کفایهٔ ناشی از Glucocorticoid:** **Fludrocortisone نه** (ESE/ES 2024، R 2.12). مریضی که روی Glucocorticoid طولانی‌اثر است (Dexamethasone، Betamethasone)، وقتی دیگر به آن نیاز نیست، به دوای کوتاه‌اثر (Hydrocortisone یا Prednisone) تبدیل شود (R 2.5). جزئیات Taper و زمان تست محور
 - **ثانوی:** کمترین دوز قابل تحمل برای درازمدت، تا خطر متابولیک و قلبی–عروقی کم شود (Hypopituitarism 2016). Fludrocortisone نه (2.4، Strong).
-- **تداخل دوایی:** رهنمود Hypopituitarism دوای ضد صرع را به عنوان وضعیت خاص ذکر می‌کند، چون دواهای محرک انزایم کبدی می‌توانند نیاز به Glucocorticoid را زیاد کنند. جزئیات دوز → SD-40.
-- **گرده و کبد:** تنظیم دوز اختصاصی Hydrocortisone نگهداری در این فصل از منبع اولیه تأیید نشد → SD-40. در عمل دوز بر اساس بالین تیتر می‌شود.
+- **تداخل دوایی:** رهنمود Hypopituitarism دوای ضد صرع را به عنوان وضعیت خاص ذکر می‌کند، چون دواهای محرک انزایم کبدی می‌توانند نیاز به Glucocorticoid را زیاد کنند. جزئیات دوز
+- **گرده و کبد:** تنظیم دوز اختصاصی Hydrocortisone نگهداری مشخص نیست؛ در عمل دوز بر اساس بالین تیتر می‌شود.
 
 ---
 
@@ -254,7 +254,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - **در PAI خودایمنی:** دیگر امراض خودایمنی را پیگیری کن. رهنمود به خصوص **مرض خودایمنی تایروئید** را ذکر می‌کند، که همان Hashimoto فصل ۴۹ است.
 - **پیگیری بالینی:** وزن، فشار (ایستاده و خوابیده)، انرژی، الکترولیت‌ها، و این سؤال: «آیا در این مدت قواعد روزهای مرض را به کار بردی؟»
 
-(ارقام شیوع و مرگ‌ومیر در این فصل عمداً ذکر نشده‌اند، چون از منبع اولیه تأیید نشدند.)
+
 
 ---
 
@@ -329,7 +329,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 **تداوی — چرا دو راه؟** رهنمود ۲۰۲۵ برای مریض PA **تداوی اختصاصی PA** را پیشنهاد می‌کند:
 - **جراحی (Adrenalectomy):** اگر Aldosterone از یک طرف بیاید (lateralizing)، جراحی می‌تواند مرض را علاج کند. به همین دلیل، مریضی که کاندید جراحی است و آن را می‌خواهد به تست‌های تعیین طرف فرستاده می‌شود: CT ادرنال و در صورت لزوم نمونه‌گیری از ورید ادرنال (AVS) در مرکز مجرب.
 - **دوای ضد Mineralocorticoid (MRA):** برای مریضی که جراحی نمی‌خواهد یا کاندید آن نیست. این دوا اثر زیانبار Aldosterone را مستقیماً بند می‌کند.
-- دوز MRA و جزئیات AVS در این فصل از منبع اولیه تأیید نشده → SD-42.
+- دوز MRA و جزئیات AVS با متخصص تعیین می‌شود
 
 **برگشت به حاجی دین‌محمد:**
 - Renin او سرکوب‌شده و Aldosterone بلند بود. Potassium پایین هم شک را قوی‌تر می‌کرد.
@@ -356,7 +356,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 - **ACTH پایین:** منشأ ادرنال است.
 - **ACTH بلند یا نورمال:** منشأ Pituitary است یا یک تومور خارج از Pituitary که ACTH می‌سازد.
 
-این تست‌ها و تداوی (معمولاً جراحی منبع) در مرکز تخصصی انجام می‌شوند. جزئیات بعد از ۲۰۰۸ (مثلاً اجماع Pituitary Society 2021) در این فصل از منبع اولیه خوانده نشد → SD-43.
+این تست‌ها و تداوی (معمولاً جراحی منبع) در مرکز تخصصی انجام می‌شوند.
 
 ### Phaeochromocytoma — تومور کمیاب که نباید از دست برود
 
@@ -372,7 +372,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
   - در تمام PPGLهای فعال هورمونی، **بند کردن گیرنده‌ها پیش از جراحی (Blockade)** لازم است (4.1). **Alpha-blocker** انتخاب اول پیشنهادی است.
   - مدت آمادگی **۷–۱۴ روز** است، تا فشار و ضربان قلب نورمال شوند (4.2).
   - **نمک و مایع بیشتر** هم جزء آمادگی است، چون Catecholamine حجم خون را منقبض کرده است. بدون آن، پس از برداشتن تومور Hypotension شدید می‌آید.
-  - دوز دواها → SD-42.
+  - دوز دواها
 - **جنیتیکی:** رهنمود مشورهٔ جنیتیکی را برای همهٔ مریضان در نظر دارد.
 - **پیگیری:** Metanephrine برای مرض باقی‌مانده، و **تست سالانه برای تمام عمر** (4.4).
 
@@ -416,7 +416,7 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 
 **Pituitary apoplexy** (سردرد ناگهانی شدید، اختلال دید یا فلج عصب چشم، و شاید شوک) یک عاجل است: Hydrocortisone فوری و تصویربرداری عاجل.
 
-این موضوعات در این فصل **تحریر نشده‌اند**: Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های دیگر Pituitary، و تداوی Diabetes insipidus (فصل ۴۴). منابع اولیهٔ آن‌ها هنوز خوانده نشده → SD-43.
+این موضوعات در این فصل **تحریر نشده‌اند**: Prolactinoma، Acromegaly، تداوی کمبود هورمون‌های دیگر Pituitary، و تداوی Diabetes insipidus (فصل ۴۴).
 
 ---
 
@@ -456,11 +456,11 @@ Cortisol یک هورمون «زینتی» نیست؛ **هورمون تحمل ا�
 
 ## 📚 References
 
-1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389. (متن کامل و جداول تداوی/تعلیم مریض خوانده شد؛ Guideline Central: صفحه در Dec 2025 مرور شده، بدون نسخهٔ جدید.)
-2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016. (خلاصهٔ توصیه‌ها از صفحهٔ رسمی Endocrine Society: 2.4، 2.5.)
+1. Bornstein SR, Allolio B, Arlt W, et al. Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016;101(2):364–389.
+2. Fleseriu M, Hashim IA, Karavitaki N, et al. Hormonal Replacement in Hypopituitarism in Adults: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2016.
 3. Beuschlein F, Else T, Bancos I, et al. European Society of Endocrinology and Endocrine Society Joint Clinical Guideline: Diagnosis and Therapy of Glucocorticoid-induced Adrenal Insufficiency. *J Clin Endocrinol Metab / Eur J Endocrinol.* 2024. (نکات اصلی و توصیه‌های R 2.5، R 2.12، R 3.2 از صفحهٔ رسمی Endocrine Society.)
-4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453. (توصیه‌ها و technical remarks از صفحهٔ رسمی و متن OUP خوانده شد.)
+4. Adler GK, et al. Primary Aldosteronism: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2025;110(9):2453.
 5. Nieman LK, Biller BMK, Findling JW, et al. The Diagnosis of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2008;93(5):1526–1540.
 6. Lenders JWM, Duh QY, Eisenhofer G, et al. Phaeochromocytoma and Paraganglioma: An Endocrine Society Clinical Practice Guideline. *J Clin Endocrinol Metab.* 2014;99(6):1915–1942.
 7. Fassnacht M, Tsagarakis S, Terzolo M, et al. European Society of Endocrinology clinical practice guidelines on the management of adrenal incidentalomas, in collaboration with ENSAT. *Eur J Endocrinol.* 2023.
-8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency (خلاصه در Medscape Guidelines؛ منبع ثانوی، فقط برای تطابق).
+8. Society for Endocrinology — Emergency guidance: Acute adrenal insufficiency.

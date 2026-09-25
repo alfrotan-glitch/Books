@@ -1,6 +1,6 @@
 # فصل ۸۳ — امراض داخله در حاملگی
 
-> **بخش سیزدهم — گروه‌های خاص** · *Currentness audit: فشار بلند شدید در حاملگی — **ACOG Committee Opinion 692/767** (Emergent therapy for acute-onset, severe hypertension؛ متن و Order sets مستقیم خوانده شد)؛ Magnesium sulfate — ACOG از طریق **ABEM Clinical Policy Alert 2024** (مستقیم). اصول مصئونیت دوا از فصل‌های قبلی کتاب. رهنمودهای WHO 2011 (Preeclampsia)، Gestational diabetes، Thyroid، و VTE در حاملگی در این جلسه خوانده نشد → SD-74.*
+> **بخش سیزدهم — گروه‌های خاص**
 
 ## «فقط سردردی دارم»
 
@@ -17,7 +17,7 @@
    - **Haemoglobin کمی پایین** (رقیق شدن)؛ **کریاتینین پایین‌تر** (کریاتینین «عادی کاهل» در حاملگی ممکن است غیرعادی باشد)؛
    - **تنفس بیشتر** و **PaCO₂ پایین‌تر**؛ **D-dimer بلند**؛ **ALP بلند** (از پلاسنتا)؛
    - **نبض کمی بلند و فشار در نیمهٔ اول پایین‌تر**.
-4. **تصویربرداری ضروری را دریغ نکن.** CXR و CT صدر به جنین دوز کم می‌رسانند؛ **Ultrasound و MRI** بدون تشعشع‌اند. *(ارقام دوز → SD-74.)*
+4. **تصویربرداری ضروری را دریغ نکن.** CXR و CT صدر به جنین دوز کم می‌رسانند؛ **Ultrasound و MRI** بدون تشعشع‌اند. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 ---
 
@@ -33,7 +33,7 @@
 | **Tetracycline** و **Fluoroquinolone** (به‌طور عمومی) | Beta-lactam، Macrolide | — |
 | **Isotretinoin**، **Thalidomide** | — | — |
 
-**مصئون و مهم:** Paracetamol، Penicillin و Cephalosporin، **Insulin**، **Levothyroxine**، Hydroxychloroquine، **LMWH**، Labetalol، Nifedipine، Methyldopa، و **دواهای خط اول TB** (فصل ۱۹). *(جزئیات هر دوا در فصل مربوطه و SD-74.)*
+**مصئون و مهم:** Paracetamol، Penicillin و Cephalosporin، **Insulin**، **Levothyroxine**، Hydroxychloroquine، **LMWH**، Labetalol، Nifedipine، Methyldopa، و **دواهای خط اول TB** (فصل ۱۹).
 
 **⚠️ Iodine رادیواکتیف** و **Carbimazole در سه ماه اول** نه (فصل ۴۸).
 
@@ -49,7 +49,7 @@
 | **Eclampsia** | Preeclampsia + **تشنج** |
 | **HELLP** | Haemolysis، انزایم‌های کبد بلند، Platelet کم (فصل ۶۴) |
 
-**Preeclampsia تا ۶ هفته پس از ولادت** ممکن است شروع شود. **سردردی و فشار بلند در زن تازه ولادت کرده = Preeclampsia تا رد شود.** *(حد زمانی دقیق → SD-74.)*
+**Preeclampsia تا ۶ هفته پس از ولادت** ممکن است شروع شود. **سردردی و فشار بلند در زن تازه ولادت کرده = Preeclampsia تا رد شود.**
 
 ### علایم شدید (Severe features)
 **فشار ۱۶۰/۱۱۰ یا بیشتر**، **سردردی شدید**، **اختلال دید**، **درد اپی‌گاستر یا ربع فوقانی راست**، Platelet کم، کریاتینین بلند، ادیم شش.
@@ -66,7 +66,7 @@
 
 - **Labetalol:** در **آسما**، Bradycardia، و عدم کفایهٔ قلب نه.
 - **Hydralazine:** خطر افت فشار مادر.
-- **هدف: نه عادی، بلکه بیرون از محدودهٔ شدید.** *(هدف عددی → SD-74.)*
+- **هدف: نه عادی، بلکه بیرون از محدودهٔ شدید.**
 - **Magnesium ضد فشار نیست.**
 
 ### ۵. Magnesium sulfate — جلوگیری و تداوی Eclampsia
@@ -79,7 +79,7 @@
   - **Reflex زانو** (اول از بین می‌رود)؛
   - **شمارش تنفس**؛
   - **ادرار** (Magnesium از گرده دفع می‌شود؛ ادرار کم → تجمع). برچسب FDA: پیش از هر دوز، ادرار حد اقل **۱۰۰ mL در ۴ ساعت** و تنفس حد اقل حدود **۱۶ در دقیقه**.
-- **مسمومیت** → انفیوژن را ایستاد کن؛ **Calcium gluconate** پادزهر است. *(دوز و حدود → SD-74.)*
+- **مسمومیت** → انفیوژن را ایستاد کن؛ **Calcium gluconate** پادزهر است. *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 - **⚠️ Myasthenia gravis** → Magnesium خطرناک است (فصل ۵۸).
 
 ### ۶. تداوی قطعی = ولادت
@@ -91,7 +91,7 @@
 | مشکل | نکتهٔ کلیدی | فصل |
 |---|---|---|
 | **انمی فقر آهن** | شایع‌ترین؛ آهن فمی، و Folic acid | ۶۱ |
-| **VTE** | خطر ۴–۵ برابر (رقم → SD-74)؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC | ۱۴ |
+| **VTE** | خطر ۴–۵ برابر؛ **D-dimer کمک نمی‌کند**؛ **LMWH**، نه Warfarin و نه DOAC | ۱۴ |
 | **UTI و Bacteriuria بی‌علامه** | در حاملگی **تداوی** می‌شود (برخلاف غیر حامله)؛ Pyelonephritis خطرناک است | ۴۰ |
 | **دیابت حاملگی** | تست در هفته‌های ۲۴–۲۸؛ **Insulin** اصل تداوی | ۴۶ |
 | **Thyroid** | Hypothyroidism: دوز Levothyroxine را **زیاد کن**؛ Hyperthyroidism: **PTU در سه ماه اول**، سپس Carbimazole | ۴۸، ۴۹ |
@@ -147,5 +147,5 @@
 ## 📚 References
 1. American College of Obstetricians and Gynecologists. Committee Opinion No. 767: Emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period. *Obstet Gynecol.* 2019;133:e174–e180. (Order sets مستقیم؛ نسخهٔ ۶۹۲.)
 2. American Board of Emergency Medicine. Key Advances: Hypertensive disorders of pregnancy — Clinical policy alert. 2024.
-3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خلاصهٔ توصیه‌ها و بخش Magnesium مستقیم خوانده شد.)
+3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011.
 4. Hospira. Magnesium Sulfate Injection USP 50% — prescribing information (labeling.pfizer.com).

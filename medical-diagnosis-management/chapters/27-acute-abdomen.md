@@ -1,6 +1,6 @@
 # فصل ۲۷ — بطن حاد (Acute Abdomen)
 
-> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): WSES 2020–2022 (آپاندیسیت، کولی‌سیستیت، AMI)، ESVS 2025 mesenteric (جانشین 2017؛ SD-95)، SIS/IDSA اصول IAI.*
+> **بخش چهارم — سیستم هضمی**
 
 ## 🩺 مریض این فصل
 
@@ -157,7 +157,7 @@
 - **کولونوسکوپی پس از ۶–۸ هفته** در مریضانی که اخیراً کولونوسکوپی نکرده‌اند یا دایورتیکولیت پیچیده داشته‌اند (رد سرطان).
 
 #### ۴. ایسکیمی حاد مساریقی (ESVS 2025، WSES 2022)
-> **ESVS 2025** (Koelemay MJ et al., جانشین 2017) — متن اصلی خوانده شد: ⚠️ **یک اندازه‌گیری D-dimer یا Lactate برای تأیید یا رد ایسکیمی حاد مساریقی توصیه نمی‌شود** (برخلاف رهنمود 2017 که D-dimer نورمال را برای رد به کار می‌برد). با شک بالینی، **CTA فوری در مرحلهٔ شریانی و وریدی**، و شک به AMI را در درخواست CTA بنویس. مریض در مرکزی تداوی شود که خدمات ۲۴ ساعته و Revascularisation باز و Endovascular دارد.
+> **ESVS 2025** (Koelemay MJ et al., جانشین 2017): ⚠️ **یک اندازه‌گیری D-dimer یا Lactate برای تأیید یا رد ایسکیمی حاد مساریقی توصیه نمی‌شود** (برخلاف رهنمود 2017 که D-dimer نورمال را برای رد به کار می‌برد). با شک بالینی، **CTA فوری در مرحلهٔ شریانی و وریدی**، و شک به AMI را در درخواست CTA بنویس. مریض در مرکزی تداوی شود که خدمات ۲۴ ساعته و Revascularisation باز و Endovascular دارد.
 - **Heparin غیرفرکشنه فوری:** **بولوس ۸۰ U/kg IV** (یا ۵٬۰۰۰ U) ← **انفیوژن ۱۸ U/kg/h**، تنظیم با aPTT (۱.۵–۲.۵ برابر) — فصل ۱۴.
 - **انتی‌بیوتیک وسیع‌الطیف** (انتقال باکتریایی) — مانند بالا.
 - مایع؛ اجتناب از Vasopressor در صورت امکان (NOMI).
@@ -239,7 +239,6 @@ NPO، NG، کتتر، مایع، نظارت نزدیک (**ارزیابی دوب�
 - Bala M, et al. **Acute mesenteric ischemia: updated guidelines of the WSES.** World J Emerg Surg. 2022;17:54.
 - Ten Broek RPG, et al. **Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (ASBO): 2017 update.** World J Emerg Surg. 2018;13:24.
 - Manterola C, et al. **Analgesia in patients with acute abdominal pain.** Cochrane Database Syst Rev. 2011;(1):CD005660.
-- *تأیید دوز: رژیم‌های انتی‌بیوتیک با مسیرهای بالینی WSES/GAIS/SIS-E/WSIS/AAST 2021 مطابقت داده شد (Piperacillin/Tazobactam ۴.۵ g هر ۶ ساعت = ۴ g/۰.۵ g). دوزهای مسکن و ضد استفراغ در این بازبینی از برچسب دوباره خوانده نشد → SD-82.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر درد بطن: **β-hCG، ECG، گلوکوز، لاکتات، Lipase**.

@@ -1,6 +1,6 @@
 # فصل ۸۲ — گرمازدگی و Hypothermia
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: **Wilderness Medical Society Clinical Practice Guidelines for Heat Illness: 2024 Update** (Wilderness Environ Med 2024) — متن کامل (بخش‌های سرد کردن، هدف حرارت و دوا) خوانده شد؛ **Hypothermia** — **ERC 2025 Special Circumstances** (بخش Accidental hypothermia و شکل ۵، متن رهنمود خوانده شد، سپتمبر 2026)؛ **Frostbite** — WMS 2024 Frostbite update (متن رهنمود).*
+> **بخش دوازدهم — عاجل و سمیت**
 
 ## جوزای قندهار، جدی بامیان
 
@@ -91,7 +91,7 @@
 5. **قند و علت‌ها:** Hypoglycaemia، الکول، Opioid، Sepsis، Hypothyroidism، و ترضیض.
 
 ### ۴. سرمازدگی موضعی (Frostbite)
-(WMS 2024 Frostbite — متن رهنمود خوانده شد)
+(WMS 2024 Frostbite)
 - **اول Hypothermia و ترضیض** را اهتمام کن؛ حلقه و انگشتر را زود بکش (پندیدگی می‌آید).
 - **گرم کردن سریع در آب ۳۷–۳۹ °C** (با ترمامتر؛ اگر نیست، دست سالم باید ۳۰ ثانیه آن را تحمل کند) — **فقط وقتی** عضو پس از گرم شدن دوباره یخ نمی‌زند. معمولاً حدود ۳۰ دقیقه، تا عضو سرخ یا بنفش و نرم شود. **آتش، بخاری یا سنگ داغ نه** (سوختگی). **مالش نده**؛ با فشار آرام خشک کن.
 - **درد:** NSAID یا Opioid. **Ibuprofen ۱۲ mg/kg در روز، در دو دوز** (حد اعظمی ۲۴۰۰ mg/روز) تا التیام زخم یا جراحی (معمولاً ۴–۶ هفته).
@@ -142,8 +142,8 @@
 5. چرا مریض Hypothermia را آرام حرکت می‌دهی؟ ← قلب سرد تحریک‌پذیر است؛ خطر VF.
 
 ## 📚 References
-1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359 (متن رهنمود خوانده شد ۲۰۲۶-۰۹-۲۵).
-- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025 (accidental hypothermia section, read directly).
-1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924 (متن کامل خوانده شد ۲۰۲۶-۰۹-۲۵).
+1. McIntosh SE, Freer L, Grissom CK, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update. *Wilderness Environ Med.* 2024;35(2):183–197. doi:10.1177/10806032231222359.
+- European Resuscitation Council Guidelines 2025: Special Circumstances in Resuscitation. Resuscitation 2025.
+1. Eifling KP, Gaudio FG, Dumke C, et al. Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. *Wilderness Environ Med.* 2024;35(1 Suppl):112S–127S. doi:10.1177/10806032241227924.
 2. Lipman GS, Gaudio FG, Eifling KP, et al. Wilderness Medical Society clinical practice guidelines for the prevention and treatment of heat illness: 2019 update. *Wilderness Environ Med.* 2019;30(4S):S33–S46.
-3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753 (بخش Accidental hypothermia و شکل ۵ خوانده شد ۲۰۲۶-۰۹-۲۵).
+3. Lott C, Karageorgos V, Abelairas-Gomez C, et al. European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation. *Resuscitation.* 2025;215(Suppl 1):110753. doi:10.1016/j.resuscitation.2025.110753.

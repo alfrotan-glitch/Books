@@ -1,6 +1,6 @@
 # فصل ۱۳ — امراض اورت و شرایین محیطی (Aortic Diseases & Peripheral Arterial Disease)
 
-> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 PAD/اورت و ACC/AHA 2024 PAD (جاری)؛ ACC/AHA 2022 اورت (جاری).*
+> **بخش دوم — سیستم قلب و عروق**
 
 ## 🩺 مریض این فصل
 
@@ -345,7 +345,7 @@
 
 ## 📚 References
 
-- Mazzolai L, et al. **2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.** Eur Heart J. 2024;45:3538–3700 (اهداف ضربان کمتر از ۶۰ و سیستولیک ۱۰۰–۱۲۰ در AAS؛ حد جراحی AAA: ۵۵ mm مرد و ۵۰ mm زن؛ Clopidogrel/Aspirin؛ هدف LDL). *[صفحات دقیق پیش از نشر تأیید شود.]*
+- Mazzolai L, et al. **2024 ESC Guidelines for the management of peripheral arterial and aortic diseases.** Eur Heart J. 2024;45:3538–3700 (اهداف ضربان کمتر از ۶۰ و سیستولیک ۱۰۰–۱۲۰ در AAS؛ حد جراحی AAA: ۵۵ mm مرد و ۵۰ mm زن؛ Clopidogrel/Aspirin؛ هدف LDL).
 - Gornik HL, et al. **2024 ACC/AHA/Multisociety Guideline for the Management of Lower Extremity Peripheral Artery Disease.** Circulation/JACC. 2024 (Rivaroxaban ۲.۵ mg دو بار + Aspirin دوز پایین: Class I؛ DAPT ۱–۶ ماه پس از مداخلهٔ اندوواسکولار؛ ورزش نظارت‌شده).
 - Isselbacher EM, et al. **2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease.** Circulation. 2022;146:e334–e482.
 - Anand SS, et al. **COMPASS PAD subgroup.** Lancet. 2018;391:219–229؛ Bonaca MP, et al. **VOYAGER PAD.** N Engl J Med. 2020;382:1994–2004.

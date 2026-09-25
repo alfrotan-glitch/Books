@@ -1,6 +1,6 @@
 # فصل ۷۵ — نقرس و Osteoarthritis
 
-> **بخش یازدهم — روماتولوژی** · *Currentness audit: نقرس — **ACR 2020** (FitzGerald JD et al., Arthritis Care Res 2020;72:744–760)؛ خلاصه و متن جزئی از ResearchGate و Medscape (سپتمبر ۲۰۲۶) خوانده شد. EULAR 2016 برای Colchicine ۰.۵ mg. OA — اصول **ACR/Arthritis Foundation 2019** (Kolasinski SL et al.)؛ متن اصلی خوانده نشد → SD-60.*
+> **بخش یازدهم — روماتولوژی**
 
 ## دو زانو، دو قصه
 
@@ -43,7 +43,7 @@
 | **NSAID** | دوز کامل، کوتاه‌مدت | قرحهٔ هضمی (Peptic ulcer)، CKD، عدم کفایهٔ قلب، ضد انعقاد (فصل ۲۶، ۳۹، ۷) |
 | **Glucocorticoid** | فمی، داخل مفصل (پس از رد انتان)، یا عضلی | دیابت (قند بالا)؛ بهترین انتخاب در CKD و منع NSAID |
 
-*(دوز و مدت NSAID و Glucocorticoid → SD-60.)*
+ *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)*
 
 - **دوای کاهش یوریک (Allopurinol) را در حمله قطع نکن** اگر مریض از قبل آن را می‌خورد (ACR 2020).
 - یخ، استراحت مفصل.
@@ -54,21 +54,21 @@
 - **تخریب مفصل** در تصویربرداری؛
 - یا **حملات مکرر** (دو یا بیشتر در سال).
 
-*(حالات مشروط، مثل حملهٔ اول با CKD یا سنگ → SD-60.)*
+
 
 **⚠️ اسید یوریک بلند بدون علایم (Asymptomatic hyperuricaemia):** ACR 2020 **ULT را توصیه نمی‌کند**. «یوریک بلند در تست» تشخیص نقرس نیست.
 
 **Allopurinol — خط اول** (ACR 2020، شامل CKD متوسط تا شدید):
 - **دوز شروع پایین: ۱۰۰ mg/روز یا کمتر، و کمتر در CKD** (مرحلهٔ ۳ یا بالاتر؛ معمول ۵۰ mg) (ACR 2020: قوی).
 - **آهسته بالا ببر** (هر چند هفته) تا **اسید یوریک کمتر از ۶ mg/dL** (۳۶۰ µmol/L) برسد (**Treat to target**).
-- **دوز لازم اکثراً از ۳۰۰ mg بیشتر است** (ACR 2020). **«۳۰۰ mg برای همه» اشتباه است**؛ هدف عدد یوریک است، نه یک دوز ثابت. *(حد اعظمی در CKD → SD-60.)*
+- **دوز لازم اکثراً از ۳۰۰ mg بیشتر است** (ACR 2020). **«۳۰۰ mg برای همه» اشتباه است**؛ هدف عدد یوریک است، نه یک دوز ثابت.
 - **منطق دوز پایین:** **Allopurinol hypersensitivity syndrome** (بثورات شدید، SJS/TEN، التهاب کبد و گرده) نادر اما کشنده است. خطر آن با **دوز شروع بلند** و **CKD** بیشتر می‌شود.
-- **HLA-B5801:** در مردم **جنوب شرق آسیا** (Han Chinese، Korean، Thai) و African American تست پیش از شروع پیشنهاد می‌شود (ACR 2020). برای مردم افغانستان، شیوع این Allele در این فصل تأیید نشد → SD-60.
+- **HLA-B5801:** در مردم **جنوب شرق آسیا** (Han Chinese، Korean، Thai) و African American تست پیش از شروع پیشنهاد می‌شود (ACR 2020). برای مردم افغانستان، شیوع این Allele معلوم نیست
 - **پروفیلاکسی حمله هنگام شروع:** Colchicine دوز پایین، NSAID یا Prednisone دوز پایین، برای **۳–۶ ماه** (ACR 2020). کاهش سریع یوریک کرستال‌ها را حرکت می‌دهد و حمله می‌آورد. **به مریض بگو که حمله در ماه‌های اول انتظار می‌رود؛ دوا را قطع نکند.**
 - **مادام‌العمر**: قطع آن یوریک را برمی‌گرداند.
 - **تداخل خطرناک:** **Allopurinol + Azathioprine** (یا 6-Mercaptopurine) → سرکوب شدید مغز استخوان. با هم نده، یا دوز Azathioprine را بسیار کم کن (با متخصص).
 
-**Febuxostat:** بدیل. *(جزئیات → SD-60.)*
+**Febuxostat:** بدیل.
 
 **عوامل قابل تغییر:**
 - **Thiazide** را اگر ممکن است با دوای دیگر فشار بدل کن؛ **Losartan** یوریک را کمی پایین می‌آورد (ACR 2020: مشروط).
@@ -91,7 +91,7 @@
 - **RF، ANA و «پنل روماتیزمی» لازم نیست** (فصل ۷۲).
 - **Effusion داغ یا التهاب شدید** → ارتریت دیگر (نقرس، CPPD، انتان) را رد کن.
 
-### ۳. تداوی (اصول ACR 2019 → SD-60)
+### ۳. تداوی
 **سنگ بنای تداوی — نه دوا:**
 - **ورزش** (تقویت عضلهٔ ران، راه رفتن، ورزش در آب)؛ **مؤثرترین تداوی** OA زانو و لگن است. «بند فرسوده را استراحت بده» غلط است.
 - **کاهش وزن** در OA زانو؛ حتی کاهش کم فرق می‌سازد.
@@ -100,10 +100,10 @@
 **دواها:**
 - **NSAID موضعی** (جل Diclofenac — Gel) برای OA زانو: توصیهٔ قوی (ACR 2019)، با خطر سیستمیک کمتر. **پیش از NSAID فمی، این را امتحان کن**، به ویژه در مسن‌ها.
 - **NSAID فمی:** کمترین دوز، کوتاه‌ترین مدت، با توجه به معده، گرده و قلب.
-- **Steroid داخل مفصل:** برای **Flare**، **نه مکرر و دایمی**. *(حد دفعات → SD-60.)*
+- **Steroid داخل مفصل:** برای **Flare**، **نه مکرر و دایمی**.
 - **Dexamethasone سیستمیک یا عضلی برای OA: نه.** هیچ جایی در رهنمودها ندارد و عوارض جدی دارد (فصل ۵۰).
 - **Glucosamine و Chondroitin:** ACR 2019 علیه آن‌ها توصیه می‌کند.
-- **Opioid‌های قوی:** نه، یا به ندرت. *(→ SD-60.)*
+- **Opioid‌های قوی:** نه، یا به ندرت.
 - **تعویض مفصل (Arthroplasty):** وقتی درد و معیوبیت با وجود تداوی کامل ادامه دارد.
 
 ---
@@ -147,5 +147,5 @@
 
 ## 📚 References
 1. FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. *Arthritis Care Res.* 2020;72(6):744–760.
-2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42. (فقط دوز Colchicine ۰.۵ mg؛ مستقیم خوانده نشد → SD-60.)
-3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162. (خوانده نشد → SD-60.)
+2. Richette P, Doherty M, Pascual E, et al. 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis.* 2017;76:29–42.
+3. Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 ACR/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. *Arthritis Care Res.* 2020;72(2):149–162.

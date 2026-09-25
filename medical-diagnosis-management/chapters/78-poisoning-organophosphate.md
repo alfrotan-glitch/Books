@@ -1,6 +1,6 @@
 # فصل ۷۸ — رهیافت به مسمومیت؛ Organophosphate و Aluminium phosphide
 
-> **بخش دوازدهم — عاجل و سمیت** · *Currentness audit: اتروپین‌سازی مطابق پروتوکول Eddleston (Lancet 2008؛ نقل در مرور BJA 2019، مستقیم خوانده شد) و Merck Manual Professional 2025 (مستقیم). شواهد Pralidoxime متناقض است (پایین). Aluminium phosphide: هیچ رهنمود رسمی خوانده نشد → SD-69. در این فصل، Class of recommendation آن‌طور که در منابع ثانوی آمده بود نقل نشده؛ فقط اعداد مستقیم.*
+> **بخش دوازدهم — عاجل و سمیت**
 
 ## «گندم‌دوا خورده»
 
@@ -28,7 +28,7 @@
 **کلید تفریق Cholinergic از Opioid:** هر دو مردمک ریزه دارند؛ اما **ترشحات، عرق و Bradycardia** Cholinergic است.
 **کلید تفریق Anticholinergic از Sympathomimetic:** **پوست خشک** در Anticholinergic، **عرق** در Sympathomimetic.
 
-4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(حد زمانی و دوز → SD-69.)* **استفراغ را تحریک نکن.**
+4. **پاک‌سازی:** **Activated charcoal** فقط وقتی راه هوایی محفوظ است و زهر را جذب می‌کند (زود پس از خوردن). *(دوز را از پروتوکول شفاخانه یا برچسب دوا بگیر.)* **استفراغ را تحریک نکن.**
 5. **ECG** (QRS و QT)، Paracetamol level در هر خودکشی دوایی (فصل ۷۹).
 6. **هر خودکشی → ارزیابی روانی پیش از رخصت**، و با فامیل گپ بزن. **خودکشی در زنان جوان افغان** با فشار خانوادگی و خشونت همراه است؛ **با مهربانی و بدون قضاوت** بپرس و خطر خانه را ارزیابی کن.
 7. **مسمومیت Beta-blocker یا Calcium channel blocker** (خانهٔ اصلی این موضوع همین‌جاست): علامهٔ اصلی **Bradycardia و فشار پایین** است؛ در Beta-blocker گاهی قند پایین هم دیده می‌شود (با Dextrose تداوی کن). اهتمامات مسمومیت Beta-blocker (AHA 2023 Toxicology focused update؛ CCB در پایین):
@@ -90,15 +90,15 @@
 - **۲۴–۹۶ ساعت** پس از مسمومیت، پس از بهبود Cholinergic:
   - **ضعف گردن، عضلات قریب، و اعصاب قحفی**؛
   - **عدم کفایهٔ تنفسی ناگهانی**.
-- **مریض «خوب‌شده» را زود رخصت نکن.** قدرت خم کردن گردن را هر روز بسنج. *(زمان‌بندی دقیق → SD-69.)*
+- **مریض «خوب‌شده» را زود رخصت نکن.** قدرت خم کردن گردن را هر روز بسنج.
 
 ---
 
 ## ۳. Aluminium phosphide — «تابلت گندم»
 - برای حفظ گندم در گدام استعمال می‌شود. با آب و اسید معده، **گاز Phosphine** آزاد می‌کند که **Mitochondria** را در تمام بدن بند می‌کند.
-- **مرگ بسیار بلند** است و **پادزهر ندارد**. *(ارقام → SD-69.)*
+- **مرگ بسیار بلند** است و **پادزهر ندارد**.
 - **تصویر:** استفراغ، **بوی ماهی خراب یا سیر**، **شوک مقاوم** (Myocarditis)، **Arrhythmia**، **Metabolic acidosis شدید**، و ARDS. مریض اکثراً **تا آخر هوشیار** است.
-- **تداوی حمایوی است:** اکسیجن؛ مایع با احتیاط؛ وازوپرسور؛ اصلاح Acidosis؛ نظارت ECG؛ و ICU. *(پاک‌سازی معده با روغن، Magnesium و دیگر تداوی‌های پیشنهادی **شواهد محکم ندارند** → SD-69.)*
+- **تداوی حمایوی است:** اکسیجن؛ مایع با احتیاط؛ وازوپرسور؛ اصلاح Acidosis؛ نظارت ECG؛ و ICU.
 - **Phosphine از بدن مریض و استفراغ** برای کارمندان خطرناک است: اتاق باز و تهویه.
 - **وقایه نجات‌بخش‌تر از تداوی است:** محدود ساختن فروش، و آگاهی قریه‌ها.
 
@@ -143,8 +143,8 @@
 5. Aluminium phosphide چه پادزهر دارد؟ ← ندارد.
 
 ## 📚 References
-1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607. (از طریق مرور BJA 2019.)
+1. Eddleston M, Buckley NA, Eyer P, Dawson AH. Management of acute organophosphorus pesticide poisoning. *Lancet.* 2008;371:597–607.
 2. Hulse EJ, Haslam JD, Emmett SR, Woolley T. Organophosphorus nerve agent poisoning: managing the poisoned patient. *Br J Anaesth.* 2019;123:457–463.
 3. Merck Manual Professional Edition. Organophosphate poisoning and carbamate poisoning. Updated 2025.
-4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161 — (بخش β-blockers خوانده شد ۲۰۲۶-۰۹-۲۵).
+4. Lavonas EJ, Akpunonu PD, Arens AM, et al. 2023 American Heart Association Focused Update on the Management of Patients With Cardiac Arrest or Life-Threatening Toxicity Due to Poisoning. *Circulation.* 2023. doi:10.1161/CIR.0000000000001161.
 5. St-Onge M, Anseeuw K, Cantrell FL, et al. Experts consensus recommendations for the management of calcium channel blocker poisoning in adults. Crit Care Med 2017;45(3):e306–e315. doi:10.1097/CCM.0000000000002087

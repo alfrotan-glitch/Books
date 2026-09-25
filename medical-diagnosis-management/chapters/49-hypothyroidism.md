@@ -1,6 +1,6 @@
 # فصل ۴۹ — کم‌کاری تایروئید (Hypothyroidism) و Myxoedema coma
 
-> **بخش هفتم — اندوکراین** · *با Currentness audit (ATA 2014؛ NICE NG145 2019؛ برچسب FDA)*
+> **بخش هفتم — اندوکراین**
 
 ## خستگی که «عادی» پنداشته شد
 
@@ -129,7 +129,7 @@
 | قدم | کار |
 |---|---|
 | ۱ | **ICU**؛ حمایت تنفسی (Hypoventilation)، **گرم کردن غیرفعال** (کمپل — گرم کردن فعال سریع → Vasodilation و شوک)، مایع با احتیاط (Hyponatraemia)، Glucose |
-| ۲ | نمونهٔ Cortisol بگیر، بعد **Glucocorticoid وریدی به دوز استرس — پیش از Levothyroxine** (ATA)؛ معمول در منابع: **Hydrocortisone ۱۰۰ mg وریدی هر ۸ ساعت** (Endotext — منبع ثانوی) |
+| ۲ | نمونهٔ Cortisol بگیر، بعد **Glucocorticoid وریدی به دوز استرس — پیش از Levothyroxine** (ATA)؛ معمول در منابع: **Hydrocortisone ۱۰۰ mg وریدی هر ۸ ساعت** |
 | ۳ | **Levothyroxine وریدی:** **دوز بار ۲۰۰–۴۰۰ mcg** (کمتر در مریض کوچک‌جثه، مسن، مرض کرونری یا Arrhythmia)، بعد **۱.۶ mcg/kg روزانه × ۷۵ فیصد** تا وقتی وریدی داده می‌شود (ATA 2014) |
 | ۴ | T3 (Liothyronine) وریدی **اختیاری**: بار **۵–۲۰ mcg**، بعد **۲.۵–۱۰ mcg هر ۸ ساعت** (دوز کمتر در مسن/کرونری) تا بهبود شعور (ATA 2014) |
 | ۵ | تداوی محرک (انتان — انتی‌بیوتیک تجربی)؛ Sedative/Opioid را قطع کن |
@@ -153,7 +153,7 @@
 - **Central:** دوز را با **FT4** (نیمهٔ بالایی نورمال) تنظیم کن، نه TSH؛ **Cortisol را اول اصلاح کن**.
 
 **خوردن درست (پیام برای مریض):**
-- **ناشتا** با آب، ۳۰–۶۰ دقیقه پیش از صبحانه (یا شب، دیرتر از آخرین غذا) — ثابت هر روز. *(زمان‌ها رایج‌اند اما در این نشست از متن اولیه خوانده نشدند → SD-38.)*
+- **ناشتا** با آب، ۳۰–۶۰ دقیقه پیش از صبحانه (یا شب، دیرتر از آخرین غذا) — ثابت هر روز.
 - **جدا از** Calcium، **Iron** (مکمل آهن — شایع در زنان افغان)، Antacid، PPI، Bile acid sequestrant — فاصلهٔ چند ساعته.
 - **چای و قهوه** جذب را کم می‌کنند — در فرهنگ چای‌نوشی افغانستان مهم است.
 - دوای فراموش‌شده: روز بعد دو دانه قابل قبول است (Half-life طولانی) — با داکتر.
@@ -169,10 +169,10 @@
 |---|---|
 | **TSH ۱۰ mIU/L یا بیشتر** (تأییدشده با تکرار) | Levothyroxine را در نظر بگیر (ATA/AACE؛ NICE NG145 — مخصوصاً سن کمتر از ۷۰) |
 | TSH بلند اما کمتر از ۱۰ | فردی: علایم، Anti-TPO، سن، حاملگی/پلان حاملگی، مرض قلبی؛ **در مسن اکثراً تداوی لازم نیست**؛ تکرار TSH |
-| **حاملگی یا پلان حاملگی** | آستانهٔ تداوی پایین‌تر — رهنمودهای حاملگی (🔒 حدود هر سه‌ماهه (Trimester) → SD-38) |
+| **حاملگی یا پلان حاملگی** | آستانهٔ تداوی پایین‌تر — رهنمودهای حاملگی |
 
 ### ۱۰.۴ حاملگی (مریض قبلاً تحت تداوی)
-- نیاز به Levothyroxine در حاملگی **بلند می‌رود** — به محض تأیید حاملگی دوز را زیاد کن (ATA: حدود **۲۰–۳۰ فیصد** — از منبع ثانوی به نقل از ATA؛ برچسب: ۱۲.۵–۲۵ mcg روزانه) و TSH را **هر ۴ هفته** تا نیمهٔ حاملگی ببین؛ پس از ولادت به دوز قبلی برگرد.
+- نیاز به Levothyroxine در حاملگی **بلند می‌رود** — به محض تأیید حاملگی دوز را زیاد کن و TSH را **هر ۴ هفته** تا نیمهٔ حاملگی ببین؛ پس از ولادت به دوز قبلی برگرد.
 - Hypothyroidism تداوی‌نشده در حاملگی → سقط، Pre-eclampsia، **آسیب رشد مغز جنین**.
 
 ---
@@ -225,12 +225,11 @@
 
 ## 📚 References
 
-1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028 — (دوز ۱.۶–۱.۸ mcg/kg، ۲۵–۵۰ mcg، تیتر ۱۲.۵–۲۵ و ۴–۶ هفته، Myxoedema coma توصیهٔ ۲۱ و T3 از متن خوانده شد).
-2. NICE. *Thyroid disease: assessment and management* (NG145). 2019 — (۱.۶ mcg/kg گرد به ۲۵ mcg؛ ۲۵–۵۰ mcg در ۶۵ سال یا بیشتر/قلبی — از Society for Endocrinology 2022 و خلاصه‌های ثانوی؛ متن اصلی NICE در این نشست خوانده نشد → SD-38).
+1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028.
+2. NICE. *Thyroid disease: assessment and management* (NG145). 2019.
 3. SYNTHROID (levothyroxine) prescribing information — دوز حاملگی ۱.۶/۱.۰ mcg/kg؛ تیتر.
-4. Endotext. Myxedema and coma (severe hypothyroidism). 2018 — (Hydrocortisone ۱۰۰ mg هر ۸ ساعت؛ دوز بار ۳۰۰–۵۰۰ mcg؛ هشدار دوز زیاد — منبع ثانوی).
+4. Endotext. Myxedema and coma (severe hypothyroidism). 2018.
 
-**Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2014 هنوز مرجع جامع ATA است؛ NICE NG145 (2019) رهنمود ملی UK. **CURRENTNESS NOTE (SD-39):** ETA 2013 Subclinical، ATA 2017 حاملگی، و احتمال رهنمود جدید ATA برای Hypothyroidism پس از 2014 در این نشست کامل جستجو نشد.
 
 ---
 

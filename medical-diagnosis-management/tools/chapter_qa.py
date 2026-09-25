@@ -18,12 +18,17 @@ def check(fn):
     # 1) structure: the 15 disease topics are an author completeness checklist (STYLE-GUIDE §9,
     #    coverage recorded in release/style-audit.md); every chapter must end with these reader elements.
     required = ['Red Flags', 'References', 'مرور ۶۰ ثانیه']
-    APPROACH = {'01','02','03','04','05','15','24','36','45','53','60','66','72'}  # approach chapters: no dose table required
+    APPROACH = {'01','02','03','04','05','15','24','36','45','53','60','66','72','86'}  # approach chapters: no dose table required
     if re.match(r'9\d', fn.split('/')[-1]):  # appendices 90–95: reference material, not teaching chapters
         required = ['References']
     for r in required:
         if r not in t:
             issues.append(f'MISSING SECTION: {r}')
+    # 1b) internal work notes must stay in release/ (debt register, dose log), never in reader text
+    if not fn.endswith('95-references.md'):
+        for i, ln in enumerate(lines, 1):
+            if re.search(r'SD-\d|Currentness|CURRENTNESS|UNVERIFIED|VERIFIED|خوانده (?:نشد|شد)|تأیید نشد|منبع (?:اولیه|ثانوی)|منابع ثانوی|این نشست', ln):
+                issues.append(f'L{i} WORKNOTE: {ln.strip()[:100]}')
     # 2) garbled words
     for g in GARBLED:
         for i, ln in enumerate(lines, 1):

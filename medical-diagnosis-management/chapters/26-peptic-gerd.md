@@ -1,6 +1,6 @@
 # فصل ۲۶ — قرحهٔ هضمی، H. pylori، سوء هاضمه و GERD (Peptic Ulcer, H. pylori, Dyspepsia & GERD)
 
-> **بخش چهارم — سیستم هضمی** · *Currentness audit (سپتمبر 2026): ACG 2024 H. pylori، Maastricht VI 2022، ACG 2022 GERD، ACG/CAG 2017 Dyspepsia (جاری).*
+> **بخش چهارم — سیستم هضمی**
 
 ## 🩺 مریض این فصل
 
@@ -282,7 +282,6 @@ H. pylori؛ **NSAID و Aspirin** (خطر: سن بیش از ۶۵، **سابقهٔ
 - Shaheen NJ, et al. **Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline.** Am J Gastroenterol. 2022;117:559–587.
 - Targownik LE, et al. **AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors.** Gastroenterology. 2022;162:1334–1342.
 - Cook D, et al. **Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation (REVISE).** N Engl J Med. 2024;391:9–20.
-- *تأیید دوز: رژیم‌های H. pylori با جدول‌های ACG 2024 (Chey et al.) مطابقت داده شد (BQT، Vonoprazan dual، Rifabutin triple، Levofloxacin و Clarithromycin triple)؛ Pantoprazole پیشگیرانه با کارآزمایی REVISE؛ Vonoprazan در EE با برچسب FDA 2023. Piperacillin/Tazobactam در انثقاب → رژیم‌های فصل ۲۷. تعدیل گردهٔ Famotidine و دوز Amitriptyline از منبع اولیه دوباره خوانده نشد → SD-81.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر سوء هاضمه: **ALARM + سن + NSAID** را بپرس.

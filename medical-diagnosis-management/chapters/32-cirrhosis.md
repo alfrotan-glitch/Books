@@ -1,6 +1,6 @@
 # فصل ۳۲ — سیروز کبد و اختلاطات آن (Liver Cirrhosis & Its Complications)
 
-> **بخش پنجم — کبد، صفرا و پانکراس** · *Currentness audit (سپتمبر 2026): Baveno VII 2022، AASLD 2021 Ascites/HRS، AASLD 2024 portal hypertension، EASL 2018 decompensated cirrhosis (جاری).*
+> **بخش پنجم — کبد، صفرا و پانکراس**
 
 ## 🩺 مریض این فصل
 
@@ -239,7 +239,7 @@
 
 ## 💡 Memory Joggers
 - 💡 «**علت + اختلاطات + HCC هر ۶ ماه + پیوند.**»
-- 💡 «**۱۰۰:۴۰** — Spironolactone : Furosemide (حد اکثر ۴۰۰:۱۶۰).»
+- 💡 «**۱۰۰:۴۰** — Spironolactone: Furosemide (حد اکثر ۴۰۰:۱۶۰).»
 - 💡 «**بیش از ۵ لیتر کشیدی ← ۸ g البومین برای هر لیتر.**»
 - 💡 «**SBP = PMN ≥ ۲۵۰ ← Cefotaxime/Ceftriaxone + البومین ۱.۵ و ۱ (روز ۱ و ۳).**»
 - 💡 «**HRS: البومین ۱ g/kg × ۲ روز ← Terlipressin + البومین.**»
@@ -271,7 +271,6 @@
 - Rinella ME, et al. **A multisociety Delphi consensus statement on new fatty liver disease nomenclature (MASLD).** J Hepatol. 2023;79:1542–1556.
 - Kim WR, et al. **MELD 3.0: The Model for End-Stage Liver Disease Updated for the Modern Era.** Gastroenterology. 2021;161:1887–1895.
 - Singal AG, et al. **AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma.** Hepatology. 2023;78:1922–1965.
-- *تأیید دوز: دیورتیک‌ها، البومین در پاراسنتز و SBP، وقایهٔ SBP، و HRS (Terlipressin، Norepinephrine، Midodrine/Octreotide) با متن AASLD 2021 (Biggins et al.) مطابقت داده شد؛ Carvedilol با Baveno VII/BSG؛ تغذیه با EASL 2019. دوز Baclofen (الکول و کرامپ) و Cholestyramine از منبع اولیه در این بازبینی خوانده نشد → SD-83.*
 
 ## 🎯 ۵ قدم کوچک کنار بستر (Atomic Habits)
 1. هر مریض سیروزی: **Child-Pugh و MELD** را در دوسیه بنویس.
