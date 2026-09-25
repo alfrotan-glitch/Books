@@ -73,7 +73,7 @@
 | Addison (Mineralocorticoid) | نوشیدن آب زیاد (Psychogenic polydipsia)، **Beer potomania/رژیم «چای و نان»** | — |
 |  | ورزش استقامتی | — |
 
-**علل SIADH:** مغزی (Meningitis، ترضیض، Stroke، خونریزی)، ششی (پنومونیا، **TB**)، تومور (**Small cell lung cancer**)، **دوا** (SSRIs، Carbamazepine/Oxcarbazepine، Cyclophosphamide، Opioids، **MDMA**)، درد و دلبدی پس از جراحی.
+**علل SIADH:** مغزی (Meningitis، ترضیض، Stroke، خونریزی)، ششی (پنومونی، **TB**)، تومور (**Small cell lung cancer**)، **دوا** (SSRIs، Carbamazepine/Oxcarbazepine، Cyclophosphamide، Opioids، **MDMA**)، درد و دلبدی پس از جراحی.
 
 **Hyponatraemia غیر Hypotonic:** **Hyperglycaemia** (آب را از حجرات بیرون می‌کشد)، Mannitol؛ **Pseudohyponatraemia** (Lipid یا پروتین بسیار بلند با روش غیرمستقیم).
 
@@ -96,7 +96,7 @@
 ## 🔹 ۶. Clinical Examination
 
 - **وضع حجم** — مهمترین و **غیرقابل‌اعتمادترین** معاینه: فشار ایستاده/نشسته، JVP، خشکی مخاط، ادیما، Ascites.
-- سطح شعور (GCS)، علایم عصبی بؤرهٔ.
+- سطح شعور (GCS)، علایم عصبی بؤری (Focal).
 - علایم مرض زمینه‌ای: عدم کفایهٔ قلب، سیروز، Hypothyroidism، Addison (پیگمانتیشن، فشار پایین)، کتلهٔ ششی.
 
 ---
@@ -122,7 +122,7 @@
 - Lipid/پروتین اگر شک Pseudo.
 
 **پیشرفته:**
-- X-ray/CT سینه (تومور، TB)، تصویربرداری مغز نظر به تابلو.
+- X-ray/CT صدر (تومور، TB)، تصویربرداری مغز نظر به تابلو.
 - Hypernatraemia/پُرادراری: Osmolality ادرار، **Water deprivation test** یا **Copeptin** (تحریک‌شده با Arginine یا Hypertonic saline) برای تفریق DI مرکزی، گرده‌ای و Primary polydipsia — در مرکز متخصص.
 - Calcium و K⁺ (علل DI گرده‌ای)، سطح Lithium.
 
@@ -204,9 +204,9 @@
 
 ## 🔹 ۱۲. Prognosis & Follow-up
 
-- Hyponatraemia علامت پیش‌بینی بد در عدم کفایهٔ قلب، سیروز و پنومونیا است — عدد، شدت مرض زمینه‌ای را نشان می‌دهد.
+- Hyponatraemia علامت پیش‌بینی بد در عدم کفایهٔ قلب، سیروز و پنومونی است — عدد، شدت مرض زمینه‌ای را نشان می‌دهد.
 - بعد از رخصت: Sodium را در چند روز تکرار کن؛ دواهای عامل را در لست حساسیت/احتیاط بنویس (Thiazide، SSRI).
-- SIADH بدون علت روشن → جستجوی تومور (سینه).
+- SIADH بدون علت روشن → جستجوی تومور (خصوصاً در شش).
 
 ---
 
@@ -275,4 +275,4 @@
 2. حد اصلاح؟ — *حداکثر ۱۰ mmol/L در ۲۴ ساعت اول، ۸ در هر ۲۴ ساعت بعد (پرخطر: ۸ در روز اول — رهنمود امریکایی).*
 3. Osmolality ادرار بلند + Sodium ادرار پایین؟ — *حجم مؤثر کم.*
 4. سه تشخیص که پیش از SIADH رد می‌شوند؟ — *کمبود Glucocorticoid، Hypothyroidism، Diuretic.*
-5. Sodium پس از Saline در مریض کم‌آب در ۶ ساعت ۹ mmol/L بلند رفت — چرا؟ — *حجم برگشت، ADH قطع شد، Aquaresis؛ مایع را تعدیل کن و خطر Overcorrection را مدیریت کن.*
+5. Sodium پس از Saline در مریض کم‌آب در ۶ ساعت ۹ mmol/L بلند رفت — چرا؟ — *حجم برگشت، ADH قطع شد، Aquaresis؛ مایع را تعدیل کن و جلو اصلاح بیش از حد (Overcorrection) را بگیر.*

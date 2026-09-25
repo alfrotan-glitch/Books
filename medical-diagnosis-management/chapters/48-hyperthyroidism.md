@@ -146,7 +146,7 @@
 ### ۱۰.۲ کنترول علایم — Beta-blocker
 - در همه مریضان علامت‌دار (مخصوصاً مسن، ضربان بلند، مرض قلبی) مگر ممنوع (آسما شدید).
 - **در Thyroiditis تنها تداوی لازم** اکثراً Beta-blocker است.
-- 🔒 دوز معمول Propranolol/Atenolol/Metoprolol برای تایروتوکسیکوز غیر-طوفانی از متن اولیهٔ ATA خوانده نشد → **SD-36**. (مرور 2024: Propranolol ۱۰–۴۰ mg سه تا چهار بار در روز — secondary.)
+- 🔒 دوز معمول Propranolol/Atenolol/Metoprolol برای تایروتوکسیکوز غیر-طوفانی از متن اولیهٔ ATA خوانده نشد → **SD-36**. (مرور 2024: Propranolol ۱۰–۴۰ mg سه تا چهار بار در روز — منبع ثانوی.)
 
 ### ۱۰.۳ Graves — سه راه (تصمیم مشترک با مریض)
 
@@ -188,7 +188,7 @@
 
 ### ۱۰.۸ Graves orbitopathy
 - **ترک سگرت** (مهمترین)، Euthyroid نگه داشتن، ارجاع به چشم (مخصوصاً تغییر دید/رنگ‌بینی = Optic neuropathy → **عاجل**).
-- خفیف: Selenium (در مناطق کمبود — EUGOGO، secondary)، قطره‌های مرطوب‌کننده.
+- خفیف: Selenium (در مناطق کمبود — EUGOGO، منبع ثانوی)، قطره‌های مرطوب‌کننده.
 - متوسط–شدید: Glucocorticoid وریدی، دواهای بیولوژیک — متخصص (دوز → SD-36).
 
 ---
@@ -242,8 +242,8 @@
 ## 📚 References
 
 1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
-2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — secondary).
-3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (secondary).
+2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — منبع ثانوی).
+3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (منبع ثانوی).
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
 

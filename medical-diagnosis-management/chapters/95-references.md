@@ -606,7 +606,7 @@
 
 1. U.S. Food and Drug Administration. *Biotin (Vitamin B7): Safety Communication — May Interfere with Lab Tests* (2017; updated 2019).
 2. Jameson JL, et al., eds. *Harrison's Principles of Internal Medicine* — Approach to the patient with endocrine disorders (اصول عمومی؛ بدون عدد مشخص نقل‌شده).
-4. رهنمودهای مخصوص هر مرض در فصل‌های ۴۶–۵۲.
+3. رهنمودهای مخصوص هر مرض در فصل‌های ۴۶–۵۲.
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** این فصل اصول می‌دهد و عدد دوایی ندارد. نام‌گذاری جدید DI (AVP deficiency/resistance) در فصل ۴۴ آمده. **CURRENTNESS NOTE:** متن هشدار FDA در این نشست دوباره خوانده نشد (SD-32).
 
@@ -636,8 +636,8 @@
 ## فصل ۴۸ — پُرکاری تایروئید و تایروتوکسیکوز (Hyperthyroidism & Thyrotoxicosis)
 
 1. Ross DS, Burch HB, Cooper DS, et al. 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. *Thyroid*. 2016;26(10):1343–1421. doi:10.1089/thy.2016.0229 — (دوزهای MMI، PTU و جدول ۷ Thyroid storm از متن خوانده شد).
-2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — secondary).
-3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (secondary).
+2. Management aspects of medical therapy in Graves disease. *Endocrine Practice*. 2024 (S1530-891X(24)00870-X) — (مقایسهٔ PTU/MMI در طوفان؛ دوزهای Beta-blocker و Iodine — منبع ثانوی).
+3. Bahn Chair RS, et al. / AAFP. Hyperthyroidism: diagnosis and treatment. *Am Fam Physician*. 2016;93(5):363 — (منبع ثانوی).
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2016 هنوز جدیدترین رهنمود جامع ATA برای Hyperthyroidism است؛ مرور 2024 عدم قطعیت PTU در مقابل MMI در طوفان را اضافه می‌کند. **CURRENTNESS NOTE (SD-37):** رهنمود ETA 2018 (Graves)، EUGOGO 2021 (Orbitopathy) و رهنمود ATA 2017 حاملگی در این نشست خوانده نشدند؛ آیا ATA نسخهٔ جدیدتر منتشر کرده، کامل جستجو نشد.
 
@@ -648,7 +648,7 @@
 1. Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association task force on thyroid hormone replacement. *Thyroid*. 2014;24(12):1670–1751. doi:10.1089/thy.2014.0028 — (دوز ۱.۶–۱.۸ mcg/kg، ۲۵–۵۰ mcg، تیتر ۱۲.۵–۲۵ و ۴–۶ هفته، Myxoedema coma توصیهٔ ۲۱ و T3 از متن خوانده شد).
 2. NICE. *Thyroid disease: assessment and management* (NG145). 2019 — (۱.۶ mcg/kg گرد به ۲۵ mcg؛ ۲۵–۵۰ mcg در ۶۵ سال یا بیشتر/قلبی — از Society for Endocrinology 2022 و خلاصه‌های ثانوی؛ متن اصلی NICE در این نشست خوانده نشد → SD-38).
 3. SYNTHROID (levothyroxine) prescribing information — دوز حاملگی ۱.۶/۱.۰ mcg/kg؛ تیتر.
-4. Endotext. Myxedema and coma (severe hypothyroidism). 2018 — (Hydrocortisone ۱۰۰ mg هر ۸ ساعت؛ دوز بار ۳۰۰–۵۰۰ mcg؛ هشدار دوز زیاد — secondary).
+4. Endotext. Myxedema and coma (severe hypothyroidism). 2018 — (Hydrocortisone ۱۰۰ mg هر ۸ ساعت؛ دوز بار ۳۰۰–۵۰۰ mcg؛ هشدار دوز زیاد — منبع ثانوی).
 
 **Currentness audit (۲۰۲۶-۰۹-۲۵):** ATA 2014 هنوز مرجع جامع ATA است؛ NICE NG145 (2019) رهنمود ملی UK. **CURRENTNESS NOTE (SD-39):** ETA 2013 Subclinical، ATA 2017 حاملگی، و احتمال رهنمود جدید ATA برای Hypothyroidism پس از 2014 در این نشست کامل جستجو نشد.
 
