@@ -59,9 +59,9 @@
 
 | دوا | دوز اول (ACOG Order sets) | قدم بعدی |
 |---|---|---|
-| **Labetalol وریدی** | **۲۰ mg** در بیشتر از ۲ دقیقه | فشار را در ۱۰ دقیقه بررسی کن؛ اگر هنوز بلند → **۴۰ mg** *(قدم‌های بعدی → SD-74)* |
+| **Labetalol وریدی** | **۲۰ mg** در بیشتر از ۲ دقیقه | فشار را در ۱۰ دقیقه بررسی کن؛ اگر هنوز بلند → **۴۰ mg**؛ پس از ۱۰ دقیقه → **۸۰ mg**؛ پس از ۱۰ دقیقهٔ دیگر → **Hydralazine ۱۰ mg** وریدی (ACOG 767) |
 | **Hydralazine وریدی** | **۵ یا ۱۰ mg** در بیشتر از ۲ دقیقه | پس از ۲۰ دقیقه، اگر هنوز بلند → **۱۰ mg** |
-| **Nifedipine فوری‌رهش فمی** | **۱۰ mg** | *(تکرار → SD-74)* — **زیر زبان نه** (افت شدید فشار) |
+| **Nifedipine فوری‌رهش فمی** | **۱۰ mg** | پس از ۲۰ دقیقه اگر هنوز بلند → **۲۰ mg**؛ ۲۰ دقیقهٔ دیگر → **۲۰ mg**؛ باز هم بلند → **Labetalol ۲۰ mg** وریدی و مشورهٔ عاجل متخصص (ACOG 767) — **زیر زبان نه** (افت شدید فشار) |
 | **بدون خط وریدی و بدون Nifedipine** | **Labetalol ۲۰۰ mg فمی**؛ تکرار پس از ۳۰ دقیقه | |
 
 - **Labetalol:** در **آسما**، Bradycardia، و عدم کفایهٔ قلب نه.
@@ -71,11 +71,14 @@
 
 ### ۵. Magnesium sulfate — جلوگیری و تداوی Eclampsia
 - **دوای انتخابی برای جلوگیری از تشنج** در Preeclampsia با علایم شدید، و **تداوی Eclampsia** (ACOG). **از Diazepam و Phenytoin بهتر است.**
-- **وریدی** (ACOG، از طریق ABEM): **۴–۶ g در ۲۰–۳۰ دقیقه**، سپس **۱–۲ g در ساعت**. *(رژیم عضلی Pritchard، و مدت → SD-74.)*
+- **وریدی** (ACOG، از طریق ABEM): **۴–۶ g در ۲۰–۳۰ دقیقه**، سپس **۱–۲ g در ساعت**.
+- **عضلی (Pritchard)، اگر پمپ انفیوژن نیست:** ۴ g وریدی آهسته **همراه** ۱۰ g عضلی (۵ g از محلول ۵۰٪ در هر سرین)؛ سپس **۵ g عضلی هر ۴ ساعت** در سرین‌ها به نوبت — فقط اگر Reflex زانو موجود و تنفس کافی است (برچسب FDA: ۴–۵ g هر ۴ ساعت).
+- **مدت:** رژیم کامل = دوز بارگیری + **۲۴ ساعت نگهداری** (WHO 2011). اگر رژیم کامل ممکن نیست، **دوز بارگیری بده و فوراً به شفاخانهٔ بالاتر راجع کن** (WHO 2011).
+- **حد اعظمی:** ۳۰–۴۰ g در ۲۴ ساعت؛ در عدم کفایهٔ شدید گرده **۲۰ g در ۴۸ ساعت** با سنجش مکرر Magnesium. بیشتر از ۵–۷ روز ادامه → Hypocalcaemia و ضرر استخوان جنین (برچسب FDA).
 - **نظارت مسمومیت Magnesium** در هر ساعت:
   - **Reflex زانو** (اول از بین می‌رود)؛
   - **شمارش تنفس**؛
-  - **ادرار** (Magnesium از گرده دفع می‌شود؛ ادرار کم → تجمع).
+  - **ادرار** (Magnesium از گرده دفع می‌شود؛ ادرار کم → تجمع). برچسب FDA: پیش از هر دوز، ادرار حد اقل **۱۰۰ mL در ۴ ساعت** و تنفس حد اقل حدود **۱۶ در دقیقه**.
 - **مسمومیت** → انفیوژن را ایستاد کن؛ **Calcium gluconate** پادزهر است. *(دوز و حدود → SD-74.)*
 - **⚠️ Myasthenia gravis** → Magnesium خطرناک است (فصل ۵۸).
 
@@ -113,7 +116,7 @@
 | ۴ ساعت | ولادی‌نسایی: **ولادت** (سزارین). مادر و طفل زنده. |
 | ۳ روز پس از ولادت | سردردی دوباره، فشار ۱۶۲/۱۰۴ → **دوباره تداوی** (Preeclampsia پس از ولادت) |
 
-**پیگیری:** فشار در هفته‌های بعد؛ **خطر قلبی–عروقی درازمدت** بلندتر است (فصل ۵۲، ۶)؛ در حاملگی بعدی، **مراقبت زود**. *(Aspirin وقایوی → SD-74.)*
+**پیگیری:** فشار در هفته‌های بعد؛ **خطر قلبی–عروقی درازمدت** بلندتر است (فصل ۵۲، ۶)؛ در حاملگی بعدی، **مراقبت زود**. **Aspirin ۷۵ mg** روزانه در زن با خطر بلند Preeclampsia، **پیش از هفتهٔ ۲۰** شروع شود؛ و جایی که Calcium غذا کم است، **Calcium ۱٫۵–۲ g** روزانه (WHO 2011). اگر پیش از ولادت دوای فشار می‌خورد، پس از ولادت ادامه بده (WHO 2011).
 
 ---
 
@@ -144,4 +147,5 @@
 ## 📚 References
 1. American College of Obstetricians and Gynecologists. Committee Opinion No. 767: Emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period. *Obstet Gynecol.* 2019;133:e174–e180. (Order sets مستقیم؛ نسخهٔ ۶۹۲.)
 2. American Board of Emergency Medicine. Key Advances: Hypertensive disorders of pregnancy — Clinical policy alert. 2024.
-3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خوانده نشد → SD-74.)
+3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خلاصهٔ توصیه‌ها و بخش Magnesium مستقیم خوانده شد.)
+4. Hospira. Magnesium Sulfate Injection USP 50% — prescribing information (labeling.pfizer.com).
