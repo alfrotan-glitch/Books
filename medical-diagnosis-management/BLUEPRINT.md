@@ -74,3 +74,4 @@ python3 tools/build.py            # PDF + DOCX + EPUB در build/
 - [x] فصل ۴۵ (رهیافت اندوکراین) — v2.1؛ فصل رهیافتی؛ SD-32
 - [x] فصل ۴۶ (دیابت) — v2.1؛ ADA 2026؛ SD-33/34
 - [x] فصل ۴۷ (DKA/HHS) — v2.1؛ Consensus 2024؛ SD-35
+- [x] فصل ۴۸ (Hyperthyroidism) — v2.1؛ ATA 2016 + مرور 2024؛ SD-36/37

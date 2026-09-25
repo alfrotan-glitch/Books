@@ -395,3 +395,7 @@ VERIFIED (متن رهنمود اروپایی 2014، توصیه‌های ۷.۱–
 ### فصل ۴۷ — DKA/HHS (۲۰۲۶-۰۹-۲۵)
 
 VERIFIED (Umpierrez et al., Diabetes Care 2024، متن PDF/PMC): Saline 0.9% ۱.۰ L/h در DKA متوسط/شدید، سپس جبران ۵۰٪ کمبود در ۸–۱۲ ساعت؛ Insulin وریدی ثابت ۰.۱ U/kg/h (DKA، مختلط)، کاهش به ۰.۰۵ U/kg/h در قند کمتر از ۲۵۰؛ DKA خفیف زیرجلدی ۰.۱ U/kg هر ۲ ساعت (یا ۰.۰۵ U/kg/h)؛ HHS خالص ۰.۰۵ U/kg/h، هدف قند ۲۰۰–۲۵۰؛ K⁺: کمتر از ۳.۵ → ۱۰ mmol/h و تعویق Insulin، ۳.۵–۵.۰ → ۱۰–۲۰ mmol/L مایع تا K⁺ ۴–۵، بیشتر از ۵ → بدون K⁺ و K⁺ هر ۲ ساعت؛ Bicarbonate فقط pH کمتر از ۷.۰؛ Basal ۱–۲ ساعت پیش از قطع؛ کاهش Osmolality ۳–۸ mOsm/kg/h (CCJM 2025). باقی → SD-35.
+
+### فصل ۴۸ — Hyperthyroidism (۲۰۲۶-۰۹-۲۵)
+
+VERIFIED (ATA 2016 متن اصلی، Sage/Duke PDF): MMI شروع ۵–۱۰ / ۱۰–۲۰ / ۳۰–۴۰ mg روزانه نظر به FT4 (۱–۱.۵ / ۱.۵–۲ / ۲–۳ × ULN)؛ PTU ۵۰–۱۵۰ mg سه بار در روز؛ طوفان (جدول ۷): PTU ۵۰۰–۱۰۰۰ mg بار اول سپس ۲۵۰ mg هر ۴ ساعت، MMI ۶۰–۸۰ mg/روز، Propranolol ۶۰–۸۰ mg هر ۴ ساعت، Hydrocortisone ۳۰۰ mg IV سپس ۱۰۰ mg هر ۸ ساعت. باقی → SD-36.
