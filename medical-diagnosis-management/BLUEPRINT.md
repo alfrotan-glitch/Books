@@ -58,6 +58,7 @@
 - [x] فصل ۳۹ (CKD) — v2.1؛ ممیزی علمی (KDIGO 2024 exec summary اولیه + FARXIGA label) + currentness + style + ترمینولوژی؛ SD-22/23
 - [x] فصل ۴۰ (UTI) — v2.1؛ دوزها از NICE NG109/NG111 اولیه؛ currentness IDSA 2025 cUTI + MHRA 2024؛ SD-24/25
 - [x] فصل ۴۱ (سنگ گرده) — v2.1؛ NICE NG118 + EAU 2025؛ SD-26
+- [x] فصل ۴۲ (K/Ca/Mg/P) — v2.1؛ UKKA 2023 + SfE؛ SD-27/28
 
 ## ۵. رهنمود ساخت (build)
 ```

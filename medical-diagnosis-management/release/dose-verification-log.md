@@ -375,3 +375,7 @@
 ### فصل ۴۱ — سنگ گرده (۲۰۲۶-۰۹-۲۵)
 
 هیچ دوز دوایی عددی وارد نشد (SD-26 UNVERIFIED). اعداد غیردوایی مستقیم از NICE NG118 §1.8.1 = **VERIFIED**: آب ۲.۵–۳ L/روز (کاهل)، نمک حداکثر ۶ g، کلسیم ۷۰۰–۱۲۰۰ mg؛ اطفال ۱–۲ L، ۲–۶ g، ۳۵۰–۱۰۰۰ mg. آستانه‌های اندازه (۵/۱۰/۲۰ mm، ۴ هفته، ۴۸ ساعت، ۲۴ ساعت CT) از NICE NG118 = VERIFIED؛ ۱۵ mm و pH بالاتر از ۷.۰ از EAU 2025 = VERIFIED.
+
+### فصل ۴۲ — الکترولیت‌ها (۲۰۲۶-۰۹-۲۵)
+
+VERIFIED (متن رهنمود اولیه): Calcium gluconate 10% ۳۰ mL در ۱۰ دقیقه / Calcium chloride 10% ۱۰ mL در ۵ دقیقه (UKKA 16.2a/b)؛ Insulin ۱۰ واحد + Glucose ۲۵ g (UKKA 16.3.1)؛ Glucose 10% ۵۰ mL/h برای ۵ ساعت اگر قند کمتر از ۷.۰ (پروتوکول UKKA)؛ Salbutamol نبولایزر ۱۰–۲۰ mg (UKKA 16.4)؛ Calcium gluconate 10% ۱۰–۲۰ mL در ۵۰–۱۰۰ mL D5 در ۱۰ دقیقه و انفیوژن ۱۰۰ mL در ۱ L به ۵۰–۱۰۰ mL/h (SfE 2016/2019)؛ Alfacalcidol/Calcitriol ۰.۲۵–۰.۵ mcg/روز (SfE 2013)؛ Zoledronic acid ۴ mg در ۱۵ دقیقه، Pamidronate ۳۰–۹۰ mg به ۲۰ mg/h (SfE 2016 via Kent & Medway 2025)؛ Ibandronic acid ۲ mg در ۲ ساعت در CrCl کمتر از ۳۰ — منبع محلی NHS = VERIFIED (secondary/local). باقی → SD-27 UNVERIFIED.
