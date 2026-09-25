@@ -9,7 +9,13 @@ from typing import Any, Dict, List, Optional, Tuple
 import cv2
 import numpy as np
 import pytesseract
-from rapidocr_onnxruntime import RapidOCR
+
+try:
+    from rapidocr_onnxruntime import RapidOCR
+    RAPIDOCR_AVAILABLE = True
+except ImportError:
+    RapidOCR = None
+    RAPIDOCR_AVAILABLE = False
 
 from src.config import ExtractionConfig, default_config
 from src.layout.detector import ColumnDetector
@@ -47,7 +53,9 @@ class OCRManager:
         self._tesseract_available = self._check_tesseract()
 
     @property
-    def rapid_engine(self) -> RapidOCR:
+    def rapid_engine(self) -> Optional[RapidOCR]:
+        if not RAPIDOCR_AVAILABLE:
+            return None
         if self._rapid_engine is None:
             self._rapid_engine = RapidOCR()
         return self._rapid_engine
@@ -62,6 +70,8 @@ class OCRManager:
         Runs RapidOCR on an image.
         Returns a list of dicts: {"bbox": BoundingBox, "text": str, "confidence": float}
         """
+        if not RAPIDOCR_AVAILABLE or self.rapid_engine is None:
+            return []
         raw_results, _ = self.rapid_engine(image)
         if not raw_results:
             return []
@@ -151,9 +161,18 @@ class OCRManager:
         proc_img = prep_res.processed_image
         h, w = proc_img.shape[:2]
 
-        # 2. Run Primary Engine (RapidOCR)
-        ocr_blocks = self.run_rapidocr(proc_img)
-        method_used = ExtractionMethod.OCR_RAPIDOCR
+        # 2. Run Primary Engine (RapidOCR if available, else Tesseract)
+        if RAPIDOCR_AVAILABLE:
+            ocr_blocks = self.run_rapidocr(proc_img)
+            method_used = ExtractionMethod.OCR_RAPIDOCR
+        elif self._tesseract_available:
+            ocr_blocks = self.run_tesseract(proc_img)
+            method_used = ExtractionMethod.OCR_TESSERACT
+            warnings.append("RapidOCR not installed. Using Tesseract OCR.")
+        else:
+            ocr_blocks = []
+            method_used = ExtractionMethod.FAILED
+            warnings.append("No OCR engine available. Install rapidocr-onnxruntime (Python 3.10-3.12) or Tesseract.")
 
         # 3. Agreement analysis with secondary engine if hybrid mode or low confidence
         avg_conf = (
@@ -162,7 +181,7 @@ class OCRManager:
             else 0.0
         )
 
-        if self._tesseract_available and (
+        if RAPIDOCR_AVAILABLE and self._tesseract_available and (
             self.config.ocr_engine == "hybrid" or avg_conf < self.config.min_ocr_confidence
         ):
             tess_blocks = self.run_tesseract(proc_img)

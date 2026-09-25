@@ -18,13 +18,28 @@ if not exist "logs" mkdir "logs"
 if not exist "checkpoints" mkdir "checkpoints"
 echo   [تأیید] پوشه‌های inbox، output، logs و checkpoints آماده شدند.
 
-:: ۲. بررسی پایتون سیستم
+:: ۲. بررسی پایتون سیستم (اولویت با نسخه‌های پایدار ۳.۱۲، ۳.۱۱ و ۳.۱۰)
 echo.
-echo [۲/۴] در حال بررسی نصب بودن پایتون...
+echo [۲/۴] در حال بررسی نسخه پایتون...
 set SYSTEM_PYTHON=
 where py >nul 2>nul
 if !errorlevel! equ 0 (
-    set "SYSTEM_PYTHON=py -3"
+    py -3.12 -c "exit(0)" >nul 2>nul
+    if !errorlevel! equ 0 (
+        set "SYSTEM_PYTHON=py -3.12"
+    ) else (
+        py -3.11 -c "exit(0)" >nul 2>nul
+        if !errorlevel! equ 0 (
+            set "SYSTEM_PYTHON=py -3.11"
+        ) else (
+            py -3.10 -c "exit(0)" >nul 2>nul
+            if !errorlevel! equ 0 (
+                set "SYSTEM_PYTHON=py -3.10"
+            ) else (
+                set "SYSTEM_PYTHON=py -3"
+            )
+        )
+    )
 ) else (
     where python >nul 2>nul
     if !errorlevel! equ 0 (
@@ -32,7 +47,7 @@ if !errorlevel! equ 0 (
     ) else (
         echo.
         echo [خطا] پایتون روی این سیستم ویندوز یافت نشد!
-        echo لطفاً ابتدا نسخه جدید پایتون را از نشانی زیر نصب نمایید:
+        echo لطفاً نسخه پایدار پایتون ۳.۱۲ را از نشانی زیر نصب نمایید:
         echo https://www.python.org/downloads/
         echo ** مهم: در مرحله اول نصب، حتماً گزینه "Add Python to PATH" را فعال کنید. **
         echo.
@@ -46,26 +61,36 @@ echo   [تأیید] پایتون شناسایی شد: %SYSTEM_PYTHON%
 echo.
 echo [۳/۴] راه‌اندازی محیط مجازی اختصاصی (.venv)...
 if exist ".venv" (
-    echo   [اطلاع] محیط مجازی قبلی موجود است. از همان استفاده می‌شود.
-) else (
-    %SYSTEM_PYTHON% -m venv .venv
-    if !errorlevel! neq 0 (
-        echo [خطا] ساخت محیط مجازی ناموفق بود!
-        pause
-        exit /b 1
-    )
-    echo   [تأیید] محیط مجازی .venv ایجاد شد.
+    echo   [اطلاع] بازسازی محیط مجازی با نسخه بهینه پایتون...
+    rmdir /s /q ".venv" >nul 2>&1
 )
+%SYSTEM_PYTHON% -m venv .venv
+if !errorlevel! neq 0 (
+    echo [خطا] ساخت محیط مجازی ناموفق بود!
+    pause
+    exit /b 1
+)
+echo   [تأیید] محیط مجازی .venv ایجاد شد.
 
 :: ۴. نصب کتابخانه‌ها
 echo.
-echo [۴/۴] در حال نصب پیش‌نیازها و ماژول‌های پردازش اسناد و OCR...
+echo [۴/۴] در حال نصب پیش‌نیازها و ماژول‌های پردازش اسناد...
 .venv\Scripts\python.exe -m pip install --upgrade pip
 .venv\Scripts\python.exe -m pip install -r requirements.txt
+
+:: بررسی وضعیت RapidOCR
+.venv\Scripts\python.exe -c "import rapidocr_onnxruntime" >nul 2>&1
 if !errorlevel! neq 0 (
-    echo [خطا] نصب برخی از کتابخانه‌ها با خطا مواجه شد!
-    pause
-    exit /b 1
+    echo.
+    echo -------------------------------------------------------------------------------
+    echo [توجه در مورد نسخه پایتون]
+    echo بخش‌های بازسازی متن، خوانش، جدول‌ها، دشارژ و وب‌سرور با موفقیت نصب شدند.
+    echo پکیج RapidOCR نیازمند پایتون ۳.۱۰ تا ۳.۱۲ است. در پایتون ۳.۱۴ (نسخه پیش‌نمایش)
+    echo چرخ‌های OnnxRuntime هنوز ارائه نشده است.
+    echo برای استخراج کتاب‌های اسکن‌شده با OCR، پایتون ۳.۱۲ را نصب نمایید:
+    echo https://www.python.org/downloads/
+    echo -------------------------------------------------------------------------------
+    echo.
 )
 
 :: ۵. ایجاد خودکار آیکون روی دسکتاپ

@@ -23,14 +23,29 @@ if exist ".venv\Scripts\python.exe" (
 ) else (
     where py >nul 2>nul
     if !errorlevel! equ 0 (
-        set "PYTHON_EXE=py -3"
+        py -3.12 -c "exit(0)" >nul 2>nul
+        if !errorlevel! equ 0 (
+            set "PYTHON_EXE=py -3.12"
+        ) else (
+            py -3.11 -c "exit(0)" >nul 2>nul
+            if !errorlevel! equ 0 (
+                set "PYTHON_EXE=py -3.11"
+            ) else (
+                py -3.10 -c "exit(0)" >nul 2>nul
+                if !errorlevel! equ 0 (
+                    set "PYTHON_EXE=py -3.10"
+                ) else (
+                    set "PYTHON_EXE=py -3"
+                )
+            )
+        )
     ) else (
         where python >nul 2>nul
         if !errorlevel! equ 0 (
             set "PYTHON_EXE=python"
         ) else (
             echo [ERROR] Python is not installed or not in PATH!
-            echo Please install Python 3.10+ from https://www.python.org/
+            echo Please install Python 3.12 from https://www.python.org/
             echo Make sure to check "Add Python to PATH" during installation.
             pause
             exit /b 1

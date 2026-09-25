@@ -17,20 +17,35 @@ if not exist "logs" mkdir "logs"
 if not exist "checkpoints" mkdir "checkpoints"
 echo   [OK] inbox\, output\, debug\, logs\, checkpoints\ created.
 
-:: 2. Locate System Python
+:: 2. Locate System Python (prefer Python 3.12, 3.11, 3.10 for full OCR / ML support)
 echo.
 echo [2/4] Detecting Python installation...
 set SYSTEM_PYTHON=
 where py >nul 2>nul
 if !errorlevel! equ 0 (
-    set "SYSTEM_PYTHON=py -3"
+    py -3.12 -c "exit(0)" >nul 2>nul
+    if !errorlevel! equ 0 (
+        set "SYSTEM_PYTHON=py -3.12"
+    ) else (
+        py -3.11 -c "exit(0)" >nul 2>nul
+        if !errorlevel! equ 0 (
+            set "SYSTEM_PYTHON=py -3.11"
+        ) else (
+            py -3.10 -c "exit(0)" >nul 2>nul
+            if !errorlevel! equ 0 (
+                set "SYSTEM_PYTHON=py -3.10"
+            ) else (
+                set "SYSTEM_PYTHON=py -3"
+            )
+        )
+    )
 ) else (
     where python >nul 2>nul
     if !errorlevel! equ 0 (
         set "SYSTEM_PYTHON=python"
     ) else (
         echo [ERROR] Python 3.10 or newer was not detected in PATH!
-        echo Please download and install Python from: https://www.python.org/downloads/
+        echo Please download and install Python 3.12 from: https://www.python.org/downloads/
         echo IMPORTANT: Check the box "Add Python to PATH" during installation.
         pause
         exit /b 1
@@ -42,31 +57,41 @@ echo   [OK] Python detected: %SYSTEM_PYTHON%
 echo.
 echo [3/4] Creating virtual environment (.venv)...
 if exist ".venv" (
-    echo   [INFO] Existing .venv directory found. Re-using environment.
-) else (
-    %SYSTEM_PYTHON% -m venv .venv
-    if !errorlevel! neq 0 (
-        echo [ERROR] Failed to create .venv virtual environment!
-        pause
-        exit /b 1
-    )
-    echo   [OK] Created .venv.
+    echo   [INFO] Re-creating .venv with detected Python (%SYSTEM_PYTHON%)...
+    rmdir /s /q ".venv" >nul 2>&1
 )
+%SYSTEM_PYTHON% -m venv .venv
+if !errorlevel! neq 0 (
+    echo [ERROR] Failed to create .venv virtual environment!
+    pause
+    exit /b 1
+)
+echo   [OK] Created .venv.
 
 :: 4. Install Dependencies
 echo.
-echo [4/4] Installing dependencies from requirements.txt...
+echo [4/4] Installing dependencies...
 .venv\Scripts\python.exe -m pip install --upgrade pip
 .venv\Scripts\python.exe -m pip install -r requirements.txt
+
+:: Check if rapidocr installed or if Python 3.14 was used
+.venv\Scripts\python.exe -c "import rapidocr_onnxruntime" >nul 2>&1
 if !errorlevel! neq 0 (
-    echo [ERROR] Failed to install requirements!
-    pause
-    exit /b 1
+    echo.
+    echo -------------------------------------------------------------------------------
+    echo [NOTE ON PYTHON VERSION]
+    echo Core extraction, reading order, and dashboard installed successfully!
+    echo RapidOCR requires Python 3.10 - 3.12. If running on Python 3.14 (pre-release),
+    echo onnxruntime wheels are not yet published by Microsoft for Python 3.14.
+    echo To enable scanned book OCR, please install Python 3.12:
+    echo https://www.python.org/downloads/
+    echo -------------------------------------------------------------------------------
+    echo.
 )
 
 echo.
 echo [VERIFICATION] Verifying installed packages...
-.venv\Scripts\python.exe -c "import pymupdf, rapidocr_onnxruntime, cv2, PIL, fastapi; print('  [OK] Core libraries verified successfully!')"
+.venv\Scripts\python.exe -c "import pymupdf, cv2, PIL, fastapi; print('  [OK] Core libraries verified successfully!')"
 if !errorlevel! neq 0 (
     echo [ERROR] Verification failed!
     pause

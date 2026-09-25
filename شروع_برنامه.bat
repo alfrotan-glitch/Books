@@ -23,7 +23,22 @@ if exist ".venv\Scripts\python.exe" (
 ) else (
     where py >nul 2>nul
     if !errorlevel! equ 0 (
-        set "PYTHON_EXE=py -3"
+        py -3.12 -c "exit(0)" >nul 2>nul
+        if !errorlevel! equ 0 (
+            set "PYTHON_EXE=py -3.12"
+        ) else (
+            py -3.11 -c "exit(0)" >nul 2>nul
+            if !errorlevel! equ 0 (
+                set "PYTHON_EXE=py -3.11"
+            ) else (
+                py -3.10 -c "exit(0)" >nul 2>nul
+                if !errorlevel! equ 0 (
+                    set "PYTHON_EXE=py -3.10"
+                ) else (
+                    set "PYTHON_EXE=py -3"
+                )
+            )
+        )
     ) else (
         where python >nul 2>nul
         if !errorlevel! equ 0 (
@@ -31,7 +46,7 @@ if exist ".venv\Scripts\python.exe" (
         ) else (
             echo.
             echo [خطا] پایتون روی این سیستم ویندوز یافت نشد!
-            echo لطفاً ابتدا پایتون را از آدرس https://www.python.org/downloads/ نصب نمایید
+            echo لطفاً نسخه پایدار پایتون ۳.۱۲ را از آدرس https://www.python.org/downloads/ نصب نمایید
             echo و حتماً گزینه "Add Python to PATH" را هنگام نصب تیک بزنید.
             echo.
             pause
