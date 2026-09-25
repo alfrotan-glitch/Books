@@ -12,8 +12,7 @@
 
 ---
 
-## 🔹 ۱. Core Concept (مفهوم بنیادی)
-
+## مفهوم
 - **Sodium خون یک اختلال آب است، نه اختلال نمک.** Hyponatraemia اکثراً یعنی **آب زیاد نسبت به Sodium**، نه کمبود Sodium تام بدن.
 - **ADH (Vasopressin)** کلید اصلی است: آب را در گرده نگه می‌دارد. ADH زیاد (نامناسب) → Hyponatraemia؛ ADH کم یا بی‌اثر → Diabetes insipidus و Hypernatraemia.
 - **تشنگی** دفاع اصلی در مقابل Hypernatraemia است — به همین دلیل Hypernatraemia در مریضی دیده می‌شود که **نمی‌تواند آب بنوشد** (مسن، کوما، طفل).
@@ -23,8 +22,7 @@
 
 ---
 
-## 🔹 ۲. Definition & Classification (تعریف و تصنیف)
-
+## تعریف و تصنیف
 **Hyponatraemia (رهنمود اروپایی 2014 — ESE/ESICM/ERA-EDTA):**
 | محور | گروه‌ها |
 |---|---|
@@ -39,8 +37,7 @@
 
 ---
 
-## 🔹 ۳. Pathophysiology — Step-by-step
-
+## میکانیزم
 **Hyponatraemia:**
 1. Sodium خون = نسبت Sodium قابل تبادل به **آب تام بدن**.
 2. Hyponatraemia وقتی رخ می‌دهد که آب وارد شود و **گرده نتواند آب آزاد را دفع کند** — تقریباً همیشه به خاطر **ADH**.
@@ -62,8 +59,7 @@
 
 ---
 
-## 🔹 ۴. Etiology & Risk Factors
-
+## اسباب و فکتورهای خطر
 **Hyponatraemia Hypotonic — نظر به حجم:**
 | کم‌حجم (Hypovolaemic) | نورموحجم (Euvolaemic) | پرحجم (Hypervolaemic) |
 |---|---|---|
@@ -81,7 +77,7 @@
 
 ---
 
-## 🔹 ۵. Symptoms & Signs
+## Symptoms & Signs
 
 | Hyponatraemia | Hypernatraemia |
 |---|---|
@@ -93,16 +89,14 @@
 
 ---
 
-## 🔹 ۶. Clinical Examination
-
+## معاینه
 - **وضع حجم** — مهمترین و **غیرقابل‌اعتمادترین** معاینه: فشار ایستاده/نشسته، JVP، خشکی مخاط، ادیما، Ascites.
 - سطح شعور (GCS)، علایم عصبی بؤری (Focal).
 - علایم مرض زمینه‌ای: عدم کفایهٔ قلب، سیروز، Hypothyroidism، Addison (پیگمانتیشن، فشار پایین)، کتلهٔ ششی.
 
 ---
 
-## 🔹 ۷. Quick Differential Diagnosis
-
+## تشخیص تفریقی
 | سؤال | اگر بلی |
 |---|---|
 | قند بلند است؟ | Hyponatraemia «انتقالی» — تداوی قند |
@@ -113,8 +107,7 @@
 
 ---
 
-## 🔹 ۸. Investigations — Basic → Advanced
-
+## معاینات
 **پایه (پیش از تداوی — نمونه‌ها را پیش از Saline بگیر):**
 - Sodium، K⁺، Urea، Creatinine، **Glucose**، **Osmolality سیروم**.
 - **Osmolality ادرار** و **Sodium ادرار** (نمونهٔ تصادفی).
@@ -128,8 +121,7 @@
 
 ---
 
-## 🔹 ۹. Diagnosis & Diagnostic Criteria
-
+## معیارهای تشخیص
 **الگوریتم رهنمود اروپایی (خلاصه):**
 1. Hyperglycaemia را رد کن؛ تأیید Hypotonic بودن.
 2. **Osmolality ادرار:** اگر خیلی پایین → آب/Solute.
@@ -142,8 +134,7 @@
 
 ---
 
-## 🔹 ۱۰. Management (تداوی)
-
+## تداوی
 ### ۱۰.۱ Hyponatraemia با علایم **شدید** — حاد یا مزمن (رهنمود اروپایی 2014، تأییدشده از متن)
 
 | قدم | کار |
@@ -190,8 +181,7 @@
 
 ---
 
-## 🔹 ۱۱. Complications (اختلاطات)
-
+## اختلاطات
 | اختلاط | زمینه |
 |---|---|
 | **Cerebral oedema، اختلاج، Herniation** | Hyponatraemia حاد شدید |
@@ -202,8 +192,7 @@
 
 ---
 
-## 🔹 ۱۲. Prognosis & Follow-up
-
+## پروگنوز و پیگیری
 - Hyponatraemia علامت پیش‌بینی بد در عدم کفایهٔ قلب، سیروز و پنومونی است — عدد، شدت مرض زمینه‌ای را نشان می‌دهد.
 - بعد از رخصت: Sodium را در چند روز تکرار کن؛ دواهای عامل را در لست حساسیت/احتیاط بنویس (Thiazide، SSRI).
 - SIADH بدون علت روشن → جستجوی تومور (خصوصاً در شش).

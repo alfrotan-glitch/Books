@@ -20,7 +20,7 @@
 
 ## الف) Hyperkalaemia
 
-## 🔹 ۱. Core Concept
+## از کجا شروع کنیم
 
 Potassium اکثراً **داخل حجره** است. فرق غلظت داخل و خارج حجره، **پتانسیل استراحت** غشای حجرات قلب و عضله را می‌سازد. Potassium بلند در خارج حجره این پتانسیل را کم‌منفی می‌کند → قلب **تحریک‌پذیر و بعد بی‌تحرک** می‌شود.
 
@@ -31,8 +31,7 @@ Potassium اکثراً **داخل حجره** است. فرق غلظت داخل و
 
 💡 **تشبیه:** Calcium = **سپر** · Insulin = **پنهان کردن دشمن در خانه** · Binder/دیالیز = **بیرون کردن دشمن از شهر**.
 
-## 🔹 ۲. Definition & Classification
-
+## تعریف و تصنیف
 | درجه (UKKA 2023) | K⁺ (mmol/L) |
 |---|---|
 | متوسط (Moderate) | ۶.۰–۶.۴ |
@@ -41,16 +40,14 @@ Potassium اکثراً **داخل حجره** است. فرق غلظت داخل و
 - هر درجه + **تغییرات ECG** = عاجل.
 - **Pseudohyperkalaemia:** همولیز نمونه، تورنیکه طولانی، Leucocytosis یا Thrombocytosis شدید، نمونهٔ کهنه — اگر ECG نورمال و دلیل روشن نیست، نمونه را دوباره (بدون همولیز) بفرست، اما **تأخیر در مریض پرخطر نکن**.
 
-## 🔹 ۳. Pathophysiology — Step-by-step
-
+## میکانیزم
 1. دفع K⁺ عمدتاً از گرده (نفرون انتهایی، وابسته به Aldosterone و جریان Sodium).
 2. هر چیز که **GFR** را کم کند (AKI، CKD) یا **محور Renin–Aldosterone** را ببندد (ACEi، ARB، Spironolactone، Heparin) → احتباس K⁺.
 3. **انتقال از حجره به بیرون:** اسیدوز، کمبود Insulin (DKA)، Beta-blocker، تخریب حجرات (Rhabdomyolysis، Tumour lysis، همولیز).
 4. K⁺ خارج حجره بلند → غشا کم‌منفی → کانال‌های Sodium غیرفعال → **هدایت آهسته**.
 5. ECG: T بلند و نوک‌تیز → P پهن/محو → QRS پهن → موج سینوسی → VF یا Asystole. **ترتیب همیشه حفظ نمی‌شود**؛ مریض می‌تواند بدون مرحلهٔ اول متوقف شود.
 
-## 🔹 ۴. Etiology & Risk Factors
-
+## اسباب و فکتورهای خطر
 | گروه | مثال |
 |---|---|
 | گرده | AKI، CKD پیشرفته (فصل ۳۸، ۳۹) |
@@ -59,32 +56,29 @@ Potassium اکثراً **داخل حجره** است. فرق غلظت داخل و
 | انتقال | DKA، اسیدوز، Rhabdomyolysis، Tumour lysis، سوختگی |
 | 💡 «**Triple whammy**» | ACEi/ARB + Diuretic/MRA + NSAID |
 
-## 🔹 ۵. Symptoms & Signs
+## Symptoms & Signs
 
 - اکثراً **بی‌علامت** — تشخیص از لابراتوار یا ECG.
 - ضعف عضلات، فلج صعودی، Paraesthesia.
 - Bradycardia، ضربان نامنظم.
 
-## 🔹 ۶. Clinical Examination
-
+## معاینه
 - معاینه: حجم مایع، نبض و ریتم، قدرت عضلات و رفلکس‌ها، علایم علت (Uraemia، DKA، Addison).
 
-## 🔹 ۷. Quick Differential Diagnosis
-
+## تشخیص تفریقی
 Pseudohyperkalaemia · AKI/CKD · دوا · DKA · Addison · Rhabdomyolysis/Tumour lysis.
 
-## 🔹 ۸. Investigations
+## Investigations
 
 - **ECG ۱۲-لیدی فوراً** + مانیتور قلبی.
 - K⁺ تکراری (گاز خون وریدی/شریانی برای نتیجهٔ سریع).
 - Urea، Creatinine، Glucose، گاز خون (اسیدوز)، CK (Rhabdomyolysis)، Digoxin level اگر مصرف می‌کند.
 - مرور لست دواها.
 
-## 🔹 ۹. Diagnosis & Diagnostic Criteria
-
+## معیارهای تشخیص
 K⁺ بلند تأییدشده + ارزیابی ECG + جستجوی علت (گرده؟ دوا؟ انتقال؟).
 
-## 🔹 ۱۰. Management — UKKA 2023 (تأییدشده از متن رهنمود)
+## Management — UKKA 2023 (تأییدشده از متن رهنمود)
 
 ### قدم ۱ — محافظت قلب (اگر ECG تغییر دارد)
 
@@ -142,8 +136,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ECG: T پهن و پست، **موج U**، QT(U) طولانی، Arrhythmia — مخصوصاً با Digoxin.
 - تست‌ها: K⁺، Mg²⁺، گاز خون (Alkalosis/اسیدوز)، Creatinine، Glucose؛ K⁺ ادرار برای تفریق ضیاع گرده‌ای از غیرگرده‌ای؛ فشار خون + Renin/Aldosterone اگر فشار بلند است (فصل ۵۰).
 
-## 🔹 ۱۰. Management
-
+## تداوی
 | اصل | جزئیات |
 |---|---|
 | علت را تداوی کن | Diuretic، اسهال، Mg |
@@ -169,7 +162,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 ## ج) Hypercalcaemia
 
-## 🔹 ۱. Core Concept
+## از کجا شروع کنیم
 
 **بیش از ۹۰ فیصد علل = دو علت:** **Primary hyperparathyroidism** (سرپایی، خفیف، مزمن) و **سرطان** (بستری، شدید، سریع). اولین تست جداکننده: **PTH**.
 
@@ -177,7 +170,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 *(«بیش از ۹۰ فیصد» یک تعمیم مشهور کتب درسی است؛ منبع اولیهٔ عدد در این نشست بررسی نشد → در SD-27 ثبت شد.)*
 
-## 🔹 ۲. Classification
+## Classification
 
 | درجه | Calcium اصلاح‌شده (mmol/L) |
 |---|---|
@@ -187,14 +180,13 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 
 *منبع: پروتوکول NHS (Kent & Medway 2025) بر اساس Society for Endocrinology 2016. رهنمودها حدود کمی متفاوت دارند (مثلاً SfE مریض با علایم شدید یا بالاتر از ۳.۵ mmol/L را عاجل می‌داند).*
 
-## 🔹 ۳. Pathophysiology
-
+## میکانیزم
 1. Calcium از سه راه تنظیم می‌شود: **PTH** (استخوان، گرده، فعال کردن Vitamin D)، **Calcitriol** (جذب روده)، **گرده** (دفع).
 2. PTH زیاد (Hyperparathyroidism) یا **PTHrP** از تومور، یا تخریب استخوان از متاستاز/Myeloma، یا Calcitriol زیاد (Sarcoidosis، Lymphoma، مصرف زیاد Vitamin D) → Calcium بلند.
 3. Calcium بلند گرده را از تغلیظ ادرار باز می‌دارد (Nephrogenic DI) → **پُرادراری → کم‌آبی → GFR کمتر → دفع Calcium کمتر** → حلقهٔ معیوب.
 4. **به همین دلیل مایع قدم اول تداوی است.**
 
-## 🔹 ۴. Etiology
+## Etiology
 
 | PTH بلند یا نورمال-بلند | PTH پایین (سرکوب‌شده) |
 |---|---|
@@ -209,7 +201,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ECG: **QT کوتاه**؛ Arrhythmia در شدید.
 - تست‌ها: Calcium اصلاح‌شده (یا Ionized)، Phosphate، Albumin، Creatinine، **PTH**؛ اگر PTH پایین → PTHrP، 25-OH Vitamin D، 1,25-(OH)₂ Vitamin D، Electrophoresis پروتین/Light chains، تصویربرداری سرطان. Calcium ادرار (FHH).
 
-## 🔹 ۱۰. Management (Society for Endocrinology 2016 + پروتوکول NHS 2025)
+## Management (Society for Endocrinology 2016 + پروتوکول NHS 2025)
 
 | قدم | کار |
 |---|---|
@@ -242,7 +234,7 @@ Arrhythmia کشنده، توقف قلب، Hypoglycaemia (ضرر تداوی). پ�
 - ECG: **QT طولانی**.
 - تست‌ها: Calcium اصلاح‌شده، Phosphate، **PTH**، **Magnesium**، Creatinine، 25-OH Vitamin D.
 
-## 🔹 ۱۰. Management (Society for Endocrinology — Emergency Endocrine Guidance)
+## Management (Society for Endocrinology — Emergency Endocrine Guidance)
 
 **شدید (کمتر از ۱.۹ mmol/L یا علامت‌دار):**
 | قدم | دوز |

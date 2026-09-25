@@ -12,8 +12,7 @@
 
 ---
 
-## 🔹 ۱. Core Concept (مفهوم بنیادی)
-
+## مفهوم
 - **تایروتوکسیکوز** = علایم هورمون تایروئید زیاد در بافت‌ها، از هر منبع.
 - **Hyperthyroidism** = تایروتوکسیکوز به خاطر **ساخت زیاد** هورمون توسط خود غده.
 - این فرق حیاتی است: در **Thyroiditis** غده هورمون ذخیره‌شده را **رها** می‌کند (نه می‌سازد) → دوای ضد تایروئید (که ساخت را می‌بندد) **کار نمی‌کند**.
@@ -21,8 +20,7 @@
 
 ---
 
-## 🔹 ۲. Definition & Classification (تعریف و تصنیف)
-
+## تعریف و تصنیف
 | گروه | علل | Radioiodine uptake |
 |---|---|---|
 | **ساخت زیاد (Hyperthyroidism)** | **Graves disease** · **Toxic multinodular goitre** · **Toxic adenoma** · (نادر: TSHoma، hCG-mediated — Hyperemesis، Molar) | **بلند** (منتشر در Graves؛ نقاط گرم در گره‌ها) |
@@ -34,8 +32,7 @@
 
 ---
 
-## 🔹 ۳. Pathophysiology — Step-by-step
-
+## میکانیزم
 **Graves:**
 1. Antibody خودایمنی (**TRAb / TSI**) به گیرندهٔ TSH می‌چسپد و مثل TSH آن را **دایماً تحریک** می‌کند.
 2. غده بزرگ و پرخون (گواتر منتشر، **Bruit**) و هورمون زیاد می‌سازد.
@@ -51,15 +48,14 @@
 
 ---
 
-## 🔹 ۴. Etiology & Risk Factors
-
+## اسباب و فکتورهای خطر
 - **Graves:** شایع‌ترین علت در جوانان؛ زنان بیشتر؛ سابقهٔ فامیلی خودایمنی؛ **سگرت** (خطر Orbitopathy را زیاد می‌کند)؛ دورهٔ پس از ولادت.
 - **Toxic nodular goitre:** مسن‌تر؛ **مناطق کمبود Iodine** (مرتبط با افغانستان — فصل ۴۵)؛ گاهی پس از **بار Iodine** (کنتراست) آشکار می‌شود.
 - **Amiodarone**، Lithium، Immune checkpoint inhibitors، Alemtuzumab.
 
 ---
 
-## 🔹 ۵. Symptoms & Signs
+## Symptoms & Signs
 
 | سیستم | علایم |
 |---|---|
@@ -75,8 +71,7 @@
 
 ---
 
-## 🔹 ۶. Clinical Examination
-
+## معاینه
 - نبض (سرعت، **ریتم**)، فشار (Pulse pressure وسیع).
 - دست‌ها: لرزه، گرم و مرطوب، Onycholysis.
 - **تایروئید:** اندازه، منتشر یا گره‌ای، **درد** (Subacute thyroiditis)، Bruit، علایم فشار (Stridor، Dysphagia، Pemberton sign در گواتر پشت جناغ).
@@ -85,8 +80,7 @@
 
 ---
 
-## 🔹 ۷. Quick Differential Diagnosis
-
+## تشخیص تفریقی
 | یافته | فکر کن به |
 |---|---|
 | گواتر منتشر + Orbitopathy | **Graves** (تشخیص بالینی کافی است) |
@@ -102,8 +96,7 @@
 
 ---
 
-## 🔹 ۸. Investigations — Basic → Advanced
-
+## معاینات
 **پایه:**
 - **TSH** (بهترین تست Screening) + **FT4** + **T3 تام یا آزاد** (برای شدت و T3-toxicosis) (ATA 2016).
 - CBC و **LFT پایه** پیش از دوای ضد تایروئید (مقایسه در صورت عوارض).
@@ -118,8 +111,7 @@
 
 ---
 
-## 🔹 ۹. Diagnosis & Diagnostic Criteria
-
+## معیارهای تشخیص
 1. **TSH پایین** → تایروتوکسیکوز ممکن.
 2. FT4 و T3 → Overt یا Subclinical.
 3. **علت:** Orbitopathy + گواتر منتشر = Graves (بالینی)؛ در غیر آن TRAb، RAIU یا Doppler.
@@ -127,8 +119,7 @@
 
 ---
 
-## 🔹 ۱۰. Management (تداوی)
-
+## تداوی
 ### ۱۰.۱ عاجل — Thyroid storm (ATA 2016، جدول ۷)
 
 | دوا | دوز (ATA 2016) | هدف |
@@ -193,8 +184,7 @@
 
 ---
 
-## 🔹 ۱۱. Complications (اختلاطات)
-
+## اختلاطات
 | اختلاط | کلید |
 |---|---|
 | **Thyroid storm** | کشنده؛ محرک: انتان، جراحی، ولادت، قطع ATD، بار Iodine |
@@ -208,8 +198,7 @@
 
 ---
 
-## 🔹 ۱۲. Prognosis & Follow-up
-
+## پروگنوز و پیگیری
 - Graves با ATD: بخشی Remission می‌کنند؛ عود شایع است — مریض را آگاه کن.
 - پس از RAI/جراحی: TSH/FT4 منظم؛ اکثراً Levothyroxine دایمی.
 - TRAb بلند در زمان قطع ATD → خطر عود بیشتر.
