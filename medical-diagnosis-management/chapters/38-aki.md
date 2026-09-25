@@ -123,7 +123,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 | Creatinine کاذب؟ | دواهایی مثل Trimethoprim که ترشح Creatinine را کم می‌کنند؛ عضلهٔ زیاد |
 | Prerenal یا ATN؟ | قصه، معاینهٔ حجم، **پاسخ به مایع**، رسوب ادرار (آرام در برابر Muddy brown casts) |
 | انسداد؟ | **Ultrasound** — Hydronephrosis؛ حجم باقی‌ماندهٔ مثانه |
-| GN یا Vasculitis؟ | **RBC casts**، پروتین، سیرولوژی (فصل ۳۷) |
+| GN یا Vasculitis؟ | **RBC casts**، پروتین، سیرولوژی (فصل ۳۷؛ Vasculitis → فصل ۷۴) |
 | Interstitial nephritis؟ | دوای تازه، WBC casts، راش/تب/Eosinophilia |
 | Rhabdomyolysis؟ | dipstick خون مثبت بدون RBC؛ **CK** خیلی بلند |
 
@@ -214,7 +214,7 @@ AKI اکثراً **بی‌صدا** است و با یک Creatinine بلند کش�
 | **Prerenal (کم‌آبی)** | مایع؛ قطع NSAID/ACEi/Diuretic |
 | **Postrenal** | رفع انسداد؛ ⚠️ بعد از رفع، **Post-obstructive diuresis** — مایع و الکترولیت‌ها را دقیق دنبال کن |
 | **Interstitial nephritis** | قطع دوای مقصر؛ کورتیکوستیروید به تصمیم متخصص |
-| **GN / Vasculitis** | فصل ۳۷ — عاجل متخصص |
+| **GN / Vasculitis** | فصل ۳۷ و ۷۴ — عاجل متخصص |
 | **Rhabdomyolysis** | مایع زیاد و زودهنگام؛ پوتاشیم و کلسیم را نظارت کن (پروتوکول محلی) |
 | **Hepatorenal** | فصل ۳۲ |
 | **کنتراست** | وقایه (فصل ۳۶، ACR–NKF 2020) |
