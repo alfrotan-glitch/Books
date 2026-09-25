@@ -72,6 +72,7 @@
 | 80 | نوشته شده: مسمومیت Paracetamol (ANZ 2020، SNAP)؛ SD-70 |
 | 81 | نوشته شده: Opioid، CO، Cyanide (NJPIES 2023)؛ SD-71 |
 | 82 | نوشته شده: Anaphylaxis و سوختگی (RCUK 2021، ABA 2023)؛ SD-72 |
+| 83 | نوشته شده: گرمازدگی و Hypothermia (WMS 2024)؛ SD-73 |
 | 51–95 | باقی |
 
 ## ۵. رهنمود ساخت (build)
