@@ -770,7 +770,7 @@
 
 ## فصل ۶۸ — ملاریا، Dengue و CCHF
 
-1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. (از طریق MSF Clinical Guidelines و severemalaria.org؛ متن اصلی مستقیم خوانده نشد → SD-53.)
+1. World Health Organization. WHO guidelines for malaria. Geneva: WHO (living guideline); WHO. Management of severe malaria: a practical handbook. 3rd ed. WHO Guidelines for the treatment of malaria, 3rd ed. (afro.who.int، خلاصهٔ توصیه‌ها مستقیم خوانده شد: Artesunate ۲٫۴/۳ mg/kg، ۲۴ ساعت زرقی، ACT ۳ روزه، Primaquine ۰٫۲۵–۰٫۵ mg/kg × ۱۴ روز و استثناهای آن)؛ WHO Prequalification — Artesunate for injection, SmPC §4.2.
 2. Médecins Sans Frontières. Clinical guidelines: Malaria. medicalguidelines.msf.org.
 3. World Health Organization. WHO guidelines for clinical management of arboviral diseases: dengue, chikungunya, Zika and yellow fever. Geneva: WHO; 2025.
 
@@ -869,7 +869,8 @@
 
 1. American College of Obstetricians and Gynecologists. Committee Opinion No. 767: Emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period. *Obstet Gynecol.* 2019;133:e174–e180. (Order sets مستقیم؛ نسخهٔ ۶۹۲.)
 2. American Board of Emergency Medicine. Key Advances: Hypertensive disorders of pregnancy — Clinical policy alert. 2024.
-3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خوانده نشد → SD-74.)
+3. World Health Organization. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia. 2011. (خلاصهٔ توصیه‌ها و بخش Magnesium مستقیم خوانده شد.)
+4. Hospira. Magnesium Sulfate Injection USP 50% — prescribing information (labeling.pfizer.com).
 
 ## فصل ۸۴ — مریض سالخورده
 
