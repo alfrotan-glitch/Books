@@ -1,4 +1,4 @@
-# فصل ۷۴ — Systemic lupus erythematosus (SLE)
+# فصل ۷۴ — Systemic lupus erythematosus (SLE) و Vasculitis سیستمیک
 
 > **بخش یازدهم — روماتولوژی** · *Currentness audit: **EULAR recommendations for SLE: 2023 update** (Fanouriakis A et al., Ann Rheum Dis 2024;83:15–29) — متن ard.eular.org و شکل الگوریتم آن مستقیم خوانده شد. معیارهای طبقه‌بندی **EULAR/ACR 2019** از منبع اولیه خوانده نشد → SD-59. تداوی Lupus nephritis با KDIGO 2024 (فصل ۳۷) هماهنگ است.*
 
@@ -126,6 +126,47 @@
 
 ---
 
+## ۵. Vasculitis سیستمیک — خانهٔ اصلی در کتاب
+
+> این بخش خانهٔ اصلی Vasculitis سیستمیک (Systemic vasculitis) است. جزئیات گرده‌ای (RPGN، Anti-GBM) در **فصل ۳۷**، Giant cell arteritis با سردردِ بالای ۵۰ سال در **فصل ۵۶**، و Haemoptysis و خونریزی منتشر الویولی (DAH) در **فصل ۲۳** آمده است.
+
+### کی به Vasculitis فکر کنیم؟
+
+وقتی مرض **چند عضو** را هم‌زمان گرفته و یک توضیح ساده ندارد:
+- Purpura قابل لمس، زخم جلدی، Mononeuritis multiplex (افتادن ناگهانی پا یا دست)
+- سینوزیت یا Crusting مزمن بینی، Haemoptysis، ندول‌های ریوی
+- Haematuria با RBC cast، کریاتینین رو به افزایش (نفریتیک یا RPGN)
+- تب، کاهش وزن، خستگی و CRP بلند بدون انتان روشن
+
+### تشخیص تفریقی که پیش از Vasculitis باید رد شود
+
+Endocarditis (فصل ۱۲)، سپسیس و انتانات (HBV، HCV، HIV)، دواها (Levamisole در کوکائین، Propylthiouracil)، آمبولی کلسترول، SLE و Cryoglobulinaemia.
+
+### معاینات لابراتواری بنیادی
+
+CBC، کریاتینین، **معاینهٔ ادرار با میکروسکوپ** (RBC cast)، CRP/ESR، **ANCA (PR3 و MPO)**، Anti-GBM، C3/C4، ANA، HBV/HCV، کشت خون، و عکس یا CT صدر. طبق EULAR 2022، **بیوپسی و معاینهٔ ANCA** برای تأیید تشخیص توصیه می‌شوند؛ ANCA منفی Vasculitis را رد نمی‌کند.
+
+### Red Flags — ارجاع همان روز
+
+- کریاتینین رو به افزایش با Haematuria (RPGN) → فصل ۳۷
+- Haemoptysis یا کاهش Hb با انفیلتره‌های ریوی (DAH) → فصل ۲۳ و ۲۲
+- کاهش دید یا سردرد تازه بالای ۵۰ سال (GCA) → فصل ۵۶
+- Mononeuritis multiplex یا ایسکیمی روده
+
+### اصول تداوی ANCA vasculitis (GPA و MPA) — EULAR 2022 (Hellmich، Ann Rheum Dis 2024)
+
+- مرض تهدیدکنندهٔ حیات یا عضو: **Glucocorticoid با دوز بلند + Rituximab یا Cyclophosphamide**.
+- دوز Glucocorticoid به‌تدریج کم شود تا در **۴–۵ ماه به ۵ mg Prednisolone در روز** برسد.
+- **Avacopan** برای کم ساختن مصرف Glucocorticoid در نظر گرفته می‌شود.
+- **Plasma exchange** در RPGN «در نظر گرفته می‌شود» — تصمیم متخصص است و معمول نیست.
+- نگهداری Remission: **Rituximab**؛ Azathioprine یا Methotrexate بدیل‌ها اند.
+- EGPA عودکننده یا مقاوم: **Mepolizumab**.
+- دوز شروع Glucocorticoid و رژیم Rituximab/Cyclophosphamide در این کتاب نیامده است: این تداوی فقط در مرکز متخصص شروع می‌شود و جدول دوز رهنمود از متن اولیه بازخوانی نشده است (SD-101).
+
+### پیگیری
+
+کریاتینین، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocystis و بررسی انتانات در مریضی که ایمونوسپرسیف می‌گیرد، به تصمیم متخصص؛ عود شایع است.
+
 ## ⚠️ تب در مریض SLE: Flare یا انتان؟
 **مهم‌ترین تصمیم روزمره:**
 - **انتان را اول رد کن.** مریض سرکوب ایمنی است و Steroid بیشتر برای انتان کشنده است.
@@ -180,3 +221,4 @@
 ## 📚 References
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
 2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
+3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764

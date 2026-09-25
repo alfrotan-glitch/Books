@@ -112,7 +112,7 @@
 
 - Van Gelder IC, Rienstra M, et al. 2024 ESC Guidelines for the management of atrial fibrillation (with EACTS). Eur Heart J 2024;45(36):3314–3414. — **منبع جدول دوز DOAC (Table 11)، CHA₂DS₂-VA، هدف Rate < ۱۱۰ و AF-CARE.**
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
-- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. — **منبع دوزهای Adenosine، Verapamil، Diltiazem، Esmolol، Metoprolol، Amiodarone، Magnesium و Atropine، و الگوریتم‌های تاکیکاردی/برادیکاردی.**
+- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
 - European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
@@ -805,10 +805,11 @@
 2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939. (از خلاصه‌ها → SD-58.)
 3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
 
-## فصل ۷۴ — Systemic lupus erythematosus (SLE)
+## فصل ۷۴ — Systemic lupus erythematosus (SLE) و Vasculitis سیستمیک
 
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
 2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
+3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
 
 ## فصل ۷۵ — نقرس و Osteoarthritis
 

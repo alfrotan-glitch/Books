@@ -1,6 +1,6 @@
 # فصل ۱۰ — فیبریلیشن دهلیزی و اریتمی‌ها (Atrial Fibrillation & Cardiac Arrhythmias)
 
-> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تاکی‌کاردی/برادیکاردی از ERC/RCUK 2021 نقل شده؛ ERC و AHA در 2025 رهنمود تازهٔ احیا نشر کردند (جایگاه اصلی: فصل ۷۷) — دوزهای الگوریتم این فصل با 2025 خط به خط مطابقت نشده (SD-98).*
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تاکی/برادیکاردی و جدول دوای عاجل با متن ERC 2025 ALS مطابقت شد (احیا: فصل ۷۷)؛ AHA 2025 خط به خط مقایسه نشده (SD-98).*
 
 ## 🩺 مریض این فصل
 
@@ -190,17 +190,19 @@
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
-**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز از ERC 2021؛ دوز Amiodarone با ERC 2025 یکی است):**
+**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز ERC 2025 ALS — متن رهنمود خوانده شد؛ در عاجل از ورید محیطی هم داده می‌شوند):**
 
 | دوا | اندیکاسیون | دوز | راه/تکرار | نکتهٔ ایمنی |
 |---|---|---|---|---|
 | **Adenosine** | SVT منظم با QRS باریک (یا پهن منظم اگر Pre-excitation نباشد) | **۶ mg** ← **۱۲ mg** ← در نظر گرفتن **۱۸ mg** | IV **بولوس سریع** در ورید بزرگ + فلش فوری ۲۰ mL سالین | در **آسما شدید** با احتیاط/اجتناب؛ در AF با WPW ممنوع؛ احساس «مرگ لحظه‌ای» را به مریض پیش‌تر بگو؛ با Dipyridamole/Carbamazepine دوز کمتر |
 | **Verapamil** | SVT پس از ناکامی Adenosine | ۰.۰۷۵–۰.۱۵ mg/kg (میانگین ۵–۱۰ mg) | IV در ۲ دقیقه | **ممنوع** در هایپوتنشن، EF < ۴۰ فیصد، VT، WPW |
-| **Diltiazem** | SVT؛ کنترول Rate در AF | ۰.۲۵ mg/kg (میانگین ۲۰ mg)؛ در AF می‌توان ۰.۳۵ mg/kg تکرار کرد؛ سپس انفیوژن **۵–۱۵ mg/h** | IV در ۲ دقیقه | **ممنوع در EF ≤ ۴۰ فیصد** و هایپوتنشن |
-| **Metoprolol** | کنترول Rate، SVT | **۲.۵–۵ mg** | IV در ۲ دقیقه؛ تا ۳ دوز (حداکثر مجموع ۱۵ mg) | در عدم کفایهٔ حاد قلب، آسما شدید و هایپوتنشن اجتناب |
-| **Esmolol** | کنترول Rate کوتاه‌مدت | بولوس ۰.۵ mg/kg؛ انفیوژن ۰.۰۵–۰.۳ mg/kg/min | IV | نیمه‌عمر بسیار کوتاه |
-| **Amiodarone** | VT پایدار؛ شاک ناکام؛ کنترول Rate در عدم کفایهٔ قلب/مریض شدید | **۳۰۰ mg** در ۱۰–۶۰ دقیقه (در مریض ناپایدار ۱۰–۲۰ دقیقه) ← **۹۰۰ mg در ۲۴ ساعت** | IV، ترجیحاً ورید مرکزی (فلبیت) | هایپوتنشن، برادیکاردی، QT طولانی؛ تداخل با Warfarin و Digoxin |
-| **Magnesium sulfate** | **Torsades de pointes** | **۲ g** | IV در **۱۰ دقیقه**؛ یک بار قابل تکرار | حتی با Mg نورمال مؤثر است؛ K⁺ را به ۴.۵–۵.۰ برسان و دواهای QT-طولانی‌کننده را قطع کن |
+| **Diltiazem** | SVT؛ کنترول Rate در AF | ۰.۲۵ mg/kg (میانگین ۲۰ mg) (ERC 2025)؛ در AF تکرار ۰.۳۵ mg/kg و انفیوژن **۵–۱۵ mg/h** از ACC/AHA 2023 AF است (جدول ۲ پایین) | IV در ۲ دقیقه | **ممنوع در EF ≤ ۴۰ فیصد** و هایپوتنشن |
+| **Metoprolol** | SVT با QRS باریک پس از ناکامی مانورهای واگال و Adenosine | **۲.۵–۱۵ mg** به شکل بولوس‌های ۲.۵ mg | IV | وقتی Esmolol یا Landiolol موجود نیست (ERC 2025)؛ در عدم کفایهٔ حاد قلب، آسما شدید و هایپوتنشن اجتناب |
+| **Esmolol** | کنترول Rate کوتاه‌مدت | بولوس اختیاری ۵۰۰ µg/kg در ۱ دقیقه، سپس انفیوژن ۵۰–۳۰۰ µg/kg/min | IV | نیمه‌عمر حدود ۹ دقیقه؛ در مریض ناپایدار هم قابل در نظر گرفتن |
+| **Landiolol** (در صورت موجودیت) | کنترول Rate در SVT، AF، Flutter؛ Electrical storm | بارگیری اختیاری ۱۰۰ µg/kg در ۱ دقیقه، سپس ۱۰–۴۰ µg/kg/min (۱–۱۰ µg/kg/min اگر وظیفهٔ بطن چپ ضعیف است) | IV | نیمه‌عمر حدود ۴ دقیقه |
+| **Amiodarone** | VT پایدار؛ شاک ناکام؛ کنترول Rate در عدم کفایهٔ قلب/مریض شدید | **۳۰۰ mg** در ۱۰–۶۰ دقیقه (در مریض ناپایدار ۱۰–۲۰ دقیقه) ← **۹۰۰ mg در ۲۴ ساعت** | IV، ترجیحاً ورید مرکزی (فلبیت) | **در AF با Pre-excitation ممنوع** (ECG سریع، پهن و نامنظم)؛ هایپوتنشن، برادیکاردی، QT طولانی؛ تداخل با Warfarin و Digoxin |
+| **Lidocaine** | تاکی‌کاردی QRS پهن | بولوس ۵۰–۲۰۰ mg، سپس ۲–۴ mg/min | IV | در شاک دوز را کم کن |
+| **Magnesium sulfate** | **Torsades de pointes** | **۸ mmol** (تقریباً ۲ g Magnesium sulfate) | IV در **۱۰ دقیقه**؛ یک بار قابل تکرار | حتی با Mg نورمال مؤثر است؛ K⁺ را به ۴.۵–۵.۰ برسان و دواهای QT-طولانی‌کننده را قطع کن |
 | **Procainamide** (در صورت موجودیت) | VT پایدار، AF با WPW | ۱۰–۱۵ mg/kg | IV در ۲۰ دقیقه | هایپوتنشن، QT |
 
 **۲) کنترول Rate در AF (ACC/AHA 2023 جدول ۲۱ + ESC 2024):**
@@ -333,7 +335,7 @@
 ## 📚 References
 - Van Gelder IC, Rienstra M, et al. 2024 ESC Guidelines for the management of atrial fibrillation (with EACTS). Eur Heart J 2024;45(36):3314–3414. — **منبع جدول دوز DOAC (Table 11)، CHA₂DS₂-VA، هدف Rate < ۱۱۰ و AF-CARE.**
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
-- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. — **منبع دوزهای Adenosine، Verapamil، Diltiazem، Esmolol، Metoprolol، Amiodarone، Magnesium و Atropine، و الگوریتم‌های تاکیکاردی/برادیکاردی.**
+- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
 - European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).

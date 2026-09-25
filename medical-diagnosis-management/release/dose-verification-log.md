@@ -580,3 +580,11 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - ۲۷، ۳۴ — رژیم‌های انتی‌بیوتیک داخل بطنی و صفراوی VERIFIED با WSES/SIS-E 2021.
 - ۳۳ — رژیم NAC به جایگاه واحد (فصل ۷۹) منتقل شد.
 - همهٔ عنوان‌های این دفتر به شماره‌گذاری فعلی فصل‌ها تبدیل شد (۲۰۲۶-۰۹-۲۵).
+
+
+## فصل ۱۰ — جدول دوای عاجل تاکی‌اریتمی (۲۰۲۶-۰۹-۲۵، ERC 2025 ALS، متن رهنمود)
+
+- ✅ Adenosine ۶ → ۱۲ → ۱۸ mg؛ Verapamil ۰.۰۷۵–۰.۱۵ mg/kg؛ Diltiazem ۰.۲۵ mg/kg؛ Procainamide ۱۰–۱۵ mg/kg در ۲۰ دقیقه؛ Amiodarone ۳۰۰ mg در ۱۰–۶۰ دقیقه + ۹۰۰ mg در ۲۴ ساعت.
+- ❌ → اصلاح: Metoprolol «۲.۵–۵ mg تا ۳ دوز» → ۲.۵–۱۵ mg در بولوس‌های ۲.۵ mg؛ Esmolol به ۵۰۰ µg/kg (اختیاری، ۱ دقیقه) + ۵۰–۳۰۰ µg/kg/min؛ Magnesium ۲ g → ۸ mmol (≈۲ g).
+- ➕ Landiolol، Lidocaine (۵۰–۲۰۰ mg، سپس ۲–۴ mg/min)؛ منع Amiodarone در AF با Pre-excitation.
+- 🟡 دوزهای تکرار/انفیوژن Diltiazem در AF از ACC/AHA 2023 (جدول ۲ فصل) — جدا بررسی شده بود.

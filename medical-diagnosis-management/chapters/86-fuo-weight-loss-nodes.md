@@ -20,7 +20,7 @@
 |---|---|---|
 | **انتانی** | **TB** (به ویژه **خارج ریوی**: عقده، بطن، استخوان، Miliary)، **Brucellosis**، **Typhoid**، **ابسه** (کبد — Amoebic، و Hydatid انتانی)، **Endocarditis**، **HIV** و انتانات فرصت‌طلب، ملاریا (در مسافرین مناطق Endemic)، **Leishmaniasis احشایی** (نادر) | ۱۹، ۶۹، ۳۴، ۱۲، ۷۰، ۶۸ |
 | **سرطان** | **Lymphoma**، Leukaemia، سرطان گرده، کبد | ۶۵، ۶۳ |
-| **التهابی** | **Still's disease** کاهلان، **SLE**، **Giant cell arteritis** (بالای ۵۰)، Vasculitis، IBD | ۷۴، ۵۶، ۲۸ |
+| **التهابی** | **Still's disease** کاهلان، **SLE**، **Giant cell arteritis** (بالای ۵۰)، Vasculitis، IBD | ۷۴ (SLE و Vasculitis)، ۵۶ (GCA)، ۲۸ |
 | **دیگر** | **تب دوایی**، DVT و PE مکرر، Thyroiditis، **تب ساختگی** | ۱۴، ۴۸ |
 
 **قاعدهٔ افغانستان: تب طولانی = TB یا Brucella تا خلاف آن ثابت شود** — و **Lymphoma** را همیشه در نظر داشته باش.

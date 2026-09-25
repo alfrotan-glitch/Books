@@ -2514,7 +2514,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 
 # فصل ۱۰ — فیبریلیشن دهلیزی و اریتمی‌ها (Atrial Fibrillation & Cardiac Arrhythmias)
 
-> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تاکی‌کاردی/برادیکاردی از ERC/RCUK 2021 نقل شده؛ ERC و AHA در 2025 رهنمود تازهٔ احیا نشر کردند (جایگاه اصلی: فصل ۷۷) — دوزهای الگوریتم این فصل با 2025 خط به خط مطابقت نشده (SD-98).*
+> **بخش دوم — سیستم قلب و عروق** · *Currentness audit (سپتمبر 2026): ESC 2024 AF و ACC/AHA 2023 AF (جاری)؛ ESC 2019 SVT (جاری). الگوریتم‌های تاکی/برادیکاردی و جدول دوای عاجل با متن ERC 2025 ALS مطابقت شد (احیا: فصل ۷۷)؛ AHA 2025 خط به خط مقایسه نشده (SD-98).*
 
 ## 🩺 مریض این فصل
 
@@ -2704,17 +2704,19 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 
 ### ب) Pharmacotherapy (Dose + Route + Frequency + Duration)
 
-**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز از ERC 2021؛ دوز Amiodarone با ERC 2025 یکی است):**
+**۱) دواهای عاجل تاکی‌اریتمی (جدول دوز ERC 2025 ALS — متن رهنمود خوانده شد؛ در عاجل از ورید محیطی هم داده می‌شوند):**
 
 | دوا | اندیکاسیون | دوز | راه/تکرار | نکتهٔ ایمنی |
 |---|---|---|---|---|
 | **Adenosine** | SVT منظم با QRS باریک (یا پهن منظم اگر Pre-excitation نباشد) | **۶ mg** ← **۱۲ mg** ← در نظر گرفتن **۱۸ mg** | IV **بولوس سریع** در ورید بزرگ + فلش فوری ۲۰ mL سالین | در **آسما شدید** با احتیاط/اجتناب؛ در AF با WPW ممنوع؛ احساس «مرگ لحظه‌ای» را به مریض پیش‌تر بگو؛ با Dipyridamole/Carbamazepine دوز کمتر |
 | **Verapamil** | SVT پس از ناکامی Adenosine | ۰.۰۷۵–۰.۱۵ mg/kg (میانگین ۵–۱۰ mg) | IV در ۲ دقیقه | **ممنوع** در هایپوتنشن، EF < ۴۰ فیصد، VT، WPW |
-| **Diltiazem** | SVT؛ کنترول Rate در AF | ۰.۲۵ mg/kg (میانگین ۲۰ mg)؛ در AF می‌توان ۰.۳۵ mg/kg تکرار کرد؛ سپس انفیوژن **۵–۱۵ mg/h** | IV در ۲ دقیقه | **ممنوع در EF ≤ ۴۰ فیصد** و هایپوتنشن |
-| **Metoprolol** | کنترول Rate، SVT | **۲.۵–۵ mg** | IV در ۲ دقیقه؛ تا ۳ دوز (حداکثر مجموع ۱۵ mg) | در عدم کفایهٔ حاد قلب، آسما شدید و هایپوتنشن اجتناب |
-| **Esmolol** | کنترول Rate کوتاه‌مدت | بولوس ۰.۵ mg/kg؛ انفیوژن ۰.۰۵–۰.۳ mg/kg/min | IV | نیمه‌عمر بسیار کوتاه |
-| **Amiodarone** | VT پایدار؛ شاک ناکام؛ کنترول Rate در عدم کفایهٔ قلب/مریض شدید | **۳۰۰ mg** در ۱۰–۶۰ دقیقه (در مریض ناپایدار ۱۰–۲۰ دقیقه) ← **۹۰۰ mg در ۲۴ ساعت** | IV، ترجیحاً ورید مرکزی (فلبیت) | هایپوتنشن، برادیکاردی، QT طولانی؛ تداخل با Warfarin و Digoxin |
-| **Magnesium sulfate** | **Torsades de pointes** | **۲ g** | IV در **۱۰ دقیقه**؛ یک بار قابل تکرار | حتی با Mg نورمال مؤثر است؛ K⁺ را به ۴.۵–۵.۰ برسان و دواهای QT-طولانی‌کننده را قطع کن |
+| **Diltiazem** | SVT؛ کنترول Rate در AF | ۰.۲۵ mg/kg (میانگین ۲۰ mg) (ERC 2025)؛ در AF تکرار ۰.۳۵ mg/kg و انفیوژن **۵–۱۵ mg/h** از ACC/AHA 2023 AF است (جدول ۲ پایین) | IV در ۲ دقیقه | **ممنوع در EF ≤ ۴۰ فیصد** و هایپوتنشن |
+| **Metoprolol** | SVT با QRS باریک پس از ناکامی مانورهای واگال و Adenosine | **۲.۵–۱۵ mg** به شکل بولوس‌های ۲.۵ mg | IV | وقتی Esmolol یا Landiolol موجود نیست (ERC 2025)؛ در عدم کفایهٔ حاد قلب، آسما شدید و هایپوتنشن اجتناب |
+| **Esmolol** | کنترول Rate کوتاه‌مدت | بولوس اختیاری ۵۰۰ µg/kg در ۱ دقیقه، سپس انفیوژن ۵۰–۳۰۰ µg/kg/min | IV | نیمه‌عمر حدود ۹ دقیقه؛ در مریض ناپایدار هم قابل در نظر گرفتن |
+| **Landiolol** (در صورت موجودیت) | کنترول Rate در SVT، AF، Flutter؛ Electrical storm | بارگیری اختیاری ۱۰۰ µg/kg در ۱ دقیقه، سپس ۱۰–۴۰ µg/kg/min (۱–۱۰ µg/kg/min اگر وظیفهٔ بطن چپ ضعیف است) | IV | نیمه‌عمر حدود ۴ دقیقه |
+| **Amiodarone** | VT پایدار؛ شاک ناکام؛ کنترول Rate در عدم کفایهٔ قلب/مریض شدید | **۳۰۰ mg** در ۱۰–۶۰ دقیقه (در مریض ناپایدار ۱۰–۲۰ دقیقه) ← **۹۰۰ mg در ۲۴ ساعت** | IV، ترجیحاً ورید مرکزی (فلبیت) | **در AF با Pre-excitation ممنوع** (ECG سریع، پهن و نامنظم)؛ هایپوتنشن، برادیکاردی، QT طولانی؛ تداخل با Warfarin و Digoxin |
+| **Lidocaine** | تاکی‌کاردی QRS پهن | بولوس ۵۰–۲۰۰ mg، سپس ۲–۴ mg/min | IV | در شاک دوز را کم کن |
+| **Magnesium sulfate** | **Torsades de pointes** | **۸ mmol** (تقریباً ۲ g Magnesium sulfate) | IV در **۱۰ دقیقه**؛ یک بار قابل تکرار | حتی با Mg نورمال مؤثر است؛ K⁺ را به ۴.۵–۵.۰ برسان و دواهای QT-طولانی‌کننده را قطع کن |
 | **Procainamide** (در صورت موجودیت) | VT پایدار، AF با WPW | ۱۰–۱۵ mg/kg | IV در ۲۰ دقیقه | هایپوتنشن، QT |
 
 **۲) کنترول Rate در AF (ACC/AHA 2023 جدول ۲۱ + ESC 2024):**
@@ -2847,7 +2849,7 @@ MVA تنگ ← فشار دهلیز چپ ↑ ← **اتساع دهلیز چپ ←
 ## 📚 References
 - Van Gelder IC, Rienstra M, et al. 2024 ESC Guidelines for the management of atrial fibrillation (with EACTS). Eur Heart J 2024;45(36):3314–3414. — **منبع جدول دوز DOAC (Table 11)، CHA₂DS₂-VA، هدف Rate < ۱۱۰ و AF-CARE.**
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
-- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. — **منبع دوزهای Adenosine، Verapamil، Diltiazem، Esmolol، Metoprolol، Amiodarone، Magnesium و Atropine، و الگوریتم‌های تاکیکاردی/برادیکاردی.**
+- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
 - European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
@@ -12873,7 +12875,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 | **FSGS اولیه** | Glucocorticoid؛ CNI در مقاومت | **متخصص** | KDIGO 2021 Ch.6 |
 | **IgA nephropathy** | 🔄 **KDIGO 2025:** دو ستون — (۱) مدیریت CKD: RASi حداکثر یا **Sparsentan** (جانشین RASi، نه همراه آن)، **SGLT2 inhibitor**؛ (۲) کاهش تولید IgA پاتوژن: مثلاً **Budesonide با رهایش هدفمند (Nefecon)** | **متخصص**؛ دوزها در این فصل وارد نشد | KDIGO 2025 IgAN/IgAV |
 | **Post-streptococcal GN** | حمایتی (نمک، دیورتیک، کنترول فشار)؛ انتان فعال را تداوی کن | — | KDIGO 2021 |
-| **Lupus / ANCA / anti-GBM** | ایمونوسپرسیف عاجل | **متخصص** — Lupus در فصل ۷۴ | KDIGO 2024 LN؛ KDIGO 2024 ANCA |
+| **Lupus / ANCA / anti-GBM** | ایمونوسپرسیف عاجل | **متخصص** — Lupus و Vasculitis سیستمیک در فصل ۷۴ | KDIGO 2024 LN؛ KDIGO 2024 ANCA |
 
 **IgA — هدف KDIGO 2025:** پروتین **کمتر از ۰.۵ g/روز**، ترجیحاً **کمتر از ۰.۳ g/روز**؛ و کاهش سرعت از دست رفتن eGFR به **کمتر از ۱ ml/min در سال** (در KDIGO 2021 هدف پروتین کمتر از ۱ g/روز بود). مریضان با پروتین **۰.۵ g/روز یا بیشتر** در خطر پیشرفت‌اند.
 
@@ -12966,7 +12968,7 @@ AKI وقتی است که **یکی** از این‌ها رخ دهد:
 - **فصل ۳۹:** CKD — نتیجهٔ درازمدت امراض گلومرولی.
 - **فصل ۶:** فشار بلند و دوز ACEi/ARB.
 - **فصل ۴۶:** دیابت — شایع‌ترین علت ثانوی نفروتیک.
-- **فصل ۷۴:** Lupus.
+- **فصل ۷۴:** Lupus و Vasculitis سیستمیک (خانهٔ اصلی).
 
 ---
 
@@ -21238,7 +21240,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
 
 
-# فصل ۷۴ — Systemic lupus erythematosus (SLE)
+# فصل ۷۴ — Systemic lupus erythematosus (SLE) و Vasculitis سیستمیک
 
 > **بخش یازدهم — روماتولوژی** · *Currentness audit: **EULAR recommendations for SLE: 2023 update** (Fanouriakis A et al., Ann Rheum Dis 2024;83:15–29) — متن ard.eular.org و شکل الگوریتم آن مستقیم خوانده شد. معیارهای طبقه‌بندی **EULAR/ACR 2019** از منبع اولیه خوانده نشد → SD-59. تداوی Lupus nephritis با KDIGO 2024 (فصل ۳۷) هماهنگ است.*
 
@@ -21366,6 +21368,47 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 ---
 
+## ۵. Vasculitis سیستمیک — خانهٔ اصلی در کتاب
+
+> این بخش خانهٔ اصلی Vasculitis سیستمیک (Systemic vasculitis) است. جزئیات گرده‌ای (RPGN، Anti-GBM) در **فصل ۳۷**، Giant cell arteritis با سردردِ بالای ۵۰ سال در **فصل ۵۶**، و Haemoptysis و خونریزی منتشر الویولی (DAH) در **فصل ۲۳** آمده است.
+
+### کی به Vasculitis فکر کنیم؟
+
+وقتی مرض **چند عضو** را هم‌زمان گرفته و یک توضیح ساده ندارد:
+- Purpura قابل لمس، زخم جلدی، Mononeuritis multiplex (افتادن ناگهانی پا یا دست)
+- سینوزیت یا Crusting مزمن بینی، Haemoptysis، ندول‌های ریوی
+- Haematuria با RBC cast، کریاتینین رو به افزایش (نفریتیک یا RPGN)
+- تب، کاهش وزن، خستگی و CRP بلند بدون انتان روشن
+
+### تشخیص تفریقی که پیش از Vasculitis باید رد شود
+
+Endocarditis (فصل ۱۲)، سپسیس و انتانات (HBV، HCV، HIV)، دواها (Levamisole در کوکائین، Propylthiouracil)، آمبولی کلسترول، SLE و Cryoglobulinaemia.
+
+### معاینات لابراتواری بنیادی
+
+CBC، کریاتینین، **معاینهٔ ادرار با میکروسکوپ** (RBC cast)، CRP/ESR، **ANCA (PR3 و MPO)**، Anti-GBM، C3/C4، ANA، HBV/HCV، کشت خون، و عکس یا CT صدر. طبق EULAR 2022، **بیوپسی و معاینهٔ ANCA** برای تأیید تشخیص توصیه می‌شوند؛ ANCA منفی Vasculitis را رد نمی‌کند.
+
+### Red Flags — ارجاع همان روز
+
+- کریاتینین رو به افزایش با Haematuria (RPGN) → فصل ۳۷
+- Haemoptysis یا کاهش Hb با انفیلتره‌های ریوی (DAH) → فصل ۲۳ و ۲۲
+- کاهش دید یا سردرد تازه بالای ۵۰ سال (GCA) → فصل ۵۶
+- Mononeuritis multiplex یا ایسکیمی روده
+
+### اصول تداوی ANCA vasculitis (GPA و MPA) — EULAR 2022 (Hellmich، Ann Rheum Dis 2024)
+
+- مرض تهدیدکنندهٔ حیات یا عضو: **Glucocorticoid با دوز بلند + Rituximab یا Cyclophosphamide**.
+- دوز Glucocorticoid به‌تدریج کم شود تا در **۴–۵ ماه به ۵ mg Prednisolone در روز** برسد.
+- **Avacopan** برای کم ساختن مصرف Glucocorticoid در نظر گرفته می‌شود.
+- **Plasma exchange** در RPGN «در نظر گرفته می‌شود» — تصمیم متخصص است و معمول نیست.
+- نگهداری Remission: **Rituximab**؛ Azathioprine یا Methotrexate بدیل‌ها اند.
+- EGPA عودکننده یا مقاوم: **Mepolizumab**.
+- دوز شروع Glucocorticoid و رژیم Rituximab/Cyclophosphamide در این کتاب نیامده است: این تداوی فقط در مرکز متخصص شروع می‌شود و جدول دوز رهنمود از متن اولیه بازخوانی نشده است (SD-101).
+
+### پیگیری
+
+کریاتینین، ادرار و CBC در هر مراجعه؛ پیشگیری Pneumocystis و بررسی انتانات در مریضی که ایمونوسپرسیف می‌گیرد، به تصمیم متخصص؛ عود شایع است.
+
 ## ⚠️ تب در مریض SLE: Flare یا انتان؟
 **مهم‌ترین تصمیم روزمره:**
 - **انتان را اول رد کن.** مریض سرکوب ایمنی است و Steroid بیشتر برای انتان کشنده است.
@@ -21420,6 +21463,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 ## 📚 References
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
 2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
+3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
 
 
 # فصل ۷۵ — نقرس و Osteoarthritis
@@ -23072,7 +23116,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 |---|---|---|
 | **انتانی** | **TB** (به ویژه **خارج ریوی**: عقده، بطن، استخوان، Miliary)، **Brucellosis**، **Typhoid**، **ابسه** (کبد — Amoebic، و Hydatid انتانی)، **Endocarditis**، **HIV** و انتانات فرصت‌طلب، ملاریا (در مسافرین مناطق Endemic)، **Leishmaniasis احشایی** (نادر) | ۱۹، ۶۹، ۳۴، ۱۲، ۷۰، ۶۸ |
 | **سرطان** | **Lymphoma**، Leukaemia، سرطان گرده، کبد | ۶۵، ۶۳ |
-| **التهابی** | **Still's disease** کاهلان، **SLE**، **Giant cell arteritis** (بالای ۵۰)، Vasculitis، IBD | ۷۴، ۵۶، ۲۸ |
+| **التهابی** | **Still's disease** کاهلان، **SLE**، **Giant cell arteritis** (بالای ۵۰)، Vasculitis، IBD | ۷۴ (SLE و Vasculitis)، ۵۶ (GCA)، ۲۸ |
 | **دیگر** | **تب دوایی**، DVT و PE مکرر، Thyroiditis، **تب ساختگی** | ۱۴، ۴۸ |
 
 **قاعدهٔ افغانستان: تب طولانی = TB یا Brucella تا خلاف آن ثابت شود** — و **Lymphoma** را همیشه در نظر داشته باش.
@@ -23907,7 +23951,7 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 
 - Van Gelder IC, Rienstra M, et al. 2024 ESC Guidelines for the management of atrial fibrillation (with EACTS). Eur Heart J 2024;45(36):3314–3414. — **منبع جدول دوز DOAC (Table 11)، CHA₂DS₂-VA، هدف Rate < ۱۱۰ و AF-CARE.**
 - Joglar JA, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation. Circulation 2024;149:e1–e156. — **منبع جدول دواهای کنترول Rate (Table 21)** و دوزهای Amiodarone.
-- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. — **منبع دوزهای Adenosine، Verapamil، Diltiazem، Esmolol، Metoprolol، Amiodarone، Magnesium و Atropine، و الگوریتم‌های تاکیکاردی/برادیکاردی.**
+- Soar J, et al. European Resuscitation Council Guidelines 2021: Adult advanced life support. Resuscitation 2021;161:115–151. (سابقه؛ جدول دوز فصل اکنون از ERC 2025 است.)
 - Resuscitation Council UK. Adult tachycardia and bradycardia algorithms, 2021.
 - European Resuscitation Council. **European Resuscitation Council Guidelines 2025: Adult Advanced Life Support.** Resuscitation. 2025 (PII S0300-9572(25)00281-3). — **الگوریتم‌های تاکی‌اریتمی و برادیکاردی پیرامون ایست؛ متن «Concise guidelines» خوانده شد ۲۰۲۶-۰۹-۲۵.**
 - ANZCOR Guideline 11.9 — Managing Acute Dysrhythmias (Adrenaline infusion ۲–۱۰ mcg/min در برادیکاردی).
@@ -24600,10 +24644,11 @@ CCHF در افغانستان **اندمیک** است. قضایا به ویژه �
 2. Fraenkel L, Bathon JM, England BR, et al. 2021 American College of Rheumatology guideline for the treatment of rheumatoid arthritis. *Arthritis Care Res.* 2021;73(7):924–939. (از خلاصه‌ها → SD-58.)
 3. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an ACR/EULAR collaborative initiative. *Arthritis Rheum.* 2010;62(9):2569–2581. (خوانده نشد → SD-58.)
 
-## فصل ۷۴ — Systemic lupus erythematosus (SLE)
+## فصل ۷۴ — Systemic lupus erythematosus (SLE) و Vasculitis سیستمیک
 
 1. Fanouriakis A, Kostopoulou M, Andersen J, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. *Ann Rheum Dis.* 2024;83(1):15–29.
 2. Aringer M, Costenbader K, Daikh D, et al. 2019 EULAR/ACR classification criteria for systemic lupus erythematosus. *Ann Rheum Dis.* 2019;78:1151–1159. (خوانده نشد → SD-59.)
+3. Hellmich B, et al. EULAR recommendations for the management of ANCA-associated vasculitis: 2022 update. Ann Rheum Dis 2024;83:30–47. doi:10.1136/ard-2022-223764
 
 ## فصل ۷۵ — نقرس و Osteoarthritis
 
