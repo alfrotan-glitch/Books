@@ -433,3 +433,8 @@ VERIFIED (Hypopituitarism 2016): بحران ثانوی ۵۰–۱۰۰ mg HC (اخ
 - VERIFIED (BSG 2021 متن اولیه در Gut): یک Tablet در روز Ferrous sulfate/fumarate/gluconate؛ در عدم تحمل یک روز در میان؛ Ferritin ۱۵/۳۰/۴۵/۱۵۰؛ Hb +۱۰ g/L در ۲ هفته؛ Coeliac ۳–۵ فیصد؛ وریدی در منع/عدم تأثیر/عدم تحمل.
 - VERIFIED (AGA 2020): Ferritin کمتر از ۴۵ (Sens ۸۵، Spec ۹۲)؛ Bidirectional endoscopy قوی در مرد و پس از یائسگی، مشروط پیش از یائسگی.
 - ثانوی (SD-47): Hydroxocobalamin ۱ mg IM سه بار در هفته ۲ هفته / یک روز در میان با علایم عصبی؛ نگهداری ۲–۳ ماه / ۲ ماه.
+
+## فصل ۵۵ — همولیتیک
+- VERIFIED (WHO G6PD policy brief + WHO PQ SmPC MA176 2024): Primaquine ۰.۲۵–۰.۵ mg/kg ×۱۴ روز (بالغ ۵۰–۱۰۰ kg: ۱۵ mg)؛ ۰.۵ mg/kg ×۷ روز (WHO 2022)؛ کمبود: ۰.۷۵ mg/kg هفته‌وار ×۸ هفته (حد اکثر ۴۵ mg)؛ حد ۳۰ فیصد؛ زنان heterozygous؛ منع: حاملگی، کمتر از ۶ ماه، شیردهی.
+- VERIFIED (Jäger 2020 متن اولیه): Prednisolone ۱ mg/kg؛ بیشتر از ۱–۱.۵ فایده ندارد؛ کاهش از هفتهٔ ۲–۳؛ قطع ۳–۶ ماه؛ Rituximab خط دوم ترجیحی؛ خطر VTE.
+- ثانوی (SD-48): Rituximab ۳۷۵ mg/m² ×۴ یا ۱ g روز ۱ و ۱۵.

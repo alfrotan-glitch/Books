@@ -84,3 +84,8 @@
 1. دو کیس با اشتباه مشترک «دوا بدون چرا»؛ هر دو بسته شد.
 2. Compound: Reticulocyte (۵۳)، Metformin (۴۶)، PPI (۲۶)، Coeliac (۳۵)، Hypothyroidism (۴۹)؛ عادت محلی مواد غایطه برای Hookworm.
 3. زبان: اسکنر و grep دستی پاک.
+
+### فصل ۵۵ — همولیتیک
+1. کیس احمد (Primaquine/G6PD) — درس محلی Vivax؛ بسته شد.
+2. Compound: Reticulocyte (۵۳)، Dipstick بدون کریوه (۳۶، ۳۸)، حفاظت استخوان Steroid (۵۱)، HBV پیش از Rituximab (۳۲)؛ آماده‌سازی فصل ۵۷ و ۶۱.
+3. زبان: اسکنر و grep دستی پاک.
