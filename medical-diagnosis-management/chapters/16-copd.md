@@ -56,6 +56,8 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 | **۲ یا بیشتر تشدید متوسط، یا ۱ یا بیشتر تشدید با بستر در شفاخانه** | **گروه E** | **گروه E** |
 
 - **CAT (COPD Assessment Test):** ۸ سؤال، امتیاز ۰–۴۰.
+
+> 🔄 **CURRENTNESS NOTE — GOLD 2026:** گزارش GOLD 2026 معیارهای گروه A، B و E را از نو تعریف کرده، بخش تازهٔ **فعالیت مرض (Disease activity)** افزوده و می‌گوید **یک تشدید متوسط** کافی است تا تشدید تداوی ملاحظه شود (هدف: هیچ تشدید). فصل تشدید (شدت بر اساس پیشنهاد Rome) هم کاملاً بازنویسی شده. جدول بالا هنوز بر GOLD 2025 استوار است، چون متن کامل 2026 برای مطابقت خط به خط دستیاب نشد (SD-93).
 - **Pre-COPD / PRISm:** اعراض یا تغییرات ساختاری با اسپیرومتری نورمال، یا FEV₁/FVC نورمال با FEV₁ پایین — در معرض خطر COPD.
 
 ### ج) تصنیف تشدید (ECOPD — Rome proposal، GOLD 2025)
@@ -368,6 +370,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **تشدید دوم در ۸ هفته** ← ارزیابی مجدد تشخیص، تداوی و امراض همراه.
 
 ## 📚 References
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
 
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.

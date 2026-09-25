@@ -2043,6 +2043,8 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 | **Atorvastatin** | **۸۰ mg** | PO | OD (شب) | مادام‌العمر (High-intensity) |
 | **Rosuvastatin** | **۲۰–۴۰ mg** | PO | OD | جایگزین |
 
+- **ACC/AHA 2025:** Ezetimibe را می‌توان هم‌زمان با Statin شروع کرد. اگر با بیشترین دوز قابل تحمل Statin هنوز LDL ۷۰ mg/dL (۱.۸ mmol/L) یا بالاتر باشد، یک دوای غیر-Statin (Ezetimibe، PCSK9 inhibitor، Inclisiran، Bempedoic acid) توصیه می‌شود؛ هدف مفصل LDL در فصل ۵۲.
+
 **ACEI / ARB (LVEF < ۴۰٪ / HTN / DM / anterior MI):**
 | دوا | دوز شروع | راه | تکرار | یادداشت |
 |---|---|---|---|---|
@@ -2137,7 +2139,7 @@ CXR ارزان‌ترین و در دسترس‌ترین معاینهٔ تصوی�
 
 - Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - ESC 2023 Guidelines for the Management of Acute Coronary Syndromes.
-- AHA/ACC 2014 (2023 Update) STEMI / NSTEMI Guidelines.
+- Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".
@@ -4754,6 +4756,8 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 | **۲ یا بیشتر تشدید متوسط، یا ۱ یا بیشتر تشدید با بستر در شفاخانه** | **گروه E** | **گروه E** |
 
 - **CAT (COPD Assessment Test):** ۸ سؤال، امتیاز ۰–۴۰.
+
+> 🔄 **CURRENTNESS NOTE — GOLD 2026:** گزارش GOLD 2026 معیارهای گروه A، B و E را از نو تعریف کرده، بخش تازهٔ **فعالیت مرض (Disease activity)** افزوده و می‌گوید **یک تشدید متوسط** کافی است تا تشدید تداوی ملاحظه شود (هدف: هیچ تشدید). فصل تشدید (شدت بر اساس پیشنهاد Rome) هم کاملاً بازنویسی شده. جدول بالا هنوز بر GOLD 2025 استوار است، چون متن کامل 2026 برای مطابقت خط به خط دستیاب نشد (SD-93).
 - **Pre-COPD / PRISm:** اعراض یا تغییرات ساختاری با اسپیرومتری نورمال، یا FEV₁/FVC نورمال با FEV₁ پایین — در معرض خطر COPD.
 
 ### ج) تصنیف تشدید (ECOPD — Rome proposal، GOLD 2025)
@@ -5066,6 +5070,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **تشدید دوم در ۸ هفته** ← ارزیابی مجدد تشخیص، تداوی و امراض همراه.
 
 ## 📚 References
+- Global Initiative for Chronic Obstructive Lung Disease. GOLD 2026 Report (summary of changes). goldcopd.org.
 
 - Global Initiative for Chronic Obstructive Lung Disease. **Global Strategy for the Diagnosis, Management, and Prevention of COPD — 2025 Report** و **Pocket Guide 2025** (گروه‌های ABE؛ LABA+LAMA برای B و E؛ سه‌گانه اگر BEC ۳۰۰ یا بیشتر؛ تداوی پیگیری با آستانه‌های ۱۰۰ و ۳۰۰؛ Ensifentrine و Dupilumab؛ واکسین RSV). goldcopd.org.
 - Leuppi JD, et al. **Short-term vs conventional glucocorticoid therapy in acute exacerbations of COPD (REDUCE).** JAMA. 2013;309:2223–2231.
@@ -5664,6 +5669,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 
 #### ۴. کورتیکوستیروئید در CAP شدید
 - **ATS/IDSA 2019:** روتین توصیه نمی‌شود (به جز در شوک سپتیک مقاوم).
+- **ATS 2025 (رهنمود تازهٔ CAP، جولای 2025):** برای مریض بستری با **CAP شدید** کورتیکوستیروئید سیستمیک پیشنهاد می‌شود (توصیهٔ مشروط)، **به جز پنومونی انفلونزا**؛ در CAP غیرشدید داده نشود (توصیهٔ قوی). احتیاط: کنترول ناقص شکر، خونریزی تازهٔ هضمی، Aspergillus.
 - **شواهد جدیدتر (CAPE COD، NEJM 2023) و رهنمود SCCM 2024:** در **CAP شدید در ICU** (نیاز به تهویهٔ میخانیکی یا NIV/HFNO با PaO₂/FiO₂ کمتر از ۳۰۰) **Hydrocortisone** مرگ‌ومیر ۲۸ روزه را کم کرد.
   - **رژیم CAPE COD:** **Hydrocortisone ۲۰۰ mg/روز IV** (انفیوژن دوامدار) برای ۴ روز؛ اگر بهبود یافت: ۱۰۰ mg/روز برای ۲ روز و ۵۰ mg/روز برای ۲ روز (مجموعاً **۸ روز**)؛ در غیر آن ۲۰۰ mg/روز برای ۷ روز و سپس کاهش (مجموعاً **۱۴ روز**).
   - ⚠️ **استثناها:** پنومونی **انفلونزایی** (ستیروئید زیان‌آور)، **سل** یا فنگس فعال، شوک سپتیک که پیش از آن ستیروئید گرفته. **در افغانستان پیش از ستیروئید، سل را در نظر بگیر.**
@@ -5769,6 +5775,7 @@ COPD یک مرض **قابل پیشگیری و قابل تداوی** است — �
 - ⚠️ **هایپوکسمی شدید با CXR تقریباً نورمال در مریض HIV** ← PCP.
 
 ## 📚 References
+- Jones BE, Ramirez JA, Oren E, et al. Diagnosis and Management of Community-Acquired Pneumonia. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2025; doi:10.1164/rccm.202507-1692ST.
 
 - Metlay JP, et al. **Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the ATS and IDSA.** Am J Respir Crit Care Med. 2019;200:e45–e67 (رژیم‌های سرپایی: Amoxicillin ۱ g سه بار، Doxycycline ۱۰۰ mg دو بار، ماکرولاید در مقاومت کمتر از ۲۵ فیصد؛ بستری: Ceftriaxone ۱–۲ g + Azithromycin ۵۰۰ mg؛ Ampicillin/Sulbactam ۱.۵–۳ g هر ۶ ساعت؛ حد اقل ۵ روز؛ عدم پوشش روتین انیروب در آسپیراسیون؛ حذف HCAP).
 - Kalil AC, et al. **Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the IDSA and ATS.** Clin Infect Dis. 2016;63:e61–e111 (رژیم‌های تجربی؛ ۷ روز).

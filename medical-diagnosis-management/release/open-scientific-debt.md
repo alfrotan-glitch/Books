@@ -103,6 +103,8 @@
 | SD-90 | 9 | رهنمود ESC/EACTS 2025 دریچه: سن TAVI ≥۷۰ و مداخلهٔ زود در AS بی‌علامت درج شد (Medscape/PCR خلاصه)؛ آستانه‌های MR/AR هنوز از 2021/2020 است — متن کامل 2025 خط به خط بررسی نشده | CURRENTNESS NOTE |
 | SD-91 | 14 | رهنمود AHA/ACC 2026 PE (Category A–E) منتشر شده؛ فصل هنوز بر ESC 2019 استوار است؛ یادداشت تازگی درج شد، زیرگروه‌ها و توصیه‌های تداوی 2026 خط به خط مطابقت نشده | CURRENTNESS NOTE |
 | SD-92 | 7 | تازه‌سازی ESC 2023 HF (SGLT2i در HFmrEF/HFpEF، IV iron، Finerenone در T2DM+CKD) از خلاصهٔ ACC تأیید و درج شد؛ متن کامل ESC و دوز IV iron بررسی نشده | UNVERIFIED |
+| SD-93 | 16 | GOLD 2026: تعریف تازهٔ گروه‌های A/B/E، آستانهٔ یک تشدید متوسط، شدت تشدید (Rome) — فقط خلاصه‌ها دیده شد؛ جدول فصل هنوز GOLD 2025 است | CURRENTNESS NOTE |
+| SD-94 | 8, 18 | ACC/AHA 2025 ACS (Ezetimibe/غیر-Statin در LDL ≥۷۰) و ATS 2025 CAP (کورتیکوستیروئید در CAP شدید) از خلاصه‌ها/چکیدهٔ رسمی درج شد؛ متن کامل و دوز کورتیکوستیروئید ATS خط به خط بررسی نشده | UNVERIFIED |
 
 ## B. Terminology debt
 

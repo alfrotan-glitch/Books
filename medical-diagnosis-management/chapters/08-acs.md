@@ -208,6 +208,8 @@
 | **Atorvastatin** | **۸۰ mg** | PO | OD (شب) | مادام‌العمر (High-intensity) |
 | **Rosuvastatin** | **۲۰–۴۰ mg** | PO | OD | جایگزین |
 
+- **ACC/AHA 2025:** Ezetimibe را می‌توان هم‌زمان با Statin شروع کرد. اگر با بیشترین دوز قابل تحمل Statin هنوز LDL ۷۰ mg/dL (۱.۸ mmol/L) یا بالاتر باشد، یک دوای غیر-Statin (Ezetimibe، PCSK9 inhibitor، Inclisiran، Bempedoic acid) توصیه می‌شود؛ هدف مفصل LDL در فصل ۵۲.
+
 **ACEI / ARB (LVEF < ۴۰٪ / HTN / DM / anterior MI):**
 | دوا | دوز شروع | راه | تکرار | یادداشت |
 |---|---|---|---|---|
@@ -302,7 +304,7 @@
 
 - Byrne RA, et al. **2023 ESC Guidelines for the management of acute coronary syndromes.** Eur Heart J. 2023;44:3720–3826.
 - ESC 2023 Guidelines for the Management of Acute Coronary Syndromes.
-- AHA/ACC 2014 (2023 Update) STEMI / NSTEMI Guidelines.
+- Rao SV, et al. 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes. Circulation 2025;151 (doi:10.1161/CIR.0000000000001309); replaces the 2013 STEMI and 2014 NSTE-ACS guidelines.
 - Harrison's Principles of Internal Medicine, 21st Ed, Ch. 255–258.
 - Kumar & Clark's Clinical Medicine, 10th Ed, Ch. 23.
 - UpToDate: "STEMI: Treatment" و "NSTEMI: Initial Management".

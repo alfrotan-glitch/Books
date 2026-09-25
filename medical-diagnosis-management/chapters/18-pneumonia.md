@@ -199,6 +199,7 @@
 
 #### ۴. کورتیکوستیروئید در CAP شدید
 - **ATS/IDSA 2019:** روتین توصیه نمی‌شود (به جز در شوک سپتیک مقاوم).
+- **ATS 2025 (رهنمود تازهٔ CAP، جولای 2025):** برای مریض بستری با **CAP شدید** کورتیکوستیروئید سیستمیک پیشنهاد می‌شود (توصیهٔ مشروط)، **به جز پنومونی انفلونزا**؛ در CAP غیرشدید داده نشود (توصیهٔ قوی). احتیاط: کنترول ناقص شکر، خونریزی تازهٔ هضمی، Aspergillus.
 - **شواهد جدیدتر (CAPE COD، NEJM 2023) و رهنمود SCCM 2024:** در **CAP شدید در ICU** (نیاز به تهویهٔ میخانیکی یا NIV/HFNO با PaO₂/FiO₂ کمتر از ۳۰۰) **Hydrocortisone** مرگ‌ومیر ۲۸ روزه را کم کرد.
   - **رژیم CAPE COD:** **Hydrocortisone ۲۰۰ mg/روز IV** (انفیوژن دوامدار) برای ۴ روز؛ اگر بهبود یافت: ۱۰۰ mg/روز برای ۲ روز و ۵۰ mg/روز برای ۲ روز (مجموعاً **۸ روز**)؛ در غیر آن ۲۰۰ mg/روز برای ۷ روز و سپس کاهش (مجموعاً **۱۴ روز**).
   - ⚠️ **استثناها:** پنومونی **انفلونزایی** (ستیروئید زیان‌آور)، **سل** یا فنگس فعال، شوک سپتیک که پیش از آن ستیروئید گرفته. **در افغانستان پیش از ستیروئید، سل را در نظر بگیر.**
@@ -304,6 +305,7 @@
 - ⚠️ **هایپوکسمی شدید با CXR تقریباً نورمال در مریض HIV** ← PCP.
 
 ## 📚 References
+- Jones BE, Ramirez JA, Oren E, et al. Diagnosis and Management of Community-Acquired Pneumonia. An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2025; doi:10.1164/rccm.202507-1692ST.
 
 - Metlay JP, et al. **Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the ATS and IDSA.** Am J Respir Crit Care Med. 2019;200:e45–e67 (رژیم‌های سرپایی: Amoxicillin ۱ g سه بار، Doxycycline ۱۰۰ mg دو بار، ماکرولاید در مقاومت کمتر از ۲۵ فیصد؛ بستری: Ceftriaxone ۱–۲ g + Azithromycin ۵۰۰ mg؛ Ampicillin/Sulbactam ۱.۵–۳ g هر ۶ ساعت؛ حد اقل ۵ روز؛ عدم پوشش روتین انیروب در آسپیراسیون؛ حذف HCAP).
 - Kalil AC, et al. **Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the IDSA and ATS.** Clin Infect Dis. 2016;63:e61–e111 (رژیم‌های تجربی؛ ۷ روز).
