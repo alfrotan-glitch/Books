@@ -352,3 +352,7 @@
 | سودیم غذایی | کمتر از ۲٫۰ g/روز (کمتر از ۹۰ mmol) | KDIGO 2021 PP 1.4.2 | **VERIFIED** |
 | Warfarin/LMWH وقایوی | اندیکاسیون بر پایهٔ Albumin (BCG <۲۵ / BCP <۲۰ g/L) و خطر خونریزی؛ دوز در فصل ترومبوآمبولی | KDIGO 2021 Fig. 38 | اندیکاسیون VERIFIED؛ دوز ندارد |
 | Loop diuretic، ایمیونوساپرسیف‌ها | — | — | **UNVERIFIED** (SD-17) |
+
+### فصل ۳۸ — AKI (۲۰۲۶-۰۹-۲۵)
+
+هیچ دوز تازه وارد نشد. دوزهای Hyperkalaemia به فصل ۴۲ ارجاع شد. دوز Furosemide در اضافه‌بار حجم = UNVERIFIED (SD-17). توصیه‌های «نکن» KDIGO 2012 (دیورتیک، Dopamine، Fenoldopam، ANP) = **VERIFIED** (متن رهنمود و CSN commentary).

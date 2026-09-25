@@ -29,6 +29,8 @@
 | SD-17 | ۳۷ | دوز Loop diuretic در اذیمای نفروتیک (KDIGO دوز ثابت نمی‌دهد)؛ دوزهای MN/FSGS/IgAN (Rituximab، CNI، Cyclophosphamide، Sparsentan، Nefecon، SGLT2i) و RPGN عمداً وارد نشد | UNVERIFIED — OPEN |
 | SD-18 | ۳۷ | رژیم Prednisolone در MCD: متن اولیه KDIGO 2012 Ch.5 = VERIFIED؛ ادامهٔ همان رژیم در KDIGO 2021 فقط از مرور Karger تأیید شد (متن کامل KDIGO 2021 Ch.5 خوانده نشد) | CURRENTNESS NOTE |
 | SD-19 | ۳۷ | Aspirin ۷۵ mg در نفروتیک: از UKKA commentary 2023 (تفسیر رسمی ملی بر KDIGO 2021)؛ Figure 38 KDIGO از takeaways تأیید شد | VERIFIED (UKKA) |
+| SD-20 | ۳۸ | STARRT-AKI و SMART: نتایج از خلاصه‌های ثانوی؛ متن اصلی NEJM خوانده نشد (در فصل بدون عدد فیصدی نوشته شد) | UNVERIFIED — OPEN |
+| SD-21 | ۳۸ | فاصلهٔ پیگیری پس از AKI در KDIGO 2012 (Rec 2.5) از متن اولیه تأیید نشد؛ عدد حذف شد | UNVERIFIED — OPEN |
 | SD-06 | ۰۳/۰۶/۱۱ | false positive های chapter_qa (L91، L303، L256) | OPEN (ابزار) |
 
 ## B. Terminology debt (glossary audit — تغییر گسترده ممنوع تا تصمیم مؤلف)
@@ -49,3 +51,11 @@
 - **VERIFIED**: منبع اولیه بررسی شده و ادعا تأیید شده.
 - **CURRENTNESS NOTE**: رهنمود قبلی هنوز قابل استفاده است، اما نسخهٔ تازه، update یا draft وجود دارد و وضعیت آن ثبت شده. رهنمود یا draft تازه به تنهایی به معنای غلط بودن رهنمود قبلی نیست.
 - TD-06 (دریچه‌ای): **ACCEPTED** — متن تغییر نمی‌کند؛ اختلاف «تریکسپید/تریکوسپید» فقط terminology debt برای glossary نهایی است.
+
+## TC-01 — اصلاح اصطلاحی تأییدشده: Tricuspid → «ترایکسپید» (۲۰۲۶-۰۹-۲۵)
+
+- تصمیم مؤلف: تنها شکل مجاز برای Tricuspid = **ترایکسپید**.
+- ۱۸ وقوع در فصل‌های ۰۵، ۰۷، ۱۰ (Cavo-tricuspid isthmus)، ۱۱، ۱۲، ۱۴، ۲۱، ۲۴، ۳۰ یکی‌یکی بررسی شد؛ همه به Tricuspid اشاره داشتند و اصلاح شدند.
+- glossary: ردیف «ترایکسپید» با forbidden forms «تریکوسپید|تریکسپید» اضافه شد؛ scanner آن‌ها را از این به بعد می‌گیرد.
+- وقوع‌های باقی‌مانده فقط در سوابق تاریخی ممیزی (TD-04، TD-06 و همین دفتر) است و **عمداً** حفظ شد تا تاریخچهٔ تصمیم قابل ردیابی بماند.
+- بدهی اصطلاحی TD-06 دربارهٔ املای Tricuspid: **VERIFIED — CLOSED** (تصمیم مؤلف).
