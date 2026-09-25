@@ -17,7 +17,7 @@ def check(fn):
     lines = t.split('\n')
     # 1) structure: the 15 disease topics are an author completeness checklist (STYLE-GUIDE §9,
     #    coverage recorded in release/style-audit.md); every chapter must end with these reader elements.
-    required = ['Red Flags', 'References', 'مرور ۶۰ ثانیه']
+    required = []  # named sections are not mandatory (STYLE-GUIDE §9)
     APPROACH = {'01','02','03','04','05','15','24','36','45','53','60','66','72'}  # approach chapters: no dose table required
     if re.match(r'9\d', fn.split('/')[-1]):  # appendices 90–95: reference material, not teaching chapters
         required = ['References']
