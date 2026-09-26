@@ -9,7 +9,7 @@ import datetime
 import logging
 from pathlib import Path
 import time
-from typing import Callable, Dict, List, Optional
+from typing import Callable, Dict, List, Optional, Tuple
 import pymupdf
 
 from src.config import ExtractionConfig, default_config
@@ -83,10 +83,12 @@ class BookPipeline:
         pdf_path: Path,
         progress_callback: Optional[Callable[[int, int, str], None]] = None,
         force_reprocess: bool = False,
+        should_cancel_cb: Optional[Callable[[], bool]] = None,
+        page_range: Optional[Tuple[int, int]] = None,
     ) -> BookReport:
         """
         Processes an entire PDF book with streaming page processing, fault tolerance,
-        and resumable checkpointing.
+        resumable checkpointing, page range filtering, and user cancellation support.
         """
         start_time = time.time()
         pdf_path = Path(pdf_path)
@@ -111,8 +113,23 @@ class BookPipeline:
             doc_meta = self.forensics_engine.analyze_document_metadata(reader.doc, pdf_path)
             self.logger.info(f"Document Info: {total_pages} pages, Version: {doc_meta.get('pdf_version')}")
 
+            start_page = 1
+            end_page = total_pages
+            if page_range:
+                start_page = max(1, page_range[0])
+                end_page = min(total_pages, page_range[1])
+                self.logger.info(f"Processing page range: {start_page} to {end_page}")
+
+            was_canceled = False
+
             # Stream pages one by one
-            for page_num, page in reader.stream_pages(1, total_pages):
+            for page_num, page in reader.stream_pages(start_page, end_page):
+                # Check for cancellation signal
+                if should_cancel_cb and should_cancel_cb():
+                    self.logger.info(f"Cancellation requested by user at page {page_num}. Halting pipeline.")
+                    was_canceled = True
+                    break
+
                 if page_num in completed_pages and not force_reprocess:
                     if progress_callback:
                         progress_callback(page_num, total_pages, f"Page {page_num} loaded from checkpoint")

@@ -18,12 +18,18 @@ if not exist "logs" mkdir "logs"
 if not exist "checkpoints" mkdir "checkpoints"
 echo   [تأیید] پوشه‌های inbox، output، logs و checkpoints آماده شدند.
 
-:: ۲. بررسی پایتون سیستم (جستجوی صریح پایتون ۳.۱۲ و ۳.۱۱ پایدار)
+:: ۲. بررسی پایتون سیستم (جستجوی صریح پایتون ۳.۱۳، ۳.۱۲ و ۳.۱۱ پایدار)
 echo.
 echo [۲/۴] در حال بررسی نسخه پایتون...
 set SYSTEM_PYTHON=
 
-if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
+if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python313\python.exe""
+) else if exist "C:\Program Files\Python313\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python313\python.exe""
+) else if exist "%ProgramFiles%\Python313\python.exe" (
+    set "SYSTEM_PYTHON="%ProgramFiles%\Python313\python.exe""
+) else if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
     set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python312\python.exe""
 ) else if exist "C:\Program Files\Python312\python.exe" (
     set "SYSTEM_PYTHON="C:\Program Files\Python312\python.exe""
@@ -36,15 +42,20 @@ if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
 ) else (
     where py >nul 2>nul
     if !errorlevel! equ 0 (
-        py -3.12 -V >nul 2>nul
+        py -3.13 -V >nul 2>nul
         if !errorlevel! equ 0 (
-            set "SYSTEM_PYTHON=py -3.12"
+            set "SYSTEM_PYTHON=py -3.13"
         ) else (
-            py -3.11 -V >nul 2>nul
+            py -3.12 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "SYSTEM_PYTHON=py -3.11"
+                set "SYSTEM_PYTHON=py -3.12"
             ) else (
-                set "SYSTEM_PYTHON=py -3"
+                py -3.11 -V >nul 2>nul
+                if !errorlevel! equ 0 (
+                    set "SYSTEM_PYTHON=py -3.11"
+                ) else (
+                    set "SYSTEM_PYTHON=py -3"
+                )
             )
         )
     ) else (
@@ -54,8 +65,7 @@ if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
         ) else (
             echo.
             echo [خطا] پایتون روی این سیستم ویندوز یافت نشد!
-            echo لطفاً نسخه پایدار پایتون ۳.۱۲ را از نشانی زیر نصب نمایید:
-            echo https://www.python.org/downloads/
+            echo لطفاً نسخه پایتون را از نشانی https://www.python.org/downloads/ نصب نمایید.
             pause
             exit /b 1
         )
@@ -84,17 +94,22 @@ echo [۴/۴] در حال نصب پیش‌نیازها و ماژول‌های پ�
 .venv\Scripts\python.exe -m pip install --upgrade pip
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 
+echo.
+echo در حال نصب موتور هوش مصنوعی RapidOCR و OnnxRuntime...
+.venv\Scripts\python.exe -m pip install onnxruntime >nul 2>&1
+.venv\Scripts\python.exe -m pip install --ignore-requires-python "rapidocr-onnxruntime>=1.3.0" >nul 2>&1
+
 :: بررسی وضعیت RapidOCR
 .venv\Scripts\python.exe -c "import rapidocr_onnxruntime" >nul 2>&1
-if !errorlevel! neq 0 (
+if !errorlevel! equ 0 (
+    echo   [تأیید] موتور هوش مصنوعی RapidOCR با موفقیت فعال شد.
+) else (
     echo.
     echo -------------------------------------------------------------------------------
-    echo [توجه در مورد نسخه پایتون]
-    echo بخش‌های بازسازی متن، خوانش، جدول‌ها، دشارژ و وب‌سرور با موفقیت نصب شدند.
-    echo پکیج RapidOCR نیازمند پایتون ۳.۱۰ تا ۳.۱۲ است. در پایتون ۳.۱۴ (نسخه پیش‌نمایش)
-    echo چرخ‌های OnnxRuntime هنوز ارائه نشده است.
-    echo برای استخراج کتاب‌های اسکن‌شده با OCR، پایتون ۳.۱۲ را نصب نمایید:
-    echo https://www.python.org/downloads/
+    echo [اطلاع در مورد OCR]
+    echo اجزای استخراج متن، خوانش، جدول‌ها، دشارژ و وب‌سرور با موفقیت نصب شدند.
+    echo در پایتون ۳.۱۳، موتور RapidOCR فعال است؛ در پایتون ۳.۱۴ (نسخه آزمایشی)،
+    echo چرخ‌های OnnxRuntime هنوز توسط مایکروسافت ارائه نشده است.
     echo -------------------------------------------------------------------------------
     echo.
 )

@@ -17,12 +17,18 @@ if not exist "logs" mkdir "logs"
 if not exist "checkpoints" mkdir "checkpoints"
 echo   [OK] inbox\, output\, debug\, logs\, checkpoints\ created.
 
-:: 2. Locate System Python (explicitly look for Python 3.12 / 3.11 first)
+:: 2. Locate System Python (prefer Python 3.13 / 3.12 / 3.11)
 echo.
 echo [2/4] Detecting Python installation...
 set SYSTEM_PYTHON=
 
-if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
+if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python313\python.exe""
+) else if exist "C:\Program Files\Python313\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python313\python.exe""
+) else if exist "%ProgramFiles%\Python313\python.exe" (
+    set "SYSTEM_PYTHON="%ProgramFiles%\Python313\python.exe""
+) else if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
     set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python312\python.exe""
 ) else if exist "C:\Program Files\Python312\python.exe" (
     set "SYSTEM_PYTHON="C:\Program Files\Python312\python.exe""
@@ -35,15 +41,20 @@ if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
 ) else (
     where py >nul 2>nul
     if !errorlevel! equ 0 (
-        py -3.12 -V >nul 2>nul
+        py -3.13 -V >nul 2>nul
         if !errorlevel! equ 0 (
-            set "SYSTEM_PYTHON=py -3.12"
+            set "SYSTEM_PYTHON=py -3.13"
         ) else (
-            py -3.11 -V >nul 2>nul
+            py -3.12 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "SYSTEM_PYTHON=py -3.11"
+                set "SYSTEM_PYTHON=py -3.12"
             ) else (
-                set "SYSTEM_PYTHON=py -3"
+                py -3.11 -V >nul 2>nul
+                if !errorlevel! equ 0 (
+                    set "SYSTEM_PYTHON=py -3.11"
+                ) else (
+                    set "SYSTEM_PYTHON=py -3"
+                )
             )
         )
     ) else (
@@ -52,7 +63,7 @@ if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
             set "SYSTEM_PYTHON=python"
         ) else (
             echo [ERROR] Python was not detected in PATH!
-            echo Please install Python 3.12 from: https://www.python.org/downloads/
+            echo Please install Python from: https://www.python.org/downloads/
             pause
             exit /b 1
         )
@@ -81,17 +92,22 @@ echo [4/4] Installing dependencies...
 .venv\Scripts\python.exe -m pip install --upgrade pip
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 
-:: Check if rapidocr installed or if Python 3.14 was used
+echo.
+echo [INFO] Installing ONNX Runtime and RapidOCR for AI text recognition...
+.venv\Scripts\python.exe -m pip install onnxruntime >nul 2>&1
+.venv\Scripts\python.exe -m pip install --ignore-requires-python "rapidocr-onnxruntime>=1.3.0" >nul 2>&1
+
+:: Check if rapidocr installed
 .venv\Scripts\python.exe -c "import rapidocr_onnxruntime" >nul 2>&1
-if !errorlevel! neq 0 (
+if !errorlevel! equ 0 (
+    echo   [OK] RapidOCR AI Engine is installed and ready!
+) else (
     echo.
     echo -------------------------------------------------------------------------------
-    echo [NOTE ON PYTHON VERSION]
+    echo [NOTE ON OCR]
     echo Core extraction, reading order, and dashboard installed successfully!
-    echo RapidOCR requires Python 3.10 - 3.12. If running on Python 3.14 (pre-release),
-    echo onnxruntime wheels are not yet published by Microsoft for Python 3.14.
-    echo To enable scanned book OCR, please install Python 3.12:
-    echo https://www.python.org/downloads/
+    echo If running Python 3.14 (pre-release), onnxruntime wheels are not yet available.
+    echo On Python 3.13, RapidOCR runs with full AI accuracy.
     echo -------------------------------------------------------------------------------
     echo.
 )

@@ -23,17 +23,17 @@ if exist ".venv\Scripts\python.exe" (
 ) else (
     where py >nul 2>nul
     if !errorlevel! equ 0 (
-        py -3.12 -c "exit(0)" >nul 2>nul
+        py -3.13 -V >nul 2>nul
         if !errorlevel! equ 0 (
-            set "PYTHON_EXE=py -3.12"
+            set "PYTHON_EXE=py -3.13"
         ) else (
-            py -3.11 -c "exit(0)" >nul 2>nul
+            py -3.12 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "PYTHON_EXE=py -3.11"
+                set "PYTHON_EXE=py -3.12"
             ) else (
-                py -3.10 -c "exit(0)" >nul 2>nul
+                py -3.11 -V >nul 2>nul
                 if !errorlevel! equ 0 (
-                    set "PYTHON_EXE=py -3.10"
+                    set "PYTHON_EXE=py -3.11"
                 ) else (
                     set "PYTHON_EXE=py -3"
                 )

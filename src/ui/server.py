@@ -458,7 +458,13 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             <div class="card">
                 <div class="card-header">
                     <h2>⚙️ وضعیت و پیشرفت زنده پردازش</h2>
-                    <span id="busyBadge" class="badge badge-info">آماده (Idle)</span>
+                    <div style="display: flex; gap: 8px; align-items: center;">
+                        <span id="elapsedBadge" class="badge" style="display: none; background: #1e293b; color: #94a3b8;">زمان: ۰s</span>
+                        <button id="btnCancel" class="btn btn-sm btn-danger" style="display: none;" onclick="cancelCurrentExtraction()">
+                            ⏹ لغو عملیات (Cancel)
+                        </button>
+                        <span id="busyBadge" class="badge badge-info">آماده (Idle)</span>
+                    </div>
                 </div>
 
                 <!-- Progress Bar -->
@@ -618,9 +624,10 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                                 <div class="file-meta">${f.pages} صفحه &bull; ${f.size_mb} مگابایت</div>
                             </div>
                         </div>
-                        <div class="file-actions">
+                        <div class="file-actions" style="display: flex; gap: 6px; align-items: center;">
+                            <input type="text" id="range_${f.name}" placeholder="محدوده (مثلاً 1-20)" style="font-size: 11px; padding: 4px 6px; border-radius: 4px; border: 1px solid var(--border); background: var(--surface-card); color: var(--text); width: 120px;" title="برای استخراج کامل خالی بگذارید، یا بنویسید 1-15">
                             <button class="btn btn-sm btn-primary" onclick="processBook('${f.name}')">
-                                ▶ استخراج متن
+                                ▶ استخراج
                             </button>
                             <button class="btn btn-sm btn-danger" onclick="deleteInboxFile('${f.name}')">
                                 🗑
@@ -650,13 +657,35 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         }
 
         async function processBook(filename) {
+            const rangeElem = document.getElementById(`range_${filename}`);
+            const rangeVal = rangeElem ? rangeElem.value.trim() : '';
             try {
                 const res = await fetch('/api/process', {
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
-                    body: JSON.stringify({ filename: filename })
+                    body: JSON.stringify({ filename: filename, page_range: rangeVal })
                 });
                 const data = await res.json();
+                if (res.ok) {
+                    showToast(`پردازش کتاب ${filename} آغاز شد.`);
+                    checkStatus();
+                } else {
+                    showToast(data.detail || 'خطا در شروع پردازش');
+                }
+            } catch(e) { showToast('خطا: ' + e); }
+        }
+
+        async function cancelCurrentExtraction() {
+            if (!confirm('آیا مطمئن هستید که می‌خواهید فرآیند استخراج متوقف و لغو شود؟')) return;
+            try {
+                const res = await fetch('/api/cancel', { method: 'POST' });
+                const data = await res.json();
+                showToast(data.message || 'درخواست لغو ثبت شد.');
+                document.getElementById('statusMessageText').innerText = 'در حال متوقف‌سازی فرآیند... لطفاً شکیبا باشید.';
+            } catch(e) {
+                showToast('خطا در لغو: ' + e);
+            }
+        }
                 if (res.ok) {
                     showToast(`پردازش کتاب ${filename} آغاز شد.`);
                     checkStatus();
@@ -695,12 +724,18 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     spinner.style.display = 'inline-block';
                     badge.className = 'badge badge-warning';
                     badge.innerText = 'در حال کار (Busy)';
+                    document.getElementById('btnCancel').style.display = 'inline-flex';
+                    const elBadge = document.getElementById('elapsedBadge');
+                    elBadge.style.display = 'inline-block';
+                    elBadge.innerText = `زمان: ${st.elapsed_sec || 0}s`;
                 } else {
                     btnAll.disabled = false;
                     btnAll.style.opacity = '1';
                     spinner.style.display = 'none';
                     badge.className = 'badge badge-info';
                     badge.innerText = 'آماده (Idle)';
+                    document.getElementById('btnCancel').style.display = 'none';
+                    document.getElementById('elapsedBadge').style.display = 'none';
                 }
 
                 document.getElementById('currentBookLabel').innerText = st.current_book ? `کتاب: ${st.current_book}` : 'آماده به کار';
@@ -798,6 +833,9 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                                 <button class="btn btn-sm btn-primary" onclick="previewText('${encodeURIComponent(o.txt_path)}', '${o.book_name}')">
                                     👁 مطالعه
                                 </button>
+                                <button class="btn btn-sm btn-danger" onclick="deleteOutputBook('${o.book_name}')" title="حذف فایل‌های خروجی">
+                                    🗑
+                                </button>
                             </td>
                         </tr>
                     `;
@@ -821,6 +859,23 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 section.scrollIntoView({ behavior: 'smooth' });
             } catch(e) {
                 showToast('خطا در دریافت پیش‌نمایش: ' + e);
+            }
+        }
+
+        async function deleteOutputBook(bookName) {
+            if (!confirm(`آیا از حذف کلیه فایل‌های خروجی کتاب ${bookName} مطمئن هستید؟`)) return;
+            try {
+                const res = await fetch('/api/delete_output', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ book_name: bookName })
+                });
+                if (res.ok) {
+                    showToast(`خروجی‌های کتاب ${bookName} حذف شدند.`);
+                    loadOutputs();
+                }
+            } catch(e) {
+                showToast('خطا در حذف خروجی: ' + e);
             }
         }
 
@@ -904,8 +959,18 @@ async def get_status():
     return state
 
 
+@app.post("/api/cancel")
+async def cancel_process():
+    if not state["is_busy"]:
+        return {"status": "idle", "message": "هیچ فرآیندی در حال اجرا نیست."}
+    state["should_cancel"] = True
+    state["status_message"] = "درخواست لغو فرآیند ثبت شد. سیستم در حال متوقف‌سازی است..."
+    add_log("درخواست لغو فرآیند توسط کاربر ثبت گردید.", "Cancel requested")
+    return {"status": "cancelling", "message": "درخواست لغو با موفقیت ارسال شد."}
+
+
 @app.post("/api/process")
-async def process_single(data: Dict[str, str]):
+async def process_single(data: Dict[str, Any]):
     if state["is_busy"]:
         raise HTTPException(status_code=409, detail="سیستم هم‌اکنون مشغول پردازش کتاب دیگری است.")
 
@@ -917,7 +982,17 @@ async def process_single(data: Dict[str, str]):
     if not pdf_path.exists():
         raise HTTPException(status_code=404, detail="فایل در پوشه ورودی یافت نشد.")
 
-    asyncio.create_task(run_extraction_task(pdf_path))
+    page_range = None
+    page_range_str = data.get("page_range")
+    if page_range_str and "-" in str(page_range_str):
+        try:
+            parts = [int(p.strip()) for p in str(page_range_str).split("-")]
+            if len(parts) == 2 and parts[0] <= parts[1]:
+                page_range = (parts[0], parts[1])
+        except Exception:
+            page_range = None
+
+    asyncio.create_task(run_extraction_task(pdf_path, page_range=page_range))
     return {"status": "started", "filename": filename}
 
 
@@ -934,28 +1009,44 @@ async def process_all():
     return {"status": "started", "count": len(pdfs)}
 
 
-async def run_extraction_task(pdf_path: Path):
+async def run_extraction_task(pdf_path: Path, page_range: Optional[Tuple[int, int]] = None):
     global state
     state["is_busy"] = True
+    state["should_cancel"] = False
     state["current_book"] = pdf_path.name
     state["current_page"] = 0
     state["total_pages"] = 0
     state["start_time"] = time.time()
+    state["elapsed_sec"] = 0.0
     state["page_grid"] = []
-    state["status_message"] = f"شروع بازرسی و تحلیل لایه‌های {pdf_path.name}..."
-    add_log(f"شروع استخراج کتاب {pdf_path.name}", "Started extraction")
+    
+    range_msg = f" (صفحات {page_range[0]} تا {page_range[1]})" if page_range else ""
+    state["status_message"] = f"شروع بازرسی و تحلیل لایه‌های {pdf_path.name}{range_msg}..."
+    add_log(f"شروع استخراج کتاب {pdf_path.name}{range_msg}", "Started extraction")
 
     def progress_cb(page_num: int, total: int, msg: str):
         state["current_page"] = page_num
         state["total_pages"] = total
         state["status_message"] = f"صفحه {page_num} از {total}: {msg}"
 
+    def should_cancel_check() -> bool:
+        return state.get("should_cancel", False)
+
     try:
         pipeline = BookPipeline(default_config)
         loop = asyncio.get_event_loop()
 
         # Run extraction in worker thread so FastAPI remains completely responsive!
-        report = await loop.run_in_executor(None, pipeline.process_pdf, pdf_path, progress_cb, False)
+        report = await loop.run_in_executor(
+            None,
+            lambda: pipeline.process_pdf(
+                pdf_path,
+                progress_cb,
+                force_reprocess=False,
+                should_cancel_cb=should_cancel_check,
+                page_range=page_range,
+            )
+        )
 
         # Build page grid
         grid = []
@@ -977,8 +1068,13 @@ async def run_extraction_task(pdf_path: Path):
 
         state["page_grid"] = grid
         state["completed_books"].append(report.book_name)
-        state["status_message"] = f"استخراج کتاب {pdf_path.name} با موفقیت به پایان رسید."
-        add_log(f"پایان موفقیت‌آمیز استخراج {pdf_path.name} ({report.total_pages} صفحه)", "Extraction finished")
+
+        if state.get("should_cancel"):
+            state["status_message"] = f"فرآیند استخراج {pdf_path.name} بنا به درخواست کاربر لغو گردید."
+            add_log(f"فرآیند استخراج {pdf_path.name} لغو شد.", "Extraction canceled")
+        else:
+            state["status_message"] = f"استخراج کتاب {pdf_path.name} با موفقیت به پایان رسید."
+            add_log(f"پایان موفقیت‌آمیز استخراج {pdf_path.name} ({report.total_pages} صفحه)", "Extraction finished")
 
     except Exception as exc:
         state["last_error"] = str(exc)
@@ -986,6 +1082,7 @@ async def run_extraction_task(pdf_path: Path):
         add_log(f"خطا در پردازش: {exc}", "Error")
     finally:
         state["is_busy"] = False
+        state["should_cancel"] = False
 
 
 async def run_batch_extraction(pdf_list: List[Path]):
@@ -1052,6 +1149,21 @@ async def download_file(path: str):
     if not p.exists() or not p.is_file():
         raise HTTPException(status_code=404, detail="File not found")
     return FileResponse(p, filename=p.name)
+
+
+@app.post("/api/delete_output")
+async def delete_output(data: Dict[str, str]):
+    book_name = data.get("book_name")
+    if not book_name:
+        raise HTTPException(status_code=400, detail="Book name required")
+    default_config.ensure_directories()
+    for f in default_config.output_dir.glob(f"{book_name}*"):
+        try:
+            f.unlink()
+        except Exception:
+            pass
+    add_log(f"خروجی‌های مربوط به کتاب {book_name} حذف گردید.", f"Deleted output {book_name}")
+    return {"status": "deleted"}
 
 
 @app.get("/output/{filename}")
