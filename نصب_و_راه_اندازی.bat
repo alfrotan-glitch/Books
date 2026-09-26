@@ -18,41 +18,47 @@ if not exist "logs" mkdir "logs"
 if not exist "checkpoints" mkdir "checkpoints"
 echo   [تأیید] پوشه‌های inbox، output، logs و checkpoints آماده شدند.
 
-:: ۲. بررسی پایتون سیستم (اولویت با نسخه‌های پایدار ۳.۱۲، ۳.۱۱ و ۳.۱۰)
+:: ۲. بررسی پایتون سیستم (جستجوی صریح پایتون ۳.۱۲ و ۳.۱۱ پایدار)
 echo.
 echo [۲/۴] در حال بررسی نسخه پایتون...
 set SYSTEM_PYTHON=
-where py >nul 2>nul
-if !errorlevel! equ 0 (
-    py -3.12 -c "exit(0)" >nul 2>nul
+
+if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python312\python.exe""
+) else if exist "C:\Program Files\Python312\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python312\python.exe""
+) else if exist "%ProgramFiles%\Python312\python.exe" (
+    set "SYSTEM_PYTHON="%ProgramFiles%\Python312\python.exe""
+) else if exist "%LOCALAPPDATA%\Programs\Python\Python311\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python311\python.exe""
+) else if exist "C:\Program Files\Python311\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python311\python.exe""
+) else (
+    where py >nul 2>nul
     if !errorlevel! equ 0 (
-        set "SYSTEM_PYTHON=py -3.12"
-    ) else (
-        py -3.11 -c "exit(0)" >nul 2>nul
+        py -3.12 -V >nul 2>nul
         if !errorlevel! equ 0 (
-            set "SYSTEM_PYTHON=py -3.11"
+            set "SYSTEM_PYTHON=py -3.12"
         ) else (
-            py -3.10 -c "exit(0)" >nul 2>nul
+            py -3.11 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "SYSTEM_PYTHON=py -3.10"
+                set "SYSTEM_PYTHON=py -3.11"
             ) else (
                 set "SYSTEM_PYTHON=py -3"
             )
         )
-    )
-) else (
-    where python >nul 2>nul
-    if !errorlevel! equ 0 (
-        set "SYSTEM_PYTHON=python"
     ) else (
-        echo.
-        echo [خطا] پایتون روی این سیستم ویندوز یافت نشد!
-        echo لطفاً نسخه پایدار پایتون ۳.۱۲ را از نشانی زیر نصب نمایید:
-        echo https://www.python.org/downloads/
-        echo ** مهم: در مرحله اول نصب، حتماً گزینه "Add Python to PATH" را فعال کنید. **
-        echo.
-        pause
-        exit /b 1
+        where python >nul 2>nul
+        if !errorlevel! equ 0 (
+            set "SYSTEM_PYTHON=python"
+        ) else (
+            echo.
+            echo [خطا] پایتون روی این سیستم ویندوز یافت نشد!
+            echo لطفاً نسخه پایدار پایتون ۳.۱۲ را از نشانی زیر نصب نمایید:
+            echo https://www.python.org/downloads/
+            pause
+            exit /b 1
+        )
     )
 )
 echo   [تأیید] پایتون شناسایی شد: %SYSTEM_PYTHON%

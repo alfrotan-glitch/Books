@@ -17,38 +17,45 @@ if not exist "logs" mkdir "logs"
 if not exist "checkpoints" mkdir "checkpoints"
 echo   [OK] inbox\, output\, debug\, logs\, checkpoints\ created.
 
-:: 2. Locate System Python (prefer Python 3.12, 3.11, 3.10 for full OCR / ML support)
+:: 2. Locate System Python (explicitly look for Python 3.12 / 3.11 first)
 echo.
 echo [2/4] Detecting Python installation...
 set SYSTEM_PYTHON=
-where py >nul 2>nul
-if !errorlevel! equ 0 (
-    py -3.12 -c "exit(0)" >nul 2>nul
+
+if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python312\python.exe""
+) else if exist "C:\Program Files\Python312\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python312\python.exe""
+) else if exist "%ProgramFiles%\Python312\python.exe" (
+    set "SYSTEM_PYTHON="%ProgramFiles%\Python312\python.exe""
+) else if exist "%LOCALAPPDATA%\Programs\Python\Python311\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python311\python.exe""
+) else if exist "C:\Program Files\Python311\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python311\python.exe""
+) else (
+    where py >nul 2>nul
     if !errorlevel! equ 0 (
-        set "SYSTEM_PYTHON=py -3.12"
-    ) else (
-        py -3.11 -c "exit(0)" >nul 2>nul
+        py -3.12 -V >nul 2>nul
         if !errorlevel! equ 0 (
-            set "SYSTEM_PYTHON=py -3.11"
+            set "SYSTEM_PYTHON=py -3.12"
         ) else (
-            py -3.10 -c "exit(0)" >nul 2>nul
+            py -3.11 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "SYSTEM_PYTHON=py -3.10"
+                set "SYSTEM_PYTHON=py -3.11"
             ) else (
                 set "SYSTEM_PYTHON=py -3"
             )
         )
-    )
-) else (
-    where python >nul 2>nul
-    if !errorlevel! equ 0 (
-        set "SYSTEM_PYTHON=python"
     ) else (
-        echo [ERROR] Python 3.10 or newer was not detected in PATH!
-        echo Please download and install Python 3.12 from: https://www.python.org/downloads/
-        echo IMPORTANT: Check the box "Add Python to PATH" during installation.
-        pause
-        exit /b 1
+        where python >nul 2>nul
+        if !errorlevel! equ 0 (
+            set "SYSTEM_PYTHON=python"
+        ) else (
+            echo [ERROR] Python was not detected in PATH!
+            echo Please install Python 3.12 from: https://www.python.org/downloads/
+            pause
+            exit /b 1
+        )
     )
 )
 echo   [OK] Python detected: %SYSTEM_PYTHON%
