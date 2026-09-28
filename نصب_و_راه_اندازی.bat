@@ -96,8 +96,8 @@ echo [۴/۴] در حال نصب پیش‌نیازها و ماژول‌های پ�
 
 echo.
 echo در حال نصب موتور هوش مصنوعی RapidOCR و OnnxRuntime...
-.venv\Scripts\python.exe -m pip install onnxruntime >nul 2>&1
-.venv\Scripts\python.exe -m pip install --ignore-requires-python "rapidocr-onnxruntime>=1.3.0" >nul 2>&1
+.venv\Scripts\python.exe -m pip install onnxruntime
+.venv\Scripts\python.exe -m pip install --ignore-requires-python "rapidocr-onnxruntime>=1.3.0"
 
 :: بررسی وضعیت RapidOCR
 .venv\Scripts\python.exe -c "import rapidocr_onnxruntime" >nul 2>&1
@@ -108,8 +108,6 @@ if !errorlevel! equ 0 (
     echo -------------------------------------------------------------------------------
     echo [اطلاع در مورد OCR]
     echo اجزای استخراج متن، خوانش، جدول‌ها، دشارژ و وب‌سرور با موفقیت نصب شدند.
-    echo در پایتون ۳.۱۳، موتور RapidOCR فعال است؛ در پایتون ۳.۱۴ (نسخه آزمایشی)،
-    echo چرخ‌های OnnxRuntime هنوز توسط مایکروسافت ارائه نشده است.
     echo -------------------------------------------------------------------------------
     echo.
 )

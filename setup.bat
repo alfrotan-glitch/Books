@@ -94,8 +94,8 @@ echo [4/4] Installing dependencies...
 
 echo.
 echo [INFO] Installing ONNX Runtime and RapidOCR for AI text recognition...
-.venv\Scripts\python.exe -m pip install onnxruntime >nul 2>&1
-.venv\Scripts\python.exe -m pip install --ignore-requires-python "rapidocr-onnxruntime>=1.3.0" >nul 2>&1
+.venv\Scripts\python.exe -m pip install onnxruntime
+.venv\Scripts\python.exe -m pip install --ignore-requires-python "rapidocr-onnxruntime>=1.3.0"
 
 :: Check if rapidocr installed
 .venv\Scripts\python.exe -c "import rapidocr_onnxruntime" >nul 2>&1
@@ -106,7 +106,7 @@ if !errorlevel! equ 0 (
     echo -------------------------------------------------------------------------------
     echo [NOTE ON OCR]
     echo Core extraction, reading order, and dashboard installed successfully!
-    echo If running Python 3.14 (pre-release), onnxruntime wheels are not yet available.
+    echo If running Python 3.14 pre-release, onnxruntime wheels are not yet available.
     echo On Python 3.13, RapidOCR runs with full AI accuracy.
     echo -------------------------------------------------------------------------------
     echo.
