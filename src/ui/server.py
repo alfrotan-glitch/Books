@@ -1149,7 +1149,7 @@ async def run_extraction_task(pdf_path: Path, page_range: Optional[Tuple[int, in
             lambda: pipeline.process_pdf(
                 pdf_path,
                 progress_cb,
-                force_reprocess=False,
+                force_reprocess=True,
                 should_cancel_cb=should_cancel_check,
                 page_range=page_range,
             )
@@ -1269,7 +1269,10 @@ async def delete_output(data: Dict[str, str]):
             f.unlink()
         except Exception:
             pass
-    add_log(f"خروجی‌های مربوط به کتاب {book_name} حذف گردید.", f"Deleted output {book_name}")
+    chk_dir = default_config.checkpoints_dir / book_name
+    if chk_dir.exists():
+        shutil.rmtree(chk_dir, ignore_errors=True)
+    add_log(f"خروجی‌ها و کش‌های ذخیره شده کتاب {book_name} حذف گردید.", f"Deleted output and checkpoints for {book_name}")
     return {"status": "deleted"}
 
 
