@@ -198,8 +198,12 @@ class ImagePreprocessor:
         return clahe.apply(gray)
 
     def denoise_image(self, gray: np.ndarray) -> np.ndarray:
-        """Gentle denoising that removes paper grain without softening text edges."""
-        return cv2.fastNlMeansDenoising(gray, None, h=7, templateWindowSize=7, searchWindowSize=21)
+        """
+        Dot-preserving denoising for Persian/Arabic script and high-resolution OCR.
+        Preserves delicate dots (ش، چ، پ، ژ، ث، ت) and fine ascenders (ط، ظ، ا)
+        while smoothing background paper grain.
+        """
+        return cv2.bilateralFilter(gray, d=5, sigmaColor=20, sigmaSpace=20)
 
     def adaptive_binarize(self, gray: np.ndarray) -> np.ndarray:
         """High-accuracy adaptive thresholding for clear OCR characters."""

@@ -169,4 +169,43 @@ class OCRErrorDetector:
                     )
                 )
 
+        # 3. Persian / Arabic Character Normalization
+        # Normalizes Arabic kaf (ك) to Persian kaf (ک) and Arabic yeh (ي) to Persian yeh (ی)
+        cleaned_text = cleaned_text.replace('\u0643', 'ک').replace('\u064a', 'ی').replace('\u0649', 'ی')
+
+        # 4. High-confidence Persian OCR letter & prefix corrections
+        persian_patterns = [
+            (r"\bفى\s*باشد\b", "می‌باشد", "Persian verb prefix correction: 'فى باشد' -> 'می‌باشد'"),
+            (r"\bمى\s*كيرد\b", "می‌گیرد", "Persian verb correction: 'مى كيرد' -> 'می‌گیرد'"),
+            (r"\bمى\s*گیرد\b", "می‌گیرد", "Persian verb formatting: 'مى گیرد' -> 'می‌گیرد'"),
+            (r"\bمى\s*شود\b", "می‌شود", "Persian verb formatting: 'مى شود' -> 'می‌شود'"),
+            (r"\bمى\s*تواند\b", "می‌تواند", "Persian verb formatting: 'مى تواند' -> 'می‌تواند'"),
+            (r"\bمى\s*يابد\b", "می‌یابد", "Persian verb formatting: 'مى يابد' -> 'می‌یابد'"),
+            (r"\bمى\s*یابد\b", "می‌یابد", "Persian verb formatting: 'مى یابد' -> 'می‌یابد'"),
+            (r"\bمى\s*سازد\b", "می‌سازد", "Persian verb formatting: 'مى سازد' -> 'می‌سازد'"),
+            (r"\bمى\s*شوند\b", "می‌شوند", "Persian verb formatting: 'مى شوند' -> 'می‌شوند'"),
+            (r"\bمى\s*باشد\b", "می‌باشد", "Persian verb formatting: 'مى باشد' -> 'می‌باشد'"),
+            (r"\bفسامل\b", "شامل", "Persian OCR dot confusion: 'فسامل' -> 'شامل'"),
+            (r"\bکفیده\b", "کشیده", "Persian OCR confusion: 'کفیده' -> 'کشیده'"),
+            (r"\bمنالجوى\b", "معالجوی", "Dari medical vocabulary: 'منالجوى' -> 'معالجوی'"),
+            (r"\b۵۰66\b", "50cc", "Medical syringe unit: '۵۰66' -> '50cc'"),
+            (r"\b5066\b", "50cc", "Medical syringe unit: '5066' -> '50cc'"),
+            (r"\bسح\b(?=\s+[ا-ی])", "سطح", "Persian OCR missing ascender: 'سح' -> 'سطح'"),
+        ]
+
+        for pat, repl, reason in persian_patterns:
+            matches = re.findall(pat, cleaned_text)
+            if matches:
+                corrections.append(
+                    OCRErrorCorrection(
+                        page_num=page_num,
+                        original=matches[0] if isinstance(matches[0], str) else pat,
+                        corrected=repl,
+                        confidence=0.96,
+                        reason=reason,
+                        applied=True,
+                    )
+                )
+                cleaned_text = re.sub(pat, repl, cleaned_text)
+
         return cleaned_text, corrections

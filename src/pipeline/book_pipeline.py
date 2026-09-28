@@ -232,8 +232,12 @@ class BookPipeline:
 
         # Detect language / RTL direction
         sample_text = page.get_text("text")[:500] if forensics.has_native_text else ""
-        lang_profile = self.language_detector.analyze_text(sample_text)
-        is_rtl = lang_profile.is_rtl
+        if sample_text and sample_text.strip():
+            lang_profile = self.language_detector.analyze_text(sample_text)
+            is_rtl = lang_profile.is_rtl
+        else:
+            is_rtl = self.config.target_language in ("fas", "ara", "fa", "ar", "prs", "pus")
+            lang_profile = self.language_detector.analyze_text("فارسی" if is_rtl else "English")
 
         ordered_regions: List[SemanticRegion] = []
         method_used = ExtractionMethod.NATIVE
@@ -295,6 +299,11 @@ class BookPipeline:
 
         # Assemble single-page raw text for QC
         combined_text = "\n\n".join(r.text for r in ordered_regions if r.text.strip())
+
+        # Re-evaluate language from actual extracted text
+        if combined_text:
+            extracted_profile = self.language_detector.analyze_text(combined_text)
+            lang_profile = extracted_profile
 
         # Quality Control
         metrics, status = self.qc_engine.evaluate_page(
