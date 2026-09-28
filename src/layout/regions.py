@@ -159,30 +159,73 @@ class SemanticRegionClassifier:
                 continue
 
             # 6. Title / Heading / Subheading check
-            if line_font_size >= median_font_size * 1.50 or (is_bold and line_font_size >= median_font_size * 1.35):
-                regions.append(
-                    SemanticRegion(
-                        region_id=f"title_{idx}",
-                        region_type=RegionType.TITLE,
-                        bbox=bbox,
-                        confidence=0.92,
-                        lines=[line],
-                        text=text,
+            is_ocr = any(s.font_name.startswith("OCR") for s in line.spans)
+            if is_ocr:
+                # Conservative heading detection for OCR text:
+                # OCR bbox heights vary wildly due to Persian/Arabic ascenders and descenders.
+                # Never classify as title/heading unless it is short, does not end with sentence punctuation/commas,
+                # does not end with common Persian conjunctions/prepositions, and is significantly larger OR matches a heading keyword/numbering pattern.
+                is_short = len(text) <= 50
+                has_punct = text.endswith((".", "،", ",", "؛", ";", ":", "!", "؟", "?"))
+                has_conjunction = text.endswith(("و", "یا", "که", "از", "به", "در", "تا", "را"))
+                heading_kw = bool(re.match(
+                    r"^(فصل|بخش|مبحث|گفتار|درس|اعراض|اسباب|تعریف|تداوی|درمان|تشخیص|عوارض|پیشگیری|پیش‌گیری|مقدمه|Chapter|Unit|Section|Part|Table|Figure)\b",
+                    text,
+                    re.IGNORECASE,
+                ))
+                num_heading = bool(re.match(r"^(\d+|[\u06f0-\u06f9]+)[\.\-\)]\s+", text))
+                is_short_title = len(text) <= 30 and not has_punct and not has_conjunction
+
+                if is_short and not has_punct and not has_conjunction:
+                    if line_font_size >= median_font_size * 1.50 or (heading_kw and line_font_size >= median_font_size * 1.15):
+                        regions.append(
+                            SemanticRegion(
+                                region_id=f"title_{idx}",
+                                region_type=RegionType.TITLE,
+                                bbox=bbox,
+                                confidence=0.92,
+                                lines=[line],
+                                text=text,
+                            )
+                        )
+                        continue
+                    elif line_font_size >= median_font_size * 1.30 or num_heading or heading_kw or is_short_title:
+                        regions.append(
+                            SemanticRegion(
+                                region_id=f"heading_{idx}",
+                                region_type=RegionType.HEADING,
+                                bbox=bbox,
+                                confidence=0.88,
+                                lines=[line],
+                                text=text,
+                            )
+                        )
+                        continue
+            else:
+                if line_font_size >= median_font_size * 1.50 or (is_bold and line_font_size >= median_font_size * 1.35):
+                    regions.append(
+                        SemanticRegion(
+                            region_id=f"title_{idx}",
+                            region_type=RegionType.TITLE,
+                            bbox=bbox,
+                            confidence=0.92,
+                            lines=[line],
+                            text=text,
+                        )
                     )
-                )
-                continue
-            elif line_font_size >= median_font_size * 1.20 or (is_bold and len(text) < 70 and not text.endswith(".")):
-                regions.append(
-                    SemanticRegion(
-                        region_id=f"heading_{idx}",
-                        region_type=RegionType.HEADING,
-                        bbox=bbox,
-                        confidence=0.88,
-                        lines=[line],
-                        text=text,
+                    continue
+                elif line_font_size >= median_font_size * 1.20 or (is_bold and len(text) < 70 and not text.endswith(".")):
+                    regions.append(
+                        SemanticRegion(
+                            region_id=f"heading_{idx}",
+                            region_type=RegionType.HEADING,
+                            bbox=bbox,
+                            confidence=0.88,
+                            lines=[line],
+                            text=text,
+                        )
                     )
-                )
-                continue
+                    continue
 
             # 7. Sidebar check
             is_narrow = bbox.width < (page_width * 0.25)

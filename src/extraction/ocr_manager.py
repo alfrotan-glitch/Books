@@ -123,7 +123,7 @@ class OCRManager:
             active = [t for t in req_tokens if t in avail]
             if not active:
                 active = ["fas", "eng"] if "fas" in avail and "eng" in avail else ["fas"] if "fas" in avail else ["eng"]
-            return "--oem 1 --psm 3", "+".join(active)
+            return "--oem 1 --psm 3 --dpi 300", "+".join(active)
 
         # Check if fas is in local tessdata
         if local_tessdata.exists() and (local_tessdata / "fas.traineddata").exists():
@@ -141,7 +141,7 @@ class OCRManager:
             active = [t for t in req_tokens if t in local_avail]
             if not active:
                 active = ["fas", "eng"] if "fas" in local_avail and "eng" in local_avail else ["fas"] if "fas" in local_avail else ["eng"]
-            return f'--tessdata-dir "{local_tessdata}" --oem 1 --psm 3', "+".join(active)
+            return f'--tessdata-dir "{local_tessdata}" --oem 1 --psm 3 --dpi 300', "+".join(active)
 
         # Fallback to system languages
         try:
@@ -151,7 +151,7 @@ class OCRManager:
         active = [t for t in req_tokens if t in avail]
         if not active:
             active = list(avail)[:2] if avail else ["eng"]
-        return "--oem 1 --psm 3", "+".join(active)
+        return "--oem 1 --psm 3 --dpi 300", "+".join(active)
 
     def tesseract_has_language(self, lang: str = "fas") -> bool:
         if not self._tesseract_available:

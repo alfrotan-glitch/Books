@@ -70,10 +70,11 @@ class ColumnDetector:
         # Identify spanning blocks (e.g. wide titles or banners that cross columns)
         spanning_boxes = []
         regular_boxes = []
-        wide_threshold = page_width * 0.65
+        wide_threshold = page_width * 0.58
 
         for b in body_boxes:
-            if b.width >= wide_threshold:
+            is_spanning = (b.width >= wide_threshold) or (b.x0 < page_width * 0.38 and b.x1 > page_width * 0.62)
+            if is_spanning:
                 spanning_boxes.append(b)
             else:
                 regular_boxes.append(b)
@@ -153,15 +154,72 @@ class ColumnDetector:
         elif len(valid_gutters) == 2:
             g1_mid = (valid_gutters[0][0] + valid_gutters[0][1]) / 2.0
             g2_mid = (valid_gutters[1][0] + valid_gutters[1][1]) / 2.0
-            col1 = ColumnBoundary(0, 0.0, g1_mid)
-            col2 = ColumnBoundary(1, g1_mid, g2_mid)
-            col3 = ColumnBoundary(2, g2_mid, page_width)
-            return PageLayoutInfo(
-                column_count=3,
-                columns=[col1, col2, col3],
-                gutters=valid_gutters,
-                spanning_blocks=spanning_boxes,
-            )
+            col1_w = g1_mid
+            col2_w = g2_mid - g1_mid
+            col3_w = page_width - g2_mid
+
+            # Every column in a genuine 3-column layout must be at least 18% of page width
+            min_col_w = page_width * 0.18
+            if col1_w >= min_col_w and col2_w >= min_col_w and col3_w >= min_col_w:
+                col1 = ColumnBoundary(0, 0.0, g1_mid)
+                col2 = ColumnBoundary(1, g1_mid, g2_mid)
+                col3 = ColumnBoundary(2, g2_mid, page_width)
+                return PageLayoutInfo(
+                    column_count=3,
+                    columns=[col1, col2, col3],
+                    gutters=valid_gutters,
+                    spanning_blocks=spanning_boxes,
+                )
+            else:
+                # One of the columns is too narrow (e.g. gutter noise or artifacts).
+                # Collapse into 2 columns dividing at the midpoint of the central region!
+                mid_div = (g1_mid + g2_mid) / 2.0
+                col1 = ColumnBoundary(0, 0.0, mid_div)
+                col2 = ColumnBoundary(1, mid_div, page_width)
+                return PageLayoutInfo(
+                    column_count=2,
+                    columns=[col1, col2],
+                    gutters=[(g1_mid, g2_mid)],
+                    spanning_blocks=spanning_boxes,
+                )
+
+        # Bimodal cluster check: In scanned books, slight noise, skew, or dots in the central gutter
+        # can prevent occupancy from dropping strictly below 0.08.
+        # If regular text boxes clearly separate into left and right clusters, detect 2-column layout!
+        if len(valid_gutters) == 0 and len(regular_boxes) >= 6:
+            med_width = float(np.median([b.width for b in regular_boxes]))
+            if med_width <= page_width * 0.56:
+                substantive_boxes = [b for b in regular_boxes if b.width >= max(35.0, page_width * 0.04)]
+                if len(substantive_boxes) >= 6:
+                    best_split = None
+                    min_crossings = float("inf")
+                    min_dist_to_center = float("inf")
+
+                    candidates = np.linspace(page_width * 0.36, page_width * 0.64, 120)
+                    for cand_x in candidates:
+                        crossings = sum(1 for b in substantive_boxes if b.x0 < cand_x < b.x1)
+                        left_count = sum(1 for b in substantive_boxes if b.x1 <= cand_x + 8.0)
+                        right_count = sum(1 for b in substantive_boxes if b.x0 >= cand_x - 8.0)
+                        dist_center = abs(cand_x - page_width * 0.5)
+
+                        if left_count >= 3 and right_count >= 3:
+                            if crossings < min_crossings:
+                                min_crossings = crossings
+                                best_split = cand_x
+                                min_dist_to_center = dist_center
+                            elif crossings == min_crossings and dist_center < min_dist_to_center:
+                                best_split = cand_x
+                                min_dist_to_center = dist_center
+
+                    if best_split is not None and min_crossings <= max(1, int(len(substantive_boxes) * 0.12)):
+                        col1 = ColumnBoundary(0, 0.0, best_split)
+                        col2 = ColumnBoundary(1, best_split, page_width)
+                        return PageLayoutInfo(
+                            column_count=2,
+                            columns=[col1, col2],
+                            gutters=[(best_split - 10.0, best_split + 10.0)],
+                            spanning_blocks=spanning_boxes,
+                        )
 
         # Default to single column
         return PageLayoutInfo(

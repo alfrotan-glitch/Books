@@ -113,3 +113,80 @@ def test_reading_order_two_columns_rtl():
     # In RTL, right column must be read before left column!
     assert sorted_regs[0].text == "متن ستون راست که باید اول خوانده شود"
     assert sorted_regs[1].text == "متن ستون چپ که باید دوم خوانده شود"
+
+
+def test_column_detector_two_columns_with_gutter_noise():
+    """Scanned pages frequently have dust, fold shadows, or speckles in the central gutter."""
+    detector = ColumnDetector()
+    page_w = 1000.0
+    page_h = 1400.0
+
+    boxes = []
+    # Left column: x = 80..460
+    for y in range(150, 1100, 35):
+        boxes.append(BoundingBox(80, y, 460, y + 22))
+
+    # Right column: x = 540..920
+    for y in range(150, 1100, 35):
+        boxes.append(BoundingBox(540, y, 920, y + 22))
+
+    # Scanner noise speckles in the central gutter (x = 480..520)
+    speckles = [
+        BoundingBox(485, 300, 515, 320),
+        BoundingBox(490, 600, 510, 620),
+        BoundingBox(480, 850, 520, 870),
+    ]
+    boxes.extend(speckles)
+
+    layout = detector.detect_layout(boxes, page_w, page_h)
+    assert layout.column_count == 2
+    assert len(layout.columns) == 2
+
+
+def test_conservative_ocr_heading_classification():
+    """Verify that regular Persian sentences with ascenders are not falsely tagged as headings."""
+    classifier = SemanticRegionClassifier()
+    page_w = 1000.0
+    page_h = 1400.0
+    layout = ColumnDetector().detect_layout([], page_w, page_h)
+
+    # Simulate OCR line with ascenders that makes its bbox height taller (32pt vs median 24pt)
+    tall_body_line = TextLine(
+        spans=[
+            TextSpan(
+                text="اگر سرفه همراه با مخاط باشد در آن صورت سرفه بلغم‌دار می‌باشد.",
+                bbox=BoundingBox(540, 200, 920, 232),
+                font_name="OCR_Generic",
+                font_size=32.0 * 0.8, # ~25.6
+                confidence=0.92,
+            )
+        ],
+        bbox=BoundingBox(540, 200, 920, 232),
+        text="اگر سرفه همراه با مخاط باشد در آن صورت سرفه بلغم‌دار می‌باشد.",
+        baseline_y=230,
+        confidence=0.92,
+    )
+
+    # Actual section title
+    section_title_line = TextLine(
+        spans=[
+            TextSpan(
+                text="اعراض معمول امراض تنفسی",
+                bbox=BoundingBox(540, 150, 820, 185),
+                font_name="OCR_Generic",
+                font_size=35.0 * 0.8,
+                confidence=0.95,
+            )
+        ],
+        bbox=BoundingBox(540, 150, 820, 185),
+        text="اعراض معمول امراض تنفسی",
+        baseline_y=180,
+        confidence=0.95,
+    )
+
+    regions = classifier.classify_regions([section_title_line, tall_body_line], page_w, page_h, layout)
+    # The body line must NOT be a heading or title
+    assert regions[1].region_type == RegionType.PARAGRAPH
+    # The short section title is classified as heading
+    assert regions[0].region_type in (RegionType.HEADING, RegionType.TITLE)
+

@@ -70,16 +70,21 @@ class ReadingOrderSorter:
             ordered_body = self._sort_single_column(body_regions, is_rtl=is_rtl)
         else:
             # Multi-column layout with potential spanning elements
-            spanning_width_threshold = page_width * 0.55
-
             spanning_elements: List[SemanticRegion] = []
             columnar_elements: List[SemanticRegion] = []
 
             for r in body_regions:
                 # Wide titles, headings, tables or figures spanning across columns
-                is_wide = r.bbox.width >= spanning_width_threshold
+                # Must either be very wide (>= 60% of page width) OR cross the central gutter
+                crosses_center = any(
+                    r.bbox.x0 <= (g[0] + g[1]) / 2.0 <= r.bbox.x1
+                    for g in layout.gutters
+                ) if layout.gutters else (r.bbox.x0 < page_width * 0.45 and r.bbox.x1 > page_width * 0.55)
+
+                is_very_wide = r.bbox.width >= (page_width * 0.60)
                 is_heading_or_table = r.region_type in (RegionType.TITLE, RegionType.HEADING, RegionType.TABLE)
-                if is_wide or (is_heading_or_table and r.bbox.width >= page_width * 0.45):
+
+                if is_very_wide or (crosses_center and (is_heading_or_table or r.bbox.width >= page_width * 0.45)):
                     spanning_elements.append(r)
                 else:
                     columnar_elements.append(r)

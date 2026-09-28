@@ -44,7 +44,7 @@ class ParagraphReconstructor:
         }
 
         # Terminal punctuation regex (Western + Arabic/Persian)
-        self.terminal_punct = re.compile(r"[\.\!\?؟؛\:\。\！\？]$")
+        self.terminal_punct = re.compile(r"[\.\!\?؟\。\！\？]$")
 
         # Bullet or list item prefix regex
         self.bullet_regex = re.compile(r"^(?:[\-\*•–—]|(?:\d+|[a-zA-Z])[\.\)])\s+")
