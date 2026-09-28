@@ -25,8 +25,13 @@ class SemanticRegionClassifier:
 
         # Regex for captions
         self.caption_regex = re.compile(
-            r"^\s*(?:figure|fig\.|table|chart|graph|diagram|شکل|جدول|تصویر|نمودار)\s+[0-9\.\-]+",
+            r"^\s*(?:figure|fig\.|table|chart|graph|diagram|شکل|جدول|تصویر|نمودار)\s*[:\.\-\—\–\d]",
             re.IGNORECASE,
+        )
+
+        # Regex for bullet / list items
+        self.bullet_regex = re.compile(
+            r"^(?:[\-\*•–—]|ub\s*\*|[\u066a\u066b\u2022]|(?:\d+|[\u06f0-\u06f9]+|[a-zA-Z])[\.\-\)])\s+"
         )
 
         # Regex for footnotes
@@ -152,6 +157,20 @@ class SemanticRegionClassifier:
                         region_type=RegionType.FOOTNOTE,
                         bbox=bbox,
                         confidence=0.88,
+                        lines=[line],
+                        text=text,
+                    )
+                )
+                continue
+
+            # 5B. Bullet or numbered list item check -> always regular PARAGRAPH
+            if self.bullet_regex.match(text):
+                regions.append(
+                    SemanticRegion(
+                        region_id=f"list_{idx}",
+                        region_type=RegionType.PARAGRAPH,
+                        bbox=bbox,
+                        confidence=0.90,
                         lines=[line],
                         text=text,
                     )

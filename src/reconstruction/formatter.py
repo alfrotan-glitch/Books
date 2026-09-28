@@ -63,20 +63,20 @@ class DocumentFormatter:
             # Context-aware Header handling (NO SILENT DELETION)
             if region.region_type == RegionType.HEADER:
                 flush_paragraphs()
-                if self.header_footer_mgr.is_running_header(text):
-                    # Tagged running header: preserved without interrupting paragraph flow
-                    sections.append(f"<!-- [RUNNING HEADER: {text}] -->")
+                if self.header_footer_mgr.is_running_header(text) or len(text) < 20:
+                    # Tagged running header or short marginal artifact: preserved as non-intrusive comment
+                    sections.append(f"<!-- [HEADER: {text}] -->")
                 else:
-                    sections.append(f"[{text}]")
+                    sections.append(text)
                 continue
 
             # Context-aware Footer handling
             if region.region_type == RegionType.FOOTER:
                 flush_paragraphs()
-                if self.header_footer_mgr.is_running_footer(text):
-                    sections.append(f"<!-- [RUNNING FOOTER: {text}] -->")
+                if self.header_footer_mgr.is_running_footer(text) or len(text) < 20:
+                    sections.append(f"<!-- [FOOTER: {text}] -->")
                 else:
-                    sections.append(f"[{text}]")
+                    sections.append(text)
                 continue
 
             if region.region_type == RegionType.PAGE_NUMBER:
@@ -84,20 +84,10 @@ class DocumentFormatter:
                 sections.append(f"<!-- [PAGE NUMBER: {text}] -->")
                 continue
 
-            # Structural Headings
-            if region.region_type == RegionType.TITLE:
+            # Structural Headings (Clean book formatting without markdown syntax noise)
+            if region.region_type in (RegionType.TITLE, RegionType.HEADING, RegionType.SUBHEADING):
                 flush_paragraphs()
-                sections.append(f"# {text}")
-                continue
-
-            if region.region_type == RegionType.HEADING:
-                flush_paragraphs()
-                sections.append(f"## {text}")
-                continue
-
-            if region.region_type == RegionType.SUBHEADING:
-                flush_paragraphs()
-                sections.append(f"### {text}")
+                sections.append(text)
                 continue
 
             # Tables
@@ -114,7 +104,7 @@ class DocumentFormatter:
             # Captions
             if region.region_type == RegionType.CAPTION:
                 flush_paragraphs()
-                sections.append(f"*{text}*")
+                sections.append(f"[{text}]")
                 continue
 
             # Standard Paragraph lines
