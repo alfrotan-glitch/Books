@@ -443,6 +443,15 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     <span class="dropzone-icon">📥</span>
                     <div class="dropzone-title">فایل PDF کتاب را اینجا بکشید و رها کنید</div>
                     <div class="dropzone-desc">یا کلیک کنید تا از داخل کامپیوتر انتخاب نمایید (انتخاب چندتایی مجاز است)</div>
+                    <div id="uploadProgressContainer" style="display: none; width: 100%; margin-top: 14px; background: rgba(0,0,0,0.25); padding: 10px; border-radius: 8px; border: 1px solid var(--border);">
+                        <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: var(--primary);">
+                            <span id="uploadStatusText">در حال بارگذاری فایل...</span>
+                            <span id="uploadPercentText" style="font-weight: 700;">۰%</span>
+                        </div>
+                        <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden;">
+                            <div id="uploadProgressBar" style="width: 0%; height: 100%; background: linear-gradient(90deg, var(--primary), var(--success)); transition: width 0.15s ease;"></div>
+                        </div>
+                    </div>
                     <input type="file" id="fileInput" multiple accept=".pdf" style="display:none;" onchange="handleFileSelect(this)">
                 </div>
 
@@ -578,27 +587,67 @@ DASHBOARD_HTML = """<!DOCTYPE html>
 
         function handleFileSelect(input) {
             if (input.files && input.files.length > 0) {
-                uploadFiles(input.files);
+                uploadFiles(Array.from(input.files));
+                input.value = '';
             }
         }
 
         async function uploadFiles(files) {
+            const pContainer = document.getElementById('uploadProgressContainer');
+            const pBar = document.getElementById('uploadProgressBar');
+            const pText = document.getElementById('uploadPercentText');
+            const pStatus = document.getElementById('uploadStatusText');
+
             for (let f of files) {
                 if (!f.name.toLowerCase().endsWith('.pdf')) {
                     showToast('خطا: فقط فایل‌های PDF مجاز هستند.');
                     continue;
                 }
-                const formData = new FormData();
-                formData.append('file', f);
-                showToast(`در حال ارسال فایل ${f.name}...`);
-                try {
-                    const res = await fetch('/api/upload', { method: 'POST', body: formData });
-                    if (res.ok) {
-                        showToast(`فایل ${f.name} با موفقیت به پوشه ورودی اضافه شد.`);
-                    }
-                } catch(err) {
-                    showToast('خطا در ارسال فایل: ' + err);
+
+                if (pContainer) {
+                    pContainer.style.display = 'block';
+                    pBar.style.width = '0%';
+                    pText.innerText = '۰%';
+                    pStatus.innerText = `در حال بارگذاری ${f.name}...`;
                 }
+
+                await new Promise((resolve) => {
+                    const xhr = new XMLHttpRequest();
+                    const formData = new FormData();
+                    formData.append('file', f);
+
+                    xhr.upload.addEventListener('progress', (e) => {
+                        if (e.lengthComputable && pBar && pText && pStatus) {
+                            const pct = Math.round((e.loaded / e.total) * 100);
+                            const mbLoaded = (e.loaded / (1024 * 1024)).toFixed(1);
+                            const mbTotal = (e.total / (1024 * 1024)).toFixed(1);
+                            pBar.style.width = pct + '%';
+                            pText.innerText = pct + '%';
+                            pStatus.innerText = `در حال بارگذاری ${f.name} (${mbLoaded}MB از ${mbTotal}MB)...`;
+                        }
+                    });
+
+                    xhr.addEventListener('load', () => {
+                        if (xhr.status >= 200 && xhr.status < 300) {
+                            showToast(`فایل ${f.name} با موفقیت بارگذاری شد.`);
+                        } else {
+                            showToast(`خطا در ذخیره فایل ${f.name}: وضعیت ${xhr.status}`);
+                        }
+                        resolve();
+                    });
+
+                    xhr.addEventListener('error', () => {
+                        showToast(`خطا در ارتباط شبکه برای ارسال ${f.name}`);
+                        resolve();
+                    });
+
+                    xhr.open('POST', '/api/upload');
+                    xhr.send(formData);
+                });
+            }
+
+            if (pContainer) {
+                pContainer.style.display = 'none';
             }
             loadInbox();
         }
@@ -685,14 +734,6 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             } catch(e) {
                 showToast('خطا در لغو: ' + e);
             }
-        }
-                if (res.ok) {
-                    showToast(`پردازش کتاب ${filename} آغاز شد.`);
-                    checkStatus();
-                } else {
-                    showToast(data.detail || 'خطا در شروع پردازش');
-                }
-            } catch(e) { showToast('خطا: ' + e); }
         }
 
         async function processAllInbox() {
@@ -907,25 +948,37 @@ async def serve_dashboard():
     return HTMLResponse(content=DASHBOARD_HTML)
 
 
+_pdf_page_cache: Dict[Tuple[str, float, int], int] = {}
+
+
 @app.get("/api/inbox")
 async def get_inbox():
     default_config.ensure_directories()
     results = []
     for pdf in sorted(default_config.inbox_dir.glob("*.pdf")):
-        size_mb = round(pdf.stat().st_size / (1024 * 1024), 2)
-        # Fast page count check
-        page_count = 0
         try:
-            with pymupdf.open(str(pdf)) as d:
-                page_count = len(d)
+            stat_info = pdf.stat()
+            size_mb = round(stat_info.st_size / (1024 * 1024), 2)
+            cache_key = (str(pdf), stat_info.st_mtime, stat_info.st_size)
+            if cache_key in _pdf_page_cache:
+                page_count = _pdf_page_cache[cache_key]
+            else:
+                page_count = 0
+                try:
+                    with pymupdf.open(str(pdf)) as d:
+                        page_count = len(d)
+                except Exception:
+                    page_count = 1
+                _pdf_page_cache[cache_key] = page_count
+
+            results.append({
+                "name": pdf.name,
+                "size_mb": size_mb,
+                "pages": page_count,
+                "path": str(pdf),
+            })
         except Exception:
-            page_count = 1
-        results.append({
-            "name": pdf.name,
-            "size_mb": size_mb,
-            "pages": page_count,
-            "path": str(pdf),
-        })
+            continue
     return {"files": results}
 
 
@@ -934,7 +987,8 @@ async def upload_pdf(file: UploadFile = File(...)):
     default_config.ensure_directories()
     dest = default_config.inbox_dir / file.filename
     with open(dest, "wb") as buffer:
-        shutil.copyfileobj(file.file, buffer)
+        while chunk := await file.read(4 * 1024 * 1024):
+            buffer.write(chunk)
     add_log(f"فایل {file.filename} در پوشه inbox ذخیره شد.", f"Uploaded {file.filename}")
     return {"status": "success", "filename": file.filename}
 
