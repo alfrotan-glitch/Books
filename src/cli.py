@@ -106,30 +106,31 @@ def cmd_inspect(args):
 
 def cmd_check_ocr(args):
     print_banner()
-    print("[INFO] بررسی وضعیت و قابلیت‌های موتورهای OCR سیستم...")
+    print("[INFO] Checking OCR engines and installed language models...")
     pipeline = BookPipeline(default_config)
     mgr = pipeline.ocr_manager
 
-    print(f"1. موتور RapidOCR فعال است: {mgr.rapid_engine is not None}")
-    print(f"2. برنامه Tesseract نصب است: {mgr._tesseract_available}")
+    print(f"1. RapidOCR Engine Active: {mgr.rapid_engine is not None}")
+    print(f"2. Tesseract OCR Installed: {mgr._tesseract_available}")
     if mgr._tesseract_available:
         import pytesseract
-        print(f"   مسیر اجرایی Tesseract: {pytesseract.pytesseract.tesseract_cmd}")
+        print(f"   Tesseract Binary: {pytesseract.pytesseract.tesseract_cmd}")
         langs = mgr.get_tesseract_languages()
-        print(f"   زبان‌های شناسایی‌شده: {langs}")
-        print(f"   پشتیبانی از زبان فارسی (fas): {'بله' if mgr.tesseract_has_language('fas') else 'خیر'}")
-        print(f"   پشتیبانی از زبان عربی (ara): {'بله' if mgr.tesseract_has_language('ara') else 'خیر'}")
+        print(f"   Detected Languages: {langs}")
+        print(f"   Persian (fas) Support: {'Yes' if mgr.tesseract_has_language('fas') else 'No'}")
+        print(f"   Arabic (ara) Support: {'Yes' if mgr.tesseract_has_language('ara') else 'No'}")
+        print(f"   English (eng) Support: {'Yes' if mgr.tesseract_has_language('eng') else 'No'}")
     else:
-        print("   [هشدار] برنامه Tesseract روی ویندوز شما نصب نیست یا در PATH قرار ندارد.")
+        print("   [WARNING] Tesseract is not installed or not found in system PATH.")
 
-    print("\n--- نتیجه‌گیری ---")
+    print("\n--- Diagnostic Summary ---")
     if mgr._tesseract_available and mgr.tesseract_has_language("fas"):
-        print("🟢 سیستم کاملاً آماده استخراج دقیق کتاب‌های فارسی، دری و اصطلاحات پزشکی انگلیسی است.")
+        print("🟢 Multi-language engine ready: Full Persian/Dari and English medical OCR active.")
     elif mgr.rapid_engine is not None:
-        print("🟡 فقط موتور انگلیسی RapidOCR فعال است. کلمات فارسی ناخوانا خواهند شد.")
-        print("   برای فعال‌سازی زبان فارسی، Tesseract را با بسته زبان فارسی نصب کنید.")
+        print("🟡 Only Latin/English engine (RapidOCR) is active. Persian/Dari scans will be garbled.")
+        print("   To enable Persian/Dari OCR, run: install_tesseract_farsi.bat")
     else:
-        print("❌ هیچ موتور OCR فعالی در دسترس نیست.")
+        print("❌ No OCR engine available.")
 
 
 def cmd_benchmark(args):

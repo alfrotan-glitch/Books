@@ -1,67 +1,77 @@
 """
-Production-Grade Web UI Dashboard for Digital Book Text Extraction Engine.
-Designed for non-technical users and office staff.
-Supports visual file selection, drag-and-drop upload, live progress tracking,
-real-time page status grid, built-in text preview/reader, and one-click deliverables download.
-Bilingual Persian (Farsi/Dari) and English interface.
+Web UI Server for Digital Book Text Extractor.
+Modern English interface for non-technical users, desktop operators, and automated batch processing.
 """
 
 import asyncio
+from collections import Counter
 from datetime import datetime
 import json
-import os
+import logging
 from pathlib import Path
-import platform
 import shutil
-import subprocess
 import time
 from typing import Any, Dict, List, Optional, Tuple
-from fastapi import FastAPI, File, Form, HTTPException, Request, UploadFile
+
+from fastapi import BackgroundTasks, FastAPI, File, HTTPException, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 import pymupdf
 
 from src.config import default_config
-from src.models import ExtractionMethod, QualityStatus
-from src.pdf.forensics import PDFForensicsEngine
+from src.models import (
+    BookReport,
+    ExtractionMethod,
+    PageClassification,
+    PageResult,
+    QualityStatus,
+)
 from src.pipeline.book_pipeline import BookPipeline
 
-app = FastAPI(title="Digital Book Text Extraction Engine", version="2.0.0")
+logger = logging.getLogger("ui_server")
 
-# Global processing manager state
-state = {
+app = FastAPI(title="Book Text Extractor", version="2.0.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Global processing state
+state: Dict[str, Any] = {
     "is_busy": False,
+    "should_cancel": False,
     "current_book": "",
     "current_page": 0,
     "total_pages": 0,
-    "status_message": "آماده به کار (Ready)",
-    "status_message_en": "Ready",
+    "status_message": "System is ready to receive books and begin extraction.",
     "start_time": 0.0,
     "elapsed_sec": 0.0,
+    "last_error": "",
     "completed_books": [],
-    "recent_logs": [],
-    "page_grid": [],  # List of {"page": int, "status": str, "method": str, "chars": int}
-    "last_error": None,
-    "should_cancel": False,
+    "recent_logs": ["[READY] System initialized."],
+    "page_grid": [],
 }
 
-_current_task: Optional[asyncio.Task] = None
 
-
-def add_log(msg_fa: str, msg_en: str = ""):
-    ts = datetime.now().strftime("%H:%M:%S")
-    entry = f"[{ts}] {msg_fa}" + (f" ({msg_en})" if msg_en else "")
+def add_log(msg: str, label: str = "INFO"):
+    timestamp = datetime.now().strftime("%H:%M:%S")
+    entry = f"[{timestamp}] [{label}] {msg}"
     state["recent_logs"].append(entry)
-    if len(state["recent_logs"]) > 50:
+    if len(state["recent_logs"]) > 60:
         state["recent_logs"].pop(0)
 
 
 DASHBOARD_HTML = """<!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>سیستم هوشمند استخراج متن کتاب - نسخه پروداکشن</title>
+    <title>Book Text Extractor & Forensic Pipeline</title>
     <style>
         :root {
             --bg: #090d16;
@@ -77,7 +87,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             --text: #f8fafc;
             --text-muted: #94a3b8;
             --border: #2a3754;
-            --font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Tahoma", sans-serif;
+            --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         }
 
         * { box-sizing: border-box; }
@@ -351,7 +361,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         }
         .output-table th, .output-table td {
             padding: 12px 14px;
-            text-align: right;
+            text-align: left;
             border-bottom: 1px solid var(--border);
         }
         .output-table th {
@@ -367,7 +377,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             border: 1px solid var(--border);
             border-radius: 8px;
             padding: 16px;
-            max-height: 400px;
+            max-height: 450px;
             overflow-y: auto;
             white-space: pre-wrap;
             font-family: inherit;
@@ -402,7 +412,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         .toast {
             position: fixed;
             bottom: 24px;
-            left: 24px;
+            right: 24px;
             background: var(--surface-card);
             border: 1px solid var(--border);
             padding: 12px 20px;
@@ -419,19 +429,19 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         <!-- Top Header -->
         <header class="top-header">
             <div class="header-title">
-                <h1>📚 سیستم استخراج و بازسازی متن کتاب از PDF</h1>
-                <p>محیط کاربری یک‌پارچه بدون دستورات فنی — ویژه کارمندان و کاربران عادی</p>
+                <h1>📚 Digital Book Text Extractor & Forensics Engine</h1>
+                <p>Production-Grade OCR, Layout Recovery & Reading Order Pipeline</p>
             </div>
             <div class="header-controls">
                 <button class="btn btn-primary" onclick="processAllInbox()" id="btnProcessAll">
-                    <span>⚡ استخراج همه کتاب‌های ورودی</span>
+                    <span>⚡ Extract All Inbox Books</span>
                 </button>
             </div>
         </header>
 
         <!-- OCR Engine Status Banner -->
         <div id="engineStatusBanner" style="display: flex; align-items: center; justify-content: space-between; padding: 12px 18px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--border); background: var(--surface);">
-            <div id="engineStatusText" style="font-size: 13px;">در حال بررسی وضعیت موتورهای OCR...</div>
+            <div id="engineStatusText" style="font-size: 13px;">Checking OCR engine status...</div>
             <div id="engineActionBtn" style="font-size: 12px;"></div>
         </div>
 
@@ -440,19 +450,19 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             <!-- Left Column: File Manager (Inbox) -->
             <div class="card">
                 <div class="card-header">
-                    <h2>📁 انتخاب و مدیریت کتاب‌ها (Inbox)</h2>
-                    <button class="btn btn-sm" onclick="loadInbox()">🔄 بروزرسانی</button>
+                    <h2>📁 Book Selection & Management (Inbox)</h2>
+                    <button class="btn btn-sm" onclick="loadInbox()">🔄 Refresh</button>
                 </div>
 
                 <!-- Drag & Drop Zone -->
                 <div class="dropzone" onclick="document.getElementById('fileInput').click()" id="dropZone">
                     <span class="dropzone-icon">📥</span>
-                    <div class="dropzone-title">فایل PDF کتاب را اینجا بکشید و رها کنید</div>
-                    <div class="dropzone-desc">یا کلیک کنید تا از داخل کامپیوتر انتخاب نمایید (انتخاب چندتایی مجاز است)</div>
+                    <div class="dropzone-title">Drag & drop PDF books here</div>
+                    <div class="dropzone-desc">or click to browse from computer (multiple selection supported)</div>
                     <div id="uploadProgressContainer" style="display: none; width: 100%; margin-top: 14px; background: rgba(0,0,0,0.25); padding: 10px; border-radius: 8px; border: 1px solid var(--border);">
                         <div style="display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; color: var(--primary);">
-                            <span id="uploadStatusText">در حال بارگذاری فایل...</span>
-                            <span id="uploadPercentText" style="font-weight: 700;">۰%</span>
+                            <span id="uploadStatusText">Uploading file...</span>
+                            <span id="uploadPercentText" style="font-weight: 700;">0%</span>
                         </div>
                         <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden;">
                             <div id="uploadProgressBar" style="width: 0%; height: 100%; background: linear-gradient(90deg, var(--primary), var(--success)); transition: width 0.15s ease;"></div>
@@ -462,31 +472,31 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 </div>
 
                 <div style="font-size: 13px; font-weight: 600; color: var(--text-muted); margin-bottom: 10px;">
-                    کتاب‌های آماده برای پردازش:
+                    Books ready for extraction:
                 </div>
                 <ul class="file-list" id="inboxFileList">
-                    <li style="color: var(--text-muted); padding: 12px; text-align: center;">در حال بارگذاری لیست کتاب‌ها...</li>
+                    <li style="color: var(--text-muted); padding: 12px; text-align: center;">Loading books...</li>
                 </ul>
             </div>
 
             <!-- Right Column: Live Processing Monitor -->
             <div class="card">
                 <div class="card-header">
-                    <h2>⚙️ وضعیت و پیشرفت زنده پردازش</h2>
+                    <h2>⚙️ Processing Status & Live Monitor</h2>
                     <div style="display: flex; gap: 8px; align-items: center;">
-                        <span id="elapsedBadge" class="badge" style="display: none; background: #1e293b; color: #94a3b8;">زمان: ۰s</span>
+                        <span id="elapsedBadge" class="badge" style="display: none; background: #1e293b; color: #94a3b8;">Time: 0s</span>
                         <button id="btnCancel" class="btn btn-sm btn-danger" style="display: none;" onclick="cancelCurrentExtraction()">
-                            ⏹ لغو عملیات (Cancel)
+                            ⏹ Cancel Operation
                         </button>
-                        <span id="busyBadge" class="badge badge-info">آماده (Idle)</span>
+                        <span id="busyBadge" class="badge badge-info">Idle</span>
                     </div>
                 </div>
 
                 <!-- Progress Bar -->
                 <div class="progress-container">
                     <div class="progress-header">
-                        <span id="currentBookLabel">هیچ کتابی در حال پردازش نیست</span>
-                        <span id="pageCountLabel">۰ / ۰ صفحه (۰٪)</span>
+                        <span id="currentBookLabel">No book currently processing</span>
+                        <span id="pageCountLabel">0 / 0 pages (0%)</span>
                     </div>
                     <div class="progress-track">
                         <div class="progress-fill" id="progressBar"></div>
@@ -496,31 +506,31 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 <!-- Dynamic Status Message -->
                 <div class="status-box">
                     <span id="statusSpinner" style="display: none;" class="spinner"></span>
-                    <span id="statusMessageText">سیستم آماده دریافت کتاب و شروع استخراج است.</span>
+                    <span id="statusMessageText">System is ready to receive books and begin extraction.</span>
                 </div>
 
                 <!-- Visual Page Grid -->
                 <div class="page-grid-card">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                        <span style="font-size: 12px; color: var(--text-muted);">شبکه وضعیت تک‌تک صفحات:</span>
+                        <span style="font-size: 12px; color: var(--text-muted);">Page-by-page Status Grid:</span>
                         <div style="font-size: 11px; display: flex; gap: 8px;">
-                            <span style="color: #a7f3d0;">■ دیجیتال</span>
-                            <span style="color: #bae6fd;">■ اسکن OCR</span>
-                            <span style="color: #fef3c7;">■ بازبینی</span>
+                            <span style="color: #a7f3d0;">■ Digital</span>
+                            <span style="color: #bae6fd;">■ OCR Scan</span>
+                            <span style="color: #fef3c7;">■ Review</span>
                         </div>
                     </div>
                     <div class="page-grid" id="pageGridContainer">
                         <div style="color: var(--text-muted); font-size: 12px; padding: 10px; width: 100%; text-align: center;">
-                            پس از آغاز استخراج، وضعیت صفحات اینجا به صورت زنده نمایش می‌یابد.
+                            Page status will appear here live once processing starts.
                         </div>
                     </div>
                 </div>
 
                 <!-- Live Log Activity -->
                 <div style="margin-top: 14px;">
-                    <span style="font-size: 12px; color: var(--text-muted);">گزارش لحظه‌ای رویدادها:</span>
+                    <span style="font-size: 12px; color: var(--text-muted);">Real-Time Event Logs:</span>
                     <div id="logTerminal" style="background: #060911; border: 1px solid var(--border); border-radius: 6px; padding: 10px; font-family: monospace; font-size: 11px; height: 95px; overflow-y: auto; color: #94a3b8; margin-top: 4px;">
-                        <div>[آماده] سیستم راه‌اندازی شد.</div>
+                        <div>[READY] System initialized.</div>
                     </div>
                 </div>
             </div>
@@ -529,26 +539,26 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         <!-- Completed Books & Deliverables Section -->
         <div class="card output-card">
             <div class="card-header">
-                <h2>✅ کتاب‌های استخراج‌شده و خروجی‌های نهایی</h2>
-                <button class="btn btn-sm" onclick="loadOutputs()">🔄 بروزرسانی خروجی‌ها</button>
+                <h2>✅ Extracted Books & Deliverables</h2>
+                <button class="btn btn-sm" onclick="loadOutputs()">🔄 Refresh Outputs</button>
             </div>
 
             <div id="outputsContainer">
-                <p style="color: var(--text-muted); text-align: center; padding: 20px;">هنوز هیچ کتابی پردازش نشده است.</p>
+                <p style="color: var(--text-muted); text-align: center; padding: 20px;">No books processed yet.</p>
             </div>
 
             <!-- Built-in Reader / Text Previewer -->
             <div id="previewSection" style="display: none; margin-top: 24px; border-top: 1px solid var(--border); padding-top: 18px;">
                 <div style="display: flex; justify-content: space-between; align-items: center;">
                     <h3 style="margin: 0; font-size: 16px; color: var(--primary);">
-                        📖 پیش‌نمایش و خواندن متن: <span id="previewBookTitle" style="color: #fff;"></span>
+                        📖 Text Preview & Reader: <span id="previewBookTitle" style="color: #fff;"></span>
                     </h3>
                     <div style="display: flex; gap: 8px;">
-                        <button class="btn btn-sm" onclick="copyExtractedText()">📋 کپی کل متن</button>
-                        <button class="btn btn-sm btn-danger" onclick="closePreview()">✕ بستن</button>
+                        <button class="btn btn-sm" onclick="copyExtractedText()">📋 Copy Text</button>
+                        <button class="btn btn-sm btn-danger" onclick="closePreview()">✕ Close</button>
                     </div>
                 </div>
-                <div class="preview-box" id="previewContent">در حال بارگذاری متن...</div>
+                <div class="preview-box" id="previewContent">Loading text...</div>
             </div>
         </div>
     </div>
@@ -559,7 +569,6 @@ DASHBOARD_HTML = """<!DOCTYPE html>
     <script>
         let pollTimer = null;
 
-        // Show Toast
         function showToast(text) {
             const t = document.getElementById('toastMessage');
             t.innerText = text;
@@ -567,7 +576,6 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             setTimeout(() => { t.style.display = 'none'; }, 3500);
         }
 
-        // Drag & Drop handlers
         const dropZone = document.getElementById('dropZone');
         ['dragenter', 'dragover'].forEach(name => {
             dropZone.addEventListener(name, (e) => {
@@ -606,15 +614,15 @@ DASHBOARD_HTML = """<!DOCTYPE html>
 
             for (let f of files) {
                 if (!f.name.toLowerCase().endsWith('.pdf')) {
-                    showToast('خطا: فقط فایل‌های PDF مجاز هستند.');
+                    showToast('Error: Only PDF files are supported.');
                     continue;
                 }
 
                 if (pContainer) {
                     pContainer.style.display = 'block';
                     pBar.style.width = '0%';
-                    pText.innerText = '۰%';
-                    pStatus.innerText = `در حال بارگذاری ${f.name}...`;
+                    pText.innerText = '0%';
+                    pStatus.innerText = `Uploading ${f.name}...`;
                 }
 
                 await new Promise((resolve) => {
@@ -629,21 +637,21 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                             const mbTotal = (e.total / (1024 * 1024)).toFixed(1);
                             pBar.style.width = pct + '%';
                             pText.innerText = pct + '%';
-                            pStatus.innerText = `در حال بارگذاری ${f.name} (${mbLoaded}MB از ${mbTotal}MB)...`;
+                            pStatus.innerText = `Uploading ${f.name} (${mbLoaded}MB of ${mbTotal}MB)...`;
                         }
                     });
 
                     xhr.addEventListener('load', () => {
                         if (xhr.status >= 200 && xhr.status < 300) {
-                            showToast(`فایل ${f.name} با موفقیت بارگذاری شد.`);
+                            showToast(`File ${f.name} uploaded successfully.`);
                         } else {
-                            showToast(`خطا در ذخیره فایل ${f.name}: وضعیت ${xhr.status}`);
+                            showToast(`Upload failed for ${f.name}: status ${xhr.status}`);
                         }
                         resolve();
                     });
 
                     xhr.addEventListener('error', () => {
-                        showToast(`خطا در ارتباط شبکه برای ارسال ${f.name}`);
+                        showToast(`Network error uploading ${f.name}`);
                         resolve();
                     });
 
@@ -665,7 +673,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 const list = document.getElementById('inboxFileList');
                 list.innerHTML = '';
                 if (!data.files || data.files.length === 0) {
-                    list.innerHTML = '<li style="color: var(--text-muted); text-align: center; padding: 14px;">پوشه ورودی خالی است. لطفاً فایل PDF کتاب را داخل کادر بالا بکشید.</li>';
+                    list.innerHTML = '<li style="color: var(--text-muted); text-align: center; padding: 14px;">Inbox folder is empty. Drag and drop PDF books above.</li>';
                     return;
                 }
                 data.files.forEach(f => {
@@ -676,13 +684,13 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                             <span class="file-icon">📄</span>
                             <div>
                                 <div class="file-title">${f.name}</div>
-                                <div class="file-meta">${f.pages} صفحه &bull; ${f.size_mb} مگابایت</div>
+                                <div class="file-meta">${f.pages} pages &bull; ${f.size_mb} MB</div>
                             </div>
                         </div>
                         <div class="file-actions" style="display: flex; gap: 6px; align-items: center;">
-                            <input type="text" id="range_${f.name}" placeholder="محدوده (مثلاً 1-20)" style="font-size: 11px; padding: 4px 6px; border-radius: 4px; border: 1px solid var(--border); background: var(--surface-card); color: var(--text); width: 120px;" title="برای استخراج کامل خالی بگذارید، یا بنویسید 1-15">
+                            <input type="text" id="range_${f.name}" placeholder="Range (e.g. 1-20)" style="font-size: 11px; padding: 4px 6px; border-radius: 4px; border: 1px solid var(--border); background: var(--surface-card); color: var(--text); width: 120px;" title="Leave empty for full book, or specify e.g. 1-15">
                             <button class="btn btn-sm btn-primary" onclick="processBook('${f.name}')">
-                                ▶ استخراج
+                                ▶ Extract
                             </button>
                             <button class="btn btn-sm btn-danger" onclick="deleteInboxFile('${f.name}')">
                                 🗑
@@ -697,7 +705,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         }
 
         async function deleteInboxFile(filename) {
-            if (!confirm(`آیا از حذف فایل ${filename} مطمئن هستید؟`)) return;
+            if (!confirm(`Delete ${filename}?`)) return;
             try {
                 const res = await fetch('/api/delete_inbox', {
                     method: 'POST',
@@ -705,10 +713,10 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     body: JSON.stringify({ filename: filename })
                 });
                 if (res.ok) {
-                    showToast(`فایل ${filename} حذف شد.`);
+                    showToast(`Deleted ${filename}`);
                     loadInbox();
                 }
-            } catch(e) { showToast('خطا در حذف: ' + e); }
+            } catch(e) { showToast('Error deleting file: ' + e); }
         }
 
         async function processBook(filename) {
@@ -722,23 +730,23 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 });
                 const data = await res.json();
                 if (res.ok) {
-                    showToast(`پردازش کتاب ${filename} آغاز شد.`);
+                    showToast(`Started extraction for ${filename}`);
                     checkStatus();
                 } else {
-                    showToast(data.detail || 'خطا در شروع پردازش');
+                    showToast(data.detail || 'Failed to start extraction');
                 }
-            } catch(e) { showToast('خطا: ' + e); }
+            } catch(e) { showToast('Error: ' + e); }
         }
 
         async function cancelCurrentExtraction() {
-            if (!confirm('آیا مطمئن هستید که می‌خواهید فرآیند استخراج متوقف و لغو شود؟')) return;
+            if (!confirm('Are you sure you want to stop and cancel the current extraction?')) return;
             try {
                 const res = await fetch('/api/cancel', { method: 'POST' });
                 const data = await res.json();
-                showToast(data.message || 'درخواست لغو ثبت شد.');
-                document.getElementById('statusMessageText').innerText = 'در حال متوقف‌سازی فرآیند... لطفاً شکیبا باشید.';
+                showToast(data.message || 'Cancel requested.');
+                document.getElementById('statusMessageText').innerText = 'Canceling extraction... please wait.';
             } catch(e) {
-                showToast('خطا در لغو: ' + e);
+                showToast('Cancel error: ' + e);
             }
         }
 
@@ -747,12 +755,12 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 const res = await fetch('/api/process_all', { method: 'POST' });
                 const data = await res.json();
                 if (res.ok) {
-                    showToast('پردازش کلیه کتاب‌ها آغاز شد.');
+                    showToast('Started batch extraction for all inbox books.');
                     checkStatus();
                 } else {
-                    showToast(data.message || 'خطا در پردازش');
+                    showToast(data.message || 'Failed to start batch extraction');
                 }
-            } catch(e) { showToast('خطا: ' + e); }
+            } catch(e) { showToast('Error: ' + e); }
         }
 
         async function checkStatus() {
@@ -760,7 +768,6 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 const res = await fetch('/api/status');
                 const st = await res.json();
 
-                // Labels & Progress
                 const btnAll = document.getElementById('btnProcessAll');
                 const spinner = document.getElementById('statusSpinner');
                 const badge = document.getElementById('busyBadge');
@@ -770,24 +777,24 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     btnAll.style.opacity = '0.6';
                     spinner.style.display = 'inline-block';
                     badge.className = 'badge badge-warning';
-                    badge.innerText = 'در حال کار (Busy)';
+                    badge.innerText = 'Busy';
                     document.getElementById('btnCancel').style.display = 'inline-flex';
                     const elBadge = document.getElementById('elapsedBadge');
                     elBadge.style.display = 'inline-block';
-                    elBadge.innerText = `زمان: ${st.elapsed_sec || 0}s`;
+                    elBadge.innerText = `Time: ${st.elapsed_sec || 0}s`;
                 } else {
                     btnAll.disabled = false;
                     btnAll.style.opacity = '1';
                     spinner.style.display = 'none';
                     badge.className = 'badge badge-info';
-                    badge.innerText = 'آماده (Idle)';
+                    badge.innerText = 'Idle';
                     document.getElementById('btnCancel').style.display = 'none';
                     document.getElementById('elapsedBadge').style.display = 'none';
                 }
 
-                document.getElementById('currentBookLabel').innerText = st.current_book ? `کتاب: ${st.current_book}` : 'آماده به کار';
+                document.getElementById('currentBookLabel').innerText = st.current_book ? `Book: ${st.current_book}` : 'Ready';
                 const pct = st.total_pages > 0 ? Math.round((st.current_page / st.total_pages) * 100) : 0;
-                document.getElementById('pageCountLabel').innerText = `${st.current_page} / ${st.total_pages} صفحه (${pct}%)`;
+                document.getElementById('pageCountLabel').innerText = `${st.current_page} / ${st.total_pages} pages (${pct}%)`;
                 document.getElementById('progressBar').style.width = pct + '%';
                 document.getElementById('statusMessageText').innerText = st.status_message;
 
@@ -799,7 +806,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                         const chip = document.createElement('div');
                         chip.className = 'page-chip ' + p.status_class;
                         chip.innerText = p.page;
-                        chip.title = `صفحه ${p.page}: ${p.method} (${p.chars} کاراکتر)`;
+                        chip.title = `Page ${p.page}: ${p.method} (${p.chars} chars)`;
                         grid.appendChild(chip);
                     });
                 }
@@ -811,7 +818,6 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     term.scrollTop = term.scrollHeight;
                 }
 
-                // If busy, poll every 1 second; otherwise poll every 4 seconds
                 clearTimeout(pollTimer);
                 if (st.is_busy) {
                     pollTimer = setTimeout(checkStatus, 1000);
@@ -831,7 +837,7 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 const data = await res.json();
                 const container = document.getElementById('outputsContainer');
                 if (!data.outputs || data.outputs.length === 0) {
-                    container.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">هنوز هیچ کتابی استخراج نشده است.</p>';
+                    container.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">No books extracted yet.</p>';
                     return;
                 }
 
@@ -839,13 +845,13 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     <table class="output-table">
                         <thead>
                             <tr>
-                                <th>نام کتاب</th>
-                                <th>تعداد صفحات</th>
-                                <th>حجم متن خروجی</th>
-                                <th>فایل متنی اصلی (.txt)</th>
-                                <th>گزارش بصری کیفیت</th>
-                                <th>ممیزی منشأ (Provenance)</th>
-                                <th>عملیات</th>
+                                <th>Book Title</th>
+                                <th>Pages</th>
+                                <th>Extracted Characters</th>
+                                <th>Clean Text (.txt)</th>
+                                <th>Visual Report</th>
+                                <th>Provenance Audit</th>
+                                <th>Actions</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -855,32 +861,32 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     html += `
                         <tr>
                             <td><strong>${o.book_name}</strong></td>
-                            <td>${o.pages_count} صفحه</td>
-                            <td>${o.char_count_formatted} کاراکتر</td>
+                            <td>${o.pages_count} pages</td>
+                            <td>${o.char_count_formatted} chars</td>
                             <td>
                                 <a href="/api/download?path=${encodeURIComponent(o.txt_path)}" class="btn btn-sm btn-success">
-                                    📥 دانلود TXT
+                                    📥 Download TXT
                                 </a>
                             </td>
                             <td>
                                 ${o.html_path ? `
                                     <a href="/output/${encodeURIComponent(o.book_name)}_report.html" target="_blank" class="btn btn-sm">
-                                        📊 گزارش HTML
+                                        📊 HTML Report
                                     </a>
                                 ` : '-'}
                             </td>
                             <td>
                                 ${o.prov_path ? `
                                     <a href="/output/${encodeURIComponent(o.book_name)}_provenance.json" target="_blank" class="btn btn-sm" style="background:#1e293b; border-color:#475569;">
-                                        📋 ممیزی JSON
+                                        📋 JSON Audit
                                     </a>
                                 ` : '-'}
                             </td>
                             <td>
                                 <button class="btn btn-sm btn-primary" onclick="previewText('${encodeURIComponent(o.txt_path)}', '${o.book_name}')">
-                                    👁 مطالعه
+                                    👁 Read Text
                                 </button>
-                                <button class="btn btn-sm btn-danger" onclick="deleteOutputBook('${o.book_name}')" title="حذف فایل‌های خروجی">
+                                <button class="btn btn-sm btn-danger" onclick="deleteOutputBook('${o.book_name}')" title="Delete output deliverables">
                                     🗑
                                 </button>
                             </td>
@@ -905,12 +911,12 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 section.style.display = 'block';
                 section.scrollIntoView({ behavior: 'smooth' });
             } catch(e) {
-                showToast('خطا در دریافت پیش‌نمایش: ' + e);
+                showToast('Error loading preview: ' + e);
             }
         }
 
         async function deleteOutputBook(bookName) {
-            if (!confirm(`آیا از حذف کلیه فایل‌های خروجی کتاب ${bookName} مطمئن هستید؟`)) return;
+            if (!confirm(`Delete all extracted output files for "${bookName}"?`)) return;
             try {
                 const res = await fetch('/api/delete_output', {
                     method: 'POST',
@@ -918,11 +924,11 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                     body: JSON.stringify({ book_name: bookName })
                 });
                 if (res.ok) {
-                    showToast(`خروجی‌های کتاب ${bookName} حذف شدند.`);
+                    showToast(`Deleted outputs for ${bookName}`);
                     loadOutputs();
                 }
             } catch(e) {
-                showToast('خطا در حذف خروجی: ' + e);
+                showToast('Error deleting output: ' + e);
             }
         }
 
@@ -933,9 +939,9 @@ DASHBOARD_HTML = """<!DOCTYPE html>
         function copyExtractedText() {
             const text = document.getElementById('previewContent').innerText;
             navigator.clipboard.writeText(text).then(() => {
-                showToast('متن کتاب در حافظه کپی شد!');
+                showToast('Extracted text copied to clipboard!');
             }).catch(() => {
-                showToast('عدم دسترسی به حافظه کلیپ‌بورد.');
+                showToast('Clipboard access denied.');
             });
         }
 
@@ -950,18 +956,18 @@ DASHBOARD_HTML = """<!DOCTYPE html>
                 if (info.tesseract_available && info.tesseract_has_persian) {
                     banner.style.background = 'rgba(16, 185, 129, 0.12)';
                     banner.style.borderColor = '#10b981';
-                    text.innerHTML = '🟢 <b>موتور هوش مصنوعی فارسی و انگلیسی فعال است:</b> Tesseract OCR (fas + eng) آماده پردازش کتاب‌های فارسی، دری و اصطلاحات پزشکی انگلیسی است.';
-                    btn.innerHTML = '<span class="badge badge-success">آماده استخراج دقیق فارسی</span>';
+                    text.innerHTML = '🟢 <b>Multi-Language OCR Engine Active:</b> Tesseract OCR (fas + ara + eng) is ready for Persian, Dari, Arabic, and English medical text.';
+                    btn.innerHTML = '<span class="badge badge-success">Persian/English Ready</span>';
                 } else if (info.rapidocr_available) {
                     banner.style.background = 'rgba(245, 158, 11, 0.15)';
                     banner.style.borderColor = '#f59e0b';
-                    text.innerHTML = '⚠️ <b>هشدار: موتور فعال کنونی (RapidOCR) فقط انگلیسی/لاتین است.</b> برای این‌که کلمات فارسی/دری اسکن‌شده ناخوانا نشوند، فایل <b>نصب_موتور_فارسی_Tesseract.bat</b> را از پوشه برنامه اجرا کنید.';
-                    btn.innerHTML = '<span class="badge badge-warning">نیاز به موتور فارسی</span>';
+                    text.innerHTML = '⚠️ <b>Warning: Only English/Latin OCR (RapidOCR) is active.</b> For Persian/Dari books, run <b>install_tesseract_farsi.bat</b>.';
+                    btn.innerHTML = '<span class="badge badge-warning">Persian Model Needed</span>';
                 } else {
                     banner.style.background = 'rgba(239, 68, 68, 0.15)';
                     banner.style.borderColor = '#ef4444';
-                    text.innerHTML = '❌ <b>هیچ موتور OCR فعالی شناسایی نشد.</b> لطفاً فایل «نصب_موتور_فارسی_Tesseract.bat» را اجرا کنید.';
-                    btn.innerHTML = '<span class="badge badge-danger">موتور فعال نیست</span>';
+                    text.innerHTML = '❌ <b>No OCR engine detected.</b> Please run <b>install_tesseract_farsi.bat</b>.';
+                    btn.innerHTML = '<span class="badge badge-danger">Engine Inactive</span>';
                 }
             } catch(e) {
                 console.error(e);
@@ -1042,7 +1048,7 @@ async def upload_pdf(file: UploadFile = File(...)):
     with open(dest, "wb") as buffer:
         while chunk := await file.read(4 * 1024 * 1024):
             buffer.write(chunk)
-    add_log(f"فایل {file.filename} در پوشه inbox ذخیره شد.", f"Uploaded {file.filename}")
+    add_log(f"Uploaded {file.filename} to inbox.", "UPLOAD")
     return {"status": "success", "filename": file.filename}
 
 
@@ -1054,7 +1060,7 @@ async def delete_inbox(data: Dict[str, str]):
     path = default_config.inbox_dir / filename
     if path.exists():
         path.unlink()
-        add_log(f"فایل {filename} حذف گردید.", f"Deleted {filename}")
+        add_log(f"Deleted {filename} from inbox.", "DELETE")
         return {"status": "deleted"}
     raise HTTPException(status_code=404, detail="File not found")
 
@@ -1069,17 +1075,17 @@ async def get_status():
 @app.post("/api/cancel")
 async def cancel_process():
     if not state["is_busy"]:
-        return {"status": "idle", "message": "هیچ فرآیندی در حال اجرا نیست."}
+        return {"status": "idle", "message": "No extraction task is currently running."}
     state["should_cancel"] = True
-    state["status_message"] = "درخواست لغو فرآیند ثبت شد. سیستم در حال متوقف‌سازی است..."
-    add_log("درخواست لغو فرآیند توسط کاربر ثبت گردید.", "Cancel requested")
-    return {"status": "cancelling", "message": "درخواست لغو با موفقیت ارسال شد."}
+    state["status_message"] = "Cancellation requested. Stopping worker gracefully..."
+    add_log("Extraction cancellation requested by user.", "CANCEL")
+    return {"status": "cancelling", "message": "Cancellation request registered."}
 
 
 @app.post("/api/process")
 async def process_single(data: Dict[str, Any]):
     if state["is_busy"]:
-        raise HTTPException(status_code=409, detail="سیستم هم‌اکنون مشغول پردازش کتاب دیگری است.")
+        raise HTTPException(status_code=409, detail="System is currently busy extracting another book.")
 
     filename = data.get("filename")
     if not filename:
@@ -1087,7 +1093,7 @@ async def process_single(data: Dict[str, Any]):
 
     pdf_path = default_config.inbox_dir / filename
     if not pdf_path.exists():
-        raise HTTPException(status_code=404, detail="فایل در پوشه ورودی یافت نشد.")
+        raise HTTPException(status_code=404, detail="File not found in inbox.")
 
     page_range = None
     page_range_str = data.get("page_range")
@@ -1106,11 +1112,11 @@ async def process_single(data: Dict[str, Any]):
 @app.post("/api/process_all")
 async def process_all():
     if state["is_busy"]:
-        raise HTTPException(status_code=409, detail="سیستم هم‌اکنون مشغول پردازش است.")
+        raise HTTPException(status_code=409, detail="System is currently busy.")
 
     pdfs = sorted(default_config.inbox_dir.glob("*.pdf"))
     if not pdfs:
-        return {"status": "empty", "message": "هیچ فایل PDF در پوشه ورودی وجود ندارد."}
+        return {"status": "empty", "message": "No PDF files found in inbox."}
 
     asyncio.create_task(run_batch_extraction(pdfs))
     return {"status": "started", "count": len(pdfs)}
@@ -1127,14 +1133,14 @@ async def run_extraction_task(pdf_path: Path, page_range: Optional[Tuple[int, in
     state["elapsed_sec"] = 0.0
     state["page_grid"] = []
     
-    range_msg = f" (صفحات {page_range[0]} تا {page_range[1]})" if page_range else ""
-    state["status_message"] = f"شروع بازرسی و تحلیل لایه‌های {pdf_path.name}{range_msg}..."
-    add_log(f"شروع استخراج کتاب {pdf_path.name}{range_msg}", "Started extraction")
+    range_msg = f" (Pages {page_range[0]} to {page_range[1]})" if page_range else ""
+    state["status_message"] = f"Analyzing {pdf_path.name}{range_msg}..."
+    add_log(f"Starting extraction for {pdf_path.name}{range_msg}", "START")
 
     def progress_cb(page_num: int, total: int, msg: str):
         state["current_page"] = page_num
         state["total_pages"] = total
-        state["status_message"] = f"صفحه {page_num} از {total}: {msg}"
+        state["status_message"] = f"Page {page_num}/{total}: {msg}"
 
     def should_cancel_check() -> bool:
         return state.get("should_cancel", False)
@@ -1143,7 +1149,6 @@ async def run_extraction_task(pdf_path: Path, page_range: Optional[Tuple[int, in
         pipeline = BookPipeline(default_config)
         loop = asyncio.get_event_loop()
 
-        # Run extraction in worker thread so FastAPI remains completely responsive!
         report = await loop.run_in_executor(
             None,
             lambda: pipeline.process_pdf(
@@ -1155,7 +1160,6 @@ async def run_extraction_task(pdf_path: Path, page_range: Optional[Tuple[int, in
             )
         )
 
-        # Build page grid
         grid = []
         for pr in report.page_results:
             cls_name = "done-native"
@@ -1177,16 +1181,16 @@ async def run_extraction_task(pdf_path: Path, page_range: Optional[Tuple[int, in
         state["completed_books"].append(report.book_name)
 
         if state.get("should_cancel"):
-            state["status_message"] = f"فرآیند استخراج {pdf_path.name} بنا به درخواست کاربر لغو گردید."
-            add_log(f"فرآیند استخراج {pdf_path.name} لغو شد.", "Extraction canceled")
+            state["status_message"] = f"Extraction of {pdf_path.name} was canceled by user."
+            add_log(f"Extraction of {pdf_path.name} was canceled.", "CANCELED")
         else:
-            state["status_message"] = f"استخراج کتاب {pdf_path.name} با موفقیت به پایان رسید."
-            add_log(f"پایان موفقیت‌آمیز استخراج {pdf_path.name} ({report.total_pages} صفحه)", "Extraction finished")
+            state["status_message"] = f"Successfully extracted {pdf_path.name}."
+            add_log(f"Finished extraction for {pdf_path.name} ({report.total_pages} pages).", "COMPLETE")
 
     except Exception as exc:
         state["last_error"] = str(exc)
-        state["status_message"] = f"خطا در پردازش: {exc}"
-        add_log(f"خطا در پردازش: {exc}", "Error")
+        state["status_message"] = f"Extraction error: {exc}"
+        add_log(f"Extraction error: {exc}", "ERROR")
     finally:
         state["is_busy"] = False
         state["should_cancel"] = False
@@ -1203,7 +1207,6 @@ async def get_outputs():
     outputs = []
     for txt in sorted(default_config.output_dir.glob("*.txt"), key=lambda p: p.stat().st_mtime, reverse=True):
         b_name = txt.stem
-        # Exclude temporary benchmark files if present
         if b_name.startswith("bench_"):
             continue
 
@@ -1211,14 +1214,12 @@ async def get_outputs():
         json_file = default_config.output_dir / f"{b_name}_report.json"
         prov_file = default_config.output_dir / f"{b_name}_provenance.json"
 
-        # Read char count
         char_count = 0
         pages_count = 1
         try:
             with open(txt, "r", encoding="utf-8", errors="ignore") as f:
                 content = f.read()
                 char_count = len(content)
-                # Count pages from headers
                 pages_count = max(1, content.count("--- [Page "))
         except Exception:
             pass
@@ -1240,22 +1241,14 @@ async def get_outputs():
 @app.get("/api/preview")
 async def preview_text(path: str):
     p = Path(path)
-    if not p.exists() or not p.is_file():
-        raise HTTPException(status_code=404, detail="File not found")
+    if not p.exists():
+        raise HTTPException(status_code=404, detail="Text deliverable not found.")
     try:
-        with open(p, "r", encoding="utf-8", errors="replace") as f:
-            preview = f.read(12000)  # Read first 12000 chars for smooth reading
-        return {"text": preview}
+        with open(p, "r", encoding="utf-8", errors="ignore") as f:
+            lines = f.readlines()[:400]
+            return {"text": "".join(lines)}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-
-
-@app.get("/api/download")
-async def download_file(path: str):
-    p = Path(path)
-    if not p.exists() or not p.is_file():
-        raise HTTPException(status_code=404, detail="File not found")
-    return FileResponse(p, filename=p.name)
 
 
 @app.post("/api/delete_output")
@@ -1263,22 +1256,39 @@ async def delete_output(data: Dict[str, str]):
     book_name = data.get("book_name")
     if not book_name:
         raise HTTPException(status_code=400, detail="Book name required")
+
     default_config.ensure_directories()
-    for f in default_config.output_dir.glob(f"{book_name}*"):
-        try:
+    deleted_files = []
+    patterns = [
+        f"{book_name}.txt",
+        f"{book_name}_report.html",
+        f"{book_name}_report.json",
+        f"{book_name}_provenance.json",
+    ]
+    for pat in patterns:
+        f = default_config.output_dir / pat
+        if f.exists():
             f.unlink()
-        except Exception:
-            pass
-    chk_dir = default_config.checkpoints_dir / book_name
-    if chk_dir.exists():
-        shutil.rmtree(chk_dir, ignore_errors=True)
-    add_log(f"خروجی‌ها و کش‌های ذخیره شده کتاب {book_name} حذف گردید.", f"Deleted output and checkpoints for {book_name}")
-    return {"status": "deleted"}
+            deleted_files.append(pat)
+
+    # Purge checkpoints for clean re-extraction
+    cp_file = default_config.checkpoints_dir / f"{book_name}_checkpoint.json"
+    if cp_file.exists():
+        cp_file.unlink()
+        deleted_files.append(cp_file.name)
+
+    add_log(f"Deleted outputs and checkpoints for book: {book_name}", "PURGE")
+    return {"status": "deleted", "book_name": book_name, "files": deleted_files}
 
 
-@app.get("/output/{filename}")
-async def serve_output(filename: str):
-    p = default_config.output_dir / filename
+@app.get("/api/download")
+async def download_file(path: str):
+    p = Path(path)
     if not p.exists():
         raise HTTPException(status_code=404, detail="File not found")
-    return FileResponse(p)
+    return FileResponse(p, filename=p.name, media_type="text/plain; charset=utf-8")
+
+
+# Mount output static folder
+default_config.ensure_directories()
+app.mount("/output", StaticFiles(directory=str(default_config.output_dir)), name="output")
