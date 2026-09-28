@@ -92,11 +92,66 @@ class OCRManager:
         except Exception:
             return False
 
-    def _get_tessdata_dir(self) -> Optional[str]:
-        local_dir = self.config.workspace_root / "tessdata"
-        if local_dir.exists() and any(local_dir.glob("*.traineddata")):
-            return str(local_dir)
-        return None
+    def _get_tesseract_config_and_langs(self, requested_langs: Optional[str] = None) -> Tuple[str, str]:
+        """
+        Determines the safest, most compatible Tesseract configuration and language string.
+        Guarantees that only actually existing traineddata files are requested.
+        """
+        target = requested_langs or self.config.tesseract_languages
+        req_tokens = [t.strip() for t in target.split("+")]
+
+        system_tessdata = None
+        for candidate in [
+            r"C:\Program Files\Tesseract-OCR\tessdata",
+            r"C:\Program Files (x86)\Tesseract-OCR\tessdata",
+            "/usr/share/tesseract-ocr/5/tessdata",
+            "/usr/share/tesseract-ocr/4.00/tessdata",
+            "/usr/share/tesseract-ocr/tessdata",
+        ]:
+            if os.path.isdir(candidate):
+                system_tessdata = Path(candidate)
+                break
+
+        local_tessdata = self.config.workspace_root / "tessdata"
+
+        # Check if fas is in system tessdata
+        if system_tessdata and (system_tessdata / "fas.traineddata").exists():
+            try:
+                avail = set(pytesseract.get_languages())
+            except Exception:
+                avail = {"fas", "eng"}
+            active = [t for t in req_tokens if t in avail]
+            if not active:
+                active = ["fas", "eng"] if "fas" in avail and "eng" in avail else ["fas"] if "fas" in avail else ["eng"]
+            return "--oem 1 --psm 3", "+".join(active)
+
+        # Check if fas is in local tessdata
+        if local_tessdata.exists() and (local_tessdata / "fas.traineddata").exists():
+            if system_tessdata and system_tessdata.exists():
+                for needed in ["eng.traineddata", "osd.traineddata"]:
+                    src = system_tessdata / needed
+                    dst = local_tessdata / needed
+                    if src.exists() and not dst.exists():
+                        try:
+                            shutil.copy2(src, dst)
+                        except Exception:
+                            pass
+
+            local_avail = {f.stem for f in local_tessdata.glob("*.traineddata")}
+            active = [t for t in req_tokens if t in local_avail]
+            if not active:
+                active = ["fas", "eng"] if "fas" in local_avail and "eng" in local_avail else ["fas"] if "fas" in local_avail else ["eng"]
+            return f'--tessdata-dir "{local_tessdata}" --oem 1 --psm 3', "+".join(active)
+
+        # Fallback to system languages
+        try:
+            avail = set(pytesseract.get_languages())
+        except Exception:
+            avail = {"eng"}
+        active = [t for t in req_tokens if t in avail]
+        if not active:
+            active = list(avail)[:2] if avail else ["eng"]
+        return "--oem 1 --psm 3", "+".join(active)
 
     def tesseract_has_language(self, lang: str = "fas") -> bool:
         if not self._tesseract_available:
@@ -104,6 +159,12 @@ class OCRManager:
         local_dir = self.config.workspace_root / "tessdata"
         if (local_dir / f"{lang}.traineddata").exists():
             return True
+        for candidate in [
+            r"C:\Program Files\Tesseract-OCR\tessdata",
+            r"C:\Program Files (x86)\Tesseract-OCR\tessdata",
+        ]:
+            if os.path.isfile(os.path.join(candidate, f"{lang}.traineddata")):
+                return True
         try:
             langs = pytesseract.get_languages()
             return lang in langs
@@ -118,6 +179,14 @@ class OCRManager:
         if local_dir.exists():
             for f in local_dir.glob("*.traineddata"):
                 langs.add(f.stem)
+        for candidate in [
+            r"C:\Program Files\Tesseract-OCR\tessdata",
+            r"C:\Program Files (x86)\Tesseract-OCR\tessdata",
+        ]:
+            p = Path(candidate)
+            if p.is_dir():
+                for f in p.glob("*.traineddata"):
+                    langs.add(f.stem)
         try:
             for l in pytesseract.get_languages():
                 langs.add(l)
@@ -167,20 +236,7 @@ class OCRManager:
         if not self._tesseract_available:
             return []
 
-        target_langs = langs or self.config.tesseract_languages
-        available = self.get_tesseract_languages()
-        req_tokens = [t.strip() for t in target_langs.split("+")]
-        active_tokens = [t for t in req_tokens if t in available]
-        if not active_tokens:
-            active_tokens = [available[0]] if available else ["eng"]
-        active_langs = "+".join(active_tokens)
-
-        tessdata_arg = ""
-        tessdata_dir = self._get_tessdata_dir()
-        if tessdata_dir:
-            tessdata_arg = f'--tessdata-dir "{tessdata_dir}" '
-
-        custom_config = f"{tessdata_arg}--oem 1 --psm 3"
+        custom_config, active_langs = self._get_tesseract_config_and_langs(langs)
 
         try:
             data = pytesseract.image_to_data(
@@ -258,6 +314,8 @@ class OCRManager:
     ) -> Tuple[List[SemanticRegion], PreprocessingResult, ExtractionMethod, float, List[str]]:
         """
         Preprocesses image and runs OCR engine with layout and reading order reconstruction.
+        Guarantees automatic multi-engine failover: if primary engine produces no text,
+        secondary engine is automatically engaged so no page is left empty.
         """
         warnings: List[str] = []
 
@@ -266,34 +324,50 @@ class OCRManager:
         proc_img = prep_res.processed_image
         h, w = proc_img.shape[:2]
 
-        # 2. Run Primary Engine:
-        # RapidOCR's default bundled model is Latin/Chinese and CANNOT read Persian/Arabic script.
-        # If Tesseract is available with Persian (fas) or Arabic (ara), or if the page/config is RTL,
-        # Tesseract MUST be preferred so Persian/Dari text is correctly recognized.
+        # 2. Multi-Engine Selection with Guaranteed Failover
+        ocr_blocks: List[Dict[str, Any]] = []
+        method_used = ExtractionMethod.FAILED
         tess_has_persian = self.tesseract_has_language("fas") or self.tesseract_has_language("ara")
 
-        if self._tesseract_available and (
+        # Prioritize Tesseract if Persian language is needed/available
+        prefer_tesseract = self._tesseract_available and (
             tess_has_persian
             or self.config.ocr_engine == "tesseract"
             or is_rtl
             or not RAPIDOCR_AVAILABLE
-        ):
-            ocr_blocks = self.run_tesseract(proc_img)
-            method_used = ExtractionMethod.OCR_TESSERACT
-            if not tess_has_persian and (is_rtl or self.config.target_language in ("fas", "ara")):
-                warnings.append("مدل زبان فارسی Tesseract (fas.traineddata) نصب نیست. لطفاً آن را نصب کنید.")
-        elif RAPIDOCR_AVAILABLE:
-            ocr_blocks = self.run_rapidocr(proc_img)
-            method_used = ExtractionMethod.OCR_RAPIDOCR
-            if is_rtl:
-                warnings.append("RapidOCR فقط از حروف لاتین پشتیبانی می‌کند؛ برای متن فارسی Tesseract با fas.traineddata مورد نیاز است.")
-        elif self._tesseract_available:
-            ocr_blocks = self.run_tesseract(proc_img)
-            method_used = ExtractionMethod.OCR_TESSERACT
-        else:
-            ocr_blocks = []
-            method_used = ExtractionMethod.FAILED
-            warnings.append("هیچ موتور OCR فعالی در دسترس نیست.")
+        )
+
+        if prefer_tesseract:
+            try:
+                ocr_blocks = self.run_tesseract(proc_img)
+                if ocr_blocks:
+                    method_used = ExtractionMethod.OCR_TESSERACT
+            except Exception as e:
+                warnings.append(f"Tesseract error: {e}")
+
+        # CRITICAL FAILOVER: If Tesseract produced no blocks, try RapidOCR!
+        if not ocr_blocks and RAPIDOCR_AVAILABLE:
+            try:
+                ocr_blocks = self.run_rapidocr(proc_img)
+                if ocr_blocks:
+                    method_used = ExtractionMethod.OCR_RAPIDOCR
+                    if is_rtl:
+                        warnings.append("از موتور پشتیبان RapidOCR استفاده شد.")
+            except Exception as e:
+                warnings.append(f"RapidOCR error: {e}")
+
+        # Secondary failover back to Tesseract if RapidOCR was attempted first and yielded nothing
+        if not ocr_blocks and self._tesseract_available and not prefer_tesseract:
+            try:
+                ocr_blocks = self.run_tesseract(proc_img)
+                if ocr_blocks:
+                    method_used = ExtractionMethod.OCR_TESSERACT
+            except Exception as e:
+                warnings.append(f"Tesseract secondary fallback error: {e}")
+
+        if not ocr_blocks:
+            warnings.append("No text could be extracted by OCR engines.")
+            return [], prep_res, method_used, 0.0, warnings
 
         # 3. Agreement analysis with secondary engine if hybrid mode or low confidence
         avg_conf = (

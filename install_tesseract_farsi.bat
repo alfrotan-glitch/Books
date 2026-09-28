@@ -39,20 +39,17 @@ if exist "%TESS_BIN%" (
 
 :DOWNLOAD_MODELS
 echo.
-echo [2/2] Downloading Persian, Arabic, and English trained models...
+echo [2/2] Downloading Persian, English, and Arabic trained models...
 
 if not exist "tessdata" mkdir tessdata
 
-powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $f='tessdata\fas.traineddata'; if (-not (Test-Path $f)) { Write-Host 'Downloading Persian model (fas.traineddata)...'; (New-Object System.Net.WebClient).DownloadFile('https://github.com/tesseract-ocr/tessdata_fast/raw/main/fas.traineddata', $f); Write-Host 'Persian model downloaded.' } else { Write-Host 'Persian model already exists.' }"
-
-powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $f='tessdata\ara.traineddata'; if (-not (Test-Path $f)) { Write-Host 'Downloading Arabic model (ara.traineddata)...'; (New-Object System.Net.WebClient).DownloadFile('https://github.com/tesseract-ocr/tessdata_fast/raw/main/ara.traineddata', $f) } else { Write-Host 'Arabic model already exists.' }"
-
-powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $f='tessdata\eng.traineddata'; if (-not (Test-Path $f)) { Write-Host 'Downloading English model (eng.traineddata)...'; (New-Object System.Net.WebClient).DownloadFile('https://github.com/tesseract-ocr/tessdata_fast/raw/main/eng.traineddata', $f) } else { Write-Host 'English model already exists.' }"
+powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; function Get-Model($name, $label) { $dest = 'tessdata\' + $name; if (Test-Path $dest) { Write-Host ('  [OK] Model ' + $label + ' already exists.'); return }; Write-Host ('  Downloading ' + $label + ' (' + $name + ')...'); $urls = @('https://cdn.jsdelivr.net/gh/tesseract-ocr/tessdata_fast@main/' + $name, 'https://github.com/tesseract-ocr/tessdata_fast/raw/main/' + $name); foreach ($u in $urls) { try { (New-Object System.Net.WebClient).DownloadFile($u, $dest); if ((Get-Item $dest).Length -gt 10000) { Write-Host ('  [OK] ' + $label + ' downloaded successfully.'); return } } catch {} }; Write-Host ('  [Error] Failed to download ' + $name) }; Get-Model 'fas.traineddata' 'Persian'; Get-Model 'eng.traineddata' 'English'; Get-Model 'osd.traineddata' 'Orientation/Script'; Get-Model 'ara.traineddata' 'Arabic'"
 
 if exist "%TESS_BIN%" (
     copy /Y "tessdata\fas.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
     copy /Y "tessdata\ara.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
     copy /Y "tessdata\eng.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
+    copy /Y "tessdata\osd.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
 )
 
 echo.

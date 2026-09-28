@@ -45,21 +45,18 @@ if exist "%TESS_BIN%" (
 
 :DOWNLOAD_MODELS
 echo.
-echo [۲/۲] در حال آماده‌سازی و دانلود مدل‌های زبانی فارسی و عربی...
+echo [۲/۲] در حال آماده‌سازی و دانلود مدل‌های زبانی فارسی، انگلیسی و عربی...
 
 if not exist "tessdata" mkdir tessdata
 
-powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $f='tessdata\fas.traineddata'; if (-not (Test-Path $f)) { Write-Host 'در حال دریافت مدل زبان فارسی (fas.traineddata)...'; (New-Object System.Net.WebClient).DownloadFile('https://github.com/tesseract-ocr/tessdata_fast/raw/main/fas.traineddata', $f); Write-Host 'مدل فارسی با موفقیت دریافت شد.' } else { Write-Host 'مدل فارسی قبلاً دانلود شده است.' }"
-
-powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $f='tessdata\ara.traineddata'; if (-not (Test-Path $f)) { Write-Host 'در حال دریافت مدل زبان عربی (ara.traineddata)...'; (New-Object System.Net.WebClient).DownloadFile('https://github.com/tesseract-ocr/tessdata_fast/raw/main/ara.traineddata', $f); Write-Host 'مدل عربی دریافت شد.' } else { Write-Host 'مدل عربی موجود است.' }"
-
-powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $f='tessdata\eng.traineddata'; if (-not (Test-Path $f)) { Write-Host 'در حال دریافت مدل زبان انگلیسی (eng.traineddata)...'; (New-Object System.Net.WebClient).DownloadFile('https://github.com/tesseract-ocr/tessdata_fast/raw/main/eng.traineddata', $f); Write-Host 'مدل انگلیسی دریافت شد.' } else { Write-Host 'مدل انگلیسی موجود است.' }"
+powershell -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; function Get-Model($name, $label) { $dest = 'tessdata\' + $name; if (Test-Path $dest) { Write-Host ('  [OK] مدل ' + $label + ' از قبل موجود است.'); return }; Write-Host ('  در حال دریافت مدل ' + $label + ' (' + $name + ')...'); $urls = @('https://cdn.jsdelivr.net/gh/tesseract-ocr/tessdata_fast@main/' + $name, 'https://github.com/tesseract-ocr/tessdata_fast/raw/main/' + $name); foreach ($u in $urls) { try { (New-Object System.Net.WebClient).DownloadFile($u, $dest); if ((Get-Item $dest).Length -gt 10000) { Write-Host ('  [تأیید] ' + $label + ' با موفقیت دریافت شد.'); return } } catch {} }; Write-Host ('  [خطا] دریافت ' + $name + ' با خطا مواجه شد.') }; Get-Model 'fas.traineddata' 'فارسی'; Get-Model 'eng.traineddata' 'انگلیسی'; Get-Model 'osd.traineddata' 'اسکریپت و جهت'; Get-Model 'ara.traineddata' 'عربی'"
 
 :: کپی کردن به پوشه سیستم در صورت وجود دسترسی
 if exist "%TESS_BIN%" (
     copy /Y "tessdata\fas.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
     copy /Y "tessdata\ara.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
     copy /Y "tessdata\eng.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
+    copy /Y "tessdata\osd.traineddata" "C:\Program Files\Tesseract-OCR\tessdata\" >nul 2>&1
 )
 
 echo.
