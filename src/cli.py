@@ -104,6 +104,34 @@ def cmd_inspect(args):
                 print(f"  Page {p_num:3}: {p_info.classification.value:18} | NativeText: {p_info.has_native_text} | Chars: {p_info.char_count:5} | Images: {p_info.image_count}")
 
 
+def cmd_check_ocr(args):
+    print_banner()
+    print("[INFO] بررسی وضعیت و قابلیت‌های موتورهای OCR سیستم...")
+    pipeline = BookPipeline(default_config)
+    mgr = pipeline.ocr_manager
+
+    print(f"1. موتور RapidOCR فعال است: {mgr.rapid_engine is not None}")
+    print(f"2. برنامه Tesseract نصب است: {mgr._tesseract_available}")
+    if mgr._tesseract_available:
+        import pytesseract
+        print(f"   مسیر اجرایی Tesseract: {pytesseract.pytesseract.tesseract_cmd}")
+        langs = mgr.get_tesseract_languages()
+        print(f"   زبان‌های شناسایی‌شده: {langs}")
+        print(f"   پشتیبانی از زبان فارسی (fas): {'بله' if mgr.tesseract_has_language('fas') else 'خیر'}")
+        print(f"   پشتیبانی از زبان عربی (ara): {'بله' if mgr.tesseract_has_language('ara') else 'خیر'}")
+    else:
+        print("   [هشدار] برنامه Tesseract روی ویندوز شما نصب نیست یا در PATH قرار ندارد.")
+
+    print("\n--- نتیجه‌گیری ---")
+    if mgr._tesseract_available and mgr.tesseract_has_language("fas"):
+        print("🟢 سیستم کاملاً آماده استخراج دقیق کتاب‌های فارسی، دری و اصطلاحات پزشکی انگلیسی است.")
+    elif mgr.rapid_engine is not None:
+        print("🟡 فقط موتور انگلیسی RapidOCR فعال است. کلمات فارسی ناخوانا خواهند شد.")
+        print("   برای فعال‌سازی زبان فارسی، Tesseract را با بسته زبان فارسی نصب کنید.")
+    else:
+        print("❌ هیچ موتور OCR فعالی در دسترس نیست.")
+
+
 def cmd_benchmark(args):
     from tests.benchmark import run_full_benchmark
     print_banner()
@@ -114,6 +142,9 @@ def cmd_benchmark(args):
 def main():
     parser = argparse.ArgumentParser(description="Digital Book Text Extraction Engine")
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
+
+    # Check-OCR command
+    subparsers.add_parser("check-ocr", help="Check OCR engines and language models status")
 
     # Process command
     p_proc = subparsers.add_parser("process", help="Extract text from PDF(s)")
@@ -135,7 +166,9 @@ def main():
 
     args = parser.parse_args()
 
-    if args.command == "process":
+    if args.command == "check-ocr":
+        cmd_check_ocr(args)
+    elif args.command == "process":
         cmd_process(args)
     elif args.command == "serve":
         cmd_serve(args)
