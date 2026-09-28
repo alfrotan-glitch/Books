@@ -229,6 +229,20 @@ class OCRErrorDetector:
             (r"\bهیپارینایز\b|\bهيارينايز\b", "هیپارینایز", "Medical term: 'هیپارینایز'"),
             (r"\bZY\b(?=\s+بی\s*حس)", "2%", "Medical concentration: '2%'"),
             (r"\bشماره\s*YA\b", "شماره 28", "Catheter gauge: 'شماره 28'"),
+            (r"\bپاوریزی\b|\bپلوريزى\b", "پلوریزی", "Medical term: 'پلوریزی'"),
+            (r"\bنومونورگس\b", "نوموتوراکس", "Medical pathology: 'نوموتوراکس'"),
+            (r"\bغسرث\b(?=\s+نفس)", "عسرت", "Medical symptom: 'عسرت نفس'"),
+            (r"\bإكس\s*حرى\b|\bاکس\s*حرى\b", "اکس‌ری", "Radiology term: 'اکس‌ری'"),
+            (r"\bفايبرأيتيك\b|\bفايبراويتيك\b", "فایبراوپتیک", "Endoscopy type: 'فایبراوپتیک'"),
+            (r"\bسرفا\s*fly\s*دار\b|\bسرفة\s*fly\s*دار\b", "سرفه بلغم‌دار", "Medical symptom: 'سرفه بلغم‌دار'"),
+            (r"\bسرفة\s*mah\b|\bسرفه\s*mah\b", "سرفه مولد", "Medical cough classification: 'سرفه مولد'"),
+            (r"\bcde\b(?=\s+زمینه‌ای)", "علت", "Persian term: 'علت'"),
+            (r"\bJat\b(?=\s+ریفلکسی)", "عمل", "Physiological reflex: 'عمل ریفلکسی'"),
+            (r"\bBle\b(?=\s+شفاف)", "کاملاً", "Symptom description"),
+            (r"\bLie!\b(?=\s+به\s+علت)", "غالباً", "Etiology description"),
+            (r"\bey\b(?=\s+هوا\s+از\s+ریه)", "خروج", "Definition of cough"),
+            (r"\bLangs\b", "ریه‌های", "Medical anatomy: 'ریه‌های'"),
+            (r"\b۷/۵56۵\b", "V/Q scan", "Nuclear medicine test: 'V/Q scan'"),
         ]
 
         for pat, repl, reason in persian_patterns:
