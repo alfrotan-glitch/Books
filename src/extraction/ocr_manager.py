@@ -4,6 +4,8 @@ Orchestrates RapidOCR and Tesseract, performs confidence scoring,
 engine agreement analysis, and integrates with layout and reading order engines.
 """
 
+import os
+from pathlib import Path
 import shutil
 from typing import Any, Dict, List, Optional, Tuple
 import cv2
@@ -65,9 +67,63 @@ class OCRManager:
         return self._rapid_engine
 
     def _check_tesseract(self) -> bool:
-        if self.config.tesseract_cmd:
-            pytesseract.pytesseract.tesseract_cmd = self.config.tesseract_cmd
-        return bool(shutil.which("tesseract") or shutil.which(pytesseract.pytesseract.tesseract_cmd))
+        candidate_paths = [
+            self.config.tesseract_cmd,
+            shutil.which("tesseract"),
+            r"C:\Program Files\Tesseract-OCR\tesseract.exe",
+            r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe",
+            str(Path(os.environ.get("LOCALAPPDATA", "")) / "Programs" / "Tesseract-OCR" / "tesseract.exe") if os.environ.get("LOCALAPPDATA") else None,
+            str(Path(os.environ.get("PROGRAMFILES", "")) / "Tesseract-OCR" / "tesseract.exe") if os.environ.get("PROGRAMFILES") else None,
+            "/usr/bin/tesseract",
+            "/usr/local/bin/tesseract",
+        ]
+        for p in candidate_paths:
+            if p and os.path.isfile(p):
+                try:
+                    pytesseract.pytesseract.tesseract_cmd = str(p)
+                    self.config.tesseract_cmd = str(p)
+                    pytesseract.get_tesseract_version()
+                    return True
+                except Exception:
+                    continue
+        try:
+            pytesseract.get_tesseract_version()
+            return True
+        except Exception:
+            return False
+
+    def _get_tessdata_dir(self) -> Optional[str]:
+        local_dir = self.config.workspace_root / "tessdata"
+        if local_dir.exists() and any(local_dir.glob("*.traineddata")):
+            return str(local_dir)
+        return None
+
+    def tesseract_has_language(self, lang: str = "fas") -> bool:
+        if not self._tesseract_available:
+            return False
+        local_dir = self.config.workspace_root / "tessdata"
+        if (local_dir / f"{lang}.traineddata").exists():
+            return True
+        try:
+            langs = pytesseract.get_languages()
+            return lang in langs
+        except Exception:
+            return False
+
+    def get_tesseract_languages(self) -> List[str]:
+        if not self._tesseract_available:
+            return []
+        langs = set()
+        local_dir = self.config.workspace_root / "tessdata"
+        if local_dir.exists():
+            for f in local_dir.glob("*.traineddata"):
+                langs.add(f.stem)
+        try:
+            for l in pytesseract.get_languages():
+                langs.add(l)
+        except Exception:
+            pass
+        return sorted(list(langs))
 
     def run_rapidocr(self, image: np.ndarray) -> List[Dict[str, Any]]:
         """
@@ -103,36 +159,81 @@ class OCRManager:
 
         return parsed
 
-    def run_tesseract(self, image: np.ndarray) -> List[Dict[str, Any]]:
+    def run_tesseract(self, image: np.ndarray, langs: Optional[str] = None) -> List[Dict[str, Any]]:
         """
         Runs Tesseract OCR if available.
-        Returns word/line-level bounding boxes and confidence.
+        Groups words into natural coherent lines with bounding boxes and confidence.
         """
         if not self._tesseract_available:
             return []
 
+        target_langs = langs or self.config.tesseract_languages
+        available = self.get_tesseract_languages()
+        req_tokens = [t.strip() for t in target_langs.split("+")]
+        active_tokens = [t for t in req_tokens if t in available]
+        if not active_tokens:
+            active_tokens = [available[0]] if available else ["eng"]
+        active_langs = "+".join(active_tokens)
+
+        tessdata_arg = ""
+        tessdata_dir = self._get_tessdata_dir()
+        if tessdata_dir:
+            tessdata_arg = f'--tessdata-dir "{tessdata_dir}" '
+
+        custom_config = f"{tessdata_arg}--oem 1 --psm 3"
+
         try:
             data = pytesseract.image_to_data(
                 image,
-                lang=self.config.tesseract_languages,
+                lang=active_langs,
+                config=custom_config,
                 output_type=pytesseract.Output.DICT,
             )
             parsed = []
+            lines_dict: Dict[Tuple[int, int, int], Dict[str, Any]] = {}
             n_boxes = len(data["text"])
             for i in range(n_boxes):
-                text = data["text"][i].strip()
+                word = str(data["text"][i]).strip()
                 conf = float(data["conf"][i])
-                if text and conf > 0:
-                    x = float(data["left"][i])
-                    y = float(data["top"][i])
-                    w = float(data["width"][i])
-                    h = float(data["height"][i])
-                    bbox = BoundingBox(x0=x, y0=y, x1=x + w, y1=y + h)
-                    parsed.append({
-                        "bbox": bbox,
-                        "text": text,
-                        "confidence": conf / 100.0,
-                    })
+                if not word or conf < 0:
+                    continue
+                line_key = (data["block_num"][i], data["par_num"][i], data["line_num"][i])
+                x = float(data["left"][i])
+                y = float(data["top"][i])
+                w = float(data["width"][i])
+                h = float(data["height"][i])
+
+                if line_key not in lines_dict:
+                    lines_dict[line_key] = {
+                        "words": [word],
+                        "confs": [conf / 100.0],
+                        "x0": x,
+                        "y0": y,
+                        "x1": x + w,
+                        "y1": y + h,
+                    }
+                else:
+                    lines_dict[line_key]["words"].append(word)
+                    lines_dict[line_key]["confs"].append(conf / 100.0)
+                    lines_dict[line_key]["x0"] = min(lines_dict[line_key]["x0"], x)
+                    lines_dict[line_key]["y0"] = min(lines_dict[line_key]["y0"], y)
+                    lines_dict[line_key]["x1"] = max(lines_dict[line_key]["x1"], x + w)
+                    lines_dict[line_key]["y1"] = max(lines_dict[line_key]["y1"], y + h)
+
+            for line_info in lines_dict.values():
+                line_text = " ".join(line_info["words"])
+                avg_line_conf = float(np.mean(line_info["confs"])) if line_info["confs"] else 0.8
+                bbox = BoundingBox(
+                    x0=line_info["x0"],
+                    y0=line_info["y0"],
+                    x1=line_info["x1"],
+                    y1=line_info["y1"],
+                )
+                parsed.append({
+                    "bbox": bbox,
+                    "text": line_text,
+                    "confidence": avg_line_conf,
+                })
             return parsed
         except Exception:
             return []
@@ -165,18 +266,34 @@ class OCRManager:
         proc_img = prep_res.processed_image
         h, w = proc_img.shape[:2]
 
-        # 2. Run Primary Engine (RapidOCR if available, else Tesseract)
-        if RAPIDOCR_AVAILABLE:
+        # 2. Run Primary Engine:
+        # RapidOCR's default bundled model is Latin/Chinese and CANNOT read Persian/Arabic script.
+        # If Tesseract is available with Persian (fas) or Arabic (ara), or if the page/config is RTL,
+        # Tesseract MUST be preferred so Persian/Dari text is correctly recognized.
+        tess_has_persian = self.tesseract_has_language("fas") or self.tesseract_has_language("ara")
+
+        if self._tesseract_available and (
+            tess_has_persian
+            or self.config.ocr_engine == "tesseract"
+            or is_rtl
+            or not RAPIDOCR_AVAILABLE
+        ):
+            ocr_blocks = self.run_tesseract(proc_img)
+            method_used = ExtractionMethod.OCR_TESSERACT
+            if not tess_has_persian and (is_rtl or self.config.target_language in ("fas", "ara")):
+                warnings.append("مدل زبان فارسی Tesseract (fas.traineddata) نصب نیست. لطفاً آن را نصب کنید.")
+        elif RAPIDOCR_AVAILABLE:
             ocr_blocks = self.run_rapidocr(proc_img)
             method_used = ExtractionMethod.OCR_RAPIDOCR
+            if is_rtl:
+                warnings.append("RapidOCR فقط از حروف لاتین پشتیبانی می‌کند؛ برای متن فارسی Tesseract با fas.traineddata مورد نیاز است.")
         elif self._tesseract_available:
             ocr_blocks = self.run_tesseract(proc_img)
             method_used = ExtractionMethod.OCR_TESSERACT
-            warnings.append("RapidOCR not installed. Using Tesseract OCR.")
         else:
             ocr_blocks = []
             method_used = ExtractionMethod.FAILED
-            warnings.append("No OCR engine available. Install rapidocr-onnxruntime (Python 3.10-3.12) or Tesseract.")
+            warnings.append("هیچ موتور OCR فعالی در دسترس نیست.")
 
         # 3. Agreement analysis with secondary engine if hybrid mode or low confidence
         avg_conf = (

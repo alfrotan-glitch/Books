@@ -429,6 +429,12 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             </div>
         </header>
 
+        <!-- OCR Engine Status Banner -->
+        <div id="engineStatusBanner" style="display: flex; align-items: center; justify-content: space-between; padding: 12px 18px; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--border); background: var(--surface);">
+            <div id="engineStatusText" style="font-size: 13px;">در حال بررسی وضعیت موتورهای OCR...</div>
+            <div id="engineActionBtn" style="font-size: 12px;"></div>
+        </div>
+
         <!-- Main Workspace Grid -->
         <div class="main-grid">
             <!-- Left Column: File Manager (Inbox) -->
@@ -933,7 +939,37 @@ DASHBOARD_HTML = """<!DOCTYPE html>
             });
         }
 
+        async function checkOcrStatus() {
+            try {
+                const res = await fetch('/api/ocr_info');
+                const info = await res.json();
+                const banner = document.getElementById('engineStatusBanner');
+                const text = document.getElementById('engineStatusText');
+                const btn = document.getElementById('engineActionBtn');
+
+                if (info.tesseract_available && info.tesseract_has_persian) {
+                    banner.style.background = 'rgba(16, 185, 129, 0.12)';
+                    banner.style.borderColor = '#10b981';
+                    text.innerHTML = '🟢 <b>موتور هوش مصنوعی فارسی و انگلیسی فعال است:</b> Tesseract OCR (fas + eng) آماده پردازش کتاب‌های فارسی، دری و اصطلاحات پزشکی انگلیسی است.';
+                    btn.innerHTML = '<span class="badge badge-success">آماده استخراج دقیق فارسی</span>';
+                } else if (info.rapidocr_available) {
+                    banner.style.background = 'rgba(245, 158, 11, 0.15)';
+                    banner.style.borderColor = '#f59e0b';
+                    text.innerHTML = '⚠️ <b>هشدار: موتور فعال کنونی (RapidOCR) فقط انگلیسی/لاتین است.</b> برای این‌که کلمات فارسی/دری اسکن‌شده ناخوانا نشوند، فایل <b>نصب_موتور_فارسی_Tesseract.bat</b> را از پوشه برنامه اجرا کنید.';
+                    btn.innerHTML = '<span class="badge badge-warning">نیاز به موتور فارسی</span>';
+                } else {
+                    banner.style.background = 'rgba(239, 68, 68, 0.15)';
+                    banner.style.borderColor = '#ef4444';
+                    text.innerHTML = '❌ <b>هیچ موتور OCR فعالی شناسایی نشد.</b> لطفاً فایل «نصب_موتور_فارسی_Tesseract.bat» را اجرا کنید.';
+                    btn.innerHTML = '<span class="badge badge-danger">موتور فعال نیست</span>';
+                }
+            } catch(e) {
+                console.error(e);
+            }
+        }
+
         // Initialize UI
+        checkOcrStatus();
         loadInbox();
         loadOutputs();
         checkStatus();
@@ -946,6 +982,23 @@ DASHBOARD_HTML = """<!DOCTYPE html>
 @app.get("/", response_class=HTMLResponse)
 async def serve_dashboard():
     return HTMLResponse(content=DASHBOARD_HTML)
+
+
+@app.get("/api/ocr_info")
+async def get_ocr_info():
+    pipeline = BookPipeline(default_config)
+    mgr = pipeline.ocr_manager
+    tess_avail = mgr._tesseract_available
+    has_fas = mgr.tesseract_has_language("fas")
+    has_ara = mgr.tesseract_has_language("ara")
+    tess_langs = mgr.get_tesseract_languages() if tess_avail else []
+    return {
+        "rapidocr_available": bool(mgr.rapid_engine is not None),
+        "tesseract_available": tess_avail,
+        "tesseract_has_persian": has_fas,
+        "tesseract_has_arabic": has_ara,
+        "tesseract_languages": tess_langs,
+    }
 
 
 _pdf_page_cache: Dict[Tuple[str, float, int], int] = {}

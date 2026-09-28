@@ -43,6 +43,7 @@ class ExtractionConfig:
     # OCR Engines
     # engine choices: "auto", "rapidocr", "tesseract", "hybrid"
     ocr_engine: str = "auto"
+    target_language: str = "fas"  # "fas" for Persian/Dari + English, "eng" for English only
     tesseract_cmd: Optional[str] = None
     tesseract_languages: str = "fas+ara+eng"
     rapidocr_use_det: bool = True
