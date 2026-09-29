@@ -35,3 +35,16 @@ def test_no_false_corrections_on_valid_numbers():
 
     assert cleaned == clean_text
     assert len(corrections) == 0
+
+
+def test_medical_terminology_corrections():
+    detector = OCRErrorDetector(min_confidence_to_apply=0.85)
+    dirty_medical = "غسرث نفس همراه با إکس حری صدری و پاوریزی و نومونورگس و قیخی بلغم"
+    cleaned, corrections = detector.detect_and_clean(dirty_medical, page_num=4)
+
+    assert "عسرت تنفس" in cleaned
+    assert "اکسری صدر" in cleaned
+    assert "پلوریزی" in cleaned
+    assert "نوموتوراکس" in cleaned
+    assert "قیحی" in cleaned
+    assert len(corrections) >= 5

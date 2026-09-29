@@ -46,6 +46,7 @@ class SemanticRegionClassifier:
         page_width: float,
         page_height: float,
         layout: PageLayoutInfo,
+        table_boxes: Optional[List[BoundingBox]] = None,
     ) -> List[SemanticRegion]:
         """Classify lines and group them into semantic regions."""
         if not lines:
@@ -133,6 +134,25 @@ class SemanticRegionClassifier:
                 )
                 continue
 
+            # 3B. Table Grid Region Check
+            if table_boxes:
+                is_in_table = any(
+                    tb.x0 - 5.0 <= bbox.center_x <= tb.x1 + 5.0 and tb.y0 - 5.0 <= bbox.center_y <= tb.y1 + 5.0
+                    for tb in table_boxes
+                )
+                if is_in_table:
+                    regions.append(
+                        SemanticRegion(
+                            region_id=f"table_cell_{idx}",
+                            region_type=RegionType.TABLE,
+                            bbox=bbox,
+                            confidence=0.92,
+                            lines=[line],
+                            text=text,
+                        )
+                    )
+                    continue
+
             # 4. Caption check
             if self.caption_regex.match(text):
                 regions.append(
@@ -188,15 +208,16 @@ class SemanticRegionClassifier:
                 has_punct = text.endswith((".", "،", ",", "؛", ";", ":", "!", "؟", "?"))
                 has_conjunction = text.endswith(("و", "یا", "که", "از", "به", "در", "تا", "را"))
                 heading_kw = bool(re.match(
-                    r"^(فصل|بخش|مبحث|گفتار|درس|اعراض|اسباب|تعریف|تداوی|درمان|تشخیص|عوارض|پیشگیری|پیش‌گیری|مقدمه|Chapter|Unit|Section|Part|Table|Figure)\b",
+                    r"^(فصل|بخش|مبحث|گفتار|درس|اعراض|اسباب|تعریف|تداوی|درمان|تشخیص|عوارض|پیشگیری|پیش‌گیری|مقدمه|انواع|تاریخچه|معاینه|معاینات|پروسیجر|استطبابات|مضاد\s*استطبابات|اختلاطات|پلان|بلغم|سرفه|Chapter|Unit|Section|Part|Table|Figure)\b",
                     text,
                     re.IGNORECASE,
                 ))
-                num_heading = bool(re.match(r"^(\d+|[\u06f0-\u06f9]+)[\.\-\)]\s+", text))
-                is_short_title = len(text) <= 30 and not has_punct and not has_conjunction
+                num_heading = bool(re.match(r"^(\d+|[\u06f0-\u06f9]+|[a-zA-Z])[\.\-\)]\s+", text))
+                is_centered = abs(bbox.center_x - (page_width / 2.0)) < (page_width * 0.15)
+                is_short_title = len(text) <= 30 and not has_punct and not has_conjunction and (is_centered or heading_kw or num_heading)
 
                 if is_short and not has_punct and not has_conjunction:
-                    if line_font_size >= median_font_size * 1.50 or (heading_kw and line_font_size >= median_font_size * 1.15):
+                    if line_font_size >= median_font_size * 1.50 or (heading_kw and is_centered):
                         regions.append(
                             SemanticRegion(
                                 region_id=f"title_{idx}",

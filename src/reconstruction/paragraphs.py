@@ -120,7 +120,9 @@ class ParagraphReconstructor:
 
             prev_line = current_para_lines[-1]
 
-            ends_with_terminal = bool(self.terminal_punct.search(prev_line))
+            # Protect against false paragraph breaks on medical/standard abbreviations ending with dot
+            is_abbrev = bool(re.search(r"\b(?:syp|dr|mr|mrs|ms|e\.g|i\.e|fig|tab|no|vs|prof|approx|min|max|vol|p|pp)\.$", prev_line, re.IGNORECASE))
+            ends_with_terminal = bool(self.terminal_punct.search(prev_line)) and not is_abbrev
             first_char = clean_line[0] if clean_line else ""
             starts_with_lower = first_char.islower()
 

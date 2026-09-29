@@ -505,8 +505,16 @@ class OCRManager:
         line_boxes = [l.bbox for l in lines]
         layout = self.column_detector.detect_layout(line_boxes, float(w), float(h))
 
+        # Detect visual table grids in image
+        try:
+            table_boxes = self.table_detector.detect_table_grid_in_image(prep_res.processed_image)
+        except Exception:
+            table_boxes = []
+
         # 6. Semantic Region Classification
-        regions = self.region_classifier.classify_regions(lines, float(w), float(h), layout)
+        regions = self.region_classifier.classify_regions(
+            lines, float(w), float(h), layout, table_boxes=table_boxes
+        )
 
         # 7. Reading Order Sorting
         ordered_regions = self.reading_sorter.sort_regions(

@@ -188,8 +188,10 @@ class ReadingOrderSorter:
         current_cluster = [sorted_regions[0]]
 
         for r in sorted_regions[1:]:
-            prev_y0 = current_cluster[-1].bbox.y0
-            if abs(r.bbox.y0 - prev_y0) <= 4.0:
+            prev_center_y = current_cluster[-1].bbox.center_y
+            curr_center_y = r.bbox.center_y
+            line_tolerance = max(6.0, min(r.bbox.height, current_cluster[-1].bbox.height) * 0.45)
+            if abs(curr_center_y - prev_center_y) <= line_tolerance:
                 current_cluster.append(r)
             else:
                 current_cluster.sort(key=lambda x: x.bbox.x0, reverse=is_rtl)

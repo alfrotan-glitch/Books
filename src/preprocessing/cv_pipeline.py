@@ -205,6 +205,15 @@ class ImagePreprocessor:
         """
         return cv2.bilateralFilter(gray, d=5, sigmaColor=20, sigmaSpace=20)
 
+    def sharpen_text_and_dots(self, gray: np.ndarray) -> np.ndarray:
+        """
+        Unsharp masking specifically tuned for Persian/Arabic typography.
+        Enhances weak dots (پ، ت، ث، ش، چ، ژ، ق، ف) and thin ascenders
+        against background paper texture without amplifying high-frequency grain.
+        """
+        gaussian = cv2.GaussianBlur(gray, (0, 0), 2.0)
+        return cv2.addWeighted(gray, 1.25, gaussian, -0.25, 0)
+
     def adaptive_binarize(self, gray: np.ndarray) -> np.ndarray:
         """High-accuracy adaptive thresholding for clear OCR characters."""
         return cv2.adaptiveThreshold(
@@ -255,9 +264,10 @@ class ImagePreprocessor:
         if self.config.enable_clahe:
             gray = self.enhance_contrast_clahe(gray)
 
-        # 6. Denoising
+        # 6. Denoising & Dot Enhancement
         if self.config.enable_denoising:
             gray = self.denoise_image(gray)
+            gray = self.sharpen_text_and_dots(gray)
 
         processed_rgb = cv2.cvtColor(gray, cv2.COLOR_GRAY2RGB)
 

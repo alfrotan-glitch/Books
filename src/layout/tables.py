@@ -80,6 +80,8 @@ class TableDetector:
         """
         Detects tabular grid lines in scanned document image using morphological kernels.
         """
+        if len(gray.shape) == 3:
+            gray = cv2.cvtColor(gray, cv2.COLOR_RGB2GRAY)
         h, w = gray.shape
         _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
 
