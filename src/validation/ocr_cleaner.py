@@ -169,9 +169,18 @@ class OCRErrorDetector:
                     )
                 )
 
-        # 3. Persian / Arabic Character Normalization
-        # Normalizes Arabic kaf (ك) to Persian kaf (ک) and Arabic yeh (ي) to Persian yeh (ی)
-        cleaned_text = cleaned_text.replace('\u0643', 'ک').replace('\u064a', 'ی').replace('\u0649', 'ی')
+        # 3. Universal Persian / Arabic Character and ZWNJ Normalization
+        # Normalizes Arabic kaf (ك) to Persian kaf (ک), Arabic yeh (ي, ى) to Persian yeh (ی), and strips tatweel
+        cleaned_text = cleaned_text.replace('\u0643', 'ک').replace('\u064a', 'ی').replace('\u0649', 'ی').replace('ـ', '')
+
+        # Universal Verb Prefix 'می' and 'نمی' with ZWNJ (\u200c)
+        cleaned_text = re.sub(r'\b(می|نمی)\s+([ا-ی]{2,})\b', '\\g<1>\u200c\\g<2>', cleaned_text)
+
+        # Universal Plural Suffix 'ها' and 'های' with ZWNJ
+        cleaned_text = re.sub(r'\b([ا-ی]{2,})\s+(ها|های|هایش|هایمان|هایتان|هایشان)\b', '\\g<1>\u200c\\g<2>', cleaned_text)
+
+        # Universal Comparative/Superlative Suffix 'تر' and 'ترین'
+        cleaned_text = re.sub(r'\b([ا-ی]{2,})\s+(تر|ترین)\b', '\\g<1>\u200c\\g<2>', cleaned_text)
 
         # 4. High-confidence Persian OCR letter & prefix corrections
         persian_patterns = [

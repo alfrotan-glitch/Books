@@ -78,3 +78,14 @@ def test_latin_hallucinations_purging():
     assert "نودول" in cleaned
     assert "سی تی اسکن" in cleaned
 
+
+def test_universal_persian_zwnj_normalization():
+    detector = OCRErrorDetector()
+    sample = "او کتاب ها را می خواند و می گوید این بزرگ تر از دیگران است."
+    cleaned, _ = detector.detect_and_clean(sample, page_num=1)
+    assert "کتاب\u200cها" in cleaned
+    assert "می\u200cخواند" in cleaned
+    assert "می\u200cگوید" in cleaned
+    assert "بزرگ\u200cتر" in cleaned
+
+

@@ -429,47 +429,66 @@ class OCRManager:
 
             v_proj = np.sum(band_text_only > 0, axis=0)
 
-            # Check central gutter zone (30% to 70% of page width)
-            mid_x0 = int(0.30 * w)
-            mid_x1 = int(0.70 * w)
-            mid_slice = v_proj[mid_x0:mid_x1]
+            # Central zone where gutters can occur (15% to 85% of page width)
+            m_left = int(0.15 * w)
+            m_right = int(0.85 * w)
+            max_occ = float(np.max(v_proj[m_left:m_right])) if np.max(v_proj[m_left:m_right]) > 0 else 1.0
+            norm_v = v_proj / max_occ
 
-            max_occ = float(np.max(v_proj)) if np.max(v_proj) > 0 else 1.0
-            norm_mid = mid_slice / max_occ
+            valleys = []
+            in_v = False
+            v_start = 0
+            gutter_min_w = max(10, int(w * 0.015))
 
-            # Find valley where occupancy is very low (gutter between columns)
-            valley_indices = np.where(norm_mid < 0.12)[0]
+            for x in range(m_left, m_right):
+                if norm_v[x] < 0.12 and not in_v:
+                    in_v = True
+                    v_start = x
+                elif norm_v[x] >= 0.12 and in_v:
+                    in_v = False
+                    if (x - v_start) >= gutter_min_w:
+                        valleys.append((v_start, x))
+            if in_v and (m_right - v_start) >= gutter_min_w:
+                valleys.append((v_start, m_right))
 
-            # Gutter must be at least 12 pixels wide to be a true column gutter
-            if len(valley_indices) >= 12:
-                has_multi_col = True
-                g_center = mid_x0 + int(np.mean(valley_indices))
-                right_box = (max(0, g_center - 8), b_y0, w, b_y1)
-                left_box = (0, b_y0, min(w, g_center + 8), b_y1)
+            # Also check if vertical rule lines exist in band
+            v_rule_proj = np.sum(v_rules > 0, axis=0)
+            mid_rules = np.where(v_rule_proj[m_left:m_right] > (b_y1 - b_y0) * 0.35)[0]
+            if len(mid_rules) > 0:
+                rule_x = m_left + int(np.mean(mid_rules))
+                if not any(v_s <= rule_x <= v_e for v_s, v_e in valleys):
+                    valleys.append((rule_x - 3, rule_x + 3))
 
-                if is_rtl:
-                    crops_info.append(("col_right", right_box, band_idx))
-                    crops_info.append(("col_left", left_box, band_idx))
-                else:
-                    crops_info.append(("col_left", left_box, band_idx))
-                    crops_info.append(("col_right", right_box, band_idx))
+            # Filter valid gutters: must have text on both sides
+            min_col_w = int(w * 0.10)
+            valid_cutoffs = []
+            for v_s, v_e in valleys:
+                left_text = np.sum(v_proj[m_left:v_s] > 0)
+                right_text = np.sum(v_proj[v_e:m_right] > 0)
+                if left_text >= min_col_w * 0.3 and right_text >= min_col_w * 0.3:
+                    valid_cutoffs.append((v_s + v_e) // 2)
+
+            if not valid_cutoffs:
+                crops_info.append(("spanning", (0, b_y0, w, b_y1), band_idx))
             else:
-                # Check if a vertical divider rule was present in the central area
-                v_rule_proj = np.sum(v_rules > 0, axis=0)
-                mid_rules = np.where(v_rule_proj[mid_x0:mid_x1] > (b_y1 - b_y0) * 0.35)[0]
-                if len(mid_rules) > 0:
-                    has_multi_col = True
-                    g_center = mid_x0 + int(np.mean(mid_rules))
-                    right_box = (max(0, g_center), b_y0, w, b_y1)
-                    left_box = (0, b_y0, min(w, g_center), b_y1)
-                    if is_rtl:
-                        crops_info.append(("col_right", right_box, band_idx))
-                        crops_info.append(("col_left", left_box, band_idx))
-                    else:
-                        crops_info.append(("col_left", left_box, band_idx))
-                        crops_info.append(("col_right", right_box, band_idx))
+                has_multi_col = True
+                intervals = []
+                curr_x = 0
+                for cut in sorted(valid_cutoffs):
+                    intervals.append((curr_x, cut))
+                    curr_x = cut
+                intervals.append((curr_x, w))
+
+                # Order intervals by reading direction
+                if is_rtl:
+                    ordered = list(reversed(intervals))
+                    for idx_c, (cx0, cx1) in enumerate(ordered):
+                        c_type = "col_right" if idx_c == 0 else "col_left"
+                        crops_info.append((c_type, (cx0, b_y0, cx1, b_y1), band_idx))
                 else:
-                    crops_info.append(("spanning", (0, b_y0, w, b_y1), band_idx))
+                    for idx_c, (cx0, cx1) in enumerate(intervals):
+                        c_type = "col_left" if idx_c == 0 else "col_right"
+                        crops_info.append((c_type, (cx0, b_y0, cx1, b_y1), band_idx))
 
         if has_multi_col:
             return crops_info
