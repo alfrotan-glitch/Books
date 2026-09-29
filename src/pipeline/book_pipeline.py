@@ -285,8 +285,8 @@ class BookPipeline:
                     warnings.append("No OCR engine available; extracted raw PDF text layer.")
                 else:
                     raise RuntimeError(
-                        "این صفحه اسکن‌شده تصویری است اما موتور OCR فعال نیست. "
-                        "پایتون ۳.۱۴ از RapidOCR پشتیبانی نمی‌کند؛ لطفاً پایتون ۳.۱۲ استاندارد را نصب کنید."
+                        "This page is a scanned image, but no OCR engine is active. "
+                        "Please install Tesseract OCR with Persian traineddata via install_tesseract_farsi.bat or setup RapidOCR."
                     )
 
         # Perform OCR Error Detection and High-Confidence Cleaning

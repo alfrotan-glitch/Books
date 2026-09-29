@@ -45,6 +45,8 @@ class DocumentFormatter:
 
         current_para_lines: List[str] = []
         footnotes: List[str] = []
+        prev_col_idx = None
+        prev_bbox = None
 
         def flush_paragraphs():
             nonlocal current_para_lines
@@ -59,6 +61,21 @@ class DocumentFormatter:
             text = region.text.strip()
             if not text:
                 continue
+
+            # If switching between columns or spanning blocks, immediately flush!
+            if prev_col_idx is not None and region.column_index != prev_col_idx:
+                flush_paragraphs()
+
+            # If large vertical paragraph gap, flush!
+            if (
+                prev_bbox is not None
+                and region.region_type == RegionType.PARAGRAPH
+                and (region.bbox.y0 - prev_bbox.y1) > 30.0
+            ):
+                flush_paragraphs()
+
+            prev_col_idx = region.column_index
+            prev_bbox = region.bbox
 
             # Context-aware Header handling (NO SILENT DELETION OF SUBSTANTIVE CONTENT)
             if region.region_type == RegionType.HEADER:

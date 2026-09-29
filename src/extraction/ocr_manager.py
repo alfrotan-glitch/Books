@@ -373,6 +373,87 @@ class OCRManager:
         except Exception:
             return []
 
+    def slice_page_into_layout_crops(
+        self,
+        img: np.ndarray,
+        is_rtl: bool = True,
+    ) -> List[Tuple[str, Tuple[int, int, int, int], int]]:
+        """
+        Detects horizontal bands and column gutters directly on the image.
+        Returns list of (crop_type, (x0, y0, x1, y1), band_index).
+        crop_type: 'col_right', 'col_left', 'spanning'
+        """
+        h, w = img.shape[:2]
+        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) if len(img.shape) == 3 else img.copy()
+
+        # Margins for header and footer (top 6%, bottom 6%)
+        m_top = int(h * 0.06)
+        m_bot = int(h * 0.94)
+
+        # Morphological binarization to detect text distribution
+        _, thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
+
+        # Bridge text lines vertically within paragraphs
+        kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, max(15, h // 35)))
+        dilated = cv2.dilate(thresh[m_top:m_bot, :], kernel)
+
+        h_proj = np.sum(dilated > 0, axis=1)
+
+        raw_bands = []
+        in_b = False
+        start_y = 0
+        min_band_h = max(25, h // 40)
+        for y in range(len(h_proj)):
+            if h_proj[y] > 0 and not in_b:
+                in_b = True
+                start_y = y
+            elif h_proj[y] == 0 and in_b:
+                in_b = False
+                if y - start_y >= min_band_h:
+                    raw_bands.append((start_y + m_top, y + m_top))
+        if in_b and len(h_proj) - start_y >= min_band_h:
+            raw_bands.append((start_y + m_top, len(h_proj) + m_top))
+
+        if not raw_bands:
+            raw_bands = [(m_top, m_bot)]
+
+        crops_info = []
+        has_multi_col = False
+        for band_idx, (b_y0, b_y1) in enumerate(raw_bands):
+            band_thresh = thresh[b_y0:b_y1, :]
+            v_proj = np.sum(band_thresh > 0, axis=0)
+
+            # Check central gutter zone (35% to 65% of page width)
+            mid_x0 = int(0.35 * w)
+            mid_x1 = int(0.65 * w)
+            mid_slice = v_proj[mid_x0:mid_x1]
+
+            max_occ = float(np.max(v_proj)) if np.max(v_proj) > 0 else 1.0
+            norm_mid = mid_slice / max_occ
+
+            # Find valley where occupancy is very low (gutter between columns)
+            valley_indices = np.where(norm_mid < 0.12)[0]
+
+            # Gutter must be at least 15 pixels wide to be a true column gutter
+            if len(valley_indices) >= 15:
+                has_multi_col = True
+                g_center = mid_x0 + int(np.mean(valley_indices))
+                right_box = (max(0, g_center - 10), b_y0, w, b_y1)
+                left_box = (0, b_y0, min(w, g_center + 10), b_y1)
+
+                if is_rtl:
+                    crops_info.append(("col_right", right_box, band_idx))
+                    crops_info.append(("col_left", left_box, band_idx))
+                else:
+                    crops_info.append(("col_left", left_box, band_idx))
+                    crops_info.append(("col_right", right_box, band_idx))
+            else:
+                crops_info.append(("spanning", (0, b_y0, w, b_y1), band_idx))
+
+        if has_multi_col:
+            return crops_info
+        return []
+
     def compute_agreement(self, text_a: str, text_b: str) -> float:
         """Computes word overlap agreement between two OCR engines."""
         words_a = set(text_a.lower().split())
@@ -418,32 +499,60 @@ class OCRManager:
 
         if prefer_tesseract:
             try:
-                ocr_blocks = self.run_tesseract(proc_img)
-                if ocr_blocks:
-                    method_used = ExtractionMethod.OCR_TESSERACT
-                    avg_c = float(np.mean([b["confidence"] for b in ocr_blocks]))
-                    # Universal Background Invariance Retry:
-                    # If confidence is low or text blocks are sparse on an image page,
-                    # automatically retry with Sauvola adaptive binarization!
-                    if avg_c < 0.62 or len(ocr_blocks) < 6:
+                # 1. Try Layout-Aware Physical Column Slicing on multi-column scanned pages
+                crops_info = self.slice_page_into_layout_crops(proc_img, is_rtl=is_rtl)
+                if crops_info:
+                    sliced_blocks = []
+                    for crop_type, (cx0, cy0, cx1, cy1), band_idx in crops_info:
+                        sub_img = proc_img[cy0:cy1, cx0:cx1]
+                        if sub_img.shape[0] < 15 or sub_img.shape[1] < 20:
+                            continue
+                        sub_blocks = self.run_tesseract(sub_img)
+                        for b in sub_blocks:
+                            b_box = b["bbox"]
+                            b["bbox"] = BoundingBox(
+                                x0=b_box.x0 + cx0,
+                                y0=b_box.y0 + cy0,
+                                x1=b_box.x1 + cx0,
+                                y1=b_box.y1 + cy0,
+                            )
+                            b["col_idx"] = 1 if crop_type == "col_right" else 0 if crop_type == "col_left" else -1
+                            b["band_idx"] = band_idx
+                            sliced_blocks.append(b)
+
+                    if sliced_blocks:
+                        ocr_blocks = sliced_blocks
+                        method_used = ExtractionMethod.OCR_TESSERACT
+                        warnings.append("Applied physical layout band & column slicing for zero-interleaving extraction.")
+
+                # Fallback to full-page OCR if slicing found single-column or yielded no blocks
+                if not ocr_blocks:
+                    ocr_blocks = self.run_tesseract(proc_img)
+                    if ocr_blocks:
+                        method_used = ExtractionMethod.OCR_TESSERACT
+                        avg_c = float(np.mean([b["confidence"] for b in ocr_blocks]))
+                        # Universal Background Invariance Retry:
+                        # If confidence is low or text blocks are sparse on an image page,
+                        # automatically retry with Sauvola adaptive binarization!
+                        if avg_c < 0.62 or len(ocr_blocks) < 6:
+                            gray_proc = cv2.cvtColor(proc_img, cv2.COLOR_RGB2GRAY)
+                            sauvola_img = self.preprocessor.sauvola_threshold(gray_proc)
+                            sauvola_rgb = cv2.cvtColor(sauvola_img, cv2.COLOR_GRAY2RGB)
+                            retry_blocks = self.run_tesseract(sauvola_rgb)
+                            if retry_blocks:
+                                retry_c = float(np.mean([b["confidence"] for b in retry_blocks]))
+                                if retry_c > avg_c or len(retry_blocks) > len(ocr_blocks) * 1.25:
+                                    ocr_blocks = retry_blocks
+                                    warnings.append("Applied Sauvola adaptive thresholding retry for difficult background.")
+                    else:
+                        # If initial standard image produced 0 blocks, try Sauvola adaptive binarization directly!
                         gray_proc = cv2.cvtColor(proc_img, cv2.COLOR_RGB2GRAY)
                         sauvola_img = self.preprocessor.sauvola_threshold(gray_proc)
                         sauvola_rgb = cv2.cvtColor(sauvola_img, cv2.COLOR_GRAY2RGB)
-                        retry_blocks = self.run_tesseract(sauvola_rgb)
-                        if retry_blocks:
-                            retry_c = float(np.mean([b["confidence"] for b in retry_blocks]))
-                            if retry_c > avg_c or len(retry_blocks) > len(ocr_blocks) * 1.25:
-                                ocr_blocks = retry_blocks
-                                warnings.append("Applied Sauvola adaptive thresholding retry for difficult background.")
-                else:
-                    # If initial standard image produced 0 blocks, try Sauvola adaptive binarization directly!
-                    gray_proc = cv2.cvtColor(proc_img, cv2.COLOR_RGB2GRAY)
-                    sauvola_img = self.preprocessor.sauvola_threshold(gray_proc)
-                    sauvola_rgb = cv2.cvtColor(sauvola_img, cv2.COLOR_GRAY2RGB)
-                    ocr_blocks = self.run_tesseract(sauvola_rgb)
-                    if ocr_blocks:
-                        method_used = ExtractionMethod.OCR_TESSERACT
-                        warnings.append("Extracted text via Sauvola binarization for stained/degraded document.")
+                        ocr_blocks = self.run_tesseract(sauvola_rgb)
+                        if ocr_blocks:
+                            method_used = ExtractionMethod.OCR_TESSERACT
+                            warnings.append("Extracted text via Sauvola binarization for stained/degraded document.")
             except Exception as e:
                 warnings.append(f"Tesseract error: {e}")
 
@@ -454,7 +563,7 @@ class OCRManager:
                 if ocr_blocks:
                     method_used = ExtractionMethod.OCR_RAPIDOCR
                     if is_rtl:
-                        warnings.append("از موتور پشتیبان RapidOCR استفاده شد.")
+                        warnings.append("Engaged secondary RapidOCR fallback engine.")
             except Exception as e:
                 warnings.append(f"RapidOCR error: {e}")
 
