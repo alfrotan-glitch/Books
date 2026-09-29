@@ -529,4 +529,89 @@ class OCRErrorDetector:
                 )
                 cleaned_text = re.sub(pat, repl, cleaned_text)
 
+        # 5. Purge stray Latin OCR hallucinations from Persian text
+        cleaned_text = self.clean_latin_hallucinations_in_persian(cleaned_text)
+
         return cleaned_text, corrections
+
+    def clean_latin_hallucinations_in_persian(self, text: str) -> str:
+        """Removes random Latin character clusters hallucinated from degraded Persian dots/ligatures."""
+        persian_chars = len(re.findall(r"[\u0600-\u06FF]", text))
+        if persian_chars < 5:
+            return text
+
+        valid_latin_medical = {
+            "abrams", "three-way", "three", "way", "hrct", "v/q", "scan", "ards", "ecg", "dvt",
+            "aki", "ckd", "pfts", "uacs", "ct", "ap", "pa", "view", "scapula", "lung", "field",
+            "pleurodesis", "guaifenesin", "salbutamol", "ventolin", "heparin", "covid", "covid19",
+            "sars", "h1n1", "co2", "o2", "b12", "d3", "t3", "t4", "cd4", "cd8", "il6", "tnf",
+            "p53", "brca1", "brca2", "po", "iv", "im", "sc", "50cc", "cc", "mg", "ml", "kg",
+            "detailed", "report", "loculated", "gauge", "needle", "v", "q", "view", "x-ray", "xray",
+        }
+
+        def filter_latin(match: re.Match) -> str:
+            token = match.group(0)
+            clean = re.sub(r"[^a-zA-Z0-9\/\-]", "", token).lower()
+            if not clean:
+                return ""
+            if clean in valid_latin_medical:
+                return token
+            if clean.isdigit() and len(clean) <= 4:
+                return token
+            if len(clean) >= 4 and clean in ("blood", "cell", "test", "rate", "line", "report"):
+                return token
+            return ""
+
+        # Normalize stray pipe dividers between words
+        t = re.sub(r"(?<=[ا-یA-Za-z])\s*\|\s*(?=[ا-یA-Za-z])", ": ", text)
+        # Filter stray Latin tokens
+        pattern = re.compile(r"(?<![a-zA-Z0-9\/\-])[a-zA-Z][a-zA-Z0-9\/\-\(\)\!\?\,\.]*(?![a-zA-Z0-9\/\-])")
+        cleaned = pattern.sub(filter_latin, t)
+        cleaned = re.sub(r"(?<=\s)[\!\?\)\(\]\[](?=\s)", "", cleaned)
+        cleaned = re.sub(r"\s{2,}", " ", cleaned).strip()
+        return cleaned
+
+    def is_unintelligible_smudge(self, text: str) -> bool:
+        """Determines if a short line is isolated scanner noise, a border artifact, or meaningless OCR smudge."""
+        t = text.strip()
+        if not t or len(t) <= 1:
+            return True
+
+        # Pure short Latin junk: 'ae', 'oe', 'wh', 'oe]'
+        if re.match(r"^[a-zA-Z\s\(\)\[\]\.\,\-\_\!\?]{1,4}$", t):
+            if t.lower() not in ("pa", "ap", "ct", "iv", "im", "po", "sc", "v/q", "o2"):
+                return True
+
+        # Common Persian vocabulary for lexical verification
+        common_persian_words = {
+            "در", "به", "از", "که", "با", "تا", "بر", "یا", "و", "را", "آن", "این", "شد", "است", "نیز",
+            "برای", "شود", "باشد", "می‌شود", "می‌باشد", "دارد", "دارند", "گردد", "می‌گیرد", "سازید",
+            "انجام", "کشف", "سوزن", "پلورا", "ریه", "قلب", "سایه", "طبیعی", "اسکن", "گرافی", "مریض",
+            "ایفوژن", "اسپایریشن", "معالجوی", "تشخیصی", "عسرت", "تنفس", "فوقانی", "تحتانی", "قرار",
+            "بزرگتر", "معلوم", "شامل", "معمولاً", "راپور", "مفصل", "حجرات", "بیوشیمی", "جلد", "عضله",
+            "بی‌حس", "استریل", "دستکش", "کلاه", "چپن", "ماسک", "شق", "کوچک", "وصل", "مقدار", "کشیده",
+            "عودکننده", "خبیث", "کند", "جابجا", "میدیاستینوسکوپ", "ترقوه", "اضلاع", "افقی", "مایل",
+            "ذروه‌ها", "تصویر", "جدول", "شکل", "فصل", "بخش", "مبحث", "صفحه", "واحد", "نورمال",
+            "یک", "دو", "سه", "چهار", "پنج", "اول", "دوم", "سوم", "چون", "اما", "اگر", "هر", "همه",
+            "باید", "تواند", "داده", "گردیده", "پوشیده", "شوند", "بلغم", "سرفه", "تب", "درد", "سینه",
+        }
+
+        clean_t = re.sub(r"[\d\u06f0-\u06f9\.,؛:\-\–—\!؟\?\/\\\|\[\]\(\)\{\}\"\']", " ", t)
+        tokens = [w for w in clean_t.split() if len(w) > 0]
+        if not tokens:
+            return True
+
+        if len(t) < 32:
+            matched = 0
+            for tok in tokens:
+                if tok in common_persian_words or len(tok) >= 5:
+                    matched += 1
+                elif tok.lower() in ("view", "ap", "pa", "scapula", "lung", "field", "abrams", "three-way", "hrct", "scan"):
+                    matched += 1
+            if len(tokens) >= 2 and matched == 0:
+                return True
+
+        if re.match(r"^[a-zA-Z]{1,3}\s+[\d\u06f0-\u06f9]+\s+", t) and len(t) < 18:
+            return True
+
+        return False

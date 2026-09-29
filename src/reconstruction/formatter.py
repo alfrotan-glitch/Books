@@ -10,6 +10,7 @@ from src.config import ExtractionConfig, default_config
 from src.models import PageResult, QualityStatus, RegionType, SemanticRegion
 from src.reconstruction.headers_footers import HeaderFooterManager
 from src.reconstruction.paragraphs import ParagraphReconstructor
+from src.validation.ocr_cleaner import OCRErrorDetector
 
 
 class DocumentFormatter:
@@ -20,6 +21,7 @@ class DocumentFormatter:
     ):
         self.config = config or default_config
         self.header_footer_mgr = header_footer_mgr or HeaderFooterManager()
+        self.ocr_cleaner = OCRErrorDetector()
         self.para_reconstructor = ParagraphReconstructor(
             dehyphenate=self.config.dehyphenation_enabled,
             preserve_true_hyphens=self.config.preserve_true_hyphens,
@@ -60,6 +62,10 @@ class DocumentFormatter:
         for region in page_result.regions:
             text = region.text.strip()
             if not text:
+                continue
+
+            # Drop isolated scanner noise, binder artifacts, and meaningless smudges (e.g. 'بیذ مت کد اج', 'gs ۳3 نی اکن قر')
+            if self.ocr_cleaner.is_unintelligible_smudge(text):
                 continue
 
             # If switching between columns or spanning blocks, immediately flush!

@@ -48,3 +48,33 @@ def test_medical_terminology_corrections():
     assert "نوموتوراکس" in cleaned
     assert "قیحی" in cleaned
     assert len(corrections) >= 5
+
+
+def test_unintelligible_smudge_rejection():
+    detector = OCRErrorDetector()
+    assert detector.is_unintelligible_smudge("بیذ مت کد اج") is True
+    assert detector.is_unintelligible_smudge("gs ۳3 نی اکن قر") is True
+    assert detector.is_unintelligible_smudge("ae") is True
+    assert detector.is_unintelligible_smudge("oe]") is True
+    assert detector.is_unintelligible_smudge("بیوپسی پلورا با سوزن بیوپسی پلورای Abrams انجام می‌شود") is False
+    assert detector.is_unintelligible_smudge("AP View PA") is False
+    assert detector.is_unintelligible_smudge("سایه قلب بزرگتر معلوم می‌شود.") is False
+
+
+def test_latin_hallucinations_purging():
+    detector = OCRErrorDetector()
+    corrupted_line = (
+        "pe وی اسکن انداژه و cays یک توئول Wis) spy MS را لنتکه Ul درآ تکلس ا "
+        "spss lal است Ghats! yp قد ۵ مسر نی ادن dows بندی کارسینومای برانشیل و برای نشان"
+    )
+    cleaned, _ = detector.detect_and_clean(corrupted_line, page_num=2)
+
+    # Hallucinated junk must be purged
+    for junk in ["pe", "cays", "Wis", "spy", "MS", "Ul", "spss", "lal", "Ghats", "yp", "dows"]:
+        assert junk not in cleaned
+
+    # Valid Persian text and corrections must remain intact
+    assert "اندازه" in cleaned
+    assert "نودول" in cleaned
+    assert "سی تی اسکن" in cleaned
+
