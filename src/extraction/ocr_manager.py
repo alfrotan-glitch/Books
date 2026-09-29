@@ -232,6 +232,7 @@ class OCRManager:
         """
         Runs Tesseract OCR if available.
         Groups words into natural coherent lines with bounding boxes and confidence.
+        Enforces gutter-aware and gap-aware splitting to prevent multi-column interleaving.
         """
         if not self._tesseract_available:
             return []
@@ -245,51 +246,129 @@ class OCRManager:
                 config=custom_config,
                 output_type=pytesseract.Output.DICT,
             )
-            parsed = []
-            lines_dict: Dict[Tuple[int, int, int], Dict[str, Any]] = {}
+            raw_words = []
             n_boxes = len(data["text"])
+            img_h, img_w = image.shape[:2]
+
             for i in range(n_boxes):
                 word = str(data["text"][i]).strip()
                 conf = float(data["conf"][i])
                 if not word or conf < 0:
                     continue
-                line_key = (data["block_num"][i], data["par_num"][i], data["line_num"][i])
                 x = float(data["left"][i])
                 y = float(data["top"][i])
                 w = float(data["width"][i])
                 h = float(data["height"][i])
-
-                if line_key not in lines_dict:
-                    lines_dict[line_key] = {
-                        "words": [word],
-                        "confs": [conf / 100.0],
-                        "x0": x,
-                        "y0": y,
-                        "x1": x + w,
-                        "y1": y + h,
-                    }
-                else:
-                    lines_dict[line_key]["words"].append(word)
-                    lines_dict[line_key]["confs"].append(conf / 100.0)
-                    lines_dict[line_key]["x0"] = min(lines_dict[line_key]["x0"], x)
-                    lines_dict[line_key]["y0"] = min(lines_dict[line_key]["y0"], y)
-                    lines_dict[line_key]["x1"] = max(lines_dict[line_key]["x1"], x + w)
-                    lines_dict[line_key]["y1"] = max(lines_dict[line_key]["y1"], y + h)
-
-            for line_info in lines_dict.values():
-                line_text = " ".join(line_info["words"])
-                avg_line_conf = float(np.mean(line_info["confs"])) if line_info["confs"] else 0.8
-                bbox = BoundingBox(
-                    x0=line_info["x0"],
-                    y0=line_info["y0"],
-                    x1=line_info["x1"],
-                    y1=line_info["y1"],
-                )
-                parsed.append({
-                    "bbox": bbox,
-                    "text": line_text,
-                    "confidence": avg_line_conf,
+                raw_words.append({
+                    "word": word,
+                    "conf": conf / 100.0,
+                    "x0": x,
+                    "y0": y,
+                    "x1": x + w,
+                    "y1": y + h,
+                    "orig_idx": i,
+                    "block": data["block_num"][i],
+                    "par": data["par_num"][i],
+                    "line": data["line_num"][i],
                 })
+
+            if not raw_words:
+                return []
+
+            # 1. Detect vertical gutter cutoffs from raw words across central body region
+            margin_top = img_h * 0.08
+            margin_bottom = img_h * 0.92
+            body_words = [w for w in raw_words if margin_top <= w["y0"] and w["y1"] <= margin_bottom]
+
+            gutter_cutoffs: List[float] = []
+            if len(body_words) >= 12:
+                num_bins = 200
+                bin_w = float(img_w) / num_bins
+                hist = np.zeros(num_bins, dtype=np.float32)
+                for w in body_words:
+                    b0 = int(max(0, min(num_bins - 1, w["x0"] / bin_w)))
+                    b1 = int(max(0, min(num_bins - 1, w["x1"] / bin_w)))
+                    hist[b0 : b1 + 1] += 1.0
+
+                mid_start = int(0.25 * num_bins)
+                mid_end = int(0.75 * num_bins)
+                max_occ = float(np.max(hist)) if np.max(hist) > 0 else 1.0
+                norm_occ = hist / max_occ
+
+                v_start = None
+                for b_idx in range(mid_start, mid_end):
+                    if norm_occ[b_idx] < 0.10:  # Gutter whitespace threshold
+                        if v_start is None:
+                            v_start = b_idx
+                    else:
+                        if v_start is not None:
+                            if (b_idx - v_start) >= 3:
+                                gutter_cutoffs.append(((v_start + b_idx) / 2.0) * bin_w)
+                            v_start = None
+                if v_start is not None and (mid_end - v_start) >= 3:
+                    gutter_cutoffs.append(((v_start + mid_end) / 2.0) * bin_w)
+
+            # 2. Group words by line_key = (block, par, line)
+            lines_dict: Dict[Tuple[int, int, int], List[Dict[str, Any]]] = {}
+            for w in raw_words:
+                key = (w["block"], w["par"], w["line"])
+                if key not in lines_dict:
+                    lines_dict[key] = []
+                lines_dict[key].append(w)
+
+            # 3. For each line, split into independent segments if separated by gutters or wide gaps
+            parsed = []
+            for line_key, words in lines_dict.items():
+                if len(words) == 1:
+                    w = words[0]
+                    parsed.append({
+                        "bbox": BoundingBox(x0=w["x0"], y0=w["y0"], x1=w["x1"], y1=w["y1"]),
+                        "text": w["word"],
+                        "confidence": w["conf"],
+                    })
+                    continue
+
+                # Sort words by x0 to inspect horizontal spacing
+                x_sorted = sorted(words, key=lambda item: item["x0"])
+                med_h = float(np.median([item["y1"] - item["y0"] for item in x_sorted]))
+                gap_threshold = max(35.0, med_h * 1.5)
+
+                # Segmenting by gap and gutter cutoffs
+                segments: List[List[Dict[str, Any]]] = []
+                current_seg = [x_sorted[0]]
+
+                for item in x_sorted[1:]:
+                    prev_x1 = current_seg[-1]["x1"]
+                    curr_x0 = item["x0"]
+                    gap = curr_x0 - prev_x1
+
+                    # Check if a detected gutter lies strictly between the two words
+                    crosses_gutter = any(prev_x1 < g_cut < curr_x0 for g_cut in gutter_cutoffs)
+
+                    if crosses_gutter or gap > gap_threshold:
+                        segments.append(current_seg)
+                        current_seg = [item]
+                    else:
+                        current_seg.append(item)
+                segments.append(current_seg)
+
+                # Convert each segment to a TextLine candidate
+                for seg in segments:
+                    # Sort words within segment by their original Tesseract index to preserve word flow
+                    seg_ordered = sorted(seg, key=lambda item: item["orig_idx"])
+                    seg_text = " ".join(item["word"] for item in seg_ordered)
+                    seg_conf = float(np.mean([item["conf"] for item in seg]))
+                    seg_x0 = min(item["x0"] for item in seg)
+                    seg_y0 = min(item["y0"] for item in seg)
+                    seg_x1 = max(item["x1"] for item in seg)
+                    seg_y1 = max(item["y1"] for item in seg)
+
+                    parsed.append({
+                        "bbox": BoundingBox(x0=seg_x0, y0=seg_y0, x1=seg_x1, y1=seg_y1),
+                        "text": seg_text,
+                        "confidence": seg_conf,
+                    })
+
             return parsed
         except Exception:
             return []

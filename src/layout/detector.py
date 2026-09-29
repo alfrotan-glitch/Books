@@ -114,7 +114,7 @@ class ColumnDetector:
         current_valley_start = None
 
         for i in range(left_bound_bin, right_bound_bin):
-            if norm_occ[i] < 0.08:  # gutter threshold
+            if norm_occ[i] < 0.15:  # gutter threshold (resilient against scan noise/gutter shadows)
                 if current_valley_start is None:
                     current_valley_start = i
             else:
