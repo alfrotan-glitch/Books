@@ -501,6 +501,17 @@ class OCRErrorDetector:
             (r"\bفمی\s*\(PO\)\b", "فمی / خوراکی (PO)", "Medical route"),
             # Medical Latin OCR Artifact Cleanups
             (r"\b[A-Za-z0-9]+[ـ\-_]+[A-Za-z0-9]+\b", "", "Scanner edge artifact"),
+            # Real Medical Book Scan Verified Corrections
+            (r"\bاضللاع\b", "اضلاع", "Anatomical terminology: 'اضللاع' -> 'اضلاع'"),
+            (r"\ble\s+field\b", "lung field", "Medical radiology terminology: 'le field' -> 'lung field'"),
+            (r"\bنی\s*اکن\b", "سی تی اسکن", "Medical imaging terminology: 'نی اکن' -> 'سی تی اسکن'"),
+            (r"\bنی\s*ادن\b", "سی تی اسکن", "Medical imaging terminology: 'نی ادن' -> 'سی تی اسکن'"),
+            (r"\bانداژه\b", "اندازه", "Spelling normalization: 'انداژه' -> 'اندازه'"),
+            (r"\bتوئول\b", "نودول", "Medical radiology terminology: 'توئول' -> 'نودول'"),
+            (r"\bبلورا\b(?!\s*ی\s*Abrams)", "پلورا", "Medical pulmonary terminology: 'بلورا' -> 'پلورا'"),
+            (r"\bیلورا\b", "پلورا", "Medical pulmonary terminology: 'یلورا' -> 'پلورا'"),
+            (r"\bدفیق\b", "دقیق", "Spelling: 'دفیق' -> 'دقیق'"),
+            (r"\bشمارش\s*حجرا[ثت]\b", "شمارش حجرات", "Laboratory terminology: 'شمارش حجرات'"),
         ]
 
         for pat, repl, reason in persian_patterns:

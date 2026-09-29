@@ -27,13 +27,13 @@ if exist ".venv\Scripts\python.exe" (
         if !errorlevel! equ 0 (
             set "PYTHON_EXE=py -3.13"
         ) else (
-            py -3.12 -V >nul 2>nul
+            py -3.14 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "PYTHON_EXE=py -3.12"
+                set "PYTHON_EXE=py -3.14"
             ) else (
-                py -3.11 -V >nul 2>nul
+                py -3.12 -V >nul 2>nul
                 if !errorlevel! equ 0 (
-                    set "PYTHON_EXE=py -3.11"
+                    set "PYTHON_EXE=py -3.12"
                 ) else (
                     set "PYTHON_EXE=py -3"
                 )

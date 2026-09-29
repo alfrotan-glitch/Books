@@ -24,10 +24,16 @@ set SYSTEM_PYTHON=
 
 if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" (
     set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python313\python.exe""
+) else if exist "%LOCALAPPDATA%\Programs\Python\Python314\python.exe" (
+    set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python314\python.exe""
 ) else if exist "C:\Program Files\Python313\python.exe" (
     set "SYSTEM_PYTHON="C:\Program Files\Python313\python.exe""
+) else if exist "C:\Program Files\Python314\python.exe" (
+    set "SYSTEM_PYTHON="C:\Program Files\Python314\python.exe""
 ) else if exist "%ProgramFiles%\Python313\python.exe" (
     set "SYSTEM_PYTHON="%ProgramFiles%\Python313\python.exe""
+) else if exist "%ProgramFiles%\Python314\python.exe" (
+    set "SYSTEM_PYTHON="%ProgramFiles%\Python314\python.exe""
 ) else if exist "%LOCALAPPDATA%\Programs\Python\Python312\python.exe" (
     set "SYSTEM_PYTHON="%LOCALAPPDATA%\Programs\Python\Python312\python.exe""
 ) else if exist "C:\Program Files\Python312\python.exe" (
@@ -45,13 +51,13 @@ if exist "%LOCALAPPDATA%\Programs\Python\Python313\python.exe" (
         if !errorlevel! equ 0 (
             set "SYSTEM_PYTHON=py -3.13"
         ) else (
-            py -3.12 -V >nul 2>nul
+            py -3.14 -V >nul 2>nul
             if !errorlevel! equ 0 (
-                set "SYSTEM_PYTHON=py -3.12"
+                set "SYSTEM_PYTHON=py -3.14"
             ) else (
-                py -3.11 -V >nul 2>nul
+                py -3.12 -V >nul 2>nul
                 if !errorlevel! equ 0 (
-                    set "SYSTEM_PYTHON=py -3.11"
+                    set "SYSTEM_PYTHON=py -3.12"
                 ) else (
                     set "SYSTEM_PYTHON=py -3"
                 )

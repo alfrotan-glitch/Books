@@ -188,7 +188,7 @@ class ImagePreprocessor:
         border_mask[:, 0:margin_x] = 255
         border_mask[:, w - margin_x : w] = 255
 
-        dark_pixels = (gray < 85) & (border_mask == 255)
+        dark_pixels = (gray < 135) & (border_mask == 255)
         result[dark_pixels] = 255
         return result
 

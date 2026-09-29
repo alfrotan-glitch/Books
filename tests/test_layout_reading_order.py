@@ -190,3 +190,30 @@ def test_conservative_ocr_heading_classification():
     # The short section title is classified as heading
     assert regions[0].region_type in (RegionType.HEADING, RegionType.TITLE)
 
+
+def test_slice_page_into_layout_crops_with_vertical_rule():
+    """Verify that image layout slicing isolates columns even with a vertical rule in the gutter."""
+    import numpy as np
+    from src.extraction.ocr_manager import OCRManager
+
+    ocr_mgr = OCRManager()
+    h, w = 1000, 800
+    img = np.full((h, w, 3), 255, dtype=np.uint8)
+
+    # Left column text (x: 60..360)
+    for y in range(120, 880, 25):
+        img[y:y + 12, 60:360] = 0
+
+    # Right column text (x: 440..740)
+    for y in range(120, 880, 25):
+        img[y:y + 12, 440:740] = 0
+
+    # Thin vertical rule line in the center gutter at x=400
+    img[100:900, 400:402] = 0
+
+    crops = ocr_mgr.slice_page_into_layout_crops(img, is_rtl=True)
+    crop_types = [c[0] for c in crops]
+    assert "col_right" in crop_types
+    assert "col_left" in crop_types
+    assert crop_types.index("col_right") < crop_types.index("col_left")
+

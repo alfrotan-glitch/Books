@@ -421,11 +421,17 @@ class OCRManager:
         has_multi_col = False
         for band_idx, (b_y0, b_y1) in enumerate(raw_bands):
             band_thresh = thresh[b_y0:b_y1, :]
-            v_proj = np.sum(band_thresh > 0, axis=0)
 
-            # Check central gutter zone (35% to 65% of page width)
-            mid_x0 = int(0.35 * w)
-            mid_x1 = int(0.65 * w)
+            # Neutralize vertical rule lines if present so they don't mask the gutter!
+            v_rule_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, max(25, (b_y1 - b_y0) // 2)))
+            v_rules = cv2.morphologyEx(band_thresh, cv2.MORPH_OPEN, v_rule_kernel)
+            band_text_only = cv2.subtract(band_thresh, v_rules)
+
+            v_proj = np.sum(band_text_only > 0, axis=0)
+
+            # Check central gutter zone (30% to 70% of page width)
+            mid_x0 = int(0.30 * w)
+            mid_x1 = int(0.70 * w)
             mid_slice = v_proj[mid_x0:mid_x1]
 
             max_occ = float(np.max(v_proj)) if np.max(v_proj) > 0 else 1.0
@@ -434,12 +440,12 @@ class OCRManager:
             # Find valley where occupancy is very low (gutter between columns)
             valley_indices = np.where(norm_mid < 0.12)[0]
 
-            # Gutter must be at least 15 pixels wide to be a true column gutter
-            if len(valley_indices) >= 15:
+            # Gutter must be at least 12 pixels wide to be a true column gutter
+            if len(valley_indices) >= 12:
                 has_multi_col = True
                 g_center = mid_x0 + int(np.mean(valley_indices))
-                right_box = (max(0, g_center - 10), b_y0, w, b_y1)
-                left_box = (0, b_y0, min(w, g_center + 10), b_y1)
+                right_box = (max(0, g_center - 8), b_y0, w, b_y1)
+                left_box = (0, b_y0, min(w, g_center + 8), b_y1)
 
                 if is_rtl:
                     crops_info.append(("col_right", right_box, band_idx))
@@ -448,7 +454,22 @@ class OCRManager:
                     crops_info.append(("col_left", left_box, band_idx))
                     crops_info.append(("col_right", right_box, band_idx))
             else:
-                crops_info.append(("spanning", (0, b_y0, w, b_y1), band_idx))
+                # Check if a vertical divider rule was present in the central area
+                v_rule_proj = np.sum(v_rules > 0, axis=0)
+                mid_rules = np.where(v_rule_proj[mid_x0:mid_x1] > (b_y1 - b_y0) * 0.35)[0]
+                if len(mid_rules) > 0:
+                    has_multi_col = True
+                    g_center = mid_x0 + int(np.mean(mid_rules))
+                    right_box = (max(0, g_center), b_y0, w, b_y1)
+                    left_box = (0, b_y0, min(w, g_center), b_y1)
+                    if is_rtl:
+                        crops_info.append(("col_right", right_box, band_idx))
+                        crops_info.append(("col_left", left_box, band_idx))
+                    else:
+                        crops_info.append(("col_left", left_box, band_idx))
+                        crops_info.append(("col_right", right_box, band_idx))
+                else:
+                    crops_info.append(("spanning", (0, b_y0, w, b_y1), band_idx))
 
         if has_multi_col:
             return crops_info
