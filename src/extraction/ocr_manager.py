@@ -421,6 +421,29 @@ class OCRManager:
                 ocr_blocks = self.run_tesseract(proc_img)
                 if ocr_blocks:
                     method_used = ExtractionMethod.OCR_TESSERACT
+                    avg_c = float(np.mean([b["confidence"] for b in ocr_blocks]))
+                    # Universal Background Invariance Retry:
+                    # If confidence is low or text blocks are sparse on an image page,
+                    # automatically retry with Sauvola adaptive binarization!
+                    if avg_c < 0.62 or len(ocr_blocks) < 6:
+                        gray_proc = cv2.cvtColor(proc_img, cv2.COLOR_RGB2GRAY)
+                        sauvola_img = self.preprocessor.sauvola_threshold(gray_proc)
+                        sauvola_rgb = cv2.cvtColor(sauvola_img, cv2.COLOR_GRAY2RGB)
+                        retry_blocks = self.run_tesseract(sauvola_rgb)
+                        if retry_blocks:
+                            retry_c = float(np.mean([b["confidence"] for b in retry_blocks]))
+                            if retry_c > avg_c or len(retry_blocks) > len(ocr_blocks) * 1.25:
+                                ocr_blocks = retry_blocks
+                                warnings.append("Applied Sauvola adaptive thresholding retry for difficult background.")
+                else:
+                    # If initial standard image produced 0 blocks, try Sauvola adaptive binarization directly!
+                    gray_proc = cv2.cvtColor(proc_img, cv2.COLOR_RGB2GRAY)
+                    sauvola_img = self.preprocessor.sauvola_threshold(gray_proc)
+                    sauvola_rgb = cv2.cvtColor(sauvola_img, cv2.COLOR_GRAY2RGB)
+                    ocr_blocks = self.run_tesseract(sauvola_rgb)
+                    if ocr_blocks:
+                        method_used = ExtractionMethod.OCR_TESSERACT
+                        warnings.append("Extracted text via Sauvola binarization for stained/degraded document.")
             except Exception as e:
                 warnings.append(f"Tesseract error: {e}")
 

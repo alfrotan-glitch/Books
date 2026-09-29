@@ -214,6 +214,38 @@ class ImagePreprocessor:
         gaussian = cv2.GaussianBlur(gray, (0, 0), 2.0)
         return cv2.addWeighted(gray, 1.25, gaussian, -0.25, 0)
 
+    def sauvola_threshold(self, gray: np.ndarray, window_size: int = 31, k: float = 0.18, r: float = 128.0) -> np.ndarray:
+        """
+        Sauvola binarization: robust local adaptive thresholding designed for degraded documents,
+        stains, colored boxes, and uneven illumination.
+        """
+        mean = cv2.boxFilter(gray.astype(np.float32), -1, (window_size, window_size))
+        sq_mean = cv2.boxFilter((gray.astype(np.float32))**2, -1, (window_size, window_size))
+        variance = np.maximum(sq_mean - mean**2, 0)
+        std = np.sqrt(variance)
+        thresh = mean * (1.0 + k * (std / r - 1.0))
+        return np.where(gray > thresh, 255, 0).astype(np.uint8)
+
+    def normalize_dark_callout_boxes(self, gray: np.ndarray) -> np.ndarray:
+        """
+        Detects highlighted dark callout boxes (e.g. colored or dark summary boxes with white text)
+        and inverts them so text is uniformly dark-on-light for OCR engines.
+        """
+        h, w = gray.shape
+        blurred = cv2.GaussianBlur(gray, (15, 15), 0)
+        median_val = float(np.median(gray))
+        if median_val > 140:
+            dark_mask = (blurred < 90).astype(np.uint8) * 255
+            contours, _ = cv2.findContours(dark_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+            result = gray.copy()
+            for c in contours:
+                x, y, bw, bh = cv2.boundingRect(c)
+                if bw > w * 0.18 and bh > 25 and (bw < w * 0.98 or bh < h * 0.90):
+                    box_roi = result[y : y + bh, x : x + bw]
+                    result[y : y + bh, x : x + bw] = cv2.bitwise_not(box_roi)
+            return result
+        return gray
+
     def adaptive_binarize(self, gray: np.ndarray) -> np.ndarray:
         """High-accuracy adaptive thresholding for clear OCR characters."""
         return cv2.adaptiveThreshold(
@@ -234,13 +266,20 @@ class ImagePreprocessor:
         quality = ImageQualityAssessor.assess_quality(image)
         gray = self.to_grayscale(image)
 
-        # 1. Shadow Removal / Illumination Normalization FIRST
+        # 1. Check overall page polarity (invert dark-mode / white-on-black pages)
+        if np.mean(gray) < 105:
+            gray = cv2.bitwise_not(gray)
+
+        # 2. Shadow Removal / Illumination Normalization FIRST
         shadow_removed = False
         if self.config.enable_shadow_removal:
             gray = self.remove_shadows_and_normalize(gray)
             shadow_removed = True
 
-        # 2. Rotation Check
+        # Invert local dark callout boxes if present
+        gray = self.normalize_dark_callout_boxes(gray)
+
+        # 3. Rotation Check
         rotation_angle = 0
         if self.config.enable_auto_rotation:
             rotation_angle = self.detect_orthogonal_rotation(gray)
