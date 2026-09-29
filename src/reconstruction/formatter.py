@@ -60,28 +60,27 @@ class DocumentFormatter:
             if not text:
                 continue
 
-            # Context-aware Header handling (NO SILENT DELETION)
+            # Context-aware Header handling (NO SILENT DELETION OF SUBSTANTIVE CONTENT)
             if region.region_type == RegionType.HEADER:
                 flush_paragraphs()
-                if self.header_footer_mgr.is_running_header(text) or len(text) < 20:
-                    # Tagged running header or short marginal artifact: preserved as non-intrusive comment
-                    sections.append(f"<!-- [HEADER: {text}] -->")
-                else:
+                # Skip isolated marginal scanner noise / single-character artifacts
+                if len(text) <= 2 or text.lower() in ("ae", "oe", "wh", "myr as 0", "و"):
+                    continue
+                if not (self.header_footer_mgr.is_running_header(text) or len(text) < 15):
                     sections.append(text)
                 continue
 
             # Context-aware Footer handling
             if region.region_type == RegionType.FOOTER:
                 flush_paragraphs()
-                if self.header_footer_mgr.is_running_footer(text) or len(text) < 20:
-                    sections.append(f"<!-- [FOOTER: {text}] -->")
-                else:
+                if len(text) <= 2 or text.lower() in ("ae", "oe", "wh", "oe]", "و"):
+                    continue
+                if not (self.header_footer_mgr.is_running_footer(text) or len(text) < 15):
                     sections.append(text)
                 continue
 
             if region.region_type == RegionType.PAGE_NUMBER:
-                # Standalone page number preserved as comment
-                sections.append(f"<!-- [PAGE NUMBER: {text}] -->")
+                # Page numbers are recorded in page provenance, suppressed from text body
                 continue
 
             # Structural Headings (Clean book formatting without markdown syntax noise)
