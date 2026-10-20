@@ -31,6 +31,7 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 | 16 | Hepatic zonation headed "zone 1 / zone 3", with "alcoholic injury" attached to zone 3 | **Zone I / zone III**, with the book's own content: zone III gets least oxygen, is first to accumulate fat and undergo ischemic necrosis, and is the main site of drug biotransformation | Ch 16 |
 | 17 | Small-cell carcinoma described only as "less common, highly malignant" | Origin from **small granule (Kulchitsky) cells** added | Ch 17 |
 | 20 | Parathyroid oxyphils softened to "function not established"; total weight deleted | Restored the book's statement: **degenerated derivatives of principal cells, some still showing low-level PTH synthesis**, and the **0.4 g** total | Part 4, Ch 20 |
+| 1 | TEM resolution given as 3 nm, while MCQ 4 called 0.2 nm the "electron-microscope resolution" | Ch 1 now separates the book's practical **3 nm for sectioned tissue** from the instrument's **~0.2 nm point resolution**, and the MCQ explanation no longer contradicts the chapter | Ch 1 + MCQ 4 |
 | 23 | "About 75 ciliary processes" | Replaced with "numerous"; the count is not in the source | Part 4, Ch 23 |
 | 15 | Rectum "10–12 cm" and anal canal "3–4 cm" | Deleted; neither length is given in the chapter | Ch 15 text |
 | 12 | Granulocytes "10–14 µm"; lymphocytes "7–12 µm, 20–30%"; eosinophils "2–4%" | **12–15 µm** for neutrophils, eosinophils and basophils; lymphocytes **6–15 µm, about one-third**; eosinophils **1–4%** | Ch 12 body text |
@@ -43,6 +44,8 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 - **Ch 14:** palatine tonsil given its **partial capsule**; unnecessary absolute ("no capsule") removed.
 - **Ch 17/rapid review:** pseudostratified epithelium split — **ciliated** in the respiratory tract, **stereocilia** in the epididymis and vas deferens.
 - **Ch 10/rapid review:** smooth-muscle growth given as **hypertrophy and hyperplasia**, not hyperplasia alone.
+- **Front matter and Ch 4/5 absolutes qualified:** epithelium is "normally avascular", with the **stria vascularis** named as the exception; "essentially all muscle from mesoderm" now names the iris and some head muscles; the endometrial stroma no longer claims "no adipocytes"; the artefact sentence no longer says every clear space is shrinkage.
+- **Examiner folklore removed:** "the most examined immunology fact in the chapter" and "lose this mark every year" replaced with neutral statements; the basophilic/eosinophilic contrast in the exam-technique list was reworded correctly and "Clara cell" replaced by **club cell**.
 - **Ch 7 MCQs:** scoring guidance no longer implies a guaranteed exam result; Q40 rewritten (duplicated sentence, each distractor explained); non-existent "B band" traps replaced with H zone and cardiac diad sites; Q43, Q44, Q50 and three trap sentences rewritten.
 
 ### 1.4 Claims re-verified and left unchanged (spot checks, not a full re-audit)
@@ -63,7 +66,7 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 
 ## 2. Editorial and pedagogical improvements
 
-- **Plates to study** added to all 23 chapters: 136 figure numbers with the subject each caption names. No image is reproduced; the reader is sent to the printed plate. The list is deliberately short (four in Ch 6, which has only four figures; six elsewhere).
+- **Plates to study** added to all 23 chapters: 136 figure numbers, each with a **chapter-specific task** naming the structure or distinction to find and, where useful, the figure to compare it with. No image is reproduced; the reader is sent to the printed plate. The list is deliberately short (four in Ch 6, which has only four figures; six elsewhere).
 - **MCQ layout fixed in every format.** In the first render, options A–D ran together on one line; they are now one option per line in PDF, DOCX, HTML and EPUB.
 - **Examiner folklore and guarantees removed**: "asked almost every year", "students lose this mark every year", score bands that implied a predicted examination result. Scoring is now framed as self-assessment.
 - **Scope and independence** paragraph added to the front matter: no affiliation, no endorsement, no plates reproduced, not a substitute for the textbook or the course.
@@ -124,17 +127,17 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 
 ## 6. Final commits and artifact hashes
 
-**Artifact commit (this release):** `1f2ff2a` — *Correct leukocyte dimensions, remove unstated rectal lengths; rebuild*
-**Earlier commits in the same pass:** `3330946` (Ch 19 filtration wording) and `aeb9c70` — *Final priority reset: verify Chapters 15-23 against source, correct details, add study plates, rebuild*
+**Artifact commit (this release):** `d60c14d` — *Resolve TEM resolution wording, qualify generalizations, add chapter-specific plate tasks; rebuild*
+**Earlier commits in the same pass:** `1f2ff2a` (leukocyte dimensions, rectal lengths), `3330946` (Ch 19 filtration wording) and `aeb9c70` — *Final priority reset: verify Chapters 15-23 against source, correct details, add study plates, rebuild*
 This report is committed in the commit that follows; `git log` shows it on top.
 
 | Artifact | Bytes | SHA-256 |
 |---|---|---|
-| `Junqueira_Exam_Companion_FINAL.pdf` | 511,251 | `dc84775c2856ba8ee13f68546ce253030acebfe88efabcc177343fc8be04f99b` |
-| `Junqueira_Exam_Companion_FINAL.docx` | 177,765 | `51c39f4fd7aab673825a4498708b0a783909f02274b4ee5928eaae1ad4fe2842` |
-| `Junqueira_Exam_Companion_FINAL.epub` | 215,472 | `214b187ee89c9c78b2feafee2c665857f247b4f7182a3dd1848123378df6dcec` |
-| `Junqueira_Exam_Companion_FINAL.html` | 444,083 | `ea6cf413728e67aeba7ab2ba4b37e19eb82d6e6122d28df9f4c60bde92bf1216` |
+| `Junqueira_Exam_Companion_FINAL.pdf` | 512,277 | `0c26c583fa83aed136e583d18da2ba2de4fcf9058569751b543868d488223cb2` |
+| `Junqueira_Exam_Companion_FINAL.docx` | 178,978 | `b064ef6ee36e82e04944043ab3e61e5ef27cafb549c5d5c0394d56c94894a3b9` |
+| `Junqueira_Exam_Companion_FINAL.epub` | 217,447 | `fcbba8eb7d560a2f18749f735acf814c2bd1e6ce68016d808f7bd4ef1b462798` |
+| `Junqueira_Exam_Companion_FINAL.html` | 448,104 | `2cbcba07233d18e5d00f39e8282748b4c2134ffbbf3781841901e978ef2f9812` |
 | `deliverables/junqueira_flashcards.csv` (unchanged) | — | `0d33512669193a36fc8d895397883f0c34fe9cdb0ad31925214fdab3bb151a57` |
 | `deliverables/junqueira_question_bank.csv` (unchanged) | — | `7790a51397fff690e029123606a9c5217696e196ffb9b8a07c45f17fd6d78628` |
 
-PDF text: **49,455 words**; **142 pages**; contents on p. 3; Part VII begins p. 125; answer key p. 137.
+PDF text: **49,600 words**; **142 pages**; contents on p. 3; Part VII begins p. 125; answer key p. 137.
