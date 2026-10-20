@@ -1,8 +1,8 @@
-# Final review report — including the 142-page visual audit
+# Final review report — correction record and page audit
 
 **Product:** *Basic Histology: The Exam & Learning Companion* (independent companion to Junqueira's Basic Histology, 17th edition).
 **Scope:** the book only. The 550 flashcards and the 100-question CSV bank were left unchanged (their hashes are identical to the previous release) and are not assessed here.
-**This pass:** every page of the PDF (142/142) was rendered and inspected, the defects confirmed were corrected, all four formats were rebuilt, and the checklist in §4.1 records what was found on each page.
+**Status of the audit:** this report does **not** claim that every page was inspected at full size. An earlier version claimed "142/142 pages inspected"; that claim is withdrawn, because the session record does not show that every page was individually viewed. What is true is recorded in §3 and §4.1: automated text and layout checks were run on all 142 pages; all 142 pages were viewed in six contact sheets at thumbnail scale for gross layout; and 18 pages — every page whose text changed in this round — were inspected at full size. Remaining full-size page inspection stayed incomplete at the time of writing, and §5 says so.
 
 ---
 
@@ -63,21 +63,40 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 - Ch 19 body text gives 8–15 renal pyramids, its summary 8–12; both are noted.
 - Ch 21 gives "between 10 and 20" efferent ductules in one place and "about 20" in another; the guide uses 10–20.
 
-### 1.6 Corrections made in the 142-page visual audit (this pass)
+### 1.6 Corrections made in the earlier page audit
 
 | Page(s) | Problem | Correction | Evidence |
 |---|---|---|---|
 | 29 | The MICRO box defined **stratified** as "more than one nuclear level with a flat continuous surface", which would make every pseudostratified epithelium — and any obliquely cut simple epithelium — stratified, contradicting p. 28 and the box's own "respiratory" entry | Rewritten: every cell on the basement membrane with nuclei at different heights = **pseudostratified**; cells stacked on one another = **stratified** | Ch 4: pseudostratified is "truly a single layer in which every cell touches the basement membrane" |
 | 38 | "Perichondrium is present except on articular surfaces … where **it** forms the smooth, low-friction bearing surface" made the perichondrium the joint surface, contradicting the same sentence and p. 39 | "… where **the cartilage itself** forms the smooth, low-friction bearing surface" | Ch 7: articular hyaline cartilage lacks perichondrium |
 | 56 | Recall item asked "which vessel has the thickest media relative to its lumen" and answered **muscular artery**; this is an unsupported superlative (the wall-to-lumen ratio is highest in the smallest arteries/arterioles) | Replaced with the book's supported point: **one or two smooth-muscle layers and peripheral resistance = arteriole** | Ch 11 |
-| 59–60, 117, 139 | Differential counts and sizes did not match the book: neutrophils 60–70%, monocytes 3–8% and 14–20 µm, lymphocytes "about one-third"/20–30%, eosinophils 2–4% in the rapid table | Aligned to the book's Table 12–2 and text: **neutrophils 50–70%, eosinophils 1–4%, lymphocytes 20–40%, monocytes 2–8%**; monocytes **12–20 µm**; smallest lymphocyte ≈ red cell, medium/large **9–18 µm** | Ch 12, Table 12–2 and leukocyte text |
+| 59–60, 117, 139 | Differential counts and sizes did not match the book: neutrophils 60–70%, monocytes 3–8% and 14–20 µm, lymphocytes "about one-third"/20–30%, eosinophils 2–4% in the rapid table | Aligned to the book's Table 12–2 and text: **neutrophils 50–70%, eosinophils 1–4%, lymphocytes 20–40%, monocytes 2–8%**. Sizes were refined further in §1.7: lymphocytes **6–15 µm**, monocytes **12–20 µm** (the body text says 12–15 µm; the conflict is disclosed) | Ch 12, Table 12–2, Fig. 12–12 legend |
 | 59 | An average adult's **5–6 L** of blood was labelled "supplementary … not stated in the chapter" | Attribution removed; the book states "5 or 6 L of blood in an average adult" | Ch 12 opening |
 | 59 | Hematocrit given as **44–45%** | **about 44%**, as the book states | Ch 12 |
 | 63 | Erythroid maturation given as **5–7 days** | **about a week**, the book's figure | Ch 13 ("Erythropoiesis requires approximately a week") |
 | 63 | "**-cyte** = the later, **non-dividing** cell (myelocyte …)" contradicted the five mitotic divisions the book describes through the myelocyte stage | Rewritten: maturing cell; the suffix does not by itself mean post-mitotic, because **myelocytes still divide** | Ch 13 |
 | 78–79 | Bile route read "gallbladder → **common bile duct**", omitting the cystic duct on leaving the gallbladder; the same defect appeared in the recall item | Added "gallbladder → **cystic duct** → common bile duct" in both places | Ch 16 duct anatomy |
-| 33, 36, 51 | The heading **"Exam-style question"** was stranded as the last line of the page, with the vignette overleaf | `build.py` now keeps the heading with its vignette, options and answer; all three pages rebuilt and re-inspected | Layout, not content |
+| 33, 36, 51 | The heading **"Exam-style question"** was stranded as the last line of the page, with the vignette overleaf | `build.py` keeps the heading with its vignette, options and answer; all three pages rebuilt and heading placement re-checked | Layout, not content |
 | 115 | "(Chapter 2–3)" | "(Chapters 2–3)" | Style |
+
+### 1.7 Corrections made in the final correction round (§1.7)
+
+These were found while re-reading Chapters 1–14 against the source and re-checking every page whose text changed. Each was applied only after the source passage was located.
+
+| Page(s) | Problem | Correction | Evidence |
+|---|---|---|---|
+| 42 | Bone matrix was given as **~65% inorganic / ~35% organic**. That is a common textbook figure but not this book's | **~50% inorganic of dry weight** and **~50% organic**, with an explicit note that many textbooks quote 65:35 and the 17th edition gives about 50:50 | Ch 8: inorganic matter "about 50% of the dry weight"; type I collagen "90% of the organic matter" |
+| 42 | "Wolff law" (missing possessive) | "**Wolff's law**" | Grammar |
+| 54 | "the total length of its vessels is estimated at **100,000–150,000 km**" — the upper bound is not in the source, and the figure is about capillaries, not all vessels | "the **capillaries alone** have a total length of **more than 100,000 km** and a surface area of about **5,000 m²**" | Ch 11: capillaries "make up over 90% of the body's vasculature, with a total length of more than 100,000 km and a total surface area of approximately 5000 m²" |
+| 58 | Table 12–1 split the book's single "other solutes ~1%" row into two rows (electrolytes ~1% **and** nutrients ~1%), which reads as 2% and does not match the table | One row: **Other solutes (electrolytes and nutrients) ~1% of plasma**, with both functions in the right-hand cell | Table 12–1 (p. 158 of part 2), which has one "Other Solutes (~1% of Blood Plasma)" header over the electrolyte and nutrient rows |
+| 59 | Lymphocytes were given as "smallest ≈ red cell; **9–18 µm** (medium, large)" and monocytes as 12–20 µm without qualification | Lymphocytes **6–15 µm** (small, medium, large); monocytes **12–20 µm**, with a note that the body text says **12–15 µm** while the Fig. 12–12 legend says 12–20 µm; both are recorded and the conflict is not silently resolved | Ch 12 text: lymphocytes 6–15 µm; monocytes 12–15 µm; Fig. 12–12 legend: monocytes 12–20 µm |
+| 50 | The cardiac bullet read "Diads at the Z line … rather than triads of the transverse tubule system at the A–I junction", which misattached "transverse tubule system" to the triads | "Diads at the Z line (one T-tubule + one cisterna), rather than the **triads at the A–I junction of skeletal muscle**" | Ch 10 |
+| 64 | One-line answer and recall item said the nucleus is extruded **at the reticulocyte stage**, contradicting the chapter text (extrusion produces the reticulocyte) | "extruded at the **orthochromatophilic erythroblast** stage, producing the reticulocyte, which still contains residual RNA"; the recall question was reworded to match | Ch 13 |
+| 21 | Nucleosome DNA given as "about 1.75 turns around the octamer" | **about 1.65 turns** — the value consistent with ~147–150 bp per nucleosome (the source gives the bp, not the turns) | Standard nucleosome structure; internal arithmetic with the 150-bp figure |
+| 19 | "lytic death **programmes**" (British spelling in an otherwise US-spelling text) | "programs" | Consistency |
+| 35, 46, 62, 64, 73, 74, 81, 110, 122 | Remaining examiner framing: "the exam list", "Exam hook", "most examinable lineage", "examinable by name", "the progression to know", "different and examinable", "proportions are examinable", "classic exam distinction", "Classic exam use", "short but examinable" | Rewritten neutrally: "the ones worth knowing", "Key point", "the most named stages", "listed here by name", "the progression to know", "different and worth knowing", "worth remembering", "a classic distinction", "Typical use", "worth reading" | Editorial constraint: no examiner folklore or frequency claims |
+| 51 | "This is asked more often than any other muscle fact" — an unsupported frequency claim | "This is the muscle fact to keep straight: I and H shorten, A stays constant, Z lines approach." | Editorial constraint |
+| 54–55 | The heading **Vasculature** was left as the last line of p. 54, with its table overleaf, after the new sentence lengthened the page | `build.py` now keeps every `###`/`####` heading with its following block (paragraph, list or table); p. 54 ends with the "rule of the wall" paragraph and p. 55 opens with the heading and table | Layout, not content; both pages re-rendered and re-inspected |
 
 Two apparent defects checked and **left unchanged**: the "basal cells ~30%" share on p. 81 is supported by the Fig. 17–2 legend (stem cells plus differentiating progeny), and the p. 83 sentence on surfactant secreted by type II cells *and* club cells reproduces the book's own summary statement.
 
@@ -98,15 +117,20 @@ Two apparent defects checked and **left unchanged**: the "basal cells ~30%" shar
 
 ## 3. What was actually reviewed
 
-**Every page of the PDF was rendered and looked at in this pass — 142 of 142.** Body pages were rendered at scale 0.6 (358 × 506 px) and dense tables, small print and corrected pages at 0.8–1.0; each page image was inspected on its own rather than sampled. The check covered clipped, overlapping or unreadable text, table and column integrity, orphan headings, page breaks, page numbers, contents and chapter references, MCQ layout, captions/plate references, and production residue.
+**Reading against the source.** In this final round the prose of Chapters 1–14 was read in full — `01_cells.md`, `02a_basic_tissues.md`, `02b_basic_tissues.md`, `03_transport.md`, `04_viscera.md` and `05_systems.md` — and checked claim by claim against the extracted text of the four source PDF parts. Chapters 15–23 had been read in full in earlier rounds; their corrections are recorded in §1.2 and §1.6. The 100 MCQs and the answer key were checked structurally (§4).
 
-**Correction discipline.** A page was changed only when the suspected fault was confirmed against the extracted source text (or, for the stranded headings, against the rendered layout), and every corrected page was re-rendered and re-inspected after the rebuild. No correct fact was altered for style.
+**Page inspection — exactly what was done.**
 
-**Earlier in the same overall review:** Chapters 15–23 were read in full against the source, Chapters 1–14 were re-checked by numeric and absolute-language sweeps with targeted claim checks, and the front matter, appendices, 100 MCQs and answer key were reviewed structurally. The commit history preserves those passes. This pass adds the page-level visual check that was previously missing.
+- **All 142 pages** were rendered into six contact sheets (24 pages per sheet, about 0.55 scale) and viewed. At that scale a page can be checked for blank or missing content, overlapping blocks, tables running off the page and gross break faults; small type, hyphenation and line-level spacing cannot be judged.
+- **Eighteen pages** were rendered at 1.3–1.6 scale and inspected individually: **19, 21, 35, 42, 46, 50, 51, 54, 55, 58, 59, 62, 64, 73, 74, 81, 110, 122**. This is every page whose text changed in this round, inspected after the final rebuild.
+- The remaining **124 pages were not inspected at full size** in this round. In earlier rounds some of them were viewed, but the session record does not establish which, so §4.1 marks them "contact sheet only" rather than claiming a full-size check.
+- No page is described as inspected unless it was viewed at least at contact-sheet scale.
 
-**Source used:** the four PDF parts of the 17th edition from the Drive copy — body text, tables and figure captions.
+**Correction discipline.** A page was changed only when the suspected fault was confirmed against the extracted source text (or, for layout, against the rendered page), and every changed page was re-rendered and re-inspected after the rebuild. No correct fact was altered for style.
 
-**Not done:** no independent medical or didactic review, no classroom testing, no visual rendering of the DOCX/EPUB/HTML editions, and no EPUBCheck.
+**Source used:** the four PDF parts of the 17th edition from the Drive copy — body text, tables and figure captions. Thirty pages of that copy have no text layer (§5); where a claim depended on such a page and could not be checked, it is not asserted.
+
+**Not done:** independent medical or didactic review; classroom testing; visual rendering of the DOCX, EPUB or HTML; EPUBCheck; print proof.
 
 
 ---
@@ -116,200 +140,203 @@ Two apparent defects checked and **left unchanged**: the "basal cells ~30%" shar
 | Check | Method | Result |
 |---|---|---|
 | PDF page count | pypdfium2 | **142 pages** |
-| **Page-by-page visual inspection** | render + view, one image per page, all 142 pages | **142/142 inspected**; 10 confirmed content defects on 11 pages, 3 layout fixes; all corrected pages re-inspected (checklist in §4.1) |
-| Blank pages | text layer of every page | **0** |
-| Glyphs outside the page box | char-box bounds, every sampled character on every page | **0 pages**; widest body line 554 pt inside the 595-pt box |
-| Sparse pages | text-layer length and bottom-gap measurement | 7 part-title pages (10, 25, 53, 71, 90, 114, 125) plus chapter-end pages whose content ends before the foot — all intended |
-| Orphan headings | last body line of every page | **0** headings left at the foot (3 found and fixed) |
-| Contents | 41 numbered entries parsed; target page checked for every entry | **41/41 resolve**; chapters 1–23 in order on pp. 11–109 |
-| Chapter openers | first heading on each contents-listed page | 23/23 correct |
-| Chapter and Page Guide | 24 rows compared with all 23 openers and the appendix | all ranges match |
-| DOCX structure | zip + `word/document.xml` | 73 tables; **visual check NOT RUN** (no Word/LibreOffice) |
-| HTML structure | tag count | 73 tables; **browser rendering NOT RUN** |
-| EPUB | `tools/validate_epub.py` | **PASS** (18 files, 11 documents, 45 links, nav present) |
-| EPUBCheck | — | **NOT RUN** — no Java in the environment; the internal validator is not equivalent |
+| **Visual inspection** | six contact sheets covering pp. 1–142; 18 individual full-size renders | **142/142 at contact-sheet scale** (gross layout only); **18 pages at full size** — 19, 21, 35, 42, 46, 50, 51, 54, 55, 58, 59, 62, 64, 73, 74, 81, 110, 122. **124 pages not inspected at full size**; see §3 and §4.1 |
+| Blank pages | text layer of every page | **0**; the seven sparse pages are part titles (10, 25, 53, 71, 90, 114, 125) |
+| Glyphs outside the page box | char-box bounds, every character on every page | **0 glyphs outside the 595 × 842 pt page**; the widest line is a cover line at 563 pt |
+| Orphan headings | last body line of all 142 pages against all 174 headings | **0 remaining**; one ("Vasculature", p. 54) found and fixed in this round |
+| Tables split across pages | inspection of table fragments | Allowed when a table is longer than a page; the header row repeats. One short table starts with header + 1 row at the foot of p. 35 and continues on p. 36 — recorded as a cosmetic break, not a content defect |
+| Contents | 41 entries parsed; target page checked for every entry | **41/41 resolve**; chapters 1–23 on pp. 11–109; Ch 24 p. 115; App A p. 122; App B p. 124; MCQs p. 126; key p. 137; scoring p. 142 |
+| Chapter openers | first heading on each contents-listed page | **24/24 correct** (23 chapters plus the rapid review chapter) |
+| Chapter and Page Guide | 24 rows compared with all openers and the appendices | all ranges match |
+| DOCX structure | zip + `word/document.xml` | **73 tables**; **visual check NOT RUN** (no Word/LibreOffice) |
+| HTML structure | tag count | 73 tables, 34 `<h2>`, 42 anchors; **browser rendering NOT RUN** |
+| EPUB | `tools/validate_epub.py` | **PASS — 0 errors, 0 warnings** (18 files, 14 manifest items); this is an internal check, **not** EPUBCheck |
+| EPUBCheck | — | **NOT RUN** — no Java in the environment; no equivalence to the internal validator is claimed |
 | MCQs | parse of all 100 items and keys | 100/100 with one key; **25/25/25/25**; numbering 1–100 sequential |
 | Figure citations | all `Fig. n–m` entries against the 488-entry figure register | **136/136** numbers exist |
-| Numeric sweep | unit-token extraction vs normalized source text | all flags resolved; the 12 numeric/attribution faults found in this pass are listed in §1.6 |
+| Numeric sweep | unit-token extraction vs normalized source text | all flags inspected in context; no unresolved contradiction left |
 | Flashcards / question bank | hash comparison | unchanged (550 cards, 100 questions) |
 
 **What was not done:** no rendering of the DOCX, EPUB or HTML in a viewer; no EPUBCheck; no independent medical review; no student testing; no color-managed or print proof of the PDF.
 
-### 4.1 Page-by-page checklist — 142/142 pages inspected
+### 4.1 Page-by-page coverage checklist — all 142 pages
 
-Legend: **OK** = inspected, no material defect; **CORRECTED** = defect confirmed, fixed and the rebuilt page re-inspected; **LAYOUT** = heading placement fixed; **RE-INSPECTED** = page rebuilt because content moved onto it.
+Legend: **Contact sheet** = the page appeared in one of the six contact sheets and was viewed at about 0.55 scale (blank pages, overlaps, runaway tables, gross breaks only). **Full size** = rendered at 1.3–1.6 and inspected individually. **Corrected** entries are listed in §1.6 (earlier round) or §1.7 (this round).
 
-| Page | Result | What was on the page / finding |
-|---|---|---|
-| 1 | OK | cover; title, palette, stats, disclaimer |
-| 2 | OK | title page; part list renders correctly |
-| 3 | OK | Contents: 41 numbered entries; all resolve to matching headings |
-| 4 | OK | How to Use; block table fits; no clipping |
-| 5 | OK | study plans; section-end whitespace |
-| 6 | OK | Twelve Laws; no clipping |
-| 7 | OK | Exam Technique; callout clear of footer |
-| 8 | OK | About 17e; short section |
-| 9 | OK | Chapter and Page Guide; 24 chapter rows, ranges match every opener |
-| 10 | OK | Part I title (sparse by design) |
-| 11 | OK | Ch 1 opener; fixation table and concentration note consistent |
-| 12 | OK | stains table, PAS/argentaffin/Luxol blue, atlas palette table |
-| 13 | OK | stain table continues with repeated header |
-| 14 | OK | EM, confocal, polarizing tables; TEM 3 nm wording |
-| 15 | OK | ISH table; interpretation section |
-| 16 | OK | Ch 1 MCQ and plates |
-| 17 | OK | Ch 2 opener; membrane table |
-| 18 | OK | organelles; cytoskeleton table |
-| 19 | OK | inclusions; CLINICAL/MICRO boxes |
-| 20 | OK | Ch 2 MCQ and plates |
-| 21 | OK | Ch 3 opener; nucleosome numbers |
-| 22 | OK | mitosis/apoptosis table |
-| 23 | OK | lamin/progeria; Barr body |
-| 24 | OK | Ch 3 MCQ and plates |
-| 25 | OK | Part II title |
-| 26 | OK | Ch 4 opener; four-tissue table matches book Table 4-1 |
-| 27 | OK | junction table; microvilli/cilia |
-| 28 | OK | epithelium table continues; gland bullets |
-| 29 | CORRECTED | MICRO box now separates pseudostratified from stratified |
-| 30 | OK | Ch 4 MCQ and plates |
-| 31 | OK | Ch 5 opener; cell and fibre tables |
-| 32 | OK | collagen types and synthesis; GAG text |
-| 33 | LAYOUT | rebuilt: stranded 'Exam-style question' heading removed |
-| 34 | RE-INSPECTED | exam block and plates now open the page |
-| 35 | OK | Ch 6 opener; adipokines |
-| 36 | LAYOUT | rebuilt: stranded heading removed |
-| 37 | RE-INSPECTED | exam block and plates now open the page |
-| 38 | CORRECTED | hyaline paragraph: perichondrium no longer said to form the articular surface |
-| 39 | OK | cartilage comparison table |
-| 40 | OK | Ch 7 MCQ and plates |
-| 41 | OK | Ch 8 opener; bone-cell table |
-| 42 | OK | matrix, osteon/spongy, ossification zones |
-| 43 | OK | PTH/calcitriol/calcitonin table; joints |
-| 44 | OK | Ch 8 MCQ and plates |
-| 45 | OK | Ch 9 opener |
-| 46 | OK | glial table; CNS/PNS; MS/GBS box |
-| 47 | OK | MICRO/TIP/one-liners; axon regeneration |
-| 48 | OK | plates-only page; p47 text reaches the foot |
-| 49 | OK | Ch 10 opener; sarcomere table |
-| 50 | OK | DMD/MG box; muscle comparison table |
-| 51 | LAYOUT | rebuilt: stranded heading removed |
-| 52 | RE-INSPECTED | exam block and plates now open the page |
-| 53 | OK | Part III title |
-| 54 | OK | Ch 11 opener; heart and vessel tables |
-| 55 | OK | vessel/capillary tables; lymphatics |
-| 56 | CORRECTED | arteriole recall item replaced (unsupported superlative) |
-| 57 | OK | plates-only page |
-| 58 | OK | Ch 12 opener; plasma table matches Table 12-1 |
-| 59 | CORRECTED | differential counts and sizes aligned to book; blood-volume attribution fixed; hematocrit 44% |
-| 60 | CORRECTED | recall count corrected; Ch 12 MCQ and plates |
-| 61 | OK | plates-only page |
-| 62 | OK | Ch 13 opener; sites and growth factors |
-| 63 | CORRECTED | '-cyte' corrected (myelocytes divide); erythroid sequence 'about a week' |
-| 64 | OK | EPO/TPO tip; M:E recall; MCQ |
-| 65 | OK | plates-only page |
-| 66 | OK | Ch 14 opener; innate/adaptive table |
-| 67 | OK | antibody table; MHC/CD pairing |
-| 68 | OK | thymus, MALT, node and spleen text |
-| 69 | OK | organ comparison table; DiGeorge box |
-| 70 | OK | recall; DiGeorge MCQ; plates |
-| 71 | OK | Part IV title |
-| 72 | OK | Ch 15 opener; four-layer table |
-| 73 | OK | papilla table; teeth |
-| 74 | OK | gastric cells; 3/10/20-fold amplification |
-| 75 | OK | colon; clinical box |
-| 76 | OK | Ch 15 MCQ and plates |
-| 77 | OK | Ch 16 opener; salivary ducts; pancreas |
-| 78 | CORRECTED | bile route now includes the cystic duct after the gallbladder |
-| 79 | CORRECTED | recall bile trace corrected; Ch 16 one-liners |
-| 80 | OK | exam block and plates; recall corrected |
-| 81 | OK | respiratory epithelium table: 30% figure checked against Fig. 17-2 legend (basal cells + progeny), retained |
-| 82 | OK | trachea/bronchi; 200 million alveoli and 75 m2 |
-| 83 | OK | surfactant sentence mirrors book (club cells + type II), retained |
-| 84 | OK | Ch 17 MCQ and plates |
-| 85 | OK | Ch 18 opener; epidermal layers and cell table |
-| 86 | OK | melanocytes; dermis; receptors |
-| 87 | OK | hair, nails, glands |
-| 88 | OK | skin repair; clinical box |
-| 89 | OK | plates-only page |
-| 90 | OK | Part V title |
-| 91 | OK | Ch 19 opener; kidney dimensions; filtration barrier |
-| 92 | OK | JGA; circulation; tubule table; 60 to 30 um |
-| 93 | OK | urothelium; urethra; clinical box |
-| 94 | OK | recall; podocyte MCQ; plates |
-| 95 | OK | Ch 20 opener; pituitary table |
-| 96 | OK | adrenal table; islets |
-| 97 | OK | parathyroid; pineal |
-| 98 | OK | Ch 20 MCQ and plates |
-| 99 | OK | Ch 21 opener; tubules; Sertoli products |
-| 100 | OK | spermiogenesis; duct system |
-| 101 | OK | penis; prostate zones; cryptorchidism |
-| 102 | OK | recall; PSA; plates |
-| 103 | OK | Ch 22 opener; oocyte numbers |
-| 104 | OK | lutein cells; zona pellucida; oviduct |
-| 105 | OK | uterus; decidua; placenta |
-| 106 | OK | cervix; vagina; mammary |
-| 107 | OK | source note on the book's lutein inconsistency; MCQ |
-| 108 | OK | plates-only page |
-| 109 | OK | Ch 23 opener; tunics; cornea |
-| 110 | OK | aqueous; lens; retina |
-| 111 | OK | ear; cochlea; organ of Corti |
-| 112 | OK | glaucoma; retina; recall |
-| 113 | OK | Ch 23 MCQ and plates |
-| 114 | OK | Part VI title |
-| 115 | CORRECTED | concept map: '(Chapter 2-3)' corrected to '(Chapters 2-3)' |
-| 116 | OK | identification algorithm; master tables 1-3 |
-| 117 | CORRECTED | master table 6 blood percentages corrected |
-| 118 | OK | tables 8-10; facts 1-18 |
-| 119 | OK | facts 19-61 |
-| 120 | OK | facts 62-100; distinctions |
-| 121 | OK | distinctions; eight common errors |
-| 122 | OK | Appendix A stains |
-| 123 | OK | Appendix A continuation; microscopy tip |
-| 124 | OK | Appendix B vocabulary |
-| 125 | OK | Part VII title |
-| 126 | OK | questions 1-8 |
-| 127 | OK | questions 9-17 |
-| 128 | OK | questions 18-27 |
-| 129 | OK | questions 28-36 |
-| 130 | OK | questions 37-45 |
-| 131 | OK | questions 46-55 |
-| 132 | OK | questions 56-64 |
-| 133 | OK | questions 65-73 |
-| 134 | OK | questions 74-82 |
-| 135 | OK | questions 83-92 |
-| 136 | OK | questions 93-100 |
-| 137 | OK | key 1-18 |
-| 138 | OK | key 19-40 |
-| 139 | CORRECTED | key 41-62; Q45 explanation now 50-70% |
-| 140 | OK | key 63-85 |
-| 141 | OK | key 86-100 |
-| 142 | OK | scoring table and closing note |
+| Page | Contact sheet | Full size | Finding / note |
+|---|---|---|---|
+| 1 | viewed | no | cover |
+| 2 | viewed | no |  |
+| 3 | viewed | no | contents; 41 entries |
+| 4 | viewed | no |  |
+| 5 | viewed | no |  |
+| 6 | viewed | no |  |
+| 7 | viewed | no |  |
+| 8 | viewed | no |  |
+| 9 | viewed | no |  |
+| 10 | viewed | no | part title (sparse by design) |
+| 11 | viewed | no |  |
+| 12 | viewed | no |  |
+| 13 | viewed | no |  |
+| 14 | viewed | no |  |
+| 15 | viewed | no |  |
+| 16 | viewed | no |  |
+| 17 | viewed | no |  |
+| 18 | viewed | no |  |
+| 19 | viewed | yes | programs wording |
+| 20 | viewed | no |  |
+| 21 | viewed | yes | 1.65 turns |
+| 22 | viewed | no |  |
+| 23 | viewed | no |  |
+| 24 | viewed | no |  |
+| 25 | viewed | no | part title (sparse by design) |
+| 26 | viewed | no |  |
+| 27 | viewed | no |  |
+| 28 | viewed | no |  |
+| 29 | viewed | no | MICRO box (earlier) |
+| 30 | viewed | no |  |
+| 31 | viewed | no |  |
+| 32 | viewed | no |  |
+| 33 | viewed | no | layout (earlier) |
+| 34 | viewed | no | re-inspected (earlier) |
+| 35 | viewed | yes |  |
+| 36 | viewed | no | layout (earlier) |
+| 37 | viewed | no | re-inspected (earlier) |
+| 38 | viewed | no | perichondrium (earlier) |
+| 39 | viewed | no |  |
+| 40 | viewed | no |  |
+| 41 | viewed | no |  |
+| 42 | viewed | yes | bone matrix; Wolff's law |
+| 43 | viewed | no |  |
+| 44 | viewed | no |  |
+| 45 | viewed | no |  |
+| 46 | viewed | yes | Key point header |
+| 47 | viewed | no |  |
+| 48 | viewed | no |  |
+| 49 | viewed | no |  |
+| 50 | viewed | yes | cardiac diads |
+| 51 | viewed | yes | muscle-tip wording |
+| 52 | viewed | no |  |
+| 53 | viewed | no | part title (sparse by design) |
+| 54 | viewed | yes | capillary length; heading moved |
+| 55 | viewed | yes | table reflowed from p. 54 |
+| 56 | viewed | no | arteriole item (earlier) |
+| 57 | viewed | no |  |
+| 58 | viewed | yes | Table 12–1 other solutes |
+| 59 | viewed | yes | leukocyte sizes |
+| 60 | viewed | no | differential data (earlier) |
+| 61 | viewed | no |  |
+| 62 | viewed | yes | hemopoiesis wording |
+| 63 | viewed | no | maturation wording (earlier) |
+| 64 | viewed | yes | nucleus extrusion |
+| 65 | viewed | no |  |
+| 66 | viewed | no |  |
+| 67 | viewed | no |  |
+| 68 | viewed | no |  |
+| 69 | viewed | no |  |
+| 70 | viewed | no |  |
+| 71 | viewed | no | part title (sparse by design) |
+| 72 | viewed | no |  |
+| 73 | viewed | yes | exam wording |
+| 74 | viewed | yes | exam wording |
+| 75 | viewed | no |  |
+| 76 | viewed | no |  |
+| 77 | viewed | no |  |
+| 78 | viewed | no | bile route (earlier) |
+| 79 | viewed | no | bile route (earlier) |
+| 80 | viewed | no |  |
+| 81 | viewed | yes | exam wording |
+| 82 | viewed | no |  |
+| 83 | viewed | no |  |
+| 84 | viewed | no |  |
+| 85 | viewed | no |  |
+| 86 | viewed | no |  |
+| 87 | viewed | no |  |
+| 88 | viewed | no |  |
+| 89 | viewed | no |  |
+| 90 | viewed | no | part title (sparse by design) |
+| 91 | viewed | no |  |
+| 92 | viewed | no |  |
+| 93 | viewed | no |  |
+| 94 | viewed | no |  |
+| 95 | viewed | no |  |
+| 96 | viewed | no |  |
+| 97 | viewed | no |  |
+| 98 | viewed | no |  |
+| 99 | viewed | no |  |
+| 100 | viewed | no |  |
+| 101 | viewed | no |  |
+| 102 | viewed | no |  |
+| 103 | viewed | no |  |
+| 104 | viewed | no |  |
+| 105 | viewed | no |  |
+| 106 | viewed | no |  |
+| 107 | viewed | no |  |
+| 108 | viewed | no |  |
+| 109 | viewed | no |  |
+| 110 | viewed | yes | classic distinction |
+| 111 | viewed | no |  |
+| 112 | viewed | no |  |
+| 113 | viewed | no |  |
+| 114 | viewed | no | part title (sparse by design) |
+| 115 | viewed | no | Chapters 2–3 (earlier) |
+| 116 | viewed | no |  |
+| 117 | viewed | no | differential key (earlier) |
+| 118 | viewed | no |  |
+| 119 | viewed | no |  |
+| 120 | viewed | no |  |
+| 121 | viewed | no |  |
+| 122 | viewed | yes | Typical use; appendix wording |
+| 123 | viewed | no |  |
+| 124 | viewed | no |  |
+| 125 | viewed | no | part title (sparse by design) |
+| 126 | viewed | no |  |
+| 127 | viewed | no |  |
+| 128 | viewed | no |  |
+| 129 | viewed | no |  |
+| 130 | viewed | no |  |
+| 131 | viewed | no |  |
+| 132 | viewed | no |  |
+| 133 | viewed | no |  |
+| 134 | viewed | no |  |
+| 135 | viewed | no |  |
+| 136 | viewed | no |  |
+| 137 | viewed | no |  |
+| 138 | viewed | no |  |
+| 139 | viewed | no | key Q45 (earlier) |
+| 140 | viewed | no |  |
+| 141 | viewed | no |  |
+| 142 | viewed | no |  |
+
+**Counts:** 142/142 viewed at contact-sheet scale; 18 inspected at full size; 124 not inspected at full size. No page is marked as fully inspected unless it was rendered individually.
 
 
 ## 5. Unresolved limitations
 
-1. **Thirty source pages have no text layer** (part 1: 1–3, 20, 29, 46, 76, 79, 86, 142, 166, 174, 203; part 2: 60, 69, 72, 90, 158, 217; part 3: 42, 50, 80, 82, 127, 166, 180, 198; part 4: 44, 67, 71). They were **not** visually reviewed, and no statement in the book depends on them.
-2. **Plate titles are register-level, not visual.** They reproduce the subject named by the book's caption; the guide's description has not been compared with the printed image for every plate, and no plate is reproduced.
-3. **Automated text extraction is not proofreading.** Figures and page ranges were cross-checked, but extraction can drop characters, and the page audit was performed on raster renders at 0.6–0.8 scale, so sub-pixel spacing and colour-management faults below that resolution would not be visible. A print proof has not been made.
-4. **No independent medical or didactic review** and no classroom use. Judgements about what is "high-yield" are editorial.
-5. **DOCX/EPUB/HTML visual fidelity is unverified.** Only their structure was checked; they were not opened in Word, a browser or an e-reader.
-6. **Copyright and rights are unresolved.** No permission has been sought or obtained. The guide reproduces no plates and no extended passages, but its title and citation practice (book title, author, edition, publisher, ISBN) have **not** been reviewed by a rights holder or lawyer. Commercial distribution would require a licence and an ISBN. This is not a legal-clearance statement.
-7. **The book's own inconsistencies** are disclosed rather than resolved; where the textbook is internally contradictory, the guide follows the body text and says so.
+1. **The full-size visual audit is incomplete.** Eighteen pages were inspected at full size and all 142 at contact-sheet scale. Thumbnail review cannot show small-type defects, hyphenation, subtle overlaps or colour faults, so 124 pages have not had a genuine page-level visual check. A complete 142-page full-size inspection remains outstanding and is not claimed anywhere in this report.
+2. **Thirty source pages have no text layer** (part 1: 1–3, 20, 29, 46, 76, 79, 86, 142, 166, 174, 203; part 2: 60, 69, 72, 90, 158, 217; part 3: 42, 50, 80, 82, 127, 166, 180, 198; part 4: 44, 67, 71). They were not visually reviewed. No statement in the guide depends on text that could only be read from them; where a claim could not be checked, it is not asserted.
+3. **Plate titles are register-level, not visual.** They reproduce the subject named by the book's caption; the guide's description has not been compared with the printed image for every plate, and no plate is reproduced.
+4. **Automated text extraction is not proofreading.** Figures and page ranges were cross-checked, but extraction can drop characters, and most page review was done on raster thumbnails at about 0.55 scale. A print proof has not been made.
+5. **No independent medical or didactic review** and no classroom use. Judgements about what is "high-yield" are editorial.
+6. **DOCX/EPUB/HTML visual fidelity is unverified.** Only their structure was checked; they were not opened in Word, a browser or an e-reader.
+7. **Copyright and rights are unresolved.** No permission has been sought or obtained. The guide reproduces no plates and no extended passages, but its title and citation practice (book title, author, edition, publisher, ISBN) have **not** been reviewed by a rights holder or lawyer. Commercial distribution would require a licence and an ISBN. This is not a legal-clearance statement.
+8. **The book's own inconsistencies** are disclosed rather than resolved; where the textbook is internally contradictory, the guide follows the body text and says so.
 
 ---
 
 ## 6. Final commits and artifact hashes
 
-**Artifact commit (this release):** `6a0a0cb` — *Page-by-page audit: correct leukocyte counts and sizes, cartilage and stratification wording, bile route; keep exam questions with their headings; rebuild*
-**Previous release:** `d60c14d` (TEM wording, qualified generalizations, chapter-specific plate tasks), preceded by `1f2ff2a`, `3330946`, `aeb9c70` and the earlier audit commits. All earlier commits are preserved.
+**Artifact commit (this release):** `f96cbb8` — *Correction round: capillary length, plasma-solute table, leukocyte sizes, erythroid maturation, exam-framing cleanup; keep headings with following content*
+**Previous commits:** `dc9f887` (earlier report), `6a0a0cb` (earlier page-audit artifacts), `d60c14d` (previous release), preceded by `0679c3c`, `1f2ff2a`, `3330946`, `aeb9c70` and the earlier audit commits. All earlier commits are preserved; none was amended.
 This report is committed immediately after the artifact commit; `git log` shows the report commit on top.
 
 | Artifact | Bytes | SHA-256 |
 |---|---|---|
-| `Junqueira_Exam_Companion_FINAL.pdf` | 512,480 | `9e17c3608b7f3f9f5e9ec3bd24833e6ef720e1eaa1bbc0f3b71c62ff69cd5fed` |
-| `Junqueira_Exam_Companion_FINAL.docx` | 179,035 | `d1aaac71f2e3dce36804858606a7390730873a0721b5c56f97c5d757046d52b4` |
-| `Junqueira_Exam_Companion_FINAL.epub` | 217,507 | `6b92004dc0e235f0fda43fd19e35c3c2ee40e176f906a9126eff329ad7db7100` |
-| `Junqueira_Exam_Companion_FINAL.html` | 448,415 | `a8c2d19f83abe2db32e647e56eb4da76da61dd95ea0346940a28f0e0204e77ca` |
+| `Junqueira_Exam_Companion_FINAL.pdf` | 512,052 | `4ecb822698cc039d7cd7264eabc361ce85341defe319b4cb3bc99a22792e6527` |
+| `Junqueira_Exam_Companion_FINAL.docx` | 179,289 | `29c93dfe33bc922c9faae0032afa33eff28df78825c8d86b88a797a76a0df629` |
+| `Junqueira_Exam_Companion_FINAL.epub` | 217,711 | `34e78801f50df78036e9e44401b94505030391f170b76572745f3a02cb18699a` |
+| `Junqueira_Exam_Companion_FINAL.html` | 448,972 | `25d96cc68354dfef0179e7a0eed7e6b170a10c7172352b6f51354f930642cd55` |
 | `deliverables/junqueira_flashcards.csv` (unchanged) | 70,440 | `0d33512669193a36fc8d895397883f0c34fe9cdb0ad31925214fdab3bb151a57` |
 | `deliverables/junqueira_question_bank.csv` (unchanged) | 31,218 | `7790a51397fff690e029123606a9c5217696e196ffb9b8a07c45f17fd6d78628` |
 
-PDF text: **49,779 words**; **142 pages**; contents on p. 3; Part VII begins p. 125; answer key p. 137. Hashes are of the files committed in `6a0a0cb`; the DOCX and EPUB hashes change if they are rebuilt even from identical text, because the archive records file times.
+PDF text: **49,713 words**; **142 pages**; contents on p. 3; Part VII begins p. 125; answer key p. 137. Hashes are of the files committed in `f96cbb8`; the DOCX and EPUB hashes change if they are rebuilt even from identical text, because the archive records file times. The earlier release hashes (`6a0a0cb`: PDF 512,480 B, `9e17c360…`) are superseded and are kept only in the git history.
