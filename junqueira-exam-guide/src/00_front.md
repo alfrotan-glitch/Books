@@ -25,6 +25,8 @@ This guide condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This guide is designed to be read *before* those, so that when you reach them you already know the answers.
 
+**A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this guide uses the book's figure. Some standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added because examiners ask for them; they are context, not claims about the book's text. Nothing here is attributed to the book unless the book states it.
+
 **The complete study system** — the book is one deliverable, not the whole course:
 
 | File | Use it for |
