@@ -1,0 +1,222 @@
+# PART II — THE FOUR BASIC TISSUES
+
+## 4 · Epithelial Tissue
+
+**pp. 71–95** · Part 1, pages 122–161 · Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
+
+### The core idea
+
+Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **all substances that enter or leave an organ must cross this type of tissue**. Everything else — the number of layers, the shape of the cells, the specialisations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
+
+**The four basic tissues** (the book's Table 4–1, and the framework for the whole subject):
+
+| Tissue | Cells | Extracellular matrix | Main functions |
+|---|---|---|---|
+| **Epithelial** | Aggregated polyhedral cells | **Small amount** | Lining of surface or body cavities; glandular secretion |
+| **Connective** | Several types of fixed and wandering cells | **Abundant amount** | Support and protection of tissues/organs |
+| **Muscle** | Elongated contractile cells | Moderate amount | Strong contraction; body movements |
+| **Nervous** | Elongated cells with extremely fine processes | **Very small amount** | Transmission of nerve impulses |
+
+Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialised functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma always consists of connective tissue.** This single sentence answers a common question about why the CNS looks different from every other organ.
+
+### Characteristic Features of Epithelial Cells
+
+The principal functions of epithelial tissues are **covering, lining, and protecting surfaces** (eg, epidermis), **absorption** (eg, the intestinal lining), and **secretion** (eg, parenchymal cells of glands). Specific cells of certain epithelia may be contractile (**myoepithelial cells**) or specialised sensory cells, such as those of taste buds or the olfactory epithelium.
+
+Cell shape and nuclear shape correspond: **columnar** cells have elongated nuclei, **squamous** cells flattened nuclei, and **cuboidal or pyramidal** cells spherical nuclei. This is the fastest identification rule in the whole subject.
+
+The defining features:
+
+1. Cells are closely apposed with minimal intercellular space.
+2. There is a **free (apical) surface** facing air, a lumen, or a cavity.
+3. Cells rest on a **basement membrane**.
+4. The tissue is **avascular** — nourishment arrives by diffusion from vessels in the underlying connective tissue.
+5. Cells are **polarised**: apical, lateral, and basal domains differ in structure and function.
+
+**The basement membrane**, visible with PAS or silver in the light microscope and as two layers in EM:
+
+| Layer | Composition | Made by |
+|---|---|---|
+| **Lamina lucida** | Laminin, entactin, perlecan | Epithelial cells |
+| **Lamina densa** | **Type IV collagen**, heparan sulfate proteoglycan | Epithelial cells |
+| **Lamina reticularis** | **Type III (reticular) collagen** | Fibroblasts of underlying connective tissue |
+
+**Cell junctions**
+
+| Junction | Transmembrane protein | Cytoskeletal link | Function |
+|---|---|---|---|
+| **Tight junction** (zonula occludens) | Claudins, occludins | Actin | Seals the intercellular space; creates the **blood–brain barrier** and apical/basal polarity |
+| **Adherent junction** (zonula adherens) | **E-cadherin** (Ca²⁺-dependent) | Actin | Mechanical adhesion; the belt that holds sheets together |
+| **Desmosome** (macula adherens) | **Desmoglein, desmocollin** | **Keratin** | Spot-welds resisting shear; autoantibodies cause **pemphigus vulgaris** |
+| **Gap junction** (nexus) | **Connexins** | None | Direct cytoplasmic communication |
+| **Hemidesmosome** | **Integrins** | Keratin → laminin | Anchors basal cells; antibodies cause **bullous pemphigoid** |
+
+The pattern is worth memorising: **tight seals, adherens belts to actin, desmosomes to keratin, gap junctions for talk, hemidesmosomes for feet.**
+
+### Specializations of the Apical Cell Surface
+
+**Microvilli.** Finger-like extensions with a core of **actin** filaments cross-linked by villin and fimbrin and anchored in a **terminal web**. They multiply surface area for absorption. In the proximal tubule and small intestine they form a **brush border** visible as a fuzzy eosinophilic rim. In the epididymis and inner ear, unusually long, stiff microvilli are called **stereocilia** — a misnomer, because they contain no microtubules.
+
+**Cilia.** Motile, **9 + 2** microtubule axoneme with dynein arms, anchored to a **basal body (9 + 0)**. They move mucus, cerebrospinal fluid, and the ovum. A **primary cilium** is a single non-motile 9 + 0 cilium acting as a sensory antenna — its failure underlies polycystic kidney disease.
+
+**Basal infoldings.** Deep folds of the basal membrane packed with mitochondria — the "striated" appearance in the ducts of salivary glands and the distal tubule of the kidney. They are the morphological signature of **active ion transport**.
+
+### Types of Epithelia
+
+| Type | Structure | Location | Function |
+|---|---|---|---|
+| **Simple squamous** | One flat layer, central nucleus | Alveoli, endothelium, mesothelium, Bowman capsule | Diffusion, filtration, lubrication |
+| **Simple cuboidal** | One layer, nuclei round and central | Kidney tubules, small ducts, thyroid follicles, surface of ovary | Secretion, absorption, conduit |
+| **Simple columnar** | One layer, tall cells | Stomach, intestine, gallbladder, uterine tube | Absorption, secretion, protection |
+| **Pseudostratified ciliated columnar** | Single layer with nuclei at different heights; cilia and goblet cells | Trachea, bronchi, nasal cavity | Mucus clearance ("respiratory epithelium") |
+| **Stratified squamous, keratinised** | Many layers, outermost anucleate keratin | Epidermis | Protection against abrasion and dehydration |
+| **Stratified squamous, non-keratinised** | Many layers, outermost live nucleated cells | Oral cavity, oesophagus, vagina, anal canal, cornea | Protection in a wet environment |
+| **Stratified cuboidal / columnar** | Two or more layers | Ducts of sweat glands, conjunctiva | Conduit with protection |
+| **Transitional (urothelium)** | Stratified, with dome-shaped **umbrella cells** and uroplakins | Renal pelvis, ureter, bladder, proximal urethra | Stretchable barrier to urine |
+| **Epithelioid** | Cells in clusters with no free surface | Adrenal cortex, islets of Langerhans, liver cords | Endocrine secretion |
+
+Two naming traps decide many marks. **Endothelium and mesothelium are both simple squamous epithelium** — one lines blood vessels, the other body cavities; they are not separate tissue types. And **pseudostratified** epithelium is truly a **single layer** in which every cell touches the basement membrane, even though the nuclei sit at different levels.
+
+### Transport Across Epithelia
+
+An epithelium that moves material from one side to the other is built like a machine: **entry at the apical face, exit at the basal face**, with the tight junction preventing back-leak and mitochondrial-rich basal infoldings powering the pumps. In the intestinal enterocyte, glucose enters apically via **Na⁺-glucose cotransport (SGLT1)** and exits basolaterally via **GLUT2**; the Na⁺ gradient is maintained by basolateral Na⁺/K⁺-ATPase. This is **transcellular transport**. **Paracellular** transport passes between cells and is limited by tight junctions.
+
+### Renewal of Epithelial Cells
+
+Epithelia wear out. They are replaced from **stem cells** whose location varies with the tissue: the **basal layer** of stratified squamous epithelium, the **crypt base** of the intestine, the **isthmus** of the gastric gland, and the basal layer of the epidermis. Renewal rate is a diagnostic index: the intestinal epithelium turns over in days, the epidermis in weeks. Because the stem cells rest on the basement membrane, an epithelium can regenerate completely after superficial injury — but not after the basement membrane itself is destroyed.
+
+### Glands
+
+- **Exocrine** — connected to a surface by a duct. **Endocrine** — ductless, secreting into the blood.
+- **Unicellular** — the goblet cell (mucin; empty cup-shaped apex after secretion).
+- **Simple** — one unbranched duct (simple tubular = intestinal crypt; simple coiled tubular = eccrine sweat gland; simple branched acinar = sebaceous gland).
+- **Compound** — branched duct (salivary glands, pancreas, mammary gland).
+- **Mechanism:** **merocrine** (exocytosis — pancreas, sweat glands), **apocrine** (membrane and cytoplasm bud off — mammary gland), **holocrine** (whole cell disintegrates — sebaceous gland).
+
+**Myoepithelial cells** sit between secretory cells and the basement membrane and contract to expel product — visible in mammary and salivary glands.
+
+> **CLINICAL** — Epithelial junctions are the target of autoimmune blistering. In **pemphigus vulgaris**, antibodies against **desmoglein** break desmosomes, so the epidermis detaches *within* the epithelium and thin-walled blisters form. In **bullous pemphigoid**, antibodies against **hemidesmosomal** antigens split the epidermis from the basement membrane and the blister is thick-walled and tense. The level of the split is dictated by which junction fails.
+
+> **MICRO** — Count nuclei, not cells. More than one nuclear level with a flat continuous surface = stratified. Then the top layer: **flat and anucleate** = keratinised; **flat with nuclei** = non-keratinised; **dome-shaped and large** = transitional; **tall with cilia** = respiratory.
+
+> **MNEMONIC** — **"Simple for exchange, stratified for stress, transitional for stretch."** For cilia, remember **9 + 2 moves, 9 + 0 anchors.**
+
+> **TIP** — Where is ciliated simple columnar epithelium found? The **uterine tube** — cilia move the ovum — and parts of the respiratory tract, where the epithelium is pseudostratified. Students often wrongly assign all ciliated epithelium to the lung.
+
+## 5 · Connective Tissue
+
+**pp. 96–121** · Part 1, pages 162–196 · Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
+
+### The core idea
+
+Connective tissue is the tissue whose defining feature is **abundance of extracellular matrix**. The cells are widely separated because the *matrix* — not the cells — does the mechanical work. Name the matrix and you have named the tissue's job: collagen for tension, elastin for recoil, ground substance for compression and diffusion.
+
+### Cells of Connective Tissue
+
+| Cell | Origin | Function | Identifying feature |
+|---|---|---|---|
+| **Fibroblast** | Mesenchyme | Synthesises collagen, elastin, GAGs | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
+| **Macrophage** | Monocyte | Phagocytosis, antigen presentation, cytokines | Irregular, abundant lysosomes; **Kupffer cell** in liver, **microglia** in CNS, **Langerhans cell** in epidermis, **osteoclast** in bone |
+| **Mast cell** | Bone marrow | Releases **histamine** and **heparin**; IgE-mediated allergy | Round, many dark granules; degranulates on IgE cross-linking |
+| **Plasma cell** | B lymphocyte | Secretes antibody | **Clock-face nucleus**, eccentric, perinuclear clear zone (Golgi) |
+| **Adipocyte** | Mesenchyme | Store fat | Signet-ring when unilocular |
+| **Pericyte** | Mesenchyme | Contractile support of capillaries | On the abluminal surface of capillaries |
+
+### Fibers
+
+| Fibre | Protein | Properties | Where |
+|---|---|---|---|
+| **Collagen** | Tropocollagen (types I–XXVIII) | High tensile strength, inelastic | Everywhere; the most abundant protein in the body |
+| **Reticular** | **Type III collagen** | Fine, branched; silver-staining | Lymphoid organs, bone marrow, liver, endocrine glands |
+| **Elastic** | **Elastin** core + **fibrillin** microfibrils | Stretch and recoil | Aorta, skin, lung, elastic cartilage, ligaments |
+
+| Type | Form | Main location | Disease if defective |
+|---|---|---|---|
+| **I** | Thick fibrils | Bone, dermis, tendon, cornea | **Osteogenesis imperfecta** |
+| **II** | Fibrils | Hyaline and elastic cartilage, vitreous | Chondrodysplasias |
+| **III** | Reticular fibres | Lymph node, spleen, bone marrow, skin | **Ehlers–Danlos vascular type** |
+| **IV** | Network | **Basement membrane** | Alport syndrome |
+| **V** | Fibrils with type I | Cornea, bone, placenta | Ehlers–Danlos |
+
+**Collagen synthesis in five steps** — a reliable structured-question answer:
+
+1. **Translation** on the RER as preprocollagen.
+2. **Hydroxylation** of proline and lysine — **requires vitamin C**.
+3. **Glycosylation** in the ER and Golgi.
+4. **Procollagen** is secreted and the propeptides cleaved → **tropocollagen**.
+5. **Fibril assembly** with cross-links formed by **lysyl oxidase**, which requires **copper**.
+
+This pathway explains two diseases. Without vitamin C, hydroxylation fails and the result is **scurvy** — bleeding gums, poor wound healing, perifollicular haemorrhage. Without copper, cross-linking fails, as in **Menkes disease**. In **Ehlers–Danlos syndrome** the defect is in collagen processing or type; in **Marfan syndrome** the defect is in **fibrillin**, so the aorta dilates and the lens dislocates.
+
+### Ground Substance
+
+An amorphous, hydrated gel of **glycosaminoglycans (GAGs)**, **proteoglycans**, and **glycoproteins**, which resists compression, lubricates, and controls diffusion.
+
+- **GAGs** are long unbranched polysaccharides with repeating disaccharides and many negative charges, which attract water: **hyaluronic acid** (unsulfated, not attached to protein, the backbone of the gel), chondroitin sulfate, keratan sulfate, dermatan sulfate, and heparan sulfate.
+- **Proteoglycans** are a core protein with GAG side chains — the classic is **aggrecan**, a very large molecule with a **250-kDa core protein** heavily bound with chondroitin and keratan sulfate and joined to hyaluronan by a **link protein**. Its water-binding is why cartilage resists compression.
+- **Perlecan** is the key proteoglycan of **all basal laminae** — the one name that links ground substance to the basement membrane.
+- **Glycoproteins** — **fibronectin** (binds cells to matrix via integrins, important in wound healing) and **laminin** (basement membrane).
+
+### Types of Connective Tissue
+
+- **Loose (areolar)** — abundant ground substance, scattered fibres, many cells. Fills spaces, surrounds vessels, underlies epithelia.
+- **Dense irregular** — thick collagen bundles in many directions; dermis, organ capsules. Resists stress from all directions.
+- **Dense regular** — parallel collagen bundles; **tendon** and ligament. Resists stress in one direction.
+- **Elastic** — many elastic fibres; elastic ligament, vocal cord, large arteries.
+- **Reticular** — type III collagen network; lymphoid organs and marrow.
+- **Mucous (Wharton's jelly)** — gelatinous, in the umbilical cord.
+- **Embryonic** — mesenchyme.
+
+**Repair.** Inflammation → **granulation tissue** (proliferating capillaries, fibroblasts, macrophages) → collagen deposition → **scar**. **Primary intention** occurs in clean apposed wounds; **secondary intention** in larger, open wounds with more granulation and contraction.
+
+> **CLINICAL** — **Scurvy** is the purest histology-to-clinic link in the chapter: inadequate hydroxylation produces defective collagen, which produces fragile capillaries (bleeding gums, petechiae) and failed wound healing. **Scleroderma** is the opposite failure — excess collagen in skin and internal organs. **Keloid** is an overgrowth of dense collagen beyond the original wound margin, common in darker skin.
+
+> **MICRO** — **Collagen is pink, wavy, and in bundles; elastin is sparse, often darker, and best shown by orcein.** A plasma cell has an **eccentric clock-face nucleus with a pale perinuclear halo**; a mast cell's granules stain metachromatically; the eosinophil's bilobed nucleus is unmistakable.
+
+> **MNEMONIC** — **"1 bone, 2 cartilage, 3 reticulin, 4 basement membrane."**
+
+> **TIP** — The most examined distinction here is **dense regular versus dense irregular**, and the answer is one word: **direction**. Regular = parallel = tendon = one axis of force. Irregular = random = dermis = many axes.
+
+## 6 · Adipose Tissue
+
+**pp. 122–128** · Part 1, pages 197–207 · White Adipose Tissue · Brown Adipose Tissue
+
+### The core idea
+
+Adipose tissue is an endocrine and metabolic organ disguised as a filling tissue. White fat stores energy; brown fat burns it for heat. Both are built from the same cell with a completely different internal architecture.
+
+### White Adipose Tissue
+
+**Unilocular.** Each white adipocyte is a very large cell, **50–150 µm** in diameter, containing one enormous lipid droplet that displaces the cytoplasm to a thin rim and flattens the nucleus against the plasmalemma — the **signet-ring** appearance. Adipose tissue is normally **15–20% of body weight in men** and somewhat more in women. The lipid dissolves during routine processing, so on an H&E slide the cell appears as an empty circle with a thin border.
+
+Functions: energy storage, insulation, cushioning of organs (retro-orbital, perirenal, mesenteric), and **endocrine signalling**.
+
+**Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesised by the adipocytes themselves**. Mobilisation is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibres**, with connective tissue septa dividing the tissue into lobules.
+
+**Adipokines** — the exam list:
+
+- **Leptin** — from adipocytes, acts on the hypothalamus to reduce appetite.
+- **Adiponectin** — increases insulin sensitivity; low in obesity.
+- **Resistin, TNF-α, IL-6** — pro-inflammatory, part of why obesity is a chronic inflammatory state.
+- **Aromatase** — converts androgens to oestrogens; a peripheral oestrogen source in obesity.
+
+### Brown Adipose Tissue
+
+**Multilocular.** Many small lipid droplets, a **central round nucleus**, and — the diagnostic feature — **numerous mitochondria with abundant cristae** containing **uncoupling protein 1 (UCP1, thermogenin)**, which short-circuits the proton gradient so energy is released as heat instead of ATP.
+
+Found in the fetus and newborn (interscapular, axillary, perirenal, along the great vessels), much reduced in adults. Sympathetic innervation drives it. **"Beige" adipocytes** appear within white fat after cold exposure.
+
+| Feature | White | Brown |
+|---|---|---|
+| Lipid droplets | One (unilocular) | Many (multilocular) |
+| Nucleus | Peripheral | Central |
+| Mitochondria | Few | **Many, cristae-rich** |
+| UCP1 | Absent | **Present** |
+| Main role | Energy storage, endocrine | **Non-shivering thermogenesis** |
+| Sympathetic innervation | Sparse | Rich |
+
+> **CLINICAL** — In **lipodystrophy** fat is absent or redistributed, and the metabolic consequences are paradoxical: severe insulin resistance with hypertriglyceridaemia, because the remaining fat cannot store lipid safely. In **obesity** the same storage limit is approached, so lipid spills into liver (steatosis), muscle, and pancreas — **lipotoxicity**. Brown fat is a therapeutic target: activating it increases energy expenditure, and PET imaging shows active depots in adults.
+
+> **MICRO** — **One big hole per cell with a flattened nucleus at the rim = white. Many small holes with a round central nucleus and granular eosinophilic cytoplasm = brown.**
+
+> **TIP** — Do not confuse adipose tissue with **steatosis**. Adipocytes are a normal tissue with a capsule and vessels; steatosis is lipid accumulating inside hepatocytes or myocytes as vacuoles.

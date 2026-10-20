@@ -1,0 +1,318 @@
+# PART VI — RAPID REVIEW AND REFERENCE
+
+## 24 · The Last-24-Hours Rapid Review
+
+> **PEARL** — This chapter is designed to be read in one sitting, twice. Read it once slowly, then again out loud. Everything in it is either a rule that generates other facts or a fact that is asked almost every year.
+
+### The 60-second organ identification algorithm
+
+**Step 1 — Is there a lumen?**
+- **No lumen, solid cords or follicles** → thyroid (follicles), adrenal (cords), liver (cords + central veins), parathyroid (cords), pituitary (cell sheets), lymphoid organ (nodules).
+- **Yes, a lumen** → go to Step 2.
+
+**Step 2 — What is the epithelium?**
+- **Stratified squamous** → oesophagus, oral cavity, vagina, anal canal, epidermis (no lumen).
+- **Simple columnar with crypts** → stomach, intestine, gallbladder, uterus.
+- **Pseudostratified ciliated** → respiratory tract, epididymis, vas deferens.
+- **Transitional** → ureter, bladder, renal pelvis.
+- **Simple cuboidal/columnar tubules** → kidney, salivary ducts, epididymis.
+
+**Step 3 — What surrounds it?**
+- **Cartilage rings** → trachea. **Cartilage plates** → bronchus. **No cartilage** → bronchiole.
+- **Three muscle layers** → stomach. **Taeniae coli** → colon. **Thick muscle wall** → vas deferens, ureter.
+- **Serosa** → intraperitoneal; **adventitia** → retroperitoneal.
+
+### The ten master tables
+
+**1. Epithelium by location**
+
+| Epithelium | Where |
+|---|---|
+| Simple squamous | Alveoli, endothelium, mesothelium, Bowman capsule |
+| Simple cuboidal | Kidney tubules, thyroid follicles, small ducts, ovary surface |
+| Simple columnar | Stomach, intestine, gallbladder, uterine tube |
+| Pseudostratified ciliated | Trachea, bronchi, nasal cavity, epididymis, vas deferens |
+| Stratified squamous keratinised | Epidermis |
+| Stratified squamous non-keratinised | Oral cavity, oesophagus, vagina, cornea, anal canal |
+| Transitional | Renal pelvis, ureter, bladder, proximal urethra |
+| Epithelioid | Adrenal cortex, islets, liver |
+
+**2. Collagen types**
+
+| Type | Where | Disease |
+|---|---|---|
+| I | Bone, skin, tendon, cornea | Osteogenesis imperfecta |
+| II | Cartilage, vitreous | Chondrodysplasia |
+| III | Reticulin: lymphoid organs, marrow, liver | Ehlers–Danlos vascular |
+| IV | Basement membrane | Alport syndrome |
+| V | Cornea, bone, placenta | Ehlers–Danlos |
+
+**3. Muscle**
+
+| Feature | Skeletal | Cardiac | Smooth |
+|---|---|---|---|
+| Striations | Yes | Yes | **No** |
+| Nuclei | Many, **peripheral** | 1–2, **central** | 1, **central** |
+| Junctions | — | **Intercalated discs** | Gap junctions |
+| T-tubules | Triads at A–I | Diads at Z | Caveolae |
+| Ca²⁺ sensor | Troponin C | Troponin C | **Calmodulin** |
+| Regeneration | Limited (satellite) | **None** | Hyperplasia |
+
+**4. Cartilage**
+
+| Feature | Hyaline | Elastic | Fibrocartilage |
+|---|---|---|---|
+| Collagen | II | II + elastic | **I + II** |
+| Perichondrium | Yes | Yes | **No** |
+| Where | Trachea, ribs, joints, nose | Epiglottis, pinna | Disc, symphysis, menisci |
+| Cells | Isogenous groups | Numerous | **Rows** |
+
+**5. Bone cells**
+
+| Cell | Origin | Job |
+|---|---|---|
+| Osteoprogenitor | Mesenchyme | Precursor |
+| Osteoblast | Mesenchyme | **Make osteoid**, RANKL |
+| Osteocyte | Osteoblast | Maintain, sense load |
+| Osteoclast | **Monocyte** | **Resorb**, ruffled border |
+
+**6. Blood cells**
+
+| Cell | % | Nucleus | Signature |
+|---|---|---|---|
+| Neutrophil | 60–70 | 3–5 lobes | Pale granules |
+| Eosinophil | 2–4 | **Bilobed** | **Orange-red** granules |
+| Basophil | 0.5–1 | S-shaped, hidden | Dark blue granules |
+| Lymphocyte | 20–30 | Round, dense | Scant cytoplasm |
+| Monocyte | 3–8 | **Kidney-shaped** | Largest cell |
+
+**7. Lymphoid organs**
+
+| Organ | Follicles | Afferent lymph | Unique |
+|---|---|---|---|
+| Thymus | **No** | No | **Hassall corpuscles** |
+| Lymph node | Yes | **Yes** | Cortex/paracortex/medulla |
+| Spleen | Yes | **No** | White + red pulp |
+| Tonsil | Yes | No | Crypts, no capsule |
+
+**8. Gut segments**
+
+| Segment | Diagnostic feature |
+|---|---|
+| Oesophagus | Stratified squamous, skeletal muscle above |
+| Stomach | **Three muscle layers**, parietal + chief cells, no goblet |
+| Duodenum | **Brunner glands (submucosa)** |
+| Jejunum | Tallest villi, no Brunner, no Peyer |
+| Ileum | **Peyer's patches** |
+| Colon | **No villi**, crypts, many goblet, taeniae |
+| Appendix | Lymphoid tissue all round, blind tube |
+
+**9. Endocrine**
+
+| Gland | Pattern | Hormone |
+|---|---|---|
+| Thyroid | **Follicles with colloid** | T3, T4; C cells → calcitonin |
+| Parathyroid | Cords of chief cells | PTH |
+| Adrenal cortex G/F/R | Cords | Aldosterone / cortisol / androgens |
+| Adrenal medulla | Chromaffin | Adrenaline |
+| Pituitary anterior | Acidophils + basophils | GH, PRL / ACTH, TSH, FSH, LH |
+| Pituitary posterior | Fibrillary, Herring bodies | Oxytocin, ADH |
+| Islets | Clusters | Insulin, glucagon, somatostatin |
+
+**10. Airway**
+
+| Level | Cartilage | Glands | Muscle |
+|---|---|---|---|
+| Trachea | **Rings** | Yes | Trachealis |
+| Bronchus | **Plates** | Yes | Complete ring |
+| Bronchiole | **None** | **None** | Prominent |
+| Respiratory bronchiole | None | None | + alveoli in wall |
+
+### One hundred facts in one hundred lines
+
+1. Basophilic = binds haematoxylin = nucleic acid.
+2. Eosinophilic = binds eosin = protein.
+3. PAS stains glycogen and basement membrane.
+4. Silver stains reticulin (type III collagen).
+5. Light microscope resolution = 0.2 µm.
+6. Frozen section = rapid diagnosis + lipid preservation.
+7. Plasma membrane thickness = 7–10 nm.
+8. Na⁺/K⁺-ATPase pumps 3 Na⁺ out, 2 K⁺ in.
+9. Clathrin mediates receptor-mediated endocytosis.
+10. Mitochondria are maternally inherited.
+11. Steroid-secreting cells have **tubular** cristae.
+12. Nissl bodies = rough ER + polysomes.
+13. Golgi **modifies and sorts**; RER **synthesises**.
+14. Lysosomes are acidic (pH ≈ 5).
+15. Lipofuscin = residual body pigment.
+16. Peroxisomes contain catalase.
+17. Proteasomes degrade ubiquitin-tagged protein.
+18. Kinesin = anterograde; dynein = retrograde.
+19. Cilia = 9 + 2; basal body = 9 + 0.
+20. Keratin = epithelium; vimentin = mesenchyme; desmin = muscle; GFAP = astrocyte.
+21. Lamin A mutation = progeria.
+22. Nucleolus makes rRNA; NORs on 13, 14, 15, 21, 22.
+23. Barr body = inactivated X.
+24. p53 = guardian of the genome.
+25. Meiosis = four haploid cells; crossing over in pachytene.
+26. Apoptosis = no inflammation.
+27. Labile tissue = epidermis, gut, marrow; permanent = neurons, cardiac muscle.
+28. Epithelium is avascular.
+29. Basement membrane = lamina lucida, densa, reticularis.
+30. Type IV collagen is in the basal lamina.
+31. Desmosomes link to keratin; hemidesmosomes to laminin via integrin.
+32. E-cadherin is calcium-dependent.
+33. Gap junctions = connexins.
+34. Microvilli core = actin.
+35. Stereocilia are long microvilli (epididymis).
+36. Endothelium and mesothelium are simple squamous.
+37. Pseudostratified epithelium is truly one layer.
+38. Transitional epithelium has umbrella cells and uroplakins.
+39. Goblet cell = unicellular mucous gland.
+40. Sebaceous gland = holocrine.
+41. Mammary gland = apocrine.
+42. Pancreas = merocrine.
+43. Myoepithelial cells compress acini.
+44. Collagen synthesis needs **vitamin C** and **copper**.
+45. Scurvy = defective hydroxylation.
+46. Marfan = fibrillin.
+47. Ehlers–Danlos = collagen processing.
+48. Plasma cell nucleus = clock-face, eccentric.
+49. Mast cell = histamine + heparin.
+50. Brown fat = multilocular + UCP1 + central nucleus.
+51. Leptin reduces appetite; adiponectin increases insulin sensitivity.
+52. Hyaline cartilage = type II collagen.
+53. Fibrocartilage = **no perichondrium**.
+54. Interstitial growth = from within lacunae.
+55. Osteoclast = monocyte lineage, TRAP-positive.
+56. Osteoblast = RANKL; OPG is the decoy.
+57. Osteon = concentric lamellae + Haversian canal.
+58. Epiphyseal zones: reserve → proliferate → hypertrophy → calcify → ossify.
+59. Intramembranous ossification = flat bones.
+60. PTH raises calcium; calcitonin lowers it.
+61. Oligodendrocyte = CNS, many axons; Schwann = PNS, one segment.
+62. Microglia are mesodermal.
+63. Wallerian degeneration occurs distal to injury.
+64. Regeneration ≈ 1 mm/day.
+65. A band never shortens.
+66. Skeletal T-tubules form triads at the A–I junction.
+67. Cardiac T-tubules form diads at the Z line.
+68. Smooth muscle uses calmodulin, not troponin.
+69. Intercalated discs = fascia adherens + desmosome + gap junction.
+70. Purkinje fibres conduct; they are not neurons.
+71. Elastic artery = elastic lamellae in media.
+72. Muscular artery = prominent internal elastic lamina.
+73. Sinusoidal capillaries = liver, spleen, marrow.
+74. Blood–brain barrier = continuous capillaries + tight junctions.
+75. Lymphatic capillaries are blind-ended.
+76. Erythrocyte lifespan = 120 days.
+77. Neutrophil = 3–5 lobes, acute inflammation.
+78. Eosinophil = parasites and allergy.
+79. Basophil = histamine, IgE.
+80. Monocyte = largest leucocyte.
+81. Platelets = 2–3 µm, from megakaryocytes.
+82. EPO from kidney; TPO from liver.
+83. M:E ratio = 2:1 to 4:1.
+84. CD4 ↔ MHC II; CD8 ↔ MHC I.
+85. Thymus has no follicles; spleen has no afferent lymphatics.
+86. Hassall corpuscles = thymus.
+87. PALS = T-cell zone of spleen.
+88. Germinal centre = B-cell proliferation.
+89. Enteric plexuses: Meissner (submucosa), Auerbach (myenteric).
+90. Parietal cell = HCl + intrinsic factor.
+91. Chief cell = pepsinogen.
+92. Paneth cell = lysozyme and defensins.
+93. Brunner glands = duodenum.
+94. Peyer's patches = ileum.
+95. Portal triad = artery, portal vein, bile duct.
+96. Bile flows toward the triad; blood flows away.
+97. Type I pneumocyte = gas exchange; type II = surfactant.
+98. Clara cells = bronchioles.
+99. Podocytes form the filtration slit diaphragm (nephrin).
+100. Macula densa = distal tubule; JG cells = afferent arteriole.
+
+### Twenty-five distinctions that decide marks
+
+| Do not confuse | With | The difference |
+|---|---|---|
+| Basophilic | Eosinophilic | DNA/RNA versus protein |
+| Mucous | Mucosa | Secretion versus lining layer |
+| Endothelium | Mesothelium | Vessels versus body cavities |
+| Pseudostratified | Stratified | One layer versus many |
+| Hyaline cartilage | Fibrocartilage | Type II + perichondrium versus I + II + none |
+| Osteoblast | Osteoclast | Builds versus resorbs; mesenchymal versus monocyte |
+| Astrocyte | Oligodendrocyte | Support/BBB versus myelination |
+| Schwann cell | Oligodendrocyte | One segment versus many axons |
+| Neutrophil | Eosinophil | 3–5 lobes versus bilobed |
+| Monocyte | Lymphocyte | Kidney-shaped versus round |
+| Proximal tubule | Distal tubule | Brush border, eosinophilic versus clean, pale |
+| Type I pneumocyte | Type II | Thin for gas versus cuboidal for surfactant |
+| Parietal cell | Chief cell | HCl versus pepsinogen |
+| Brunner gland | Peyer's patch | Duodenum submucosa versus ileum lymphoid |
+| Zona glomerulosa | Zona fasciculata | Aldosterone versus cortisol |
+| Adrenal cortex | Adrenal medulla | Steroid versus catecholamine |
+| Anterior pituitary | Posterior pituitary | Glandular versus neural |
+| Sertoli cell | Leydig cell | Barrier/nurture versus testosterone |
+| Granulosa cell | Theca cell | Oestrogen (aromatase) versus androgen |
+| Proliferative | Secretory endometrium | Straight glands versus tortuous secreting glands |
+| Follicular | Luteal phase | Oestrogen-dominant versus progesterone-dominant |
+| Rod | Cone | Dim light versus colour and acuity |
+| Endolymph | Perilymph | High K⁺ versus high Na⁺ |
+| Apoptosis | Necrosis | No inflammation versus inflammation |
+| Labile | Permanent tissue | Continuous turnover versus no division |
+
+### Confessions of the examiner — the eight most common errors
+
+1. Saying the osteoclast is mesenchymal. It is **haematopoietic**.
+2. Saying the A band shortens. It **does not**.
+3. Saying the thymus has follicles. It **does not**.
+4. Saying the spleen has afferent lymphatics. It **does not**.
+5. Saying the adrenal medulla makes steroids. It makes **catecholamines**.
+6. Saying FSH acts on Leydig cells. It acts on **Sertoli** cells; LH acts on Leydig.
+7. Saying rods are at the fovea. The fovea has **cones only**.
+8. Saying the stomach has goblet cells. It has **surface mucous cells**, not goblet cells.
+
+## Appendix A · Stains and What They Prove
+
+| Stain | Target | Colour | Classic exam use |
+|---|---|---|---|
+| **Haematoxylin** | Nucleic acids | Blue-purple | Nuclei, rough ER |
+| **Eosin** | Proteins | Pink-red | Cytoplasm, collagen, RBC |
+| **PAS** | Glycogen, mucin, glycoproteins, basement membrane | Magenta | Goblet cells, liver glycogen, fungal walls |
+| **Masson trichrome** | Collagen versus muscle | Blue/green versus red | Liver fibrosis, kidney biopsy |
+| **Silver (reticulin)** | Type III collagen, nerve fibres | Black | Lymph node, spleen, marrow |
+| **Orcein / resorcin–fuchsin** | Elastin | Dark brown-black | Aorta, lung, skin |
+| **Sudan black / oil red O** | Lipid | Black/red | Steatosis, adipocytes (frozen) |
+| **Osmium tetroxide** | Lipid, myelin | Black | Fat, myelin |
+| **Cresyl violet (Nissl)** | Rough ER | Violet | Neurons |
+| **Feulgen** | DNA | Magenta | DNA quantification |
+| **Prussian blue** | Iron (haemosiderin) | Blue | Iron overload, old haemorrhage |
+| **Congo red** | Amyloid | Apple-green birefringence | Amyloidosis |
+| **Gram** | Bacterial wall | Purple (positive) / pink (negative) | Infection |
+| **Ziehl–Neelsen** | Acid-fast bacilli | Red | Tuberculosis |
+| **Immunohistochemistry** | Specific antigen | Brown (DAB) or fluorescent | Tumour typing, cell identification |
+
+## Appendix B · The Vocabulary Examiners Expect
+
+| Term | Meaning |
+|---|---|
+| **Parenchyma** | The functional cells of an organ |
+| **Stroma** | The supportive connective tissue framework |
+| **Capsule** | Dense connective tissue enclosing an organ |
+| **Hilum** | The entry/exit point for vessels, ducts, and nerves |
+| **Cortex / medulla** | Outer versus inner region |
+| **Trabecula** | A partition or supporting beam of connective tissue |
+| **Sinusoid** | A wide, discontinuous capillary |
+| **Acinus** | A berry-like cluster of secretory cells |
+| **Tubuloacinar** | A gland with both tubular and acinar secretory units |
+| **Metaplasia** | Change from one mature cell type to another |
+| **Dysplasia** | Disordered growth with atypical cells |
+| **Neoplasia** | New, autonomous growth |
+| **Hypertrophy** | Increase in cell size |
+| **Hyperplasia** | Increase in cell number |
+| **Atrophy** | Decrease in size or number |
+| **Apoptosis** | Programmed cell death |
+| **Necrosis** | Pathological cell death with inflammation |
+| **Autolysis** | Self-digestion after death |
+| **Fixation** | Chemical preservation of tissue |
+| **Artefact** | A structure produced by processing, not present in life |
