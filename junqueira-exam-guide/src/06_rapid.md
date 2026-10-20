@@ -247,7 +247,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 78. Eosinophil = parasites and allergy.
 79. Basophil = histamine, IgE.
 80. Monocyte = largest leukocyte.
-81. Platelets = 2–3 µm, from megakaryocytes.
+81. Platelets = 2–4 µm, from megakaryocytes.
 82. EPO from kidney; TPO from liver.
 83. M:E ratio = 2:1 to 4:1.
 84. CD4 ↔ MHC II; CD8 ↔ MHC I.

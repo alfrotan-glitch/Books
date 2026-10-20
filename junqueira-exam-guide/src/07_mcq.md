@@ -75,7 +75,7 @@ A. ATP synthesis <br/>B. Uncoupling of oxidative phosphorylation to produce heat
 A. Increase insulin sensitivity <br/>B. Increase blood pressure <br/>C. Stimulate lipolysis in brown fat <br/>D. Reduce appetite
 
 **23.** Which cartilage type lacks a perichondrium?
-A. Elastic <br/>B. Fibrocartilage <br/>C. Articular hyaline <br/>D. Hyaline
+A. Elastic <br/>B. Fibrocartilage <br/>C. Tracheal hyaline <br/>D. Hyaline
 
 **24.** The intervertebral disc's annulus fibrosus is composed of:
 A. Dense regular connective tissue <br/>B. Hyaline cartilage <br/>C. Elastic cartilage <br/>D. Fibrocartilage
@@ -186,7 +186,7 @@ A. Secrete antibodies <br/>B. Produce T cells <br/>C. Filter blood and remove ag
 **58.** The lifespan of a normal erythrocyte is approximately:
 A. 120 days <br/>B. 1 year <br/>C. 7 days <br/>D. 30 days
 
-**59.** Neonatal hemopoiesis occurs mainly in the:
+**59.** During the second trimester, hemopoiesis occurs mainly in the:
 A. Liver and spleen <br/>B. Bone marrow <br/>C. Thymus <br/>D. Yolk sac
 
 **60.** Which cell is the principal antigen-presenting cell of the epidermis?
@@ -366,7 +366,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **22. A** — Adiponectin increases insulin sensitivity; it is reduced in obesity. **Trap:** D is leptin. B and C are not adiponectin actions.
 
-**23. B** — Fibrocartilage has no perichondrium, which contributes to its poor healing. **Trap:** D and A have perichondrium. C is hyaline and does have perichondrium (though it is thin).
+**23. B** — Fibrocartilage has no perichondrium, which contributes to its poor healing. **Trap:** D and A have perichondrium. C is hyaline and is covered by perichondrium.
 
 **24. D** — The annulus fibrosus is fibrocartilage, with type I and type II collagen. **Trap:** B is the articular surface. C is the epiglottis. A is tendon.
 
@@ -442,7 +442,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **60. C** — Langerhans cells are the epidermal antigen-presenting cells; they originate in bone marrow. **Trap:** A is structural. B is pigment-producing. D is a mechanoreceptor.
 
-**61. A** — Auerbach's plexus lies between the circular and longitudinal layers of the muscularis externa. **Trap:** C and D contain the submucosal plexus. B is outer covering.
+**61. A** — Auerbach's plexus lies between the circular and longitudinal layers of the muscularis externa. **Trap:** D contains the submucosal (Meissner) plexus. C is the mucosa; B is the outer covering.
 
 **62. A** — Parietal cells secrete hydrochloric acid and intrinsic factor. **Trap:** D is secreted by chief cells. B by mucous cells. C by G cells.
 
@@ -480,7 +480,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **79. B** — Sebaceous glands are holocrine; the whole cell disintegrates into the secretion. **Trap:** D is eccrine sweat. A is mammary lipid. C is hormonal release.
 
-**80. C** — Pacinian corpuscles lie deep in the dermis and hypodermis and sense vibration. **Trap:** A and B contain Meissner corpuscles. D has no corpuscles.
+**80. C** — Pacinian corpuscles lie deep in the dermis and hypodermis and sense vibration. **Trap:** B contains Meissner corpuscles; A is supplied by free nerve endings. D has no corpuscles.
 
 **81. B** — Keratinocytes make up about 90% of epidermal cells. **Trap:** D, A, and C together are a small minority.
 

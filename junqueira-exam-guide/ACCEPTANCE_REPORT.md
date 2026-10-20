@@ -23,11 +23,11 @@ The files below are the exact files produced by the final build (`build.py`, `bu
 
 | Artifact | Size | SHA-256 (first 16) | Check |
 |---|---|---|---|
-| `Junqueira_Exam_Companion.pdf` | 527,136 B | `2c366f4551e1d7a5` | **140 pages**, 0 blank pages, 24/24 contents entries match their chapter openers |
-| `Junqueira_Exam_Companion.docx` | 177,888 B | `b14947e3c10ef428` | Valid OOXML archive; **74 tables**; heading styles and numbering intact |
-| `Junqueira_Exam_Companion.html` | 441,950 B | `89503cc99ad69758` | Self-contained, **74 tables**, `lang="en-US"`, no external assets |
+| `Junqueira_Exam_Companion.pdf` | 527,191 B | `f1705984b7ddcdbd` | **140 pages**, 0 blank pages, 24/24 contents entries match their chapter openers |
+| `Junqueira_Exam_Companion.docx` | 177,921 B | `93f3acc670032868` | Valid OOXML archive; **74 tables**; heading styles and numbering intact |
+| `Junqueira_Exam_Companion.html` | 442,012 B | `a7dfec989324637e` | Self-contained, **74 tables**, `lang="en-US"`, no external assets |
 | `deliverables/junqueira_flashcards.csv` | 550 rows | `6543a89479977262` | 550 cards, **0 duplicate fronts**, 0 empty or over-long backs |
-| `deliverables/junqueira_question_bank.csv` | 100 rows × 10 columns | `f0f15734718beb04` | 100 items, 4 distinct options each, key **25 A / 25 B / 25 C / 25 D**, explanation and distractor note on every item |
+| `deliverables/junqueira_question_bank.csv` | 31,312 B | `53f009b28ecae259` | 100 items, 4 distinct options each, key **25 A / 25 B / 25 C / 25 D**, explanation and distractor note on every item |
 
 Other automated checks:
 
@@ -39,7 +39,7 @@ Other automated checks:
 
 ## 3. Defects found and fixed
 
-Ten genuine defects were found. Each was fixed in the manuscript, and every affected output was rebuilt and re-checked.
+Ten genuine defects were found in the review itself, and five more in the post-acceptance pass described in section 3a. Each was fixed in the manuscript, and every affected output was rebuilt and re-checked.
 
 | # | Chapter | Defect | Fix |
 |---|---|---|---|
@@ -55,6 +55,21 @@ Ten genuine defects were found. Each was fixed in the manuscript, and every affe
 | 10 | 19–20 | Clinical boxes contained Kimmelstiel–Wilson nodules, renal-cell carcinoma, Hashimoto thyroiditis, Hürthle cells, Cushing and Conn syndromes — none in the book; and islet β/α distribution was described as central/peripheral (rodent pattern) | Clinical boxes replaced with the book's own clinical applications; islet text corrected to "scattered in human islets" |
 
 Smaller corrections: `Synthesises`, `neighbours` and `favoured` normalised to the book's American spelling; the DOCX/HTML language tag changed from `en-GB` to `en-US`; a duplicated cortex-blood-flow line removed; the Chapter 19 one-line list aligned with the corrected table.
+
+
+## 3a. Post-acceptance defect pass (frozen version)
+
+After the version was frozen, a targeted pass looked only for material defects: contradictions between chapters and the rapid-review list, and ambiguous or wrongly explained MCQs. It found five. Each was corrected at the exact location below; nothing else was changed.
+
+| Location | Current text (before) | Evidence | Correction |
+|---|---|---|---|
+| **Ch 24, Rapid Review — 100 one-line facts, item 81 (PDF p. 119)** | "Platelets = 2–3 µm, from megakaryocytes." | Chapter 12 and the book give **2–4 µm**; the line contradicted the corrected chapter | "Platelets = 2–4 µm, from megakaryocytes." |
+| **Part VII, MCQ 23, option C (PDF p. 126)** | Option C "Articular hyaline" to the question "Which cartilage type lacks a perichondrium?", with the answer explanation "C is hyaline and does have perichondrium (though it is thin)" | Articular hyaline cartilage **lacks** a perichondrium — the book's own Chapter 7 review question asks "How does articular cartilage differ from most other hyaline cartilage? … It lacks a perichondrium." The item therefore had two correct answers (B and C), and the explanation was wrong | Option C changed to "Tracheal hyaline"; explanation changed to "C is hyaline and is covered by perichondrium." B remains the single correct answer |
+| **Part VII, MCQ 59, stem (PDF p. 129)** | "Neonatal hemopoiesis occurs mainly in the:" with answer "Liver and spleen" | The book places liver/spleen hemopoiesis in the **second trimester**; by the neonatal period the marrow is the main site. The stem contradicted its own explanation | Stem changed to "During the second trimester, hemopoiesis occurs mainly in the:" |
+| **Part VII, MCQ 61, explanation (PDF p. 135)** | "C and D contain the submucosal plexus." | Meissner's submucosal plexus lies in the **submucosa only** (option D); option C is the mucosa | "D contains the submucosal (Meissner) plexus. C is the mucosa; B is the outer covering." |
+| **Part VII, MCQ 80, explanation (PDF p. 136)** | "A and B contain Meissner corpuscles." | Meissner corpuscles sit in the **dermal papillae** (option B); the basal epidermis (option A) is supplied by free nerve endings | "B contains Meissner corpuscles; A is supplied by free nerve endings. D has no corpuscles." |
+
+No MCQ answer key changed: the bank remains 100 items with 25 A / 25 B / 25 C / 25 D, and every item still has four distinct options and a complete explanation. All 100 keys were re-read against the source during this pass and no further wrong key was found.
 
 ## 4. Without overstating the evidence
 
