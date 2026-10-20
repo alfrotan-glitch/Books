@@ -58,7 +58,7 @@ Smaller corrections: `Synthesises`, `neighbours` and `favoured` normalised to th
 
 ## 4. Without overstating the evidence
 
-- **30 of the 870 source pages carry no text layer** (full-page plates and cover pages: part 1 pages 1–3, 20, 29, 46, 76, 79, 86, 142, 166, 174, 203; part 2 pages 60, 69, 72, 90, 158, 217; part 3 pages 42, 50, 80, 82, 127, 166, 180, 198; part 4 pages 44, 67, 71). **These pages were not all visually reviewed, and this report does not claim that they were.** No factual statement in the guide depends on them; where a figure sits on one of them, the guide cites the figure number instead of describing the figure.
+- **30 of the 867 source pages carry no text layer** (full-page plates and cover pages: part 1 pages 1–3, 20, 29, 46, 76, 79, 86, 142, 166, 174, 203; part 2 pages 60, 69, 72, 90, 158, 217; part 3 pages 42, 50, 80, 82, 127, 166, 180, 198; part 4 pages 44, 67, 71). **These pages were not all visually reviewed, and this report does not claim that they were.** No factual statement in the guide depends on them; where a figure sits on one of them, the guide cites the figure number instead of describing the figure.
 - The one page of this group whose content was needed for a correction (part 2, page 158, the printed plasma table) was rendered and read directly in this review; the corrected Table 12–1 matches it.
 - **No atlas plates are reproduced** (copyright). The guide cites figure numbers, part and page, so the reader opens the real image.
 - **The 100 MCQs are original**, written in the style of the book's *Assess Your Knowledge* questions. They are not past examination papers, and no claim is made about examination frequency.
