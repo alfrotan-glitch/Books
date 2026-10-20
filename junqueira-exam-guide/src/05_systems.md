@@ -10,7 +10,7 @@ The kidney is a **countercurrent filtration and reabsorption machine** built fro
 
 ### Kidneys
 
-- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organised into **pyramids**.
+- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **pyramids**.
 - **Renal columns (of Bertin)** — cortical tissue between pyramids.
 - **Lobe** = pyramid + overlying cortex; **lobule** = a medullary ray + the cortical tissue around it.
 - **Papilla** → minor calyx → major calyx → renal pelvis → ureter.
@@ -46,7 +46,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 **Ureter** — **transitional epithelium**, a **star-shaped lumen**, and a muscular wall of two layers (inner longitudinal, outer circular) in the upper part, three in the lower. **Bladder** — transitional epithelium, a thick **detrusor** muscle in interlacing bundles, and a trigone where the epithelium is firmly attached. **Urethra** — male: prostatic (transitional), membranous (stratified columnar), spongy (pseudostratified/stratified squamous); female: short, lined by stratified squamous near the external meatus.
 
-> **CLINICAL** — **Diabetic nephropathy** thickens the glomerular basement membrane and later produces mesangial expansion (Kimmelstiel–Wilson nodules), with proteinuria. **Nephrotic syndrome** — heavy proteinuria, hypoalbuminaemia, oedema, hyperlipidaemia; podocyte injury is central. **Acute tubular necrosis** — ischaemic or toxic injury to the proximal tubule, the most metabolically demanding segment. **Polycystic kidney disease** — the primary cilium and its signalling fail. **Renal cell carcinoma** arises from proximal tubule cells; **transitional cell carcinoma** from the urothelium.
+> **CLINICAL** — **Diabetic nephropathy** thickens the glomerular basement membrane and later produces mesangial expansion (Kimmelstiel–Wilson nodules), with proteinuria. **Nephrotic syndrome** — heavy proteinuria, hypoalbuminaemia, edema, hyperlipidaemia; podocyte injury is central. **Acute tubular necrosis** — ischaemic or toxic injury to the proximal tubule, the most metabolically demanding segment. **Polycystic kidney disease** — the primary cilium and its signalling fail. **Renal cell carcinoma** arises from proximal tubule cells; **transitional cell carcinoma** from the urothelium.
 
 > **MICRO** — Start at the renal corpuscle: the **glomerulus** is a tuft of capillaries inside a capsule. Then compare tubules: **eosinophilic + brush border = proximal; pale + clean = distal; large pale cells in a row = collecting duct.** The **macula densa** is the patch of tall cells on the distal tubule facing the vascular pole.
 
@@ -58,7 +58,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 ### The core idea
 
-Endocrine glands release hormone into the blood, so their histology is organised around **storage and release** rather than ducts. The three patterns to recognise are **cords** (pituitary, adrenal, parathyroid), **follicles** (thyroid), and **clusters** (pancreatic islets). Each pattern is dictated by how the hormone is stored.
+Endocrine glands release hormone into the blood, so their histology is organized around **storage and release** rather than ducts. The three patterns to recognize are **cords** (pituitary, adrenal, parathyroid), **follicles** (thyroid), and **clusters** (pancreatic islets). Each pattern is dictated by how the hormone is stored.
 
 ### Pituitary Gland (Hypophysis)
 
@@ -93,7 +93,7 @@ The **fasciculata** is the thickest zone and its cells are pale and vacuolated b
 
 ### Pancreatic Islets
 
-Pale, round clusters between the acini of the exocrine pancreas (Chapter 16): **β (insulin, 60–70%), α (glucagon, 20–25%), δ (somatostatin), PP, ε (ghrelin)**. Islets are richly vascularised, and their hormones pass directly into the bloodstream rather than into ducts.
+Pale, round clusters between the acini of the exocrine pancreas (Chapter 16): **β (insulin, 60–70%), α (glucagon, 20–25%), δ (somatostatin), PP, ε (ghrelin)**. Islets are richly vascularized, and their hormones pass directly into the bloodstream rather than into ducts.
 
 ### Diffuse Neuroendocrine System
 
@@ -116,7 +116,7 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 
 **Pinealocytes** (modified neurons) in cords, with **corpora arenacea (brain sand)** — calcified concretions visible on X-ray. Secretes **melatonin** in darkness under sympathetic control; a biological clock component, and a favourite "identify this organ" image because of the concretions.
 
-> **CLINICAL** — **Graves disease** — diffuse hyperthyroidism with tall columnar follicular cells, scalloped colloid, and lymphoid infiltration. **Hashimoto thyroiditis** — autoimmune destruction with **Hürthle cells** and germinal centres. **Cushing syndrome** — excess cortisol, with fasciculata hyperplasia or an adrenal adenoma. **Conn syndrome** — aldosterone excess from a glomerulosa adenoma. **Pheochromocytoma** — a chromaffin-cell tumour producing episodic hypertension. **Diabetes mellitus** — progressive β-cell loss. **Pituitary adenoma** — bitemporal hemianopia from compression of the optic chiasm plus a hormone syndrome.
+> **CLINICAL** — **Graves disease** — diffuse hyperthyroidism with tall columnar follicular cells, scalloped colloid, and lymphoid infiltration. **Hashimoto thyroiditis** — autoimmune destruction with **Hürthle cells** and germinal centers. **Cushing syndrome** — excess cortisol, with fasciculata hyperplasia or an adrenal adenoma. **Conn syndrome** — aldosterone excess from a glomerulosa adenoma. **Pheochromocytoma** — a chromaffin-cell tumor producing episodic hypertension. **Diabetes mellitus** — progressive β-cell loss. **Pituitary adenoma** — bitemporal hemianopia from compression of the optic chiasm plus a hormone syndrome.
 
 > **MICRO** — Three patterns, three organs. **Follicles of colloid = thyroid.** **Cords of pale foamy cells under a capsule = adrenal cortex; the medulla is paler and central.** **Small pale chief cells in dense cords = parathyroid.** Pituitary: **acidophils and basophils in sheets (anterior); pale fibrillary tissue without epithelial cells (posterior).**
 
@@ -172,7 +172,7 @@ Because the barrier makes the adluminal compartment immunologically privileged, 
 
 Three erectile bodies: two **corpora cavernosa** and one **corpus spongiosum** containing the urethra. Each is a sponge of **endothelium-lined cavernous spaces** surrounded by smooth muscle and a **tunica albuginea**. Erection is a vascular event: parasympathetic nitric oxide dilates the helicine arteries, filling the spaces and compressing venous outflow.
 
-> **CLINICAL** — **Cryptorchidism** — an undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises; orchidopexy is performed early. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasises to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumours** — germ-cell tumours in young men; a painless mass is malignant until proven otherwise.
+> **CLINICAL** — **Cryptorchidism** — an undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises; orchidopexy is performed early. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasises to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — germ-cell tumors in young men; a painless mass is malignant until proven otherwise.
 
 > **MICRO** — Identify the two compartments instantly. **Inside the tubule: Sertoli cells (pale, tall) and germ cells at various stages.** **Outside the tubule: Leydig cells (eosinophilic, polygonal, in clusters).** If asked for the cell that forms the blood–testis barrier, the answer is Sertoli.
 
@@ -220,7 +220,7 @@ Fertilisation normally occurs in the **ampulla**. The sperm penetrates the coron
 
 | Phase | Days | Hormone | Histology |
 |---|---|---|---|
-| **Menstrual** | 1–4 | Falling progesterone | Shedding, haemorrhage, neutrophilic infiltrate |
+| **Menstrual** | 1–4 | Falling progesterone | Shedding, hemorrhage, neutrophilic infiltrate |
 | **Proliferative** | 5–14 | **Oestrogen** | Glands straight and narrow, mitoses, dense stroma |
 | **Secretory** | 15–28 | **Progesterone** | Glands **tortuous and dilated with secretion**, oedematous stroma, coiled spiral arteries |
 
@@ -240,7 +240,7 @@ Endocervical canal lined by **simple columnar mucus-secreting** cells; the ectoc
 
 ### Vagina
 
-**Stratified squamous non-keratinised** epithelium rich in **glycogen**, no glands (lubrication comes from cervical and Bartholin glands), and a lamina propria with elastic fibres and venous plexuses. **Lactobacillus** metabolises glycogen to lactic acid, maintaining an acidic pH.
+**Stratified squamous non-keratinised** epithelium rich in **glycogen**, no glands (lubrication comes from cervical and Bartholin glands), and a lamina propria with elastic fibers and venous plexuses. **Lactobacillus** metabolises glycogen to lactic acid, maintaining an acidic pH.
 
 ### External Genitalia
 
@@ -252,7 +252,7 @@ A modified **apocrine sweat gland**. In the non-lactating state the gland is mos
 
 Hormonal control: **oestrogen** for ductal growth, **progesterone** for lobuloalveolar development, **prolactin** for milk synthesis, **oxytocin** for milk ejection.
 
-> **CLINICAL** — **Polycystic ovary syndrome** — multiple arrested antral follicles, anovulation, hyperandrogenism. **Endometriosis** — functional endometrial tissue outside the uterus, bleeding cyclically. **Leiomyoma (fibroid)** — a benign smooth-muscle tumour of the myometrium. **Endometrial carcinoma** — unopposed oestrogen, with atypical hyperplasia. **Cervical carcinoma** — HPV in the transformation zone. **Ectopic pregnancy** — implantation outside the uterine cavity, usually in the ampulla. **Breast carcinoma** — arises from ductal or lobular epithelium; the **terminal duct lobular unit** is the functional unit to remember.
+> **CLINICAL** — **Polycystic ovary syndrome** — multiple arrested antral follicles, anovulation, hyperandrogenism. **Endometriosis** — functional endometrial tissue outside the uterus, bleeding cyclically. **Leiomyoma (fibroid)** — a benign smooth-muscle tumor of the myometrium. **Endometrial carcinoma** — unopposed oestrogen, with atypical hyperplasia. **Cervical carcinoma** — HPV in the transformation zone. **Ectopic pregnancy** — implantation outside the uterine cavity, usually in the ampulla. **Breast carcinoma** — arises from ductal or lobular epithelium; the **terminal duct lobular unit** is the functional unit to remember.
 
 > **MICRO** — Place the ovary in the cycle by the **dominant structure**: many small primordial follicles = inactive/early; a large antral follicle = late follicular; a corpus luteum with folded, pale, luteinised cells = secretory phase; a hyaline scar = post-ovulatory. In the uterus, look at the **glands**, not the stroma.
 
@@ -266,7 +266,7 @@ Hormonal control: **oestrogen** for ductal growth, **progesterone** for lobuloal
 
 ### The core idea
 
-Both organs convert a physical signal into a nerve impulse through a **specialised epithelium** — the retina for light, the organ of Corti for sound. Their histology is therefore about **transduction**, not merely structure.
+Both organs convert a physical signal into a nerve impulse through a **specialized epithelium** — the retina for light, the organ of Corti for sound. Their histology is therefore about **transduction**, not merely structure.
 
 ### Eyes: The Photoreceptor System
 
@@ -289,24 +289,24 @@ Both organs convert a physical signal into a nerve impulse through a **specialis
 The cornea is **transparent because it is avascular and its collagen is regularly arranged**. When it becomes oedematous or scarred, it loses transparency — the anatomical explanation for corneal blindness.
 
 - **Choroid** — pigmented, vascular; nourishes the outer retina.
-- **Ciliary body** — **ciliary muscle** (accommodation) and **ciliary processes** (aqueous humour secretion) with **zonular fibres** suspending the lens.
+- **Ciliary body** — **ciliary muscle** (accommodation) and **ciliary processes** (aqueous humour secretion) with **zonular fibers** suspending the lens.
 - **Iris** — pigment epithelium and a stroma with **sphincter pupillae** (constricts, parasympathetic) and **dilator pupillae** (dilates, sympathetic).
 
 **Aqueous humour** flows from the posterior chamber through the pupil into the anterior chamber and drains through the **trabecular meshwork** into the **canal of Schlemm**. Blockage raises intraocular pressure — glaucoma.
 
-**The lens:** **capsule** → **subcapsular epithelium** → **lens fibres** (elongated cells packed with **crystallins**, without organelles). New fibres are added at the equator throughout life, so the lens grows and its nucleus becomes denser. Loss of transparency is **cataract**.
+**The lens:** **capsule** → **subcapsular epithelium** → **lens fibers** (elongated cells packed with **crystallins**, without organelles). New fibers are added at the equator throughout life, so the lens grows and its nucleus becomes denser. Loss of transparency is **cataract**.
 
 **The retina** — five of its ten layers matter for exams:
 
 | Layer | Contents |
 |---|---|
 | **Retinal pigment epithelium (RPE)** | Pigmented; absorbs stray light, phagocytoses outer segments, regenerates visual pigment |
-| **Photoreceptor layer** | **Rods** (rhodopsin, dim light, ~120 million) and **cones** (iodopsin, colour, ~6 million) |
+| **Photoreceptor layer** | **Rods** (rhodopsin, dim light, ~120 million) and **cones** (iodopsin, color, ~6 million) |
 | **Outer nuclear layer** | Photoreceptor nuclei |
 | **Inner nuclear layer** | Bipolar, horizontal, amacrine, and Müller cell nuclei |
 | **Ganglion cell layer** | Ganglion cells whose axons form the optic nerve |
 
-The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **macula lutea** — and its centre, the **fovea centralis** — contains only **cones**, has the highest acuity, and is the site of central vision. The **optic disc** is the **blind spot**, because photoreceptors are absent there. **Müller cells** are the principal glia.
+The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **macula lutea** — and its center, the **fovea centralis** — contains only **cones**, has the highest acuity, and is the site of central vision. The **optic disc** is the **blind spot**, because photoreceptors are absent there. **Müller cells** are the principal glia.
 
 ### Ears: The Vestibuloauditory System
 
@@ -322,8 +322,8 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 
 **Endolymph** (high K⁺) fills the membranous labyrinth; **perilymph** (high Na⁺) fills the bony labyrinth. The ionic difference is the battery that drives transduction.
 
-> **CLINICAL** — **Glaucoma** — raised intraocular pressure from impaired drainage through the trabecular meshwork, damaging the optic nerve. **Cataract** — lens opacity from crystallin denaturation. **Age-related macular degeneration** — degeneration of the RPE and photoreceptors at the macula. **Retinal detachment** — separation of the neural retina from the RPE, which starves the photoreceptors. **Diabetic retinopathy** — microvascular damage with haemorrhage and neovascularisation. **Otosclerosis** — ossification of the stapes footplate, producing conductive deafness. **Presbycusis** — age-related loss of hair cells and neurons. **Ménière disease** — endolymphatic hydrops with vertigo, tinnitus, and fluctuating deafness.
+> **CLINICAL** — **Glaucoma** — raised intraocular pressure from impaired drainage through the trabecular meshwork, damaging the optic nerve. **Cataract** — lens opacity from crystallin denaturation. **Age-related macular degeneration** — degeneration of the RPE and photoreceptors at the macula. **Retinal detachment** — separation of the neural retina from the RPE, which starves the photoreceptors. **Diabetic retinopathy** — microvascular damage with hemorrhage and neovascularisation. **Otosclerosis** — ossification of the stapes footplate, producing conductive deafness. **Presbycusis** — age-related loss of hair cells and neurons. **Ménière disease** — endolymphatic hydrops with vertigo, tinnitus, and fluctuating deafness.
 
 > **MICRO** — The **cornea** is identified by five layers and a regular, avascular stroma. The **retina** by its ten layers with a pigmented layer at the outer border and ganglion cells at the inner border. The **organ of Corti** by the tunnel of Corti between inner and outer hair cells on the basilar membrane, with the tectorial membrane above.
 
-> **TIP** — Rods detect **dim light**, cones detect **colour and detail**; the **fovea has only cones**, which is why acuity is highest there and colour vision is lost first in the periphery.
+> **TIP** — Rods detect **dim light**, cones detect **color and detail**; the **fovea has only cones**, which is why acuity is highest there and color vision is lost first in the periphery.

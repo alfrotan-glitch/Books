@@ -7,7 +7,7 @@
 ### Cells and techniques (1–12)
 
 **1.** A tissue section is treated with a basic dye. Which structure will stain most intensely?
-A. Collagen bundles  B. Nuclei and rough endoplasmic reticulum  C. Erythrocytes  D. Elastic fibres
+A. Collagen bundles  B. Nuclei and rough endoplasmic reticulum  C. Erythrocytes  D. Elastic fibers
 
 **2.** Which stain would you choose to demonstrate a basement membrane?
 A. Eosin  B. Orcein  C. PAS  D. Sudan black
@@ -18,10 +18,10 @@ A. Routine paraffin section  B. Frozen section  C. Resin embedding  D. Whole-mou
 **4.** The resolving power of the light microscope is approximately:
 A. 0.2 nm  B. 2 µm  C. 0.2 µm  D. 20 µm
 
-**5.** Which technique localises a specific protein in a tissue section using an antibody?
+**5.** Which technique localizes a specific protein in a tissue section using an antibody?
 A. Autoradiography  B. In situ hybridisation  C. Immunohistochemistry  D. Polarising microscopy
 
-**6.** A cell specialised for steroid hormone synthesis would show abundant:
+**6.** A cell specialized for steroid hormone synthesis would show abundant:
 A. Rough ER and Golgi  B. Smooth ER and lipid droplets  C. Lysosomes and residual bodies  D. Free ribosomes and proteasomes
 
 **7.** Which organelle contains catalase and performs β-oxidation of very long-chain fatty acids?
@@ -39,7 +39,7 @@ A. A motile cilium  B. A basal body  C. A sperm flagellum  D. A microvillus
 **11.** A mutation in lamin A produces:
 A. Progeria  B. Duchenne dystrophy  C. Marfan syndrome  D. Alport syndrome
 
-**12.** The nucleolar organiser regions are located on which chromosomes?
+**12.** The nucleolar organizer regions are located on which chromosomes?
 A. 1, 2, 3, 4, 5  B. 13, 14, 15, 21, 22  C. 16, 17, 18, 19, 20  D. X and Y
 
 ### Epithelium, connective tissue, cartilage and bone (13–32)
@@ -92,16 +92,16 @@ A. Reserve zone  B. Proliferative zone  C. Hypertrophic zone  D. Ossification zo
 **28.** Which hormone lowers serum calcium?
 A. PTH  B. Calcitriol  C. Calcitonin  D. Growth hormone
 
-**29.** The primary ossification centre of a long bone appears in the:
+**29.** The primary ossification center of a long bone appears in the:
 A. Epiphysis  B. Diaphysis  C. Metaphysis  D. Periosteum
 
 **30.** A multinucleated cell lying in a scalloped resorption pit is:
 A. An osteoblast  B. An osteocyte  C. An osteoclast  D. A macrophage
 
-**31.** Dense regular connective tissue is characterised by:
-A. Randomly oriented collagen bundles  B. Parallel collagen bundles  C. Abundant elastic fibres  D. A reticular network
+**31.** Dense regular connective tissue is characterized by:
+A. Randomly oriented collagen bundles  B. Parallel collagen bundles  C. Abundant elastic fibers  D. A reticular network
 
-**32.** Which tissue is the site of haematopoiesis in the adult?
+**32.** Which tissue is the site of hematopoiesis in the adult?
 A. Liver  B. Spleen  C. Red bone marrow  D. Yellow bone marrow
 
 ### Nerve and muscle (33–44)
@@ -139,18 +139,18 @@ A. Troponin C  B. Calmodulin and myosin light-chain kinase  C. Tropomyosin only 
 **43.** T-tubules and terminal cisternae form triads at the:
 A. Z line  B. A–I junction  C. M line  D. H band
 
-**44.** A muscle fibre that is rich in mitochondria and myoglobin and resistant to fatigue is:
+**44.** A muscle fiber that is rich in mitochondria and myoglobin and resistant to fatigue is:
 A. Type I  B. Type IIa  C. Type IIx  D. All equally
 
-### Blood, haemopoiesis and immunity (45–60)
+### Blood, hemopoiesis and immunity (45–60)
 
-**45.** The most abundant leucocyte in normal peripheral blood is the:
+**45.** The most abundant leukocyte in normal peripheral blood is the:
 A. Lymphocyte  B. Neutrophil  C. Monocyte  D. Eosinophil
 
 **46.** A bilobed nucleus with bright orange-red granules identifies the:
 A. Basophil  B. Neutrophil  C. Eosinophil  D. Monocyte
 
-**47.** The largest leucocyte, with a kidney-shaped nucleus, is the:
+**47.** The largest leukocyte, with a kidney-shaped nucleus, is the:
 A. Lymphocyte  B. Monocyte  C. Neutrophil  D. Basophil
 
 **48.** Platelets are derived from:
@@ -165,7 +165,7 @@ A. 1:1  B. 2:1 to 4:1  C. 1:2  D. 10:1
 **51.** Which immunoglobulin is the main secretory antibody at mucosal surfaces?
 A. IgG  B. IgM  C. IgA  D. IgE
 
-**52.** CD4-positive T cells recognise antigen presented by:
+**52.** CD4-positive T cells recognize antigen presented by:
 A. MHC class I  B. MHC class II  C. MHC class III  D. Antibody alone
 
 **53.** Hassall corpuscles are found in the:
@@ -177,7 +177,7 @@ A. Lymph node  B. Thymus and spleen  C. Tonsil  D. Appendix
 **55.** The periarteriolar lymphoid sheath of the spleen contains mainly:
 A. B cells  B. T cells  C. Macrophages  D. Plasma cells
 
-**56.** A germinal centre is a site of:
+**56.** A germinal center is a site of:
 A. T-cell maturation  B. B-cell proliferation  C. Erythropoiesis  D. Platelet production
 
 **57.** The red pulp of the spleen functions mainly to:
@@ -186,7 +186,7 @@ A. Produce T cells  B. Filter blood and remove aged erythrocytes  C. Store lymph
 **58.** The lifespan of a normal erythrocyte is approximately:
 A. 7 days  B. 30 days  C. 120 days  D. 1 year
 
-**59.** Neonatal haemopoiesis occurs mainly in the:
+**59.** Neonatal hemopoiesis occurs mainly in the:
 A. Yolk sac  B. Liver and spleen  C. Bone marrow  D. Thymus
 
 **60.** Which cell is the principal antigen-presenting cell of the epidermis?
@@ -227,12 +227,12 @@ A. Islets and striated ducts  B. Basophilic acini and zymogen granules  C. Mucou
 **71.** Which cells secrete insulin?
 A. Alpha cells  B. Beta cells  C. Delta cells  D. PP cells
 
-**72.** The oesophagus is lined by:
+**72.** The esophagus is lined by:
 A. Simple columnar epithelium  B. Stratified squamous non-keratinised epithelium  C. Transitional epithelium  D. Pseudostratified ciliated epithelium
 
 ### Respiratory system and skin (73–82)
 
-**73.** Type II pneumocytes are characterised by:
+**73.** Type II pneumocytes are characterized by:
 A. A squamous shape and no organelles  B. Lamellar bodies and surfactant production  C. Cilia and goblet granules  D. Phagocytic vacuoles
 
 **74.** Clara (club) cells are found in the:
@@ -286,7 +286,7 @@ A. Simple squamous epithelium  B. Simple cuboidal epithelium  C. Stratified cubo
 A. Follicular cells  B. Parafollicular C cells  C. Chief cells  D. Oxyphil cells
 
 **90.** The zona fasciculata of the adrenal cortex secretes:
-A. Aldosterone  B. Cortisol  C. Androgens  D. Adrenaline
+A. Aldosterone  B. Cortisol  C. Androgens  D. Epinephrine
 
 **91.** Which is derived from neural crest?
 A. Adrenal cortex  B. Adrenal medulla  C. Thyroid follicle  D. Parathyroid chief cells
@@ -322,7 +322,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 ## Answer Key with Explanations
 
-**1. B** — Basic dyes such as haematoxylin bind acidic structures, and nucleic acids (nucleus, rough ER) are the most acidic components of the cell.
+**1. B** — Basic dyes such as hematoxylin bind acidic structures, and nucleic acids (nucleus, rough ER) are the most acidic components of the cell.
 
 **2. C** — PAS stains the glycoprotein-rich basement membrane magenta; eosin stains it only weakly and orcein stains elastin.
 
@@ -330,7 +330,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **4. C** — The light microscope resolves about 0.2 µm; electron microscopy is required for anything smaller.
 
-**5. C** — Immunohistochemistry uses a specific antibody, visualised by an enzyme reaction or a fluorophore.
+**5. C** — Immunohistochemistry uses a specific antibody, visualized by an enzyme reaction or a fluorophore.
 
 **6. B** — Steroid synthesis requires smooth ER and lipid (cholesterol) stores; such cells appear pale and foamy.
 
@@ -344,7 +344,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **11. A** — Lamin A mutations destabilise the nuclear envelope and cause Hutchinson–Gilford progeria.
 
-**12. B** — The acrocentric chromosomes 13, 14, 15, 21, and 22 carry the nucleolar organiser regions.
+**12. B** — The acrocentric chromosomes 13, 14, 15, 21, and 22 carry the nucleolar organizer regions.
 
 **13. C** — The tight junction (zonula occludens) seals the intercellular space and creates polarity.
 
@@ -378,13 +378,13 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **28. C** — Calcitonin from thyroid C cells inhibits osteoclasts and lowers serum calcium.
 
-**29. B** — The primary centre appears in the diaphysis; secondary centres appear in the epiphyses.
+**29. B** — The primary center appears in the diaphysis; secondary centers appear in the epiphyses.
 
 **30. C** — A multinucleated cell in a Howship lacuna is an osteoclast.
 
 **31. B** — Dense regular connective tissue has parallel collagen bundles, as in tendon.
 
-**32. C** — Red bone marrow is the adult haematopoietic site.
+**32. C** — Red bone marrow is the adult hematopoietic site.
 
 **33. B** — Nissl bodies are stacked rough ER and polysomes.
 
@@ -394,7 +394,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **36. B** — Tight junctions between endothelial cells are the anatomical basis; astrocyte feet and pericytes reinforce it.
 
-**37. C** — Endoneurium surrounds individual nerve fibres; perineurium surrounds fascicles.
+**37. C** — Endoneurium surrounds individual nerve fibers; perineurium surrounds fascicles.
 
 **38. C** — The A band is the length of the thick filaments and does not change during contraction.
 
@@ -408,13 +408,13 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **43. B** — In mammalian skeletal muscle, triads lie at the A–I junction; in cardiac muscle, diads lie at the Z line.
 
-**44. A** — Type I fibres are slow, oxidative, and fatigue-resistant.
+**44. A** — Type I fibers are slow, oxidative, and fatigue-resistant.
 
-**45. B** — Neutrophils constitute 60–70% of circulating leucocytes.
+**45. B** — Neutrophils constitute 60–70% of circulating leukocytes.
 
 **46. C** — The eosinophil has a bilobed nucleus and bright orange-red granules.
 
-**47. B** — The monocyte is the largest leucocyte and has a kidney-shaped nucleus.
+**47. B** — The monocyte is the largest leukocyte and has a kidney-shaped nucleus.
 
 **48. B** — Platelets are fragments of megakaryocyte cytoplasm.
 
@@ -424,7 +424,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **51. C** — IgA is the main secretory immunoglobulin; it exists as a dimer with a secretory component.
 
-**52. B** — CD4⁺ helper T cells recognise antigen on MHC class II.
+**52. B** — CD4⁺ helper T cells recognize antigen on MHC class II.
 
 **53. C** — Hassall corpuscles are concentric epithelial whorls unique to the thymic medulla.
 
@@ -432,13 +432,13 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **55. B** — The PALS is the T-cell zone of the spleen; follicles are the B-cell zone.
 
-**56. B** — Germinal centres are sites of B-cell proliferation and affinity maturation.
+**56. B** — Germinal centers are sites of B-cell proliferation and affinity maturation.
 
 **57. B** — The red pulp filters blood and removes aged or damaged erythrocytes.
 
 **58. C** — Erythrocytes circulate for about 120 days.
 
-**59. B** — In the second trimester, the liver and spleen are the main haemopoietic organs.
+**59. B** — In the second trimester, the liver and spleen are the main hemopoietic organs.
 
 **60. C** — Langerhans cells are the epidermal antigen-presenting cells; they originate in bone marrow.
 
@@ -454,7 +454,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **66. C** — Villi are present in the small intestine and absent in the colon.
 
-**67. D** — The central vein is at the centre of the lobule, not in the portal triad.
+**67. D** — The central vein is at the center of the lobule, not in the portal triad.
 
 **68. B** — Kupffer cells are the resident macrophages of the hepatic sinusoids.
 
@@ -464,7 +464,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **71. B** — Beta cells secrete insulin and constitute 60–70% of islet cells.
 
-**72. B** — The oesophagus is lined by stratified squamous non-keratinised epithelium.
+**72. B** — The esophagus is lined by stratified squamous non-keratinised epithelium.
 
 **73. B** — Type II pneumocytes contain lamellar bodies and secrete surfactant.
 
@@ -516,7 +516,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **97. B** — The corpus luteum secretes mainly progesterone.
 
-**98. B** — The fovea contains cones only, giving maximal acuity and colour vision.
+**98. B** — The fovea contains cones only, giving maximal acuity and color vision.
 
 **99. B** — Aqueous humour drains through the trabecular meshwork into the canal of Schlemm.
 

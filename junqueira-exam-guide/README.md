@@ -37,4 +37,4 @@ Edit anything in `src/`, then re-run. Sections are concatenated in filename orde
 
 - Source book: Junqueira's Basic Histology: Text & Atlas, 17th ed., Anthony L. Mescher, McGraw Hill, 2024 (ISBN 978-1-264-93039-5). Chapter and section structure, page ranges and the edition's stated purpose are taken from the book itself.
 - This is a study summary, not a replacement for the textbook or its atlas plates. The images that make histology memorable are in the book; this companion gives you the rules those images illustrate.
-- Terminology follows British usage (`haematoxylin`, `oesophagus`, `fibre`), matching the textbook.
+- Terminology follows the textbook's American spelling (`hematoxylin`, `esophagus`, `fiber`), so every term can be searched in the source.

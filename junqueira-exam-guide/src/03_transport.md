@@ -10,9 +10,9 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 
 ### Heart
 
-- **Endocardium** — endothelium + subendothelial connective tissue + a layer of Purkinje fibres; continuous with the intima of vessels.
+- **Endocardium** — endothelium + subendothelial connective tissue + a layer of Purkinje fibers; continuous with the intima of vessels.
 - **Myocardium** — the thickest layer; cardiac muscle in complex spirals, atria thinner than ventricles, left ventricle thickest.
-- **Epicardium** — mesothelium + connective tissue + adipose; the visceral layer of the pericardium.
+- **Epicardium** — connective tissue containing many **adipocytes**, covered by mesothelium; the visceral layer of the pericardium.
 - **Cardiac skeleton** — dense irregular connective tissue rings that anchor the valves and electrically insulate atria from ventricles.
 - **Valves** — endocardium folded over a core of dense connective tissue; **avascular**. The mitral and tricuspid have chordae tendineae and papillary muscles.
 
@@ -34,7 +34,7 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 | **Muscular artery** | Prominent **internal elastic lamina** | Thick, 3–40 layers of smooth muscle | Moderate | **Well-defined IEL** |
 | **Arteriole** | Endothelium + thin subendothelium | 1–2 layers of smooth muscle | Minimal | **The resistance vessel** |
 | **Capillary** | Endothelium + basal lamina only | None | None | One cell thick |
-| **Venule** | Endothelium | None or sparse pericytes | Thin | Site of **leucocyte diapedesis** |
+| **Venule** | Endothelium | None or sparse pericytes | Thin | Site of **leukocyte diapedesis** |
 | **Small/medium vein** | Endothelium | Thin | **Thickest layer** | Often collapsed on section |
 | **Large vein** (vena cava) | Endothelium | Thin | **Thick, with longitudinal smooth muscle** | Valve-like intimal folds |
 
@@ -50,9 +50,9 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 
 ### Lymphatic Vascular System
 
-Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**. Lymphatics have **no continuous basal lamina** and no fenestrations — which is exactly why tumour cells and bacteria enter them so easily.
+Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**. Lymphatics have **no continuous basal lamina** and no fenestrations — which is exactly why tumor cells and bacteria enter them so easily.
 
-> **CLINICAL** — **Atherosclerosis** begins with endothelial dysfunction: LDL crosses the endothelium, is oxidised, and provokes monocyte recruitment. Macrophages become **foam cells**, a fatty streak forms, smooth muscle migrates into the intima, and a fibrous cap covers a necrotic core. Rupture of a thin cap exposes thrombogenic material and produces the acute coronary syndrome. **Aneurysm** follows destruction of medial elastic fibres. **Varicose veins** follow valve failure. **Lymphoedema** follows lymphatic obstruction — classically after axillary node clearance.
+> **CLINICAL** — **Atherosclerosis** begins with endothelial dysfunction: LDL crosses the endothelium, is oxidised, and provokes monocyte recruitment. Macrophages become **foam cells**, a fatty streak forms, smooth muscle migrates into the intima, and a fibrous cap covers a necrotic core. Rupture of a thin cap exposes thrombogenic material and produces the acute coronary syndrome. **Aneurysm** follows destruction of medial elastic fibers. **Varicose veins** follow valve failure. **Lymphoedema** follows lymphatic obstruction — classically after axillary node clearance.
 
 > **MICRO** — Arteries: **round lumen, thick wall, corrugated internal elastic lamina**. Veins: **irregular collapsed lumen, thin media**. In elastic arteries the media shows wavy pink bands with no orderly muscle coat; in muscular arteries the media is uniform smooth muscle.
 
@@ -74,14 +74,14 @@ About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-
 
 **Erythrocytes**
 
-- **Biconcave disc**, **7.5 µm** in diameter, **2.6 µm** thick at the rim but only **0.75 µm** at the centre — flexible enough to pass small capillaries; **no nucleus, no organelles**, so the cell is packed with haemoglobin.
-- **120-day lifespan**; removed by splenic macrophages; the globin is recycled and the haem converted to bilirubin.
+- **Biconcave disc**, **7.5 µm** in diameter, **2.6 µm** thick at the rim but only **0.75 µm** at the center — flexible enough to pass small capillaries; **no nucleus, no organelles**, so the cell is packed with hemoglobin.
+- Lifespan about **120 days**; removed by splenic macrophages; the globin is recycled and the hem converted to bilirubin.
 - Shape maintained by **spectrin and ankyrin**; defects produce hereditary spherocytosis.
-- **Haemoglobin** — four globin chains, each with a haem group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
+- **Hemoglobin** — four globin chains, each with a hem group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
-- **Haematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leucocytes and platelets. An average adult has **5–6 L** of blood.
+- **Hematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood.
 
-**The leucocytes**
+**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes)
 
 | Cell | % of WBC | Size | Nucleus | Cytoplasm | Main function |
 |---|---|---|---|---|---|
@@ -89,13 +89,13 @@ About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-
 | **Eosinophil** | **2–4%** | 10–14 µm | **Bilobed** | **Bright orange-red** granules | **Parasites and allergy**; major basic protein |
 | **Basophil** | **0.5–1%** | 10–14 µm | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
 | **Lymphocyte** | **20–30%** | 7–12 µm | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
-| **Monocyte** | **3–8%** | **14–20 µm** (largest) | **Kidney-shaped** | Abundant blue-grey | Become **macrophages** |
+| **Monocyte** | **3–8%** | **14–20 µm** (largest) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
 
-**Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**.
+**Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
-**Platelets** are 2–3 µm anucleate fragments of **megakaryocyte** cytoplasm, with a peripheral clear zone (hyalomere) and a central granular zone (granulomere). They adhere, activate, and aggregate to form the primary haemostatic plug; **von Willebrand factor** links them to collagen.
+**Platelets** are 2–3 µm anucleate fragments of **megakaryocyte** cytoplasm, with a peripheral clear zone (hyalomere) and a central granular zone (granulomere). They adhere, activate, and aggregate to form the primary hemostatic plug; **von Willebrand factor** links them to collagen.
 
-> **CLINICAL** — The differential count is a diagnostic instrument. **Neutrophilia** suggests bacterial infection or steroid use; **eosinophilia** parasites or allergy; **lymphocytosis** viral infection or chronic lymphocytic leukaemia; **pancytopenia** marrow failure. In **sickle cell disease** a single glutamic acid → valine substitution in β-globin allows deoxygenated HbS to polymerise; the cell sickles, occludes small vessels, and is removed by the spleen.
+> **CLINICAL** — The differential count is a diagnostic instrument. **Neutrophilia** suggests bacterial infection or steroid use; **eosinophilia** parasites or allergy; **lymphocytosis** viral infection or chronic lymphocytic leukemia; **pancytopenia** marrow failure. In **sickle cell disease** a single glutamic acid → valine substitution in β-globin allows deoxygenated HbS to polymerise; the cell sickles, occludes small vessels, and is removed by the spleen.
 
 > **MICRO** — Count lobes, not granules. **Neutrophil: 3–5 lobes. Eosinophil: exactly two, orange granules. Basophil: granules so dark the nucleus is hidden. Monocyte: kidney-shaped nucleus, largest cell. Lymphocyte: round dense nucleus, almost no cytoplasm.**
 
@@ -109,9 +109,9 @@ About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-
 
 ### The core idea
 
-All blood cells descend from one **haematopoietic stem cell**, and the pathway from that cell to a mature erythrocyte, granulocyte, or platelet is a sequence of named stages you can recognise by **decreasing nucleus, increasing cytoplasm, and changing colour**. It is the most examinable lineage in histology because every stage has a name.
+All blood cells descend from one **hematopoietic stem cell**, and the pathway from that cell to a mature erythrocyte, granulocyte, or platelet is a sequence of named stages you can recognize by **decreasing nucleus, increasing cytoplasm, and changing color**. It is the most examinable lineage in histology because every stage has a name.
 
-### Sites of haemopoiesis
+### Sites of hemopoiesis
 
 | Period | Site |
 |---|---|
@@ -123,7 +123,7 @@ In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, 
 
 ### Stem Cells, Growth Factors, & Differentiation
 
-The **haematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitting in a **niche** of stromal cells, other cells, and ECM. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, examinable by name:
+The **hematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitting in a **niche** of stromal cells, other cells, and ECM. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, examinable by name:
 
 | Factor | Target |
 |---|---|
@@ -137,17 +137,19 @@ The **haematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sit
 
 ### Bone Marrow
 
-Between the trabeculae lie **haemopoietic cords** and **sinusoids** with a discontinuous endothelium, so mature cells can enter the circulation. The **myeloid:erythroid (M:E) ratio** is normally **2:1 to 4:1**; it shifts toward erythroid in haemolytic anaemia and toward myeloid in infection or leukaemia.
+Between the trabeculae lie **hemopoietic cords** and **sinusoids** with a discontinuous endothelium, so mature cells can enter the circulation. The **myeloid:erythroid (M:E) ratio** is normally **2:1 to 4:1**; it shifts toward erythroid in hemolytic anaemia and toward myeloid in infection or leukemia.
 
 ### Maturation of Erythrocytes
 
-**Proerythroblast → basophilic → polychromatophilic → orthochromatophilic erythroblast → reticulocyte → erythrocyte**, developing in **erythropoietic islands or cords**. The names track the cytoplasm's transition from **RNA-rich to haemoglobin-filled**; at the last stage the nucleus is **extruded**, producing a **reticulocyte** that still contains some polyribosomes when released into the circulation.
+**Proerythroblast → basophilic → polychromatophilic → orthochromatophilic erythroblast → reticulocyte → erythrocyte**, developing in **erythropoietic islands or cords**. The names track the cytoplasm's transition from **RNA-rich to hemoglobin-filled**; at the last stage the nucleus is **extruded**, producing a **reticulocyte** that still contains some polyribosomes when released into the circulation.
 
-The cell **shrinks**, the nucleus **condenses and is extruded**, haemoglobin accumulates so the cytoplasm shifts from blue to pink, and the nucleolus disappears. The sequence takes about **5–7 days**. EPO drives it; iron, vitamin B₁₂, and folate are required.
+The cell **shrinks**, the nucleus **condenses and is extruded**, hemoglobin accumulates so the cytoplasm shifts from blue to pink, and the nucleolus disappears. The sequence takes about **5–7 days**. EPO drives it; iron, vitamin B₁₂, and folate are required.
 
 ### Maturation of Granulocytes
 
 **Myeloblast → promyelocyte → myelocyte → metamyelocyte → band cell → segmented neutrophil (or eosinophil/basophil).**
+
+The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**, **lymphoblast**, **proerythroblast**), **-cyte** = the later, non-dividing cell (**myelocyte**, **lymphocyte**, **reticulocyte**); **thrombocyte** is another name for the platelet.
 
 **Primary (azurophilic) granules** appear at the promyelocyte stage, **specific granules** at the myelocyte stage, the nucleus indents at the metamyelocyte stage, and becomes a **C-shaped band** before segmenting. A **left shift** — more bands and younger forms in the peripheral blood — indicates accelerated production: immature neutrophilic metamyelocytes called **band (stab) cells** are released prematurely when the circulating neutrophil compartment is depleted by bacterial infection.
 
@@ -159,9 +161,9 @@ The cell **shrinks**, the nucleus **condenses and is extruded**, haemoglobin acc
 
 **Megakaryoblasts → megakaryocytes**, which become polyploid and develop **demarcation membranes** that delineate future platelet territories; platelets bud from the cytoplasm under TPO control.
 
-> **CLINICAL** — **Aplastic anaemia** is marrow failure with an empty, fatty marrow and pancytopenia. **Leukaemia** is the opposite: marrow packed with malignant blasts, crowding out normal lineages and producing anaemia, infection, and bleeding. **Megaloblastic anaemia** (B₁₂ or folate deficiency) shows nuclear–cytoplasmic asynchrony — the nucleus matures more slowly than the cytoplasm, so cells are large and hypersegmented. **Iron deficiency** produces microcytic hypochromic cells because haemoglobin synthesis lags behind cell division.
+> **CLINICAL** — **Aplastic anaemia** is marrow failure with an empty, fatty marrow and pancytopenia. **Leukemia** is the opposite: marrow packed with malignant blasts, crowding out normal lineages and producing anaemia, infection, and bleeding. **Megaloblastic anaemia** (B₁₂ or folate deficiency) shows nuclear–cytoplasmic asynchrony — the nucleus matures more slowly than the cytoplasm, so cells are large and hypersegmented. **Iron deficiency** produces microcytic hypochromic cells because hemoglobin synthesis lags behind cell division.
 
-> **MICRO** — Identify the lineage by **nucleus-to-cytoplasm ratio and granule colour**. Early cells have a large nucleus, a thin rim of basophilic cytoplasm, and a nucleolus. As cells mature, the ratio falls, granules appear, and the nucleus condenses. **Maturation moves in one direction: nucleus shrinks, cytoplasm grows, colour shifts from blue to pink or from blue to granular.**
+> **MICRO** — Identify the lineage by **nucleus-to-cytoplasm ratio and granule color**. Early cells have a large nucleus, a thin rim of basophilic cytoplasm, and a nucleolus. As cells mature, the ratio falls, granules appear, and the nucleus condenses. **Maturation moves in one direction: nucleus shrinks, cytoplasm grows, color shifts from blue to pink or from blue to granular.**
 
 > **TIP** — Two facts carry disproportionate marks: **EPO comes from the kidney** (peritubular interstitial cells), and **TPO comes mostly from the liver**. Students routinely invert these.
 
@@ -185,11 +187,11 @@ The immune system is a set of organs arranged to **bring antigen to lymphocytes*
 
 ### Cytokines
 
-Small signalling proteins secreted by immune cells that coordinate the response. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leucocyte migration), and **colony-stimulating factors** (haemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their Storm-like excess produces the systemic inflammatory response.
+Small signalling proteins secreted by immune cells that coordinate the response. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their Storm-like excess produces the systemic inflammatory response.
 
 ### Antigens & Antibodies
 
-**Antigens** are molecules recognised by the adaptive immune system; **epitopes** are the specific parts bound by a receptor. **Antibodies** are immunoglobulins:
+**Antigens** are molecules recognized by the adaptive immune system; **epitopes** are the specific parts bound by a receptor. **Antibodies** are immunoglobulins:
 
 | Class | Structure | Main role |
 |---|---|---|
@@ -201,7 +203,7 @@ Small signalling proteins secreted by immune cells that coordinate the response.
 
 ### Antigen Presentation
 
-**T cells cannot see free antigen.** They recognise peptide displayed on **MHC** molecules:
+**T cells cannot see free antigen.** They recognize peptide displayed on **MHC** molecules:
 
 - **MHC class I** — on all nucleated cells; presents **endogenous** peptide (from intracellular proteins, including viral) to **CD8⁺ cytotoxic T cells**.
 - **MHC class II** — on **antigen-presenting cells** (dendritic cells, macrophages, B cells); presents **exogenous** peptide taken up by endocytosis to **CD4⁺ helper T cells**.
@@ -217,7 +219,7 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 - **Capsule** with trabeculae dividing it into lobules, each with a **cortex** and a **medulla**.
 - **No follicles.** The cortex is densely packed with developing **thymocytes** and epithelial reticular cells; the medulla is paler and contains **Hassall corpuscles** — concentric whorls of epithelial cells, unique to the thymus.
 - **Blood–thymus barrier** — formed by **squamous thymic epithelial cells** joined by desmosomes and occluding junctions, together with vascular endothelium and pericytes — prevents unregulated exposure of thymocytes to antigens.
-- **Cortex** is packed with **T lymphoblasts (thymocytes)**, macrophages, and **thymic epithelial cells (TECs)**. Stellate TECs form a **cytoreticulum** to which lymphocytes attach instead of reticulin fibres; these TECs are **antigen-presenting cells** expressing **MHC class II** and secreting cytokines — which is why the thymus is also counted among endocrine glands.
+- **Cortex** is packed with **T lymphoblasts (thymocytes)**, macrophages, and **thymic epithelial cells (TECs)**. Stellate TECs form a **cytoreticulum** to which lymphocytes attach instead of reticulin fibers; these TECs are **antigen-presenting cells** expressing **MHC class II** and secreting cytokines — which is why the thymus is also counted among endocrine glands.
 - **Hassall corpuscles** — aggregates of medullary TECs, concentrically arranged, **up to 100 µm**, **unique to the medulla**; their cells secrete cytokines that control local dendritic cells and promote regulatory T cells for peripheral tolerance.
 - Function: **T-cell maturation and selection** (positive and negative selection, establishing self-tolerance).
 - **Involutes** after puberty, replaced by adipose tissue.
@@ -230,7 +232,7 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 
 | Region | Contents | Function |
 |---|---|---|
-| **Cortex** | **Lymphoid follicles** — primary (dense) or secondary (with pale **germinal centre** and dark mantle) | **B-cell** zone |
+| **Cortex** | **Lymphoid follicles** — primary (dense) or secondary (with pale **germinal center** and dark mantle) | **B-cell** zone |
 | **Paracortex** | Diffuse lymphoid tissue, **high endothelial venules (HEV)** | **T-cell** zone; lymphocytes enter from blood here |
 | **Medulla** | Cords and sinuses, macrophages and plasma cells | Filtration; antibody secretion |
 
@@ -241,7 +243,7 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 - **No afferent lymphatics.** It filters **blood**.
 - **White pulp** — lymphocytes around a central arteriole: the **periarteriolar lymphoid sheath (PALS)** is the T-cell zone; follicles at its periphery are the B-cell zone.
 - **Red pulp** — **cords of Billroth** and **sinusoids** lined by elongated endothelial cells; removes aged or damaged red cells and platelets.
-- **Functions:** blood filtration, removal of old erythrocytes, immune response to blood-borne antigen, and **extramedullary haemopoiesis** in fetal life and marrow failure.
+- **Functions:** blood filtration, removal of old erythrocytes, immune response to blood-borne antigen, and **extramedullary hemopoiesis** in fetal life and marrow failure.
 
 | Organ | Capsule | Afferent lymphatics | Follicles | Unique feature |
 |---|---|---|---|---|
@@ -252,7 +254,7 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 
 > **CLINICAL** — **DiGeorge syndrome** is thymic aplasia (third and fourth pharyngeal pouches) with T-cell deficiency and hypocalcaemia. **Severe combined immunodeficiency** is failure of both arms. **Hodgkin lymphoma** spreads contiguously through nodes and shows Reed–Sternberg cells. **Splenectomy** increases susceptibility to encapsulated organisms — pneumococcus, meningococcus, *Haemophilus influenzae* — because the spleen's marginal zone is the first line against polysaccharide capsules.
 
-> **MICRO** — Ask **"what is at the centre of the nodule?"** Thymus: lobules with dark cortex and pale medulla plus pink whorls (Hassall corpuscles). Lymph node: capsule, subcapsular sinus, hilum. Spleen: **white pulp islands inside a red sea** of sinusoids and cords.
+> **MICRO** — Ask **"what is at the center of the nodule?"** Thymus: lobules with dark cortex and pale medulla plus pink whorls (Hassall corpuscles). Lymph node: capsule, subcapsular sinus, hilum. Spleen: **white pulp islands inside a red sea** of sinusoids and cords.
 
 > **MNEMONIC** — **"Thymus Teaches T cells; Nodes Filter lymph; Spleen Filters blood."** And **"CD4 sees MHC II (2 × 2); CD8 sees MHC I (8 × 1)."**
 

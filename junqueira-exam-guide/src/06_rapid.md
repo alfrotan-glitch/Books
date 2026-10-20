@@ -11,7 +11,7 @@
 - **Yes, a lumen** → go to Step 2.
 
 **Step 2 — What is the epithelium?**
-- **Stratified squamous** → oesophagus, oral cavity, vagina, anal canal, epidermis (no lumen).
+- **Stratified squamous** → esophagus, oral cavity, vagina, anal canal, epidermis (no lumen).
 - **Simple columnar with crypts** → stomach, intestine, gallbladder, uterus.
 - **Pseudostratified ciliated** → respiratory tract, epididymis, vas deferens.
 - **Transitional** → ureter, bladder, renal pelvis.
@@ -33,7 +33,7 @@
 | Simple columnar | Stomach, intestine, gallbladder, uterine tube |
 | Pseudostratified ciliated | Trachea, bronchi, nasal cavity, epididymis, vas deferens |
 | Stratified squamous keratinised | Epidermis |
-| Stratified squamous non-keratinised | Oral cavity, oesophagus, vagina, cornea, anal canal |
+| Stratified squamous non-keratinised | Oral cavity, esophagus, vagina, cornea, anal canal |
 | Transitional | Renal pelvis, ureter, bladder, proximal urethra |
 | Epithelioid | Adrenal cortex, islets, liver |
 
@@ -99,7 +99,7 @@
 
 | Segment | Diagnostic feature |
 |---|---|
-| Oesophagus | Stratified squamous, skeletal muscle above |
+| Esophagus | Stratified squamous, skeletal muscle above |
 | Stomach | **Three muscle layers**, parietal + chief cells, no goblet |
 | Duodenum | **Brunner glands (submucosa)** |
 | Jejunum | Tallest villi, no Brunner, no Peyer |
@@ -114,7 +114,7 @@
 | Thyroid | **Follicles with colloid** | T3, T4; C cells → calcitonin |
 | Parathyroid | Cords of chief cells | PTH |
 | Adrenal cortex G/F/R | Cords | Aldosterone / cortisol / androgens |
-| Adrenal medulla | Chromaffin | Adrenaline |
+| Adrenal medulla | Chromaffin | Epinephrine |
 | Pituitary anterior | Acidophils + basophils | GH, PRL / ACTH, TSH, FSH, LH |
 | Pituitary posterior | Fibrillary, Herring bodies | Oxytocin, ADH |
 | Islets | Clusters | Insulin, glucagon, somatostatin |
@@ -130,7 +130,7 @@
 
 ### One hundred facts in one hundred lines
 
-1. Basophilic = binds haematoxylin = nucleic acid.
+1. Basophilic = binds hematoxylin = nucleic acid.
 2. Eosinophilic = binds eosin = protein.
 3. PAS stains glycogen and basement membrane.
 4. Silver stains reticulin (type III collagen).
@@ -199,7 +199,7 @@
 67. Cardiac T-tubules form diads at the Z line.
 68. Smooth muscle uses calmodulin, not troponin.
 69. Intercalated discs = fascia adherens + desmosome + gap junction.
-70. Purkinje fibres conduct; they are not neurons.
+70. Purkinje fibers conduct; they are not neurons.
 71. Elastic artery = elastic lamellae in media.
 72. Muscular artery = prominent internal elastic lamina.
 73. Sinusoidal capillaries = liver, spleen, marrow.
@@ -209,7 +209,7 @@
 77. Neutrophil = 3–5 lobes, acute inflammation.
 78. Eosinophil = parasites and allergy.
 79. Basophil = histamine, IgE.
-80. Monocyte = largest leucocyte.
+80. Monocyte = largest leukocyte.
 81. Platelets = 2–3 µm, from megakaryocytes.
 82. EPO from kidney; TPO from liver.
 83. M:E ratio = 2:1 to 4:1.
@@ -217,7 +217,7 @@
 85. Thymus has no follicles; spleen has no afferent lymphatics.
 86. Hassall corpuscles = thymus.
 87. PALS = T-cell zone of spleen.
-88. Germinal centre = B-cell proliferation.
+88. Germinal center = B-cell proliferation.
 89. Enteric plexuses: Meissner (submucosa), Auerbach (myenteric).
 90. Parietal cell = HCl + intrinsic factor.
 91. Chief cell = pepsinogen.
@@ -256,14 +256,14 @@
 | Granulosa cell | Theca cell | Oestrogen (aromatase) versus androgen |
 | Proliferative | Secretory endometrium | Straight glands versus tortuous secreting glands |
 | Follicular | Luteal phase | Oestrogen-dominant versus progesterone-dominant |
-| Rod | Cone | Dim light versus colour and acuity |
+| Rod | Cone | Dim light versus color and acuity |
 | Endolymph | Perilymph | High K⁺ versus high Na⁺ |
 | Apoptosis | Necrosis | No inflammation versus inflammation |
 | Labile | Permanent tissue | Continuous turnover versus no division |
 
 ### Confessions of the examiner — the eight most common errors
 
-1. Saying the osteoclast is mesenchymal. It is **haematopoietic**.
+1. Saying the osteoclast is mesenchymal. It is **hematopoietic**.
 2. Saying the A band shortens. It **does not**.
 3. Saying the thymus has follicles. It **does not**.
 4. Saying the spleen has afferent lymphatics. It **does not**.
@@ -274,23 +274,23 @@
 
 ## Appendix A · Stains and What They Prove
 
-| Stain | Target | Colour | Classic exam use |
+| Stain | Target | Color | Classic exam use |
 |---|---|---|---|
-| **Haematoxylin** | Nucleic acids | Blue-purple | Nuclei, rough ER |
+| **Hematoxylin** | Nucleic acids | Blue-purple | Nuclei, rough ER |
 | **Eosin** | Proteins | Pink-red | Cytoplasm, collagen, RBC |
 | **PAS** | Glycogen, mucin, glycoproteins, basement membrane | Magenta | Goblet cells, liver glycogen, fungal walls |
 | **Masson trichrome** | Collagen versus muscle | Blue/green versus red | Liver fibrosis, kidney biopsy |
-| **Silver (reticulin)** | Type III collagen, nerve fibres | Black | Lymph node, spleen, marrow |
+| **Silver (reticulin)** | Type III collagen, nerve fibers | Black | Lymph node, spleen, marrow |
 | **Orcein / resorcin–fuchsin** | Elastin | Dark brown-black | Aorta, lung, skin |
 | **Sudan black / oil red O** | Lipid | Black/red | Steatosis, adipocytes (frozen) |
 | **Osmium tetroxide** | Lipid, myelin | Black | Fat, myelin |
 | **Cresyl violet (Nissl)** | Rough ER | Violet | Neurons |
 | **Feulgen** | DNA | Magenta | DNA quantification |
-| **Prussian blue** | Iron (haemosiderin) | Blue | Iron overload, old haemorrhage |
+| **Prussian blue** | Iron (hemosiderin) | Blue | Iron overload, old hemorrhage |
 | **Congo red** | Amyloid | Apple-green birefringence | Amyloidosis |
 | **Gram** | Bacterial wall | Purple (positive) / pink (negative) | Infection |
 | **Ziehl–Neelsen** | Acid-fast bacilli | Red | Tuberculosis |
-| **Immunohistochemistry** | Specific antigen | Brown (DAB) or fluorescent | Tumour typing, cell identification |
+| **Immunohistochemistry** | Specific antigen | Brown (DAB) or fluorescent | Tumor typing, cell identification |
 
 ## Appendix B · The Vocabulary Examiners Expect
 

@@ -11,11 +11,11 @@ This guide condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (
 | Block | What it gives you |
 |---|---|
 | **Chapter line** | Printed page range and the book's own section titles |
-| **The core idea** | The one organising principle that makes the chapter cohere |
+| **The core idea** | The one organizing principle that makes the chapter cohere |
 | **Sections** | The book's sections, in the book's order, condensed |
 | **Comparison tables** | The highest-yield format in histology — learn the rows, not the prose |
 | **CLINICAL** | The disease link that turns a fact into a mark |
-| **MICRO** | How to recognise the tissue on an unknown slide or EM image |
+| **MICRO** | How to recognize the tissue on an unknown slide or EM image |
 | **TIP / MNEMONIC** | Traps, confusions, and memory hooks |
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This guide is designed to be read *before* those, so that when you reach them you already know the answers.
@@ -32,7 +32,7 @@ At the end of every chapter in the book there is a **Summary of Key Points** and
 
 **If you have six weeks.** One part of this guide per week. Read the corresponding chapter, then this section, then cover the tables and redraw them from memory. Do the book's "Assess Your Knowledge" questions and this guide's MCQs at the end of the week. Reserve the final week for the Rapid Review chapter only.
 
-**If you have ten days.** Two to three chapters per day, tables only on the first pass. Spend 60% of your time on the six comparison tables that carry the most marks: epithelium types, connective tissue fibres, cartilage, muscle, leucocytes, and GI tract wall.
+**If you have ten days.** Two to three chapters per day, tables only on the first pass. Spend 60% of your time on the six comparison tables that carry the most marks: epithelium types, connective tissue fibers, cartilage, muscle, leukocytes, and GI tract wall.
 
 **If you have 48 hours.** Read *Rapid Review* (Chapter 24) end to end, then the 100 MCQs, then the six tables. Do not attempt prose. Histology rewards pattern recognition under time pressure, and patterns live in tables.
 
@@ -44,7 +44,7 @@ These twelve statements are true across the whole book. When you are stuck in an
 2. **Form is set by the apical surface, the basal surface, and the junctions between cells.** Look at all three before naming a tissue.
 3. **Epithelium sits on something and is never crossed by a blood vessel.** Avascularity plus a basement membrane defines it.
 4. **Connective tissue is defined by its extracellular matrix, not its cells.** The matrix tells you the mechanical job: tension, elasticity, compression, or filtration.
-5. **Cells that make protein look basophilic; cells that store or secrete protein look eosinophilic.** Rough ER is blue-purple with haematoxylin; secretory product and cytoplasm are pink with eosin.
+5. **Cells that make protein look basophilic; cells that store or secrete protein look eosinophilic.** Rough ER is blue-purple with hematoxylin; secretory product and cytoplasm are pink with eosin.
 6. **Cells that make steroid hormone are full of smooth ER and lipid droplets** — hence foamy, pale, or vacuolated cytoplasm (adrenal cortex, Leydig cells, corpus luteum).
 7. **Muscle is classified by nucleus position and striation, not by shape alone.** Peripheral multiple nuclei = skeletal; central single nucleus with striation = cardiac; central single nucleus without striation = smooth.
 8. **The number of cell layers tells you the mechanical job.** One layer = exchange, absorption, secretion, or a thin barrier. Many layers = protection from abrasion.
@@ -62,7 +62,7 @@ Never begin with a guess. Use this sequence every single time:
 1. **Magnification and staining.** H&E at low power versus PAS versus silver tells you what the examiner thinks is important.
 2. **The boundary.** Is there a free surface? A lumen? A capsule? Blood vessels *inside* the tissue? This immediately separates epithelium-lined organs from solid organs.
 3. **The dominant tissue.** Note the arrangement — cords, acini, tubules, follicles, layers, bundles.
-4. **The one diagnostic cell.** Parietal cell, Paneth cell, podocyte, Purkinje fibre, Clara cell, Sertoli cell, odontoblast. Examiners choose images that contain one.
+4. **The one diagnostic cell.** Parietal cell, Paneth cell, podocyte, Purkinje fiber, Clara cell, Sertoli cell, odontoblast. Examiners choose images that contain one.
 5. **Name it, then justify it in the same sentence.** "This is thyroid gland because the parenchyma is arranged in follicles of colloid lined by a single layer of cuboidal cells." Justification earns the marks; the name alone earns half.
 
 ### Answering a "describe and give the function of" essay
@@ -71,7 +71,7 @@ Use a fixed skeleton — it works for any organ:
 
 **Capsule → cortex → medulla → parenchyma arrangement → cell types → blood supply → ducts or outflow → function → clinical correlation.**
 
-Ten headings, ten marks, almost regardless of the organ. Write the headings first, then fill them. An examiner marking 200 scripts recognises structure instantly and rewards it.
+Ten headings, ten marks, almost regardless of the organ. Write the headings first, then fill them. An examiner marking 200 scripts recognizes structure instantly and rewards it.
 
 ### Ten phrases that lose marks
 
@@ -90,7 +90,7 @@ Ten headings, ten marks, almost regardless of the organ. Write the headings firs
 
 ## About the 17th Edition
 
-The seventeenth edition (2024) retains the two features that made the book a standard for over fifty years: a **concise, straightforward text** with no unnecessary detail, and an **exceptionally clear set of photomicrographs and labelled illustrations**. For the student revising for an examination, three features matter most:
+The seventeenth edition (2024) retains the two features that made the book a standard for over fifty years: a **concise, straightforward text** with no unnecessary detail, and an **exceptionally clear set of photomicrographs and labeled illustrations**. For the student revising for an examination, three features matter most:
 
 - **Summary of Key Points** at the end of every chapter — the author's own list of what matters.
 - **Summary Tables** in each chapter — condensed comparisons in exactly the form examiners like.

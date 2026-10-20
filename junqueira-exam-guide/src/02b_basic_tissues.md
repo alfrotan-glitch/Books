@@ -4,7 +4,7 @@
 
 ### The core idea
 
-Cartilage is a **tough, resilient** connective tissue that structurally supports soft tissues — notably in the respiratory tract — and provides **cushioned, low-friction surfaces in joints**. Chondrocytes are a small percentage of the tissue's mass, which is mainly a flexible extracellular matrix of collagen plus abundant proteoglycans, notably **aggrecan**, which binds a large amount of water. **Cartilage always lacks blood vessels, lymphatics, and nerves**, but usually has a vascularised **perichondrium** of dense connective tissue. It is **avascular and aneural**, which explains both its durability under load and its disastrously poor healing.
+Cartilage is a **tough, resilient** connective tissue whose **ECM** — collagen plus proteoglycan and water — is the bulk of the tissue; **fibroblasts** of the perichondrium, not chondrocytes, produce its outer fibrous layer. that structurally supports soft tissues — notably in the respiratory tract — and provides **cushioned, low-friction surfaces in joints**. Chondrocytes are a small percentage of the tissue's mass, which is mainly a flexible extracellular matrix of collagen plus abundant proteoglycans, notably **aggrecan**, which binds a large amount of water. **Cartilage always lacks blood vessels, lymphatics, and nerves**, but usually has a vascularized **perichondrium** of dense connective tissue. It is **avascular and aneural**, which explains both its durability under load and its disastrously poor healing.
 
 ### The shared architecture
 
@@ -19,7 +19,7 @@ The commonest type and the template for most of the fetal skeleton. Glassy, homo
 
 ### Elastic Cartilage
 
-Type II collagen plus a network of **elastic fibres**, giving flexibility with recoil. Found in the **epiglottis, pinna, external auditory canal, and Eustachian tube** — that is, everywhere something must bend and spring back.
+Type II collagen plus a network of **elastic fibers**, giving flexibility with recoil. Found in the **epiglottis, pinna, external auditory canal, and Eustachian tube** — that is, everywhere something must bend and spring back.
 
 ### Fibrocartilage
 
@@ -27,7 +27,7 @@ Type II collagen plus a network of **elastic fibres**, giving flexibility with r
 
 | Feature | **Hyaline** | **Elastic** | **Fibrocartilage** |
 |---|---|---|---|
-| Collagen | **Type II** | Type II + **elastic fibres** | **Type I + II** |
+| Collagen | **Type II** | Type II + **elastic fibers** | **Type I + II** |
 | Cells | Isogenous groups | More numerous | **Rows** between bundles |
 | Perichondrium | Present (not on articular surfaces) | Present | **Absent** |
 | Locations | Trachea, bronchi, nose, ribs, epiphyseal plate, joints | Epiglottis, pinna, auditory canal | Disc, symphysis pubis, menisci |
@@ -42,7 +42,7 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 > **CLINICAL** — **Osteoarthritis** is a failure of the chondrocyte to maintain matrix: proteoglycans are depleted, water content rises, collagen fibrils fragment, and the surface fissures. Because hyaline cartilage has no vessels and no nerves, pain comes late and from the underlying bone, capsule, and synovium. **Rheumatoid arthritis** is different: an autoimmune synovitis destroys cartilage from the surface inward, producing a pannus.
 
-> **MICRO** — Identify cartilage by the **lacuna**: a cell alone in a clear space within a solid matrix. Then the matrix: **glassy purple with cells in clusters = hyaline; wavy dark fibres = elastic; thick parallel pink bundles with cells in rows = fibrocartilage.**
+> **MICRO** — Identify cartilage by the **lacuna**: a cell alone in a clear space within a solid matrix. Then the matrix: **glassy purple with cells in clusters = hyaline; wavy dark fibers = elastic; thick parallel pink bundles with cells in rows = fibrocartilage.**
 
 > **TIP** — Two marks are lost repeatedly: **hyaline cartilage contains type II collagen, not type I**, and **fibrocartilage has no perichondrium**, which is why disc injuries persist.
 
@@ -102,11 +102,11 @@ Remove the mineral and bone becomes flexible; remove the collagen and it becomes
 | **4. Calcified cartilage** | Chondrocytes die; matrix calcifies |
 | **5. Ossification** | Osteoblasts deposit bone on the calcified spicules |
 
-Growth in **width** is **appositional**, by periosteal osteoblasts. The **primary ossification centre** appears in the diaphysis; **secondary centres** in the epiphyses. When the plate ossifies, an **epiphyseal line** remains and length growth stops.
+Growth in **width** is **appositional**, by periosteal osteoblasts. The **primary ossification center** appears in the diaphysis; **secondary centers** in the epiphyses. When the plate ossifies, an **epiphyseal line** remains and length growth stops.
 
 ### Bone Remodeling & Repair
 
-Fracture → **haematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilisation and blood supply decide the outcome. **Wolff law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
+Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilisation and blood supply decide the outcome. **Wolff law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
 
 ### Metabolic Role of Bone
 
@@ -132,7 +132,7 @@ Bone is the body's calcium and phosphate reservoir.
 
 > **MNEMONIC** — **"OsteoBlast Builds, OsteoClast Chews, OsteoCytes Communicate."** For the epiphyseal plate, **"Rest, Proliferate, Hypertrophy, Calcify, Ossify"** — read from the joint outward.
 
-> **TIP** — The commonest error is saying osteoclasts are mesenchymal. They are **haematopoietic**, from the monocyte–macrophage line. The second is reversing the epiphyseal zones: growth happens at the **epiphyseal** side, ossification at the **diaphyseal** side.
+> **TIP** — The commonest error is saying osteoclasts are mesenchymal. They are **hematopoietic**, from the monocyte–macrophage line. The second is reversing the epiphyseal zones: growth happens at the **epiphyseal** side, ossification at the **diaphyseal** side.
 
 ## 9 · Nerve Tissue & the Nervous System
 
@@ -150,7 +150,7 @@ The nervous system arises from the **neural plate**, which folds into the **neur
 
 - **Perikaryon (soma)** — large, pale nucleus with a prominent nucleolus and abundant **Nissl bodies** (stacked RER and polysomes). Nissl substance is absent from the **axon hillock** — a useful landmark.
 - **Dendrites** — short, branched, receptive; contain Nissl bodies.
-- **Axon** — one per neuron, arises at the axon hillock, contains no Nissl bodies, specialised for conduction.
+- **Axon** — one per neuron, arises at the axon hillock, contains no Nissl bodies, specialized for conduction.
 - **Axonal transport** — **kinesin** anterograde; **dynein** retrograde. Rabies, herpes, and tetanus toxin exploit retrograde transport.
 
 **Classification:** multipolar (most CNS neurons and motor neurons), bipolar (retina, olfactory epithelium), pseudounipolar (sensory ganglia), anaxonic. Also by function — sensory, motor, interneuron.
@@ -165,16 +165,16 @@ The nervous system arises from the **neural plate**, which folds into the **neur
 | **Oligodendrocyte** | CNS | Wraps flattened processes around portions of axons, forming **myelin sheaths** | One cell, many segments |
 | **Microglia** | CNS | Resident phagocyte, immune surveillance | **Mesodermal** origin — the odd one out |
 | **Ependymal cell** | CNS | Lines ventricles; cilia move CSF; choroid plexus | Produces CSF |
-| **Schwann cell** | PNS | **Myelinates one segment of one axon** | Neural crest origin |
+| **Schwann cell** (neurolemmocyte) | PNS | **Myelinates one segment of one axon** | Neural crest origin |
 | **Satellite cell** | PNS ganglia | Supports sensory and autonomic neurons | — |
 
 The book counts **six major glial types**: oligodendrocytes, astrocytes, ependymal cells, and microglia in the CNS; Schwann cells and satellite cells in the PNS. **Myelination:** in the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**. Velocity rises with axon diameter and myelin thickness.
 
 ### Central Nervous System
 
-- **Cerebral cortex** — six layers; **pyramidal cells** are the output neurons; grey matter outside.
+- **Cerebral cortex** — six layers; **pyramidal cells** are the output neurons; gray matter outside.
 - **Cerebellar cortex** — three layers: **molecular**, **Purkinje** (large flask-shaped cells, the only output), and **granular**.
-- **Spinal cord** — grey matter in an H-shaped core, white matter outside; **anterior horn** motor, posterior horn sensory. This is the reverse of the cerebral cortex.
+- **Spinal cord** — gray matter in an H-shaped core, white matter outside; **anterior horn** motor, posterior horn sensory. This is the reverse of the cerebral cortex.
 - **Meninges** — dura, arachnoid, pia; CSF in the subarachnoid space.
 - **Choroid plexus** — produces CSF.
 - **Blood–brain barrier** — tight junctions between endothelial cells, reinforced by astrocyte end-feet and pericytes. Absent in the circumventricular organs (area postrema, median eminence, pineal, posterior pituitary), which is how circulating hormones reach the brain.
@@ -183,7 +183,7 @@ The book counts **six major glial types**: oligodendrocytes, astrocytes, ependym
 
 - **Sensory ganglia** — pseudounipolar neurons with satellite cells; **no synapses inside the ganglion**.
 - **Autonomic ganglia** — multipolar neurons, synapses present.
-- **Peripheral nerve** — axons in fascicles surrounded by **perineurium**, the whole nerve by **epineurium**, individual fibres by **endoneurium**.
+- **Peripheral nerve** — axons in fascicles surrounded by **perineurium**, the whole nerve by **epineurium**, individual fibers by **endoneurium**.
 
 ### Neural Plasticity & Regeneration
 
@@ -205,11 +205,11 @@ Muscle tissue consists of cells that optimise the universal cell property of **c
 
 ### Skeletal Muscle
 
-**Organisation, large to small:** muscle → fascicles → fibres → myofibrils → myofilaments. Each fibre is a long, cylindrical, **multinucleated** syncytium with **peripheral nuclei**, produced by fusion of myoblasts. Satellite cells persist beneath the basal lamina and mediate limited regeneration.
+**Organisation, large to small:** muscle → fascicles → fibers → myofibrils → myofilaments. Each fiber is a long, cylindrical, **multinucleated** syncytium with **peripheral nuclei**, produced by fusion of myoblasts. Satellite cells persist beneath the basal lamina and mediate limited regeneration.
 
 **The sarcomere**, bounded by two **Z lines**:
 
-| Band | Contents | Behaviour in contraction |
+| Band | Contents | Behavior in contraction |
 |---|---|---|
 | **A band** | Thick filaments (**myosin**) | Constant length |
 | **I band** | Thin filaments (**actin**) only | Shortens |
@@ -219,27 +219,27 @@ Muscle tissue consists of cells that optimise the universal cell property of **c
 
 **Sliding filament mechanism:** myosin heads bind actin, hydrolyse ATP, and pivot, pulling thin filaments toward the M line. **The A band never changes length.**
 
-**Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarisation spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fibre. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
+**Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarisation spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fiber. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
 
-**Innervation.** The **motor end plate** — acetylcholine binds nicotinic receptors, depolarises the sarcolemma, and triggers contraction. One motor neuron plus all the fibres it supplies is a **motor unit**.
+**Innervation.** The **motor end plate** — acetylcholine binds nicotinic receptors, depolarises the sarcolemma, and triggers contraction. One motor neuron plus all the fibers it supplies is a **motor unit**.
 
-**Fibre types:**
+**Fiber types:**
 
-| Type | Speed | Metabolism | Fatigue | Colour |
+| Type | Speed | Metabolism | Fatigue | Color |
 |---|---|---|---|---|
 | **I (slow, red)** | Slow | **Oxidative** | Resistant | Red |
 | **IIa (fast, oxidative-glycolytic)** | Fast | Mixed | Intermediate | Intermediate |
 | **IIx/IIb (fast, glycolytic)** | Fast | **Glycolytic** | Fast fatigue | White |
 
-**Sensory receptors.** **Muscle spindles** (intrafusal fibres, Ia afferents, gamma motor neurons) sense length and stretch; **Golgi tendon organs** sense tension.
+**Sensory receptors.** **Muscle spindles** (intrafusal fibers, Ia afferents, gamma motor neurons) sense length and stretch; **Golgi tendon organs** sense tension.
 
 ### Cardiac Muscle
 
-- **Striated**, branched fibres, **one or two central nuclei**.
+- **Striated**, branched fibers, **one or two central nuclei**.
 - **Intercalated discs** — the diagnostic feature — contain **fascia adherens** (anchors actin), **desmosomes** (mechanical strength), and **gap junctions** (electrical coupling), making the heart a functional syncytium.
-- **Diads** at the **Z line** (one T-tubule + one cisterna) rather than triads at the A–I junction.
+- **Diads** at the **Z line** (one T-tubule + one cisterna) rather than **triads** of the **transverse tubule system** at the A–I junction.
 - Abundant mitochondria and lipid droplets; highly oxidative; resistant to fatigue.
-- **Purkinje fibres** — specialised conducting cells, larger and paler, with fewer myofibrils; they conduct rapidly through the ventricles.
+- **Purkinje fibers** — specialized conducting cells, larger and paler, with fewer myofibrils; they conduct rapidly through the ventricles.
 - **Regeneration is essentially absent**; damage is repaired by fibrous scar.
 
 ### Smooth Muscle
@@ -262,11 +262,11 @@ Skeletal muscle regenerates weakly, from **satellite cells**, and only if the ba
 | Cell shape | Long cylinder | Branched | Spindle |
 | T-tubules | A–I junction, **triads** | Z line, **diads** | None (caveolae) |
 | Ca²⁺ sensor | **Troponin C** | **Troponin C** | **Calmodulin** |
-| Junctions | None between fibres | **Intercalated discs** | Gap junctions (unitary) |
+| Junctions | None between fibers | **Intercalated discs** | Gap junctions (unitary) |
 | Control | Somatic, voluntary | Autonomic, involuntary | Autonomic, involuntary |
 | Regeneration | Satellite cells (limited) | None | Hypertrophy/hyperplasia |
 
-> **CLINICAL** — **Duchenne muscular dystrophy** is an X-linked defect of **dystrophin**, which links the sarcolemma to the extracellular matrix; without it, contraction tears the membrane, fibres die, and fat and fibrous tissue replace muscle (pseudohypertrophy). **Myasthenia gravis** is autoantibody blockade of the nicotinic acetylcholine receptor, producing fatigable weakness. **Cardiac hypertrophy** is an adaptation to pressure overload; beyond a point the myocytes outgrow their blood supply and fail.
+> **CLINICAL** — **Duchenne muscular dystrophy** is an X-linked defect of **dystrophin**, which links the sarcolemma to the extracellular matrix; without it, contraction tears the membrane, fibers die, and fat and fibrous tissue replace muscle (pseudohypertrophy). **Myasthenia gravis** is autoantibody blockade of the nicotinic acetylcholine receptor, producing fatigable weakness. **Cardiac hypertrophy** is an adaptation to pressure overload; beyond a point the myocytes outgrow their blood supply and fail.
 
 > **MICRO** — Look first for **striations**; if present, look at the **nuclei**. **Many nuclei at the edge = skeletal. One or two central nuclei with dark transverse bands = cardiac (intercalated discs).** No striations and central nuclei in spindle-shaped cells = smooth.
 

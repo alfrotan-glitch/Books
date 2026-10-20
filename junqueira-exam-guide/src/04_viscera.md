@@ -6,7 +6,7 @@
 
 ### The core idea
 
-The gut is one tube with four concentric layers, and every region is a modification of those four layers for a specific job: **grinding, acidifying, absorbing, or dehydrating**. Learn the four layers and their regional variations and you can describe any segment from oesophagus to anus.
+The gut is one tube with four concentric layers, and every region is a modification of those four layers for a specific job: **grinding, acidifying, absorbing, or dehydrating**. Learn the four layers and their regional variations and you can describe any segment from esophagus to anus.
 
 ### General Structure of the Digestive Tract
 
@@ -38,7 +38,7 @@ This is the skeleton of every answer about the gut. Both plexuses are **enteric 
 
 ### Esophagus
 
-**Stratified squamous non-keratinised** epithelium, a thick muscularis mucosae, **oesophageal cardiac glands** in the lamina propria, and **oesophageal glands** in the submucosa. The muscularis externa is **skeletal in the upper third, mixed in the middle, smooth in the lower third** — a frequently examined progression. The outer layer is adventitia in most of its length.
+**Stratified squamous non-keratinised** epithelium, a thick muscularis mucosae, **esophageal cardiac glands** in the lamina propria, and **esophageal glands** in the submucosa. The muscularis externa is **skeletal in the upper third, mixed in the middle, smooth in the lower third** — a frequently examined progression. The outer layer is adventitia in most of its length.
 
 ### Stomach
 
@@ -71,9 +71,9 @@ The absorptive surface is amplified three times: **plicae circulares** (mucosa +
 
 **No villi**, straight tubular crypts, **abundant goblet cells**, and a muscularis externa whose outer longitudinal layer is gathered into three **taeniae coli**, producing **haustra** and **appendices epiploicae**. Function: water and electrolyte absorption, mucus secretion, bacterial fermentation. **Appendix** — a blind tube with abundant lymphoid tissue in the lamina propria and submucosa.
 
-**Anal canal** — the transition from columnar to **stratified squamous** epithelium at the **dentate (pectinate) line**, an important clinical zone for haemorrhoids and anal cancer.
+**Anal canal** — the transition from columnar to **stratified squamous** epithelium at the **dentate (pectinate) line**, an important clinical zone for hemorrhoids and anal cancer.
 
-> **CLINICAL** — **Peptic ulcer** — *H. pylori* breaches the mucous barrier; acid and pepsin digest the wall, classically in the duodenal bulb or gastric antrum. **Pernicious anaemia** — loss of parietal cells means no intrinsic factor, so B₁₂ cannot be absorbed in the terminal ileum. **Coeliac disease** — villous atrophy, crypt hyperplasia, and intraepithelial lymphocytes in the proximal small intestine, driven by gluten. **Barrett oesophagus** — chronic acid reflux causes metaplasia from stratified squamous to **intestinal-type columnar epithelium with goblet cells**, a premalignant change.
+> **CLINICAL** — **Peptic ulcer** — *H. pylori* breaches the mucous barrier; acid and pepsin digest the wall, classically in the duodenal bulb or gastric antrum. **Pernicious anaemia** — loss of parietal cells means no intrinsic factor, so B₁₂ cannot be absorbed in the terminal ileum. **Coeliac disease** — villous atrophy, crypt hyperplasia, and intraepithelial lymphocytes in the proximal small intestine, driven by gluten. **Barrett esophagus** — chronic acid reflux causes metaplasia from stratified squamous to **intestinal-type columnar epithelium with goblet cells**, a premalignant change.
 
 > **MICRO** — Identify the segment by **the surface, not the glands**. **Villi + crypts = small intestine. No villi + deep pits + thick gland mass = stomach. No villi + straight crypts + many goblet cells = colon.** Then find the regional marker: Brunner glands = duodenum; Peyer's patches = ileum; three muscle layers = stomach.
 
@@ -118,7 +118,7 @@ The pancreas has **no capsule separating lobules**, which is why acini appear pa
 **Cords of hepatocytes radiate from a central vein**, separated by sinusoids, with portal triads at the periphery of each lobule.
 
 - **Capsule** — Glisson capsule, dense connective tissue, with a mesothelial surface.
-- **Classic lobule** — a hexagon with a **central vein** at the centre and **portal triads** at the corners.
+- **Classic lobule** — a hexagon with a **central vein** at the center and **portal triads** at the corners.
 - **Portal triad** — **hepatic artery** (supply), **portal vein** (nutrients), **bile duct** (drainage). Three structures with three different flow directions side by side — the single most examined arrangement in the chapter.
 - **Hepatocytes** — polygonal, eosinophilic, with abundant SER, RER, glycogen, and peroxisomes; arranged in plates one or two cells thick.
 - **Sinusoids** — discontinuous endothelium with **Kupffer cells** (macrophages) and **Ito (stellate) cells** (store vitamin A; become myofibroblasts in fibrosis).
@@ -135,9 +135,9 @@ A sac with a folded mucosa of **simple columnar** epithelium, **no muscularis mu
 
 > **CLINICAL** — **Cirrhosis** is the end result of hepatocyte injury: fibrosis with regenerative nodules, portal hypertension, and synthetic failure. **Acute pancreatitis** is autodigestion by prematurely activated enzymes. **Chronic pancreatitis** destroys acini and islets, producing diabetes and steatorrhoea. **Carcinoma of the head of the pancreas** obstructs the common bile duct and produces painless obstructive jaundice — an anatomy lesson delivered as a symptom.
 
-> **MICRO** — The liver is recognised by **cords of eosinophilic cells with central veins and portal triads**. The pancreas by **dark purple acini with pink apical granules and pale islets**. Pancreas versus parotid: the pancreas has **islets** and **no striated ducts**; the parotid has striated ducts and no islets.
+> **MICRO** — The liver is recognized by **cords of eosinophilic cells with central veins and portal triads**. The pancreas by **dark purple acini with pink apical granules and pale islets**. Pancreas versus parotid: the pancreas has **islets** and **no striated ducts**; the parotid has striated ducts and no islets.
 
-> **TIP** — Bile flows **toward** the portal triad; blood flows **away** from it. Students who memorise "everything flows to the centre" lose this mark every year.
+> **TIP** — Bile flows **toward** the portal triad; blood flows **away** from it. Students who memorise "everything flows to the center" lose this mark every year.
 
 ## 17 · The Respiratory System
 
@@ -153,7 +153,7 @@ The respiratory tract is a **conducting** series (nose to terminal bronchiole) f
 
 ### Pharynx
 
-**Nasopharynx** — respiratory epithelium with **lymphoid tissue** (pharyngeal tonsil) in the lamina propria. **Oropharynx** and **laryngopharynx** — stratified squamous epithelium, continuous with the oral cavity and oesophagus. The change from respiratory to stratified squamous epithelium marks the point where the airway is exposed to abrasion from food.
+**Nasopharynx** — respiratory epithelium with **lymphoid tissue** (pharyngeal tonsil) in the lamina propria. **Oropharynx** and **laryngopharynx** — stratified squamous epithelium, continuous with the oral cavity and esophagus. The change from respiratory to stratified squamous epithelium marks the point where the airway is exposed to abrasion from food.
 
 ### Larynx
 
@@ -162,10 +162,10 @@ The respiratory tract is a **conducting** series (nose to terminal bronchiole) f
 ### Trachea
 
 - **Epithelium** — pseudostratified ciliated columnar with goblet cells (respiratory epithelium).
-- **Lamina propria** — elastic fibres, lymphocytes.
+- **Lamina propria** — elastic fibers, lymphocytes.
 - **Submucosa** — seromucous glands.
 - **Cartilage** — **C-shaped hyaline rings**, incomplete posteriorly.
-- **Trachealis muscle** — smooth muscle bridging the gap posteriorly, allowing the oesophagus to expand.
+- **Trachealis muscle** — smooth muscle bridging the gap posteriorly, allowing the esophagus to expand.
 
 ### Bronchial Tree & Lung
 
@@ -195,7 +195,7 @@ A **serous membrane** of simple squamous mesothelium over connective tissue — 
 
 Ventilation is a pressure-driven event: the diaphragm and intercostal muscles enlarge the thoracic cavity, pleural pressure falls, the lung expands passively, and air enters. **Elastic recoil** of the lung and surface tension at the alveolar air–liquid interface provide the force for expiration — which is precisely why surfactant deficiency causes collapse.
 
-> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal oedema, eosinophilic inflammation, thickened basement membrane and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection.
+> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection.
 
 > **MICRO** — Walk down the tree and count what disappears. **Cartilage rings + glands = trachea. Cartilage plates + no glands = bronchus. No cartilage, no glands, muscular wall = bronchiole.** Then look for alveoli in the wall: if present, it is a respiratory bronchiole.
 
@@ -233,7 +233,7 @@ The rule: **keratinocytes and melanocytes are ectodermal; Langerhans cells are m
 ### Dermis
 
 - **Papillary dermis** — loose connective tissue forming **dermal papillae** that interdigitate with the epidermis; capillaries and **Meissner corpuscles**.
-- **Reticular dermis** — dense irregular connective tissue with thick collagen bundles and elastic fibres.
+- **Reticular dermis** — dense irregular connective tissue with thick collagen bundles and elastic fibers.
 
 **Thick versus thin skin.** Thick skin (palms, soles) has a thick stratum corneum, a **stratum lucidum**, and **no hair follicles**; it has many sweat glands. Thin skin covers most of the body, has hair follicles and sebaceous glands, and a thin epidermis.
 

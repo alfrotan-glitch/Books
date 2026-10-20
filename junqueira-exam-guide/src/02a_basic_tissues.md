@@ -6,7 +6,7 @@
 
 ### The core idea
 
-Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **all substances that enter or leave an organ must cross this type of tissue**. Everything else — the number of layers, the shape of the cells, the specialisations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
+Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **all substances that enter or leave an organ must cross this type of tissue**. Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
 
 **The four basic tissues** (the book's Table 4–1, and the framework for the whole subject):
 
@@ -17,11 +17,11 @@ Epithelial tissues are composed of closely aggregated polyhedral cells adhering 
 | **Muscle** | Elongated contractile cells | Moderate amount | Strong contraction; body movements |
 | **Nervous** | Elongated cells with extremely fine processes | **Very small amount** | Transmission of nerve impulses |
 
-Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialised functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma always consists of connective tissue.** This single sentence answers a common question about why the CNS looks different from every other organ.
+Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma always consists of connective tissue.** This single sentence answers a common question about why the CNS looks different from every other organ.
 
 ### Characteristic Features of Epithelial Cells
 
-The principal functions of epithelial tissues are **covering, lining, and protecting surfaces** (eg, epidermis), **absorption** (eg, the intestinal lining), and **secretion** (eg, parenchymal cells of glands). Specific cells of certain epithelia may be contractile (**myoepithelial cells**) or specialised sensory cells, such as those of taste buds or the olfactory epithelium.
+The principal functions of epithelial tissues are **covering, lining, and protecting surfaces** (eg, epidermis), **absorption** (eg, the intestinal lining), and **secretion** (eg, parenchymal cells of glands). Specific cells of certain epithelia may be contractile (**myoepithelial cells**) or specialized sensory cells, such as those of taste buds or the olfactory epithelium.
 
 Cell shape and nuclear shape correspond: **columnar** cells have elongated nuclei, **squamous** cells flattened nuclei, and **cuboidal or pyramidal** cells spherical nuclei. This is the fastest identification rule in the whole subject.
 
@@ -70,7 +70,7 @@ The pattern is worth memorising: **tight seals, adherens belts to actin, desmoso
 | **Simple columnar** | One layer, tall cells | Stomach, intestine, gallbladder, uterine tube | Absorption, secretion, protection |
 | **Pseudostratified ciliated columnar** | Single layer with nuclei at different heights; cilia and goblet cells | Trachea, bronchi, nasal cavity | Mucus clearance ("respiratory epithelium") |
 | **Stratified squamous, keratinised** | Many layers, outermost anucleate keratin | Epidermis | Protection against abrasion and dehydration |
-| **Stratified squamous, non-keratinised** | Many layers, outermost live nucleated cells | Oral cavity, oesophagus, vagina, anal canal, cornea | Protection in a wet environment |
+| **Stratified squamous, non-keratinised** | Many layers, outermost live nucleated cells | Oral cavity, esophagus, vagina, anal canal, cornea | Protection in a wet environment |
 | **Stratified cuboidal / columnar** | Two or more layers | Ducts of sweat glands, conjunctiva | Conduit with protection |
 | **Transitional (urothelium)** | Stratified, with dome-shaped **umbrella cells** and uroplakins | Renal pelvis, ureter, bladder, proximal urethra | Stretchable barrier to urine |
 | **Epithelioid** | Cells in clusters with no free surface | Adrenal cortex, islets of Langerhans, liver cords | Endocrine secretion |
@@ -115,7 +115,7 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 
 | Cell | Origin | Function | Identifying feature |
 |---|---|---|---|
-| **Fibroblast** | Mesenchyme | Synthesises collagen, elastin, GAGs | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
+| **Fibroblast / fibrocyte** | Mesenchyme | Synthesises collagen, elastin, GAGs; **fibrocyte** is the quiescent form | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
 | **Macrophage** | Monocyte | Phagocytosis, antigen presentation, cytokines | Irregular, abundant lysosomes; **Kupffer cell** in liver, **microglia** in CNS, **Langerhans cell** in epidermis, **osteoclast** in bone |
 | **Mast cell** | Bone marrow | Releases **histamine** and **heparin**; IgE-mediated allergy | Round, many dark granules; degranulates on IgE cross-linking |
 | **Plasma cell** | B lymphocyte | Secretes antibody | **Clock-face nucleus**, eccentric, perinuclear clear zone (Golgi) |
@@ -124,7 +124,7 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 
 ### Fibers
 
-| Fibre | Protein | Properties | Where |
+| Fiber | Protein | Properties | Where |
 |---|---|---|---|
 | **Collagen** | Tropocollagen (types I–XXVIII) | High tensile strength, inelastic | Everywhere; the most abundant protein in the body |
 | **Reticular** | **Type III collagen** | Fine, branched; silver-staining | Lymphoid organs, bone marrow, liver, endocrine glands |
@@ -134,7 +134,7 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 |---|---|---|---|
 | **I** | Thick fibrils | Bone, dermis, tendon, cornea | **Osteogenesis imperfecta** |
 | **II** | Fibrils | Hyaline and elastic cartilage, vitreous | Chondrodysplasias |
-| **III** | Reticular fibres | Lymph node, spleen, bone marrow, skin | **Ehlers–Danlos vascular type** |
+| **III** | Reticular fibers | Lymph node, spleen, bone marrow, skin | **Ehlers–Danlos vascular type** |
 | **IV** | Network | **Basement membrane** | Alport syndrome |
 | **V** | Fibrils with type I | Cornea, bone, placenta | Ehlers–Danlos |
 
@@ -146,26 +146,28 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 4. **Procollagen** is secreted and the propeptides cleaved → **tropocollagen**.
 5. **Fibril assembly** with cross-links formed by **lysyl oxidase**, which requires **copper**.
 
-This pathway explains two diseases. Without vitamin C, hydroxylation fails and the result is **scurvy** — bleeding gums, poor wound healing, perifollicular haemorrhage. Without copper, cross-linking fails, as in **Menkes disease**. In **Ehlers–Danlos syndrome** the defect is in collagen processing or type; in **Marfan syndrome** the defect is in **fibrillin**, so the aorta dilates and the lens dislocates.
+This pathway explains two diseases. Without vitamin C, hydroxylation fails and the result is **scurvy** — bleeding gums, poor wound healing, perifollicular hemorrhage. Without copper, cross-linking fails, as in **Menkes disease**. In **Ehlers–Danlos syndrome** the defect is in collagen processing or type; in **Marfan syndrome** the defect is in **fibrillin**, so the aorta dilates and the lens dislocates.
 
 ### Ground Substance
 
 An amorphous, hydrated gel of **glycosaminoglycans (GAGs)**, **proteoglycans**, and **glycoproteins**, which resists compression, lubricates, and controls diffusion.
 
-- **GAGs** are long unbranched polysaccharides with repeating disaccharides and many negative charges, which attract water: **hyaluronic acid** (unsulfated, not attached to protein, the backbone of the gel), chondroitin sulfate, keratan sulfate, dermatan sulfate, and heparan sulfate.
+- **GAGs** (also called mucopolysaccharides) are long polymers of repeating disaccharide units, usually with many negative charges that attract water: **hyaluronic acid** (the only **unsulfated** one, not attached to protein, and the backbone of the gel) and the **sulfated GAGs** — chondroitin sulfate, keratan sulfate, dermatan sulfate, and heparan sulfate.
 - **Proteoglycans** are a core protein with GAG side chains — the classic is **aggrecan**, a very large molecule with a **250-kDa core protein** heavily bound with chondroitin and keratan sulfate and joined to hyaluronan by a **link protein**. Its water-binding is why cartilage resists compression.
 - **Perlecan** is the key proteoglycan of **all basal laminae** — the one name that links ground substance to the basement membrane.
 - **Glycoproteins** — **fibronectin** (binds cells to matrix via integrins, important in wound healing) and **laminin** (basement membrane).
 
 ### Types of Connective Tissue
 
-- **Loose (areolar)** — abundant ground substance, scattered fibres, many cells. Fills spaces, surrounds vessels, underlies epithelia.
+- **Loose (areolar)** — abundant ground substance, scattered fibers, many cells. Fills spaces, surrounds vessels, underlies epithelia.
 - **Dense irregular** — thick collagen bundles in many directions; dermis, organ capsules. Resists stress from all directions.
 - **Dense regular** — parallel collagen bundles; **tendon** and ligament. Resists stress in one direction.
-- **Elastic** — many elastic fibres; elastic ligament, vocal cord, large arteries.
+- **Elastic** — many elastic fibers; elastic ligament, vocal cord, large arteries.
 - **Reticular** — type III collagen network; lymphoid organs and marrow.
 - **Mucous (Wharton's jelly)** — gelatinous, in the umbilical cord.
 - **Embryonic** — mesenchyme.
+
+Besides fibroblasts, the resident population includes **adipocytes**, **macrophages**, mast cells, and the **leukocytes** that migrate in (especially **lymphocytes** and plasma cells in chronic inflammation) — which is why the book lists several types of fixed and wandering cells.
 
 **Repair.** Inflammation → **granulation tissue** (proliferating capillaries, fibroblasts, macrophages) → collagen deposition → **scar**. **Primary intention** occurs in clean apposed wounds; **secondary intention** in larger, open wounds with more granulation and contraction.
 
@@ -191,7 +193,7 @@ Adipose tissue is an endocrine and metabolic organ disguised as a filling tissue
 
 Functions: energy storage, insulation, cushioning of organs (retro-orbital, perirenal, mesenteric), and **endocrine signalling**.
 
-**Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesised by the adipocytes themselves**. Mobilisation is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibres**, with connective tissue septa dividing the tissue into lobules.
+**Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesised by the adipocytes themselves**. Mobilisation is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
 
 **Adipokines** — the exam list:
 
