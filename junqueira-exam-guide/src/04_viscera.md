@@ -155,7 +155,7 @@ A. Duodenum<br/>B. Jejunum<br/>C. Ileum<br/>D. Colon
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Compare the wall in **15–15** (stomach) with the villus in **15–28** and the rectoanal junction in **15–34**: pits, villi, and the change from columnar to stratified squamous are the three appearances to name aloud. Use **15–8** for the dentinal tubule and **15–21** for pyloric glands.
 
 - **Fig. 15–1** — *The digestive system*.
 - **Fig. 15–8** — *Ultrastructure of dentinal tubule*.
@@ -241,7 +241,7 @@ The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularize
 
 > **MICRO** — The liver is recognized by **cords of eosinophilic cells with central veins and portal areas**. The pancreas by **dark purple acini with pink apical granules and pale islets**. Pancreas versus parotid: the pancreas has **islets** and **no striated ducts**; the parotid has **striated ducts** and **no islets**.
 
-> **TIP** — Bile flows **toward** the portal triad; blood flows **away** from it. Students who memorize "everything flows to the center" lose this mark every year.
+> **TIP** — Bile flows **toward** the portal triad; blood flows **away** from it. The common error is to memorize "everything flows to the center".
 
 ### Chapter 16 — one-line answers
 
@@ -279,7 +279,7 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **16–1** to place the glands, **16–5** to compare submandibular and sublingual acini, **16–9** for pancreatic acini, **16–12** for the hepatic lobule, **16–16** for hepatocyte organelles, **16–20** for gallbladder mucosa. In **16–12**, trace blood toward the central vein and bile toward the portal area.
 
 - **Fig. 16–1** — *Major salivary glands*.
 - **Fig. 16–5** — *Submandibular gland and sublingual gland*.
@@ -416,7 +416,7 @@ A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D.
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Walk down the airway: larynx (**17–4**), bronchial wall (**17–8**), the transition to alveoli (**17–11**), the blood–air barrier (**17–15**), pleura (**17–18**). At each level, say what has disappeared — cartilage, glands, or cilia.
 
 - **Fig. 17–1** — *Anatomy of the respiratory system*.
 - **Fig. 17–4** — *Larynx*.
@@ -557,7 +557,7 @@ A. Scalp<br/>B. Palm<br/>C. Back<br/>D. Axilla
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **18–1** for the layers and appendages, **18–5** for the strata of thick skin, **18–9** for the Merkel cell, **18–12** for the two encapsulated corpuscles, **18–16** for the glands, **18–20** for the healing sequence. In **18–12**, distinguish the capsule and lamellae of the two corpuscles.
 
 - **Fig. 18–1** — *Layers and appendages of skin*.
 - **Fig. 18–5** — *Granular and clear layers: thick skin*.

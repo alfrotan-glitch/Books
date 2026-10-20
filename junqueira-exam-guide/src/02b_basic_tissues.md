@@ -88,7 +88,7 @@ A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decal
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Compare the cartilage types by matrix and cell arrangement (**7–3** hyaline, **7–5** fibrocartilage), then trace chondrogenesis (**7–6**) and growth (**7–7**). Use **7–1** to place each type in the body and **7–2** to name the matrix components.
 
 - **Fig. 7–1** — *Distribution of cartilage in adults*.
 - **Fig. 7–2** — *The structure of cartilage matrix and cells*.
@@ -224,7 +224,7 @@ A. Type II collagen<br/>B. Type I collagen<br/>C. Fibrillin<br/>D. Dystrophin
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Work from cell to organ: osteocytes in lacunae (**8–5**), lamellar architecture and perforating canals (**8–10**), endochondral ossification (**8–14**), fracture repair (**8–19**), articular cartilage (**8–23**). For each, state which cell type is doing the work.
 
 - **Fig. 8–1** — *Components of bone*.
 - **Fig. 8–5** — *Osteocytes in lacunae*.
@@ -333,7 +333,7 @@ A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **9–1** for the overall plan, **9–7** to classify synapses, **9–18** for cord and meninges, **9–24** for the node of Ranvier, **9–30** for regeneration. In **9–13**, distinguish satellite cells from the neurons they surround.
 
 - **Fig. 9–1** — *The general organization of the nervous system*.
 - **Fig. 9–7** — *Types of synapses*.
@@ -357,7 +357,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Muscle tissue consists of cells that optimize the universal cell property of **contractility**. Essentially **all muscle cells originate from embryonic mesoderm** and differentiate by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**. All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
+Muscle tissue consists of cells that optimize the universal cell property of **contractility**. **Most muscle cells originate from embryonic mesoderm**; the intrinsic muscles of the iris and some head muscles are the standard exceptions, deriving from neural crest and other sources. Muscle differentiates by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**. All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
 
 ### Skeletal Muscle
 
@@ -464,7 +464,7 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Compare the three muscle types first (**10–1**), then the sarcomere (**10–9**, **10–12**), the intercalated disc (**10–16**), and the smooth-muscle contractile apparatus (**10–20**). Use **10–5** to see the capillary relationship behind the fibre's oxygen supply.
 
 - **Fig. 10–1** — *Three types of muscle*.
 - **Fig. 10–5** — *Capillaries of skeletal muscle*.

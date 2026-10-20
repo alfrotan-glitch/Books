@@ -26,7 +26,7 @@ Epithelial tissues are composed of closely aggregated polyhedral cells adhering 
 | **Muscle** | Elongated contractile cells | Moderate amount | Strong contraction; body movements |
 | **Nervous** | Elongated cells with extremely fine processes | **Very small amount** | Transmission of nerve impulses |
 
-Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma always consists of connective tissue**, which is why the CNS has no connective-tissue framework of its own.
+Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma normally consists of connective tissue**, which is why the CNS has no connective-tissue framework of its own.
 
 ### Characteristic Features of Epithelial Cells
 
@@ -114,7 +114,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 
 ### Chapter 4 — one-line answers
 
-- Epithelium sits on a basal lamina, is avascular, and is always adjacent to connective tissue.
+- Epithelium sits on a basal lamina, is avascular, and is normally adjacent to connective tissue.
 - Simple = one layer (exchange, absorption, secretion); stratified = protection; pseudostratified = all cells touch the basement membrane.
 - Squamous = flat; cuboidal = height ≈ width; columnar = height > width.
 - Keratinized stratified squamous = dry, abrasive surfaces; nonkeratinized = wet surfaces (mouth, esophagus, vagina).
@@ -146,7 +146,7 @@ A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Begin with **4–1**: name the epithelium, then find the basal lamina and the connective tissue beneath. Use **4–6** for junction structure, **4–12** versus **4–17** for simple versus pseudostratified, **4–23** for apocrine secretion, **4–28** for the apical specializations of an absorptive cell.
 
 - **Fig. 4–1** — *Epithelia and adjacent connective tissue*.
 - **Fig. 4–6** — *View of a tight junction after cryofracture*.
@@ -274,7 +274,7 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use these to separate matrix from cells: mesenchyme (**5–1**), mast cells (**5–5**), collagen assembly (**5–9**), elastogenesis (**5–14**), mucoid tissue (**5–22**). In **5–18**, follow fluid movement and ask which compartment is continuous with the blood.
 
 - **Fig. 5–1** — *Embryonic mesenchyme*.
 - **Fig. 5–5** — *Mast cells*.
@@ -367,7 +367,7 @@ A. Unilocular droplets and few mitochondria<br/>B. Multilocular droplets, abunda
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Four figures, four ideas: unilocular adipocytes (**6–1**), storage and mobilization (**6–2**), the two developmental routes (**6–3**), and brown fat with its multilocular cells and dense mitochondria (**6–4**).
 
 - **Fig. 6–1** — *White adipose tissue*.
 - **Fig. 6–2** — *Lipid storage and mobilization from adipocytes*.

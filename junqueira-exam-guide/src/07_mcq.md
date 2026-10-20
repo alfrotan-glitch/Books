@@ -428,7 +428,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **3. D** — A frozen section gives a diagnosis within minutes, at the cost of some morphological distortion. **Trap:** C takes a day or more. A and B are research or teaching preparations, not urgent diagnostics.
 
-**4. B** — The light microscope resolves about 0.2 µm; electron microscopy is required for anything smaller. **Trap:** D is electron-microscope resolution. A and C are far too coarse.
+**4. B** — The light microscope resolves about 0.2 µm; electron microscopy is required for anything smaller. **Trap:** D (0.2 nm) is the order of a TEM's point resolution, not the light microscope's. A and C are far too coarse.
 
 **5. C** — Immunohistochemistry uses a specific antibody, visualized by an enzyme reaction or a fluorophore. **Trap:** A detects newly synthesized molecules. B detects nucleic acid sequence. D detects birefringence.
 

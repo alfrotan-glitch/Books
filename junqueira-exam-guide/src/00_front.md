@@ -21,7 +21,7 @@ This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th editi
 | **One-line answers** | The chapter compressed to the sentences you would write in an exam |
 | **Active recall** | Questions to answer from memory before checking |
 | **Exam-style question** | One worked MCQ with an explained answer |
-| **Plates to study** | Four to six textbook figures, with the caption subject as a self-test |
+| **Plates to study** | Four to six textbook figures, each with a specific structure or distinction to find |
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This companion is designed to be read *before* those, so that when you reach them you already know the answers.
 
@@ -53,9 +53,9 @@ At the end of every chapter in the book there is a **Summary of Key Points** and
 
 These twelve rules of thumb hold across most of the book. Each has exceptions, and the chapters point them out. When you are unsure how to approach a structure, reason from them.
 
-1. **Structure follows function, and function follows structure.** Every visible feature is a solution to a physical problem — diffusion distance, mechanical stress, surface area, water loss, conduction speed.
+1. **Structure follows function, and function follows structure.** Most visible features are a solution to a physical problem — diffusion distance, mechanical stress, surface area, water loss, conduction speed.
 2. **Form is set by the apical surface, the basal surface, and the junctions between cells.** Look at all three before naming a tissue.
-3. **Epithelium sits on something and is never crossed by a blood vessel.** Avascularity plus a basement membrane defines it.
+3. **Epithelium sits on a basement membrane and is normally avascular.** Nutrients reach it by diffusion from vessels in the underlying connective tissue. The exception worth knowing is the **stria vascularis** of the cochlea, which contains capillaries within the epithelium.
 4. **Connective tissue is defined by its extracellular matrix, not its cells.** The matrix tells you the mechanical job: tension, elasticity, compression, or filtration.
 5. **Basophilia and eosinophilia report what a cell is doing.** Blue-purple staining (hematoxylin) reflects nucleic acid — rough ER and ribosomes in a protein-synthesizing cell. Pink staining (eosin) reflects abundant protein — cytoplasm, secretory granules, collagen. The correlation is strong but not absolute: mucin and lipid droplets stain poorly with either dye.
 6. **Cells that make steroid hormone are full of smooth ER and lipid droplets** — hence foamy, pale, or vacuolated cytoplasm (adrenal cortex, Leydig cells, corpus luteum).
@@ -75,7 +75,7 @@ Never begin with a guess. Use this sequence every single time:
 1. **Magnification and staining.** H&E at low power versus PAS versus silver tells you what the preparation was designed to show.
 2. **The boundary.** Is there a free surface? A lumen? A capsule? Blood vessels *inside* the tissue? This immediately separates epithelium-lined organs from solid organs.
 3. **The dominant tissue.** Note the arrangement — cords, acini, tubules, follicles, layers, bundles.
-4. **The one diagnostic cell.** Parietal cell, Paneth cell, podocyte, Purkinje fiber, Clara cell, Sertoli cell, odontoblast. Examination images often turn on a single diagnostic cell.
+4. **The one diagnostic cell.** Parietal cell, Paneth cell, podocyte, Purkinje fiber, club cell, Sertoli cell, odontoblast. Examination images often turn on a single diagnostic cell.
 5. **Name it, then justify it in the same sentence.** "This is thyroid gland because the parenchyma is arranged in follicles of colloid lined by a single layer of cuboidal cells." A justified answer shows that you understand the image rather than merely recognizing it.
 
 ### Answering a "describe and give the function of" essay
@@ -90,7 +90,7 @@ The headings work for almost any organ. Write them down first, then fill them in
 
 - "It looks like…" without saying *why* it looks that way.
 - Naming a cell without its product or function.
-- Confusing "basophilic" (blue, acidic structure) with "eosinophilic" (pink, basic protein).
+- Confusing "basophilic" (blue; acidic components binding a basic dye) with "eosinophilic" (pink; basic proteins binding the acidic dye eosin).
 - Saying "simple squamous" for endothelium without noting it is a *type* of simple squamous epithelium.
 - Using "mucous" for "mucosa" — different words, different things.
 - Describing the adrenal medulla and cortex as one tissue; they are embryologically unrelated.

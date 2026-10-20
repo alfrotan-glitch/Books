@@ -96,7 +96,7 @@ A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **11–1** to place the circuit, **11–6** to compare artery and vein walls layer by layer, **11–11** for a muscular artery, **11–20** for a sinusoid, **11–25** for a lymphatic valve. In **11–15**, trace the two routes through a microvascular bed.
 
 - **Fig. 11–1** — *The cardiovascular system*.
 - **Fig. 11–6** — *Walls of arteries and veins*.
@@ -152,7 +152,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
 - **Hematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood (supplementary standard value, not stated in the chapter).
 
-**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes)
+**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). Diameters are typical values: the chapter gives **12–15 µm** for the three granulocytes, while the lymphocyte and monocyte ranges are standard reference values.
 
 | Cell | % of WBC | Size | Nucleus | Cytoplasm | Main function |
 |---|---|---|---|---|---|
@@ -161,8 +161,6 @@ On clotting, some proteins are consumed and others are released from platelets, 
 | **Basophil** | **0.5–1%** | **12–15 µm** | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
 | **Lymphocyte** | **about one-third** | **6–15 µm** (small, medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
 | **Monocyte** | **3–8%** | **14–20 µm** (largest) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
-
-Granulocyte diameters are the chapter's own figures (12–15 µm); the lymphocyte and monocyte ranges are standard reference values.
 
 **Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
@@ -208,7 +206,7 @@ A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Begin with **12–1** to relate the layers of a centrifuged sample to the formed elements. Then use **12–4** for erythrocyte shape, **12–6** for leukocyte emigration, **12–9** and **12–11** to separate granulocyte from agranulocyte nuclei, and **12–14** for the platelet plug.
 
 - **Fig. 12–1** — *Composition of whole blood*.
 - **Fig. 12–4** — *Normal human erythrocytes*.
@@ -320,7 +318,7 @@ A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **13–1** to follow where hemopoiesis moves during development, **13–4** for marrow architecture, **13–6** for the erythroid series in order, **13–11** for a single maturing granulocyte, **13–14** for platelet production. Name each cell by its stage, not its size.
 
 - **Fig. 13–1** — *Shifting locations of hemopoiesis during development and aging*.
 - **Fig. 13–4** — *Red bone marrow (active in hemopoiesis)*.
@@ -381,7 +379,7 @@ The book's one-line definition is worth memorizing: innate immunity is present f
 - **MHC class I** — on the surface of **all nucleated cells**, bearing fragments of that cell's own proteins (and viral proteins if infected); recognized by **CD8⁺ cytotoxic T cells**.
 - **MHC class II** — only on **antigen-presenting cells (APCs)**, mostly derived from monocytes; presents fragments of **endocytosed foreign** proteins to **CD4⁺ helper T cells**. This is the defining difference: MHC I says "here is what I am making"; MHC II says "here is what I have eaten".
 
-This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology fact in the chapter.
+This pairing — **CD4/MHC II, CD8/MHC I** — is the one to know cold.
 
 ### Cells of Adaptive Immunity
 
@@ -490,7 +488,7 @@ A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neura
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **14–1** to place the organs and their lymphatic connections, **14–16** for the three regions of a lymph node, **14–21** for spleen, **14–11** for thymic selection. In **14–26**, explain how stave cells filter erythrocytes.
 
 - **Fig. 14–1** — *The lymphoid organs and main paths of lymphatic vessels*.
 - **Fig. 14–6** — *Activation of lymphocytes*.

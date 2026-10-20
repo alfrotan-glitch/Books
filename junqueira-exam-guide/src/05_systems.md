@@ -117,7 +117,7 @@ A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte s
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Begin at the corpuscle: **19–8** contrasts proximal and distal tubules, **19–11** the medullary segments, **19–15** the papilla and calyx, **19–18** the urethra. Use **19–4** to trace the cortical microvasculature from interlobular artery to peritubular capillary.
 
 - **Fig. 19–1** — *Kidney*.
 - **Fig. 19–4** — *Microvasculature of the renal cortex*.
@@ -259,7 +259,7 @@ A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **20–1** to place the glands, **20–6** to separate acidophils, basophils and chromophobes, **20–10** for feedback, **20–15** for the adrenal zones, **20–19** for thyroid follicles and C cells, **20–24** for the pineal gland.
 
 - **Fig. 20–1** — *Locations of the major endocrine glands and the hormones they release*.
 - **Fig. 20–6** — *Pars distalis: Acidophils, basophils, and chromophobes*.
@@ -383,7 +383,7 @@ A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular 
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **21–1** for the duct system, **21–5** to follow spermatogenesis into spermiogenesis, **21–8** for a single differentiating spermatid, **21–12** for the vas deferens, **21–15** for prostatic zones, **21–19** for erectile tissue. Name the epithelium at each level.
 
 - **Fig. 21–1** — *The male reproductive system*.
 - **Fig. 21–5** — *Spermatogenesis and spermiogenesis*.
@@ -466,7 +466,7 @@ Cleavage follows as the embryo travels to the uterus — about **5 days** from f
 The uterus is pear-shaped: **body**, **fundus**, **isthmus**, and **cervix**, with the cervical canal opening at the internal and external os.
 
 - **Perimetrium (serosa)**, **myometrium** (thick smooth muscle in interlacing bundles), **endometrium**.
-- **Endometrium** — **stratum functionalis** (shed each month) and **stratum basalis** (retained, regenerates it). The basal layer has a distinctive stroma: fibroblasts, ground substance, **fine type III collagen**, and **no adipocytes**. **Spiral arteries** supply the functionalis and constrict to cause shedding.
+- **Endometrium** — **stratum functionalis** (shed each month) and **stratum basalis** (retained, regenerates it). The basal layer has a distinctive stroma: fibroblasts, ground substance, **fine type III collagen**, and little or no adipose tissue. **Spiral arteries** supply the functionalis and constrict to cause shedding.
 
 | Phase | Days | Hormone | Histology |
 |---|---|---|---|
@@ -563,7 +563,7 @@ A. Menstrual<br/>B. Proliferative<br/>C. Secretory<br/>D. Postmenopausal
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Follow one cycle: **22–6** for the growing follicle and zona pellucida, **22–12** for the corpus luteum, **22–17** for the ovarian–endometrial correlation, **22–23** for cervix, **22–28** for mammary secretion. In **22–12**, identify both lutein cell populations.
 
 - **Fig. 22–1** — *The female reproductive system and overview of ovary*.
 - **Fig. 22–6** — *Ultrastructure of primary follicle and zona pellucida*.
@@ -697,7 +697,7 @@ A. Ciliary processes<br/>B. Pupil<br/>C. Trabecular meshwork and canal of Schlem
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Use **23–1** for the tunics, **23–7** for the ciliary epithelium, **23–14** for retinal layers and the fovea, **23–20** for the lacrimal gland, **23–27** for hair-cell transduction, **23–33** for sound-wave interpretation along the cochlea. In **23–14**, follow the light path from vitreous to pigment epithelium.
 
 - **Fig. 23–1** — *Internal anatomy of the eye*.
 - **Fig. 23–7** — *Epithelium of ciliary processes*.

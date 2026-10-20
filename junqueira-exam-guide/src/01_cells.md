@@ -96,7 +96,7 @@ Digital cameras extend all of these methods: images can be quantified, enhanced,
 
 The wavelength of an electron beam is far shorter than that of light, so the electron microscope can resolve structures far below the light-microscope limit — in principle, a thousandfold improvement.
 
-**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the figure the book gives — enough to view isolated particles magnified as much as **400,000×**. Routine tissue sections of **40–90 nm** embedded in resin are studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
+**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the figure the book gives, limited by section thickness and staining rather than by the instrument alone. A modern TEM can reach a point-to-point resolution of about **0.2 nm** on suitable specimens, which is why both numbers appear in teaching; use **3 nm for sectioned tissue** and **0.2 nm only when the question asks for the instrument's limit**. Either way, TEM views isolated particles magnified as much as **400,000×**. Routine tissue sections of **40–90 nm** embedded in resin are studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
 
 **Scanning EM (SEM)** images the surface in three dimensions.
 
@@ -130,7 +130,7 @@ Two rules from the book's own section:
 1. Many processing, preparation, and staining steps introduce **artefacts** — spaces and precipitates not present in living tissue — and these must be recognized for what they are.
 2. Sections are essentially **two-dimensional planes through three-dimensional structures**, so what you see is a slice, not the whole object.
 
-> **MICRO** — Before identifying anything, decide whether it could be an artefact. A clear space around every cell is shrinkage; a straight edge through the tissue is a knife mark; granular debris is precipitated stain. True structure has irregular, biological boundaries.
+> **MICRO** — Before identifying anything, decide whether it could be an artefact. A clear space around every cell usually means shrinkage; a straight edge through the tissue is a knife mark; granular debris is precipitated stain. True structure has irregular, biological boundaries.
 
 > **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution of routine sections). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
 
@@ -167,7 +167,7 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Start with the artefact problem: **1–1** shows what sectioning does to a block, **1–14** what a two-dimensional cut does to a three-dimensional structure. Then compare what each method can reveal — fluorescence (**1–4**), confocal optical sections (**1–6**), autoradiography (**1–9**), immunocytochemistry (**1–11**).
 
 - **Fig. 1–1** — *Sectioning fixed and embedded tissue*.
 - **Fig. 1–4** — *Appearance of cells with fluorescent microscopy*.
@@ -274,7 +274,7 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 - Microtubules are 25 nm, actin filaments 7 nm, intermediate filaments 10 nm.
 - Kinesin walks toward the microtubule plus end (anterograde); dynein toward the minus end (retrograde).
 - Cilia are 9 + 2 and motile; basal bodies are 9 + 0; microvilli have an actin core.
-- Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is passive and inflammatory.
+- Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is classically passive and inflammatory, though some lytic death programmes are regulated.
 
 ### Active recall
 
@@ -294,7 +294,7 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Match each organelle to its image: membrane structure (**2–1**), endocytosis (**2–6**), protein sorting (**2–12**), lysosomes (**2–17**), microtubule dynamics (**2–23**). Use **2–28** to test whether you can name an inclusion from its appearance alone.
 
 - **Fig. 2–1** — *Lipids in membrane structure*.
 - **Fig. 2–6** — *Three major forms of endocytosis*.
@@ -411,7 +411,7 @@ The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** ar
 2. **Heterochromatin versus euchromatin?** — Heterochromatin is condensed and transcriptionally silent; euchromatin is dispersed and active.
 3. **What is a Barr body?** — The facultatively heterochromatic, inactivated X chromosome in a female somatic cell.
 4. **Which checkpoint does p53 guard, and what happens if repair fails?** — The G1 checkpoint; p53 triggers apoptosis if the DNA cannot be repaired.
-5. **Name two ways apoptosis differs from necrosis.** — Apoptosis is ATP-dependent, shrinks the cell, keeps the membrane intact, and causes no inflammation; necrosis is passive, swells and ruptures the cell, and inflames the tissue.
+5. **Name two ways apoptosis differs from necrosis.** — Apoptosis is ATP-dependent, shrinks the cell, keeps the membrane intact, and causes no inflammation; necrosis is classically passive — it swells and ruptures the cell and inflames the tissue — although regulated lytic deaths such as necroptosis blur the boundary.
 
 ### Exam-style question
 
@@ -423,7 +423,7 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 
 ### Plates to study
 
-Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
+Read nuclear texture as a function: **3–1** contrasts active nuclei, **3–5** shows pores, **3–9** chromosome territories, **3–12** the cycle, **3–16** mitotic figures. In **3–20**, distinguish apoptotic bodies from necrotic debris.
 
 - **Fig. 3–1** — *Nuclei of large, active cells*.
 - **Fig. 3–5** — *Nuclear pores*.
