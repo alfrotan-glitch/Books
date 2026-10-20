@@ -60,10 +60,10 @@ The **bright-field microscope** has three lens sets:
 
 | Method | Principle | Use |
 |---|---|---|
-| **Fluorescence** | Fluorophores emit longer-wavelength light when irradiated; bright on a dark background | **DAPI** and **Hoechst** bind DNA (blue); **acridine orange** binds DNA and RNA and emits different colors, localising them separately; fluorescein-coupled probes and labeled antibodies |
+| **Fluorescence** | Fluorophores emit longer-wavelength light when irradiated; bright on a dark background | **DAPI** and **Hoechst** bind DNA (blue); **acridine orange** binds DNA and RNA and emits different colors, localizing them separately; fluorescein-coupled probes and labeled antibodies |
 | **Phase-contrast** | Light changes speed through structures of different refractive index, producing contrast in transparent objects | **Living, unstained cultured cells**; **DIC (Nomarski optics)** gives a more three-dimensional image |
-| **Confocal** | A laser point source and a **pinhole aperture** optically conjugated to the focal plane block out-of-focus light; the beam scans the specimen | Thin **optical sections**, localisation with great precision, and 3-D reconstruction |
-| **Polarizing** | A polarising filter passes light vibrating in one direction; oriented macromolecules rotate it and appear bright against a dark background — **birefringence** | Collagen, cellulose, microtubules, actin filaments; only material with repetitive periodic structure is seen |
+| **Confocal** | A laser point source and a **pinhole aperture** optically conjugated to the focal plane block out-of-focus light; the beam scans the specimen | Thin **optical sections**, localization with great precision, and 3-D reconstruction |
+| **Polarizing** | A polarizing filter passes light vibrating in one direction; oriented macromolecules rotate it and appear bright against a dark background — **birefringence** | Collagen, cellulose, microtubules, actin filaments; only material with repetitive periodic structure is seen |
 
 Digital cameras extend all of these methods: images can be quantified, enhanced, and analysed by software for features not visible through the eyepieces.
 
@@ -77,7 +77,7 @@ The wavelength of an electron beam is far shorter than that of light, allowing a
 
 ### Autoradiography
 
-A **radiolabelled precursor** is incorporated into newly synthesised macromolecules and detected by a photographic emulsion applied over the section — so the silver grains mark the **cellular sites where those macromolecules were made**. The classic application is **³H-thymidine** labeling of cells in S phase.
+A **radiolabelled precursor** is incorporated into newly synthesized macromolecules and detected by a photographic emulsion applied over the section — so the silver grains mark the **cellular sites where those macromolecules were made**. The classic application is **³H-thymidine** labeling of cells in S phase.
 
 ### Cell & Tissue Culture
 
@@ -85,7 +85,7 @@ Living cells maintained outside the body, observed with phase-contrast or DIC mi
 
 ### Enzyme Histochemistry
 
-A substrate is converted by a specific enzyme into an **insoluble, coloured product** deposited at the site of the enzyme, localising enzyme activity within cells. **Acid phosphatase** for lysosomes is the standard example.
+A substrate is converted by a specific enzyme into an **insoluble, coloured product** deposited at the site of the enzyme, localizing enzyme activity within cells. **Acid phosphatase** for lysosomes is the standard example.
 
 ### Visualizing Specific Molecules
 
@@ -96,7 +96,7 @@ A substrate is converted by a specific enzyme into an **insoluble, coloured prod
 | **Direct IHC** | A labeled **primary antibody** binds the antigen directly | Simple, fewer steps |
 | **Indirect IHC** | An unlabelled primary antibody is detected by labeled **secondary antibodies** | **More commonly used** — the extra level of binding **amplifies the signal** and gives greater technical flexibility |
 
-**In situ hybridisation (ISH)** uses labeled **cDNA probes** to detect specific gene sequences or mRNAs microscopically.
+**In situ hybridization (ISH)** uses labeled **cDNA probes** to detect specific gene sequences or mRNAs microscopically.
 
 ### Interpretation of Structures in Tissue Sections
 
@@ -117,7 +117,7 @@ Two rules from the book's own section:
 
 ### The core idea
 
-A cell is a compartmentalisation machine. Each organelle is a membrane-bound solution to a specific logistics problem: making protein, making lipid, generating ATP, degrading waste, or moving cargo. Learn the *job*, and the morphology follows automatically.
+A cell is a compartmentalization machine. Each organelle is a membrane-bound solution to a specific logistics problem: making protein, making lipid, generating ATP, degrading waste, or moving cargo. Learn the *job*, and the morphology follows automatically.
 
 ### Cell Differentiation
 
@@ -132,9 +132,9 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 | Protein class | Position | Function |
 |---|---|---|
 | **Integral (transmembrane)** | Span the bilayer | Channels, pumps, receptors, adhesion |
-| **Peripheral** | Attached to one face | Signalling, cytoskeletal anchoring, enzymes |
+| **Peripheral** | Attached to one face | Signaling, cytoskeletal anchoring, enzymes |
 
-**Lipid rafts** are cholesterol- and sphingolipid-enriched microdomains that concentrate signalling molecules. **Caveolae** are small flask-shaped invaginations involved in uptake and signalling.
+**Lipid rafts** are cholesterol- and sphingolipid-enriched microdomains that concentrate signaling molecules. **Caveolae** are small flask-shaped invaginations involved in uptake and signaling.
 
 **Transport across the membrane**
 
@@ -148,7 +148,7 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 
 ### Cytoplasmic Organelles
 
-**Mitochondria.** Double membrane; the inner membrane folds into **cristae** carrying the electron transport chain and ATP synthase. The matrix contains circular mitochondrial DNA, mitochondrial ribosomes, and calcium granules. Mitochondria are **maternally inherited** and semi-autonomous. Cells with huge energy demand (cardiac muscle, brown fat, proximal tubule, sperm midpiece) are packed with them. **Cells that synthesise steroid hormone have mitochondria with tubular rather than lamellar cristae** — a favourite EM question.
+**Mitochondria.** Double membrane; the inner membrane folds into **cristae** carrying the electron transport chain and ATP synthase. The matrix contains circular mitochondrial DNA, mitochondrial ribosomes, and calcium granules. Mitochondria are **maternally inherited** and semi-autonomous. Cells with huge energy demand (cardiac muscle, brown fat, proximal tubule, sperm midpiece) are packed with them. **Cells that synthesize steroid hormone have mitochondria with tubular rather than lamellar cristae** — a favourite EM question.
 
 **Ribosomes.** 15–20 nm particles of rRNA plus protein, made of a large and small subunit. Free ribosomes make cytosolic protein for internal use; ribosomes bound to the rough ER make protein for secretion, membranes, or lysosomes. **Polyribosomes (polysomes)** are strings of ribosomes on one mRNA, and a **polyribosome** is the functional unit of translation.
 
@@ -202,7 +202,7 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 
 **Nuclear envelope.** Two membranes separated by a **perinuclear cisterna**, continuous with the rough ER. Beneath the inner membrane lies the **nuclear lamina**, a meshwork of **lamins A, B, and C** that supports the envelope and organizes chromatin. **Mutations in lamin A cause Hutchinson–Gilford progeria.**
 
-**Centrosomes.** Each cell has a pair of **centrioles** — nine microtubular triplets — surrounded by pericentriolar material: the **centrosome**, the microtubule-organising centre that builds the mitotic spindle, and the **basal body** of a cilium.
+**Centrosomes.** Each cell has a pair of **centrioles** — nine microtubular triplets — surrounded by pericentriolar material: the **centrosome**, the microtubule-organizing centre that builds the mitotic spindle, and the **basal body** of a cilium.
 
 **Nuclear pores.** 3,000–4,000 per nucleus, each a **nuclear pore complex** regulating traffic. Small molecules diffuse; proteins and RNA require **importins and exportins** and a Ran-GTP gradient.
 
@@ -215,7 +215,7 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 | Phase | What happens | Duration (typical cycling cell) |
 |---|---|---|
 | **G1** | Cell grows, checks nutrients and DNA integrity; restriction point | ~10 h |
-| **S** | DNA replication; histones synthesised | ~8 h |
+| **S** | DNA replication; histones synthesized | ~8 h |
 | **G2** | Repair check, prepare for mitosis | ~4 h |
 | **M** | Mitosis and cytokinesis | ~1 h |
 
@@ -248,7 +248,7 @@ Programmed cell death: **caspases** are activated, **cytochrome c** escapes mito
 
 | Feature | Apoptosis | Necrosis |
 |---|---|---|
-| Trigger | Physiological or programmed | Injury, ischaemia, toxin |
+| Trigger | Physiological or programmed | Injury, ischemia, toxin |
 | Energy | ATP-dependent | Passive |
 | Cell size | Shrinks | Swells |
 | Nucleus | Condenses, fragments | Pyknosis, karyorrhexis, karyolysis |
@@ -265,7 +265,18 @@ Programmed cell death: **caspases** are activated, **cytochrome c** escapes mito
 ### Chapter 3 — one-line answers
 
 - Nuclear lamina = lamins; lamin A mutation = progeria.
+- Nuclear envelope = two membranes + perinuclear cisterna, continuous with rough ER.
+- Nuclear pores = 3,000–4,000 per nucleus; importins and exportins, Ran-GTP gradient.
+- Nucleosome = eight histones + about 150 bp of DNA; H1 sits outside; 10-nm beads on a string.
+- Heterochromatin = condensed and silent; euchromatin = dispersed and active.
+- Barr body = facultative heterochromatin of one inactivated X chromosome.
 - Nucleolus = rRNA synthesis and ribosome assembly; NORs on 13, 14, 15, 21, 22.
+- Cell cycle = G1 → S → G2 → M; DNA replicates in S.
+- Cyclin–CDK complexes drive the cycle; p53 arrests at G1; Rb is the G1/S brake.
 - p53 = G1 checkpoint and apoptosis; mutated in most cancers.
-- Meiosis = four haploid cells, crossing over in pachytene.
-- Apoptosis = caspases, no inflammation; necrosis = swelling and inflammation.
+- Mitosis order = prophase, metaphase, anaphase, telophase; actin ring divides the cell.
+- Meiosis = four haploid cells, crossing over in pachytene, held by the synaptonemal complex.
+- Non-disjunction = aneuploid gametes, the mechanism of trisomy 21.
+- Apoptosis = caspases, cytochrome c, Bcl-2 family, apoptotic bodies, no inflammation.
+- Necrosis = swelling, membrane rupture, inflammation.
+- Labile tissue turns over constantly; stable tissue can be triggered; permanent tissue cannot regenerate.

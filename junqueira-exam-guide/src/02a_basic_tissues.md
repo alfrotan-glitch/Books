@@ -31,7 +31,7 @@ The defining features:
 2. There is a **free (apical) surface** facing air, a lumen, or a cavity.
 3. Cells rest on a **basement membrane**.
 4. The tissue is **avascular** — nourishment arrives by diffusion from vessels in the underlying connective tissue.
-5. Cells are **polarised**: apical, lateral, and basal domains differ in structure and function.
+5. Cells are **polarized**: apical, lateral, and basal domains differ in structure and function.
 
 **The basement membrane**, visible with PAS or silver in the light microscope and as two layers in EM:
 
@@ -51,7 +51,7 @@ The defining features:
 | **Gap junction** (nexus) | **Connexins** | None | Direct cytoplasmic communication |
 | **Hemidesmosome** | **Integrins** | Keratin → laminin | Anchors basal cells; antibodies cause **bullous pemphigoid** |
 
-The pattern is worth memorising: **tight seals, adherens belts to actin, desmosomes to keratin, gap junctions for talk, hemidesmosomes for feet.**
+The pattern is worth memorizing: **tight seals, adherens belts to actin, desmosomes to keratin, gap junctions for talk, hemidesmosomes for feet.**
 
 ### Specializations of the Apical Cell Surface
 
@@ -69,8 +69,8 @@ The pattern is worth memorising: **tight seals, adherens belts to actin, desmoso
 | **Simple cuboidal** | One layer, nuclei round and central | Kidney tubules, small ducts, thyroid follicles, surface of ovary | Secretion, absorption, conduit |
 | **Simple columnar** | One layer, tall cells | Stomach, intestine, gallbladder, uterine tube | Absorption, secretion, protection |
 | **Pseudostratified ciliated columnar** | Single layer with nuclei at different heights; cilia and goblet cells | Trachea, bronchi, nasal cavity | Mucus clearance ("respiratory epithelium") |
-| **Stratified squamous, keratinised** | Many layers, outermost anucleate keratin | Epidermis | Protection against abrasion and dehydration |
-| **Stratified squamous, non-keratinised** | Many layers, outermost live nucleated cells | Oral cavity, esophagus, vagina, anal canal, cornea | Protection in a wet environment |
+| **Stratified squamous, keratinized** | Many layers, outermost anucleate keratin | Epidermis | Protection against abrasion and dehydration |
+| **Stratified squamous, non-keratinized** | Many layers, outermost live nucleated cells | Oral cavity, esophagus, vagina, anal canal, cornea | Protection in a wet environment |
 | **Stratified cuboidal / columnar** | Two or more layers | Ducts of sweat glands, conjunctiva | Conduit with protection |
 | **Transitional (urothelium)** | Stratified, with dome-shaped **umbrella cells** and uroplakins | Renal pelvis, ureter, bladder, proximal urethra | Stretchable barrier to urine |
 | **Epithelioid** | Cells in clusters with no free surface | Adrenal cortex, islets of Langerhans, liver cords | Endocrine secretion |
@@ -97,11 +97,28 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 
 > **CLINICAL** — Epithelial junctions are the target of autoimmune blistering. In **pemphigus vulgaris**, antibodies against **desmoglein** break desmosomes, so the epidermis detaches *within* the epithelium and thin-walled blisters form. In **bullous pemphigoid**, antibodies against **hemidesmosomal** antigens split the epidermis from the basement membrane and the blister is thick-walled and tense. The level of the split is dictated by which junction fails.
 
-> **MICRO** — Count nuclei, not cells. More than one nuclear level with a flat continuous surface = stratified. Then the top layer: **flat and anucleate** = keratinised; **flat with nuclei** = non-keratinised; **dome-shaped and large** = transitional; **tall with cilia** = respiratory.
+> **MICRO** — Count nuclei, not cells. More than one nuclear level with a flat continuous surface = stratified. Then the top layer: **flat and anucleate** = keratinized; **flat with nuclei** = non-keratinized; **dome-shaped and large** = transitional; **tall with cilia** = respiratory.
 
 > **MNEMONIC** — **"Simple for exchange, stratified for stress, transitional for stretch."** For cilia, remember **9 + 2 moves, 9 + 0 anchors.**
 
 > **TIP** — Where is ciliated simple columnar epithelium found? The **uterine tube** — cilia move the ovum — and parts of the respiratory tract, where the epithelium is pseudostratified. Students often wrongly assign all ciliated epithelium to the lung.
+
+### Chapter 4 — one-line answers
+
+- Epithelium sits on a basal lamina, is avascular, and is always adjacent to connective tissue.
+- Simple = one layer (exchange, absorption, secretion); stratified = protection; pseudostratified = all cells touch the basement membrane.
+- Squamous = flat; cuboidal = height ≈ width; columnar = height > width.
+- Keratinized stratified squamous = dry, abrasive surfaces; nonkeratinized = wet surfaces (mouth, esophagus, vagina).
+- Urothelium (transitional) = dome-shaped umbrella cells; stretches.
+- Tight junction (zonula occludens) = seal and fence; it creates apical–basal polarity.
+- Zonula adherens anchors actin; desmosomes anchor intermediate filaments; gap junctions couple cells.
+- Hemidesmosomes attach the basal cell to the basal lamina.
+- Basal lamina = lamina lucida + lamina densa (type IV collagen, laminin); the reticular lamina (type III) belongs to connective tissue.
+- Microvilli = actin core, increase surface; stereocilia = long, stiff microvilli; cilia = 9 + 2 microtubules, motile.
+- Basal bodies anchor cilia and have a 9 + 0 arrangement.
+- Keratin 5/14 mark the basal layer; keratin 1/10 mark suprabasal layers.
+- Apical specializations serve absorption or movement; basal specializations anchor and receive signals.
+- Epithelia renew from stem cells: labile (gut, skin) versus stable (liver, kidney).
 
 ## 5 · Connective Tissue
 
@@ -179,6 +196,22 @@ Besides fibroblasts, the resident population includes **adipocytes**, **macropha
 
 > **TIP** — The most examined distinction here is **dense regular versus dense irregular**, and the answer is one word: **direction**. Regular = parallel = tendon = one axis of force. Irregular = random = dermis = many axes.
 
+### Chapter 5 — one-line answers
+
+- Connective tissue = cells + fibers + ground substance; it is vascular except in cartilage.
+- Type I collagen = bone, tendon, dermis, scar. Type II = hyaline and elastic cartilage. Type III = reticulin. Type IV = basal lamina.
+- Collagen synthesis needs vitamin C for proline and lysine hydroxylation; deficiency = scurvy.
+- Elastic fibers = elastin core + fibrillin microfibrils; orcein stains them.
+- Ground substance = GAGs and proteoglycans; **hyaluronan is the only unsulfated GAG**.
+- Fibroblast makes collagen; myofibroblast contracts (wound closure).
+- Plasma cell = eccentric clock-face nucleus, perinuclear Golgi halo, antibody factory.
+- Mast cell = heparin, histamine, proteases; metachromatic granules; IgE receptor.
+- Macrophage = monocyte-derived phagocyte; foreign-body and Langhans giant cells are fused macrophages.
+- Adipocytes, mast cells, and leukocytes are resident connective tissue cells.
+- Loose (areolar) tissue = cells and vessels; dense irregular = dermis; dense regular = tendon.
+- Reticular tissue = type III collagen framework of lymphoid organs and marrow.
+- Edema = excess fluid in ground substance; it follows increased pressure, leaky vessels, or low albumin.
+
 ## 6 · Adipose Tissue
 
 **pp. 122–128** · Part 1, pages 197–207 · White Adipose Tissue · Brown Adipose Tissue
@@ -191,16 +224,16 @@ Adipose tissue is an endocrine and metabolic organ disguised as a filling tissue
 
 **Unilocular.** Each white adipocyte is a very large cell, **50–150 µm** in diameter, containing one enormous lipid droplet that displaces the cytoplasm to a thin rim and flattens the nucleus against the plasmalemma — the **signet-ring** appearance. Adipose tissue is normally **15–20% of body weight in men** and somewhat more in women. The lipid dissolves during routine processing, so on an H&E slide the cell appears as an empty circle with a thin border.
 
-Functions: energy storage, insulation, cushioning of organs (retro-orbital, perirenal, mesenteric), and **endocrine signalling**.
+Functions: energy storage, insulation, cushioning of organs (retro-orbital, perirenal, mesenteric), and **endocrine signaling**.
 
-**Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesised by the adipocytes themselves**. Mobilisation is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
+**Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesized by the adipocytes themselves**. Mobilization is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
 
 **Adipokines** — the exam list:
 
 - **Leptin** — from adipocytes, acts on the hypothalamus to reduce appetite.
 - **Adiponectin** — increases insulin sensitivity; low in obesity.
 - **Resistin, TNF-α, IL-6** — pro-inflammatory, part of why obesity is a chronic inflammatory state.
-- **Aromatase** — converts androgens to oestrogens; a peripheral oestrogen source in obesity.
+- **Aromatase** — converts androgens to estrogens; a peripheral estrogen source in obesity.
 
 ### Brown Adipose Tissue
 
@@ -222,3 +255,16 @@ Found in the fetus and newborn (interscapular, axillary, perirenal, along the gr
 > **MICRO** — **One big hole per cell with a flattened nucleus at the rim = white. Many small holes with a round central nucleus and granular eosinophilic cytoplasm = brown.**
 
 > **TIP** — Do not confuse adipose tissue with **steatosis**. Adipocytes are a normal tissue with a capsule and vessels; steatosis is lipid accumulating inside hepatocytes or myocytes as vacuoles.
+
+### Chapter 6 — one-line answers
+
+- White adipocyte: **one large lipid droplet**, nucleus flattened at the rim, few mitochondria.
+- Brown adipocyte: **many small droplets**, round central nucleus, many cristae-rich mitochondria.
+- White fat = energy storage plus an **endocrine organ**: leptin, adiponectin, and other adipokines.
+- Brown fat = **non-shivering thermogenesis** through **UCP1**, which uncouples the proton gradient.
+- Brown fat is richest in the newborn (neck, back, mediastinum) and persists in adult neck and supraclavicular depots.
+- Beige/brite adipocytes are an inducible, brown-like population within white fat.
+- Adipose tissue is vascular and innervated; white fat's sympathetic supply is sparse, brown fat's is rich.
+- Obesity is expansion by hypertrophy and hyperplasia; the storage limit produces lipotoxicity.
+- Lipodystrophy = absent or redistributed fat with severe insulin resistance.
+- Leptin signals energy stores to the hypothalamus; adiponectin increases insulin sensitivity.

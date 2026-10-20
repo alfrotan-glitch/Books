@@ -32,8 +32,8 @@
 | Simple cuboidal | Kidney tubules, thyroid follicles, small ducts, ovary surface |
 | Simple columnar | Stomach, intestine, gallbladder, uterine tube |
 | Pseudostratified ciliated | Trachea, bronchi, nasal cavity, epididymis, vas deferens |
-| Stratified squamous keratinised | Epidermis |
-| Stratified squamous non-keratinised | Oral cavity, esophagus, vagina, cornea, anal canal |
+| Stratified squamous keratinized | Epidermis |
+| Stratified squamous non-keratinized | Oral cavity, esophagus, vagina, cornea, anal canal |
 | Transitional | Renal pelvis, ureter, bladder, proximal urethra |
 | Epithelioid | Adrenal cortex, islets, liver |
 
@@ -227,7 +227,7 @@
 95. Portal triad = artery, portal vein, bile duct.
 96. Bile flows toward the triad; blood flows away.
 97. Type I pneumocyte = gas exchange; type II = surfactant.
-98. Clara cells = bronchioles.
+98. Club (formerly Clara) cells = bronchioles; they secrete surfactant-like material and detoxify inhaled compounds.
 99. Podocytes form the filtration slit diaphragm (nephrin).
 100. Macula densa = distal tubule; JG cells = afferent arteriole.
 
@@ -253,9 +253,9 @@
 | Adrenal cortex | Adrenal medulla | Steroid versus catecholamine |
 | Anterior pituitary | Posterior pituitary | Glandular versus neural |
 | Sertoli cell | Leydig cell | Barrier/nurture versus testosterone |
-| Granulosa cell | Theca cell | Oestrogen (aromatase) versus androgen |
+| Granulosa cell | Theca cell | Estrogen (aromatase) versus androgen |
 | Proliferative | Secretory endometrium | Straight glands versus tortuous secreting glands |
-| Follicular | Luteal phase | Oestrogen-dominant versus progesterone-dominant |
+| Follicular | Luteal phase | Estrogen-dominant versus progesterone-dominant |
 | Rod | Cone | Dim light versus color and acuity |
 | Endolymph | Perilymph | High K⁺ versus high Na⁺ |
 | Apoptosis | Necrosis | No inflammation versus inflammation |

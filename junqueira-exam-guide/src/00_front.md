@@ -26,7 +26,7 @@ At the end of every chapter in the book there is a **Summary of Key Points** and
 2. **What organ or region?** — the tissue *arrangement* identifies the organ, not the cell type.
 3. **What is it doing here?** — every structure you can see exists because of a function the cell must perform. Name the function and the marks follow.
 
-> **TIP** — Never memorise a slide as a picture. Memorise the *rule that generates the picture* ("stratified squamous with keratin on top = surface exposed to abrasion and drying"). The book's atlas plates teach you the appearance; this guide teaches you the rule behind it.
+> **TIP** — Never memorize a slide as a picture. Memorize the *rule that generates the picture* ("stratified squamous with keratin on top = surface exposed to abrasion and drying"). The book's atlas plates teach you the appearance; this guide teaches you the rule behind it.
 
 ### Three study plans
 
@@ -102,31 +102,31 @@ The online version on AccessMedicine adds **500 multiple-choice questions** acro
 
 ## Source Map
 
-Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. Chapters 1–7 are checked line by line against **MyDocument_part_1.pdf** and Chapters 8–14 against **MyDocument_part_2.pdf**; the remaining chapters are written to the book's structure and will be checked when part 3 is uploaded.
+Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. **Chapters 1–7 are checked line by line against `MyDocument_part_1.pdf`, Chapters 8–14 against part 2, and Chapters 15–19 plus the pituitary, adrenal, islet and thyroid sections of Chapter 20 against part 3.** Part 3 ends part-way through Chapter 20 (at the thyroid follicles), so the parathyroid and pineal sections of Chapter 20 and all of Chapters 21–23 will be checked when part 4 is uploaded. The PDF page column is written `p1`, `p2`, `p3` for the part file, then the page inside that file.
 
 | Ch | Title | Book pages | Your PDF page | Part of this guide |
 |---|---|---|---|---|
-| 1 | Histology & Its Methods of Study | 1–16 | p. 13 | I |
-| 2 | The Cytoplasm | 17–52 | p. 40 | I |
-| 3 | The Nucleus | 53–70 | p. 92 | I |
-| 4 | Epithelial Tissue | 71–95 | p. 122 | II |
-| 5 | Connective Tissue | 96–121 | p. 162 | II |
-| 6 | Adipose Tissue | 122–128 | p. 197 | II |
-| 7 | Cartilage | 129–137 | p. 208 | II |
-| 8 | Bone | 138–160 | p. 3 | II |
-| 9 | Nerve Tissue & the Nervous System | 161–192 | p. 37 | II |
-| 10 | Muscle Tissue | 193–214 | p. 87 | II |
-| 11 | The Circulatory System | 215–236 | p. 120 | III |
-| 12 | Blood | 237–253 | p. 156 | III |
-| 13 | Hemopoiesis | 254–266 | p. 181 | III |
-| 14 | The Immune System & Lymphoid Organs | 267–294 | p. 199 | III |
-| 15 | Digestive Tract | 295–328 | part 3 IV |
-| 16 | Organs Associated with the Digestive Tract | 329–348 | part 3 IV |
-| 17 | The Respiratory System | 349–370 | part 3 IV |
-| 18 | Skin | 371–392 | part 3 IV |
-| 19 | The Urinary System | 393–412 | part 3 V |
-| 20 | Endocrine Glands | 413–438 | part 3 V |
-| 21 | The Male Reproductive System | 439–459 | part 3 V |
-| 22 | The Female Reproductive System | 460–489 | part 3 V |
-| 23 | The Eye & Ear: Special Sense Organs | 490–524 | part 3 V |
-| App. | Light Microscopy Stains | 525–526 | part 3 | Appendix A |
+| 1 | Histology & Its Methods of Study | 1–16 | p1 · 13 | I |
+| 2 | The Cytoplasm | 17–52 | p1 · 40 | I |
+| 3 | The Nucleus | 53–70 | p1 · 92 | I |
+| 4 | Epithelial Tissue | 71–95 | p1 · 122 | II |
+| 5 | Connective Tissue | 96–121 | p1 · 162 | II |
+| 6 | Adipose Tissue | 122–128 | p1 · 197 | II |
+| 7 | Cartilage | 129–137 | p1 · 208 | II |
+| 8 | Bone | 138–160 | p2 · 3 | II |
+| 9 | Nerve Tissue & the Nervous System | 161–192 | p2 · 37 | II |
+| 10 | Muscle Tissue | 193–214 | p2 · 87 | II |
+| 11 | The Circulatory System | 215–236 | p2 · 120 | III |
+| 12 | Blood | 237–253 | p2 · 156 | III |
+| 13 | Hemopoiesis | 254–266 | p2 · 181 | III |
+| 14 | The Immune System & Lymphoid Organs | 267–294 | p2 · 199 + p3 · 1 | III |
+| 15 | Digestive Tract | 295–328 | p3 · 23 | IV |
+| 16 | Organs Associated with the Digestive Tract | 329–348 | p3 · 71 | IV |
+| 17 | The Respiratory System | 349–370 | p3 · 100 | IV |
+| 18 | Skin | 371–392 | p3 · 132 | IV |
+| 19 | The Urinary System | 393–412 | p3 · 161 | V |
+| 20 | Endocrine Glands | 413–438 | p3 · 191 | V |
+| 21 | The Male Reproductive System | 439–459 | part 4 | V |
+| 22 | The Female Reproductive System | 460–489 | part 4 | V |
+| 23 | The Eye & Ear: Special Sense Organs | 490–524 | part 4 | V |
+| App. | Light Microscopy Stains | 525–526 | part 4 | Appendix A |

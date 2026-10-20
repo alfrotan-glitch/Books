@@ -1,4 +1,4 @@
-# PART III — TRANSPORT, DEFENCE, AND BLOOD
+# PART III — TRANSPORT, DEFENSE, AND BLOOD
 
 ## 11 · The Circulatory System
 
@@ -52,7 +52,7 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 
 Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**. Lymphatics have **no continuous basal lamina** and no fenestrations — which is exactly why tumor cells and bacteria enter them so easily.
 
-> **CLINICAL** — **Atherosclerosis** begins with endothelial dysfunction: LDL crosses the endothelium, is oxidised, and provokes monocyte recruitment. Macrophages become **foam cells**, a fatty streak forms, smooth muscle migrates into the intima, and a fibrous cap covers a necrotic core. Rupture of a thin cap exposes thrombogenic material and produces the acute coronary syndrome. **Aneurysm** follows destruction of medial elastic fibers. **Varicose veins** follow valve failure. **Lymphoedema** follows lymphatic obstruction — classically after axillary node clearance.
+> **CLINICAL** — **Atherosclerosis** begins with endothelial dysfunction: LDL crosses the endothelium, is oxidized, and provokes monocyte recruitment. Macrophages become **foam cells**, a fatty streak forms, smooth muscle migrates into the intima, and a fibrous cap covers a necrotic core. Rupture of a thin cap exposes thrombogenic material and produces the acute coronary syndrome. **Aneurysm** follows destruction of medial elastic fibers. **Varicose veins** follow valve failure. **Lymphedema** follows lymphatic obstruction — classically after axillary node clearance.
 
 > **MICRO** — Arteries: **round lumen, thick wall, corrugated internal elastic lamina**. Veins: **irregular collapsed lumen, thin media**. In elastic arteries the media shows wavy pink bands with no orderly muscle coat; in muscular arteries the media is uniform smooth muscle.
 
@@ -95,7 +95,7 @@ About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-
 
 **Platelets** are 2–3 µm anucleate fragments of **megakaryocyte** cytoplasm, with a peripheral clear zone (hyalomere) and a central granular zone (granulomere). They adhere, activate, and aggregate to form the primary hemostatic plug; **von Willebrand factor** links them to collagen.
 
-> **CLINICAL** — The differential count is a diagnostic instrument. **Neutrophilia** suggests bacterial infection or steroid use; **eosinophilia** parasites or allergy; **lymphocytosis** viral infection or chronic lymphocytic leukemia; **pancytopenia** marrow failure. In **sickle cell disease** a single glutamic acid → valine substitution in β-globin allows deoxygenated HbS to polymerise; the cell sickles, occludes small vessels, and is removed by the spleen.
+> **CLINICAL** — The differential count is a diagnostic instrument. **Neutrophilia** suggests bacterial infection or steroid use; **eosinophilia** parasites or allergy; **lymphocytosis** viral infection or chronic lymphocytic leukemia; **pancytopenia** marrow failure. In **sickle cell disease** a single glutamic acid → valine substitution in β-globin allows deoxygenated HbS to polymerize; the cell sickles, occludes small vessels, and is removed by the spleen.
 
 > **MICRO** — Count lobes, not granules. **Neutrophil: 3–5 lobes. Eosinophil: exactly two, orange granules. Basophil: granules so dark the nucleus is hidden. Monocyte: kidney-shaped nucleus, largest cell. Lymphocyte: round dense nucleus, almost no cytoplasm.**
 
@@ -119,7 +119,7 @@ All blood cells descend from one **hematopoietic stem cell**, and the pathway fr
 | **Second trimester** | **Liver and spleen** (hepatic phase) |
 | **Third trimester** | **Bone marrow** — marrow becomes the major organ in the third trimester as skeletal elements ossify |
 
-In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, pelvis, skull, and proximal femur**. The rest is **yellow (fatty) marrow**, which can revert to red marrow under demand — why chronic anaemia produces marrow expansion and frontal bossing.
+In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, pelvis, skull, and proximal femur**. The rest is **yellow (fatty) marrow**, which can revert to red marrow under demand — why chronic anemia produces marrow expansion and frontal bossing.
 
 ### Stem Cells, Growth Factors, & Differentiation
 
@@ -137,7 +137,7 @@ The **hematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitt
 
 ### Bone Marrow
 
-Between the trabeculae lie **hemopoietic cords** and **sinusoids** with a discontinuous endothelium, so mature cells can enter the circulation. The **myeloid:erythroid (M:E) ratio** is normally **2:1 to 4:1**; it shifts toward erythroid in hemolytic anaemia and toward myeloid in infection or leukemia.
+Between the trabeculae lie **hemopoietic cords** and **sinusoids** with a discontinuous endothelium, so mature cells can enter the circulation. The **myeloid:erythroid (M:E) ratio** is normally **2:1 to 4:1**; it shifts toward erythroid in hemolytic anemia and toward myeloid in infection or leukemia.
 
 ### Maturation of Erythrocytes
 
@@ -161,7 +161,7 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 
 **Megakaryoblasts → megakaryocytes**, which become polyploid and develop **demarcation membranes** that delineate future platelet territories; platelets bud from the cytoplasm under TPO control.
 
-> **CLINICAL** — **Aplastic anaemia** is marrow failure with an empty, fatty marrow and pancytopenia. **Leukemia** is the opposite: marrow packed with malignant blasts, crowding out normal lineages and producing anaemia, infection, and bleeding. **Megaloblastic anaemia** (B₁₂ or folate deficiency) shows nuclear–cytoplasmic asynchrony — the nucleus matures more slowly than the cytoplasm, so cells are large and hypersegmented. **Iron deficiency** produces microcytic hypochromic cells because hemoglobin synthesis lags behind cell division.
+> **CLINICAL** — **Aplastic anemia** is marrow failure with an empty, fatty marrow and pancytopenia. **Leukemia** is the opposite: marrow packed with malignant blasts, crowding out normal lineages and producing anemia, infection, and bleeding. **Megaloblastic anemia** (B₁₂ or folate deficiency) shows nuclear–cytoplasmic asynchrony — the nucleus matures more slowly than the cytoplasm, so cells are large and hypersegmented. **Iron deficiency** produces microcytic hypochromic cells because hemoglobin synthesis lags behind cell division.
 
 > **MICRO** — Identify the lineage by **nucleus-to-cytoplasm ratio and granule color**. Early cells have a large nucleus, a thin rim of basophilic cytoplasm, and a nucleolus. As cells mature, the ratio falls, granules appear, and the nucleus condenses. **Maturation moves in one direction: nucleus shrinks, cytoplasm grows, color shifts from blue to pink or from blue to granular.**
 
@@ -169,7 +169,7 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 
 ## 14 · The Immune System & Lymphoid Organs
 
-**pp. 267–294** · Part 2, pages 199–217 · Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
+**pp. 267–294** · Part 2, pages 199–217 + part 3, pages 1–22 · Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 
 ### The core idea
 
@@ -179,15 +179,17 @@ The immune system is a set of organs arranged to **bring antigen to lymphocytes*
 
 | Feature | Innate | Adaptive |
 |---|---|---|
-| Speed | Immediate | Days |
-| Specificity | Broad patterns (PAMPs) | Exact antigen |
+| Timing | **Present from birth**, acts within minutes | **Develops more slowly**, improves with exposure |
+| Specificity | Broad molecular patterns | **Exact antigen** |
 | Memory | None | **Yes** |
-| Cells | Neutrophils, macrophages, dendritic cells, NK cells | **T and B lymphocytes** |
-| Mediators | Complement, cytokines, defensins | Antibodies, cytotoxic granules |
+| Cells | **Granulocytes** (mainly neutrophils), macrophages, dendritic cells, NK cells | **T and B lymphocytes** |
+| Mediators | **Defensins, complement, lysozyme, interferons**, cytokines | Antibodies, cytotoxic granules |
+
+The book's one-line definition is worth memorizing: innate immunity is present from birth and uses leukocytes (mainly granulocytes) plus soluble proteins; adaptive immunity develops more slowly and is **based on antigen presentation to lymphocytes**.
 
 ### Cytokines
 
-Small signalling proteins secreted by immune cells that coordinate the response. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their Storm-like excess produces the systemic inflammatory response.
+**Polypeptide hormones of the immune system** — the book's phrase — secreted by immune cells to regulate one another. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their Storm-like excess produces the systemic inflammatory response.
 
 ### Antigens & Antibodies
 
@@ -195,7 +197,7 @@ Small signalling proteins secreted by immune cells that coordinate the response.
 
 | Class | Structure | Main role |
 |---|---|---|
-| **IgG** | Monomer | Most abundant; crosses the placenta; opsonises |
+| **IgG** | Monomer | Most abundant; crosses the placenta; opsonizes |
 | **IgM** | Pentamer | First responder; complement activation |
 | **IgA** | Dimer with secretory component | Mucosal secretions |
 | **IgE** | Monomer | Mast-cell binding; allergy and parasites |
@@ -205,14 +207,32 @@ Small signalling proteins secreted by immune cells that coordinate the response.
 
 **T cells cannot see free antigen.** They recognize peptide displayed on **MHC** molecules:
 
-- **MHC class I** — on all nucleated cells; presents **endogenous** peptide (from intracellular proteins, including viral) to **CD8⁺ cytotoxic T cells**.
-- **MHC class II** — on **antigen-presenting cells** (dendritic cells, macrophages, B cells); presents **exogenous** peptide taken up by endocytosis to **CD4⁺ helper T cells**.
+- **MHC class I** — on the surface of **all nucleated cells**, bearing fragments of that cell's own proteins (and viral proteins if infected); recognized by **CD8⁺ cytotoxic T cells**.
+- **MHC class II** — only on **antigen-presenting cells (APCs)**, mostly derived from monocytes; presents fragments of **endocytosed foreign** proteins to **CD4⁺ helper T cells**. This is the defining difference: MHC I says "here is what I am making"; MHC II says "here is what I have eaten".
 
 This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology fact in the chapter.
 
 ### Cells of Adaptive Immunity
 
-**T lymphocytes** mature in the thymus and are responsible for cell-mediated immunity: CD4⁺ helpers orchestrate B cells and macrophages; CD8⁺ cytotoxic cells kill infected cells. **B lymphocytes** mature in bone marrow, carry surface immunoglobulin, and differentiate into **plasma cells** that secrete antibody and **memory cells**. **NK cells** kill without prior sensitisation and without MHC restriction.
+**T lymphocytes** mature in the thymus and are responsible for cell-mediated immunity. Their **T-cell receptor (TCR)** is usually an **αβ heterodimer**; each T cell also carries one CD marker that fixes its class:
+
+| T-cell class | Marker | Job |
+|---|---|---|
+| **Helper T cell** | **CD4⁺** | Recognizes MHC II; secretes cytokines that activate B cells and macrophages |
+| **Cytotoxic T cell** | **CD8⁺** | Recognizes MHC I; kills infected or tumor cells |
+| **Regulatory T cell** | **CD4⁺ CD25⁺** | Suppresses immune responses and prevents autoimmunity |
+| **γδ T cell** | γδ TCR | Mainly in **epithelia**; early defense at body surfaces |
+
+**B lymphocytes** mature in bone marrow and carry a **B-cell receptor (BCR)** — surface **IgM or IgD** — that binds antigen directly, without MHC. On activation they become **plasma cells** (antibody factories) and **memory cells**. **NK cells** kill without prior sensitization and without MHC restriction.
+
+### How a Lymphoid Nodule Forms
+
+This sequence explains every secondary lymphoid organ in the chapter:
+
+1. Lymphocytes are packed in a meshwork of **reticulin** made by **fibroblastic reticular cells**; most APCs among them are **dendritic cells** with many processes.
+2. In a secondary organ, **follicular dendritic cells (FDCs)** display antigen–antibody complexes on their large surface. A B cell whose BCR binds that antigen is held there.
+3. With cytokines from helper T cells, that B cell **proliferates clonally**, producing a large transient nodule with a pale **germinal center**.
+4. The cells disperse as **plasma cells, various T cells, and B and T memory cells** — which is why the same nodule can look "active" (large germinal center) or "resting" (dense primary follicle).
 
 ### Thymus
 
@@ -221,7 +241,7 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 - **Blood–thymus barrier** — formed by **squamous thymic epithelial cells** joined by desmosomes and occluding junctions, together with vascular endothelium and pericytes — prevents unregulated exposure of thymocytes to antigens.
 - **Cortex** is packed with **T lymphoblasts (thymocytes)**, macrophages, and **thymic epithelial cells (TECs)**. Stellate TECs form a **cytoreticulum** to which lymphocytes attach instead of reticulin fibers; these TECs are **antigen-presenting cells** expressing **MHC class II** and secreting cytokines — which is why the thymus is also counted among endocrine glands.
 - **Hassall corpuscles** — aggregates of medullary TECs, concentrically arranged, **up to 100 µm**, **unique to the medulla**; their cells secrete cytokines that control local dendritic cells and promote regulatory T cells for peripheral tolerance.
-- Function: **T-cell maturation and selection** (positive and negative selection, establishing self-tolerance).
+- Function: **T-cell maturation and selection**. **Positive selection occurs in the cortex**: only thymocytes whose TCR recognizes the individual's own MHC molecules survive. **Negative selection occurs in the medulla**: thymocytes that bind self-antigen too tightly are deleted, leaving tolerance. Medullary TECs express **Aire**, which lets them display a wide sample of tissue self-antigens for this test.
 - **Involutes** after puberty, replaced by adipose tissue.
 
 ### Mucosa-Associated Lymphoid Tissue
@@ -242,7 +262,9 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 
 - **No afferent lymphatics.** It filters **blood**.
 - **White pulp** — lymphocytes around a central arteriole: the **periarteriolar lymphoid sheath (PALS)** is the T-cell zone; follicles at its periphery are the B-cell zone.
-- **Red pulp** — **cords of Billroth** and **sinusoids** lined by elongated endothelial cells; removes aged or damaged red cells and platelets.
+- **Red pulp** — **cords of Billroth** and **sinusoids** whose elongated endothelial **stave cells** are separated by narrow slits.
+- **Two routes through the red pulp.** In the **closed circulation**, capillaries from the penicillar arterioles connect directly to sinusoids. In the **open circulation** (about half of the penicillar arterioles), capillaries are open-ended and dump blood into the splenic cords, so plasma and cells must squeeze between stave cells to re-enter the vasculature. Platelets, motile leukocytes, and thin flexible erythrocytes pass; **stiff or swollen erythrocytes at the end of their 120-day life are blocked and removed by macrophages**.
+- **Iron recycling.** Iron released from **hemoglobin** during erythrocyte degradation is stored by macrophages in **ferritin**, released bound to **transferrin**, and reused for erythropoiesis. Iron-free heme binds **hemopexin** or is converted to **bilirubin** and excreted in bile.
 - **Functions:** blood filtration, removal of old erythrocytes, immune response to blood-borne antigen, and **extramedullary hemopoiesis** in fetal life and marrow failure.
 
 | Organ | Capsule | Afferent lymphatics | Follicles | Unique feature |
@@ -259,3 +281,22 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 > **MNEMONIC** — **"Thymus Teaches T cells; Nodes Filter lymph; Spleen Filters blood."** And **"CD4 sees MHC II (2 × 2); CD8 sees MHC I (8 × 1)."**
 
 > **TIP** — Two negative facts are worth more than most positive ones: the **thymus has no follicles**, and the **spleen has no afferent lymphatics**.
+
+### Chapter 14 — one-line answers
+
+- Innate immunity = present at birth, granulocytes and soluble proteins; adaptive = antigen presentation to lymphocytes.
+- MHC I is on **all nucleated cells** and presents endogenous peptide to **CD8⁺** cells.
+- MHC II is on **APCs** (mostly monocyte-derived) and presents endocytosed peptide to **CD4⁺** cells.
+- BCR = surface **IgM or IgD**; TCR is usually **αβ** with a CD co-receptor.
+- T cells: CD4 helper, CD8 cytotoxic, CD4⁺CD25⁺ regulatory, γδ in epithelia.
+- B cells make antibodies (humoral); T cells mediate cell-mediated immunity.
+- Plasma cells secrete antibody; memory B and T cells give the rapid second response.
+- Primary lymphoid organs: **bone marrow (B)** and **thymus (T)**.
+- Secondary: lymph nodes, MALT, spleen — where lymphocytes are activated.
+- FDCs display antigen–antibody complexes; activated B cells form germinal centers.
+- Thymus: cortex = positive selection, medulla = negative selection; **Aire** displays self-antigens.
+- Thymus has **no follicles** and Hassall corpuscles in the medulla.
+- Lymph node: cortex B cells, paracortex T cells and HEVs, medulla cords and sinuses.
+- Spleen: white pulp (PALS = T zone, follicles = B zone) and red pulp (cords + sinusoids).
+- Spleen filters blood; **open circulation** lets macrophages remove stiff 120-day erythrocytes.
+- Iron is stored as **ferritin**, carried by **transferrin**, and heme iron binds **hemopexin**; the rest becomes bilirubin.

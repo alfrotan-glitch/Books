@@ -19,7 +19,7 @@ A. Routine paraffin section  B. Frozen section  C. Resin embedding  D. Whole-mou
 A. 0.2 nm  B. 2 µm  C. 0.2 µm  D. 20 µm
 
 **5.** Which technique localizes a specific protein in a tissue section using an antibody?
-A. Autoradiography  B. In situ hybridisation  C. Immunohistochemistry  D. Polarising microscopy
+A. Autoradiography  B. In situ hybridization  C. Immunohistochemistry  D. Polarizing microscopy
 
 **6.** A cell specialized for steroid hormone synthesis would show abundant:
 A. Rough ER and Golgi  B. Smooth ER and lipid droplets  C. Lysosomes and residual bodies  D. Free ribosomes and proteasomes
@@ -228,7 +228,7 @@ A. Islets and striated ducts  B. Basophilic acini and zymogen granules  C. Mucou
 A. Alpha cells  B. Beta cells  C. Delta cells  D. PP cells
 
 **72.** The esophagus is lined by:
-A. Simple columnar epithelium  B. Stratified squamous non-keratinised epithelium  C. Transitional epithelium  D. Pseudostratified ciliated epithelium
+A. Simple columnar epithelium  B. Stratified squamous non-keratinized epithelium  C. Transitional epithelium  D. Pseudostratified ciliated epithelium
 
 ### Respiratory system and skin (73–82)
 
@@ -302,19 +302,19 @@ A. Spermatogonia  B. Sertoli cells  C. Leydig cells  D. Peritubular myoid cells
 **94.** LH acts primarily on:
 A. Sertoli cells  B. Leydig cells  C. Spermatogonia  D. Epididymal cells
 
-**95.** The usual site of fertilisation is the:
+**95.** The usual site of fertilization is the:
 A. Uterine cavity  B. Ampulla of the uterine tube  C. Isthmus  D. Cervix
 
 **96.** Straight, narrow endometrial glands with numerous mitoses indicate which phase?
 A. Menstrual  B. Proliferative  C. Secretory  D. Gestational
 
 **97.** The corpus luteum secretes mainly:
-A. Oestrogen  B. Progesterone  C. hCG  D. FSH
+A. Estrogen  B. Progesterone  C. hCG  D. FSH
 
 **98.** The fovea centralis contains:
 A. Rods only  B. Cones only  C. Both equally  D. Neither
 
-**99.** Aqueous humour drains into the:
+**99.** Aqueous humor drains into the:
 A. Vitreous body  B. Canal of Schlemm  C. Ciliary body  D. Choroid
 
 **100.** The sensory cells of the organ of Corti are:
@@ -342,7 +342,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **10. B** — The basal body is 9 + 0; the motile cilium and flagellum are 9 + 2.
 
-**11. A** — Lamin A mutations destabilise the nuclear envelope and cause Hutchinson–Gilford progeria.
+**11. A** — Lamin A mutations destabilize the nuclear envelope and cause Hutchinson–Gilford progeria.
 
 **12. B** — The acrocentric chromosomes 13, 14, 15, 21, and 22 carry the nucleolar organizer regions.
 
@@ -462,9 +462,9 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **70. B** — The exocrine pancreas has basophilic acini with eosinophilic zymogen granules.
 
-**71. B** — Beta cells secrete insulin and constitute 60–70% of islet cells.
+**71. B** — Beta cells secrete insulin and are about twice as abundant as alpha cells.
 
-**72. B** — The esophagus is lined by stratified squamous non-keratinised epithelium.
+**72. B** — The esophagus is lined by stratified squamous non-keratinized epithelium.
 
 **73. B** — Type II pneumocytes contain lamellar bodies and secrete surfactant.
 
@@ -488,7 +488,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **83. A** — Nephrin is the key protein of the slit diaphragm.
 
-**84. C** — The macula densa is a plaque of cells in the distal convoluted tubule.
+**84. C** — The macula densa is the thickened plaque of the distal straight tubule (thick ascending limb) where it touches the vascular pole.
 
 **85. B** — Juxtaglomerular cells of the afferent arteriole secrete renin.
 
@@ -496,7 +496,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **87. B** — The ureter is lined by transitional epithelium.
 
-**88. B** — Thyroid follicles are lined by simple cuboidal epithelium.
+**88. B** — Thyroid follicles are lined by a simple epithelium whose cells range from squamous (inactive) to low columnar (active), classically described as cuboidal.
 
 **89. B** — Parafollicular C cells secrete calcitonin.
 
@@ -510,7 +510,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **94. B** — LH stimulates Leydig cells; FSH acts on Sertoli cells.
 
-**95. B** — Fertilisation normally occurs in the ampulla of the uterine tube.
+**95. B** — Fertilization normally occurs in the ampulla of the uterine tube.
 
 **96. B** — Straight, narrow glands with mitoses are typical of the proliferative phase.
 
@@ -518,7 +518,7 @@ A. Hair cells  B. Supporting cells  C. Spiral ganglion cells  D. Tectorial cells
 
 **98. B** — The fovea contains cones only, giving maximal acuity and color vision.
 
-**99. B** — Aqueous humour drains through the trabecular meshwork into the canal of Schlemm.
+**99. B** — Aqueous humor drains through the trabecular meshwork into the canal of Schlemm.
 
 **100. A** — The inner and outer hair cells of the organ of Corti are the transducing receptors.
 

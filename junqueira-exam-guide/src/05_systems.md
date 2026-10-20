@@ -2,7 +2,7 @@
 
 ## 19 · The Urinary System
 
-**pp. 393–412** · Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
+**pp. 393–412** · Part 3, pages 161–190 · Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 ### The core idea
 
@@ -10,51 +10,90 @@ The kidney is a **countercurrent filtration and reabsorption machine** built fro
 
 ### Kidneys
 
-- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **pyramids**.
+Each kidney is about **12 cm long, 6 cm wide, and 2.5 cm thick**. The **hilum** on the medial border admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
+
+- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (commonly quoted as 8–12).
 - **Renal columns (of Bertin)** — cortical tissue between pyramids.
 - **Lobe** = pyramid + overlying cortex; **lobule** = a medullary ray + the cortical tissue around it.
 - **Papilla** → minor calyx → major calyx → renal pelvis → ureter.
+- The cortex receives **more than 10 times** the blood flow of the medulla.
 
-**The nephron** begins with the **renal corpuscle**: the **glomerulus** (a tuft of fenestrated capillaries) inside **Bowman's capsule**.
+**The nephron** — about **1.25 million per kidney** — begins with the **renal corpuscle**: the **glomerulus** (a tuft of fenestrated capillaries) inside the **glomerular (Bowman) capsule**.
 
-- **Parietal layer** — simple squamous epithelium.
-- **Visceral layer** — **podocytes** with primary and secondary processes (foot processes, pedicels) that embrace the capillaries; the filtration slits between pedicels are bridged by the **slit diaphragm** containing **nephrin**.
-- **Mesangial cells** — between capillaries; contractile, phagocytic, structural.
+- **Parietal layer** — simple squamous epithelium, continuous with the proximal tubule.
+- **Visceral layer** — **podocytes** with primary processes and interdigitating **pedicels** that embrace the capillaries. Between pedicels are **filtration slit pores 25–30 nm wide**, bridged by a **slit diaphragm** of P-cadherin, **nephrin**, and the negatively charged glycoprotein **podocalyxin**.
+- **Mesangial cells** — between capillaries, covering surfaces not covered by podocytes; **contractile** (like pericytes) and produce external lamina.
 
-**The filtration barrier has three layers:** **fenestrated endothelium** (no diaphragms) → **glomerular basement membrane** (type IV collagen, laminin, heparan sulfate; the charge barrier) → **podocyte slit diaphragms** (the size barrier). Small molecules pass; cells and large proteins do not. **Loss of the charge barrier produces albuminuria before loss of the size barrier** — which explains early diabetic proteinuria.
+**The filtration barrier has three layers:** **fenestrated endothelium** → **glomerular basement membrane (GBM)**, about **330 nm** thick, of **type IV collagen** and other proteins made by endothelial cells and podocytes → **podocyte slit diaphragms**. The barrier is both a size and a charge filter.
 
-**Juxtaglomerular apparatus** — at the vascular pole: **juxtaglomerular (JG) cells** in the afferent arteriole (modified smooth muscle, contain **renin**), the **macula densa** (a plaque of tall, closely packed cells in the **distal tubule** sensing NaCl), and **extraglomerular mesangial (lacis) cells**.
+**Functional numbers that examiners love:**
+
+- About **20%** of the plasma entering a glomerulus is filtered.
+- Total filtration area ≈ **500 cm²**.
+- **GFR ≈ 125 mL/min ≈ 180 L/day**.
+- Plasma volume ≈ **3 L**, so the kidneys filter the entire plasma volume about **60 times a day**.
+
+**Juxtaglomerular apparatus (JGA)** — at the vascular pole: **juxtaglomerular (JG) cells** in the afferent arteriole (modified smooth muscle, contain **renin**), the **macula densa** (a plaque of tall, closely packed cells in the distal straight tubule sensing NaCl), and **extraglomerular mesangial (lacis) cells**.
 
 ### Blood Circulation
 
-Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **vasa recta** run in a hairpin alongside the loop of Henle and are the anatomical basis of the **countercurrent multiplier** that creates the medullary osmotic gradient.
+Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high. Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and are the anatomical basis of the **countercurrent multiplier**.
 
 ### Renal Function: Filtration, Secretion, & Reabsorption
 
 | Segment | Epithelium | Key features | Function |
 |---|---|---|---|
-| **Proximal convoluted tubule** | Simple cuboidal, **eosinophilic** | **Brush border**, basal striations, many mitochondria | **Major reabsorption**: ~65% of Na⁺, water, glucose, amino acids, bicarbonate |
+| **Proximal convoluted tubule (PCT)** | Simple cuboidal, **eosinophilic** | **Long microvilli (brush border)**, abundant mitochondria, large interdigitating **basolateral folds** | **Major reabsorption**: all glucose and organic nutrients, all small proteins and peptides (degraded to amino acids), much water and electrolyte |
 | **Thin descending limb** | Simple squamous | Thin | Water permeability |
 | **Thin ascending limb** | Simple squamous | Thin | — |
-| **Thick ascending limb** | Simple cuboidal, low brush border | **Macula densa** at its end | **NaCl reabsorption**, impermeable to water — the diluting segment and the loop-diuretic site |
-| **Distal convoluted tubule** | Simple cuboidal, **pale**, no brush border | Many mitochondria, basal infoldings | Na⁺ reabsorption under aldosterone; thiazide site |
-| **Collecting duct** | Simple cuboidal to columnar | **Principal cells** (ADH, aldosterone) and **intercalated cells** (H⁺/HCO₃⁻) | Final water and acid–base regulation |
+| **Thick ascending limb (TAL = distal straight tubule)** | Simple cuboidal, low brush border | Ends as the **macula densa** at the vascular pole | **NaCl reabsorption, impermeable to water** — the diluting segment and loop-diuretic site |
+| **Distal convoluted tubule (DCT)** | Simple cuboidal, **pale**, no brush border | Many mitochondria, basal infoldings | Further adjustment of electrolytes; thiazide site; leads to **connecting tubules** |
+| **Collecting duct** | Simple cuboidal → columnar in medulla | **Principal cells** (aquaporins, ADH) and **intercalated cells** (type A secrete H⁺, type B secrete HCO₃⁻) | Final water and acid–base regulation |
+
+**Size contrast:** the straight proximal tubule is about **60 µm** in outer diameter and narrows abruptly to about **30 µm** in the thin limbs of the loop.
 
 The visual contrast that answers most questions: the **proximal tubule is eosinophilic with a ragged brush border and a star-shaped lumen; the distal tubule is pale with a clean lumen and no brush border.**
 
+**Collecting ducts.** Connecting tubules from several nephrons join to form cortical collecting ducts, which enter the medulla parallel to the loops and vasa recta and become larger with more columnar cells. The largest (papillary) ducts — **ducts of Bellini** — open into a minor calyx, where filtrate undergoes no further modification and is called **urine**.
+
 ### Ureters, Bladder, & Urethra
 
-**Ureter** — **transitional epithelium**, a **star-shaped lumen**, and a muscular wall of two layers (inner longitudinal, outer circular) in the upper part, three in the lower. **Bladder** — transitional epithelium, a thick **detrusor** muscle in interlacing bundles, and a trigone where the epithelium is firmly attached. **Urethra** — male: prostatic (transitional), membranous (stratified columnar), spongy (pseudostratified/stratified squamous); female: short, lined by stratified squamous near the external meatus.
+**Ureter** — **urothelium (transitional epithelium)**, a folded mucosa, and a **thick muscularis** that moves urine by peristalsis; inner longitudinal and outer circular layers, with a third layer added near the bladder. **Bladder** — urothelium, a highly folded mucosa, and the **detrusor** muscle in three poorly delineated interlacing layers. It holds **400–600 mL**, with the urge to void at about **150–200 mL**.
 
-> **CLINICAL** — **Diabetic nephropathy** thickens the glomerular basement membrane and later produces mesangial expansion (Kimmelstiel–Wilson nodules), with proteinuria. **Nephrotic syndrome** — heavy proteinuria, hypoalbuminaemia, edema, hyperlipidaemia; podocyte injury is central. **Acute tubular necrosis** — ischaemic or toxic injury to the proximal tubule, the most metabolically demanding segment. **Polycystic kidney disease** — the primary cilium and its signalling fail. **Renal cell carcinoma** arises from proximal tubule cells; **transitional cell carcinoma** from the urothelium.
+**Urothelium is a specialized barrier, not just a stratified epithelium:**
+
+- **Umbrella cells** — large superficial cells up to **100 µm** in diameter, with **uroplakin plaques ~16 nm** across, hinged to allow unfolding as the bladder fills.
+- The empty bladder has **5–7 layers**; the full bladder has **2–3**, because intermediate cells are stretched laterally.
+- Tight junctions plus plaques make it an osmotic barrier against hypertonic urine.
+
+**Urethra** — in both sexes lined initially by urothelium. In men there are three parts: **prostatic** (3–4 cm, urothelium), **membranous** (short, through the urogenital diaphragm; stratified or pseudostratified columnar), and **penile** (long; stratified columnar/pseudostratified proximally, stratified squamous distally). In women the urethra is **3–5 cm**, urothelium proximally, then nonkeratinized stratified squamous; the middle part is surrounded by the **external striated sphincter**. The short female urethra explains the frequency of cystitis.
+
+> **CLINICAL** — **Diabetic nephropathy** thickens the glomerular basement membrane and later produces mesangial expansion (Kimmelstiel–Wilson nodules), with proteinuria. **Nephrotic syndrome** — heavy proteinuria, hypoalbuminemia, edema, hyperlipidemia; podocyte injury is central. **Acute tubular necrosis** — ischemic or toxic injury to the proximal tubule, the most metabolically demanding segment. **Polycystic kidney disease** — the primary cilium and its signaling fail. **Renal cell carcinoma** arises from proximal tubule cells; **transitional cell carcinoma** from the urothelium. **Kidney stones** form in the pelvis or calyces and cause extreme pain when they move into the ureter.
 
 > **MICRO** — Start at the renal corpuscle: the **glomerulus** is a tuft of capillaries inside a capsule. Then compare tubules: **eosinophilic + brush border = proximal; pale + clean = distal; large pale cells in a row = collecting duct.** The **macula densa** is the patch of tall cells on the distal tubule facing the vascular pole.
 
 > **TIP** — The proximal tubule is the **most eosinophilic** structure in the renal cortex, packed with mitochondria for active transport. Students often call it "basophilic" because the brush border looks fuzzy — the cytoplasm is pink.
 
+### Chapter 19 — one-line answers
+
+- Kidney: 12 × 6 × 2.5 cm; **8–15 pyramids**; about **1.25 million nephrons**.
+- Lobe = pyramid + cortex; lobule = medullary ray + surrounding cortex.
+- Cortex receives **more than 10×** the blood flow of the medulla.
+- Afferent arteriole → glomerulus → **efferent arteriole** (not a venule), keeping glomerular pressure high.
+- About **20%** of entering plasma is filtered; GFR ≈ **125 mL/min ≈ 180 L/day**.
+- Filtration barrier = fenestrated endothelium + **GBM (type IV collagen, ~330 nm)** + slit diaphragms (nephrin, podocalyxin).
+- Mesangial cells are contractile and support the capillary tuft.
+- **PCT**: brush border, eosinophilic, reabsorbs all glucose and small proteins.
+- **TAL**: water-impermeable, reabsorbs NaCl, ends as the **macula densa**.
+- **JG cells** in the afferent arteriole secrete **renin**; macula densa senses NaCl.
+- Collecting duct: **principal cells** (aquaporins, ADH) and **intercalated cells** (type A H⁺, type B HCO₃⁻).
+- Urothelium: **umbrella cells** with uroplakin plaques; 5–7 layers empty, 2–3 layers full.
+- Bladder holds **400–600 mL**; urge at **150–200 mL**.
+- Male urethra: prostatic, membranous, penile; female urethra 3–5 cm — short, hence cystitis.
+
 ## 20 · Endocrine Glands
 
-**pp. 413–438** · Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
+**pp. 413–438** · Part 3, pages 191–217 (to the thyroid) · Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
 ### The core idea
 
@@ -64,7 +103,7 @@ Endocrine glands release hormone into the blood, so their histology is organized
 
 Two embryologically distinct parts in one sella turcica.
 
-**Adenohypophysis** (oral ectoderm — Rathke's pouch):
+**Adenohypophysis** (oral ectoderm — **Rathke's pouch**). The **pars distalis accounts for 75%** of the adenohypophysis and is covered by a thin fibrous capsule:
 
 | Region | Cells | Hormones |
 |---|---|---|
@@ -74,7 +113,9 @@ Two embryologically distinct parts in one sella turcica.
 | **Pars intermedia** | Basophils, colloid cysts | MSH (rudimentary in humans) |
 | **Pars tuberalis** | — | Wraps the infundibulum |
 
-**Neurohypophysis** (neuroectoderm): the **pars nervosa** stores **oxytocin and ADH** synthesised in the **supraoptic and paraventricular nuclei** of the hypothalamus and transported along axons. **Herring bodies** are dilatations of these axons containing hormone; **pituicytes** are the glial cells of the lobe.
+**Reading the stain.** Routine H&E divides the pars distalis into **acidophils** (pink), **basophils** (blue), and **chromophobes** (poorly stained, the least numerous). The modern names describe the hormone, not the color: **somatotrophs** (GH), **lactotrophs** (prolactin), **corticotrophs** (ACTH), **thyrotrophs** (TSH), and **gonadotrophs** (FSH, LH). Acidophils are the somatotrophs and lactotrophs; basophils are the corticotrophs, thyrotrophs, and gonadotrophs.
+
+**Neurohypophysis** (neuroectoderm): the **pars nervosa** stores **oxytocin and ADH (arginine vasopressin)** — both **9-amino-acid peptides** — synthesized in the **supraoptic and paraventricular nuclei** of the hypothalamus and carried down axons. In the axon terminals they are bound to **10-kDa carrier proteins, neurophysin I and II**, and accumulate in dilatations called **neurosecretory (Herring) bodies**, visible as faintly eosinophilic structures. **Pituicytes** are the glial cells of the lobe. The neurohypophysis **makes no hormone of its own** — it stores and releases hypothalamic hormones.
 
 **Control:** the hypothalamus releases **releasing and inhibiting hormones** into the **hypophyseal portal system**, carrying them directly to the pars distalis — which is why a tiny hypothalamic signal controls a large pituitary output.
 
@@ -84,16 +125,25 @@ Two glands in one organ, with entirely different embryology and function:
 
 | Region | Cells | Hormone | Control |
 |---|---|---|---|
-| **Zona glomerulosa** | Small clusters under the capsule | **Aldosterone** | **Angiotensin II, K⁺** |
+| **Zona glomerulosa** | Rounded or arched cords under the capsule, **~15% of the cortex** | **Aldosterone** | **Angiotensin II, K⁺** |
 | **Zona fasciculata** | Long cords of pale, foamy cells | **Cortisol** | **ACTH** |
 | **Zona reticularis** | Irregular cords, pigmented cells | **Androgens (DHEA)** | ACTH |
 | **Medulla** | **Chromaffin cells** (neural crest) | **Epinephrine, norepinephrine** | Sympathetic splanchnic nerve |
 
-The **fasciculata** is the thickest zone and its cells are pale and vacuolated because they are full of lipid and smooth ER for steroid synthesis. The **medulla** is functionally a sympathetic ganglion without axons. Mnemonic for the zones: **"GFR — Salt, Sugar, Sex"** from outside in.
+Each adrenal gland is a flattened half-moon about **4–6 cm long, 1–2 cm wide, and 4–6 mm thick**, weighing about **8 g** in total. The **fasciculata** is the **thickest** zone, and its cells are pale and vacuolated because they are full of **lipid droplets (cholesterol esters)**, **tubular mitochondrial cristae**, and **smooth ER** for steroid synthesis. The **medulla** is functionally a sympathetic ganglion without axons: **chromaffin cells** contain electron-dense granules **150–350 nm** in diameter, storing catecholamines with Ca²⁺, ATP, and **49-kDa chromogranins**. About **80%** of the catecholamine released is **epinephrine**. Mnemonic for the zones: **"GFR — Salt, Sugar, Sex"** from outside in.
 
 ### Pancreatic Islets
 
-Pale, round clusters between the acini of the exocrine pancreas (Chapter 16): **β (insulin, 60–70%), α (glucagon, 20–25%), δ (somatostatin), PP, ε (ghrelin)**. Islets are richly vascularized, and their hormones pass directly into the bloodstream rather than into ducts.
+Pale, round clusters between the acini of the exocrine pancreas (Chapter 16). The pancreas has **more than 1 million islets**, mostly in the tail, but they occupy only **1–2%** of the organ's volume. Most are **100–200 µm** in diameter and contain several hundred cells. The book recognizes **four major cell types**:
+
+| Cell | Product | Notes |
+|---|---|---|
+| **β (beta)** | **Insulin** | About **twice as abundant** as α cells; central in the islet |
+| **α (alpha)** | **Glucagon** | Peripheral |
+| **δ (delta)** | **Somatostatin** | Paracrine inhibition |
+| **PP** | Pancreatic polypeptide | — |
+
+Islets are richly vascularized, and their hormones pass directly into the bloodstream rather than into ducts.
 
 ### Diffuse Neuroendocrine System
 
@@ -101,10 +151,10 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 
 ### Thyroid Gland
 
-- **Follicles** of varying size filled with **colloid** (thyroglobulin), lined by simple cuboidal epithelium.
-- **Follicular cells** — synthesise T3 and T4. Activity is read from the epithelium: **active gland = tall columnar cells with scalloped colloid; inactive gland = flat cells with dense colloid.**
-- **Parafollicular (C) cells** — between follicles, paler and larger, of **neural crest** origin, secreting **calcitonin**.
-- **Folliculogenesis:** thyroglobulin is synthesised, iodinated at the apical surface, stored as colloid, taken back by endocytosis, and digested to release T3/T4.
+- **Follicles** of varying size filled with **colloid** (thyroglobulin), lined by a simple epithelium whose height ranges from **squamous to low columnar**.
+- **Thyrocytes (follicular cells)** — synthesize **T4 and T3**. Activity is read from the epithelium: **active gland = more follicles of tall columnar cells with scalloped colloid; hypoactive gland = squamous cells with dense colloid.**
+- **Parafollicular (C) cells** — large, pale cells in the follicular epithelium or between follicles, of **neural crest** origin, secreting **calcitonin**.
+- **Folliculogenesis:** thyroglobulin is synthesized, iodinated at the apical surface, stored as colloid, taken back by endocytosis, and digested to release T3/T4.
 
 ### Parathyroid Glands
 
@@ -121,6 +171,23 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 > **MICRO** — Three patterns, three organs. **Follicles of colloid = thyroid.** **Cords of pale foamy cells under a capsule = adrenal cortex; the medulla is paler and central.** **Small pale chief cells in dense cords = parathyroid.** Pituitary: **acidophils and basophils in sheets (anterior); pale fibrillary tissue without epithelial cells (posterior).**
 
 > **TIP** — The adrenal cortex has **three** zones and the medulla has **none** of the cortex's function. Catecholamines are **medullary**.
+
+### Chapter 20 — one-line answers
+
+- Pars distalis = **75%** of the adenohypophysis; acidophils, basophils, chromophobes.
+- Acidophils = somatotrophs (GH) and lactotrophs (prolactin); basophils = corticotrophs, thyrotrophs, gonadotrophs.
+- Hypothalamic releasing and inhibiting hormones reach the pars distalis through the **hypophyseal portal system**.
+- Neurohypophysis stores **oxytocin and ADH** made in the supraoptic and paraventricular nuclei.
+- ADH and oxytocin are **9-amino-acid peptides** carried by **neurophysin I and II**; Herring bodies are their axonal dilatations.
+- Pituicytes are the glial cells of the pars nervosa.
+- Adrenal cortex: glomerulosa (**aldosterone**) → fasciculata (**cortisol**) → reticularis (**androgens**).
+- Zona fasciculata is the **thickest** zone; glomerulosa is ~15% of the cortex.
+- Adrenal medulla = **chromaffin cells**, neural crest, **80% epinephrine**.
+- Pancreatic islets: **β insulin, α glucagon, δ somatostatin, PP pancreatic polypeptide**; β about twice as abundant as α.
+- Thyroid: follicles of **colloid (thyroglobulin)**; active epithelium is columnar with scalloped colloid, inactive is squamous.
+- **Parafollicular C cells** secrete **calcitonin**.
+- Parathyroid: **chief cells** (PTH) and **oxyphil cells** (function uncertain).
+- Pineal: **pinealocytes** and **corpora arenacea**; melatonin under sympathetic control.
 
 ## 21 · The Male Reproductive System
 
@@ -146,7 +213,7 @@ The testis does two jobs that require opposite conditions: **producing sperm**, 
 
 **Spermatogenesis:** **spermatogonia (type A dark/pale → type B) → primary spermatocyte → secondary spermatocyte → spermatid → spermatozoon.** **Meiosis I** halves the chromosome number and **meiosis II** separates chromatids, giving four spermatids per primary spermatocyte. **Spermiogenesis** is the metamorphosis into a sperm: **acrosome** from the Golgi, nuclear condensation, flagellum growth, shedding of residual cytoplasm. **Spermiation** releases the sperm into the lumen.
 
-Because the barrier makes the adluminal compartment immunologically privileged, sperm antigens are never tolerised — which is why vasectomy can produce anti-sperm antibodies.
+Because the barrier makes the adluminal compartment immunologically privileged, sperm antigens are never tolerized — which is why vasectomy can produce anti-sperm antibodies.
 
 **Leydig cells** — large, polygonal, **eosinophilic** cells with abundant SER and lipid droplets, sometimes containing **Reinke crystals**; they secrete **testosterone** under **LH** stimulation.
 
@@ -172,7 +239,7 @@ Because the barrier makes the adluminal compartment immunologically privileged, 
 
 Three erectile bodies: two **corpora cavernosa** and one **corpus spongiosum** containing the urethra. Each is a sponge of **endothelium-lined cavernous spaces** surrounded by smooth muscle and a **tunica albuginea**. Erection is a vascular event: parasympathetic nitric oxide dilates the helicine arteries, filling the spaces and compressing venous outflow.
 
-> **CLINICAL** — **Cryptorchidism** — an undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises; orchidopexy is performed early. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasises to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — germ-cell tumors in young men; a painless mass is malignant until proven otherwise.
+> **CLINICAL** — **Cryptorchidism** — an undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises; orchidopexy is performed early. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasizes to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — germ-cell tumors in young men; a painless mass is malignant until proven otherwise.
 
 > **MICRO** — Identify the two compartments instantly. **Inside the tubule: Sertoli cells (pale, tall) and germ cells at various stages.** **Outside the tubule: Leydig cells (eosinophilic, polygonal, in clusters).** If asked for the cell that forms the blood–testis barrier, the answer is Sertoli.
 
@@ -203,7 +270,7 @@ The ovary is the only adult structure that must **rebuild itself through a month
 | **Corpus luteum** | Granulosa-lutein cells (progesterone) and theca-lutein cells | LH maintains it |
 | **Corpus albicans** | White fibrous scar | — |
 
-**Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to produce androgens; **FSH** stimulates **granulosa** cells to aromatise them into **oestrogen**. This division of labour explains why both gonadotropins are needed for normal oestrogen production.
+**Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to produce androgens; **FSH** stimulates **granulosa** cells to aromatize them into **estrogen**. This division of labour explains why both gonadotropins are needed for normal estrogen production.
 
 ### Uterine Tubes
 
@@ -211,7 +278,7 @@ Four parts — **infundibulum with fimbriae, ampulla, isthmus, intramural portio
 
 ### Major Events of Fertilization
 
-Fertilisation normally occurs in the **ampulla**. The sperm penetrates the corona radiata and zona pellucida, the membranes fuse, the oocyte completes meiosis II, and the zygote forms. The zygote divides as it travels toward the uterus, reaching the blastocyst stage by the time it arrives — about five days.
+Fertilization normally occurs in the **ampulla**. The sperm penetrates the corona radiata and zona pellucida, the membranes fuse, the oocyte completes meiosis II, and the zygote forms. The zygote divides as it travels toward the uterus, reaching the blastocyst stage by the time it arrives — about five days.
 
 ### Uterus
 
@@ -221,7 +288,7 @@ Fertilisation normally occurs in the **ampulla**. The sperm penetrates the coron
 | Phase | Days | Hormone | Histology |
 |---|---|---|---|
 | **Menstrual** | 1–4 | Falling progesterone | Shedding, hemorrhage, neutrophilic infiltrate |
-| **Proliferative** | 5–14 | **Oestrogen** | Glands straight and narrow, mitoses, dense stroma |
+| **Proliferative** | 5–14 | **Estrogen** | Glands straight and narrow, mitoses, dense stroma |
 | **Secretory** | 15–28 | **Progesterone** | Glands **tortuous and dilated with secretion**, oedematous stroma, coiled spiral arteries |
 
 The single best discriminator: **straight, narrow glands = proliferative; saw-toothed, dilated, secreting glands = secretory.**
@@ -232,7 +299,7 @@ The blastocyst implants around day 6–7. The **trophoblast** differentiates int
 
 **Decidua** — the modified endometrium of pregnancy: **decidua basalis** (under the embryo, forms the maternal placenta), **decidua capsularis** (over it), **decidua parietalis** (the rest).
 
-**Placental hormones:** **hCG** (maintains the corpus luteum early; the basis of pregnancy tests), **human placental lactogen**, progesterone, and oestrogen.
+**Placental hormones:** **hCG** (maintains the corpus luteum early; the basis of pregnancy tests), **human placental lactogen**, progesterone, and estrogen.
 
 ### Cervix
 
@@ -240,7 +307,7 @@ Endocervical canal lined by **simple columnar mucus-secreting** cells; the ectoc
 
 ### Vagina
 
-**Stratified squamous non-keratinised** epithelium rich in **glycogen**, no glands (lubrication comes from cervical and Bartholin glands), and a lamina propria with elastic fibers and venous plexuses. **Lactobacillus** metabolises glycogen to lactic acid, maintaining an acidic pH.
+**Stratified squamous non-keratinized** epithelium rich in **glycogen**, no glands (lubrication comes from cervical and Bartholin glands), and a lamina propria with elastic fibers and venous plexuses. **Lactobacillus** metabolises glycogen to lactic acid, maintaining an acidic pH.
 
 ### External Genitalia
 
@@ -250,15 +317,31 @@ The **vulva**: the **labia majora** (skin with hair and sebaceous glands, contai
 
 A modified **apocrine sweat gland**. In the non-lactating state the gland is mostly **dense connective tissue and adipose tissue with small ducts**; during pregnancy lobules proliferate; during lactation **alveoli are distended with secretion**. The **lactiferous ducts** converge on the nipple, with **lactiferous sinuses** beneath it.
 
-Hormonal control: **oestrogen** for ductal growth, **progesterone** for lobuloalveolar development, **prolactin** for milk synthesis, **oxytocin** for milk ejection.
+Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalveolar development, **prolactin** for milk synthesis, **oxytocin** for milk ejection.
 
-> **CLINICAL** — **Polycystic ovary syndrome** — multiple arrested antral follicles, anovulation, hyperandrogenism. **Endometriosis** — functional endometrial tissue outside the uterus, bleeding cyclically. **Leiomyoma (fibroid)** — a benign smooth-muscle tumor of the myometrium. **Endometrial carcinoma** — unopposed oestrogen, with atypical hyperplasia. **Cervical carcinoma** — HPV in the transformation zone. **Ectopic pregnancy** — implantation outside the uterine cavity, usually in the ampulla. **Breast carcinoma** — arises from ductal or lobular epithelium; the **terminal duct lobular unit** is the functional unit to remember.
+> **CLINICAL** — **Polycystic ovary syndrome** — multiple arrested antral follicles, anovulation, hyperandrogenism. **Endometriosis** — functional endometrial tissue outside the uterus, bleeding cyclically. **Leiomyoma (fibroid)** — a benign smooth-muscle tumor of the myometrium. **Endometrial carcinoma** — unopposed estrogen, with atypical hyperplasia. **Cervical carcinoma** — HPV in the transformation zone. **Ectopic pregnancy** — implantation outside the uterine cavity, usually in the ampulla. **Breast carcinoma** — arises from ductal or lobular epithelium; the **terminal duct lobular unit** is the functional unit to remember.
 
-> **MICRO** — Place the ovary in the cycle by the **dominant structure**: many small primordial follicles = inactive/early; a large antral follicle = late follicular; a corpus luteum with folded, pale, luteinised cells = secretory phase; a hyaline scar = post-ovulatory. In the uterus, look at the **glands**, not the stroma.
+> **MICRO** — Place the ovary in the cycle by the **dominant structure**: many small primordial follicles = inactive/early; a large antral follicle = late follicular; a corpus luteum with folded, pale, luteinized cells = secretory phase; a hyaline scar = post-ovulatory. In the uterus, look at the **glands**, not the stroma.
 
 > **MNEMONIC** — **"Proliferative = Pencil-thin glands; Secretory = Saw-tooth and swollen."**
 
-> **TIP** — The corpus luteum secretes **progesterone**, and it is maintained by **LH** (and, in pregnancy, by **hCG**). Do not say oestrogen maintains the corpus luteum.
+> **TIP** — The corpus luteum secretes **progesterone**, and it is maintained by **LH** (and, in pregnancy, by **hCG**). Do not say estrogen maintains the corpus luteum.
+
+### Chapter 22 — one-line answers
+
+- Ovary has three regions: cortex with follicles, medulla with vessels, and a surface of **germinal epithelium** over a tunica albuginea.
+- Follicle sequence: primordial → primary → secondary (antral) → mature (Graafian) → ovulation.
+- **Zona pellucida** = glycoprotein coat around the oocyte; **corona radiata** = granulosa cells carried with it at ovulation.
+- **Theca interna** makes androgens; **granulosa cells** aromatize them to estrogen under FSH.
+- **Cumulus oophorus** = granulosa mound carrying the oocyte into the antrum.
+- After ovulation: **corpus luteum** (progesterone) → **corpus albicans** (hyaline scar).
+- Uterine tube: **infundibulum with fimbriae → ampulla → isthmus**; fertilization in the ampulla.
+- Endometrium has a **functional layer** that sheds and a **basal layer** that regenerates it.
+- Proliferative phase = estrogen, straight narrow glands, mitoses; secretory phase = progesterone, saw-toothed glands, edema.
+- Menstrual phase = spiral artery constriction and functionalis shedding.
+- Cervix: columnar endocervix, stratified squamous ectocervix, squamocolumnar junction = transformation zone.
+- Vagina = stratified squamous nonkeratinized epithelium with glycogen, no glands; acidity comes from lactobacilli.
+- Mammary gland: **TDLU** is the functional unit; estrogen drives ducts, progesterone drives lobuloalveolar growth, prolactin drives milk synthesis.
 
 ## 23 · The Eye & Ear: Special Sense Organs
 
@@ -280,7 +363,7 @@ Both organs convert a physical signal into a nerve impulse through a **specializ
 
 **The cornea has five layers**, and the order is a standard question:
 
-1. **Corneal epithelium** — stratified squamous, non-keratinised.
+1. **Corneal epithelium** — stratified squamous, non-keratinized.
 2. **Bowman's membrane** — acellular collagen.
 3. **Stroma** — regular lamellae of type I collagen and keratocytes; **avascular**.
 4. **Descemet's membrane** — thick basal lamina.
@@ -322,7 +405,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 
 **Endolymph** (high K⁺) fills the membranous labyrinth; **perilymph** (high Na⁺) fills the bony labyrinth. The ionic difference is the battery that drives transduction.
 
-> **CLINICAL** — **Glaucoma** — raised intraocular pressure from impaired drainage through the trabecular meshwork, damaging the optic nerve. **Cataract** — lens opacity from crystallin denaturation. **Age-related macular degeneration** — degeneration of the RPE and photoreceptors at the macula. **Retinal detachment** — separation of the neural retina from the RPE, which starves the photoreceptors. **Diabetic retinopathy** — microvascular damage with hemorrhage and neovascularisation. **Otosclerosis** — ossification of the stapes footplate, producing conductive deafness. **Presbycusis** — age-related loss of hair cells and neurons. **Ménière disease** — endolymphatic hydrops with vertigo, tinnitus, and fluctuating deafness.
+> **CLINICAL** — **Glaucoma** — raised intraocular pressure from impaired drainage through the trabecular meshwork, damaging the optic nerve. **Cataract** — lens opacity from crystallin denaturation. **Age-related macular degeneration** — degeneration of the RPE and photoreceptors at the macula. **Retinal detachment** — separation of the neural retina from the RPE, which starves the photoreceptors. **Diabetic retinopathy** — microvascular damage with hemorrhage and neovascularization. **Otosclerosis** — ossification of the stapes footplate, producing conductive deafness. **Presbycusis** — age-related loss of hair cells and neurons. **Ménière disease** — endolymphatic hydrops with vertigo, tinnitus, and fluctuating deafness.
 
 > **MICRO** — The **cornea** is identified by five layers and a regular, avascular stroma. The **retina** by its ten layers with a pigmented layer at the outer border and ganglion cells at the inner border. The **organ of Corti** by the tunnel of Corti between inner and outer hair cells on the basilar membrane, with the tectorial membrane above.
 

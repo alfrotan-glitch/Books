@@ -46,8 +46,8 @@ PAPER    = colors.HexColor("#FFFFFF")
 
 PART_DESC = {
     "PART I":   "Chapters 1–3  ·  microscopy, the cytoplasm, and the nucleus",
-    "PART II":  "Chapters 4–10  ·  the four basic tissues and their specialisations",
-    "PART III": "Chapters 11–14  ·  circulation, blood, haemopoiesis, and immunity",
+    "PART II":  "Chapters 4–10  ·  the four basic tissues and their specializations",
+    "PART III": "Chapters 11–14  ·  circulation, blood, hemopoiesis, and immunity",
     "PART IV":  "Chapters 15–18  ·  gut, liver, pancreas, lung, and skin",
     "PART V":   "Chapters 19–23  ·  kidney, endocrine glands, and the reproductive systems",
     "PART VI":  "Chapter 24, the master tables, and the reference appendices",

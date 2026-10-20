@@ -46,6 +46,21 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 > **TIP** — Two marks are lost repeatedly: **hyaline cartilage contains type II collagen, not type I**, and **fibrocartilage has no perichondrium**, which is why disc injuries persist.
 
+### Chapter 7 — one-line answers
+
+- Cartilage = chondrocytes in lacunae + solid matrix; no blood vessels, no nerves.
+- Hyaline cartilage = **type II collagen** + aggrecan; glassy; perichondrium present except at articular surfaces.
+- Elastic cartilage = type II collagen + **elastic fibers**; perichondrium present; epiglottis, auricle, auditory tube.
+- Fibrocartilage = **type I + type II collagen**, rows of chondrocytes, **no perichondrium**; discs, menisci, pubic symphysis.
+- Territorial matrix surrounds each lacuna; interterritorial matrix lies between groups.
+- Isogenous groups = daughter cells from recent division, still in one lacuna.
+- Appositional growth = from perichondrium, adds width.
+- Interstitial growth = division inside lacunae, adds length, young cartilage only.
+- Articular cartilage is hyaline **without perichondrium** and heals poorly.
+- Cartilage repair fills with fibrocartilage, not hyaline.
+- Osteoarthritis = matrix failure; rheumatoid arthritis = synovial inflammation with pannus.
+- Chondroblasts make matrix; chondrocytes maintain it.
+
 ## 8 · Bone
 
 **pp. 138–160** · Part 2, pages 3–36 · Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
@@ -59,7 +74,7 @@ Bone is the main constituent of the adult skeleton: it gives **solid support**, 
 | Cell | Origin | Function | Marker / feature |
 |---|---|---|---|
 | **Osteoprogenitor** | Mesenchyme | Divide and differentiate into osteoblasts | Periosteum (inner layer), endosteum |
-| **Osteoblast** | Osteoprogenitor (periosteum, endosteum) | Secrete **osteoid**, rich in **type I collagen** plus proteoglycans; mineralise it; regulate osteoclasts via **RANKL** | Cuboidal, basophilic, cover existing bone surfaces; **alkaline phosphatase** high |
+| **Osteoblast** | Osteoprogenitor (periosteum, endosteum) | Secrete **osteoid**, rich in **type I collagen** plus proteoglycans; mineralize it; regulate osteoclasts via **RANKL** | Cuboidal, basophilic, cover existing bone surfaces; **alkaline phosphatase** high |
 | **Osteocyte** | Osteoblast that becomes embedded | Maintain matrix; sense mechanical load | In **lacunae**, connected by **canaliculi** via gap junctions |
 | **Osteoclast** | **Monocyte/macrophage lineage** | **Resorb bone** | Large, multinucleated, **ruffled border**, resorption bay (**Howship lacuna**); **TRAP**, carbonic anhydrase II, H⁺-ATPase |
 
@@ -67,7 +82,7 @@ As osteoid calcifies and hardens it **entraps some osteoblasts**, which then dif
 
 **The osteoclast is the exception examiners always test.** Every other bone cell is mesenchymal; the osteoclast is **monocyte-derived** and is the cell required for bone remodeling. It dissolves mineral by pumping H⁺ and digests collagen with cathepsin K.
 
-**The RANK–RANKL–OPG axis:** osteoblasts express **RANKL**, which binds **RANK** on osteoclast precursors and drives differentiation; they also secrete **osteoprotegerin (OPG)**, a decoy receptor that blocks RANKL. **PTH** shifts the balance toward resorption; **oestrogen** suppresses it.
+**The RANK–RANKL–OPG axis:** osteoblasts express **RANKL**, which binds **RANK** on osteoclast precursors and drives differentiation; they also secrete **osteoprotegerin (OPG)**, a decoy receptor that blocks RANKL. **PTH** shifts the balance toward resorption; **estrogen** suppresses it.
 
 ### Bone Matrix
 
@@ -86,7 +101,7 @@ Remove the mineral and bone becomes flexible; remove the collagen and it becomes
 
 **Spongy (cancellous)** bone — a network of **trabeculae** with marrow between them, oriented along lines of mechanical stress. No true osteons.
 
-**Woven versus lamellar.** Woven bone is disorganised and produced rapidly in the fetus, fracture callus, and disease (Paget, osteosarcoma). Lamellar bone is ordered and mechanically superior; adult bone is lamellar but always being remodelled through **basic multicellular units (BMUs)**.
+**Woven versus lamellar.** Woven bone is disorganized and produced rapidly in the fetus, fracture callus, and disease (Paget, osteosarcoma). Lamellar bone is ordered and mechanically superior; adult bone is lamellar but always being remodelled through **basic multicellular units (BMUs)**.
 
 ### Osteogenesis
 
@@ -106,7 +121,7 @@ Growth in **width** is **appositional**, by periosteal osteoblasts. The **primar
 
 ### Bone Remodeling & Repair
 
-Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilisation and blood supply decide the outcome. **Wolff law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
+Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilization and blood supply decide the outcome. **Wolff law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
 
 ### Metabolic Role of Bone
 
@@ -126,7 +141,7 @@ Bone is the body's calcium and phosphate reservoir.
 
 **Synovial joints (diarthroses)** — a joint cavity between **hyaline articular cartilage** on each bone, enclosed by a **capsule** of dense connective tissue lined by **synovial membrane**, which secretes **synovial fluid** for lubrication and nutrition of the avascular cartilage. Some joints add a **meniscus** (fibrocartilage), a **labrum**, or a **fat pad**. Because articular cartilage has no perichondrium and no vessels, it heals hardly at all — the anatomical basis of degenerative joint disease.
 
-> **CLINICAL** — Six to learn as a set. **Osteoporosis** — reduced bone mass with normal mineralisation; oestrogen deficiency drives it, trabeculae are lost first, fragility fractures follow. **Rickets/osteomalacia** — unmineralised osteoid; in children the growth plate widens and deforms (rachitic rosary, bowed legs). **Paget disease** — chaotic excessive remodelling with mosaic woven bone. **Osteopetrosis** — osteoclast failure, dense but brittle bone with a crowded marrow cavity. **Achondroplasia** — failure of chondrocyte proliferation in the plate, short limbs with normal trunk. **Osteogenesis imperfecta** — defective type I collagen, brittle bones, blue sclerae.
+> **CLINICAL** — Six to learn as a set. **Osteoporosis** — reduced bone mass with normal mineralization; estrogen deficiency drives it, trabeculae are lost first, fragility fractures follow. **Rickets/osteomalacia** — unmineralized osteoid; in children the growth plate widens and deforms (rachitic rosary, bowed legs). **Paget disease** — chaotic excessive remodelling with mosaic woven bone. **Osteopetrosis** — osteoclast failure, dense but brittle bone with a crowded marrow cavity. **Achondroplasia** — failure of chondrocyte proliferation in the plate, short limbs with normal trunk. **Osteogenesis imperfecta** — defective type I collagen, brittle bones, blue sclerae.
 
 > **MICRO** — On a ground section, **concentric lamellae around a central canal** = an osteon = compact bone. On a decalcified H&E section, osteoblasts are the row of cuboidal cells on the surface and osteocytes sit in lacunae. A **multinucleated cell in a scalloped pit** is an osteoclast resorbing.
 
@@ -140,7 +155,7 @@ Bone is the body's calcium and phosphate reservoir.
 
 ### The core idea
 
-Nervous tissue is built for **rapid signalling over distance**. The neuron is a polarised cell with a receiving end (dendrites and soma), a conducting cable (axon), and a transmitting end (synapse). Everything else — myelin, glia, barriers — exists to make that signalling faster, safer, and better supplied.
+Nervous tissue is built for **rapid signaling over distance**. The neuron is a polarized cell with a receiving end (dendrites and soma), a conducting cable (axon), and a transmitting end (synapse). Everything else — myelin, glia, barriers — exists to make that signaling faster, safer, and better supplied.
 
 ### Development of Nerve Tissue
 
@@ -201,11 +216,11 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 
 ### The core idea
 
-Muscle tissue consists of cells that optimise the universal cell property of **contractility**. Essentially **all muscle cells originate from embryonic mesoderm** and differentiate by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**. All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
+Muscle tissue consists of cells that optimize the universal cell property of **contractility**. Essentially **all muscle cells originate from embryonic mesoderm** and differentiate by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**. All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
 
 ### Skeletal Muscle
 
-**Organisation, large to small:** muscle → fascicles → fibers → myofibrils → myofilaments. Each fiber is a long, cylindrical, **multinucleated** syncytium with **peripheral nuclei**, produced by fusion of myoblasts. Satellite cells persist beneath the basal lamina and mediate limited regeneration.
+**Organization, large to small:** muscle → fascicles → fibers → myofibrils → myofilaments. Each fiber is a long, cylindrical, **multinucleated** syncytium with **peripheral nuclei**, produced by fusion of myoblasts. Satellite cells persist beneath the basal lamina and mediate limited regeneration.
 
 **The sarcomere**, bounded by two **Z lines**:
 
@@ -219,7 +234,7 @@ Muscle tissue consists of cells that optimise the universal cell property of **c
 
 **Sliding filament mechanism:** myosin heads bind actin, hydrolyse ATP, and pivot, pulling thin filaments toward the M line. **The A band never changes length.**
 
-**Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarisation spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fiber. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
+**Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarization spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fiber. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
 
 **Innervation.** The **motor end plate** — acetylcholine binds nicotinic receptors, depolarises the sarcolemma, and triggers contraction. One motor neuron plus all the fibers it supplies is a **motor unit**.
 
@@ -273,3 +288,19 @@ Skeletal muscle regenerates weakly, from **satellite cells**, and only if the ba
 > **MNEMONIC** — **"Skeletal = Surface nuclei. Cardiac = Central nucleus, Cross-striations, interCalated discs. Smooth = Spindle, Single central nucleus, no Striations."**
 
 > **TIP** — The A band does not shorten. This is asked more often than any other muscle fact: I and H shorten, A stays constant, Z lines approach.
+
+### Chapter 10 — one-line answers
+
+- Skeletal muscle: long cylinders, **many peripheral nuclei**, triads at the **A–I junction**.
+- Cardiac muscle: branched cells, **one or two central nuclei**, **intercalated discs**, diads at the **Z line**.
+- Smooth muscle: spindle cells, **one central nucleus**, no striations, no T-tubules (caveolae).
+- Sarcomere = Z line to Z line; **A band constant**, I band and H zone shorten.
+- Thin filament = actin + troponin + tropomyosin; thick filament = myosin.
+- Ca²⁺ binds **troponin C** in striated muscle and **calmodulin** in smooth muscle.
+- Smooth muscle contraction uses **myosin light-chain kinase**; it has no troponin.
+- Intercalated discs contain **fasciae adherentes, desmosomes, and gap junctions** — not tight junctions.
+- Skeletal muscle regenerates from **satellite cells**, and only if the basal lamina survives.
+- Cardiac muscle does not regenerate; infarction heals by scar.
+- Type I fibers = slow, oxidative, fatigue-resistant. Type II = fast, glycolytic.
+- Duchenne dystrophy = **dystrophin** defect; myasthenia gravis = antibody to the nicotinic receptor.
+- Muscle spindle = stretch receptor; Golgi tendon organ = tension receptor.
