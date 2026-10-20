@@ -118,7 +118,7 @@ Platelet diameter (2–4 µm), Table 12–1 plasma shares, thin ascending limb a
 | PDF page count | pypdfium2 | **PASS** — 142 |
 | Blank or near-blank pages | every page's extracted text < 80 characters | **PASS** — none |
 | Text outside the type area | every 7th glyph's bounding box against a 18 pt margin | **PASS** — 0 pages out of bounds |
-| Page-number sequence | footer band of every page | **PASS** — page numbers run 4–142 without a gap (front matter unnumbered by design) |
+| Page numbers | visual check of the six rendered pages plus the Contents cross-check | **PASS on those pages** — folios match the page index; not machine-verified on all 142 pages |
 | Contents accuracy | every chapter entry matched to the page where its heading and "Book pages" line occur | **PASS** — 23/23 chapters; Chapter 24 at p115 confirmed |
 | Table integrity (source) | every pipe-table row compared with its header count | **PASS** — 0 mismatches |
 | Table rendering (PDF) | visual check of representative table pages (pp. 72, 91, 120, 126) | **PASS** — no clipped cells, no overflow |
