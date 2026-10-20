@@ -97,7 +97,6 @@ def main():
             "--metadata", "rights=" + RIGHTS,
             "--metadata", "lang=en-US",
             "--metadata", "date=2026",
-            "--metadata", "publisher=Independent",
         ],
     )
     print("EPUB written:", OUT)
