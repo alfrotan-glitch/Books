@@ -156,11 +156,13 @@ On clotting, some proteins are consumed and others are released from platelets, 
 
 | Cell | % of WBC | Size | Nucleus | Cytoplasm | Main function |
 |---|---|---|---|---|---|
-| **Neutrophil** | **60–70%** | 10–14 µm | **3–5 lobes**, dense | Pale; fine granules | **Phagocytosis of bacteria**; the acute responder |
-| **Eosinophil** | **2–4%** | 10–14 µm | **Bilobed** | **Bright orange-red** granules | **Parasites and allergy**; major basic protein |
-| **Basophil** | **0.5–1%** | 10–14 µm | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
-| **Lymphocyte** | **20–30%** | 7–12 µm | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
+| **Neutrophil** | **60–70%** | **12–15 µm** | **3–5 lobes**, dense | Pale; fine granules | **Phagocytosis of bacteria**; the acute responder |
+| **Eosinophil** | **1–4%** | **12–15 µm** (neutrophil-sized or slightly larger) | **Bilobed** | **Bright orange-red** granules | **Parasites and allergy**; major basic protein |
+| **Basophil** | **0.5–1%** | **12–15 µm** | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
+| **Lymphocyte** | **about one-third** | **6–15 µm** (small, medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
 | **Monocyte** | **3–8%** | **14–20 µm** (largest) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
+
+Granulocyte diameters are the chapter's own figures (12–15 µm); the lymphocyte and monocyte ranges are standard reference values.
 
 **Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
