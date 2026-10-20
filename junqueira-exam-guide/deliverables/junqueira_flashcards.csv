@@ -4,15 +4,6 @@ What does formalin do to a tissue?,"Cross-links proteins, preserving structure w
 What does PAS demonstrate?,"Carbohydrates, glycogen, and glycoprotein-rich structures such as basement membranes.",Junqueira::Ch01 recall,basic
 Light microscope versus electron microscope resolution?,About 0.2 µm versus about 0.2 nm — a thousand-fold difference.,Junqueira::Ch01 recall,basic
 Why is a 5-µm section dangerous to interpret in one glance?,"It samples a single plane; a tube can look like a ring, a sphere like a circle, and a fold like a septum.",Junqueira::Ch01 recall,basic
-Ch 1: H&E?,"the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).",Junqueira::Ch01 facts,basic
-Ch 1 · Basophilic — Meaning in the book?,"Anionic (net negative) components with affinity for basic dyes — nucleic acids, glycosaminoglycans",Junqueira::Ch01 tables,basic
-Ch 1 · Basophilic — Examples?,"Toluidine blue, alcian blue, methylene blue, hematoxylin",Junqueira::Ch01 tables,basic
-Ch 1 · Acidophilic — Meaning in the book?,"Cationic components with many ionised amino groups, staining with acidic dyes — mitochondria, secretory granules, collagen",Junqueira::Ch01 tables,basic
-Ch 1 · Acidophilic — Examples?,"Eosin, orange G, acid fuchsin",Junqueira::Ch01 tables,basic
-Ch 1 · H&E — Nuclei?,Blue-purple (hematoxylin),Junqueira::Ch01 tables,basic
-Ch 1 · H&E — Cytoplasm?,Pink (eosin),Junqueira::Ch01 tables,basic
-Ch 1 · H&E — Collagen / other?,Collagen pink,Junqueira::Ch01 tables,basic
-Ch 1 · H&E — Where you meet it?,Almost every chapter,Junqueira::Ch01 tables,basic
 Ch 1 · PT (pararosaniline–toluidine blue) — Nuclei?,Purple chromatin,Junqueira::Ch01 tables,basic
 Ch 1 · PT (pararosaniline–toluidine blue) — Cytoplasm?,Lighter violet,Junqueira::Ch01 tables,basic
 Ch 1 · PT (pararosaniline–toluidine blue) — Collagen / other?,Collagen pale violet,Junqueira::Ch01 tables,basic
@@ -25,27 +16,12 @@ Ch 1 · Picrosirius–hematoxylin (PSH) — Nuclei?,Purple,Junqueira::Ch01 table
 Ch 1 · Picrosirius–hematoxylin (PSH) — Cytoplasm?,Pink-violet,Junqueira::Ch01 tables,basic
 Ch 1 · Picrosirius–hematoxylin (PSH) — Collagen / other?,"Collagen red, birefringent under polarized light",Junqueira::Ch01 tables,basic
 Ch 1 · Picrosirius–hematoxylin (PSH) — Where you meet it?,"Ovary, cartilage, tendon",Junqueira::Ch01 tables,basic
-Ch 1 · PAS — Cytoplasm?,Magenta where carbohydrate is abundant,Junqueira::Ch01 tables,basic
-Ch 1 · PAS — Collagen / other?,"Glycogen, mucin, basement membrane, glycocalyx",Junqueira::Ch01 tables,basic
-Ch 1 · PAS — Where you meet it?,"Gut, kidney, cartilage",Junqueira::Ch01 tables,basic
-Ch 1 · Wright–Giemsa — Nuclei?,Purple,Junqueira::Ch01 tables,basic
-Ch 1 · Wright–Giemsa — Cytoplasm?,Granules colour differentially,Junqueira::Ch01 tables,basic
-Ch 1 · Wright–Giemsa — Collagen / other?,Erythrocytes pink,Junqueira::Ch01 tables,basic
-Ch 1 · Wright–Giemsa — Where you meet it?,Blood and marrow smears,Junqueira::Ch01 tables,basic
 Ch 1 · Silver / gold — Collagen / other?,Nerve filaments and reticulin (type III) black-brown,Junqueira::Ch01 tables,basic
 Ch 1 · Silver / gold — Where you meet it?,"Nervous tissue, lymphoid organs",Junqueira::Ch01 tables,basic
 "Ch 1 · Elastin stains (Weigert, aldehyde fuchsin, orcein) — Collagen / other?",Elastic fibers brown-purple,Junqueira::Ch01 tables,basic
 "Ch 1 · Elastin stains (Weigert, aldehyde fuchsin, orcein) — Where you meet it?","Aorta, lung, skin",Junqueira::Ch01 tables,basic
 "Ch 1 · Lipid stains (oil red O, Sudan black, osmium tetroxide) — Collagen / other?",Lipid droplets and myelin,Junqueira::Ch01 tables,basic
 "Ch 1 · Lipid stains (oil red O, Sudan black, osmium tetroxide) — Where you meet it?","Adipose tissue, steroid cells, nerve",Junqueira::Ch01 tables,basic
-Ch 1 · Fluorescence — Principle?,Fluorophores emit longer-wavelength light when irradiated; bright on a dark background,Junqueira::Ch01 tables,basic
-Ch 1 · Fluorescence — Use?,"DAPI and Hoechst bind DNA (blue); acridine orange binds DNA and RNA and emits different colors, localizing them separately; fluorescein-coupled probes and labeled antibodies",Junqueira::Ch01 tables,basic
-Ch 1 · Phase-contrast — Principle?,"Light changes speed through structures of different refractive index, producing contrast in transparent objects",Junqueira::Ch01 tables,basic
-Ch 1 · Phase-contrast — Use?,"Living, unstained cultured cells; DIC (Nomarski optics) gives a more three-dimensional image",Junqueira::Ch01 tables,basic
-Ch 1 · Confocal — Principle?,A laser point source and a pinhole aperture optically conjugated to the focal plane block out-of-focus light; the beam scans the specimen,Junqueira::Ch01 tables,basic
-Ch 1 · Confocal — Use?,"Thin optical sections, localization with great precision, and 3-D reconstruction",Junqueira::Ch01 tables,basic
-Ch 1 · Polarizing — Principle?,A polarizing filter passes light vibrating in one direction; oriented macromolecules rotate it and appear bright against a dark background — birefringence,Junqueira::Ch01 tables,basic
-Ch 1 · Polarizing — Use?,"Collagen, cellulose, microtubules, actin filaments; only material with repetitive periodic structure is seen",Junqueira::Ch01 tables,basic
 Ch 1 · Direct IHC — How it works?,A labeled primary antibody binds the antigen directly,Junqueira::Ch01 tables,basic
 Ch 1 · Direct IHC — Why it is used?,"Simple, fewer steps",Junqueira::Ch01 tables,basic
 Ch 1 · Indirect IHC — How it works?,An unlabelled primary antibody is detected by labeled secondary antibodies,Junqueira::Ch01 tables,basic
@@ -57,82 +33,23 @@ Why is the Golgi described as polarized?,"Cis face receives, medial cisternae mo
 What ultrastructural feature identifies a cell that secretes steroid hormone?,"Abundant smooth ER and lipid droplets, with mitochondria that have tubular cristae.",Junqueira::Ch02 recall,basic
 Ch 2 · Integral (transmembrane) — Position?,Span the bilayer,Junqueira::Ch02 tables,basic
 Ch 2 · Integral (transmembrane) — Function?,"Channels, pumps, receptors, adhesion",Junqueira::Ch02 tables,basic
-Ch 2 · Peripheral — Position?,Attached to one face,Junqueira::Ch02 tables,basic
-Ch 2 · Peripheral — Function?,"Signaling, cytoskeletal anchoring, enzymes",Junqueira::Ch02 tables,basic
-Ch 2 · Microfilament — Diameter?,6–8 nm,Junqueira::Ch02 tables,basic
-Ch 2 · Microfilament — Protein?,Actin,Junqueira::Ch02 tables,basic
-Ch 2 · Microfilament — Main roles?,"Microvilli core, cell cortex, stress fibers, cleavage furrow, muscle contraction",Junqueira::Ch02 tables,basic
 Ch 2 · Intermediate filament — Diameter?,10 nm,Junqueira::Ch02 tables,basic
 Ch 2 · Intermediate filament — Protein?,"Keratin, vimentin, desmin, GFAP, neurofilament, lamin",Junqueira::Ch02 tables,basic
 Ch 2 · Intermediate filament — Main roles?,Mechanical strength; tissue-specific identity,Junqueira::Ch02 tables,basic
-Ch 2 · Microtubule — Diameter?,25 nm,Junqueira::Ch02 tables,basic
-Ch 2 · Microtubule — Protein?,Tubulin (α/β dimer),Junqueira::Ch02 tables,basic
-Ch 2 · Microtubule — Main roles?,"Spindle, cilia and flagella, intracellular transport",Junqueira::Ch02 tables,basic
 What is a nucleosome?,"About 150 bp of DNA wrapped around an octamer of histones (two each of H2A, H2B, H3, H4), with H1 on the outside.",Junqueira::Ch03 recall,basic
 Heterochromatin versus euchromatin?,Heterochromatin is condensed and transcriptionally silent; euchromatin is dispersed and active.,Junqueira::Ch03 recall,basic
 What is a Barr body?,"The facultatively heterochromatic, inactivated X chromosome in a female somatic cell.",Junqueira::Ch03 recall,basic
 "Which checkpoint does p53 guard, and what happens if repair fails?",The G1 checkpoint; p53 triggers apoptosis if the DNA cannot be repaired.,Junqueira::Ch03 recall,basic
 Name two ways apoptosis differs from necrosis.,"Apoptosis is ATP-dependent, shrinks the cell, keeps the membrane intact, and causes no inflammation; necrosis is passive, swells and ruptures the cell, and inflames the tissue.",Junqueira::Ch03 recall,basic
-Ch 3: Nuclear lamina?,lamins; lamin A mutation = progeria.,Junqueira::Ch03 facts,basic
-Ch 3: Nuclear envelope?,"two membranes + perinuclear cisterna, continuous with rough ER.",Junqueira::Ch03 facts,basic
-Ch 3: Nuclear pores?,"3,000–4,000 per nucleus; importins and exportins, Ran-GTP gradient.",Junqueira::Ch03 facts,basic
-Ch 3: Nucleosome?,eight histones + about 150 bp of DNA; H1 sits outside; 10-nm beads on a string.,Junqueira::Ch03 facts,basic
-Ch 3: Heterochromatin?,condensed and silent; euchromatin = dispersed and active.,Junqueira::Ch03 facts,basic
-Ch 3: Barr body?,facultative heterochromatin of one inactivated X chromosome.,Junqueira::Ch03 facts,basic
-Ch 3: Nucleolus?,"rRNA synthesis and ribosome assembly; NORs on 13, 14, 15, 21, 22.",Junqueira::Ch03 facts,basic
-Ch 3: Cell cycle?,G1 → S → G2 → M; DNA replicates in S.,Junqueira::Ch03 facts,basic
-Ch 3: p53?,G1 checkpoint and apoptosis; mutated in most cancers.,Junqueira::Ch03 facts,basic
-Ch 3: Mitosis order?,"prophase, metaphase, anaphase, telophase; actin ring divides the cell.",Junqueira::Ch03 facts,basic
-Ch 3: Meiosis?,"four haploid cells, crossing over in pachytene, held by the synaptonemal complex.",Junqueira::Ch03 facts,basic
-Ch 3: Non-disjunction?,"aneuploid gametes, the mechanism of trisomy 21.",Junqueira::Ch03 facts,basic
-Ch 3: Apoptosis?,"caspases, cytochrome c, Bcl-2 family, apoptotic bodies, no inflammation.",Junqueira::Ch03 facts,basic
-Ch 3: Necrosis?,"swelling, membrane rupture, inflammation.",Junqueira::Ch03 facts,basic
-Ch 3 · G1 — What happens?,"Cell grows, checks nutrients and DNA integrity; restriction point",Junqueira::Ch03 tables,basic
-Ch 3 · G1 — Duration (typical cycling cell)?,~10 h,Junqueira::Ch03 tables,basic
-Ch 3 · S — What happens?,DNA replication; histones synthesized,Junqueira::Ch03 tables,basic
-Ch 3 · S — Duration (typical cycling cell)?,~8 h,Junqueira::Ch03 tables,basic
-Ch 3 · G2 — What happens?,"Repair check, prepare for mitosis",Junqueira::Ch03 tables,basic
-Ch 3 · G2 — Duration (typical cycling cell)?,~4 h,Junqueira::Ch03 tables,basic
-Ch 3 · M — What happens?,Mitosis and cytokinesis,Junqueira::Ch03 tables,basic
-Ch 3 · M — Duration (typical cycling cell)?,~1 h,Junqueira::Ch03 tables,basic
-Ch 3 · Trigger — Apoptosis?,Physiological or programmed,Junqueira::Ch03 tables,basic
-Ch 3 · Trigger — Necrosis?,"Injury, ischemia, toxin",Junqueira::Ch03 tables,basic
-Ch 3 · Energy — Apoptosis?,ATP-dependent,Junqueira::Ch03 tables,basic
-Ch 3 · Energy — Necrosis?,Passive,Junqueira::Ch03 tables,basic
 Ch 3 · Cell size — Apoptosis?,Shrinks,Junqueira::Ch03 tables,basic
 Ch 3 · Cell size — Necrosis?,Swells,Junqueira::Ch03 tables,basic
-Ch 3 · Nucleus — Apoptosis?,"Condenses, fragments",Junqueira::Ch03 tables,basic
-Ch 3 · Nucleus — Necrosis?,"Pyknosis, karyorrhexis, karyolysis",Junqueira::Ch03 tables,basic
-Ch 3 · Membrane — Apoptosis?,"Intact, blebbing",Junqueira::Ch03 tables,basic
-Ch 3 · Membrane — Necrosis?,Ruptures,Junqueira::Ch03 tables,basic
-Ch 3 · Inflammation — Apoptosis?,Absent,Junqueira::Ch03 tables,basic
-Ch 3 · Inflammation — Necrosis?,Present,Junqueira::Ch03 tables,basic
-Ch 3 · Spread — Apoptosis?,Single cells,Junqueira::Ch03 tables,basic
-Ch 3 · Spread — Necrosis?,Contiguous sheets,Junqueira::Ch03 tables,basic
 How do you classify an epithelium in one pass?,"First count the layers (simple, stratified, pseudostratified), then name the surface cell shape (squamous, cuboidal, columnar).",Junqueira::Ch04 recall,basic
 What does a tight junction do besides sealing?,"It fences membrane proteins, creating and maintaining apical–basal polarity.",Junqueira::Ch04 recall,basic
 Which junction attaches a cell to the basal lamina?,The hemidesmosome.,Junqueira::Ch04 recall,basic
 "Microvillus, stereocilium, cilium — core structure?","Microvillus: actin core. Stereocilium: long, stiff actin bundle. Cilium: 9 + 2 microtubules anchored by a 9 + 0 basal body.",Junqueira::Ch04 recall,basic
 Why is urothelium suited to the bladder?,"Umbrella cells with uroplakin plaques and tight junctions form an osmotic barrier, and the epithelium thins as the bladder fills.",Junqueira::Ch04 recall,basic
-Ch 4: Simple?,"one layer (exchange, absorption, secretion); stratified = protection; pseudostratified = all cells touch the basement membrane.",Junqueira::Ch04 facts,basic
-Ch 4: Squamous?,flat; cuboidal = height ≈ width; columnar = height > width.,Junqueira::Ch04 facts,basic
 Ch 4: Keratinized stratified squamous?,"dry, abrasive surfaces; nonkeratinized = wet surfaces (mouth, esophagus, vagina).",Junqueira::Ch04 facts,basic
-Ch 4: Urothelium (transitional)?,dome-shaped umbrella cells; stretches.,Junqueira::Ch04 facts,basic
 Ch 4: Tight junction (zonula occludens)?,seal and fence; it creates apical–basal polarity.,Junqueira::Ch04 facts,basic
-Ch 4: Basal lamina?,"lamina lucida + lamina densa (type IV collagen, laminin); the reticular lamina (type III) belongs to connective tissue.",Junqueira::Ch04 facts,basic
-Ch 4: Microvilli?,"actin core, increase surface; stereocilia = long, stiff microvilli; cilia = 9 + 2 microtubules, motile.",Junqueira::Ch04 facts,basic
-Ch 4 · Epithelial — Cells?,Aggregated polyhedral cells,Junqueira::Ch04 tables,basic
-Ch 4 · Epithelial — Extracellular matrix?,Small amount,Junqueira::Ch04 tables,basic
-Ch 4 · Epithelial — Main functions?,Lining of surface or body cavities; glandular secretion,Junqueira::Ch04 tables,basic
-Ch 4 · Connective — Cells?,Several types of fixed and wandering cells,Junqueira::Ch04 tables,basic
-Ch 4 · Connective — Extracellular matrix?,Abundant amount,Junqueira::Ch04 tables,basic
-Ch 4 · Connective — Main functions?,Support and protection of tissues/organs,Junqueira::Ch04 tables,basic
-Ch 4 · Muscle — Cells?,Elongated contractile cells,Junqueira::Ch04 tables,basic
-Ch 4 · Muscle — Extracellular matrix?,Moderate amount,Junqueira::Ch04 tables,basic
-Ch 4 · Muscle — Main functions?,Strong contraction; body movements,Junqueira::Ch04 tables,basic
-Ch 4 · Nervous — Cells?,Elongated cells with extremely fine processes,Junqueira::Ch04 tables,basic
-Ch 4 · Nervous — Extracellular matrix?,Very small amount,Junqueira::Ch04 tables,basic
-Ch 4 · Nervous — Main functions?,Transmission of nerve impulses,Junqueira::Ch04 tables,basic
 Ch 4 · Lamina lucida — Composition?,"Laminin, entactin, perlecan",Junqueira::Ch04 tables,basic
 Ch 4 · Lamina lucida — Made by?,Epithelial cells,Junqueira::Ch04 tables,basic
 Ch 4 · Lamina densa — Composition?,"Type IV collagen, heparan sulfate proteoglycan",Junqueira::Ch04 tables,basic
@@ -149,7 +66,6 @@ Ch 4 · Desmosome (macula adherens) — Transmembrane protein?,"Desmoglein, desm
 Ch 4 · Desmosome (macula adherens) — Cytoskeletal link?,Keratin,Junqueira::Ch04 tables,basic
 Ch 4 · Desmosome (macula adherens) — Function?,Spot-welds resisting shear; autoantibodies cause pemphigus vulgaris,Junqueira::Ch04 tables,basic
 Ch 4 · Gap junction (nexus) — Transmembrane protein?,Connexins,Junqueira::Ch04 tables,basic
-Ch 4 · Gap junction (nexus) — Cytoskeletal link?,None,Junqueira::Ch04 tables,basic
 Ch 4 · Gap junction (nexus) — Function?,Direct cytoplasmic communication,Junqueira::Ch04 tables,basic
 Ch 4 · Hemidesmosome — Transmembrane protein?,Integrins,Junqueira::Ch04 tables,basic
 Ch 4 · Hemidesmosome — Cytoskeletal link?,Keratin → laminin,Junqueira::Ch04 tables,basic
@@ -178,25 +94,14 @@ Ch 4 · Stratified cuboidal / columnar — Function?,Conduit with protection,Jun
 Ch 4 · Transitional (urothelium) — Structure?,"Stratified, with dome-shaped umbrella cells and uroplakins",Junqueira::Ch04 tables,basic
 Ch 4 · Transitional (urothelium) — Location?,"Renal pelvis, ureter, bladder, proximal urethra",Junqueira::Ch04 tables,basic
 Ch 4 · Transitional (urothelium) — Function?,Stretchable barrier to urine,Junqueira::Ch04 tables,basic
-Ch 4 · Epithelioid — Structure?,Cells in clusters with no free surface,Junqueira::Ch04 tables,basic
-Ch 4 · Epithelioid — Location?,"Adrenal cortex, islets of Langerhans, liver cords",Junqueira::Ch04 tables,basic
-Ch 4 · Epithelioid — Function?,Endocrine secretion,Junqueira::Ch04 tables,basic
 Which collagen type forms the basal lamina?,"Type IV (with laminin), over a reticular lamina of type III.",Junqueira::Ch05 recall,basic
 Which collagen type is defective in osteogenesis imperfecta?,Type I.,Junqueira::Ch05 recall,basic
 What is the only unsulfated GAG?,Hyaluronan.,Junqueira::Ch05 recall,basic
 How do you tell dense regular from dense irregular connective tissue?,"Direction: regular has parallel bundles (tendon), irregular has randomly oriented bundles (dermis).",Junqueira::Ch05 recall,basic
 "What does a plasma cell look like, and what does it make?",Eccentric clock-face nucleus with a pale perinuclear Golgi halo; it secretes antibody.,Junqueira::Ch05 recall,basic
-Ch 5: Connective tissue?,cells + fibers + ground substance; it is vascular except in cartilage.,Junqueira::Ch05 facts,basic
 Ch 5: Type I collagen?,"bone, tendon, dermis, scar. Type II = hyaline and elastic cartilage. Type III = reticulin. Type IV = basal lamina.",Junqueira::Ch05 facts,basic
 Ch 5: Collagen synthesis needs vitamin C for proline and lysine hydroxylation; deficiency?,scurvy.,Junqueira::Ch05 facts,basic
-Ch 5: Elastic fibers?,elastin core + fibrillin microfibrils; orcein stains them.,Junqueira::Ch05 facts,basic
-Ch 5: Ground substance?,GAGs and proteoglycans; hyaluronan is the only unsulfated GAG.,Junqueira::Ch05 facts,basic
-Ch 5: Plasma cell?,"eccentric clock-face nucleus, perinuclear Golgi halo, antibody factory.",Junqueira::Ch05 facts,basic
-Ch 5: Mast cell?,"heparin, histamine, proteases; metachromatic granules; IgE receptor.",Junqueira::Ch05 facts,basic
-Ch 5: Macrophage?,monocyte-derived phagocyte; foreign-body and Langhans giant cells are fused macrophages.,Junqueira::Ch05 facts,basic
 Ch 5: Loose (areolar) tissue?,cells and vessels; dense irregular = dermis; dense regular = tendon.,Junqueira::Ch05 facts,basic
-Ch 5: Reticular tissue?,type III collagen framework of lymphoid organs and marrow.,Junqueira::Ch05 facts,basic
-Ch 5: Edema?,"excess fluid in ground substance; it follows increased pressure, leaky vessels, or low albumin.",Junqueira::Ch05 facts,basic
 Ch 5 · Fibroblast / fibrocyte — Origin?,Mesenchyme,Junqueira::Ch05 tables,basic
 Ch 5 · Fibroblast / fibrocyte — Function?,"Synthesises collagen, elastin, GAGs; fibrocyte is the quiescent form",Junqueira::Ch05 tables,basic
 Ch 5 · Fibroblast / fibrocyte — Identifying feature?,"Elongated, pale, abundant RER; myofibroblast also has actin for wound contraction",Junqueira::Ch05 tables,basic
@@ -212,9 +117,6 @@ Ch 5 · Plasma cell — Identifying feature?,"Clock-face nucleus, eccentric, per
 Ch 5 · Adipocyte — Origin?,Mesenchyme,Junqueira::Ch05 tables,basic
 Ch 5 · Adipocyte — Function?,Store fat,Junqueira::Ch05 tables,basic
 Ch 5 · Adipocyte — Identifying feature?,Signet-ring when unilocular,Junqueira::Ch05 tables,basic
-Ch 5 · Pericyte — Origin?,Mesenchyme,Junqueira::Ch05 tables,basic
-Ch 5 · Pericyte — Function?,Contractile support of capillaries,Junqueira::Ch05 tables,basic
-Ch 5 · Pericyte — Identifying feature?,On the abluminal surface of capillaries,Junqueira::Ch05 tables,basic
 Ch 5 · Collagen — Protein?,Tropocollagen (types I–XXVIII),Junqueira::Ch05 tables,basic
 Ch 5 · Collagen — Properties?,"High tensile strength, inelastic",Junqueira::Ch05 tables,basic
 Ch 5 · Collagen — Where?,Everywhere; the most abundant protein in the body,Junqueira::Ch05 tables,basic
@@ -224,39 +126,13 @@ Ch 5 · Reticular — Where?,"Lymphoid organs, bone marrow, liver, endocrine gla
 Ch 5 · Elastic — Protein?,Elastin core + fibrillin microfibrils,Junqueira::Ch05 tables,basic
 Ch 5 · Elastic — Properties?,Stretch and recoil,Junqueira::Ch05 tables,basic
 Ch 5 · Elastic — Where?,"Aorta, skin, lung, elastic cartilage, ligaments",Junqueira::Ch05 tables,basic
-Ch 5 · I — Form?,Thick fibrils,Junqueira::Ch05 tables,basic
-Ch 5 · I — Main location?,"Bone, dermis, tendon, cornea",Junqueira::Ch05 tables,basic
-Ch 5 · I — Disease if defective?,Osteogenesis imperfecta,Junqueira::Ch05 tables,basic
-Ch 5 · II — Form?,Fibrils,Junqueira::Ch05 tables,basic
-Ch 5 · II — Main location?,"Hyaline and elastic cartilage, vitreous",Junqueira::Ch05 tables,basic
-Ch 5 · II — Disease if defective?,Chondrodysplasias,Junqueira::Ch05 tables,basic
-Ch 5 · III — Form?,Reticular fibers,Junqueira::Ch05 tables,basic
-Ch 5 · III — Main location?,"Lymph node, spleen, bone marrow, skin",Junqueira::Ch05 tables,basic
-Ch 5 · III — Disease if defective?,Ehlers–Danlos vascular type,Junqueira::Ch05 tables,basic
-Ch 5 · IV — Form?,Network,Junqueira::Ch05 tables,basic
-Ch 5 · IV — Main location?,Basement membrane,Junqueira::Ch05 tables,basic
-Ch 5 · IV — Disease if defective?,Alport syndrome,Junqueira::Ch05 tables,basic
-Ch 5 · V — Form?,Fibrils with type I,Junqueira::Ch05 tables,basic
-Ch 5 · V — Main location?,"Cornea, bone, placenta",Junqueira::Ch05 tables,basic
-Ch 5 · V — Disease if defective?,Ehlers–Danlos,Junqueira::Ch05 tables,basic
 One histological difference between white and brown fat?,"White: one large droplet, peripheral flattened nucleus. Brown: many small droplets, central round nucleus, eosinophilic granular cytoplasm.",Junqueira::Ch06 recall,basic
 What is UCP1 and where does it act?,"Uncoupling protein 1 in the inner mitochondrial membrane; it lets protons leak back without ATP synthesis, releasing heat.",Junqueira::Ch06 recall,basic
 Name two adipokines.,Leptin (signals stored energy) and adiponectin (increases insulin sensitivity).,Junqueira::Ch06 recall,basic
 When is brown fat most abundant?,"In the newborn (neck, back, mediastinum); it persists in adult neck and supraclavicular depots.",Junqueira::Ch06 recall,basic
 What is lipotoxicity?,"When adipose storage capacity is exceeded, lipid accumulates in liver, muscle, and pancreas, impairing their function.",Junqueira::Ch06 recall,basic
-Ch 6: White fat?,"energy storage plus an endocrine organ: leptin, adiponectin, and other adipokines.",Junqueira::Ch06 facts,basic
-Ch 6: Brown fat?,"non-shivering thermogenesis through UCP1, which uncouples the proton gradient.",Junqueira::Ch06 facts,basic
-Ch 6: Lipodystrophy?,absent or redistributed fat with severe insulin resistance.,Junqueira::Ch06 facts,basic
 Ch 6 · Lipid droplets — White?,One (unilocular),Junqueira::Ch06 tables,basic
 Ch 6 · Lipid droplets — Brown?,Many (multilocular),Junqueira::Ch06 tables,basic
-Ch 6 · Nucleus — White?,Peripheral,Junqueira::Ch06 tables,basic
-Ch 6 · Nucleus — Brown?,Central,Junqueira::Ch06 tables,basic
-Ch 6 · Mitochondria — White?,Few,Junqueira::Ch06 tables,basic
-Ch 6 · Mitochondria — Brown?,"Many, cristae-rich",Junqueira::Ch06 tables,basic
-Ch 6 · UCP1 — White?,Absent,Junqueira::Ch06 tables,basic
-Ch 6 · UCP1 — Brown?,Present,Junqueira::Ch06 tables,basic
-Ch 6 · Main role — White?,"Energy storage, endocrine",Junqueira::Ch06 tables,basic
-Ch 6 · Main role — Brown?,Non-shivering thermogenesis,Junqueira::Ch06 tables,basic
 Ch 6 · Sympathetic innervation — White?,Sparse,Junqueira::Ch06 tables,basic
 Ch 6 · Sympathetic innervation — Brown?,Rich,Junqueira::Ch06 tables,basic
 "Which cartilage has no perichondrium, and why does that matter?","Fibrocartilage; without a perichondrial source of new chondroblasts, disc and meniscal injuries heal poorly.",Junqueira::Ch07 recall,basic
@@ -264,38 +140,14 @@ Which collagen types are in hyaline and fibrocartilage?,Hyaline: type II. Fibroc
 What is an isogenous group?,"Daughter chondrocytes from a recent division, still sharing one lacuna.",Junqueira::Ch07 recall,basic
 Appositional versus interstitial growth?,"Appositional adds cartilage at the periphery and increases width; interstitial growth divides chondrocytes inside lacunae, increases length, and occurs only in young cartilage.",Junqueira::Ch07 recall,basic
 Why is articular cartilage a poor repairer?,"It is avascular, aneural, and lacks perichondrium, so nutrition depends on synovial fluid diffusion.",Junqueira::Ch07 recall,basic
-Ch 7: Cartilage?,"chondrocytes in lacunae + solid matrix; no blood vessels, no nerves.",Junqueira::Ch07 facts,basic
-Ch 7: Hyaline cartilage?,type II collagen + aggrecan; glassy; perichondrium present except at articular surfaces.,Junqueira::Ch07 facts,basic
-Ch 7: Elastic cartilage?,"type II collagen + elastic fibers; perichondrium present; epiglottis, auricle, auditory tube.",Junqueira::Ch07 facts,basic
-Ch 7: Fibrocartilage?,"type I + type II collagen, rows of chondrocytes, no perichondrium; discs, menisci, pubic symphysis.",Junqueira::Ch07 facts,basic
-Ch 7: Isogenous groups?,"daughter cells from recent division, still in one lacuna.",Junqueira::Ch07 facts,basic
-Ch 7: Appositional growth?,"from perichondrium, adds width.",Junqueira::Ch07 facts,basic
-Ch 7: Interstitial growth?,"division inside lacunae, adds length, young cartilage only.",Junqueira::Ch07 facts,basic
-Ch 7: Osteoarthritis?,matrix failure; rheumatoid arthritis = synovial inflammation with pannus.,Junqueira::Ch07 facts,basic
 Ch 7 · Collagen — Hyaline?,Type II,Junqueira::Ch07 tables,basic
 Ch 7 · Collagen — Elastic?,Type II + elastic fibers,Junqueira::Ch07 tables,basic
 Ch 7 · Collagen — Fibrocartilage?,Type I + II,Junqueira::Ch07 tables,basic
-Ch 7 · Cells — Hyaline?,Isogenous groups,Junqueira::Ch07 tables,basic
-Ch 7 · Cells — Elastic?,More numerous,Junqueira::Ch07 tables,basic
-Ch 7 · Cells — Fibrocartilage?,Rows between bundles,Junqueira::Ch07 tables,basic
-Ch 7 · Perichondrium — Hyaline?,Present (not on articular surfaces),Junqueira::Ch07 tables,basic
-Ch 7 · Perichondrium — Elastic?,Present,Junqueira::Ch07 tables,basic
-Ch 7 · Perichondrium — Fibrocartilage?,Absent,Junqueira::Ch07 tables,basic
-Ch 7 · Locations — Hyaline?,"Trachea, bronchi, nose, ribs, epiphyseal plate, joints",Junqueira::Ch07 tables,basic
-Ch 7 · Locations — Elastic?,"Epiglottis, pinna, auditory canal",Junqueira::Ch07 tables,basic
-Ch 7 · Locations — Fibrocartilage?,"Disc, symphysis pubis, menisci",Junqueira::Ch07 tables,basic
-Ch 7 · Function — Hyaline?,"Smooth bearing surface, template for bone",Junqueira::Ch07 tables,basic
-Ch 7 · Function — Elastic?,Flexible support,Junqueira::Ch07 tables,basic
-Ch 7 · Function — Fibrocartilage?,"Shock absorption, tensile strength",Junqueira::Ch07 tables,basic
 "Which cell makes bone matrix, and which resorbs it?",Osteoblasts make osteoid; osteoclasts resorb bone using a ruffled border and acid.,Junqueira::Ch08 recall,basic
 "What does osteoid contain, and what mineralizes it?",Type I collagen and proteoglycans; hydroxyapatite crystals deposit along the collagen.,Junqueira::Ch08 recall,basic
 How do osteocytes stay alive inside lacunae?,"Their processes run through canaliculi and contact processes of neighboring cells and the central canal, allowing diffusion of nutrients.",Junqueira::Ch08 recall,basic
 Endochondral versus intramembranous ossification?,"Endochondral replaces a cartilage model (long bones, base of skull); intramembranous forms directly in mesenchyme (flat skull bones, mandible).",Junqueira::Ch08 recall,basic
 "What happens at a growth plate, zone by zone?","Reserve → proliferative → hypertrophic → calcified matrix → ossification, with chondrocyte death and vascular invasion.",Junqueira::Ch08 recall,basic
-Ch 8: Osteogenesis imperfecta?,type I collagen; achondroplasia = FGFR3; Marfan = fibrillin.,Junqueira::Ch08 facts,basic
-Ch 8 · Osteoprogenitor — Origin?,Mesenchyme,Junqueira::Ch08 tables,basic
-Ch 8 · Osteoprogenitor — Function?,Divide and differentiate into osteoblasts,Junqueira::Ch08 tables,basic
-Ch 8 · Osteoprogenitor — Marker / feature?,"Periosteum (inner layer), endosteum",Junqueira::Ch08 tables,basic
 Ch 8 · Osteoblast — Origin?,"Osteoprogenitor (periosteum, endosteum)",Junqueira::Ch08 tables,basic
 Ch 8 · Osteoblast — Function?,"Secrete osteoid, rich in type I collagen plus proteoglycans; mineralize it; regulate osteoclasts via RANKL",Junqueira::Ch08 tables,basic
 Ch 8 · Osteoblast — Marker / feature?,"Cuboidal, basophilic, cover existing bone surfaces; alkaline phosphatase high",Junqueira::Ch08 tables,basic
@@ -305,15 +157,9 @@ Ch 8 · Osteocyte — Marker / feature?,"In lacunae, connected by canaliculi via
 Ch 8 · Osteoclast — Origin?,Monocyte/macrophage lineage,Junqueira::Ch08 tables,basic
 Ch 8 · Osteoclast — Function?,Resorb bone,Junqueira::Ch08 tables,basic
 Ch 8 · Osteoclast — Marker / feature?,"Large, multinucleated, ruffled border, resorption bay (Howship lacuna); TRAP, carbonic anhydrase II, H⁺-ATPase",Junqueira::Ch08 tables,basic
-Ch 8 · PTH — Source?,Parathyroid chief cells,Junqueira::Ch08 tables,basic
-Ch 8 · PTH — Effect on bone?,"Increases resorption, increases renal reabsorption, activates vitamin D",Junqueira::Ch08 tables,basic
-Ch 8 · PTH — Net serum calcium?,Raises,Junqueira::Ch08 tables,basic
 "Ch 8 · Calcitriol (1,25-(OH)₂D) — Source?",Kidney,Junqueira::Ch08 tables,basic
 "Ch 8 · Calcitriol (1,25-(OH)₂D) — Effect on bone?",Increases intestinal absorption and bone resorption,Junqueira::Ch08 tables,basic
 "Ch 8 · Calcitriol (1,25-(OH)₂D) — Net serum calcium?",Raises,Junqueira::Ch08 tables,basic
-Ch 8 · Calcitonin — Source?,Thyroid C cells,Junqueira::Ch08 tables,basic
-Ch 8 · Calcitonin — Effect on bone?,Inhibits osteoclasts,Junqueira::Ch08 tables,basic
-Ch 8 · Calcitonin — Net serum calcium?,Lowers,Junqueira::Ch08 tables,basic
 "Which glial cell myelinates the CNS, and which myelinates the PNS?","Oligodendrocyte (CNS, several axons); Schwann cell (PNS, one segment of one axon).",Junqueira::Ch09 recall,basic
 Which glial cell is the macrophage of the CNS?,"Microglia, derived from monocytes.",Junqueira::Ch09 recall,basic
 What forms the blood–brain barrier?,"Tight junctions between capillary endothelial cells, reinforced by astrocyte end-feet and pericytes.",Junqueira::Ch09 recall,basic
@@ -341,11 +187,7 @@ Which band does not change length during contraction?,"The A band, because it is
 Cardiac versus skeletal muscle at the T-tubule level?,Cardiac diads lie at the Z line; skeletal triads lie at the A–I junction.,Junqueira::Ch10 recall,basic
 What is the calcium sensor in smooth muscle?,"Calmodulin, which activates myosin light-chain kinase; smooth muscle has no troponin.",Junqueira::Ch10 recall,basic
 Which muscle types regenerate?,"Skeletal (limited, from satellite cells), smooth (hyperplasia/hypertrophy); cardiac does not.",Junqueira::Ch10 recall,basic
-Ch 10: Sarcomere?,"Z line to Z line; A band constant, I band and H zone shorten.",Junqueira::Ch10 facts,basic
-Ch 10: Thin filament?,actin + troponin + tropomyosin; thick filament = myosin.,Junqueira::Ch10 facts,basic
 Ch 10: Type I fibers?,"slow, oxidative, fatigue-resistant. Type II = fast, glycolytic.",Junqueira::Ch10 facts,basic
-Ch 10: Duchenne dystrophy?,dystrophin defect; myasthenia gravis = antibody to the nicotinic receptor.,Junqueira::Ch10 facts,basic
-Ch 10: Muscle spindle?,stretch receptor; Golgi tendon organ = tension receptor.,Junqueira::Ch10 facts,basic
 Ch 10 · A band — Contents?,Thick filaments (myosin),Junqueira::Ch10 tables,basic
 Ch 10 · A band — Behavior in contraction?,Constant length,Junqueira::Ch10 tables,basic
 Ch 10 · I band — Contents?,Thin filaments (actin) only,Junqueira::Ch10 tables,basic
@@ -354,54 +196,22 @@ Ch 10 · H band — Contents?,"Thick filaments only, no overlap",Junqueira::Ch10
 Ch 10 · H band — Behavior in contraction?,Shortens,Junqueira::Ch10 tables,basic
 Ch 10 · Z line — Contents?,Anchor for actin,Junqueira::Ch10 tables,basic
 Ch 10 · Z line — Behavior in contraction?,Moves closer,Junqueira::Ch10 tables,basic
-Ch 10 · M line — Contents?,Centre of the A band,Junqueira::Ch10 tables,basic
-"Ch 10 · I (slow, red) — Speed?",Slow,Junqueira::Ch10 tables,basic
+Ch 10 · M line — Contents?,Center of the A band,Junqueira::Ch10 tables,basic
 "Ch 10 · I (slow, red) — Metabolism?",Oxidative,Junqueira::Ch10 tables,basic
 "Ch 10 · I (slow, red) — Fatigue?",Resistant,Junqueira::Ch10 tables,basic
-"Ch 10 · I (slow, red) — Color?",Red,Junqueira::Ch10 tables,basic
-"Ch 10 · IIa (fast, oxidative-glycolytic) — Speed?",Fast,Junqueira::Ch10 tables,basic
 "Ch 10 · IIa (fast, oxidative-glycolytic) — Metabolism?",Mixed,Junqueira::Ch10 tables,basic
 "Ch 10 · IIa (fast, oxidative-glycolytic) — Fatigue?",Intermediate,Junqueira::Ch10 tables,basic
 "Ch 10 · IIa (fast, oxidative-glycolytic) — Color?",Intermediate,Junqueira::Ch10 tables,basic
-"Ch 10 · IIx/IIb (fast, glycolytic) — Speed?",Fast,Junqueira::Ch10 tables,basic
-"Ch 10 · IIx/IIb (fast, glycolytic) — Metabolism?",Glycolytic,Junqueira::Ch10 tables,basic
 "Ch 10 · IIx/IIb (fast, glycolytic) — Fatigue?",Fast fatigue,Junqueira::Ch10 tables,basic
 "Ch 10 · IIx/IIb (fast, glycolytic) — Color?",White,Junqueira::Ch10 tables,basic
-Ch 10 · Striation — Skeletal?,Yes,Junqueira::Ch10 tables,basic
-Ch 10 · Striation — Cardiac?,Yes,Junqueira::Ch10 tables,basic
-Ch 10 · Striation — Smooth?,No,Junqueira::Ch10 tables,basic
-Ch 10 · Nuclei — Skeletal?,"Many, peripheral",Junqueira::Ch10 tables,basic
-Ch 10 · Nuclei — Cardiac?,"1–2, central",Junqueira::Ch10 tables,basic
-Ch 10 · Nuclei — Smooth?,"1, central",Junqueira::Ch10 tables,basic
-Ch 10 · Cell shape — Skeletal?,Long cylinder,Junqueira::Ch10 tables,basic
-Ch 10 · Cell shape — Cardiac?,Branched,Junqueira::Ch10 tables,basic
-Ch 10 · Cell shape — Smooth?,Spindle,Junqueira::Ch10 tables,basic
-Ch 10 · T-tubules — Skeletal?,"A–I junction, triads",Junqueira::Ch10 tables,basic
-Ch 10 · T-tubules — Cardiac?,"Z line, diads",Junqueira::Ch10 tables,basic
-Ch 10 · T-tubules — Smooth?,None (caveolae),Junqueira::Ch10 tables,basic
 Ch 10 · Ca²⁺ sensor — Skeletal?,Troponin C,Junqueira::Ch10 tables,basic
 Ch 10 · Ca²⁺ sensor — Cardiac?,Troponin C,Junqueira::Ch10 tables,basic
 Ch 10 · Ca²⁺ sensor — Smooth?,Calmodulin,Junqueira::Ch10 tables,basic
-Ch 10 · Junctions — Skeletal?,None between fibers,Junqueira::Ch10 tables,basic
-Ch 10 · Junctions — Cardiac?,Intercalated discs,Junqueira::Ch10 tables,basic
-Ch 10 · Junctions — Smooth?,Gap junctions (unitary),Junqueira::Ch10 tables,basic
-Ch 10 · Control — Skeletal?,"Somatic, voluntary",Junqueira::Ch10 tables,basic
-Ch 10 · Control — Cardiac?,"Autonomic, involuntary",Junqueira::Ch10 tables,basic
-Ch 10 · Control — Smooth?,"Autonomic, involuntary",Junqueira::Ch10 tables,basic
-Ch 10 · Regeneration — Skeletal?,Satellite cells (limited),Junqueira::Ch10 tables,basic
-Ch 10 · Regeneration — Cardiac?,None,Junqueira::Ch10 tables,basic
-Ch 10 · Regeneration — Smooth?,Hypertrophy/hyperplasia,Junqueira::Ch10 tables,basic
 "Three layers of a vessel wall, outside in?","Tunica adventitia, tunica media, tunica intima.",Junqueira::Ch11 recall,basic
 Which vessel has the thickest media relative to its lumen?,The muscular artery; an arteriole has only one or two smooth-muscle layers.,Junqueira::Ch11 recall,basic
 "Which capillary type is fenestrated, and where is it found?","Fenestrated capillaries are in endocrine glands, gut mucosa, and kidney; they allow rapid exchange.",Junqueira::Ch11 recall,basic
 What distinguishes a vein from an artery in section?,"Veins have a larger, often collapsed lumen and a thinner wall with less muscle; valves are present in medium veins.",Junqueira::Ch11 recall,basic
 Where does lymph begin and end?,Blind-ended lymphatic capillaries in tissue; it drains through nodes to the thoracic duct and into the subclavian vein.,Junqueira::Ch11 recall,basic
-Ch 11 · Intima — Contents?,"Endothelium, basal lamina, subendothelial connective tissue, internal elastic lamina (in arteries)",Junqueira::Ch11 tables,basic
-Ch 11 · Intima — Function?,"Non-thrombogenic surface, exchange, barrier",Junqueira::Ch11 tables,basic
-Ch 11 · Media — Contents?,"Smooth muscle circularly arranged, elastic lamellae (in elastic arteries), external elastic lamina",Junqueira::Ch11 tables,basic
-Ch 11 · Media — Function?,Tone and compliance,Junqueira::Ch11 tables,basic
-Ch 11 · Adventitia — Contents?,"Loose connective tissue, vasa vasorum, nervi vascularis",Junqueira::Ch11 tables,basic
-Ch 11 · Adventitia — Function?,Anchorage and supply of the wall,Junqueira::Ch11 tables,basic
 "Ch 11 · Elastic artery (aorta, pulmonary, common carotid) — Intima?",Endothelium + subendothelial,Junqueira::Ch11 tables,basic
 "Ch 11 · Elastic artery (aorta, pulmonary, common carotid) — Media?",Many elastic lamellae alternating with smooth muscle,Junqueira::Ch11 tables,basic
 "Ch 11 · Elastic artery (aorta, pulmonary, common carotid) — Adventitia?","Thin, with vasa vasorum",Junqueira::Ch11 tables,basic
@@ -410,18 +220,6 @@ Ch 11 · Muscular artery — Intima?,Prominent internal elastic lamina,Junqueira
 Ch 11 · Muscular artery — Media?,"Thick, 3–40 layers of smooth muscle",Junqueira::Ch11 tables,basic
 Ch 11 · Muscular artery — Adventitia?,Moderate,Junqueira::Ch11 tables,basic
 Ch 11 · Muscular artery — Distinguishing feature?,Well-defined IEL,Junqueira::Ch11 tables,basic
-Ch 11 · Arteriole — Intima?,Endothelium + thin subendothelium,Junqueira::Ch11 tables,basic
-Ch 11 · Arteriole — Media?,1–2 layers of smooth muscle,Junqueira::Ch11 tables,basic
-Ch 11 · Arteriole — Adventitia?,Minimal,Junqueira::Ch11 tables,basic
-Ch 11 · Arteriole — Distinguishing feature?,The resistance vessel,Junqueira::Ch11 tables,basic
-Ch 11 · Capillary — Intima?,Endothelium + basal lamina only,Junqueira::Ch11 tables,basic
-Ch 11 · Capillary — Media?,None,Junqueira::Ch11 tables,basic
-Ch 11 · Capillary — Adventitia?,None,Junqueira::Ch11 tables,basic
-Ch 11 · Capillary — Distinguishing feature?,One cell thick,Junqueira::Ch11 tables,basic
-Ch 11 · Venule — Intima?,Endothelium,Junqueira::Ch11 tables,basic
-Ch 11 · Venule — Media?,None or sparse pericytes,Junqueira::Ch11 tables,basic
-Ch 11 · Venule — Adventitia?,Thin,Junqueira::Ch11 tables,basic
-Ch 11 · Venule — Distinguishing feature?,Site of leukocyte diapedesis,Junqueira::Ch11 tables,basic
 Ch 11 · Small/medium vein — Intima?,Endothelium,Junqueira::Ch11 tables,basic
 Ch 11 · Small/medium vein — Media?,Thin,Junqueira::Ch11 tables,basic
 Ch 11 · Small/medium vein — Adventitia?,Thickest layer,Junqueira::Ch11 tables,basic
@@ -430,21 +228,15 @@ Ch 11 · Large vein (vena cava) — Intima?,Endothelium,Junqueira::Ch11 tables,b
 Ch 11 · Large vein (vena cava) — Media?,Thin,Junqueira::Ch11 tables,basic
 Ch 11 · Large vein (vena cava) — Adventitia?,"Thick, with longitudinal smooth muscle",Junqueira::Ch11 tables,basic
 Ch 11 · Large vein (vena cava) — Distinguishing feature?,Valve-like intimal folds,Junqueira::Ch11 tables,basic
-Ch 11 · Continuous — Structure?,"Uninterrupted endothelium, tight junctions",Junqueira::Ch11 tables,basic
-Ch 11 · Continuous — Location?,"Muscle, skin, lung, CNS",Junqueira::Ch11 tables,basic
-Ch 11 · Continuous — Function?,Regulated exchange; the blood–brain barrier is this type plus tight junctions and astrocyte feet,Junqueira::Ch11 tables,basic
-Ch 11 · Fenestrated — Structure?,Pores with diaphragms,Junqueira::Ch11 tables,basic
-Ch 11 · Fenestrated — Location?,"Kidney glomerulus, intestine, endocrine glands",Junqueira::Ch11 tables,basic
-Ch 11 · Fenestrated — Function?,Rapid fluid and solute exchange,Junqueira::Ch11 tables,basic
-Ch 11 · Sinusoidal — Structure?,"Discontinuous, large gaps, incomplete basal lamina",Junqueira::Ch11 tables,basic
-Ch 11 · Sinusoidal — Location?,"Liver, spleen, bone marrow",Junqueira::Ch11 tables,basic
-Ch 11 · Sinusoidal — Function?,Free passage of cells and large molecules,Junqueira::Ch11 tables,basic
 How does serum differ from plasma?,"Serum is plasma after clotting, so it lacks fibrinogen and consumed clotting factors.",Junqueira::Ch12 recall,basic
 Normal erythrocyte dimensions and lifespan?,"About 7.5 µm diameter, biconcave with a 2.6-µm rim, circulating about 120 days.",Junqueira::Ch12 recall,basic
 "Which leukocyte is most numerous, and which is largest?",Neutrophils (~60–70%); monocytes are the largest.,Junqueira::Ch12 recall,basic
 What do eosinophil granules contain?,"Major basic protein and eosinophil cationic protein, active against parasites and in allergy.",Junqueira::Ch12 recall,basic
 What are the three steps of hemostasis?,"Vascular spasm, platelet plug formation, and coagulation (fibrin clot).",Junqueira::Ch12 recall,basic
-Ch 12: Hemostasis?,vascular spasm → platelet plug → coagulation → clot retraction and repair.,Junqueira::Ch12 facts,basic
+Ch 12 · Plasma proteins — Share?,~7% of plasma,Junqueira::Ch12 tables,basic
+Ch 12 · Plasma proteins — Job?,Buffer pH; maintain osmotic pressure,Junqueira::Ch12 tables,basic
+Ch 12 · Regulatory proteins — Share?,<1% of plasma protein,Junqueira::Ch12 tables,basic
+Ch 12 · Regulatory proteins — Job?,"Enzymes, proenzymes, hormones, complement",Junqueira::Ch12 tables,basic
 Ch 12 · Neutrophil — % of WBC?,60–70%,Junqueira::Ch12 tables,basic
 Ch 12 · Neutrophil — Size?,10–14 µm,Junqueira::Ch12 tables,basic
 Ch 12 · Neutrophil — Nucleus?,"3–5 lobes, dense",Junqueira::Ch12 tables,basic
@@ -480,30 +272,7 @@ Which cells present on MHC II?,"Antigen-presenting cells, mostly monocyte-derive
 Where do T cells undergo positive and negative selection?,Positive selection in the cortex; negative selection in the medulla.,Junqueira::Ch14 recall,basic
 What is the difference between the thymus and the spleen in one line?,The thymus makes and selects T cells and has no follicles; the spleen filters blood and has no afferent lymphatics.,Junqueira::Ch14 recall,basic
 What does an FDC do?,Follicular dendritic cells display antigen–antibody complexes to B cells and drive germinal-center formation.,Junqueira::Ch14 recall,basic
-Ch 14: Innate immunity?,"present at birth, granulocytes and soluble proteins; adaptive = antigen presentation to lymphocytes.",Junqueira::Ch14 facts,basic
-Ch 14: BCR?,surface IgM or IgD; TCR is usually αβ with a CD co-receptor.,Junqueira::Ch14 facts,basic
-Ch 14: Thymus: cortex?,"positive selection, medulla = negative selection; Aire displays self-antigens.",Junqueira::Ch14 facts,basic
 Ch 14: Spleen: white pulp (PALS?,"T zone, follicles = B zone) and red pulp (cords + sinusoids).",Junqueira::Ch14 facts,basic
-Ch 14 · Timing — Innate?,"Present from birth, acts within minutes",Junqueira::Ch14 tables,basic
-Ch 14 · Timing — Adaptive?,"Develops more slowly, improves with exposure",Junqueira::Ch14 tables,basic
-Ch 14 · Specificity — Innate?,Broad molecular patterns,Junqueira::Ch14 tables,basic
-Ch 14 · Specificity — Adaptive?,Exact antigen,Junqueira::Ch14 tables,basic
-Ch 14 · Memory — Innate?,None,Junqueira::Ch14 tables,basic
-Ch 14 · Memory — Adaptive?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Cells — Innate?,"Granulocytes (mainly neutrophils), macrophages, dendritic cells, NK cells",Junqueira::Ch14 tables,basic
-Ch 14 · Cells — Adaptive?,T and B lymphocytes,Junqueira::Ch14 tables,basic
-Ch 14 · Mediators — Innate?,"Defensins, complement, lysozyme, interferons, cytokines",Junqueira::Ch14 tables,basic
-Ch 14 · Mediators — Adaptive?,"Antibodies, cytotoxic granules",Junqueira::Ch14 tables,basic
-Ch 14 · IgG — Structure?,Monomer,Junqueira::Ch14 tables,basic
-Ch 14 · IgG — Main role?,Most abundant; crosses the placenta; opsonizes,Junqueira::Ch14 tables,basic
-Ch 14 · IgM — Structure?,Pentamer,Junqueira::Ch14 tables,basic
-Ch 14 · IgM — Main role?,First responder; complement activation,Junqueira::Ch14 tables,basic
-Ch 14 · IgA — Structure?,Dimer with secretory component,Junqueira::Ch14 tables,basic
-Ch 14 · IgA — Main role?,Mucosal secretions,Junqueira::Ch14 tables,basic
-Ch 14 · IgE — Structure?,Monomer,Junqueira::Ch14 tables,basic
-Ch 14 · IgE — Main role?,Mast-cell binding; allergy and parasites,Junqueira::Ch14 tables,basic
-Ch 14 · IgD — Structure?,Monomer,Junqueira::Ch14 tables,basic
-Ch 14 · IgD — Main role?,B-cell receptor,Junqueira::Ch14 tables,basic
 Ch 14 · Helper T cell — Marker?,CD4⁺,Junqueira::Ch14 tables,basic
 Ch 14 · Helper T cell — Job?,Recognizes MHC II; secretes cytokines that activate B cells and macrophages,Junqueira::Ch14 tables,basic
 Ch 14 · Cytotoxic T cell — Marker?,CD8⁺,Junqueira::Ch14 tables,basic
@@ -512,52 +281,14 @@ Ch 14 · Regulatory T cell — Marker?,CD4⁺ CD25⁺,Junqueira::Ch14 tables,bas
 Ch 14 · Regulatory T cell — Job?,Suppresses immune responses and prevents autoimmunity,Junqueira::Ch14 tables,basic
 Ch 14 · γδ T cell — Marker?,γδ TCR,Junqueira::Ch14 tables,basic
 Ch 14 · γδ T cell — Job?,Mainly in epithelia; early defense at body surfaces,Junqueira::Ch14 tables,basic
-Ch 14 · Cortex — Contents?,Lymphoid follicles — primary (dense) or secondary (with pale germinal center and dark mantle),Junqueira::Ch14 tables,basic
-Ch 14 · Cortex — Function?,B-cell zone,Junqueira::Ch14 tables,basic
-Ch 14 · Paracortex — Contents?,"Diffuse lymphoid tissue, high endothelial venules (HEV)",Junqueira::Ch14 tables,basic
-Ch 14 · Paracortex — Function?,T-cell zone; lymphocytes enter from blood here,Junqueira::Ch14 tables,basic
-Ch 14 · Medulla — Contents?,"Cords and sinuses, macrophages and plasma cells",Junqueira::Ch14 tables,basic
-Ch 14 · Medulla — Function?,Filtration; antibody secretion,Junqueira::Ch14 tables,basic
-Ch 14 · Thymus — Capsule?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Thymus — Afferent lymphatics?,None,Junqueira::Ch14 tables,basic
-Ch 14 · Thymus — Follicles?,No,Junqueira::Ch14 tables,basic
-Ch 14 · Thymus — Unique feature?,Hassall corpuscles,Junqueira::Ch14 tables,basic
-Ch 14 · Lymph node — Capsule?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Lymph node — Afferent lymphatics?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Lymph node — Follicles?,Yes,Junqueira::Ch14 tables,basic
 Ch 14 · Lymph node — Unique feature?,Cortex/paracortex/medulla; HEV,Junqueira::Ch14 tables,basic
-Ch 14 · Spleen — Capsule?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Spleen — Afferent lymphatics?,None,Junqueira::Ch14 tables,basic
-Ch 14 · Spleen — Follicles?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Spleen — Unique feature?,White and red pulp,Junqueira::Ch14 tables,basic
-Ch 14 · Tonsil — Capsule?,No,Junqueira::Ch14 tables,basic
-Ch 14 · Tonsil — Afferent lymphatics?,None,Junqueira::Ch14 tables,basic
-Ch 14 · Tonsil — Follicles?,Yes,Junqueira::Ch14 tables,basic
-Ch 14 · Tonsil — Unique feature?,Crypts,Junqueira::Ch14 tables,basic
 Name the four layers of the gut wall in order.,"Mucosa, submucosa, muscularis, serosa or adventitia.",Junqueira::Ch15 recall,basic
 Which cells secrete HCl and intrinsic factor?,Parietal cells; they have intracellular canaliculi and many mitochondria.,Junqueira::Ch15 recall,basic
 What are the three surface amplifiers of the small intestine?,"Plicae circulares, villi, and microvilli.",Junqueira::Ch15 recall,basic
 How do lipids leave the villus?,"As chylomicrons through the lacteal, not through capillaries.",Junqueira::Ch15 recall,basic
 Which segment has teniae coli and no villi?,The colon (large intestine).,Junqueira::Ch15 recall,basic
-Ch 15: Mucosa always?,epithelium + lamina propria + muscularis mucosae.,Junqueira::Ch15 facts,basic
-Ch 15: Duodenum?,Brunner glands; ileum = Peyer's patches; colon = teniae coli.,Junqueira::Ch15 facts,basic
-Ch 15 · Mucosa — Contents?,Epithelium + lamina propria + muscularis mucosae,Junqueira::Ch15 tables,basic
-Ch 15 · Mucosa — Function?,"Digestion, absorption, secretion, barrier",Junqueira::Ch15 tables,basic
-Ch 15 · Submucosa — Contents?,"Loose connective tissue, vessels, lymphatics, Meissner (submucosal) plexus, glands where present",Junqueira::Ch15 tables,basic
-Ch 15 · Submucosa — Function?,Supply and control of secretion,Junqueira::Ch15 tables,basic
-Ch 15 · Muscularis — Contents?,"Inner circular + outer longitudinal smooth muscle, Auerbach (myenteric) plexus between them",Junqueira::Ch15 tables,basic
-Ch 15 · Muscularis — Function?,Peristalsis,Junqueira::Ch15 tables,basic
 Ch 15 · Serosa or adventitia — Contents?,Mesothelium + connective tissue (intraperitoneal) or connective tissue only (retroperitoneal),Junqueira::Ch15 tables,basic
 Ch 15 · Serosa or adventitia — Function?,Suspension and protection,Junqueira::Ch15 tables,basic
-Ch 15 · Filiform — Shape?,"Cone-shaped, heavily keratinized",Junqueira::Ch15 tables,basic
-Ch 15 · Filiform — Taste buds?,No,Junqueira::Ch15 tables,basic
-Ch 15 · Filiform — Notes?,Most numerous; mechanical; gives the whitish dorsal appearance,Junqueira::Ch15 tables,basic
-Ch 15 · Fungiform — Shape?,"Mushroom-shaped, lightly keratinized",Junqueira::Ch15 tables,basic
-Ch 15 · Fungiform — Taste buds?,Yes,Junqueira::Ch15 tables,basic
-Ch 15 · Fungiform — Notes?,Scattered among filiform,Junqueira::Ch15 tables,basic
-Ch 15 · Foliate — Shape?,Leaf-like folds,Junqueira::Ch15 tables,basic
-Ch 15 · Foliate — Taste buds?,Yes,Junqueira::Ch15 tables,basic
-Ch 15 · Foliate — Notes?,Lateral margins,Junqueira::Ch15 tables,basic
 Ch 15 · Vallate (circumvallate) — Shape?,"Largest, 1–3 mm wide, in a trench",Junqueira::Ch15 tables,basic
 Ch 15 · Vallate (circumvallate) — Taste buds?,"Yes, ~250 per papilla",Junqueira::Ch15 tables,basic
 Ch 15 · Vallate (circumvallate) — Notes?,8–12 in a V in front of the terminal sulcus,Junqueira::Ch15 tables,basic
@@ -567,15 +298,11 @@ Ch 15 · Parietal (oxyntic) — Function?,"Large cell, many mitochondria, intrac
 Ch 15 · Chief (zymogenic) — Location?,Deeper half of gland,Junqueira::Ch15 tables,basic
 Ch 15 · Chief (zymogenic) — Product?,Pepsinogen,Junqueira::Ch15 tables,basic
 Ch 15 · Chief (zymogenic) — Function?,Activated to pepsin by luminal acid; basophilic with apical zymogen granules,Junqueira::Ch15 tables,basic
-Ch 15 · Mucous neck — Location?,Neck,Junqueira::Ch15 tables,basic
 Ch 15 · Mucous neck — Product?,Less alkaline mucus,Junqueira::Ch15 tables,basic
 Ch 15 · Mucous neck — Function?,Immature precursors that migrate up into the pits,Junqueira::Ch15 tables,basic
 Ch 15 · Surface mucous — Location?,Surface and pits,Junqueira::Ch15 tables,basic
 Ch 15 · Surface mucous — Product?,Viscous mucus + bicarbonate,Junqueira::Ch15 tables,basic
 Ch 15 · Surface mucous — Function?,The barrier that protects the mucosa,Junqueira::Ch15 tables,basic
-Ch 15 · Enteroendocrine — Location?,Throughout,Junqueira::Ch15 tables,basic
-Ch 15 · Enteroendocrine — Product?,"Gastrin, histamine, others",Junqueira::Ch15 tables,basic
-Ch 15 · Enteroendocrine — Function?,Paracrine and endocrine control of secretion,Junqueira::Ch15 tables,basic
 Ch 15 · Stem cells — Location?,Narrow neck region,Junqueira::Ch15 tables,basic
 Ch 15 · Stem cells — Function?,Pluripotent source of all the above,Junqueira::Ch15 tables,basic
 Which salivary gland is purely serous?,"The parotid. Submandibular is mixed, mainly serous; sublingual is mixed, mainly mucous.",Junqueira::Ch16 recall,basic
@@ -583,17 +310,7 @@ What do striated ducts do?,"Reabsorb Na⁺ and Cl⁻ and add HCO₃⁻, making s
 "What do centroacinar cells secrete, and under what hormone?","Bicarbonate-rich fluid, under secretin.",Junqueira::Ch16 recall,basic
 Trace bile from canaliculus to duodenum.,Canaliculi → canals of Hering → bile ductules → interlobular ducts → hepatic ducts → common hepatic duct → cystic duct → gallbladder → common bile duct → hepatopancreatic ampulla.,Junqueira::Ch16 recall,basic
 Which way does blood flow in a hepatic lobule?,From portal areas at the periphery toward the central vein.,Junqueira::Ch16 recall,basic
-Ch 16: Parotid?,"serous only. Submandibular = mixed, mainly serous. Sublingual = mixed, mainly mucous with demilunes.",Junqueira::Ch16 facts,basic
-Ch 16: Intercalated duct?,simple cuboidal; striated duct = simple columnar with basal folds; excretory duct = stratified cuboidal or columnar.,Junqueira::Ch16 facts,basic
-Ch 16: Portal area?,portal venule + hepatic arteriole + bile ductule + lymphatic.,Junqueira::Ch16 facts,basic
-Ch 16: Kupffer cells?,sinusoidal macrophages. Ito cells = vitamin A storage.,Junqueira::Ch16 facts,basic
 Ch 16: Hepatic zone 1?,"periportal, most oxygen; zone 3 = pericentral, most biotransformation and first to die in ischemia.",Junqueira::Ch16 facts,basic
-Ch 16 · Parotid — Secretory units?,Serous acini only,Junqueira::Ch16 tables,basic
-Ch 16 · Parotid — Secretion?,"Watery, enzyme-rich",Junqueira::Ch16 tables,basic
-Ch 16 · Submandibular — Secretory units?,"Mixed, mainly serous acini",Junqueira::Ch16 tables,basic
-Ch 16 · Submandibular — Secretion?,Mixed,Junqueira::Ch16 tables,basic
-Ch 16 · Sublingual — Secretory units?,"Mixed, mainly mucous tubules, some with serous demilunes",Junqueira::Ch16 tables,basic
-Ch 16 · Sublingual — Secretion?,Viscous,Junqueira::Ch16 tables,basic
 What marks the transition from conducting to respiratory airway?,The appearance of alveoli in the wall — the respiratory bronchiole.,Junqueira::Ch17 recall,basic
 Which cells line ~95% of the alveolar surface?,Type I pneumocytes.,Junqueira::Ch17 recall,basic
 "What do type II pneumocytes secrete, and why does it matter?","Surfactant, which lowers surface tension and prevents alveolar collapse.",Junqueira::Ch17 recall,basic
@@ -621,7 +338,6 @@ Which epidermal cells are neural crest derived?,Melanocytes and Merkel cells; La
 What is the function of lamellar bodies?,"They discharge lipid into the intercellular space, forming the water barrier.",Junqueira::Ch18 recall,basic
 Where are Meissner and Pacinian corpuscles?,"Meissner in the dermal papillae (light touch); Pacinian deep in the dermis/hypodermis (pressure, vibration).",Junqueira::Ch18 recall,basic
 How do sebaceous and eccrine glands differ in secretion?,Sebaceous: holocrine. Eccrine: merocrine.,Junqueira::Ch18 recall,basic
-Ch 18: Dermis?,papillary (loose) + reticular (dense irregular); hypodermis is adipose and loose connective tissue.,Junqueira::Ch18 facts,basic
 Ch 18 · Stratum basale — Cells?,"Mitotic stem cells, melanocytes, Merkel cells",Junqueira::Ch18 tables,basic
 Ch 18 · Stratum basale — Key feature?,"Single layer on the basement membrane, attached by hemidesmosomes and integrins; keratin filaments ~10 nm first appear here",Junqueira::Ch18 tables,basic
 Ch 18 · Stratum spinosum — Cells?,Polyhedral cells with desmosomes,Junqueira::Ch18 tables,basic
@@ -667,16 +383,12 @@ What are the three layers of the filtration barrier?,"Fenestrated endothelium, g
 "What does the macula densa sense, and what does the JGA release?",NaCl concentration; juxtaglomerular cells release renin.,Junqueira::Ch19 recall,basic
 Which cells of the collecting duct respond to ADH?,"Principal cells, by inserting aquaporins into the apical membrane.",Junqueira::Ch19 recall,basic
 What makes urothelium a barrier?,Umbrella cells with uroplakin plaques and tight junctions.,Junqueira::Ch19 recall,basic
-Ch 19: Lobe?,pyramid + cortex; lobule = medullary ray + surrounding cortex.,Junqueira::Ch19 facts,basic
-Ch 19: Filtration barrier?,"fenestrated endothelium + GBM (type IV collagen, ~330 nm) + slit diaphragms (nephrin, podocalyxin).",Junqueira::Ch19 facts,basic
 Ch 19 · Proximal convoluted tubule (PCT) — Epithelium?,"Simple cuboidal, eosinophilic",Junqueira::Ch19 tables,basic
 Ch 19 · Proximal convoluted tubule (PCT) — Key features?,"Long microvilli (brush border), abundant mitochondria, large interdigitating basolateral folds",Junqueira::Ch19 tables,basic
 Ch 19 · Proximal convoluted tubule (PCT) — Function?,"Major reabsorption: all glucose and organic nutrients, all small proteins and peptides (degraded to amino acids), much water and electrolyte",Junqueira::Ch19 tables,basic
 Ch 19 · Thin descending limb — Epithelium?,Simple squamous,Junqueira::Ch19 tables,basic
-Ch 19 · Thin descending limb — Key features?,Thin,Junqueira::Ch19 tables,basic
 Ch 19 · Thin descending limb — Function?,Water permeability,Junqueira::Ch19 tables,basic
 Ch 19 · Thin ascending limb — Epithelium?,Simple squamous,Junqueira::Ch19 tables,basic
-Ch 19 · Thin ascending limb — Key features?,Thin,Junqueira::Ch19 tables,basic
 Ch 19 · Thick ascending limb (TAL = distal straight tubule) — Epithelium?,"Simple cuboidal, low brush border",Junqueira::Ch19 tables,basic
 Ch 19 · Thick ascending limb (TAL = distal straight tubule) — Key features?,Ends as the macula densa at the vascular pole,Junqueira::Ch19 tables,basic
 Ch 19 · Thick ascending limb (TAL = distal straight tubule) — Function?,"NaCl reabsorption, impermeable to water — the diluting segment and loop-diuretic site",Junqueira::Ch19 tables,basic
@@ -691,9 +403,6 @@ Where are oxytocin and ADH made and stored?,Made in the supraoptic and paraventr
 Name the adrenal zones and their main hormones.,Glomerulosa: aldosterone; fasciculata: cortisol; reticularis: androgens.,Junqueira::Ch20 recall,basic
 "Which islet cells secrete insulin, and how abundant are they?",β cells; about twice as abundant as α cells.,Junqueira::Ch20 recall,basic
 "What are the two cell types of the parathyroid, and which secretes PTH?","Principal (chief) cells secrete PTH; oxyphil cells are larger, acidophilic, and increase with age.",Junqueira::Ch20 recall,basic
-Ch 20: Pars distalis?,"75% of the adenohypophysis; acidophils, basophils, chromophobes.",Junqueira::Ch20 facts,basic
-Ch 20: Acidophils?,"somatotrophs (GH) and lactotrophs (prolactin); basophils = corticotrophs, thyrotrophs, gonadotrophs.",Junqueira::Ch20 facts,basic
-Ch 20: Adrenal medulla?,"chromaffin cells, neural crest, 80% epinephrine.",Junqueira::Ch20 facts,basic
 Ch 20 · Pars distalis — Cells?,Acidophils,Junqueira::Ch20 tables,basic
 Ch 20 · Pars distalis — Hormones?,"GH, prolactin",Junqueira::Ch20 tables,basic
 Ch 20 · Pars intermedia — Cells?,"Basophils, colloid cysts",Junqueira::Ch20 tables,basic
@@ -708,16 +417,12 @@ Ch 20 · Zona fasciculata — Control?,ACTH,Junqueira::Ch20 tables,basic
 Ch 20 · Zona reticularis — Cells?,"Irregular cords, pigmented cells",Junqueira::Ch20 tables,basic
 Ch 20 · Zona reticularis — Hormone?,Androgens (DHEA),Junqueira::Ch20 tables,basic
 Ch 20 · Zona reticularis — Control?,ACTH,Junqueira::Ch20 tables,basic
-Ch 20 · Medulla — Cells?,Chromaffin cells (neural crest),Junqueira::Ch20 tables,basic
-Ch 20 · Medulla — Hormone?,"Epinephrine, norepinephrine",Junqueira::Ch20 tables,basic
-Ch 20 · Medulla — Control?,Sympathetic splanchnic nerve,Junqueira::Ch20 tables,basic
 Ch 20 · β (beta) — Product?,Insulin,Junqueira::Ch20 tables,basic
 Ch 20 · β (beta) — Notes?,About twice as abundant as α cells; central in the islet,Junqueira::Ch20 tables,basic
 Ch 20 · α (alpha) — Product?,Glucagon,Junqueira::Ch20 tables,basic
 Ch 20 · α (alpha) — Notes?,Peripheral,Junqueira::Ch20 tables,basic
 Ch 20 · δ (delta) — Product?,Somatostatin,Junqueira::Ch20 tables,basic
 Ch 20 · δ (delta) — Notes?,Paracrine inhibition,Junqueira::Ch20 tables,basic
-Ch 20 · PP — Product?,Pancreatic polypeptide,Junqueira::Ch20 tables,basic
 "What forms the blood–testis barrier, and what does it separate?",Tight junctions between Sertoli cells; basal and adluminal compartments.,Junqueira::Ch21 recall,basic
 "Which hormone acts on Sertoli cells, and which on Leydig cells?",FSH on Sertoli; LH on Leydig.,Junqueira::Ch21 recall,basic
 Name the four phases of spermiogenesis.,"Golgi, cap, acrosome, maturation.",Junqueira::Ch21 recall,basic
@@ -725,8 +430,6 @@ Name the four phases of spermiogenesis.,"Golgi, cap, acrosome, maturation.",Junq
 "What are corpora amylacea, and where are they found?",Calcified glycoprotein concretions in prostatic glands.,Junqueira::Ch21 recall,basic
 "Which prostatic zone gives rise to cancer, and which to benign hyperplasia?",Cancer: peripheral (70% of the gland). Benign hyperplasia: transition (5%).,Junqueira::Ch21 recall,basic
 "What cools the testicular arterial blood, and how?","The pampiniform plexus, by countercurrent heat exchange in the spermatic cord.",Junqueira::Ch21 recall,basic
-Ch 21 · Epididymis — Epithelium?,Pseudostratified columnar with stereocilia,Junqueira::Ch21 tables,basic
-Ch 21 · Epididymis — Function?,"Maturation and storage of sperm; about 6 m long, and transit takes 2–4 weeks",Junqueira::Ch21 tables,basic
 Ch 21 · Ductus (vas) deferens — Epithelium?,Pseudostratified columnar,Junqueira::Ch21 tables,basic
 Ch 21 · Ductus (vas) deferens — Function?,"Transport; very thick muscular wall (inner longitudinal, middle circular, outer longitudinal)",Junqueira::Ch21 tables,basic
 Ch 21 · Ejaculatory duct — Epithelium?,Columnar,Junqueira::Ch21 tables,basic
@@ -736,12 +439,7 @@ Ch 21 · Ejaculatory duct — Function?,Delivers into the prostatic urethra,Junq
 What prevents polyspermy?,Cortical granule exocytosis modifies the zona pellucida into the vitelline barrier.,Junqueira::Ch22 recall,basic
 Which hormone maintains the corpus luteum early in pregnancy?,hCG.,Junqueira::Ch22 recall,basic
 How do proliferative and secretory endometrium differ?,"Proliferative: straight narrow glands, mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.",Junqueira::Ch22 recall,basic
-Ch 22: Zona pellucida?,glycoprotein coat around the oocyte; corona radiata = granulosa cells carried with it at ovulation.,Junqueira::Ch22 facts,basic
-Ch 22: Cumulus oophorus?,granulosa mound carrying the oocyte into the antrum.,Junqueira::Ch22 facts,basic
-Ch 22: Proliferative phase?,"estrogen, straight narrow glands, mitoses; secretory phase = progesterone, saw-toothed glands, edema.",Junqueira::Ch22 facts,basic
-Ch 22: Menstrual phase?,spiral artery constriction and functionalis shedding.,Junqueira::Ch22 facts,basic
 "Ch 22: Cervix: columnar endocervix, stratified squamous ectocervix, squamocolumnar junction?",transformation zone.,Junqueira::Ch22 facts,basic
-Ch 22: Vagina?,"stratified squamous nonkeratinized epithelium with glycogen, no glands; acidity comes from lactobacilli.",Junqueira::Ch22 facts,basic
 Ch 22 · Primordial follicle — Structure?,Oocyte + single layer of flat granulosa cells,Junqueira::Ch22 tables,basic
 Ch 22 · Primordial follicle — Hormonal influence?,None; present from birth,Junqueira::Ch22 tables,basic
 Ch 22 · Primary follicle — Structure?,"Oocyte enlarges (to ~120 µm); granulosa cells become cuboidal (unilaminar), then stratified (multilaminar); zona pellucida appears",Junqueira::Ch22 tables,basic
@@ -754,23 +452,99 @@ Ch 22 · Atretic follicle — Structure?,Degenerating; glassy membrane remains,J
 Ch 22 · Corpus luteum — Structure?,"Granulosa-lutein cells (progesterone, ~80% of the gland) and theca-lutein cells (estrogens)",Junqueira::Ch22 tables,basic
 Ch 22 · Corpus luteum — Hormonal influence?,LH maintains it,Junqueira::Ch22 tables,basic
 Ch 22 · Corpus albicans — Structure?,White fibrous scar,Junqueira::Ch22 tables,basic
-Ch 22 · Menstrual — Days?,1–4,Junqueira::Ch22 tables,basic
-Ch 22 · Menstrual — Hormone?,Falling progesterone,Junqueira::Ch22 tables,basic
-Ch 22 · Menstrual — Histology?,"Shedding, hemorrhage, neutrophilic infiltrate",Junqueira::Ch22 tables,basic
-Ch 22 · Proliferative — Days?,5–14,Junqueira::Ch22 tables,basic
-Ch 22 · Proliferative — Hormone?,Estrogen,Junqueira::Ch22 tables,basic
-Ch 22 · Proliferative — Histology?,"Glands straight and narrow, mitoses, dense stroma",Junqueira::Ch22 tables,basic
-Ch 22 · Secretory — Days?,15–28,Junqueira::Ch22 tables,basic
-Ch 22 · Secretory — Hormone?,Progesterone,Junqueira::Ch22 tables,basic
-Ch 22 · Secretory — Histology?,"Glands tortuous and dilated with secretion, oedematous stroma, coiled spiral arteries",Junqueira::Ch22 tables,basic
 "Name the five layers of the cornea, outside in.","Epithelium, Bowman membrane, stroma, Descemet membrane, endothelium.",Junqueira::Ch23 recall,basic
 Where is aqueous humor produced and where does it drain?,Ciliary processes; drains through the trabecular meshwork into the canal of Schlemm.,Junqueira::Ch23 recall,basic
 Which retinal cells form the optic nerve?,Ganglion cells.,Junqueira::Ch23 recall,basic
 "What is the fovea, and why is acuity highest there?",A cone-only pit at the macula; it has the highest photoreceptor density and minimal overlying tissue.,Junqueira::Ch23 recall,basic
 Endolymph versus perilymph?,Endolymph (high K⁺) fills the membranous labyrinth; perilymph (high Na⁺) fills the bony labyrinth.,Junqueira::Ch23 recall,basic
-Ch 23 · Fibrous — Components?,Cornea and sclera,Junqueira::Ch23 tables,basic
-Ch 23 · Fibrous — Function?,Protection and support; the cornea also refracts,Junqueira::Ch23 tables,basic
 Ch 23 · Vascular (uvea) — Components?,"Choroid, ciliary body, iris",Junqueira::Ch23 tables,basic
 Ch 23 · Vascular (uvea) — Function?,"Nutrition, accommodation, pupil control",Junqueira::Ch23 tables,basic
-Ch 23 · Nervous — Components?,Retina,Junqueira::Ch23 tables,basic
-Ch 23 · Nervous — Function?,Phototransduction,Junqueira::Ch23 tables,basic
+Ch 2: What does rough ER make that smooth ER does not?,Membrane and secretory proteins — rough ER carries ribosomes; smooth ER makes lipids and steroids and detoxifies.,Junqueira::Ch02 tables,basic
+Ch 2: Which organelle is the main site of steroid synthesis?,The smooth endoplasmic reticulum.,Junqueira::Ch02 tables,basic
+Ch 2: What does the proteasome do?,Degrades proteins that have been tagged with ubiquitin.,Junqueira::Ch02 tables,basic
+Ch 2: Which cytoskeletal element forms the cleavage furrow in cytokinesis?,Actin microfilaments.,Junqueira::Ch02 tables,basic
+Ch 2: What passes through a nuclear pore?,"RNAs and proteins moving between nucleus and cytoplasm, by selective transport.",Junqueira::Ch02 tables,basic
+Ch 3: What is a nucleosome?,About 150 base pairs of DNA wrapped around an octamer of histones (two each of H2A H2B H3 H4) with H1 outside.,Junqueira::Ch03 tables,basic
+Ch 3: Heterochromatin versus euchromatin?,Heterochromatin is condensed and transcriptionally silent; euchromatin is dispersed and active.,Junqueira::Ch03 tables,basic
+Ch 3: What is a Barr body?,The inactivated X chromosome — facultative heterochromatin in a female somatic cell.,Junqueira::Ch03 tables,basic
+Ch 3: Which checkpoint does p53 control?,The G1 checkpoint: it arrests the cycle for DNA repair and triggers apoptosis if repair fails.,Junqueira::Ch03 tables,basic
+Ch 3: What do cyclins and CDKs do?,Cyclin binds a cyclin-dependent kinase; the complex phosphorylates target proteins to drive the cell through a cycle phase.,Junqueira::Ch03 tables,basic
+Ch 3: Give two structural differences between apoptosis and necrosis.,"Apoptosis shrinks the cell and keeps the membrane intact (apoptotic bodies, no inflammation); necrosis swells and ruptures the cell and inflames tissue.",Junqueira::Ch03 tables,basic
+Ch 3: Meiosis I versus meiosis II in one line each?,Meiosis I separates homologous chromosomes (reductional); meiosis II separates sister chromatids (equational).,Junqueira::Ch03 tables,basic
+Ch 3: What does the nucleolus make?,Ribosomal RNA and ribosomal subunits.,Junqueira::Ch03 tables,basic
+Ch 5: Which collagen type forms reticular fibers?,Type III collagen.,Junqueira::Ch05 tables,basic
+Ch 5: What is the main ground-substance GAG of loose connective tissue?,Hyaluronan — unsulfated and the only GAG not attached to a core protein.,Junqueira::Ch05 tables,basic
+Ch 5: Which cells store histamine and heparin?,Mast cells.,Junqueira::Ch05 tables,basic
+Ch 5: What does a plasma cell secrete?,Antibody (immunoglobulin); it has an eccentric clock-face nucleus and a pale perinuclear Golgi halo.,Junqueira::Ch05 tables,basic
+Ch 5: What produces the ground substance of connective tissue?,"Fibroblasts (and, in cartilage, chondrocytes) — they secrete proteoglycans and glycoproteins.",Junqueira::Ch05 tables,basic
+Ch 6: How large is a white adipocyte?,About 50–150 µm in diameter — large enough to be seen with a hand lens.,Junqueira::Ch06 tables,basic
+Ch 6: Where is UCP1 and what does it do?,In the inner mitochondrial membrane; it uncouples the proton gradient so energy is released as heat rather than ATP.,Junqueira::Ch06 tables,basic
+Ch 6: What secretes leptin and what does it do?,Adipocytes; it acts on the hypothalamus to reduce appetite.,Junqueira::Ch06 tables,basic
+Ch 6: What does adiponectin do?,Increases insulin sensitivity; its level falls in obesity.,Junqueira::Ch06 tables,basic
+Ch 6: What activates hormone-sensitive lipase?,Norepinephrine (from sympathetic nerves and the adrenal gland) and growth hormone; insulin inhibits it.,Junqueira::Ch06 tables,basic
+Ch 6: Where is brown fat found in the newborn?,"Interscapular, axillary, perirenal, and along the great vessels.",Junqueira::Ch06 tables,basic
+Ch 7: Which cartilage type has the most abundant collagen and the least proteoglycan?,Fibrocartilage — type I collagen bundles with rows of chondrocytes and no perichondrium.,Junqueira::Ch07 tables,basic
+Ch 7: Where is hyaline cartilage found?,"Articular surfaces, costal cartilage, nose, trachea, and the fetal skeleton.",Junqueira::Ch07 tables,basic
+Ch 7: Where is elastic cartilage found?,"Auricle, external acoustic meatus, epiglottis, and Eustachian tube.",Junqueira::Ch07 tables,basic
+Ch 7: Which cartilage type lacks a perichondrium?,Fibrocartilage.,Junqueira::Ch07 tables,basic
+Ch 7: What is a lacuna?,The space in the cartilage matrix that houses a chondrocyte.,Junqueira::Ch07 tables,basic
+Ch 7: Appositional versus interstitial growth?,Appositional adds cartilage at the surface from the perichondrium and increases width; interstitial divides chondrocytes inside lacunae and increases length.,Junqueira::Ch07 tables,basic
+Ch 7: How is cartilage nourished?,By diffusion from synovial fluid or from vessels in the perichondrium — cartilage is avascular.,Junqueira::Ch07 tables,basic
+Ch 7: What are the two layers of perichondrium?,An outer fibrous layer of collagen and an inner chondrogenic layer of cells.,Junqueira::Ch07 tables,basic
+Ch 13: Where does hemopoiesis occur in the adult?,"Red marrow of the axial skeleton — vertebrae, ribs, sternum, pelvis, and proximal femur.",Junqueira::Ch13 tables,basic
+Ch 13: What is a proerythroblast?,"The first recognizable erythroid precursor: large, with lacy chromatin, nucleoli, and basophilic cytoplasm.",Junqueira::Ch13 tables,basic
+Ch 13: What is a reticulocyte?,A young erythrocyte that has extruded its nucleus but still contains residual RNA.,Junqueira::Ch13 tables,basic
+Ch 13: How does a megakaryocyte make platelets?,It becomes polyploid with a lobulated nucleus; its cytoplasm fragments into platelets.,Junqueira::Ch13 tables,basic
+Ch 13: Name the granulocyte maturation sequence.,Myeloblast → promyelocyte → myelocyte → metamyelocyte → band cell → segmented cell.,Junqueira::Ch13 tables,basic
+Ch 13: At which stage do specific granules first appear?,"The myelocyte stage (azurophilic granules appear earlier, at the promyelocyte stage).",Junqueira::Ch13 tables,basic
+Ch 13: What makes erythropoietin and what does it do?,Peritubular interstitial cells of the kidney; it stimulates erythroid proliferation and hemoglobin synthesis.,Junqueira::Ch13 tables,basic
+Ch 13: What does G-CSF do?,Stimulates granulocyte production and mobilization from marrow.,Junqueira::Ch13 tables,basic
+Ch 13: Which cells form the marrow stroma?,"Reticular cells, macrophages, adipocytes, and endothelial cells — the hematopoietic niche.",Junqueira::Ch13 tables,basic
+Ch 14: Which MHC class do CD8 T cells read?,MHC class I.,Junqueira::Ch14 tables,basic
+Ch 14: Which cells present antigen on MHC class II?,"Antigen-presenting cells: dendritic cells, macrophages, and B cells.",Junqueira::Ch14 tables,basic
+Ch 14: Where does positive selection of T cells occur?,The thymic cortex.,Junqueira::Ch14 tables,basic
+Ch 14: What is the function of Hassall corpuscles?,"Whorls of degenerating epithelial cells in the thymic medulla — a marker of the thymus, not a functional unit.",Junqueira::Ch14 tables,basic
+Ch 14: What is the white pulp of the spleen?,Lymphoid tissue around central arteries — periarteriolar T-cell sheaths and B-cell follicles.,Junqueira::Ch14 tables,basic
+Ch 14: Why does the spleen need no afferent lymphatics?,"It filters blood, not lymph; antigens arrive in the blood.",Junqueira::Ch14 tables,basic
+Ch 15: Which cells of the stomach secrete hydrochloric acid?,Parietal cells — they have intracellular canaliculi and abundant mitochondria.,Junqueira::Ch15 tables,basic
+Ch 15: Which cells secrete pepsinogen?,Chief (zymogenic) cells of the gastric glands.,Junqueira::Ch15 tables,basic
+Ch 15: What are Brunner glands and where are they?,Mucous glands in the duodenal submucosa.,Junqueira::Ch15 tables,basic
+Ch 15: What is the function of Paneth cells?,Secrete lysozyme and defensins at the base of intestinal crypts — innate defense.,Junqueira::Ch15 tables,basic
+Ch 15: Where are Peyer patches and what are they?,Lymphoid follicles in the ileal lamina propria and submucosa.,Junqueira::Ch15 tables,basic
+Ch 16: Which salivary gland is purely serous?,The parotid.,Junqueira::Ch16 tables,basic
+Ch 16: What do striated ducts do?,"Reabsorb sodium and chloride and add bicarbonate, making saliva hypotonic.",Junqueira::Ch16 tables,basic
+Ch 16: What do centroacinar cells secrete?,"Bicarbonate-rich fluid; they are the first cells of the pancreatic duct, inside the acinus.",Junqueira::Ch16 tables,basic
+Ch 16: Secretin versus CCK?,Secretin stimulates bicarbonate-rich pancreatic fluid; CCK stimulates enzyme secretion and gallbladder contraction.,Junqueira::Ch16 tables,basic
+Ch 16: Name the portal triad.,"Portal venule, hepatic arteriole, and bile ductule (with a lymphatic), in the portal area.",Junqueira::Ch16 tables,basic
+Ch 16: Which way does bile flow in a hepatic lobule?,Toward the portal area — opposite to the direction of blood flow.,Junqueira::Ch16 tables,basic
+Ch 16: What are Kupffer cells?,Macrophages attached to the sinusoidal endothelium of the liver.,Junqueira::Ch16 tables,basic
+Ch 16: What do Ito (hepatic stellate) cells store?,"Vitamin A, in lipid droplets; they also produce collagen in fibrosis.",Junqueira::Ch16 tables,basic
+Ch 16: Where are bile canaliculi?,"Between adjacent hepatocytes, sealed by tight junctions.",Junqueira::Ch16 tables,basic
+Ch 16: What does the gallbladder do?,Stores and concentrates bile by absorbing water; CCK contracts it.,Junqueira::Ch16 tables,basic
+Ch 21: What forms the blood–testis barrier and what does it separate?,Tight junctions between Sertoli cells; a basal compartment with spermatogonia and an adluminal compartment with spermatocytes and spermatids.,Junqueira::Ch21 tables,basic
+Ch 21: Name three Sertoli cell secretions.,"Androgen-binding protein, inhibin, and Müllerian-inhibiting substance (also transferrin and fluid).",Junqueira::Ch21 tables,basic
+Ch 21: Which hormone drives Leydig cells?,Luteinizing hormone (also called interstitial cell-stimulating hormone).,Junqueira::Ch21 tables,basic
+Ch 21: How long does spermatogenesis take?,"About two months, from the last spermatogonial mitosis to spermatid formation.",Junqueira::Ch21 tables,basic
+Ch 21: Which enzymes does the acrosome contain?,Hyaluronidase and acrosin (a trypsin-like protease).,Junqueira::Ch21 tables,basic
+Ch 21: What epithelium lines the epididymis?,Pseudostratified columnar with principal cells bearing stereocilia and small basal cells.,Junqueira::Ch21 tables,basic
+Ch 21: What are the muscle layers of the ductus deferens?,"Inner longitudinal, middle circular, outer longitudinal — a very thick muscularis.",Junqueira::Ch21 tables,basic
+Ch 21: How much of the ejaculate comes from the seminal vesicles?,"About 70% — fructose, prostaglandins, and fibrinogen.",Junqueira::Ch21 tables,basic
+Ch 21: Name the three zones of the prostate.,"Peripheral (70%, cancer), central (25%), and transition (5%, benign hyperplasia).",Junqueira::Ch21 tables,basic
+Ch 21: What causes erection?,Parasympathetic acetylcholine → endothelial nitric oxide → cGMP → smooth-muscle relaxation → helicine arteries dilate and cavernous spaces fill.,Junqueira::Ch21 tables,basic
+Ch 22: Which cells aromatize androgens to estrogens?,"Granulosa cells, using androstenedione from theca interna cells.",Junqueira::Ch22 tables,basic
+Ch 22: What is released at ovulation?,"A secondary oocyte arrested in metaphase II, surrounded by the corona radiata.",Junqueira::Ch22 tables,basic
+Ch 22: How is polyspermy prevented?,Cortical granule exocytosis converts the zona pellucida into the impenetrable perivitelline barrier.,Junqueira::Ch22 tables,basic
+Ch 22: Which hormone rescues the corpus luteum in early pregnancy?,hCG from the syncytiotrophoblast.,Junqueira::Ch22 tables,basic
+Ch 22: Proliferative versus secretory endometrium?,Proliferative: straight narrow glands and mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.,Junqueira::Ch22 tables,basic
+Ch 23: Name the five layers of the cornea in order.,"Corneal epithelium, Bowman membrane, stroma, Descemet membrane, and endothelium.",Junqueira::Ch23 tables,basic
+Ch 23: Trace aqueous humor from production to drainage.,Ciliary processes → posterior chamber → pupil → anterior chamber → trabecular meshwork → scleral venous sinus.,Junqueira::Ch23 tables,basic
+Ch 23: How is the lens nourished?,By diffusion from the aqueous humor and vitreous — it is avascular.,Junqueira::Ch23 tables,basic
+Ch 23: Rods versus cones?,"Rods contain rhodopsin, work in dim light, and are absent from the fovea; cones contain iodopsin, give color and detail, and dominate the fovea.",Junqueira::Ch23 tables,basic
+Ch 23: Why is the fovea the site of highest acuity?,"It contains only cones and the overlying retinal layers are displaced sideways, so light is not scattered.",Junqueira::Ch23 tables,basic
+Ch 23: Why is the optic disc a blind spot?,Ganglion cell axons converge there to form the optic nerve; there are no photoreceptors.,Junqueira::Ch23 tables,basic
+Ch 23: Name three functions of the retinal pigment epithelium.,Absorbs stray light; forms the blood–retina barrier; phagocytoses shed discs and regenerates 11-cis-retinal.,Junqueira::Ch23 tables,basic
+Ch 23: Name the retinal layers from the vitreous inward.,"Inner limiting membrane, nerve fiber layer, ganglion cell layer, inner plexiform, inner nuclear, outer plexiform, outer nuclear, outer limiting, rod and cone layer, pigment epithelium.",Junqueira::Ch23 tables,basic
+Ch 23: Endolymph versus perilymph?,Endolymph is high in potassium and fills the membranous labyrinth; perilymph resembles CSF and fills the bony labyrinth.,Junqueira::Ch23 tables,basic
+Ch 23: Which cells transduce sound in the organ of Corti?,"Hair cells — about 12,000 outer cells in three to five rows and 3,500 inner cells in one row.",Junqueira::Ch23 tables,basic
+Ch 23: Macula versus crista?,Maculae (utricle and saccule) detect gravity and linear acceleration; cristae (semicircular ducts) detect rotational acceleration.,Junqueira::Ch23 tables,basic
+Ch 23: What does the tectorial membrane do?,"It overlies the organ of Corti and its tallest stereocilia are embedded in it, so basilar membrane movement bends the hair bundles.",Junqueira::Ch23 tables,basic

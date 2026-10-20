@@ -104,7 +104,7 @@ Ten headings, ten marks, almost regardless of the organ. Write the headings firs
 - Mixing up the two adrenal cortex zones that produce cortisol and aldosterone.
 - Writing "bone is dead tissue" — osteocytes are metabolically active and connected by canaliculi.
 
-> **PEARL** — In a viva or OSCE-style histology station, the examiner is usually testing whether you can *connect* a structure to a function and a disease. Practise every fact in a three-part sentence: "Structurally X, which allows Y, and when it fails you get Z."
+> **PEARL** — In a viva or OSCE-style histology station, the examiner is usually testing whether you can *connect* a structure to a function and a disease. Practice every fact in a three-part sentence: "Structurally X, which allows Y, and when it fails you get Z."
 
 ## About the 17th Edition
 

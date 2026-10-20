@@ -402,6 +402,30 @@ class Book(BaseDocTemplate):
                 self.canv.addOutlineEntry(flowable.getPlainText(), key, level, 0)
 
 
+def group_blocks(blocks):
+    """Keep a heading, its intro, and its bullets on one page when they fit.
+
+    The 'Plates to study' lists at the end of each chapter are short; without this
+    they can leave a heading and one orphaned bullet on a page of their own.
+    """
+    out = []
+    i = 0
+    while i < len(blocks):
+        b = blocks[i]
+        if b[0] == "h3" and b[1].strip().lower().startswith("plates to study"):
+            group = [b]
+            j = i + 1
+            while j < len(blocks) and blocks[j][0] in ("para", "bullet"):
+                group.append(blocks[j])
+                j += 1
+            out.append(("keep", group))
+            i = j
+            continue
+        out.append(b)
+        i += 1
+    return out
+
+
 def build_story(blocks):
     story = []
     first_part = True
@@ -414,6 +438,12 @@ def build_story(blocks):
 
     for b in blocks:
         kind = b[0]
+
+        if kind == "keep":
+            inner = build_story(b[1])
+            if inner:
+                story.append(KeepTogether(inner))
+            continue
 
         if kind == "part":
             title = b[1]
@@ -520,7 +550,7 @@ def build_story(blocks):
 
 
 def build_pdf():
-    blocks = read_blocks()
+    blocks = group_blocks(read_blocks())
     doc = Book(OUT_PDF)
     toc = TableOfContents()
     toc.levelStyles = [STY["toc0"], STY["toc1"]]

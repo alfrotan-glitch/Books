@@ -38,7 +38,7 @@ Organs form by an orderly combination of these tissues. Because cells and matrix
 
 ### Staining
 
-Most cells and extracellular material are completely colourless. Dyes behave like acidic or basic compounds and form **electrostatic (salt) linkages** with ionisable radicals of tissue macromolecules.
+Most cells and extracellular material are completely colorless. Dyes behave like acidic or basic compounds and form **electrostatic (salt) linkages** with ionisable radicals of tissue macromolecules.
 
 | Term | Meaning in the book | Examples |
 |---|---|---|
@@ -62,7 +62,7 @@ Most cells and extracellular material are completely colourless. Dyes behave lik
 | **Mallory trichrome** | Purple | Red-orange (also keratin, erythrocytes) | **Blue** | Connective tissue, small vessels, pituitary, kidney |
 | **Picrosirius–hematoxylin (PSH)** | Purple | Pink-violet | **Collagen red**, birefringent under polarized light | Ovary, cartilage, tendon |
 | **PAS** | — | Magenta where carbohydrate is abundant | Glycogen, mucin, basement membrane, glycocalyx | Gut, kidney, cartilage |
-| **Wright–Giemsa** | Purple | Granules colour differentially | Erythrocytes pink | Blood and marrow smears |
+| **Wright–Giemsa** | Purple | Granules color differentially | Erythrocytes pink | Blood and marrow smears |
 | **Silver / gold** | — | — | Nerve filaments and **reticulin (type III)** black-brown | Nervous tissue, lymphoid organs |
 | **Elastin stains** (Weigert, aldehyde fuchsin, orcein) | — | — | Elastic fibers brown-purple | Aorta, lung, skin |
 | **Lipid stains** (oil red O, Sudan black, osmium tetroxide) | — | — | Lipid droplets and myelin | Adipose tissue, steroid cells, nerve |
@@ -88,7 +88,7 @@ The **bright-field microscope** has three lens sets:
 | **Confocal** | A laser point source and a **pinhole aperture** optically conjugated to the focal plane block out-of-focus light; the beam scans the specimen | Thin **optical sections**, localization with great precision, and 3-D reconstruction |
 | **Polarizing** | A polarizing filter passes light vibrating in one direction; oriented macromolecules rotate it and appear bright against a dark background — **birefringence** | Collagen, cellulose, microtubules, actin filaments; only material with repetitive periodic structure is seen |
 
-Digital cameras extend all of these methods: images can be quantified, enhanced, and analysed by software for features not visible through the eyepieces.
+Digital cameras extend all of these methods: images can be quantified, enhanced, and analyzed by software for features not visible through the eyepieces.
 
 ### Electron Microscopy
 
@@ -108,7 +108,7 @@ Living cells maintained outside the body, observed with phase-contrast or DIC mi
 
 ### Enzyme Histochemistry
 
-A substrate is converted by a specific enzyme into an **insoluble, coloured product** deposited at the site of the enzyme, localizing enzyme activity within cells. **Acid phosphatase** for lysosomes is the standard example.
+A substrate is converted by a specific enzyme into an **insoluble, colored product** deposited at the site of the enzyme, localizing enzyme activity within cells. **Acid phosphatase** for lysosomes is the standard example.
 
 ### Visualizing Specific Molecules
 
@@ -132,7 +132,7 @@ Two rules from the book's own section:
 
 > **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
 
-> **PEARL** — The examiner's favourite Chapter 1 chain is: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
+> **PEARL** — The examiner's favorite Chapter 1 chain is: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
 
 ### Chapter 1 — one-line answers
 
@@ -214,13 +214,13 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 - **Osmosis** — water movement through the bilayer and aquaporins.
 - **Facilitated diffusion** — carrier or channel, down the gradient, no energy.
 - **Active transport** — against the gradient, ATP-dependent. The **Na⁺/K⁺-ATPase** exchanges 3 Na⁺ out for 2 K⁺ in and consumes a large fraction of the cell's resting energy budget.
-- **Endocytosis** — **phagocytosis** (large particles, actin-driven), **pinocytosis** (fluid), **receptor-mediated endocytosis** (clathrin-coated pits; the classic example is LDL uptake, and its failure causes familial hypercholesterolaemia).
+- **Endocytosis** — **phagocytosis** (large particles, actin-driven), **pinocytosis** (fluid), **receptor-mediated endocytosis** (clathrin-coated pits; the classic example is LDL uptake, and its failure causes familial hypercholesterolemia).
 - **Exocytosis** — vesicle fusion with the plasma membrane; requires SNARE proteins and calcium.
 - **Transcytosis** — endocytosis on one face plus exocytosis on the other; used by endothelial cells and antibodies crossing epithelia.
 
 ### Cytoplasmic Organelles
 
-**Mitochondria.** Double membrane; the inner membrane folds into **cristae** carrying the electron transport chain and ATP synthase. The matrix contains circular mitochondrial DNA, mitochondrial ribosomes, and calcium granules. Mitochondria are **maternally inherited** and semi-autonomous. Cells with huge energy demand (cardiac muscle, brown fat, proximal tubule, sperm midpiece) are packed with them. **Cells that synthesize steroid hormone have mitochondria with tubular rather than lamellar cristae** — a favourite EM question.
+**Mitochondria.** Double membrane; the inner membrane folds into **cristae** carrying the electron transport chain and ATP synthase. The matrix contains circular mitochondrial DNA, mitochondrial ribosomes, and calcium granules. Mitochondria are **maternally inherited** and semi-autonomous. Cells with huge energy demand (cardiac muscle, brown fat, proximal tubule, sperm midpiece) are packed with them. **Cells that synthesize steroid hormone have mitochondria with tubular rather than lamellar cristae** — a favorite EM question.
 
 **Ribosomes.** 15–20 nm particles of rRNA plus protein, made of a large and small subunit. Free ribosomes make cytosolic protein for internal use; ribosomes bound to the rough ER make protein for secretion, membranes, or lysosomes. **Polyribosomes (polysomes)** are strings of ribosomes on one mRNA, and a **polyribosome** is the functional unit of translation.
 
@@ -322,11 +322,11 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 
 **Nuclear envelope.** Two membranes separated by a **perinuclear cisterna**, continuous with the rough ER. Beneath the inner membrane lies the **nuclear lamina**, a meshwork of **lamins A, B, and C** that supports the envelope and organizes chromatin. **Mutations in lamin A cause Hutchinson–Gilford progeria.**
 
-**Centrosomes.** Each cell has a pair of **centrioles** — nine microtubular triplets — surrounded by pericentriolar material: the **centrosome**, the microtubule-organizing centre that builds the mitotic spindle, and the **basal body** of a cilium.
+**Centrosomes.** Each cell has a pair of **centrioles** — nine microtubular triplets — surrounded by pericentriolar material: the **centrosome**, the microtubule-organizing center that builds the mitotic spindle, and the **basal body** of a cilium.
 
 **Nuclear pores.** 3,000–4,000 per nucleus, each a **nuclear pore complex** regulating traffic. Small molecules diffuse; proteins and RNA require **importins and exportins** and a Ran-GTP gradient.
 
-**Chromatin.** Each human cell holds about **2 metres of DNA — 3.2 billion base pairs** — which must be packaged into a nucleus a few micrometres across. The DNA wraps around a core of **eight histones** (two copies each of H2A, H2B, H3, H4) with **about 150 bp** per turn, plus a larger **H1** histone on the outside: that unit is the **nucleosome**, which in EM looks like **10-nm beads on a string**. Further folding into 30-nm fibers and beyond involves nonhistone scaffold proteins and is less well understood. **Heterochromatin** is condensed and transcriptionally inactive; **euchromatin** is dispersed and active. **Constitutive** heterochromatin is permanently silent; **facultative** heterochromatin can be reactivated. The **Barr body** is a facultatively heterochromatic, inactivated X chromosome — one per somatic cell in a female.
+**Chromatin.** Each human cell holds about **2 meters of DNA — 3.2 billion base pairs** — which must be packaged into a nucleus a few micrometers across. The DNA wraps around a core of **eight histones** (two copies each of H2A, H2B, H3, H4) with **about 150 bp** per turn, plus a larger **H1** histone on the outside: that unit is the **nucleosome**, which in EM looks like **10-nm beads on a string**. Further folding into 30-nm fibers and beyond involves nonhistone scaffold proteins and is less well understood. **Heterochromatin** is condensed and transcriptionally inactive; **euchromatin** is dispersed and active. **Constitutive** heterochromatin is permanently silent; **facultative** heterochromatin can be reactivated. The **Barr body** is a facultatively heterochromatic, inactivated X chromosome — one per somatic cell in a female.
 
 **Nucleolus.** Not membrane-bound; a factory for ribosomal subunits, with a **pars fibrosa** (rRNA transcription) and a **pars granulosa** (ribosome assembly), organized around **nucleolar organizer regions** on the acrocentric chromosomes **13, 14, 15, 21, and 22**. Cells that make large amounts of protein have prominent nucleoli, and malignant cells often do too.
 

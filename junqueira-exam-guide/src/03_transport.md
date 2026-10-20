@@ -124,7 +124,20 @@ Blood is connective tissue with a liquid matrix. Its cells all derive from one s
 
 ### Composition of Plasma
 
-About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-globulins, complement proteins, and fibrinogen**, all secreted in the **liver**, plus the **immunoglobulins** — and electrolytes, nutrients, hormones, and waste. On clotting, some proteins are consumed and others are released from platelets, leaving **serum**, whose biological properties differ from plasma. **Serum is plasma minus fibrinogen** (i.e., after clotting).
+About **55% of blood volume**. Water plus plasma proteins — **albumin, α- and β-globulins, complement proteins, and fibrinogen**, all secreted in the **liver**, plus the **immunoglobulins** — and electrolytes, nutrients, hormones, and waste.
+
+The book's Table 12–1 (p2 · 158 — a page with no extractable text, read here from the page image) quantifies the mixture:
+
+| Component | Share | Job |
+|---|---|---|
+| **Water** | ~92% of plasma | Solvent in which formed elements are suspended |
+| **Plasma proteins** | ~7% of plasma | Buffer pH; maintain osmotic pressure |
+| — **Albumin** | ~58% of plasma protein | Osmotic pull (oncotic pressure); carries fatty acids, hormones, drugs |
+| — **Globulins** | ~37% of plasma protein | α- and β-globulins transport lipids, metals, and iron; γ-globulins are antibodies |
+| — **Fibrinogen** | ~4% of plasma protein | Precursor of fibrin for clotting |
+| — **Regulatory proteins** | <1% of plasma protein | Enzymes, proenzymes, hormones, complement |
+| **Electrolytes** | <1% of plasma | Membrane potentials, pH, osmotic control |
+| **Nutrients** | <1% of plasma | Glucose, amino acids, cholesterol, vitamins — energy and synthesis | On clotting, some proteins are consumed and others are released from platelets, leaving **serum**, whose biological properties differ from plasma. **Serum is plasma minus fibrinogen** (i.e., after clotting).
 
 ### Blood Cells
 
@@ -426,7 +439,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 | **Spleen** | Yes | **None** | Yes | **White and red pulp** |
 | **Tonsil** | No | None | Yes | Crypts |
 
-> **CLINICAL** — **DiGeorge syndrome** is thymic aplasia (third and fourth pharyngeal pouches) with T-cell deficiency and hypocalcaemia. **Severe combined immunodeficiency** is failure of both arms. **Hodgkin lymphoma** spreads contiguously through nodes and shows Reed–Sternberg cells. **Splenectomy** increases susceptibility to encapsulated organisms — pneumococcus, meningococcus, *Haemophilus influenzae* — because the spleen's marginal zone is the first line against polysaccharide capsules.
+> **CLINICAL** — **DiGeorge syndrome** is thymic aplasia (third and fourth pharyngeal pouches) with T-cell deficiency and hypocalcemia. **Severe combined immunodeficiency** is failure of both arms. **Hodgkin lymphoma** spreads contiguously through nodes and shows Reed–Sternberg cells. **Splenectomy** increases susceptibility to encapsulated organisms — pneumococcus, meningococcus, *Haemophilus influenzae* — because the spleen's marginal zone is the first line against polysaccharide capsules.
 
 > **MICRO** — Ask **"what is at the center of the nodule?"** Thymus: lobules with dark cortex and pale medulla plus pink whorls (Hassall corpuscles). Lymph node: capsule, subcapsular sinus, hilum. Spleen: **white pulp islands inside a red sea** of sinusoids and cords.
 

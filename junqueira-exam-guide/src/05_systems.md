@@ -438,13 +438,13 @@ Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thi
 
 The LH surge sustains progesterone secretion for **10–12 days**. Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
 
-**The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3** are the sperm receptors; **ZP3** triggers the acrosomal reaction. The book's Summary of Key Points calls them "ZO proteins" — the body text and Figure 22–6 give ZP, and the figure notes four related glycoproteins.
+**The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3**, all made by the oocyte, form the sperm-binding receptor; binding of a capacitated sperm to this coat begins the acrosomal reaction. The book's Summary of Key Points calls them "ZO proteins" — the body text and Figure 22–6 give ZP, and the figure notes four related glycoproteins.
 
 **Ovulation, step by step.** The LH surge triggers: completion of **meiosis I** with extrusion of the **first polar body**; granulosa production of fluid rich in prostaglandins, proteoglycans, and proteases; **hyaluronan** release that loosens the cumulus; activation of **plasmin**, which digests collagen at the **stigma** (the ischemic bulge on the ovarian surface); and contraction of **theca externa** smooth muscle. The follicle ruptures, releasing the **secondary oocyte, arrested in metaphase II**, wrapped in the **corona radiata** — viable for about **24 hours**. If a sperm arrives, the oocyte completes meiosis II and emits the **second polar body**; the two pronuclei fuse to form the **zygote**.
 
 A mature follicle takes about **90 days** to develop from a primordial follicle, and only one per cycle reaches that stage while its neighbours become atretic.
 
-**Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to make **androstenedione**; it crosses the basement membrane (the granulosa layer is avascular) and **FSH** stimulates **granulosa** cells to **aromatize** it to **estradiol**. The estrogen returns to the theca capillaries and reaches the whole body. This division of labour explains why both gonadotropins are needed for normal estrogen production — and why the granulosa layer must stay avascular.
+**Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to make **androstenedione**; it crosses the basement membrane (the granulosa layer is avascular) and **FSH** stimulates **granulosa** cells to **aromatize** it to **estradiol**. The estrogen returns to the theca capillaries and reaches the whole body. This division of labor explains why both gonadotropins are needed for normal estrogen production — and why the granulosa layer must stay avascular.
 
 ### Uterine Tubes
 
@@ -456,8 +456,8 @@ Fertilization normally occurs in the **ampulla**, and only a few hundred of the 
 
 1. **Capacitation** in the female tract makes sperm able to fertilize.
 2. The sperm releases **hyaluronidase** to pass between the corona radiata cells.
-3. At the zona, **ZP3** triggers the **acrosomal reaction**: **acrosin** and other proteases digest a path through the zona.
-4. The first sperm to cross fuses with the oolemma. Membrane depolarization and a **Ca²⁺ wave** trigger the **cortical reaction** — proteases from cortical granules destroy ZP3 and convert the zona into the impenetrable **perivitelline barrier**, a permanent block to polyspermy.
+3. At the zona, binding to the **ZP1–ZP3** complex triggers the **acrosomal reaction**: **acrosin** and other proteases digest a path through the zona.
+4. The first sperm to cross fuses with the oolemma. Membrane depolarization and a **Ca²⁺ wave** trigger the **cortical reaction** — proteases from cortical granules modify the zona glycoproteins and convert the zona into the impenetrable **perivitelline barrier**, a permanent block to polyspermy.
 5. The oocyte completes **meiosis II**, emits the **second polar body**, and forms the female pronucleus; the sperm head decondenses into the male pronucleus. Fusion gives the diploid **zygote**.
 
 Cleavage follows as the embryo travels to the uterus — about **5 days** from fertilization to the blastocyst in the uterine cavity.
@@ -473,7 +473,7 @@ The uterus is pear-shaped: **body**, **fundus**, **isthmus**, and **cervix**, wi
 |---|---|---|---|
 | **Menstrual** | 1–4 | Falling progesterone | Shedding, hemorrhage, neutrophilic infiltrate |
 | **Proliferative** | 5–14 | **Estrogen** | Glands straight and narrow, mitoses, dense stroma |
-| **Secretory** | 15–28 | **Progesterone** | Glands **tortuous and dilated with secretion**, oedematous stroma, coiled spiral arteries |
+| **Secretory** | 15–28 | **Progesterone** | Glands **tortuous and dilated with secretion**, edematous stroma, coiled spiral arteries |
 
 The single best discriminator: **straight, narrow glands = proliferative; saw-toothed, dilated, secreting glands = secretory.**
 
@@ -610,7 +610,7 @@ Both organs convert a physical signal into a nerve impulse through a **specializ
 4. **Descemet's membrane** — the thick basement membrane of the endothelium.
 5. **Corneal endothelium** — simple squamous, the most metabolically active cells of the cornea; their **Na⁺/K⁺ ATPase** pumps control stromal hydration and therefore transparency.
 
-The cornea is **transparent because it is avascular and its collagen is regularly arranged**. When it becomes oedematous or scarred, it loses transparency — the anatomical explanation for corneal blindness.
+The cornea is **transparent because it is avascular and its collagen is regularly arranged**. When it becomes edematous or scarred, it loses transparency — the anatomical explanation for corneal blindness.
 
 - **Choroid** — pigmented, vascular; two layers: the inner **choroidocapillary lamina** (nourishes the outer retina) and **Bruch's membrane**, an elastin sheet between two collagen layers, next to the retinal pigment epithelium.
 - **Ciliary body** — **ciliary muscle** (three orientations; accommodation) and about **75 ciliary processes** covered by a **bilaminar epithelium**: a pigmented layer next to the stroma and a nonpigmented superficial layer. The nonpigmented cells pump aqueous humor and also secrete the **fibrillin** microfibrils of the **ciliary zonule** that suspends the lens.
@@ -627,12 +627,12 @@ The cornea is **transparent because it is avascular and its collagen is regularl
 | Layer | Contents |
 |---|---|
 | **Retinal pigment epithelium (RPE)** | Cuboidal, pigmented; absorbs stray light, forms the **blood–retina barrier** with tight junctions, **phagocytoses shed rod discs**, regenerates **11-cis-retinal**, and secretes trophic factors |
-| **Photoreceptor layer** | **Rods** (rhodopsin, dim light, ~120 million) and **cones** (iodopsin, color, ~6 million). Rod discs are **membrane stacks**; cone outer segments are **conical**. |
+| **Photoreceptor layer** | **Rods** (rhodopsin, dim light, ~92 million) and **cones** (iodopsin, color, ~4.6 million). Rod discs are **membrane stacks**; cone outer segments are **conical**. |
 | **Outer nuclear layer** | Photoreceptor nuclei |
 | **Inner nuclear layer** | Bipolar, horizontal, amacrine, and Müller cell nuclei |
 | **Ganglion cell layer** | Ganglion cells whose axons form the optic nerve |
 
-**Rods versus cones at the level of the disc** — a classic exam distinction: in **cones** the membranous discs of the outer segment are **continuous with the plasma membrane**; in **rods** they are **separate**, pinched-off discs. A single rod contains about **one billion rhodopsin** molecules.
+**Rods versus cones at the level of the disc** — a classic exam distinction: in **cones** the membranous discs of the outer segment are **continuous with the plasma membrane**; in **rods** they are **separate**, pinched-off discs. A single rod contains about **one billion rhodopsin** molecules, and each day it loses and replaces about **90 discs** in a cycle that takes **10 days**.
 
 **Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
 
@@ -673,7 +673,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 - Aqueous humor: ciliary processes → posterior chamber → pupil → anterior chamber → trabecular meshwork → canal of Schlemm.
 - The lens is avascular, suspended by the fibrillin zonule; it becomes rounder when the ciliary muscle contracts.
 - The retina has nine neural layers plus the pigmented epithelium.
-- Rods (rhodopsin, dim light) and cones (iodopsin, color); the fovea contains cones only.
+- Rods (rhodopsin, dim light, ~92 million) and cones (iodopsin, color, ~4.6 million); the fovea contains cones only.
 - Phototransduction: retinal isomerization → transducin → phosphodiesterase → cGMP falls → channels close → hyperpolarization.
 - The RPE absorbs light, forms the blood–retina barrier, phagocytoses discs, and regenerates 11-cis-retinal.
 - Endolymph is high-K⁺; perilymph resembles CSF.

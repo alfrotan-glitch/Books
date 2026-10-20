@@ -53,7 +53,7 @@ Every chapter has: a page range and the book's own section titles; learning obje
 | `Junqueira_Exam_Companion.pdf` | The complete book (PDF, A4, bookmarked) |
 | `Junqueira_Exam_Companion.docx` | Editable Word version |
 | `Junqueira_Exam_Companion.html` | Self-contained reading copy |
-| `deliverables/junqueira_flashcards.csv` | 775 Anki-importable cards (`Front,Back,Tags,Type`) |
+| `deliverables/junqueira_flashcards.csv` | 549 Anki-importable cards (`Front,Back,Tags,Type`) |
 | `deliverables/junqueira_question_bank.csv` | 100 MCQs with answer, explanation, and why each distractor fails |
 | `COVERAGE.md` | This checklist |
 

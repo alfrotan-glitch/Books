@@ -371,9 +371,9 @@ Muscle tissue consists of cells that optimize the universal cell property of **c
 | **I band** | Thin filaments (**actin**) only | Shortens |
 | **H band** | Thick filaments only, no overlap | Shortens |
 | **Z line** | Anchor for actin | Moves closer |
-| **M line** | Centre of the A band | — |
+| **M line** | Center of the A band | — |
 
-**Sliding filament mechanism:** myosin heads bind actin, hydrolyse ATP, and pivot, pulling thin filaments toward the M line. **The A band never changes length.**
+**Sliding filament mechanism:** myosin heads bind actin, hydrolyze ATP, and pivot, pulling thin filaments toward the M line. **The A band never changes length.**
 
 **Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarization spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fiber. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
 

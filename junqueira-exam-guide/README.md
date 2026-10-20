@@ -35,7 +35,7 @@ Edit anything in `src/`, then re-run. Sections are concatenated in filename orde
   - **CLINICAL**, **MICRO**, **TIP** and **MNEMONIC** callouts
   - **one-line answers** for the last night before an exam
   - **active-recall questions** with answers
-  - one **exam-style MCQ** with the reason each distractor fails
+  - one **exam-style MCQ** with a worked answer
   - **Plates to study** — six atlas figures per chapter, with the part and page where each figure sits
 - **Source map** — every chapter matched to its printed page range and to the page of the uploaded PDF part where it begins
 - **Chapter 24** — the last-24-hours rapid review: a concept map of the whole book, the organ-identification algorithm, ten master tables, 100 one-line facts, 25 distinctions that decide marks

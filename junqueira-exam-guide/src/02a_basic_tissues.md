@@ -309,12 +309,12 @@ Functions: energy storage, insulation, cushioning of organs (retro-orbital, peri
 
 **Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesized by the adipocytes themselves**. Mobilization is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
 
-**Adipokines** — the exam list:
+**Adipose-derived factors** — the exam list (note that the last one is an enzyme, not an adipokine):
 
 - **Leptin** — from adipocytes, acts on the hypothalamus to reduce appetite.
 - **Adiponectin** — increases insulin sensitivity; low in obesity.
 - **Resistin, TNF-α, IL-6** — pro-inflammatory, part of why obesity is a chronic inflammatory state.
-- **Aromatase** — converts androgens to estrogens; a peripheral estrogen source in obesity.
+- **Aromatase** — an enzyme, not a cytokine: it converts androgens to estrogens, making adipose tissue a peripheral estrogen source (the reason obesity raises estrogen levels).
 
 ### Brown Adipose Tissue
 
@@ -331,7 +331,7 @@ Found in the fetus and newborn (interscapular, axillary, perirenal, along the gr
 | Main role | Energy storage, endocrine | **Non-shivering thermogenesis** |
 | Sympathetic innervation | Sparse | Rich |
 
-> **CLINICAL** — In **lipodystrophy** fat is absent or redistributed, and the metabolic consequences are paradoxical: severe insulin resistance with hypertriglyceridaemia, because the remaining fat cannot store lipid safely. In **obesity** the same storage limit is approached, so lipid spills into liver (steatosis), muscle, and pancreas — **lipotoxicity**. Brown fat is a therapeutic target: activating it increases energy expenditure, and PET imaging shows active depots in adults.
+> **CLINICAL** — In **lipodystrophy** fat is absent or redistributed, and the metabolic consequences are paradoxical: severe insulin resistance with hypertriglyceridemia, because the remaining fat cannot store lipid safely. In **obesity** the same storage limit is approached, so lipid spills into liver (steatosis), muscle, and pancreas — **lipotoxicity**. Brown fat is a therapeutic target: activating it increases energy expenditure, and PET imaging shows active depots in adults.
 
 > **MICRO** — **One big hole per cell with a flattened nucleus at the rim = white. Many small holes with a round central nucleus and granular eosinophilic cytoplasm = brown.**
 
