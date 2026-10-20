@@ -38,7 +38,7 @@ Each kidney is bean-shaped, about **12 cm long, 6 cm wide, and 2.5 cm thick** in
 **Functional numbers to know:**
 
 - Total filtration area ≈ **500 cm²**.
-- **GFR ≈ 125 mL/min ≈ 180 L/day** — the book's figures.
+- **GFR ≈ 125 mL/min**, or about **180 L/day**.
 - Plasma volume ≈ **3 L**, so the kidneys filter a volume equal to the whole plasma volume about **60 times a day**.
 
 **Juxtaglomerular apparatus (JGA)** — at the vascular pole: **juxtaglomerular (JG) cells** in the afferent arteriole (modified smooth muscle, contain **renin**), the **macula densa** (a plaque of tall, closely packed cells in the distal straight tubule sensing NaCl), and **extraglomerular mesangial (lacis) cells**.
@@ -88,7 +88,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 - Lobe = pyramid + cortex; lobule = medullary ray + surrounding cortex.
 - Cortex receives **more than 10×** the blood flow of the medulla.
 - Afferent arteriole → glomerulus → **efferent arteriole** (not a venule), keeping glomerular pressure high.
-- Filtration area ≈ **500 cm²**; GFR ≈ **125 mL/min ≈ 180 L/day** (500 cm² and 125 mL/min are the book's figures).
+- Filtration area ≈ **500 cm²**; GFR ≈ **125 mL/min ≈ 180 L/day**.
 - Filtration barrier = fenestrated endothelium + **GBM (type IV collagen, ~330 nm)** + slit diaphragms (nephrin, podocalyxin).
 - Mesangial cells are contractile and support the capillary tuft.
 - **PCT**: brush border, eosinophilic, reabsorbs all glucose and small proteins.
