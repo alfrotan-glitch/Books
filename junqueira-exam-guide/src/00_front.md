@@ -11,14 +11,30 @@ This guide condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (
 | Block | What it gives you |
 |---|---|
 | **Chapter line** | Printed page range and the book's own section titles |
+| **Learning objectives** | What you must be able to do, not merely recognize, by the end |
 | **The core idea** | The one organizing principle that makes the chapter cohere |
 | **Sections** | The book's sections, in the book's order, condensed |
 | **Comparison tables** | The highest-yield format in histology — learn the rows, not the prose |
 | **CLINICAL** | The disease link that turns a fact into a mark |
 | **MICRO** | How to recognize the tissue on an unknown slide or EM image |
 | **TIP / MNEMONIC** | Traps, confusions, and memory hooks |
+| **One-line answers** | The chapter compressed to the sentences you would write in an exam |
+| **Active recall** | Five questions to answer from memory before checking |
+| **Exam-style question** | One worked MCQ, with the reason each distractor fails |
+| **Plates to study** | Six atlas figures, with the part and page where each one sits |
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This guide is designed to be read *before* those, so that when you reach them you already know the answers.
+
+**The complete study system** — the book is one deliverable, not the whole course:
+
+| File | Use it for |
+|---|---|
+| `Junqueira_Exam_Companion.pdf` / `.docx` / `.html` | Reading, revision, and printing |
+| `deliverables/junqueira_flashcards.csv` | Spaced repetition — import into Anki (fields: Front, Back, Tags, Type) |
+| `deliverables/junqueira_question_bank.csv` | Timed practice — question, four options, answer, explanation, and why each distractor fails |
+| `COVERAGE.md` | The audit trail: what was read, what is in each chapter, and the known discrepancies |
+
+Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.
 
 **Three questions answer 80% of slide questions**
 
@@ -102,7 +118,7 @@ The online version on AccessMedicine adds **500 multiple-choice questions** acro
 
 ## Source Map
 
-Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. **Chapters 1–7 are checked line by line against `MyDocument_part_1.pdf`, Chapters 8–14 against part 2, and Chapters 15–19 plus the pituitary, adrenal, islet and thyroid sections of Chapter 20 against part 3.** Part 3 ends part-way through Chapter 20 (at the thyroid follicles), so the parathyroid and pineal sections of Chapter 20 and all of Chapters 21–23 will be checked when part 4 is uploaded. The PDF page column is written `p1`, `p2`, `p3` for the part file, then the page inside that file.
+Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. **All four parts have now been read and every chapter has been checked against its part:** Chapters 1–7 against `MyDocument_part_1.pdf`, Chapters 8–14 against part 2, Chapters 15–19 and the pituitary, adrenal, islet and thyroid sections of Chapter 20 against part 3, and the parathyroid and pineal sections of Chapter 20, Chapters 21–23 and Appendix A against part 4. The PDF page column is written `p1`, `p2`, `p3`, `p4` for the part file, then the page inside that file.
 
 | Ch | Title | Book pages | Your PDF page | Part of this guide |
 |---|---|---|---|---|
@@ -125,8 +141,8 @@ Every chapter section here corresponds to the printed pages below, so the three 
 | 17 | The Respiratory System | 349–370 | p3 · 100 | IV |
 | 18 | Skin | 371–392 | p3 · 132 | IV |
 | 19 | The Urinary System | 393–412 | p3 · 161 | V |
-| 20 | Endocrine Glands | 413–438 | p3 · 191 | V |
-| 21 | The Male Reproductive System | 439–459 | part 4 | V |
-| 22 | The Female Reproductive System | 460–489 | part 4 | V |
-| 23 | The Eye & Ear: Special Sense Organs | 490–524 | part 4 | V |
-| App. | Light Microscopy Stains | 525–526 | part 4 | Appendix A |
+| 20 | Endocrine Glands | 413–438 | p3 · 191 to end; p4 · 1–10 | V |
+| 21 | The Male Reproductive System | 439–459 | p4 · 11 | V |
+| 22 | The Female Reproductive System | 460–489 | p4 · 40 | V |
+| 23 | The Eye & Ear: Special Sense Organs | 490–524 | p4 · 84 | V |
+| App. | Light Microscopy Stains | 525–526 | p4 · 138 | Appendix A |

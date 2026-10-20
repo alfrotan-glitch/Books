@@ -52,6 +52,7 @@ PART_DESC = {
     "PART V":   "Chapters 19–23  ·  kidney, endocrine glands, and the reproductive systems",
     "PART VI":  "Chapter 24, the master tables, and the reference appendices",
     "PART VII": "One hundred examination questions with explained answers",
+    "APPENDIX C": "The book's own stain appendix, with the chemistry and use of every stain in the atlas",
 }
 
 CALLOUTS = {

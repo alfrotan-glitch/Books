@@ -4,6 +4,15 @@
 
 **pp. 393–412** · Part 3, pages 161–190 · Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Trace filtrate from glomerulus to ureter, naming each segment and its epithelium.
+2. Explain the three layers of the filtration barrier and how each contributes to selectivity.
+3. Describe the juxtaglomerular apparatus and its role in blood-pressure control.
+4. Identify urothelium and explain how it protects against hypertonic urine.
+
 ### The core idea
 
 The kidney is a **countercurrent filtration and reabsorption machine** built from millions of identical tubes. Each segment of the tubule has a distinct epithelium matched to a distinct transport job, so identifying the segment from its histology is the same as naming its function.
@@ -91,9 +100,45 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 - Bladder holds **400–600 mL**; urge at **150–200 mL**.
 - Male urethra: prostatic, membranous, penile; female urethra 3–5 cm — short, hence cystitis.
 
+### Active recall
+
+1. **Which nephron segment is most eosinophilic, and why?** — The proximal convoluted tubule: abundant mitochondria and a brush border for active reabsorption.
+2. **What are the three layers of the filtration barrier?** — Fenestrated endothelium, glomerular basement membrane, and podocyte slit diaphragms.
+3. **What does the macula densa sense, and what does the JGA release?** — NaCl concentration; juxtaglomerular cells release renin.
+4. **Which cells of the collecting duct respond to ADH?** — Principal cells, by inserting aquaporins into the apical membrane.
+5. **What makes urothelium a barrier?** — Umbrella cells with uroplakin plaques and tight junctions.
+
+### Exam-style question
+
+**A patient has proteinuria from podocyte injury. Which layer of the filtration barrier is primarily affected?**
+
+A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte slit diaphragms<br/>D. Mesangial matrix
+
+**Answer: C** — Podocyte foot processes and their slit diaphragms form the final size filter; their loss produces proteinuria.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 19–1** — Kidney (p3 · 161).
+- **Fig. 19–4** — Microvasculature of the renal cortex (p3 · 165).
+- **Fig. 19–8** — Renal cortex: proximal and distal convoluted tubules (p3 · 172).
+- **Fig. 19–11** — Renal medulla: nephron loops and collecting ducts (p3 · 177).
+- **Fig. 19–15** — Renal papilla, collecting ducts, and minor calyx (p3 · 183).
+- **Fig. 19–18** — Urethra (p3 · 187).
+
 ## 20 · Endocrine Glands
 
-**pp. 413–438** · Part 3, pages 191–217 (to the thyroid) · Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
+**pp. 413–438** · Part 3, pages 191–217 + part 4, pages 1–10 · Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Classify endocrine organs by their architectural pattern (cords, follicles, clusters).
+2. Map each pituitary hormone to its cell type and hypothalamic control.
+3. Match each adrenal zone to its hormone and trophic control.
+4. Distinguish thyroid, parathyroid, and pineal tissue in a micrograph.
 
 ### The core idea
 
@@ -158,13 +203,21 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 
 ### Parathyroid Glands
 
-- **Chief cells** — small, pale, secretory cells producing **PTH**.
-- **Oxyphil cells** — larger, eosinophilic, abundant mitochondria, function uncertain; increase with age.
-- Arranged in cords with fat and capillaries; **no follicles**.
+Four small ovoid glands, each about **3 × 6 mm** and **0.4 g** in total, usually embedded in the thyroid capsule.
+
+- **Principal (chief) cells** — small, pale cells with round central nuclei, arranged in dense cords around capillaries; they secrete **PTH**.
+- **Oxyphil cells** — much larger, intensely eosinophilic cells packed with abnormal mitochondria. They are **degenerated derivatives of principal cells**, increase with age, and may retain low-level PTH synthesis.
+- With age, adipocytes replace secretory cells and can make up **more than half** the gland.
+- Cords and capillaries only — **no follicles**.
 
 ### Pineal Gland
 
-**Pinealocytes** (modified neurons) in cords, with **corpora arenacea (brain sand)** — calcified concretions visible on X-ray. Secretes **melatonin** in darkness under sympathetic control; a biological clock component, and a favourite "identify this organ" image because of the concretions.
+A pine-cone-shaped organ about **5–8 × 3–5 mm**, attached to the third ventricle and covered by pia mater.
+
+- **Pinealocytes** — modified neurons in cords and lobules, with pale nuclei and long processes ending near capillaries.
+- **Corpora arenacea (brain sand)** — concretions of calcium and magnesium salts formed on extracellular protein deposits; they appear in childhood and increase with age without affecting function. Their density is why the gland is radio-opaque and easy to identify on imaging.
+- **Melatonin** — a tryptophan derivative released in **darkness** under **sympathetic** control; it sets diurnal rhythms.
+- Interstitial (glial) cells lie between pinealocytes; unmyelinated sympathetic fibers run in the septa.
 
 > **CLINICAL** — **Graves disease** — diffuse hyperthyroidism with tall columnar follicular cells, scalloped colloid, and lymphoid infiltration. **Hashimoto thyroiditis** — autoimmune destruction with **Hürthle cells** and germinal centers. **Cushing syndrome** — excess cortisol, with fasciculata hyperplasia or an adrenal adenoma. **Conn syndrome** — aldosterone excess from a glomerulosa adenoma. **Pheochromocytoma** — a chromaffin-cell tumor producing episodic hypertension. **Diabetes mellitus** — progressive β-cell loss. **Pituitary adenoma** — bitemporal hemianopia from compression of the optic chiasm plus a hormone syndrome.
 
@@ -189,9 +242,45 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 - Parathyroid: **chief cells** (PTH) and **oxyphil cells** (function uncertain).
 - Pineal: **pinealocytes** and **corpora arenacea**; melatonin under sympathetic control.
 
+### Active recall
+
+1. **Which pituitary cells are acidophils?** — Somatotrophs (GH) and lactotrophs (prolactin).
+2. **Where are oxytocin and ADH made and stored?** — Made in the supraoptic and paraventricular nuclei; stored and released in the pars nervosa.
+3. **Name the adrenal zones and their main hormones.** — Glomerulosa: aldosterone; fasciculata: cortisol; reticularis: androgens.
+4. **Which islet cells secrete insulin, and how abundant are they?** — β cells; about twice as abundant as α cells.
+5. **What are the two cell types of the parathyroid, and which secretes PTH?** — Principal (chief) cells secrete PTH; oxyphil cells are larger, acidophilic, and increase with age.
+
+### Exam-style question
+
+**A patient has episodic hypertension and palpitations. A tumor is found in the adrenal medulla. Which cells are proliferating?**
+
+A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<br/>D. Pituitary corticotrophs
+
+**Answer: B** — Pheochromocytoma is a chromaffin-cell tumor releasing catecholamines.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 20–1** — Locations of the major endocrine glands and the hormones they release (p3 · 191).
+- **Fig. 20–6** — Pars distalis: Acidophils, basophils, and chromophobes (p3 · 197).
+- **Fig. 20–10** — Negative feedback loops affecting anterior pituitary secretion (p3 · 203).
+- **Fig. 20–15** — Adrenal cortex (p3 · 209).
+- **Fig. 20–19** — Thyroid follicular cells and parafollicular cells (p3 · 216).
+- **Fig. 20–24** — Pineal gland (p4 · 5).
+
 ## 21 · The Male Reproductive System
 
-**pp. 439–459** · Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
+**pp. 439–459** · Part 4, pages 11–39 · Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Describe the compartments of the seminiferous tubule and the blood–testis barrier.
+2. Sequence spermatogenesis and spermiogenesis and identify each stage.
+3. Trace sperm from tubule to urethra, naming the epithelium at each level.
+4. Explain the vascular mechanism of erection and ejaculation.
 
 ### The core idea
 
@@ -199,55 +288,123 @@ The testis does two jobs that require opposite conditions: **producing sperm**, 
 
 ### Testes
 
-- **Tunica albuginea** — thick capsule; the **mediastinum testis** sends septa dividing the gland into lobules.
+- **Tunica albuginea** — thick capsule; the **mediastinum testis** sends septa dividing the gland into about **250 lobules**, each holding **1–4** convoluted seminiferous tubules. Each testis has **250–1000** tubules; each tubule is **150–250 µm** wide and **30–70 cm** long, for a total of about **250 m** per testis.
+- **Tunica vaginalis** — the serous sac the testis drags with it during descent: parietal layer lines the scrotum, visceral layer covers the albuginea.
 - **Seminiferous tubules** — lined by a **stratified epithelium of germ cells** plus **Sertoli cells**, on a basal lamina, surrounded by **peritubular myoid cells**.
 - **Interstitium** — **Leydig cells**, blood vessels, connective tissue.
 
-**Sertoli cells** extend from base to lumen; their nuclei are pale, oval, and have a prominent nucleolus. They are **not** germ-line cells. Functions:
+**Temperature is part of the anatomy.** Sperm formation cannot proceed at 37 °C, so the scrotum holds the testis at about **34 °C** by three mechanisms: evaporation of sweat from scrotal skin; a **countercurrent heat exchanger** in the spermatic cord, where the **pampiniform plexus** of veins cools the incoming testicular artery; and the **dartos** and **cremaster** muscles, which move the testis toward or away from the body.
+
+**Sertoli cells** extend from base to lumen; their nuclei are pale, oval, and have a prominent nucleolus. They are **not** germ-line cells, and each one supports **30–50** developing germ cells. Functions:
 
 - **Physical support and nutrition** of developing germ cells.
 - **Blood–testis barrier** — tight junctions between adjacent Sertoli cells near the base, creating basal and adluminal compartments. This is why the immune system does not reject sperm.
 - **Phagocytosis** of residual bodies.
-- **Secretion** of **androgen-binding protein (ABP)**, **inhibin**, anti-Müllerian hormone, transferrin, and plasminogen activator.
+- **Secretion** of **androgen-binding protein (ABP)**, **inhibin** (a 39-kDa glycoprotein that suppresses FSH), **Müllerian-inhibiting substance** (MIS, 140 kDa, which regresses the paramesonephric ducts in the fetus), **transferrin**, and fluid that carries sperm out of the testis.
 - **Response to FSH** — which acts on Sertoli cells, not on germ cells.
 
-**Spermatogenesis:** **spermatogonia (type A dark/pale → type B) → primary spermatocyte → secondary spermatocyte → spermatid → spermatozoon.** **Meiosis I** halves the chromosome number and **meiosis II** separates chromatids, giving four spermatids per primary spermatocyte. **Spermiogenesis** is the metamorphosis into a sperm: **acrosome** from the Golgi, nuclear condensation, flagellum growth, shedding of residual cytoplasm. **Spermiation** releases the sperm into the lumen.
+**Spermatogenesis:** **spermatogonia → primary spermatocyte → secondary spermatocyte → spermatid → spermatozoon.** **Meiosis I** halves the chromosome number and **meiosis II** separates chromatids, giving four spermatids per primary spermatocyte. The germ cells do not divide in isolation: cytokinesis is incomplete, so clones stay joined by **cytoplasmic bridges** — a syncytium that lets a haploid cell use products of the full diploid genome, including genes on X or Y. The whole sequence from the last spermatogonial mitosis to spermatid formation takes **about 2 months**, and the testis produces about **200 million sperm per day**.
+
+**Spermiogenesis** is the metamorphosis of a round spermatid into a sperm, and the book divides it into **four phases**:
+
+1. **Golgi phase** — proacrosomal vesicles from the Golgi coalesce into a single **acrosomal cap**; centrioles migrate to the opposite pole and one becomes the basal body of the flagellum.
+2. **Cap phase** — the acrosome spreads over about half the nucleus. It is a specialized **lysosome** containing **hyaluronidase** and the trypsin-like protease **acrosin**.
+3. **Acrosome phase** — the nucleus condenses and elongates, its histones replaced by **protamines**; a microtubule **manchette** shapes the head; mitochondria gather around the proximal flagellum to form the **middle piece**.
+4. **Maturation phase** — excess cytoplasm is shed as a **residual body**, intercellular bridges are lost, and the sperm is released into the lumen.
 
 Because the barrier makes the adluminal compartment immunologically privileged, sperm antigens are never tolerized — which is why vasectomy can produce anti-sperm antibodies.
 
-**Leydig cells** — large, polygonal, **eosinophilic** cells with abundant SER and lipid droplets, sometimes containing **Reinke crystals**; they secrete **testosterone** under **LH** stimulation.
+**Leydig (interstitial) cells** — large, polygonal, **eosinophilic** cells with central nuclei, abundant SER, mitochondria, and lipid droplets, lying singly or in small groups near capillaries. They secrete **testosterone** under **LH**, which the book also calls **interstitial cell-stimulating hormone (ICSH)** — the same hormone named LH in females. Fetal Leydig cells are active in the third and fourth months of pregnancy, then become quiescent until puberty.
 
 ### Intratesticular Ducts
 
-**Rete testis** (simple cuboidal) collects sperm from the seminiferous tubules and delivers them through the **efferent ductules** (ciliated and absorptive columnar) to the epididymis.
+Sperm leave each tubule through a short **straight tubule**, lined at first only by Sertoli cells and then by simple cuboidal epithelium. It enters the **rete testis**, a labyrinth of cuboidal-lined channels in the mediastinum testis. From there **10–20 efferent ductules** carry sperm to the head of the epididymis. Their epithelium has a characteristic **scalloped** profile in section — patches of absorptive, nonciliated cuboidal cells with microvilli alternating with patches of taller ciliated cells. Absorption of Sertoli-cell fluid plus ciliary beating creates the flow that moves sperm out of the testis.
 
 ### Excretory Genital Ducts
 
 | Segment | Epithelium | Function |
 |---|---|---|
-| **Epididymis** | **Pseudostratified columnar with stereocilia** | **Maturation and storage of sperm** |
+| **Epididymis** | **Pseudostratified columnar with stereocilia** | **Maturation and storage of sperm**; about **6 m** long, and transit takes **2–4 weeks** |
 | **Ductus (vas) deferens** | Pseudostratified columnar | Transport; **very thick muscular wall** (inner longitudinal, middle circular, outer longitudinal) |
 | **Ejaculatory duct** | Columnar | Delivers into the prostatic urethra |
 
 ### Accessory Glands
 
-- **Seminal vesicles** — folded mucosa, secretory cells rich in **fructose** and prostaglandins; about 60% of semen volume.
-- **Prostate** — tubuloalveolar glands in a **fibromuscular stroma**; **corpora amylacea** are characteristic. Glands are arranged in zones: the **peripheral zone** is where most carcinomas arise; the **transition zone** is where BPH arises.
-- **Bulbourethral (Cowper) glands** — mucin for lubrication.
+- **Seminal vesicles** — paired, highly tortuous tubes about **15 cm** long, with thin complex mucosal folds and inner circular plus outer longitudinal smooth muscle. Their viscid yellowish secretion makes up about **70%** of the ejaculate and supplies **fructose** (sperm energy), inositol, citrate, **prostaglandins** (which stimulate the female tract), and **fibrinogen** (which lets semen coagulate).
+- **Prostate** — a **20-g** organ of **30–50 branched tubuloacinar glands** in a dense **fibromuscular stroma**; **corpora amylacea** are small spherical concretions (up to **2 mm**, partly calcified, made of glycoproteins and keratan sulfate) that become more numerous with age but have no clinical significance. The gland has three zones around the urethra:
+  - **Peripheral zone** — about **70%** of the tissue, with the longest ducts; the site of most **carcinomas**.
+  - **Central zone** — about **25%**, with submucosal glands.
+  - **Transition zone** — about **5%**, with mucosal glands around the upper urethra; the site of **benign prostatic hyperplasia**.
+- **Prostate-specific antigen (PSA)** — a **34-kDa serine protease** that liquefies the coagulated ejaculate; it leaks into blood, so a raised serum PSA points to carcinoma or inflammation.
+- **Bulbourethral (Cowper) glands** — paired, **3–5 mm** mucous glands in the urogenital diaphragm; their clear secretion lubricates the urethra before ejaculation.
 
 ### Penis
 
-Three erectile bodies: two **corpora cavernosa** and one **corpus spongiosum** containing the urethra. Each is a sponge of **endothelium-lined cavernous spaces** surrounded by smooth muscle and a **tunica albuginea**. Erection is a vascular event: parasympathetic nitric oxide dilates the helicine arteries, filling the spaces and compressing venous outflow.
+Three erectile bodies: two dorsal **corpora cavernosa** and one ventral **corpus spongiosum** containing the urethra and expanding distally as the **glans**. Each is a sponge of **endothelium-lined cavernous spaces** separated by trabeculae of smooth muscle and connective tissue, with a dense **tunica albuginea** around the corpora cavernosa. Most of the penile urethra is **pseudostratified columnar**, becoming **stratified squamous** in the glans.
 
-> **CLINICAL** — **Cryptorchidism** — an undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises; orchidopexy is performed early. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasizes to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — germ-cell tumors in young men; a painless mass is malignant until proven otherwise.
+Erection is a vascular event with a molecular explanation worth memorizing: parasympathetic acetylcholine makes the endothelium release **nitric oxide**, which activates **guanylate cyclase** and raises **cGMP** in smooth muscle; the muscle relaxes, **helicine arteries** dilate, cavernous spaces fill, and the swollen corpora compress the dorsal veins against the tunica albuginea. **Sildenafil** blocks the phosphodiesterase that degrades cGMP and therefore sustains an erection. Sympathetic discharge at ejaculation constricts the helicine arteries and trabecular muscle, emptying the spaces.
+
+> **CLINICAL** — **Cryptorchidism** — failure of descent, present in about **4%** of male neonates; most descend in the first year, and bilateral cases cause infertility if not corrected by **2–3 years**. An undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises. **Hydrocele** — serous fluid in the tunica vaginalis, the commonest cause of scrotal swelling. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasizes to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — **95%** are germ-cell tumors, appearing after puberty and more often in untreated cryptorchidism; a painless mass is malignant until proven otherwise.
 
 > **MICRO** — Identify the two compartments instantly. **Inside the tubule: Sertoli cells (pale, tall) and germ cells at various stages.** **Outside the tubule: Leydig cells (eosinophilic, polygonal, in clusters).** If asked for the cell that forms the blood–testis barrier, the answer is Sertoli.
 
 > **TIP** — FSH acts on **Sertoli** cells; LH acts on **Leydig** cells. One sentence, and it accounts for many marks.
 
+### Chapter 21 — one-line answers
+
+- About 250 lobules per testis, each with 1–4 seminiferous tubules, 150–250 µm wide and 30–70 cm long.
+- Spermatogenesis takes about 2 months and yields about 200 million sperm per day.
+- Sertoli tight junctions form the blood–testis barrier and divide basal from adluminal compartments.
+- Sertoli cells secrete ABP (FSH-dependent), inhibin, MIS, and transferrin, and phagocytose residual bodies.
+- Leydig cells secrete testosterone under LH (ICSH).
+- Spermiogenesis has four phases: Golgi, cap, acrosome, maturation.
+- The acrosome is a lysosome containing hyaluronidase and acrosin; protamines replace histones.
+- Straight tubules → rete testis → efferent ductules → epididymis → ductus deferens → ejaculatory duct.
+- Seminal vesicles contribute about 70% of semen; the prostate contributes PSA and corpora amylacea.
+- Prostate zones: peripheral 70% (cancer), central 25%, transition 5% (BPH).
+- Erection is parasympathetic, NO–cGMP mediated; ejaculation is sympathetic.
+
+### Active recall
+
+1. **What forms the blood–testis barrier, and what does it separate?** — Tight junctions between Sertoli cells; basal and adluminal compartments.
+2. **Which hormone acts on Sertoli cells, and which on Leydig cells?** — FSH on Sertoli; LH on Leydig.
+3. **Name the four phases of spermiogenesis.** — Golgi, cap, acrosome, maturation.
+4. **What epithelium lines the epididymis, and what is its hallmark?** — Pseudostratified columnar with stereocilia.
+5. **What are corpora amylacea, and where are they found?** — Calcified glycoprotein concretions in prostatic glands.
+6. **Which prostatic zone gives rise to cancer, and which to benign hyperplasia?** — Cancer: peripheral (70% of the gland). Benign hyperplasia: transition (5%).
+7. **What cools the testicular arterial blood, and how?** — The pampiniform plexus, by countercurrent heat exchange in the spermatic cord.
+
+### Exam-style question
+
+**A 25-year-old man has a painless testicular mass. Which cell type is most likely the origin of a germ-cell tumor?**
+
+A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular myoid cell
+
+**Answer: C** — Germ-cell tumors arise from the spermatogenic lineage; Leydig and Sertoli tumors are sex-cord stromal tumors and less common.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 21–1** — Male reproductive system (p4 · 11).
+- **Fig. 21–5** — Spermatogenesis and spermiogenesis (p4 · 16).
+- **Fig. 21–8** — Differentiating spermatid (p4 · 21).
+- **Fig. 21–12** — Ductus deferens (p4 · 28).
+- **Fig. 21–15** — Organization of the prostate gland (p4 · 31).
+- **Fig. 21–19** — Penile urethra and erectile tissue (p4 · 35).
+
 ## 22 · The Female Reproductive System
 
-**pp. 460–489** · Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
+**pp. 460–489** · Part 4, pages 40–83 · Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Sequence follicular development from primordial follicle to corpus albicans.
+2. Explain the two-cell, two-gonadotropin mechanism of estrogen production.
+3. Correlate ovarian and endometrial cycles and identify each phase histologically.
+4. Describe implantation, placental structure, and the hormonal control of pregnancy.
 
 ### The core idea
 
@@ -255,35 +412,62 @@ The ovary is the only adult structure that must **rebuild itself through a month
 
 ### Ovaries
 
-- **Germinal epithelium** — simple cuboidal (a misnomer; it does not produce germ cells).
+Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thick**.
+
+- **Germinal (surface) epithelium** — simple cuboidal mesothelium (a misnomer; it does not produce germ cells).
 - **Tunica albuginea** — dense connective tissue.
 - **Cortex** — follicles at all stages, plus corpus luteum and corpus albicans.
-- **Medulla** — loose connective tissue with vessels and nerves.
+- **Medulla** — loose connective tissue with the vessels entering at the hilum. Cortex and medulla have no sharp border.
+
+**The oocyte supply is fixed before birth and only falls.** Primordial germ cells reach the gonads in the first month; oogonia peak at about **7 million** in the fifth month of gestation. About **2–2.5 million** primordial follicles are present at birth and about **400,000** at puberty; only about **450** are ovulated in a lifetime, and the rest undergo atresia. Menopause arrives when the reserve falls below about **1000** follicles.
 
 | Stage | Structure | Hormonal influence |
 |---|---|---|
 | **Primordial follicle** | Oocyte + single layer of flat granulosa cells | None; present from birth |
-| **Primary follicle** | Oocyte enlarges; granulosa cells become **cuboidal**; **zona pellucida** appears | FSH-dependent from this stage |
-| **Secondary (antral) follicle** | Antrum forms; **theca interna** and **theca externa** differentiate | FSH and LH |
-| **Graafian (mature) follicle** | Large antrum; oocyte on the **cumulus oophorus**; **corona radiata** | LH surge triggers ovulation |
+| **Primary follicle** | Oocyte enlarges (to ~120 µm); granulosa cells become **cuboidal** (unilaminar), then stratified (multilaminar); **zona pellucida** appears | FSH-dependent from this stage |
+| **Secondary (antral) follicle** | Antrum forms among the granulosa cells; **theca interna** (steroidogenic, vascular) and **theca externa** (fibrous, contractile) differentiate | FSH and LH |
+| **Graafian (mature) follicle** | Single large antrum up to **2 cm**; oocyte on the **cumulus oophorus**, wrapped by the **corona radiata** | LH surge triggers ovulation |
 | **Atretic follicle** | Degenerating; **glassy membrane** remains | — |
-| **Corpus luteum** | Granulosa-lutein cells (progesterone) and theca-lutein cells | LH maintains it |
+| **Corpus luteum** | **Granulosa-lutein cells (progesterone, ~80% of the gland)** and **theca-lutein cells (estrogens)** | LH maintains it |
 | **Corpus albicans** | White fibrous scar | — |
 
-**Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to produce androgens; **FSH** stimulates **granulosa** cells to aromatize them into **estrogen**. This division of labour explains why both gonadotropins are needed for normal estrogen production.
+**The corpus luteum is a temporary gland with two cell populations:**
+
+- **Granulosa-lutein cells** — the old granulosa cells; they enlarge to **20–35 µm** without dividing, make up about **80%** of the gland, and secrete **progesterone** (their SER expands, and they retain some aromatase).
+- **Theca-lutein cells** — from the theca interna; about **half the size**, darker staining, lying in the peripheral folds, and secreting **androstenedione** and **estrogens**.
+
+The LH surge sustains progesterone secretion for **10–12 days**. Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
+
+**The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3** are the sperm receptors; **ZP3** triggers the acrosomal reaction. The book's Summary of Key Points calls them "ZO proteins" — the body text and Figure 22–6 give ZP, and the figure notes four related glycoproteins.
+
+**Ovulation, step by step.** The LH surge triggers: completion of **meiosis I** with extrusion of the **first polar body**; granulosa production of fluid rich in prostaglandins, proteoglycans, and proteases; **hyaluronan** release that loosens the cumulus; activation of **plasmin**, which digests collagen at the **stigma** (the ischemic bulge on the ovarian surface); and contraction of **theca externa** smooth muscle. The follicle ruptures, releasing the **secondary oocyte, arrested in metaphase II**, wrapped in the **corona radiata** — viable for about **24 hours**. If a sperm arrives, the oocyte completes meiosis II and emits the **second polar body**; the two pronuclei fuse to form the **zygote**.
+
+A mature follicle takes about **90 days** to develop from a primordial follicle, and only one per cycle reaches that stage while its neighbours become atretic.
+
+**Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to make **androstenedione**; it crosses the basement membrane (the granulosa layer is avascular) and **FSH** stimulates **granulosa** cells to **aromatize** it to **estradiol**. The estrogen returns to the theca capillaries and reaches the whole body. This division of labour explains why both gonadotropins are needed for normal estrogen production — and why the granulosa layer must stay avascular.
 
 ### Uterine Tubes
 
-Four parts — **infundibulum with fimbriae, ampulla, isthmus, intramural portion**. The mucosa is folded and lined by **ciliated columnar cells** (move the ovum) and **peg (secretory) cells**; the muscular wall is thin.
+About **10–12 cm** long, in four parts — **infundibulum with fimbriae → ampulla (longest; fertilization happens here) → isthmus → intramural portion**. The mucosa has complex branching folds, tallest in the ampulla, and is lined by **ciliated columnar cells** that sweep fluid toward the uterus and **peg (secretory) cells** that make the nutritive fluid. The muscularis has interwoven circular and longitudinal layers and provides most of the transport — women with immotile cilia still carry the embryo to the uterus.
 
 ### Major Events of Fertilization
 
-Fertilization normally occurs in the **ampulla**. The sperm penetrates the corona radiata and zona pellucida, the membranes fuse, the oocyte completes meiosis II, and the zygote forms. The zygote divides as it travels toward the uterus, reaching the blastocyst stage by the time it arrives — about five days.
+Fertilization normally occurs in the **ampulla**, and only a few hundred of the millions of ejaculated sperm reach it. The sequence:
+
+1. **Capacitation** in the female tract makes sperm able to fertilize.
+2. The sperm releases **hyaluronidase** to pass between the corona radiata cells.
+3. At the zona, **ZP3** triggers the **acrosomal reaction**: **acrosin** and other proteases digest a path through the zona.
+4. The first sperm to cross fuses with the oolemma. Membrane depolarization and a **Ca²⁺ wave** trigger the **cortical reaction** — proteases from cortical granules destroy ZP3 and convert the zona into the impenetrable **perivitelline barrier**, a permanent block to polyspermy.
+5. The oocyte completes **meiosis II**, emits the **second polar body**, and forms the female pronucleus; the sperm head decondenses into the male pronucleus. Fusion gives the diploid **zygote**.
+
+Cleavage follows as the embryo travels to the uterus — about **5 days** from fertilization to the blastocyst in the uterine cavity.
 
 ### Uterus
 
+The uterus is pear-shaped: **body**, **fundus**, **isthmus**, and **cervix**, with the cervical canal opening at the internal and external os.
+
 - **Perimetrium (serosa)**, **myometrium** (thick smooth muscle in interlacing bundles), **endometrium**.
-- **Endometrium** — **stratum functionalis** (shed each month) and **stratum basalis** (retained, regenerates it). **Spiral arteries** supply the functionalis and constrict to cause shedding.
+- **Endometrium** — **stratum functionalis** (shed each month) and **stratum basalis** (retained, regenerates it). The basal layer has a distinctive stroma: fibroblasts, ground substance, **fine type III collagen**, and **no adipocytes**. **Spiral arteries** supply the functionalis and constrict to cause shedding.
 
 | Phase | Days | Hormone | Histology |
 |---|---|---|---|
@@ -293,21 +477,33 @@ Fertilization normally occurs in the **ampulla**. The sperm penetrates the coron
 
 The single best discriminator: **straight, narrow glands = proliferative; saw-toothed, dilated, secreting glands = secretory.**
 
+**Thickness is a second discriminator.** At the end of the proliferative phase the endometrium is **2–3 mm**; in the secretory phase it reaches **5–6 mm**, and the functional layer becomes about **four times** thicker than the basal layer.
+
+**How menstruation happens.** Progesterone and estrogen fall **8–10 days after ovulation**. The spiral arteries contract and relax intermittently, then constrict under local **prostaglandins**, producing ischemia. Hypoxic cells release cytokines that attract leukocytes, whose **collagenases and matrix metalloproteinases** digest the matrix. The functional layer — epithelium, most of each gland, stroma, and blood-filled lacunae — separates from the basal layer and is shed. The basal layer, which does not depend on the spiral arteries, survives and regenerates the next functionalis under estrogen.
+
 ### Embryonic Implantation, Decidua, & the Placenta
 
-The blastocyst implants around day 6–7. The **trophoblast** differentiates into **cytotrophoblast** (mitotic, inner) and **syncytiotrophoblast** (invasive, outer). **Chorionic villi** project into maternal blood in the **intervillous space**.
+The blastocyst reaches the uterine cavity about **5 days** after fertilization and floats in the glandular secretion for about **2 days**. Implantation (nidation) takes about **3 days** and is complete by about **day 9**: trophoblast receptors bind glycoproteins on the endometrial epithelium, the **syncytiotrophoblast** digests the stroma, and the embryo embeds. The trophoblast has two layers — **cytotrophoblast** (mitotic, inner) and **syncytiotrophoblast** (invasive, multinucleated, outer, and the source of **hCG**).
+
+**Chorionic villi** project into maternal blood in the **intervillous space** and develop in three stages: **primary** villi (cytotrophoblast covered by syncytiotrophoblast) about 2 days after implantation; **secondary** villi (mesenchymal cores) about day 15; **tertiary** villi (with capillary loops) a few days later. By the end of the first month there are thousands of tertiary villi.
 
 **Decidua** — the modified endometrium of pregnancy: **decidua basalis** (under the embryo, forms the maternal placenta), **decidua capsularis** (over it), **decidua parietalis** (the rest).
 
-**Placental hormones:** **hCG** (maintains the corpus luteum early; the basis of pregnancy tests), **human placental lactogen**, progesterone, and estrogen.
+**Placental hormones:** **hCG** (maintains the corpus luteum early; the basis of pregnancy tests), a **lactogen**, **relaxin**, growth factors, progesterone, and estrogen. hCG keeps the corpus luteum of pregnancy alive for **4–5 months**, by which time the placenta itself makes enough progesterone.
 
 ### Cervix
 
-Endocervical canal lined by **simple columnar mucus-secreting** cells; the ectocervix by **stratified squamous** epithelium. They meet at the **squamocolumnar junction**, and the zone between original and current junction is the **transformation zone** — the site of HPV-related dysplasia and the target of the **Pap smear**.
+The cervix is the lower cylindrical part of the uterus and differs from the body: its mucosa is **2–3 mm** thick, has **no spiral arteries**, and **does not shed** with the cycle.
+
+- **Endocervix** — simple columnar mucus-secreting cells with large branched **cervical glands**.
+- **Ectocervix** — **stratified squamous** nonkeratinized epithelium, continuous with the vagina.
+- **Transformation zone** — the area just outside the external os where columnar epithelium is replaced by squamous; the site of HPV-related dysplasia and the target of the **Pap smear**.
+
+Cervical mucus changes with hormones: watery and abundant at ovulation (helps sperm), viscous in the luteal phase (hinders them), and a thick **mucus plug** in pregnancy. Before birth, **effacement** dissolves collagen so the cervix softens and dilates.
 
 ### Vagina
 
-**Stratified squamous non-keratinized** epithelium rich in **glycogen**, no glands (lubrication comes from cervical and Bartholin glands), and a lamina propria with elastic fibers and venous plexuses. **Lactobacillus** metabolises glycogen to lactic acid, maintaining an acidic pH.
+**Stratified squamous nonkeratinized** epithelium **150–200 µm** thick and rich in **glycogen**, with **no glands** (lubrication comes from cervical and Bartholin glands) and a lamina propria with elastic fibers and venous plexuses. **Lactobacilli** metabolize glycogen to lactic acid, keeping the pH low and protecting against pathogens.
 
 ### External Genitalia
 
@@ -315,7 +511,12 @@ The **vulva**: the **labia majora** (skin with hair and sebaceous glands, contai
 
 ### Mammary Glands
 
-A modified **apocrine sweat gland**. In the non-lactating state the gland is mostly **dense connective tissue and adipose tissue with small ducts**; during pregnancy lobules proliferate; during lactation **alveoli are distended with secretion**. The **lactiferous ducts** converge on the nipple, with **lactiferous sinuses** beneath it.
+A modified **apocrine sweat gland** whose functional unit is the **terminal duct lobular unit (TDLU)**.
+
+- **Non-lactating** — mostly dense connective tissue and fat with small ducts and lobules.
+- **Pregnancy** — lobules proliferate under estrogen and progesterone.
+- **Lactation** — alveoli distend with secretion; **protein is released by exocytosis** and **lipid droplets by apocrine secretion**, so milk fat is wrapped in apical plasma membrane. Prolactin drives synthesis, oxytocin the ejection reflex.
+- **Duct system** — intralobular → interlobular → **lactiferous ducts** → **lactiferous sinuses** beneath the areola → nipple.
 
 Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalveolar development, **prolactin** for milk synthesis, **oxytocin** for milk ejection.
 
@@ -324,6 +525,8 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 > **MICRO** — Place the ovary in the cycle by the **dominant structure**: many small primordial follicles = inactive/early; a large antral follicle = late follicular; a corpus luteum with folded, pale, luteinized cells = secretory phase; a hyaline scar = post-ovulatory. In the uterus, look at the **glands**, not the stroma.
 
 > **MNEMONIC** — **"Proliferative = Pencil-thin glands; Secretory = Saw-tooth and swollen."**
+
+> **SOURCE NOTE** — The chapter's Summary of Key Points says granulosa-lutein cells produce estrogen and theca-lutein cells produce progesterone. That reverses the book's own body text and figure legend (granulosa-lutein → progesterone; theca-lutein → estrogens), and it reverses the physiology. This guide follows the body text. If you meet the summary line in a test, answer **progesterone from granulosa-lutein cells**.
 
 > **TIP** — The corpus luteum secretes **progesterone**, and it is maintained by **LH** (and, in pregnancy, by **hCG**). Do not say estrogen maintains the corpus luteum.
 
@@ -343,13 +546,51 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 - Vagina = stratified squamous nonkeratinized epithelium with glycogen, no glands; acidity comes from lactobacilli.
 - Mammary gland: **TDLU** is the functional unit; estrogen drives ducts, progesterone drives lobuloalveolar growth, prolactin drives milk synthesis.
 
+### Active recall
+
+1. **Which cells produce estrogen, and from what precursor?** — Granulosa cells aromatize androgens from theca interna cells.
+2. **What is released at ovulation, and at what meiotic stage?** — The secondary oocyte, arrested in metaphase II, with the corona radiata.
+3. **What prevents polyspermy?** — Cortical granule exocytosis modifies the zona pellucida into the vitelline barrier.
+4. **Which hormone maintains the corpus luteum early in pregnancy?** — hCG.
+5. **How do proliferative and secretory endometrium differ?** — Proliferative: straight narrow glands, mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.
+
+### Exam-style question
+
+**A curettage specimen shows tortuous, saw-toothed glands with secretion and a coiled spiral artery. Which phase is this?**
+
+A. Menstrual<br/>B. Proliferative<br/>C. Secretory<br/>D. Postmenopausal
+
+**Answer: C** — The secretory phase is defined by tortuous secreting glands under progesterone.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 22–1** — Female reproductive system and overview of ovary (p4 · 41).
+- **Fig. 22–6** — Ultrastructure of primary follicle and zona pellucida (p4 · 47).
+- **Fig. 22–12** — Corpus luteum (p4 · 53).
+- **Fig. 22–17** — Correlation of ovarian and menstrual cycles with levels of their controlling hormones (p4 · 59).
+- **Fig. 22–23** — Cervix (p4 · 73).
+- **Fig. 22–28** — Secretion in the mammary gland (p4 · 78).
+
 ## 23 · The Eye & Ear: Special Sense Organs
 
-**pp. 490–524** · Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
+**pp. 490–524** · Part 4, pages 84–137 · Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Name the three tunics of the eye and the five layers of the cornea.
+2. Trace aqueous humor and explain glaucoma.
+3. Describe the layers of the retina and the path of a light signal.
+4. Compare the vestibular and cochlear sensory epithelia and their transduction mechanisms.
 
 ### The core idea
 
 Both organs convert a physical signal into a nerve impulse through a **specialized epithelium** — the retina for light, the organ of Corti for sound. Their histology is therefore about **transduction**, not merely structure.
+
+**Numbers to anchor the chapter:** the adult eyeball is about **22 mm** in diameter; the **sclera** is 0.5 mm thick (1 mm posteriorly); the **cornea** is the anterior one-sixth and is **avascular**; the retina has **nine neural layers plus a pigmented layer**; the cochlea is about **35 mm** long with **2¾ turns**.
 
 ### Eyes: The Photoreceptor System
 
@@ -363,50 +604,106 @@ Both organs convert a physical signal into a nerve impulse through a **specializ
 
 **The cornea has five layers**, and the order is a standard question:
 
-1. **Corneal epithelium** — stratified squamous, non-keratinized.
-2. **Bowman's membrane** — acellular collagen.
-3. **Stroma** — regular lamellae of type I collagen and keratocytes; **avascular**.
-4. **Descemet's membrane** — thick basal lamina.
-5. **Corneal endothelium** — simple squamous; pumps water out to maintain transparency.
+1. **Corneal epithelium** — stratified squamous, nonkeratinized, **5–6 cells thick**, about **10%** of corneal thickness; its stem cells sit in the **limbus**, and it has one of the richest sensory innervations in the body.
+2. **Bowman's membrane** — a thick (**8–10 µm**) basement membrane.
+3. **Stroma** — about **90%** of the thickness, some **60 layers** of type I collagen at right angles to each other, with flattened **keratocytes** between them; **avascular**.
+4. **Descemet's membrane** — the thick basement membrane of the endothelium.
+5. **Corneal endothelium** — simple squamous, the most metabolically active cells of the cornea; their **Na⁺/K⁺ ATPase** pumps control stromal hydration and therefore transparency.
 
 The cornea is **transparent because it is avascular and its collagen is regularly arranged**. When it becomes oedematous or scarred, it loses transparency — the anatomical explanation for corneal blindness.
 
-- **Choroid** — pigmented, vascular; nourishes the outer retina.
-- **Ciliary body** — **ciliary muscle** (accommodation) and **ciliary processes** (aqueous humour secretion) with **zonular fibers** suspending the lens.
-- **Iris** — pigment epithelium and a stroma with **sphincter pupillae** (constricts, parasympathetic) and **dilator pupillae** (dilates, sympathetic).
+- **Choroid** — pigmented, vascular; two layers: the inner **choroidocapillary lamina** (nourishes the outer retina) and **Bruch's membrane**, an elastin sheet between two collagen layers, next to the retinal pigment epithelium.
+- **Ciliary body** — **ciliary muscle** (three orientations; accommodation) and about **75 ciliary processes** covered by a **bilaminar epithelium**: a pigmented layer next to the stroma and a nonpigmented superficial layer. The nonpigmented cells pump aqueous humor and also secrete the **fibrillin** microfibrils of the **ciliary zonule** that suspends the lens.
+- **Iris** — a stroma with melanocytes and, posteriorly, two pigmented epithelial layers. The anterior surface has **no epithelium**, only fibroblasts and melanocytes. The **dilator pupillae** is a layer of **myoepithelial cells** (sympathetic); the **sphincter pupillae** is a circular smooth-muscle bundle near the pupil (parasympathetic).
 
-**Aqueous humour** flows from the posterior chamber through the pupil into the anterior chamber and drains through the **trabecular meshwork** into the **canal of Schlemm**. Blockage raises intraocular pressure — glaucoma.
+**Aqueous humor** is secreted by the ciliary processes into the **posterior chamber**, flows through the **pupil** into the **anterior chamber**, and drains at the **iridocorneal angle** through the **trabecular meshwork** into the **scleral venous sinus (canal of Schlemm)**, then into scleral veins. It has the ions of plasma but almost no protein. Blockage raises intraocular pressure — **glaucoma**; a narrow angle that closes when the pupil dilates gives **angle-closure glaucoma**.
 
-**The lens:** **capsule** → **subcapsular epithelium** → **lens fibers** (elongated cells packed with **crystallins**, without organelles). New fibers are added at the equator throughout life, so the lens grows and its nucleus becomes denser. Loss of transparency is **cataract**.
+**The lens:** **capsule** (10–20 µm, type IV collagen and proteoglycans) → **subcapsular epithelium** (simple cuboidal, anterior surface only) → **lens fibers** (7–10 mm long, 2 × 8 µm in cross-section, packed with **crystallins**, their organelles and nuclei removed by autophagy). New fibers are added at the equator throughout life, so the lens grows and its nucleus becomes denser. It is **avascular** and suspended by the zonule.
 
-**The retina** — five of its ten layers matter for exams:
+**Accommodation:** at rest the ciliary muscle is relaxed, the zonule is taut, and the lens is **flat** for distant vision. To focus close, the ciliary muscle **contracts**, the ciliary body moves forward, tension on the zonule falls, and the lens becomes **rounder**. Loss of lens elasticity in the fourth decade is **presbyopia**; loss of transparency is **cataract**.
+
+**The retina** — the neural retina has **nine layers**, and with the pigment epithelium there are ten. From the vitreous inward-outward (following the path of light): **inner limiting membrane → nerve fiber layer → ganglion cell layer → inner plexiform layer → inner nuclear layer → outer plexiform layer → outer nuclear layer → outer limiting layer → rod and cone layer → pigmented layer.**
 
 | Layer | Contents |
 |---|---|
-| **Retinal pigment epithelium (RPE)** | Pigmented; absorbs stray light, phagocytoses outer segments, regenerates visual pigment |
-| **Photoreceptor layer** | **Rods** (rhodopsin, dim light, ~120 million) and **cones** (iodopsin, color, ~6 million) |
+| **Retinal pigment epithelium (RPE)** | Cuboidal, pigmented; absorbs stray light, forms the **blood–retina barrier** with tight junctions, **phagocytoses shed rod discs**, regenerates **11-cis-retinal**, and secretes trophic factors |
+| **Photoreceptor layer** | **Rods** (rhodopsin, dim light, ~120 million) and **cones** (iodopsin, color, ~6 million). Rod discs are **membrane stacks**; cone outer segments are **conical**. |
 | **Outer nuclear layer** | Photoreceptor nuclei |
 | **Inner nuclear layer** | Bipolar, horizontal, amacrine, and Müller cell nuclei |
 | **Ganglion cell layer** | Ganglion cells whose axons form the optic nerve |
 
-The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **macula lutea** — and its center, the **fovea centralis** — contains only **cones**, has the highest acuity, and is the site of central vision. The **optic disc** is the **blind spot**, because photoreceptors are absent there. **Müller cells** are the principal glia.
+**Rods versus cones at the level of the disc** — a classic exam distinction: in **cones** the membranous discs of the outer segment are **continuous with the plasma membrane**; in **rods** they are **separate**, pinched-off discs. A single rod contains about **one billion rhodopsin** molecules.
+
+**Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
+
+The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **macula lutea** — and its center, the **fovea centralis** — contains **no rods** and a very high density of **cones**; the overlying layers are displaced sideways so light reaches the cones with little scattering. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
+
+**Müller cells** are the principal glia — modified astrocytes whose cell bodies lie in the inner nuclear layer and whose processes span the whole retina. They provide trophic support, buffer ions and water, regulate blood flow, form the **inner limiting membrane**, and join photoreceptors by zonulae adherentes to form the **outer limiting layer**.
 
 ### Ears: The Vestibuloauditory System
 
-**External ear** — auricle of **elastic cartilage** covered by skin; external acoustic meatus lined by skin with **ceruminous glands** and hairs; **tympanic membrane** with a fibrous core.
+**External ear** — the **auricle** is a plate of **elastic cartilage** covered by tightly adherent skin; the **external acoustic meatus** is lined by skin with hairs, sebaceous glands, and modified apocrine **ceruminous glands**. Their product, **cerumen**, contains proteins, saturated fatty acids, and shed keratinocytes and is antimicrobial. Elastic cartilage supports the outer third of the meatus; the temporal bone encloses the inner part. The **tympanic membrane** is fibroelastic connective tissue covered by epidermis outside and simple cuboidal mucosa inside.
 
-**Middle ear** — air-filled tympanic cavity with the **ossicles** (malleus, incus, stapes); the **auditory tube** equalises pressure; the **oval window** and **round window** transmit and relieve pressure waves.
+**Middle ear** — an air-filled **tympanic cavity** lined by simple cuboidal epithelium, containing the **ossicles** (malleus, incus, stapes) linked by synovial joints, with two small muscles (**tensor tympani** on the malleus, **stapedius** on the stapes) that damp loud sounds. The **auditory (eustachian) tube** connects to the pharynx and equalizes pressure; the **oval window** receives the stapes and the **round window** relieves the pressure wave.
 
 **Inner ear** — **bony labyrinth** containing the membranous labyrinth:
 
-- **Cochlea** — the **organ of Corti** on the basilar membrane, with **inner and outer hair cells** (the transducers), a **tectorial membrane** that deflects their stereocilia, supporting cells, and the **spiral ganglion**. The **stria vascularis** secretes endolymph.
+- **Cochlea** — a **35-mm** canal with **2¾ turns** around a bony core, the **modiolus**. It has three compartments: **scala vestibuli** (perilymph) above, **scala media / cochlear duct** (endolymph) in the middle, and **scala tympani** (perilymph) below. Vestibuli and tympani communicate at the apex through the **helicotrema**. The **vestibular (Reissner) membrane** separates vestibuli from media with tight junctions that keep the two fluids apart; the **basilar membrane** separates media from tympani.
+- The **organ of Corti** sits on the basilar membrane: **about 12,000 outer hair cells in three rows (five near the apex)** with V-shaped stereocilia bundles, and **about 3,500 inner hair cells in one row** with a linear bundle. The inner row is far more heavily innervated. **Phalangeal cells** support the hair cells and, with them, form the **apical plate**; **pillar cells** enclose the stiff **inner tunnel**. The tallest stereocilia of the outer cells are embedded in the acellular **tectorial membrane** (collagens II, V, and IX, proteoglycans, and tectorin).
+- The **stria vascularis** in the lateral wall secretes endolymph, pumping K⁺ into the lumen.
 - **Vestibule** — **utricle** and **saccule**, each with a **macula** containing hair cells and otoliths (gravity and linear acceleration).
 - **Semicircular canals** — **cristae ampullares** with hair cells in a cupula (rotational acceleration).
 
-**Endolymph** (high K⁺) fills the membranous labyrinth; **perilymph** (high Na⁺) fills the bony labyrinth. The ionic difference is the battery that drives transduction.
+**Endolymph** fills the membranous labyrinth: **K⁺ about 150 mM, Na⁺ about 16 mM** — like intracellular fluid, and the source of the driving force for transduction. **Perilymph** fills the bony labyrinth and resembles cerebrospinal fluid. Perilymph drains through the perilymphatic duct to the subarachnoid space; endolymph drains through the endolymphatic duct to dural venous sinuses.
+
+**Transduction** is the same in the macula, crista, and organ of Corti: bending the stereocilia toward the tallest opens **mechanically gated K⁺ channels**, K⁺ enters, the cell depolarizes, voltage-gated Ca²⁺ channels open at the base, and transmitter release rises. Bending the other way closes the channels and silences the cell.
 
 > **CLINICAL** — **Glaucoma** — raised intraocular pressure from impaired drainage through the trabecular meshwork, damaging the optic nerve. **Cataract** — lens opacity from crystallin denaturation. **Age-related macular degeneration** — degeneration of the RPE and photoreceptors at the macula. **Retinal detachment** — separation of the neural retina from the RPE, which starves the photoreceptors. **Diabetic retinopathy** — microvascular damage with hemorrhage and neovascularization. **Otosclerosis** — ossification of the stapes footplate, producing conductive deafness. **Presbycusis** — age-related loss of hair cells and neurons. **Ménière disease** — endolymphatic hydrops with vertigo, tinnitus, and fluctuating deafness.
+
+**Eyelids and tear film** — the inner surface of the eyelid and the anterior sclera are covered by **conjunctiva**, a **stratified columnar epithelium with goblet cells** that is continuous with the corneal epithelium. **Lacrimal glands** produce the tear film, which drains through the lacrimal apparatus into the nasal cavity.
 
 > **MICRO** — The **cornea** is identified by five layers and a regular, avascular stroma. The **retina** by its ten layers with a pigmented layer at the outer border and ganglion cells at the inner border. The **organ of Corti** by the tunnel of Corti between inner and outer hair cells on the basilar membrane, with the tectorial membrane above.
 
 > **TIP** — Rods detect **dim light**, cones detect **color and detail**; the **fovea has only cones**, which is why acuity is highest there and color vision is lost first in the periphery.
+
+### Chapter 23 — one-line answers
+
+- The eyeball is about 22 mm; the sclera is 0.5 mm thick (1 mm posteriorly).
+- Cornea: epithelium, Bowman membrane, stroma, Descemet membrane, endothelium — avascular and transparent.
+- Aqueous humor: ciliary processes → posterior chamber → pupil → anterior chamber → trabecular meshwork → canal of Schlemm.
+- The lens is avascular, suspended by the fibrillin zonule; it becomes rounder when the ciliary muscle contracts.
+- The retina has nine neural layers plus the pigmented epithelium.
+- Rods (rhodopsin, dim light) and cones (iodopsin, color); the fovea contains cones only.
+- Phototransduction: retinal isomerization → transducin → phosphodiesterase → cGMP falls → channels close → hyperpolarization.
+- The RPE absorbs light, forms the blood–retina barrier, phagocytoses discs, and regenerates 11-cis-retinal.
+- Endolymph is high-K⁺; perilymph resembles CSF.
+- Organ of Corti: about 12,000 outer hair cells in 3–5 rows and 3,500 inner hair cells in one row.
+- Maculae sense gravity and linear acceleration; cristae sense rotation; the cochlea hears.
+
+### Active recall
+
+1. **Name the five layers of the cornea, outside in.** — Epithelium, Bowman membrane, stroma, Descemet membrane, endothelium.
+2. **Where is aqueous humor produced and where does it drain?** — Ciliary processes; drains through the trabecular meshwork into the canal of Schlemm.
+3. **Which retinal cells form the optic nerve?** — Ganglion cells.
+4. **What is the fovea, and why is acuity highest there?** — A cone-only pit at the macula; it has the highest photoreceptor density and minimal overlying tissue.
+5. **Endolymph versus perilymph?** — Endolymph (high K⁺) fills the membranous labyrinth; perilymph (high Na⁺) fills the bony labyrinth.
+
+### Exam-style question
+
+**A patient loses vision from increased intraocular pressure. Where is the obstruction?**
+
+A. Ciliary processes<br/>B. Pupil<br/>C. Trabecular meshwork and canal of Schlemm<br/>D. Central retinal artery
+
+**Answer: C** — Glaucoma results when aqueous humor cannot drain through the trabecular meshwork into the canal of Schlemm.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 23–1** — Internal anatomy of the eye (p4 · 84).
+- **Fig. 23–7** — Epithelium of ciliary processes (p4 · 93).
+- **Fig. 23–14** — General organization and specialized areas of the retina (p4 · 103).
+- **Fig. 23–20** — Lacrimal gland (p4 · 114).
+- **Fig. 23–27** — Mechanotransduction in hair cells (p4 · 123).
+- **Fig. 23–33** — Interpretation of sound waves in the cochlea (p4 · 132).
+

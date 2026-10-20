@@ -4,6 +4,15 @@
 
 **pp. 215–236** · Part 2, pages 120–155 · Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Name the three tunics of the heart and of a blood vessel, and describe what each contains.
+2. Distinguish elastic artery, muscular artery, arteriole, capillary, venule, and vein in section.
+3. Match each capillary type to the organ that needs it.
+4. Trace the lymphatic system from blind-ended capillary to thoracic duct.
+
 ### The core idea
 
 The circulatory system pumps and directs blood cells and substances to all tissues, and in an adult the total length of its vessels is estimated at **100,000–150,000 km**. Every vessel in the body is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
@@ -58,9 +67,56 @@ Begins as blind-ended **lymphatic capillaries** with overlapping endothelial fla
 
 > **TIP** — The three capillaries are distinguished by **continuity, not size**: continuous (tight), fenestrated (pores), sinusoidal (gaps wide enough for a red cell). Liver, spleen, marrow = sinusoidal. Kidney glomerulus and intestine = fenestrated. Brain = continuous with tight junctions.
 
+### Chapter 11 — one-line answers
+
+- Three tunics: intima (endothelium + subendothelial tissue), media (smooth muscle, elastic lamellae), adventitia (collagen).
+- Elastic arteries have many concentric elastic lamellae; muscular arteries have a prominent internal elastic lamina.
+- Arterioles have one or two smooth-muscle layers and control peripheral resistance.
+- Continuous capillaries are the default; fenestrated ones serve endocrine glands, gut, and kidney; sinusoids serve liver, spleen, and marrow.
+- Veins have thinner walls, larger lumens, and valves in medium-sized veins.
+- The heart has endocardium, myocardium, and epicardium; Purkinje fibers conduct the impulse.
+- Lymphatic capillaries are blind-ended and more permeable than blood capillaries; they drain to the thoracic duct.
+- The thoracic duct empties into the left subclavian vein.
+
+### Active recall
+
+1. **Three layers of a vessel wall, outside in?** — Tunica adventitia, tunica media, tunica intima.
+2. **Which vessel has the thickest media relative to its lumen?** — The muscular artery; an arteriole has only one or two smooth-muscle layers.
+3. **Which capillary type is fenestrated, and where is it found?** — Fenestrated capillaries are in endocrine glands, gut mucosa, and kidney; they allow rapid exchange.
+4. **What distinguishes a vein from an artery in section?** — Veins have a larger, often collapsed lumen and a thinner wall with less muscle; valves are present in medium veins.
+5. **Where does lymph begin and end?** — Blind-ended lymphatic capillaries in tissue; it drains through nodes to the thoracic duct and into the subclavian vein.
+
+### Exam-style question
+
+**A section shows a vessel with a thick media containing many elastic lamellae and a wide lumen. Which vessel is it?**
+
+A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
+
+**Answer: B** — Numerous concentric elastic lamellae in a thick media define an elastic artery (aorta, pulmonary artery).
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 11–1** — Cardiovascular system (p2 · 120).
+- **Fig. 11–6** — Walls of arteries and veins (p2 · 127).
+- **Fig. 11–11** — Muscular artery (p2 · 135).
+- **Fig. 11–15** — Comparison of the simple microvascular pathway with arteriovenous shunts and portal… (p2 · 141).
+- **Fig. 11–20** — Sinusoidal capillary (p2 · 145).
+- **Fig. 11–25** — Lymphatic vessels and valve (p2 · 151).
+
 ## 12 · Blood
 
 **pp. 237–253** · Part 2, pages 156–180 · Composition of Plasma · Blood Cells
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Describe plasma and explain how serum differs from it.
+2. Relate erythrocyte shape, size, and lifespan to gas transport.
+3. Identify each leukocyte by nucleus and granules, and state its function.
+4. Explain platelet structure and the steps of hemostasis.
 
 ### The core idea
 
@@ -103,9 +159,57 @@ About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-
 
 > **TIP** — Eosinophil granules stain with eosin because they are **basic proteins** — the naming is the reverse of what students expect. The basophil's granules contain **heparin and histamine**, so the "basic" cell is the one full of allergy mediators.
 
+### Chapter 12 — one-line answers
+
+- Plasma is the fluid phase; serum is plasma after clotting and lacks fibrinogen.
+- Erythrocytes are biconcave, 7.5 µm, anucleate, and live about 120 days.
+- Hemoglobin is the gas carrier; the biconcave shape maximizes surface-to-volume ratio.
+- Neutrophils are the most numerous leukocyte and the first responder to acute inflammation.
+- Eosinophils have bilobed nuclei and orange-red granules (major basic protein); they attack parasites.
+- Basophils carry histamine and heparin and mediate immediate hypersensitivity.
+- Lymphocytes are the second most numerous; monocytes are the largest and become macrophages.
+- Platelets are anucleate fragments of megakaryocytes and form the primary hemostatic plug.
+- Hemostasis = vascular spasm → platelet plug → coagulation → clot retraction and repair.
+
+### Active recall
+
+1. **How does serum differ from plasma?** — Serum is plasma after clotting, so it lacks fibrinogen and consumed clotting factors.
+2. **Normal erythrocyte dimensions and lifespan?** — About 7.5 µm diameter, biconcave with a 2.6-µm rim, circulating about 120 days.
+3. **Which leukocyte is most numerous, and which is largest?** — Neutrophils (~60–70%); monocytes are the largest.
+4. **What do eosinophil granules contain?** — Major basic protein and eosinophil cationic protein, active against parasites and in allergy.
+5. **What are the three steps of hemostasis?** — Vascular spasm, platelet plug formation, and coagulation (fibrin clot).
+
+### Exam-style question
+
+**A blood smear shows a cell with a bilobed nucleus and bright orange-red granules. What is it?**
+
+A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
+
+**Answer: B** — Bilobed nucleus plus large eosinophilic granules is the eosinophil.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 12–1** — Composition of whole blood (p2 · 156).
+- **Fig. 12–4** — Normal human erythrocytes (p2 · 160).
+- **Fig. 12–6** — Diagram of events involving leukocytes in a postcapillary venule at sites of inflammation (p2 · 164).
+- **Fig. 12–9** — Eosinophils (p2 · 168).
+- **Fig. 12–11** — Lymphocytes (p2 · 171).
+- **Fig. 12–14** — Platelet aggregation, degranulation, and fibrin clot formation (p2 · 176).
+
 ## 13 · Hemopoiesis
 
 **pp. 254–266** · Part 2, pages 181–198 · Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Trace the shift of hemopoietic sites from embryo to adult.
+2. Describe the marrow niche and the stromal cells that support it.
+3. Follow each lineage from stem cell to mature cell, naming the recognizable stages.
+4. Match growth factors and colony-stimulating factors to the lineages they drive.
 
 ### The core idea
 
@@ -167,9 +271,57 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 
 > **TIP** — Two facts carry disproportionate marks: **EPO comes from the kidney** (peritubular interstitial cells), and **TPO comes mostly from the liver**. Students routinely invert these.
 
+### Chapter 13 — one-line answers
+
+- Hemopoiesis shifts from yolk sac → liver and spleen → bone marrow; the adult site is red marrow of the axial skeleton.
+- The marrow stroma (reticular cells, macrophages, adipocytes, endothelial cells) forms the hematopoietic niche.
+- Erythropoiesis: proerythroblast → basophilic → polychromatophilic → orthochromatophilic normoblast → reticulocyte → erythrocyte.
+- The nucleus is extruded at the reticulocyte stage; the reticulocyte still contains residual RNA.
+- Granulopoiesis: myeloblast → promyelocyte → myelocyte → metamyelocyte → band → segmented cell.
+- Specific granules appear at the myelocyte stage; azurophilic granules at the promyelocyte stage.
+- Megakaryocytes are polyploid and shed platelets from their cytoplasm.
+- Erythropoietin from the kidney drives erythroid production; G-CSF drives granulocytes.
+- The normal myeloid-to-erythroid ratio is about 2:1 to 4:1.
+
+### Active recall
+
+1. **Where does hemopoiesis occur in the adult?** — Red marrow of the axial skeleton (vertebrae, ribs, sternum, pelvis, proximal femur).
+2. **What is the first recognizable erythroid precursor, and what is lost at the reticulocyte stage?** — Proerythroblast; the nucleus is extruded to form the reticulocyte.
+3. **How do you recognize a megakaryocyte?** — A huge polyploid cell with a lobulated nucleus whose cytoplasm fragments into platelets.
+4. **Which growth factor drives erythroid production?** — Erythropoietin, made by peritubular interstitial cells of the kidney.
+5. **What does the M:E ratio describe?** — The ratio of myeloid (granulocytic) to erythroid precursors in marrow, normally about 2:1 to 4:1.
+
+### Exam-style question
+
+**A bone marrow smear shows a cell with a large, lobulated nucleus and abundant granular cytoplasm producing platelets. What is it?**
+
+A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
+
+**Answer: A** — The megakaryocyte is the polyploid platelet factory; osteoclasts are multinucleated but resorb bone, not make platelets.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 13–1** — Shifting locations of hemopoiesis during development and aging (p2 · 181).
+- **Fig. 13–4** — Red bone marrow (active in hemopoiesis) (p2 · 185).
+- **Fig. 13–6** — Summary of erythrocyte maturation (p2 · 187).
+- **Fig. 13–9** — Developing erythrocytes and granulocytes in marrow (p2 · 190).
+- **Fig. 13–11** — Neutrophilic myelocyte (p2 · 192).
+- **Fig. 13–14** — Megakaryocyte ultrastructure (p2 · 196).
+
 ## 14 · The Immune System & Lymphoid Organs
 
 **pp. 267–294** · Part 2, pages 199–217 + part 3, pages 1–22 · Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Contrast innate and adaptive immunity in cells, speed, and memory.
+2. Explain antigen presentation by MHC I and MHC II and the T-cell classes they activate.
+3. Compare the architecture and function of thymus, lymph node, MALT, and spleen.
+4. Explain how T and B cells are selected and activated, and what happens when selection fails.
 
 ### The core idea
 
@@ -300,3 +452,31 @@ This sequence explains every secondary lymphoid organ in the chapter:
 - Spleen: white pulp (PALS = T zone, follicles = B zone) and red pulp (cords + sinusoids).
 - Spleen filters blood; **open circulation** lets macrophages remove stiff 120-day erythrocytes.
 - Iron is stored as **ferritin**, carried by **transferrin**, and heme iron binds **hemopexin**; the rest becomes bilirubin.
+
+### Active recall
+
+1. **Which MHC class is on all nucleated cells, and which T cell reads it?** — MHC I; CD8⁺ cytotoxic T cells.
+2. **Which cells present on MHC II?** — Antigen-presenting cells, mostly monocyte-derived: dendritic cells, macrophages, B cells.
+3. **Where do T cells undergo positive and negative selection?** — Positive selection in the cortex; negative selection in the medulla.
+4. **What is the difference between the thymus and the spleen in one line?** — The thymus makes and selects T cells and has no follicles; the spleen filters blood and has no afferent lymphatics.
+5. **What does an FDC do?** — Follicular dendritic cells display antigen–antibody complexes to B cells and drive germinal-center formation.
+
+### Exam-style question
+
+**A child has thymic aplasia with absent T cells and hypocalcemia. Which structure failed to develop?**
+
+A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neural crest<br/>D. Spleen
+
+**Answer: B** — DiGeorge syndrome is a third/fourth pharyngeal pouch defect affecting the thymus and parathyroids.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 14–1** — Lymphoid organs and main paths of lymphatic vessels (p2 · 199).
+- **Fig. 14–6** — Activation of lymphocytes (p2 · 209).
+- **Fig. 14–11** — Thymic selection of functional but not self-reactive T cells (p2 · 216).
+- **Fig. 14–16** — Regions of a lymph node (p3 · 9).
+- **Fig. 14–21** — Spleen (p3 · 13).
+- **Fig. 14–26** — Structure and function of splenic sinusoids (p3 · 17).
+

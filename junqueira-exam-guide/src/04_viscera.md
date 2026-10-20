@@ -4,6 +4,15 @@
 
 **pp. 295–328** · Part 3, pages 23–70 · General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
 
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Draw and name the four layers of the gut wall and their contents.
+2. Identify each segment of the digestive tract from its mucosa and muscularis.
+3. Match each gastric and intestinal cell type to its product.
+4. Explain how the small intestine amplifies surface area and how each nutrient is absorbed.
+
 ### The core idea
 
 The gut is one tube with four concentric layers, and every region is a modification of those four layers for a specific job: **grinding, acidifying, absorbing, or dehydrating**. Learn the four layers and their regional variations and you can describe any segment from esophagus to anus.
@@ -127,9 +136,45 @@ Three regions: the short **cecum** with the **appendix**; the long **colon** (as
 - Duodenum = Brunner glands; ileum = Peyer's patches; colon = teniae coli.
 - Lipids leave the villus as chylomicrons in the lacteal; sugars and amino acids enter capillaries.
 
+### Active recall
+
+1. **Name the four layers of the gut wall in order.** — Mucosa, submucosa, muscularis, serosa or adventitia.
+2. **Which cells secrete HCl and intrinsic factor?** — Parietal cells; they have intracellular canaliculi and many mitochondria.
+3. **What are the three surface amplifiers of the small intestine?** — Plicae circulares, villi, and microvilli.
+4. **How do lipids leave the villus?** — As chylomicrons through the lacteal, not through capillaries.
+5. **Which segment has teniae coli and no villi?** — The colon (large intestine).
+
+### Exam-style question
+
+**A biopsy of the small intestine shows submucosal mucous glands. Which segment is it?**
+
+A. Duodenum<br/>B. Jejunum<br/>C. Ileum<br/>D. Colon
+
+**Answer: A** — Brunner (duodenal) glands lie in the submucosa of the duodenum only.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 15–1** — Digestive system (p3 · 23).
+- **Fig. 15–8** — Ultrastructure of dentinal tubule (p3 · 32).
+- **Fig. 15–15** — Wall of the stomach with rugae (p3 · 39).
+- **Fig. 15–21** — Pyloric glands (p3 · 49).
+- **Fig. 15–28** — Microvasculature, lymphatics, and muscle in villi (p3 · 59).
+- **Fig. 15–34** — Mucosa of the rectoanal junction (p3 · 65).
+
 ## 16 · Organs Associated with the Digestive Tract
 
 **pp. 329–348** · Part 3, pages 71–99 · Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Compare the secretory units and ducts of the three major salivary glands.
+2. Explain how the exocrine pancreas makes and delivers digestive enzymes and bicarbonate.
+3. Trace blood and bile through a hepatic lobule in opposite directions.
+4. Explain how the gallbladder concentrates bile and what controls its release.
 
 ### The core idea
 
@@ -215,9 +260,45 @@ The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularize
 - Hepatic zone 1 = periportal, most oxygen; zone 3 = pericentral, most biotransformation and first to die in ischemia.
 - Gallbladder: folded mucosa, no muscularis mucosae, no submucosa; cholangiocytes absorb water; CCK contracts the muscle.
 
+### Active recall
+
+1. **Which salivary gland is purely serous?** — The parotid. Submandibular is mixed, mainly serous; sublingual is mixed, mainly mucous.
+2. **What do striated ducts do?** — Reabsorb Na⁺ and Cl⁻ and add HCO₃⁻, making saliva hypotonic.
+3. **What do centroacinar cells secrete, and under what hormone?** — Bicarbonate-rich fluid, under secretin.
+4. **Trace bile from canaliculus to duodenum.** — Canaliculi → canals of Hering → bile ductules → interlobular ducts → hepatic ducts → common hepatic duct → cystic duct → gallbladder → common bile duct → hepatopancreatic ampulla.
+5. **Which way does blood flow in a hepatic lobule?** — From portal areas at the periphery toward the central vein.
+
+### Exam-style question
+
+**A liver biopsy shows a portal area containing a venule, an arteriole, a bile ductule, and a lymphatic. Which structure is missing from the center of the lobule?**
+
+A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
+
+**Answer: A** — The portal triad (plus lymphatic) sits at the lobule corner; the central vein sits at the center.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 16–1** — Major salivary glands (p3 · 71).
+- **Fig. 16–5** — Submandibular gland and sublingual gland (p3 · 75).
+- **Fig. 16–9** — Pancreatic acini (p3 · 79).
+- **Fig. 16–12** — Hepatic lobule (p3 · 85).
+- **Fig. 16–16** — Hepatocyte ultrastructure and major functions (p3 · 89).
+- **Fig. 16–20** — Gallbladder (p3 · 95).
+
 ## 17 · The Respiratory System
 
 **pp. 349–370** · Part 3, pages 100–131 · Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Follow the airway from nose to alveolus and name what changes at each level.
+2. Identify respiratory epithelium and its cell types.
+3. Explain the blood–air barrier, surfactant, and the mechanics of ventilation.
+4. Distinguish conducting from respiratory airways in a micrograph.
 
 ### The core idea
 
@@ -305,9 +386,57 @@ Ventilation is pressure-driven: the **diaphragm** and **external intercostal mus
 
 > **TIP** — Club cells are found in **bronchioles**, not alveoli, and are the progenitor cells of the bronchiolar epithelium. A question that places them in the alveolus is testing whether you know the level of the airway.
 
+### Chapter 17 — one-line answers
+
+- The conducting airway is nose → pharynx → larynx → trachea → bronchi → bronchioles → terminal bronchioles.
+- Respiratory epithelium is pseudostratified ciliated columnar with goblet cells.
+- Cartilage changes down the tree: C-shaped rings → irregular plates → none.
+- The respiratory bronchiole is the first airway with alveoli in its wall.
+- Type I pneumocytes cover about 95% of the alveolar surface and form the thin gas-exchange barrier.
+- Type II pneumocytes secrete surfactant and divide to replace type I cells.
+- The blood–air barrier is surfactant, type I cell, fused basal laminae, and capillary endothelium (0.1–1.5 µm).
+- Alveolar macrophages (dust cells) clear particles and debris.
+- The pleura is a serous membrane: visceral and parietal layers with a fluid-filled cavity.
+
+### Active recall
+
+1. **What marks the transition from conducting to respiratory airway?** — The appearance of alveoli in the wall — the respiratory bronchiole.
+2. **Which cells line ~95% of the alveolar surface?** — Type I pneumocytes.
+3. **What do type II pneumocytes secrete, and why does it matter?** — Surfactant, which lowers surface tension and prevents alveolar collapse.
+4. **Name the components of the blood–air barrier.** — Surfactant film, type I pneumocyte, fused basal laminae, capillary endothelium.
+5. **How does cartilage change down the tree?** — C-shaped rings (trachea) → irregular plates (bronchi) → absent (bronchioles).
+
+### Exam-style question
+
+**A premature infant develops respiratory distress because alveoli collapse at end-expiration. Which cell is functionally immature?**
+
+A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D. Club cell
+
+**Answer: B** — Type II cells produce surfactant; their immaturity causes neonatal respiratory distress syndrome.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 17–1** — Anatomy of the respiratory system (p3 · 100).
+- **Fig. 17–4** — Larynx (p3 · 105).
+- **Fig. 17–8** — Bronchial wall (p3 · 112).
+- **Fig. 17–11** — Pulmonary circulation, terminal and respiratory bronchioles, and alveoli (p3 · 116).
+- **Fig. 17–15** — Ultrastructure of the blood-air barrier (p3 · 120).
+- **Fig. 17–18** — Pleura (p3 · 126).
+
 ## 18 · Skin
 
 **pp. 371–392** · Part 3, pages 132–160 · Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Name the epidermal layers in order and the defining feature of each.
+2. Match each epidermal cell type to its origin and function.
+3. Identify the dermis, hypodermis, and each skin appendage.
+4. Explain wound healing by first and second intention, and classify burns by depth.
 
 ### The core idea
 
@@ -395,4 +524,43 @@ Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root
 > **TIP** — "Melanocytes are more numerous in dark skin" is false. **Unit density is similar in all people; melanin production and transfer differ.** Also remember that the **nail bed makes no contribution** to the nail plate — the matrix does.
 
 > **MNEMONIC** — **"Come Let's Get Some Beer"** — **C**orneum, **L**ucidum, **G**ranulosum, **S**pinosum, **B**asale (superficial to deep) — and remember **lucidum exists only in thick skin**.
+
+### Chapter 18 — one-line answers
+
+- Epidermal layers, deep to superficial: basale, spinosum, granulosum, lucidum (thick skin only), corneum.
+- Keratinocytes make keratin; they are the most numerous epidermal cells.
+- Melanocytes are neural crest cells that transfer melanin to keratinocytes.
+- Langerhans cells are antigen-presenting cells of monocyte origin.
+- Merkel cells are mechanoreceptors at the basal layer.
+- Dermis = papillary (loose) + reticular (dense irregular); hypodermis is adipose and loose connective tissue.
+- Eccrine sweat glands are merocrine; apocrine glands open into hair follicles; sebaceous glands are holocrine.
+- Meissner corpuscles sense light touch; Pacinian corpuscles sense pressure and vibration.
+- Thick skin has a stratum lucidum and no hair follicles; thin skin has hair and sebaceous glands.
+
+### Active recall
+
+1. **Name the epidermal layers from deep to superficial.** — Basale, spinosum, granulosum, lucidum (thick skin only), corneum.
+2. **Which epidermal cells are neural crest derived?** — Melanocytes and Merkel cells; Langerhans cells come from monocytes.
+3. **What is the function of lamellar bodies?** — They discharge lipid into the intercellular space, forming the water barrier.
+4. **Where are Meissner and Pacinian corpuscles?** — Meissner in the dermal papillae (light touch); Pacinian deep in the dermis/hypodermis (pressure, vibration).
+5. **How do sebaceous and eccrine glands differ in secretion?** — Sebaceous: holocrine. Eccrine: merocrine.
+
+### Exam-style question
+
+**A skin section shows a thick stratum corneum, a clear layer, and no hair follicles. Which site is it from?**
+
+A. Scalp<br/>B. Palm<br/>C. Back<br/>D. Axilla
+
+**Answer: B** — Thick skin with a stratum lucidum and no hair follicles is palmar or plantar skin.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 18–1** — Layers and appendages of skin (p3 · 133).
+- **Fig. 18–5** — Granular and clear layers: thick skin (p3 · 136).
+- **Fig. 18–9** — Merkel or tactile cell (p3 · 142).
+- **Fig. 18–12** — Meissner and lamellated (Pacinian) corpuscles (p3 · 146).
+- **Fig. 18–16** — Glands of skin (p3 · 152).
+- **Fig. 18–20** — Major stages of cutaneous wound healing (p3 · 157).
 

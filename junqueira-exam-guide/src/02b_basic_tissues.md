@@ -2,6 +2,15 @@
 
 **pp. 129–137** · Part 1, pages 208–217 · Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
 
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Distinguish hyaline, elastic, and fibrocartilage by matrix, cells, and perichondrium.
+2. Explain why cartilage heals so poorly and what tissue replaces it.
+3. Describe appositional and interstitial growth and when each is possible.
+4. Identify cartilage types in a micrograph and relate each to its mechanical role.
+
 ### The core idea
 
 Cartilage is a **tough, resilient** connective tissue whose **ECM** — collagen plus proteoglycan and water — is the bulk of the tissue; **fibroblasts** of the perichondrium, not chondrocytes, produce its outer fibrous layer. that structurally supports soft tissues — notably in the respiratory tract — and provides **cushioned, low-friction surfaces in joints**. Chondrocytes are a small percentage of the tissue's mass, which is mainly a flexible extracellular matrix of collagen plus abundant proteoglycans, notably **aggrecan**, which binds a large amount of water. **Cartilage always lacks blood vessels, lymphatics, and nerves**, but usually has a vascularized **perichondrium** of dense connective tissue. It is **avascular and aneural**, which explains both its durability under load and its disastrously poor healing.
@@ -61,9 +70,45 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 - Osteoarthritis = matrix failure; rheumatoid arthritis = synovial inflammation with pannus.
 - Chondroblasts make matrix; chondrocytes maintain it.
 
+### Active recall
+
+1. **Which cartilage has no perichondrium, and why does that matter?** — Fibrocartilage; without a perichondrial source of new chondroblasts, disc and meniscal injuries heal poorly.
+2. **Which collagen types are in hyaline and fibrocartilage?** — Hyaline: type II. Fibrocartilage: type I and type II.
+3. **What is an isogenous group?** — Daughter chondrocytes from a recent division, still sharing one lacuna.
+4. **Appositional versus interstitial growth?** — Appositional adds cartilage at the periphery and increases width; interstitial growth divides chondrocytes inside lacunae, increases length, and occurs only in young cartilage.
+5. **Why is articular cartilage a poor repairer?** — It is avascular, aneural, and lacks perichondrium, so nutrition depends on synovial fluid diffusion.
+
+### Exam-style question
+
+**A tissue shows rows of chondrocytes between thick parallel bundles of type I collagen and has no perichondrium. Which is it?**
+
+A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decalcified bone
+
+**Answer: C** — Rows of chondrocytes plus type I bundles and no perichondrium identify fibrocartilage (intervertebral disc, meniscus, pubic symphysis).
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 7–1** — Distribution of cartilage in adults (p1 · 208).
+- **Fig. 7–2** — Structure of cartilage matrix and cells (p1 · 209).
+- **Fig. 7–3** — Hyaline cartilage (p1 · 211).
+- **Fig. 7–5** — Fibrocartilage (p1 · 213).
+- **Fig. 7–6** — Chondrogenesis (p1 · 215).
+- **Fig. 7–7** — Chondrocytes in growing cartilage (p1 · 215).
+
 ## 8 · Bone
 
 **pp. 138–160** · Part 2, pages 3–36 · Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Describe the cells and matrix of bone and how each contributes to strength and turnover.
+2. Distinguish woven from lamellar bone, and compact from spongy bone.
+3. Sequence endochondral and intramembranous ossification.
+4. Explain remodeling, calcium homeostasis, and fracture repair.
 
 ### The core idea
 
@@ -149,9 +194,57 @@ Bone is the body's calcium and phosphate reservoir.
 
 > **TIP** — The commonest error is saying osteoclasts are mesenchymal. They are **hematopoietic**, from the monocyte–macrophage line. The second is reversing the epiphyseal zones: growth happens at the **epiphyseal** side, ossification at the **diaphyseal** side.
 
+### Chapter 8 — one-line answers
+
+- Bone matrix is type I collagen plus hydroxyapatite; osteoid must mineralize before it is rigid.
+- Osteoblasts make osteoid; osteocytes maintain matrix; osteoclasts resorb bone with a ruffled border.
+- Osteoclasts are multinucleated and derive from the monocyte–macrophage lineage, not from osteoblasts.
+- Compact bone is built of osteons; spongy bone is a trabecular lattice without osteons.
+- Endochondral ossification replaces a cartilage model; intramembranous ossification forms directly in mesenchyme.
+- The growth plate runs reserve → proliferative → hypertrophic → calcified → ossification zones.
+- Osteogenesis imperfecta = type I collagen; achondroplasia = FGFR3; Marfan = fibrillin.
+- PTH raises serum calcium; calcitonin lowers it; vitamin D increases absorption.
+- Fracture repair: hematoma → fibrocartilaginous callus → bony callus → remodeling.
+
+### Active recall
+
+1. **Which cell makes bone matrix, and which resorbs it?** — Osteoblasts make osteoid; osteoclasts resorb bone using a ruffled border and acid.
+2. **What does osteoid contain, and what mineralizes it?** — Type I collagen and proteoglycans; hydroxyapatite crystals deposit along the collagen.
+3. **How do osteocytes stay alive inside lacunae?** — Their processes run through canaliculi and contact processes of neighboring cells and the central canal, allowing diffusion of nutrients.
+4. **Endochondral versus intramembranous ossification?** — Endochondral replaces a cartilage model (long bones, base of skull); intramembranous forms directly in mesenchyme (flat skull bones, mandible).
+5. **What happens at a growth plate, zone by zone?** — Reserve → proliferative → hypertrophic → calcified matrix → ossification, with chondrocyte death and vascular invasion.
+
+### Exam-style question
+
+**A child has brittle bones, blue sclerae, and recurrent fractures. Which protein is defective?**
+
+A. Type II collagen<br/>B. Type I collagen<br/>C. Fibrillin<br/>D. Dystrophin
+
+**Answer: B** — Osteogenesis imperfecta is a type I collagen defect. Type II defects cause chondrodysplasias; fibrillin causes Marfan syndrome.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 8–1** — Components of bone (p2 · 3).
+- **Fig. 8–5** — Osteocytes in lacunae (p2 · 8).
+- **Fig. 8–10** — Lamellar bone: Perforating canals and interstitial lamellae (p2 · 16).
+- **Fig. 8–14** — Osteogenesis of long bones by endochondral ossification (p2 · 20).
+- **Fig. 8–19** — Main features of bone fracture repair (p2 · 26).
+- **Fig. 8–23** — Articular cartilage (p2 · 31).
+
 ## 9 · Nerve Tissue & the Nervous System
 
 **pp. 161–192** · Part 2, pages 37–86 · Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Draw a neuron and label its parts, and classify neurons by shape and function.
+2. Name the six glial cell types and give each one's job.
+3. Explain how a synapse transmits a signal, and how myelin speeds conduction.
+4. Compare regeneration in the peripheral and central nervous systems.
 
 ### The core idea
 
@@ -210,9 +303,57 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 
 > **TIP** — **Oligodendrocyte = CNS, several axons. Schwann cell = PNS, one segment of one axon.** And **microglia are the only glia of mesodermal origin.**
 
+### Chapter 9 — one-line answers
+
+- Neurons are classified by shape (multipolar, bipolar, pseudounipolar) and by function (sensory, motor, interneuron).
+- Nissl bodies are rough ER plus polysomes; their position marks the soma and proximal dendrites.
+- Oligodendrocytes myelinate the CNS (several axons each); Schwann cells myelinate the PNS (one segment each).
+- Astrocytes form end-feet, contribute to the blood–brain barrier, and scar the CNS.
+- Microglia are the resident macrophages, derived from monocytes.
+- Ependymal cells line the ventricles and produce cerebrospinal fluid.
+- Myelin allows saltatory conduction between nodes of Ranvier.
+- The blood–brain barrier is sealed by tight junctions between capillary endothelial cells.
+- PNS axons regenerate through bands of Büngner; CNS axons do not regenerate.
+
+### Active recall
+
+1. **Which glial cell myelinates the CNS, and which myelinates the PNS?** — Oligodendrocyte (CNS, several axons); Schwann cell (PNS, one segment of one axon).
+2. **Which glial cell is the macrophage of the CNS?** — Microglia, derived from monocytes.
+3. **What forms the blood–brain barrier?** — Tight junctions between capillary endothelial cells, reinforced by astrocyte end-feet and pericytes.
+4. **How is a signal carried along an axon?** — An action potential; myelin allows saltatory conduction between nodes of Ranvier.
+5. **Why does CNS injury scar rather than regenerate?** — Oligodendrocytes and myelin inhibit axon growth, astrocytes form a glial scar, and there is no permissive sheath like the PNS bands of Büngner.
+
+### Exam-style question
+
+**A peripheral nerve is cut and surgically reapproximated. Which cell guides regrowing axons?**
+
+A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
+
+**Answer: B** — Schwann cells dedifferentiate, form bands of Büngner, and provide a physical and trophic guide for the regenerating axon.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 9–1** — General organization of the nervous system (p2 · 37).
+- **Fig. 9–7** — Types of synapses (p2 · 48).
+- **Fig. 9–13** — Satellite cells around neurons of ganglia in the PNS (p2 · 59).
+- **Fig. 9–18** — Spinal cord and meninges (p2 · 66).
+- **Fig. 9–24** — Node of Ranvier and endoneurium (p2 · 76).
+- **Fig. 9–30** — Regeneration in peripheral nerves (p2 · 82).
+
 ## 10 · Muscle Tissue
 
 **pp. 193–214** · Part 2, pages 87–119 · Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Distinguish skeletal, cardiac, and smooth muscle by light microscopy.
+2. Explain the sarcomere and the sliding-filament mechanism.
+3. Compare excitation–contraction coupling in the three muscle types.
+4. Predict which muscle regenerates and which is replaced by scar.
 
 ### The core idea
 
@@ -304,3 +445,31 @@ Skeletal muscle regenerates weakly, from **satellite cells**, and only if the ba
 - Type I fibers = slow, oxidative, fatigue-resistant. Type II = fast, glycolytic.
 - Duchenne dystrophy = **dystrophin** defect; myasthenia gravis = antibody to the nicotinic receptor.
 - Muscle spindle = stretch receptor; Golgi tendon organ = tension receptor.
+
+### Active recall
+
+1. **Which band does not change length during contraction?** — The A band, because it is the length of the thick filaments.
+2. **What hides the myosin-binding site at rest, and what moves it?** — Tropomyosin; calcium binds troponin C and shifts tropomyosin.
+3. **Cardiac versus skeletal muscle at the T-tubule level?** — Cardiac diads lie at the Z line; skeletal triads lie at the A–I junction.
+4. **What is the calcium sensor in smooth muscle?** — Calmodulin, which activates myosin light-chain kinase; smooth muscle has no troponin.
+5. **Which muscle types regenerate?** — Skeletal (limited, from satellite cells), smooth (hyperplasia/hypertrophy); cardiac does not.
+
+### Exam-style question
+
+**A muscle biopsy shows branched fibers with one central nucleus and dark transverse bands. What is the diagnosis?**
+
+A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regular connective tissue
+
+**Answer: B** — Branching, central nuclei, and intercalated discs are the triad of cardiac muscle.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 10–1** — Three types of muscle (p2 · 87).
+- **Fig. 10–5** — Capillaries of skeletal muscle (p2 · 92).
+- **Fig. 10–9** — Organization of a skeletal muscle fiber (p2 · 98).
+- **Fig. 10–12** — Sliding filaments and sarcomere shortening in contraction (p2 · 101).
+- **Fig. 10–16** — Cardiac muscle: Intercalated discs (p2 · 109).
+- **Fig. 10–20** — Smooth muscle contraction (p2 · 115).
+

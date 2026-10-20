@@ -4,6 +4,15 @@
 
 **pp. 71–95** · Part 1, pages 122–161 · Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
 
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Classify any epithelium by the number of layers and the shape of its surface cells.
+2. Match each junctional complex to its molecular components and its function.
+3. Explain how microvilli, stereocilia, and cilia differ in structure and purpose.
+4. Predict where a given epithelium will be found from the mechanical or transport job it must do.
+
 ### The core idea
 
 Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **all substances that enter or leave an organ must cross this type of tissue**. Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
@@ -120,9 +129,45 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 - Apical specializations serve absorption or movement; basal specializations anchor and receive signals.
 - Epithelia renew from stem cells: labile (gut, skin) versus stable (liver, kidney).
 
+### Active recall
+
+1. **How do you classify an epithelium in one pass?** — First count the layers (simple, stratified, pseudostratified), then name the surface cell shape (squamous, cuboidal, columnar).
+2. **What does a tight junction do besides sealing?** — It fences membrane proteins, creating and maintaining apical–basal polarity.
+3. **Which junction attaches a cell to the basal lamina?** — The hemidesmosome.
+4. **Microvillus, stereocilium, cilium — core structure?** — Microvillus: actin core. Stereocilium: long, stiff actin bundle. Cilium: 9 + 2 microtubules anchored by a 9 + 0 basal body.
+5. **Why is urothelium suited to the bladder?** — Umbrella cells with uroplakin plaques and tight junctions form an osmotic barrier, and the epithelium thins as the bladder fills.
+
+### Exam-style question
+
+**An epithelium lines a dry, abrasion-prone surface. Which description fits it?**
+
+A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>C. Simple squamous with fenestrations<br/>D. Pseudostratified ciliated columnar
+
+**Answer: B** — Keratinized stratified squamous epithelium is the body's answer to mechanical wear plus water loss (skin, hard palate, gingiva).
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 4–1** — Epithelia and adjacent connective tissue (p1 · 123).
+- **Fig. 4–6** — View of a tight junction after cryofracture (p1 · 129).
+- **Fig. 4–12** — Simple squamous epithelium (p1 · 137).
+- **Fig. 4–17** — Pseudostratified epithelium (p1 · 144).
+- **Fig. 4–23** — Apocrine secretion in the mammary gland (p1 · 151).
+- **Fig. 4–28** — Features of absorptive cells (p1 · 157).
+
 ## 5 · Connective Tissue
 
 **pp. 96–121** · Part 1, pages 162–196 · Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Name the cells, fibers, and ground substance of connective tissue and give each one's job.
+2. Match collagen types I–IV to their locations and to the diseases caused by their failure.
+3. Distinguish loose from dense connective tissue, and regular from irregular, by collagen arrangement.
+4. Explain how connective tissue repairs and why scurvy and Ehlers–Danlos syndrome look the way they do.
 
 ### The core idea
 
@@ -212,9 +257,45 @@ Besides fibroblasts, the resident population includes **adipocytes**, **macropha
 - Reticular tissue = type III collagen framework of lymphoid organs and marrow.
 - Edema = excess fluid in ground substance; it follows increased pressure, leaky vessels, or low albumin.
 
+### Active recall
+
+1. **Which collagen type forms the basal lamina?** — Type IV (with laminin), over a reticular lamina of type III.
+2. **Which collagen type is defective in osteogenesis imperfecta?** — Type I.
+3. **What is the only unsulfated GAG?** — Hyaluronan.
+4. **How do you tell dense regular from dense irregular connective tissue?** — Direction: regular has parallel bundles (tendon), irregular has randomly oriented bundles (dermis).
+5. **What does a plasma cell look like, and what does it make?** — Eccentric clock-face nucleus with a pale perinuclear Golgi halo; it secretes antibody.
+
+### Exam-style question
+
+**A patient has bleeding gums, poor wound healing, and perifollicular hemorrhages. Which step in collagen synthesis is defective?**
+
+A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br/>C. Cleavage of propeptides<br/>D. Cross-linking by lysyl oxidase
+
+**Answer: B** — Vitamin C is the cofactor for prolyl and lysyl hydroxylase; without hydroxylation the triple helix is unstable — scurvy.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 5–1** — Embryonic mesenchyme (p1 · 162).
+- **Fig. 5–5** — Mast cells (p1 · 170).
+- **Fig. 5–9** — Collagen subunit (p1 · 176).
+- **Fig. 5–14** — Formation of elastic fibers (p1 · 182).
+- **Fig. 5–18** — Movement of fluid in connective tissue (p1 · 187).
+- **Fig. 5–22** — Mucoid tissue (p1 · 193).
+
 ## 6 · Adipose Tissue
 
 **pp. 122–128** · Part 1, pages 197–207 · White Adipose Tissue · Brown Adipose Tissue
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Distinguish white and brown adipocytes by light and electron microscopy.
+2. Explain how white adipose tissue works as an endocrine organ.
+3. Explain the mechanism of non-shivering thermogenesis and where brown fat is found.
+4. Relate adipose storage limits to obesity, lipotoxicity, and lipodystrophy.
 
 ### The core idea
 
@@ -268,3 +349,29 @@ Found in the fetus and newborn (interscapular, axillary, perirenal, along the gr
 - Obesity is expansion by hypertrophy and hyperplasia; the storage limit produces lipotoxicity.
 - Lipodystrophy = absent or redistributed fat with severe insulin resistance.
 - Leptin signals energy stores to the hypothalamus; adiponectin increases insulin sensitivity.
+
+### Active recall
+
+1. **One histological difference between white and brown fat?** — White: one large droplet, peripheral flattened nucleus. Brown: many small droplets, central round nucleus, eosinophilic granular cytoplasm.
+2. **What is UCP1 and where does it act?** — Uncoupling protein 1 in the inner mitochondrial membrane; it lets protons leak back without ATP synthesis, releasing heat.
+3. **Name two adipokines.** — Leptin (signals stored energy) and adiponectin (increases insulin sensitivity).
+4. **When is brown fat most abundant?** — In the newborn (neck, back, mediastinum); it persists in adult neck and supraclavicular depots.
+5. **What is lipotoxicity?** — When adipose storage capacity is exceeded, lipid accumulates in liver, muscle, and pancreas, impairing their function.
+
+### Exam-style question
+
+**A newborn's PET scan shows active supraclavicular fat that burns energy without shivering. Which feature explains this?**
+
+A. Unilocular droplets and few mitochondria<br/>B. Multilocular droplets, abundant mitochondria, and UCP1<br/>C. Dense collagen bundles and few cells<br/>D. Abundant rough ER and zymogen granules
+
+**Answer: B** — Brown adipocytes are built for heat production: many small droplets for rapid lipolysis, cristae-rich mitochondria, and UCP1.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 6–1** — White adipose tissue (p1 · 197).
+- **Fig. 6–2** — Lipid storage and mobilization from adipocytes (p1 · 199).
+- **Fig. 6–3** — Development of white and brown fat cells (p1 · 200).
+- **Fig. 6–4** — Brown adipose tissue (p1 · 202).
+

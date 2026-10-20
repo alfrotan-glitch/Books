@@ -4,6 +4,15 @@
 
 **pp. 1–16** · Part 1, pages 13–39 · Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
 
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Trace a tissue from patient to stained slide, and explain what each step preserves.
+2. Predict what hematoxylin and eosin will color, and why.
+3. Choose the right special technique for a target molecule (carbohydrate, lipid, protein, nucleic acid, antigen).
+4. Explain how section thickness, fixation, and artifact can mislead you when you interpret a two-dimensional image.
+
 ### The core idea
 
 Histology explores the body's tissues and how they are arranged to produce functional organs. Tissues have two interacting components: **cells and extracellular matrix (ECM)**. The ECM is not packing material — it supports the cells, carries the fluid that brings nutrients and removes waste, and its molecules bind specific cell-surface receptors connected to structural components inside the cell, forming a continuum in which cells and matrix function together.
@@ -43,6 +52,20 @@ Most cells and extracellular material are completely colourless. Dyes behave lik
 **Enzyme digestion** identifies what a stain is binding: pretreating a section with an enzyme that digests one substrate. Pretreatment with **ribonuclease** greatly reduces cytoplasmic basophilia with little effect on the nucleus, proving that the cytoplasmic staining depended on RNA.
 
 **Lipid-soluble dyes** such as **Sudan black** reveal lipid-rich structures — provided the processing steps that remove lipids (heat and organic solvents) are avoided. **Metal impregnation** with silver salts visualizes certain ECM fibers and specific elements in nervous tissue. The book's Appendix lists the staining procedures used for most of its light micrographs.
+
+**The atlas palette.** The book's Appendix (pp 525–526) lists the stains behind its plates, and the captions name them. Learn what each one makes visible, because a caption that says "Mallory trichrome" is telling you which structures were deliberately contrasted:
+
+| Stain | Nuclei | Cytoplasm | Collagen / other | Where you meet it |
+|---|---|---|---|---|
+| **H&E** | Blue-purple (hematoxylin) | Pink (eosin) | Collagen pink | Almost every chapter |
+| **PT** (pararosaniline–toluidine blue) | Purple chromatin | Lighter violet | Collagen pale violet | Plastic sections needing fine detail |
+| **Mallory trichrome** | Purple | Red-orange (also keratin, erythrocytes) | **Blue** | Connective tissue, small vessels, pituitary, kidney |
+| **Picrosirius–hematoxylin (PSH)** | Purple | Pink-violet | **Collagen red**, birefringent under polarized light | Ovary, cartilage, tendon |
+| **PAS** | — | Magenta where carbohydrate is abundant | Glycogen, mucin, basement membrane, glycocalyx | Gut, kidney, cartilage |
+| **Wright–Giemsa** | Purple | Granules colour differentially | Erythrocytes pink | Blood and marrow smears |
+| **Silver / gold** | — | — | Nerve filaments and **reticulin (type III)** black-brown | Nervous tissue, lymphoid organs |
+| **Elastin stains** (Weigert, aldehyde fuchsin, orcein) | — | — | Elastic fibers brown-purple | Aorta, lung, skin |
+| **Lipid stains** (oil red O, Sudan black, osmium tetroxide) | — | — | Lipid droplets and myelin | Adipose tissue, steroid cells, nerve |
 
 Slide preparation, from fixation to observation, takes **12 hours to 2½ days**, depending on tissue size, embedding medium, and staining method.
 
@@ -111,9 +134,58 @@ Two rules from the book's own section:
 
 > **PEARL** — The examiner's favourite Chapter 1 chain is: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
 
+### Chapter 1 — one-line answers
+
+- H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
+- Resolution: light microscope about 0.2 µm; transmission EM about 0.2 nm.
+- Fixation cross-links proteins; formalin is the standard fixative, glutaraldehyde for EM.
+- Paraffin sections are 3–10 µm; frozen sections are used for urgent diagnosis and for lipid.
+- PAS stains carbohydrates magenta; it demonstrates glycogen, mucin, and basement membranes.
+- Immunohistochemistry localizes a specific antigen with an antibody; in situ hybridization localizes a specific nucleic acid sequence.
+- Artefacts — shrinkage, knife marks, precipitated stain — must be recognized before any structure is identified.
+- A 2D section samples one plane, so a tube can look like a ring and a sphere like a circle.
+
+### Active recall
+
+Answer each from memory before checking.
+
+1. **What does formalin do to a tissue?** — Cross-links proteins, preserving structure while making the tissue firm enough to section.
+2. **Which dye stains nuclei, and why?** — Hematoxylin, a basic dye that binds acidic nucleic acids (DNA and RNA).
+3. **What does PAS demonstrate?** — Carbohydrates, glycogen, and glycoprotein-rich structures such as basement membranes.
+4. **Light microscope versus electron microscope resolution?** — About 0.2 µm versus about 0.2 nm — a thousand-fold difference.
+5. **Why is a 5-µm section dangerous to interpret in one glance?** — It samples a single plane; a tube can look like a ring, a sphere like a circle, and a fold like a septum.
+
+### Exam-style question
+
+**A research group needs to show that a newly described protein is present in the basal layer of the epidermis. Which technique is the most direct choice?**
+
+A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemistry with a specific antibody<br/>D. Sudan black
+
+**Answer: C** — Immunohistochemistry localizes a specific protein by antibody binding. H&E shows general morphology, PAS shows carbohydrates, and Sudan black shows lipids.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 1–1** — Sectioning fixed and embedded tissue (p1 · 14).
+- **Fig. 1–4** — Appearance of cells with fluorescent microscopy (p1 · 19).
+- **Fig. 1–6** — Principle of confocal microscopy (p1 · 22).
+- **Fig. 1–9** — Microscopic autoradiography (p1 · 26).
+- **Fig. 1–11** — Immunocytochemistry techniques (p1 · 31).
+- **Fig. 1–14** — Interpretation of 3D structures in 2D sections (p1 · 36).
+
 ## 2 · The Cytoplasm
 
 **pp. 17–52** · Part 1, pages 40–91 · Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Describe each membrane-bound organelle and match it to the cell type that needs it most.
+2. Explain how proteins are sorted from ribosome to final destination.
+3. Distinguish the three cytoskeletal systems by subunit, diameter, and motor protein.
+4. Predict the ultrastructure of a cell from its function (steroid synthesis, protein export, phagocytosis, movement).
 
 ### The core idea
 
@@ -190,9 +262,57 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 
 > **TIP** — Two traps repeat every year. The Golgi **modifies and sorts** proteins; the RER makes them. And the mitochondrion is the powerhouse; the lysosome is the incinerator.
 
+### Chapter 2 — one-line answers
+
+- Rough ER makes membrane and secretory proteins; smooth ER makes lipids and steroids and detoxifies.
+- The Golgi is polarized: cis face receives, medial cisternae modify, trans face sorts and packages.
+- Mitochondria have outer and inner membranes; cristae shape reflects the cell's energy demand.
+- The peroxisome contains catalase and performs β-oxidation of very long-chain fatty acids.
+- The lysosome is the acid hydrolase compartment; its failure produces storage diseases.
+- Microtubules are 25 nm, actin filaments 7 nm, intermediate filaments 10 nm.
+- Kinesin walks toward the microtubule plus end (anterograde); dynein toward the minus end (retrograde).
+- Cilia are 9 + 2 and motile; basal bodies are 9 + 0; microvilli have an actin core.
+- Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is passive and inflammatory.
+
+### Active recall
+
+1. **Rough versus smooth ER — what distinguishes them functionally?** — Rough ER carries ribosomes and makes membrane and secretory proteins; smooth ER makes lipids and steroids and detoxifies.
+2. **Why is the Golgi described as polarized?** — Cis face receives, medial cisternae modify, trans face packages and sorts.
+3. **Which organelle contains catalase, and what does it do?** — The peroxisome; catalase breaks down hydrogen peroxide, and peroxisomes also perform β-oxidation of very long-chain fatty acids.
+4. **Which cytoskeletal element forms the mitotic spindle, and which motor walks toward its plus end?** — Microtubules; kinesin moves toward the plus end (anterograde), dynein toward the minus end (retrograde).
+5. **What ultrastructural feature identifies a cell that secretes steroid hormone?** — Abundant smooth ER and lipid droplets, with mitochondria that have tubular cristae.
+
+### Exam-style question
+
+**A cell in the adrenal cortex is examined by electron microscopy. Which combination of features is most consistent with its function?**
+
+A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipid droplets, and tubular mitochondrial cristae<br/>C. Numerous lysosomes and residual bodies<br/>D. Dense arrays of actin filaments and desmosomes
+
+**Answer: B** — Steroid synthesis requires cholesterol (stored as lipid droplets), smooth ER for the enzymatic steps, and mitochondria with tubular cristae.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 2–1** — Lipids in membrane structure (p1 · 42).
+- **Fig. 2–6** — Three major forms of endocytosis (p1 · 50).
+- **Fig. 2–12** — Protein localization and cell morphology (p1 · 58).
+- **Fig. 2–17** — Lysosomal functions (p1 · 65).
+- **Fig. 2–23** — Dynamic instability of microtubules (p1 · 75).
+- **Fig. 2–28** — Cellular inclusions (p1 · 84).
+
 ## 3 · The Nucleus
 
 **pp. 53–70** · Part 1, pages 92–121 · Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
+
+### Learning objectives
+
+By the end of this chapter you should be able to:
+
+1. Describe the nuclear envelope, lamina, and pore complex as a selective transport system.
+2. Explain how DNA is packaged into nucleosomes, chromatin, and chromosomes.
+3. Sequence the cell cycle and name the checkpoints that guard it.
+4. Contrast mitosis, meiosis, and apoptosis, and explain what goes wrong when each fails.
 
 ### The core idea
 
@@ -280,3 +400,31 @@ Programmed cell death: **caspases** are activated, **cytochrome c** escapes mito
 - Apoptosis = caspases, cytochrome c, Bcl-2 family, apoptotic bodies, no inflammation.
 - Necrosis = swelling, membrane rupture, inflammation.
 - Labile tissue turns over constantly; stable tissue can be triggered; permanent tissue cannot regenerate.
+
+### Active recall
+
+1. **What is a nucleosome?** — About 150 bp of DNA wrapped around an octamer of histones (two each of H2A, H2B, H3, H4), with H1 on the outside.
+2. **Heterochromatin versus euchromatin?** — Heterochromatin is condensed and transcriptionally silent; euchromatin is dispersed and active.
+3. **What is a Barr body?** — The facultatively heterochromatic, inactivated X chromosome in a female somatic cell.
+4. **Which checkpoint does p53 guard, and what happens if repair fails?** — The G1 checkpoint; p53 triggers apoptosis if the DNA cannot be repaired.
+5. **Name two ways apoptosis differs from necrosis.** — Apoptosis is ATP-dependent, shrinks the cell, keeps the membrane intact, and causes no inflammation; necrosis is passive, swells and ruptures the cell, and inflames the tissue.
+
+### Exam-style question
+
+**A cell is blocked in metaphase with colchicine. Its chromosomes number 46. Which statement is correct?**
+
+A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cell<br/>C. It has completed meiosis II<br/>D. It is an anucleate cell
+
+**Answer: B** — Colchicine arrests cells in metaphase, when sister chromatids are still attached; a count of 46 means diploid. Haploid cells would show 23.
+
+### Plates to study
+
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+
+- **Fig. 3–1** — Nuclei of large, active cells (p1 · 92).
+- **Fig. 3–5** — Nuclear pores (p1 · 96).
+- **Fig. 3–9** — Chromosome territories of a human fibroblast nucleus (p1 · 101).
+- **Fig. 3–12** — Cell cycle (p1 · 106).
+- **Fig. 3–16** — Mitotic cells in adult tissues (p1 · 111).
+- **Fig. 3–20** — Late apoptosis—apoptotic bodies (p1 · 116).
+
