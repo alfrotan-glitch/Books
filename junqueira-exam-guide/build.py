@@ -613,7 +613,7 @@ def build_pdf():
             "Part III  ·  Transport, defense, and blood: circulation, blood, hemopoiesis, immunity<br/>"
             "Part IV  ·  Digestion and respiration: gut, associated organs, respiratory system, skin<br/>"
             "Part V  ·  Excretion and reproduction: urinary system, endocrine glands, male and female reproductive systems, eye and ear<br/>"
-            "Part VI  ·  Rapid review, master tables, stains, and the vocabulary examiners use<br/>"
+            "Part VI  ·  Rapid review, master tables, stains, and the vocabulary worth knowing<br/>"
             "Part VII  ·  One hundred examination questions with explained answers",
             S("tgl", fontName="Head-Reg", fontSize=8.3, leading=13.2, textColor=INK)),
         Spacer(1, 120),

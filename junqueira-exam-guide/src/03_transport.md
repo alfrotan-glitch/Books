@@ -96,14 +96,14 @@ A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 11–1** — Cardiovascular system (Chapter 11).
-- **Fig. 11–6** — Walls of arteries and veins (Chapter 11).
-- **Fig. 11–11** — Muscular artery (Chapter 11).
-- **Fig. 11–15** — Comparison of the simple microvascular pathway with arteriovenous shunts and portal… (Chapter 11).
-- **Fig. 11–20** — Sinusoidal capillary (Chapter 11).
-- **Fig. 11–25** — Lymphatic vessels and valve (Chapter 11).
+- **Fig. 11–1** — *The cardiovascular system*.
+- **Fig. 11–6** — *Walls of arteries and veins*.
+- **Fig. 11–11** — *Muscular artery*.
+- **Fig. 11–15** — *Comparison of the simple microvascular pathway with arteriovenous shunts and portal systems*.
+- **Fig. 11–20** — *Sinusoidal capillary*.
+- **Fig. 11–25** — *Lymphatic vessels and valve*.
 
 ## 12 · Blood
 
@@ -150,7 +150,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 - Shape maintained by **spectrin and ankyrin**; defects produce hereditary spherocytosis.
 - **Hemoglobin** — four globin chains, each with a hem group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
-- **Hematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood.
+- **Hematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood (supplementary standard value, not stated in the chapter).
 
 **The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes)
 
@@ -206,14 +206,14 @@ A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 12–1** — Composition of whole blood (Chapter 12).
-- **Fig. 12–4** — Normal human erythrocytes (Chapter 12).
-- **Fig. 12–6** — Diagram of events involving leukocytes in a postcapillary venule at sites of inflammation (Chapter 12).
-- **Fig. 12–9** — Eosinophils (Chapter 12).
-- **Fig. 12–11** — Lymphocytes (Chapter 12).
-- **Fig. 12–14** — Platelet aggregation, degranulation, and fibrin clot formation (Chapter 12).
+- **Fig. 12–1** — *Composition of whole blood*.
+- **Fig. 12–4** — *Normal human erythrocytes*.
+- **Fig. 12–6** — *Diagram of events involving leukocytes in a postcapillary venule at sites of inflammation*.
+- **Fig. 12–9** — *Eosinophils*.
+- **Fig. 12–11** — *Lymphocytes*.
+- **Fig. 12–14** — *Platelet aggregation, degranulation, and fibrin clot formation*.
 
 ## 13 · Hemopoiesis
 
@@ -286,7 +286,7 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 
 > **MICRO** — Identify the lineage by **nucleus-to-cytoplasm ratio and granule color**. Early cells have a large nucleus, a thin rim of basophilic cytoplasm, and a nucleolus. As cells mature, the ratio falls, granules appear, and the nucleus condenses. **Maturation moves in one direction: nucleus shrinks, cytoplasm grows, color shifts from blue to pink or from blue to granular.**
 
-> **TIP** — Two facts carry disproportionate marks: **EPO comes from the kidney** (peritubular interstitial cells), and **TPO comes mostly from the liver**. Students routinely invert these.
+> **TIP** — Two facts that are easy to invert: **EPO comes from the kidney** (peritubular interstitial cells), and **TPO comes mostly from the liver**. Students routinely invert these.
 
 ### Chapter 13 — one-line answers
 
@@ -318,14 +318,14 @@ A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 13–1** — Shifting locations of hemopoiesis during development and aging (Chapter 13).
-- **Fig. 13–4** — Red bone marrow (active in hemopoiesis) (Chapter 13).
-- **Fig. 13–6** — Summary of erythrocyte maturation (Chapter 13).
-- **Fig. 13–9** — Developing erythrocytes and granulocytes in marrow (Chapter 13).
-- **Fig. 13–11** — Neutrophilic myelocyte (Chapter 13).
-- **Fig. 13–14** — Megakaryocyte ultrastructure (Chapter 13).
+- **Fig. 13–1** — *Shifting locations of hemopoiesis during development and aging*.
+- **Fig. 13–4** — *Red bone marrow (active in hemopoiesis)*.
+- **Fig. 13–6** — *Summary of erythrocyte maturation*.
+- **Fig. 13–9** — *Developing erythrocytes and granulocytes in marrow*.
+- **Fig. 13–11** — *Neutrophilic myelocyte*.
+- **Fig. 13–14** — *Megakaryocyte ultrastructure*.
 
 ## 14 · The Immune System & Lymphoid Organs
 
@@ -488,12 +488,12 @@ A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neura
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 14–1** — Lymphoid organs and main paths of lymphatic vessels (Chapter 14).
-- **Fig. 14–6** — Activation of lymphocytes (Chapter 14).
-- **Fig. 14–11** — Thymic selection of functional but not self-reactive T cells (Chapter 14).
-- **Fig. 14–16** — Regions of a lymph node (Chapter 14).
-- **Fig. 14–21** — Spleen (Chapter 14).
-- **Fig. 14–26** — Structure and function of splenic sinusoids (Chapter 14).
+- **Fig. 14–1** — *The lymphoid organs and main paths of lymphatic vessels*.
+- **Fig. 14–6** — *Activation of lymphocytes*.
+- **Fig. 14–11** — *Thymic selection of functional but not self-reactive T cells*.
+- **Fig. 14–16** — *Regions of a lymph node*.
+- **Fig. 14–21** — *Spleen*.
+- **Fig. 14–26** — *Structure and function of splenic sinusoids*.
 

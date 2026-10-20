@@ -84,7 +84,7 @@ The pattern is worth memorizing: **tight seals, adherens belts to actin, desmoso
 | **Transitional (urothelium)** | Stratified, with dome-shaped **umbrella cells** whose apical membrane is stiffened by **uroplakin** plaques | Renal pelvis, ureter, bladder, proximal urethra | Stretchable barrier to urine |
 | **Epithelioid** | Cells in clusters with no free surface | Adrenal cortex, islets of Langerhans, liver cords | Endocrine secretion |
 
-Two naming traps decide many marks. **Endothelium and mesothelium are both simple squamous epithelium** — one lines blood vessels, the other body cavities; they are not separate tissue types. And **pseudostratified** epithelium is truly a **single layer** in which every cell touches the basement membrane, even though the nuclei sit at different levels.
+Two naming traps to avoid. **Endothelium and mesothelium are both simple squamous epithelium** — one lines blood vessels, the other body cavities; they are not separate tissue types. And **pseudostratified** epithelium is truly a **single layer** in which every cell touches the basement membrane, even though the nuclei sit at different levels.
 
 ### Transport Across Epithelia
 
@@ -147,14 +147,14 @@ A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 4–1** — Epithelia and adjacent connective tissue (Chapter 4).
-- **Fig. 4–6** — View of a tight junction after cryofracture (Chapter 4).
-- **Fig. 4–12** — Simple squamous epithelium (Chapter 4).
-- **Fig. 4–17** — Pseudostratified epithelium (Chapter 4).
-- **Fig. 4–23** — Apocrine secretion in the mammary gland (Chapter 4).
-- **Fig. 4–28** — Features of absorptive cells (Chapter 4).
+- **Fig. 4–1** — *Epithelia and adjacent connective tissue*.
+- **Fig. 4–6** — *View of a tight junction after cryofracture*.
+- **Fig. 4–12** — *Simple squamous epithelium*.
+- **Fig. 4–17** — *Pseudostratified epithelium*.
+- **Fig. 4–23** — *Apocrine secretion in the mammary gland*.
+- **Fig. 4–28** — *Features of absorptive cells*.
 
 ## 5 · Connective Tissue
 
@@ -275,14 +275,14 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 5–1** — Embryonic mesenchyme (Chapter 5).
-- **Fig. 5–5** — Mast cells (Chapter 5).
-- **Fig. 5–9** — Collagen subunit (Chapter 5).
-- **Fig. 5–14** — Formation of elastic fibers (Chapter 5).
-- **Fig. 5–18** — Movement of fluid in connective tissue (Chapter 5).
-- **Fig. 5–22** — Mucoid tissue (Chapter 5).
+- **Fig. 5–1** — *Embryonic mesenchyme*.
+- **Fig. 5–5** — *Mast cells*.
+- **Fig. 5–9** — *The collagen subunit*.
+- **Fig. 5–14** — *Formation of elastic fibers*.
+- **Fig. 5–18** — *Movement of fluid in connective tissue*.
+- **Fig. 5–22** — *Mucoid tissue*.
 
 ## 6 · Adipose Tissue
 
@@ -368,10 +368,10 @@ A. Unilocular droplets and few mitochondria<br/>B. Multilocular droplets, abunda
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 6–1** — White adipose tissue (Chapter 6).
-- **Fig. 6–2** — Lipid storage and mobilization from adipocytes (Chapter 6).
-- **Fig. 6–3** — Development of white and brown fat cells (Chapter 6).
-- **Fig. 6–4** — Brown adipose tissue (Chapter 6).
+- **Fig. 6–1** — *White adipose tissue*.
+- **Fig. 6–2** — *Lipid storage and mobilization from adipocytes*.
+- **Fig. 6–3** — *Development of white and brown fat cells*.
+- **Fig. 6–4** — *Brown adipose tissue*.
 

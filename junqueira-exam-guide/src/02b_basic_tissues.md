@@ -53,7 +53,7 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 > **MICRO** — Identify cartilage by the **lacuna**: a cell alone in a clear space within a solid matrix. Then the matrix: **glassy purple with cells in clusters = hyaline; wavy dark fibers = elastic; thick parallel pink bundles with cells in rows = fibrocartilage.**
 
-> **TIP** — Two marks are lost repeatedly: **hyaline cartilage contains type II collagen, not type I**, and **fibrocartilage has no perichondrium**, which is why disc injuries persist.
+> **TIP** — Two commonly confused points: **hyaline cartilage contains type II collagen, not type I**, and **fibrocartilage has no perichondrium**, which is why disc injuries persist.
 
 ### Chapter 7 — one-line answers
 
@@ -88,14 +88,14 @@ A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decal
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 7–1** — Distribution of cartilage in adults (Chapter 7).
-- **Fig. 7–2** — Structure of cartilage matrix and cells (Chapter 7).
-- **Fig. 7–3** — Hyaline cartilage (Chapter 7).
-- **Fig. 7–5** — Fibrocartilage (Chapter 7).
-- **Fig. 7–6** — Chondrogenesis (Chapter 7).
-- **Fig. 7–7** — Chondrocytes in growing cartilage (Chapter 7).
+- **Fig. 7–1** — *Distribution of cartilage in adults*.
+- **Fig. 7–2** — *The structure of cartilage matrix and cells*.
+- **Fig. 7–3** — *Hyaline cartilage*.
+- **Fig. 7–5** — *Fibrocartilage*.
+- **Fig. 7–6** — *Chondrogenesis*.
+- **Fig. 7–7** — *Chondrocytes in growing cartilage*.
 
 ## 8 · Bone
 
@@ -112,7 +112,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Bone is the main constituent of the adult skeleton: it gives **solid support**, protects vital organs of the cranial and thoracic cavities, encloses **medullary cavities** where blood cells form, and acts as a **reservoir of calcium and phosphate**, storing or releasing them to keep body fluid concentrations constant. It also forms a system of **levers** that multiply the force of muscle contraction into movement. Its stiffness comes from mineral, its toughness from collagen, and its capacity to adapt from four cell types that continuously demolish and rebuild it — **every skeletal disease is a failure of one of those cells, or of the balance between them.**
+Bone is the main constituent of the adult skeleton: it gives **solid support**, protects vital organs of the cranial and thoracic cavities, encloses **medullary cavities** where blood cells form, and acts as a **reservoir of calcium and phosphate**, storing or releasing them to keep body fluid concentrations constant. It also forms a system of **levers** that multiply the force of muscle contraction into movement. Its stiffness comes from mineral, its toughness from collagen, and its capacity to adapt from four cell types that continuously demolish and rebuild it — and most skeletal disease reflects failure of one of those cells, or of the balance between them.
 
 ### Bone Cells
 
@@ -125,7 +125,7 @@ Bone is the main constituent of the adult skeleton: it gives **solid support**, 
 
 As osteoid calcifies and hardens it **entraps some osteoblasts**, which then differentiate into osteocytes sitting in **lacunae** between the lamellae, with cytoplasmic processes in **canaliculi**. Osteocytes maintain the calcified matrix and are fed from microvasculature in the **central canals of osteons** through those canaliculi.
 
-**The osteoclast is the exception examiners always test.** Every other bone cell is mesenchymal; the osteoclast is **monocyte-derived** and is the cell required for bone remodeling. It dissolves mineral by pumping H⁺ and digests collagen with cathepsin K.
+**The osteoclast is the exception.** Every other bone cell is mesenchymal; the osteoclast is **monocyte-derived** and is the cell required for bone remodeling. It dissolves mineral by pumping H⁺ and digests collagen with cathepsin K.
 
 **The RANK–RANKL–OPG axis:** osteoblasts express **RANKL**, which binds **RANK** on osteoclast precursors and drives differentiation; they also secrete **osteoprotegerin (OPG)**, a decoy receptor that blocks RANKL. **PTH** shifts the balance toward resorption; **estrogen** suppresses it.
 
@@ -224,14 +224,14 @@ A. Type II collagen<br/>B. Type I collagen<br/>C. Fibrillin<br/>D. Dystrophin
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 8–1** — Components of bone (Chapter 8).
-- **Fig. 8–5** — Osteocytes in lacunae (Chapter 8).
-- **Fig. 8–10** — Lamellar bone: Perforating canals and interstitial lamellae (Chapter 8).
-- **Fig. 8–14** — Osteogenesis of long bones by endochondral ossification (Chapter 8).
-- **Fig. 8–19** — Main features of bone fracture repair (Chapter 8).
-- **Fig. 8–23** — Articular cartilage (Chapter 8).
+- **Fig. 8–1** — *Components of bone*.
+- **Fig. 8–5** — *Osteocytes in lacunae*.
+- **Fig. 8–10** — *Lamellar bone: Perforating canals and interstitial lamellae*.
+- **Fig. 8–14** — *Osteogenesis of long bones by endochondral ossification*.
+- **Fig. 8–19** — *Main features of bone fracture repair*.
+- **Fig. 8–23** — *Articular cartilage*.
 
 ## 9 · Nerve Tissue & the Nervous System
 
@@ -333,14 +333,14 @@ A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 9–1** — General organization of the nervous system (Chapter 9).
-- **Fig. 9–7** — Types of synapses (Chapter 9).
-- **Fig. 9–13** — Satellite cells around neurons of ganglia in the PNS (Chapter 9).
-- **Fig. 9–18** — Spinal cord and meninges (Chapter 9).
-- **Fig. 9–24** — Node of Ranvier and endoneurium (Chapter 9).
-- **Fig. 9–30** — Regeneration in peripheral nerves (Chapter 9).
+- **Fig. 9–1** — *The general organization of the nervous system*.
+- **Fig. 9–7** — *Types of synapses*.
+- **Fig. 9–13** — *Satellite cells around neurons of ganglia in the PNS*.
+- **Fig. 9–18** — *Spinal cord and meninges*.
+- **Fig. 9–24** — *Node of Ranvier and endoneurium*.
+- **Fig. 9–30** — *Regeneration in peripheral nerves*.
 
 ## 10 · Muscle Tissue
 
@@ -464,12 +464,12 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 10–1** — Three types of muscle (Chapter 10).
-- **Fig. 10–5** — Capillaries of skeletal muscle (Chapter 10).
-- **Fig. 10–9** — Organization of a skeletal muscle fiber (Chapter 10).
-- **Fig. 10–12** — Sliding filaments and sarcomere shortening in contraction (Chapter 10).
-- **Fig. 10–16** — Cardiac muscle: Intercalated discs (Chapter 10).
-- **Fig. 10–20** — Smooth muscle contraction (Chapter 10).
+- **Fig. 10–1** — *Three types of muscle*.
+- **Fig. 10–5** — *Capillaries of skeletal muscle*.
+- **Fig. 10–9** — *Organization of a skeletal muscle fiber*.
+- **Fig. 10–12** — *Sliding filaments and sarcomere shortening in contraction*.
+- **Fig. 10–16** — *Cardiac muscle: Intercalated discs*.
+- **Fig. 10–20** — *Smooth muscle contraction*.
 

@@ -26,9 +26,9 @@ The gut is one tube with four concentric layers, and every region is a modificat
 | **Muscularis** | Inner circular + outer longitudinal smooth muscle, **Auerbach (myenteric) plexus** between them | Peristalsis |
 | **Serosa or adventitia** | Mesothelium + connective tissue (intraperitoneal) or connective tissue only (retroperitoneal) | Suspension and protection |
 
-This is the skeleton of every answer about the gut. Two rules make it exam-proof:
+This is the skeleton of every answer about the gut. Two rules organize it:
 
-- The **mucosa always has three components** — a lining epithelium, a lamina propria of loose connective tissue, and smooth muscle from the **muscularis mucosae**. The epithelium changes; the other two do not.
+- In the digestive tract the **mucosa has three components** — a lining epithelium, a lamina propria of loose connective tissue, and smooth muscle from the **muscularis mucosae**. The epithelium changes; the other two do not.
 - **Serosa = suspended in the abdomen; adventitia = embedded in surrounding tissue.** The esophagus develops within the mediastinum and therefore has an adventitia along almost its whole length.
 
 Both plexuses belong to the **enteric nervous system**: Meissner's controls secretion and blood flow, Auerbach's controls motility. The lymphocytes and nodules scattered through mucosa and submucosa are **MALT** (Chapter 14).
@@ -121,7 +121,7 @@ The **rectum** (**10–12 cm**) continues as the **anal canal** (**3–4 cm**). 
 ### Chapter 15 — one-line answers
 
 - Four gut layers, outside in: mucosa, submucosa, muscularis, serosa or adventitia.
-- Mucosa always = epithelium + lamina propria + muscularis mucosae.
+- Gut mucosa = epithelium + lamina propria + muscularis mucosae.
 - Serosa where the gut is suspended; adventitia where it is embedded.
 - Auerbach lies between the muscle layers (motility); Meissner lies in the submucosa (secretion, blood flow).
 - Keratinized oral epithelium: hard palate and gingiva. Everywhere else, mostly nonkeratinized.
@@ -154,14 +154,14 @@ A. Duodenum<br/>B. Jejunum<br/>C. Ileum<br/>D. Colon
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 15–1** — Digestive system (Chapter 15).
-- **Fig. 15–8** — Ultrastructure of dentinal tubule (Chapter 15).
-- **Fig. 15–15** — Wall of the stomach with rugae (Chapter 15).
-- **Fig. 15–21** — Pyloric glands (Chapter 15).
-- **Fig. 15–28** — Microvasculature, lymphatics, and muscle in villi (Chapter 15).
-- **Fig. 15–34** — Mucosa of the rectoanal junction (Chapter 15).
+- **Fig. 15–1** — *The digestive system*.
+- **Fig. 15–8** — *Ultrastructure of dentinal tubule*.
+- **Fig. 15–15** — *Wall of the stomach with rugae*.
+- **Fig. 15–21** — *Pyloric glands*.
+- **Fig. 15–28** — *Microvasculature, lymphatics, and muscle in villi*.
+- **Fig. 15–34** — *Mucosa of the rectoanal junction*.
 
 ## 16 · Organs Associated with the Digestive Tract
 
@@ -278,14 +278,14 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 16–1** — Major salivary glands (Chapter 16).
-- **Fig. 16–5** — Submandibular gland and sublingual gland (Chapter 16).
-- **Fig. 16–9** — Pancreatic acini (Chapter 16).
-- **Fig. 16–12** — Hepatic lobule (Chapter 16).
-- **Fig. 16–16** — Hepatocyte ultrastructure and major functions (Chapter 16).
-- **Fig. 16–20** — Gallbladder (Chapter 16).
+- **Fig. 16–1** — *Major salivary glands*.
+- **Fig. 16–5** — *Submandibular gland and sublingual gland*.
+- **Fig. 16–9** — *Pancreatic acini*.
+- **Fig. 16–12** — *Hepatic lobule*.
+- **Fig. 16–16** — *Hepatocyte ultrastructure and major functions*.
+- **Fig. 16–20** — *Gallbladder*.
 
 ## 17 · The Respiratory System
 
@@ -415,14 +415,14 @@ A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D.
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 17–1** — Anatomy of the respiratory system (Chapter 17).
-- **Fig. 17–4** — Larynx (Chapter 17).
-- **Fig. 17–8** — Bronchial wall (Chapter 17).
-- **Fig. 17–11** — Pulmonary circulation, terminal and respiratory bronchioles, and alveoli (Chapter 17).
-- **Fig. 17–15** — Ultrastructure of the blood-air barrier (Chapter 17).
-- **Fig. 17–18** — Pleura (Chapter 17).
+- **Fig. 17–1** — *Anatomy of the respiratory system*.
+- **Fig. 17–4** — *Larynx*.
+- **Fig. 17–8** — *Bronchial wall*.
+- **Fig. 17–11** — *Pulmonary circulation, terminal and respiratory bronchioles, and alveoli*.
+- **Fig. 17–15** — *Ultrastructure of the blood-air barrier*.
+- **Fig. 17–18** — *Pleura*.
 
 ## 18 · Skin
 
@@ -556,12 +556,12 @@ A. Scalp<br/>B. Palm<br/>C. Back<br/>D. Axilla
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 18–1** — Layers and appendages of skin (Chapter 18).
-- **Fig. 18–5** — Granular and clear layers: thick skin (Chapter 18).
-- **Fig. 18–9** — Merkel or tactile cell (Chapter 18).
-- **Fig. 18–12** — Meissner and lamellated (Pacinian) corpuscles (Chapter 18).
-- **Fig. 18–16** — Glands of skin (Chapter 18).
-- **Fig. 18–20** — Major stages of cutaneous wound healing (Chapter 18).
+- **Fig. 18–1** — *Layers and appendages of skin*.
+- **Fig. 18–5** — *Granular and clear layers: thick skin*.
+- **Fig. 18–9** — *Merkel or tactile cell*.
+- **Fig. 18–12** — *Meissner and lamellated (Pacinian) corpuscles*.
+- **Fig. 18–16** — *Glands of skin*.
+- **Fig. 18–20** — *Major stages of cutaneous wound healing*.
 

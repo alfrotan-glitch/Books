@@ -35,7 +35,7 @@ Each kidney is bean-shaped, with a convex lateral border and a concave medial **
 
 **The filtration barrier has three layers:** **fenestrated endothelium** → **glomerular basement membrane (GBM)**, about **330 nm** thick, of **type IV collagen** and other proteins made by endothelial cells and podocytes → **podocyte slit diaphragms**. The barrier is both a size and a charge filter.
 
-**Functional numbers that examiners love:**
+**Functional numbers to know:**
 
 - About **20%** of the plasma entering a glomerulus is filtered.
 - Total filtration area ≈ **500 cm²**.
@@ -118,14 +118,14 @@ A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte s
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 19–1** — Kidney (Chapter 19).
-- **Fig. 19–4** — Microvasculature of the renal cortex (Chapter 19).
-- **Fig. 19–8** — Renal cortex: proximal and distal convoluted tubules (Chapter 19).
-- **Fig. 19–11** — Renal medulla: nephron loops and collecting ducts (Chapter 19).
-- **Fig. 19–15** — Renal papilla, collecting ducts, and minor calyx (Chapter 19).
-- **Fig. 19–18** — Urethra (Chapter 19).
+- **Fig. 19–1** — *Kidney*.
+- **Fig. 19–4** — *Microvasculature of the renal cortex*.
+- **Fig. 19–8** — *Renal cortex: proximal and distal convoluted tubules*.
+- **Fig. 19–11** — *Renal medulla: nephron loops and collecting ducts*.
+- **Fig. 19–15** — *Renal papilla, collecting ducts, and minor calyx*.
+- **Fig. 19–18** — *Urethra*.
 
 ## 20 · Endocrine Glands
 
@@ -260,14 +260,14 @@ A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 20–1** — Locations of the major endocrine glands and the hormones they release (Chapter 20).
-- **Fig. 20–6** — Pars distalis: Acidophils, basophils, and chromophobes (Chapter 20).
-- **Fig. 20–10** — Negative feedback loops affecting anterior pituitary secretion (Chapter 20).
-- **Fig. 20–15** — Adrenal cortex (Chapter 20).
-- **Fig. 20–19** — Thyroid follicular cells and parafollicular cells (Chapter 20).
-- **Fig. 20–24** — Pineal gland (Chapter 20).
+- **Fig. 20–1** — *Locations of the major endocrine glands and the hormones they release*.
+- **Fig. 20–6** — *Pars distalis: Acidophils, basophils, and chromophobes*.
+- **Fig. 20–10** — *Negative feedback loops affecting anterior pituitary secretion*.
+- **Fig. 20–15** — *Adrenal cortex*.
+- **Fig. 20–19** — *Thyroid follicular cells and parafollicular cells*.
+- **Fig. 20–24** — *Pineal gland*.
 
 ## 21 · The Male Reproductive System
 
@@ -312,7 +312,7 @@ The testis does two jobs that require opposite conditions: **producing sperm**, 
 3. **Acrosome phase** — the nucleus condenses and elongates, its histones replaced by **protamines**; a microtubule **manchette** shapes the head; mitochondria gather around the proximal flagellum to form the **middle piece**.
 4. **Maturation phase** — excess cytoplasm is shed as a **residual body**, intercellular bridges are lost, and the sperm is released into the lumen.
 
-Because the barrier makes the adluminal compartment immunologically privileged, sperm antigens are never tolerized — which is why vasectomy can produce anti-sperm antibodies.
+Because the barrier makes the adluminal compartment immunologically privileged, sperm antigens are not tolerized — which is why vasectomy can produce anti-sperm antibodies.
 
 **Leydig (interstitial) cells** — large, polygonal, **eosinophilic** cells with central nuclei, abundant SER, mitochondria, and lipid droplets, lying singly or in small groups near capillaries. They secrete **testosterone** under **LH**, which the book also calls **interstitial cell-stimulating hormone (ICSH)** — the same hormone named LH in females. Fetal Leydig cells are active in the third and fourth months of pregnancy, then become quiescent until puberty.
 
@@ -348,7 +348,7 @@ Erection is a vascular event with a molecular explanation worth memorizing: para
 
 > **MICRO** — Identify the two compartments instantly. **Inside the tubule: Sertoli cells (pale, tall) and germ cells at various stages.** **Outside the tubule: Leydig cells (eosinophilic, polygonal, in clusters).** If asked for the cell that forms the blood–testis barrier, the answer is Sertoli.
 
-> **TIP** — FSH acts on **Sertoli** cells; LH acts on **Leydig** cells. One sentence, and it accounts for many marks.
+> **TIP** — FSH acts on **Sertoli** cells; LH acts on **Leydig** cells. One sentence, and the two are hard to confuse.
 
 ### Chapter 21 — one-line answers
 
@@ -384,14 +384,14 @@ A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular 
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 21–1** — Male reproductive system (Chapter 21).
-- **Fig. 21–5** — Spermatogenesis and spermiogenesis (Chapter 21).
-- **Fig. 21–8** — Differentiating spermatid (Chapter 21).
-- **Fig. 21–12** — Ductus deferens (Chapter 21).
-- **Fig. 21–15** — Organization of the prostate gland (Chapter 21).
-- **Fig. 21–19** — Penile urethra and erectile tissue (Chapter 21).
+- **Fig. 21–1** — *The male reproductive system*.
+- **Fig. 21–5** — *Spermatogenesis and spermiogenesis*.
+- **Fig. 21–8** — *Differentiating spermatid*.
+- **Fig. 21–12** — *Ductus deferens*.
+- **Fig. 21–15** — *Organization of the prostate gland*.
+- **Fig. 21–19** — *Penile urethra and erectile tissue*.
 
 ## 22 · The Female Reproductive System
 
@@ -564,14 +564,14 @@ A. Menstrual<br/>B. Proliferative<br/>C. Secretory<br/>D. Postmenopausal
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 22–1** — Female reproductive system and overview of ovary (Chapter 22).
-- **Fig. 22–6** — Ultrastructure of primary follicle and zona pellucida (Chapter 22).
-- **Fig. 22–12** — Corpus luteum (Chapter 22).
-- **Fig. 22–17** — Correlation of ovarian and menstrual cycles with levels of their controlling hormones (Chapter 22).
-- **Fig. 22–23** — Cervix (Chapter 22).
-- **Fig. 22–28** — Secretion in the mammary gland (Chapter 22).
+- **Fig. 22–1** — *The female reproductive system and overview of ovary*.
+- **Fig. 22–6** — *Ultrastructure of primary follicle and zona pellucida*.
+- **Fig. 22–12** — *Corpus luteum*.
+- **Fig. 22–17** — *Correlation of ovarian and menstrual cycles with levels of their controlling hormones*.
+- **Fig. 22–23** — *Cervix*.
+- **Fig. 22–28** — *Secretion in the mammary gland*.
 
 ## 23 · The Eye & Ear: Special Sense Organs
 
@@ -698,12 +698,12 @@ A. Ciliary processes<br/>B. Pupil<br/>C. Trabecular meshwork and canal of Schlem
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 23–1** — Internal anatomy of the eye (Chapter 23).
-- **Fig. 23–7** — Epithelium of ciliary processes (Chapter 23).
-- **Fig. 23–14** — General organization and specialized areas of the retina (Chapter 23).
-- **Fig. 23–20** — Lacrimal gland (Chapter 23).
-- **Fig. 23–27** — Mechanotransduction in hair cells (Chapter 23).
-- **Fig. 23–33** — Interpretation of sound waves in the cochlea (Chapter 23).
+- **Fig. 23–1** — *Internal anatomy of the eye*.
+- **Fig. 23–7** — *Epithelium of ciliary processes*.
+- **Fig. 23–14** — *General organization and specialized areas of the retina*.
+- **Fig. 23–20** — *Lacrimal gland*.
+- **Fig. 23–27** — *Mechanotransduction in hair cells*.
+- **Fig. 23–33** — *Interpretation of sound waves in the cochlea*.
 

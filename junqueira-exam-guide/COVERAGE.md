@@ -74,7 +74,7 @@ The review covered commit `f85d8d4` and the corrections made in response to it. 
 | Check | Method | Result |
 |---|---|---|
 | Chapter openers vs contents page | Text extraction of every page, 24 contents entries compared with 24 rendered openers | 24/24 match |
-| Blank or broken pages | Text layer of all 140 pages | none |
+| Blank or broken pages | Text layer of all 142 pages | none |
 | Tables | Row/column cell counts in all Markdown tables; PDF render of key tables | consistent |
 | Figure citations | All 136 `Fig. n–m` citations checked for the figure number on the cited part page, plus caption keywords | 136/136 correct |
 | Numbers | Every number in the manuscript searched in the source text | all traceable |

@@ -2,11 +2,11 @@
 
 ## How to Use This Companion
 
-Histology is the one preclinical subject where you cannot bluff. Everything is either there on the slide or it is not. But histology is also the most *efficient* subject in medicine, because a small number of structural rules generate almost every fact you will be asked.
+Histology rewards recognition rather than recall: a small number of structural rules generate most of the detail you will be asked to reproduce. Learn the rules and the detail follows.
 
-This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024; ISBN 978-1-26-493039-5)** into the material that decides exam marks. It is built on the book's own contents page: **every chapter follows the same section sequence, in the same order, using the book's own section titles**, with printed page numbers so you can read a section here and then turn straight to the corresponding pages in your copy.
+This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024; ISBN 978-1-26-493039-5)** into a structured revision text. It is built on the book's own contents page: **every chapter follows the same section sequence, in the same order, using the book's own section titles**, with printed page numbers so you can read a section here and then turn straight to the corresponding pages in your copy.
 
-**How each chapter is built**
+**How each chapter in Parts I–V is built**
 
 | Block | What it gives you |
 |---|---|
@@ -14,53 +14,53 @@ This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th editi
 | **Learning objectives** | What you must be able to do, not merely recognize, by the end |
 | **The core idea** | The one organizing principle that makes the chapter cohere |
 | **Sections** | The book's sections, in the book's order, condensed |
-| **Comparison tables** | The highest-yield format in histology — learn the rows, not the prose |
+| **Comparison tables** | Side-by-side distinctions between structures that are easily confused |
 | **CLINICAL** | The disease link that turns a fact into a mark |
 | **MICRO** | How to recognize the tissue on an unknown slide or EM image |
 | **TIP / MNEMONIC** | Traps, confusions, and memory hooks |
 | **One-line answers** | The chapter compressed to the sentences you would write in an exam |
 | **Active recall** | Five questions to answer from memory before checking |
 | **Exam-style question** | One worked MCQ, with the reason each distractor fails |
-| **Plates to study** | Six numbered figures to find and study in the source textbook |
+| **Plates to study** | Six textbook figures, with the caption subject as a self-test |
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This companion is designed to be read *before* those, so that when you reach them you already know the answers.
 
-**A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this companion uses the book's figure. Some standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added because examiners ask for them; they are context, not claims about the book's text. Nothing here is attributed to the book unless the book states it.
+**A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this companion uses the book's figure. A few standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added as context; they are not claims about the book's text. Nothing here is attributed to the book unless the book states it. Values and clinical terms that the textbook does not contain are marked **supplementary** where they appear.
 
-**Using the practice material.** The 100 questions in Part VII are written to be attempted after the chapter they test; the explanations say why each distractor fails, so a wrong answer is worth more than a guess. A separate flashcard deck and question bank accompany this book for spaced repetition. Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.
+**Using the practice material.** The 100 questions in Part VII are written to be attempted after the chapter they test; the explanations say why each distractor fails, so a wrong answer is worth reading carefully. A separate flashcard deck and question bank accompany this book for spaced repetition. Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.
 
-**Three questions answer 80% of slide questions**
+**Three questions to start any slide question**
 
 1. **What tissue is this?** — epithelium, connective tissue, muscle, nervous tissue, or a fluid.
 2. **What organ or region?** — the tissue *arrangement* identifies the organ, not the cell type.
-3. **What is it doing here?** — every structure you can see exists because of a function the cell must perform. Name the function and the marks follow.
+3. **What is it doing here?** — every structure you can see exists because of a function the cell must perform. Naming the function is what makes the structure memorable.
 
 > **TIP** — Never memorize a slide as a picture. Memorize the *rule that generates the picture* ("stratified squamous with keratin on top = surface exposed to abrasion and drying"). The book's atlas plates teach you the appearance; this companion teaches the rule behind it.
 
 ### Three study plans
 
-**If you have six weeks.** One part of this companion per week. Read the corresponding chapter, then this section, then cover the tables and redraw them from memory. Do the book's "Assess Your Knowledge" questions and this guide's MCQs at the end of the week. Reserve the final week for the Rapid Review chapter only.
+**If you have six weeks.** Work through Parts I–V at roughly one part per week, reading the corresponding chapter first, then the section here, then covering the tables and redrawing them from memory. Do the book's "Assess Your Knowledge" questions as you go. In the sixth week, revise with Part VI (Rapid Review and the master tables) and work through the 100 questions in Part VII.
 
-**If you have ten days.** Two to three chapters per day, tables only on the first pass. Spend 60% of your time on the six comparison tables that carry the most marks: epithelium types, connective tissue fibers, cartilage, muscle, leukocytes, and GI tract wall.
+**If you have ten days.** Two to three chapters per day, tables only on the first pass. Concentrate on six comparison tables: epithelium types, connective tissue fibers, cartilage, muscle, leukocytes, and the GI tract wall.
 
 **If you have 48 hours.** Read *Rapid Review* (Chapter 24) end to end, then the 100 MCQs, then the six tables. Do not attempt prose. Histology rewards pattern recognition under time pressure, and patterns live in tables.
 
 ## The Twelve Laws of Histology
 
-These twelve statements are true across the whole book. When you are stuck in an exam, reason from them.
+These twelve rules of thumb hold across most of the book. Each has exceptions, and the chapters point them out. When you are unsure how to approach a structure, reason from them.
 
 1. **Structure follows function, and function follows structure.** Every visible feature is a solution to a physical problem — diffusion distance, mechanical stress, surface area, water loss, conduction speed.
 2. **Form is set by the apical surface, the basal surface, and the junctions between cells.** Look at all three before naming a tissue.
 3. **Epithelium sits on something and is never crossed by a blood vessel.** Avascularity plus a basement membrane defines it.
 4. **Connective tissue is defined by its extracellular matrix, not its cells.** The matrix tells you the mechanical job: tension, elasticity, compression, or filtration.
-5. **Cells that make protein look basophilic; cells that store or secrete protein look eosinophilic.** Rough ER is blue-purple with hematoxylin; secretory product and cytoplasm are pink with eosin.
+5. **Basophilia and eosinophilia report what a cell is doing.** Blue-purple staining (hematoxylin) reflects nucleic acid — rough ER and ribosomes in a protein-synthesizing cell. Pink staining (eosin) reflects abundant protein — cytoplasm, secretory granules, collagen. The correlation is strong but not absolute: mucin and lipid droplets stain poorly with either dye.
 6. **Cells that make steroid hormone are full of smooth ER and lipid droplets** — hence foamy, pale, or vacuolated cytoplasm (adrenal cortex, Leydig cells, corpus luteum).
 7. **Muscle is classified by nucleus position and striation, not by shape alone.** Peripheral multiple nuclei = skeletal; central single nucleus with striation = cardiac; central single nucleus without striation = smooth.
 8. **The number of cell layers tells you the mechanical job.** One layer = exchange, absorption, secretion, or a thin barrier. Many layers = protection from abrasion.
 9. **Surface area is bought with folds.** Microvilli, villi, plicae circulares, basal infoldings, and cristae all exist for the same arithmetic reason.
 10. **Tubes are built in concentric layers, and each layer has one job.** In blood vessels: intima for exchange, media for tone, adventitia for anchorage. In the gut: mucosa for digestion, submucosa for supply, muscularis for movement.
 11. **A capsule and a hilum identify a solid organ as lymph node, spleen, thymus, or gland.** The route of fluid flow tells you which one.
-12. **Every histology fact has a clinical twin.** If you cannot name the disease, you do not yet own the fact.
+12. **Most histological facts have a clinical counterpart.** Linking a structure to a disease makes it easier to recall and easier to apply.
 
 ## Exam Technique
 
@@ -68,11 +68,11 @@ These twelve statements are true across the whole book. When you are stuck in an
 
 Never begin with a guess. Use this sequence every single time:
 
-1. **Magnification and staining.** H&E at low power versus PAS versus silver tells you what the examiner thinks is important.
+1. **Magnification and staining.** H&E at low power versus PAS versus silver tells you what the preparation was designed to show.
 2. **The boundary.** Is there a free surface? A lumen? A capsule? Blood vessels *inside* the tissue? This immediately separates epithelium-lined organs from solid organs.
 3. **The dominant tissue.** Note the arrangement — cords, acini, tubules, follicles, layers, bundles.
-4. **The one diagnostic cell.** Parietal cell, Paneth cell, podocyte, Purkinje fiber, Clara cell, Sertoli cell, odontoblast. Examiners choose images that contain one.
-5. **Name it, then justify it in the same sentence.** "This is thyroid gland because the parenchyma is arranged in follicles of colloid lined by a single layer of cuboidal cells." Justification earns the marks; the name alone earns half.
+4. **The one diagnostic cell.** Parietal cell, Paneth cell, podocyte, Purkinje fiber, Clara cell, Sertoli cell, odontoblast. Examination images often turn on a single diagnostic cell.
+5. **Name it, then justify it in the same sentence.** "This is thyroid gland because the parenchyma is arranged in follicles of colloid lined by a single layer of cuboidal cells." A justified answer shows that you understand the image rather than merely recognizing it.
 
 ### Answering a "describe and give the function of" essay
 
@@ -80,9 +80,9 @@ Use a fixed skeleton — it works for any organ:
 
 **Capsule → cortex → medulla → parenchyma arrangement → cell types → blood supply → ducts or outflow → function → clinical correlation.**
 
-Ten headings, ten marks, almost regardless of the organ. Write the headings first, then fill them. An examiner marking 200 scripts recognizes structure instantly and rewards it.
+The headings work for almost any organ. Write them down first, then fill them in.
 
-### Ten phrases that lose marks
+### Ten common errors
 
 - "It looks like…" without saying *why* it looks that way.
 - Naming a cell without its product or function.
@@ -95,23 +95,23 @@ Ten headings, ten marks, almost regardless of the organ. Write the headings firs
 - Mixing up the two adrenal cortex zones that produce cortisol and aldosterone.
 - Writing "bone is dead tissue" — osteocytes are metabolically active and connected by canaliculi.
 
-> **PEARL** — In a viva or OSCE-style histology station, the examiner is usually testing whether you can *connect* a structure to a function and a disease. Practice every fact in a three-part sentence: "Structurally X, which allows Y, and when it fails you get Z."
+> **PEARL** — In a viva or OSCE-style histology station, the task is usually to *connect* a structure to a function and a disease. Practice every fact in a three-part sentence: "Structurally X, which allows Y, and when it fails you get Z."
 
 ## About the 17th Edition
 
 The seventeenth edition (2024) retains the two features that made the book a standard for decades: a **concise, straightforward text** with no unnecessary detail, and an **exceptionally clear set of photomicrographs and labeled illustrations**. For the student revising for an examination, three features matter most:
 
 - **Summary of Key Points** at the end of every chapter — the author's own list of what matters.
-- **Summary Tables** in each chapter — condensed comparisons in exactly the form examiners like.
+- **Summary Tables** in each chapter — condensed comparisons of structures that are easily confused.
 - **Medical Applications boxes** — the clinical relevance of each structure.
 
-The online version on AccessMedicine adds further multiple-choice questions, a lab guide with microscopic directions for each laboratory session, and links to virtual light microscope slides. If your university library subscribes, that Lab Guide is the closest thing to sitting at a microscope with a demonstrator beside you.
+The online version on AccessMedicine adds further multiple-choice questions, a lab guide with microscopic directions for each laboratory session, and links to virtual light microscope slides. If your library subscribes, the lab guide gives step-by-step directions for each laboratory session.
 
-> **TIP** — Where this companion and the book's *Summary of Key Points* disagree in emphasis, trust the book: it is the examiner's source. Use this companion for structure and recall, and the book for the final word.
+> **TIP** — Where this companion and the book's *Summary of Key Points* disagree in emphasis, trust the book: it is the primary source for this companion. Use this companion for structure and recall, and the book for the final word.
 
 ## Chapter and Page Guide
 
-Each chapter opens with the printed page range it condenses, so the companion and the textbook can be read side by side. The part numbers refer to the five parts of this book.
+Each chapter opens with the printed page range it condenses, so the companion and the textbook can be read side by side. The part column refers to the seven parts of this book.
 
 | Ch | Title | Book pages | Part |
 |---|---|---|---|

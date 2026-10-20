@@ -23,12 +23,14 @@ Organs form by an orderly combination of these tissues. Because cells and matrix
 
 | Step | What the book says it does |
 |---|---|
-| **Fixation** | Pieces of organ are placed as soon as possible in **stabilizing or cross-linking compounds**. **Formalin** — a buffered isotonic solution of 37% formaldehyde — is widely used for light microscopy; **glutaraldehyde** for electron microscopy. Both react with the **amine groups (NH₂) of proteins**, preventing degradation by proteases; glutaraldehyde also **cross-links adjacent proteins**. Fixative must diffuse fully through the tissue, so organs are cut into small fragments, or fixed by **vascular perfusion** |
+| **Fixation** | Pieces of organ are placed as soon as possible in **stabilizing or cross-linking compounds**. **Formalin** — a buffered solution of formaldehyde, made by diluting the 37–40% stock to about 4% — is widely used for light microscopy; **glutaraldehyde** for electron microscopy. Both react with the **amine groups (NH₂) of proteins**, preventing degradation by proteases; glutaraldehyde also **cross-links adjacent proteins**. Fixative must diffuse fully through the tissue, so organs are cut into small fragments, or fixed by **vascular perfusion** |
 | **Dehydration** | Water extracted gradually through increasing **ethanol** solutions, ending in 100% ethanol |
 | **Clearing** | Ethanol replaced by an organic solvent miscible with both alcohol and the embedding medium; the tissue becomes **translucent** |
 | **Infiltration** | Tissue placed in melted **paraffin at 52–60 °C** in an oven, which evaporates the clearing solvent |
 | **Embedding** | Paraffin allowed to harden in a small container at room temperature |
 | **Sectioning** | Block trimmed and cut on a **microtome**. Paraffin sections are typically **3–10 µm**; EM requires sections **less than 1 µm** |
+
+**A concentration note.** The book describes formalin as "a buffered isotonic solution of 37% formaldehyde." That 37–40% solution is the **stock** from which working fixative is made; tissue is fixed in **10% formalin**, equivalent to about 3.7–4% formaldehyde, buffered to pH 7.2–7.4 (neutral buffered formalin). Keep the two concentrations apart in practical questions.
 
 **The units** the book expects you to handle: 1 µm = 1/1000 mm; 1 nm = 0.001 µm = 10⁻⁶ mm; 1 Å = 0.1 nm = 10⁻⁴ µm.
 
@@ -92,9 +94,9 @@ Digital cameras extend all of these methods: images can be quantified, enhanced,
 
 ### Electron Microscopy
 
-The wavelength of an electron beam is far shorter than that of light, allowing a **1000-fold increase in resolution**.
+The wavelength of an electron beam is far shorter than that of light, so the electron microscope can resolve structures far below the light-microscope limit — in principle, a thousandfold improvement.
 
-**Transmission EM (TEM)** resolves to about **3 nm** — enough to view isolated particles magnified as much as **400,000×**; tissue sections of **40–90 nm** embedded in resin are routinely studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
+**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the figure the book gives — enough to view isolated particles magnified as much as **400,000×**. On ideal specimens the instrument's point resolution can approach **0.2 nm**, which is why both numbers appear in the literature. tissue sections of **40–90 nm** embedded in resin are routinely studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
 
 **Scanning EM (SEM)** images the surface in three dimensions.
 
@@ -130,14 +132,14 @@ Two rules from the book's own section:
 
 > **MICRO** — Before identifying anything, decide whether it could be an artefact. A clear space around every cell is shrinkage; a straight edge through the tissue is a knife mark; granular debris is precipitated stain. True structure has irregular, biological boundaries.
 
-> **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
+> **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution of routine sections; the instrument's point resolution can approach 0.2 nm). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
 
-> **PEARL** — The examiner's favorite Chapter 1 chain is: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
+> **PEARL** — A useful chain to remember from Chapter 1: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
 
 ### Chapter 1 — one-line answers
 
 - H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
-- Resolution: light microscope about 0.2 µm; transmission EM about 0.2 nm.
+- Resolution: light microscope about 0.2 µm; TEM about 3 nm in routine sections (point resolution approaching 0.2 nm).
 - Fixation cross-links proteins; formalin is the standard fixative, glutaraldehyde for EM.
 - Paraffin sections are 3–10 µm; frozen sections are used for urgent diagnosis and for lipid.
 - PAS stains carbohydrates magenta; it demonstrates glycogen, mucin, and basement membranes.
@@ -152,7 +154,7 @@ Answer each from memory before checking.
 1. **What does formalin do to a tissue?** — Cross-links proteins, preserving structure while making the tissue firm enough to section.
 2. **Which dye stains nuclei, and why?** — Hematoxylin, a basic dye that binds acidic nucleic acids (DNA and RNA).
 3. **What does PAS demonstrate?** — Carbohydrates, glycogen, and glycoprotein-rich structures such as basement membranes.
-4. **Light microscope versus electron microscope resolution?** — About 0.2 µm versus about 0.2 nm — a thousand-fold difference.
+4. **Light microscope versus electron microscope resolution?** — About 0.2 µm versus about 3 nm in routine sections — roughly two orders of magnitude, with the instrument's point resolution approaching 0.2 nm on ideal specimens.
 5. **Why is a 5-µm section dangerous to interpret in one glance?** — It samples a single plane; a tube can look like a ring, a sphere like a circle, and a fold like a septum.
 
 ### Exam-style question
@@ -165,14 +167,14 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 1–1** — Sectioning fixed and embedded tissue (Chapter 1).
-- **Fig. 1–4** — Appearance of cells with fluorescent microscopy (Chapter 1).
-- **Fig. 1–6** — Principle of confocal microscopy (Chapter 1).
-- **Fig. 1–9** — Microscopic autoradiography (Chapter 1).
-- **Fig. 1–11** — Immunocytochemistry techniques (Chapter 1).
-- **Fig. 1–14** — Interpretation of 3D structures in 2D sections (Chapter 1).
+- **Fig. 1–1** — *Sectioning fixed and embedded tissue*.
+- **Fig. 1–4** — *Appearance of cells with fluorescent microscopy*.
+- **Fig. 1–6** — *Principle of confocal microscopy*.
+- **Fig. 1–9** — *Microscopic autoradiography*.
+- **Fig. 1–11** — *Immunocytochemistry techniques*.
+- **Fig. 1–14** — *Interpretation of 3D structures in 2D sections*.
 
 ## 2 · The Cytoplasm
 
@@ -292,14 +294,14 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 2–1** — Lipids in membrane structure (Chapter 2).
-- **Fig. 2–6** — Three major forms of endocytosis (Chapter 2).
-- **Fig. 2–12** — Protein localization and cell morphology (Chapter 2).
-- **Fig. 2–17** — Lysosomal functions (Chapter 2).
-- **Fig. 2–23** — Dynamic instability of microtubules (Chapter 2).
-- **Fig. 2–28** — Cellular inclusions (Chapter 2).
+- **Fig. 2–1** — *Lipids in membrane structure*.
+- **Fig. 2–6** — *Three major forms of endocytosis*.
+- **Fig. 2–12** — *Protein localization and cell morphology*.
+- **Fig. 2–17** — *Lysosomal functions*.
+- **Fig. 2–23** — *Dynamic instability of microtubules*.
+- **Fig. 2–28** — *Cellular inclusions*.
 
 ## 3 · The Nucleus
 
@@ -324,9 +326,9 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 
 **Centrosomes.** Each cell has a pair of **centrioles** — nine microtubular triplets — surrounded by pericentriolar material: the **centrosome**, the microtubule-organizing center that builds the mitotic spindle, and the **basal body** of a cilium.
 
-**Nuclear pores.** 3,000–4,000 per nucleus, each a **nuclear pore complex** regulating traffic. Small molecules diffuse; proteins and RNA require **importins and exportins** and a Ran-GTP gradient.
+**Nuclear pores.** 3,000–4,000 per nucleus. Each is a **nuclear pore complex** about 100 nm wide, built from roughly 34 nucleoporins, and can pass up to about 1,000 macromolecules per second. Small molecules diffuse; proteins and RNA require **importins and exportins** and a Ran-GTP gradient.
 
-**Chromatin.** Each human cell holds about **2 meters of DNA — 3.2 billion base pairs** — which must be packaged into a nucleus a few micrometers across. The DNA wraps around a core of **eight histones** (two copies each of H2A, H2B, H3, H4) with **about 150 bp** per turn, plus a larger **H1** histone on the outside: that unit is the **nucleosome**, which in EM looks like **10-nm beads on a string**. Further folding into 30-nm fibers and beyond involves nonhistone scaffold proteins and is less well understood. **Heterochromatin** is condensed and transcriptionally inactive; **euchromatin** is dispersed and active. **Constitutive** heterochromatin is permanently silent; **facultative** heterochromatin can be reactivated. The **Barr body** is a facultatively heterochromatic, inactivated X chromosome — one per somatic cell in a female.
+**Chromatin.** Each human cell holds about **2 meters of DNA — 3.2 billion base pairs** — which must be packaged into a nucleus a few micrometers across. The DNA wraps around a core of **eight histones** (two copies each of H2A, H2B, H3, H4) with **about 150 bp of DNA per nucleosome** (about 1.75 turns around the octamer), plus a larger **H1** histone on the outside: that unit is the **nucleosome**, which in EM looks like **10-nm beads on a string**. Further folding into 30-nm fibers and beyond involves nonhistone scaffold proteins and is less well understood. **Heterochromatin** is condensed and transcriptionally inactive; **euchromatin** is dispersed and active. **Constitutive** heterochromatin is permanently silent; **facultative** heterochromatin can be reactivated. The **Barr body** is a facultatively heterochromatic, inactivated X chromosome — one per somatic cell in a female.
 
 **Nucleolus.** Not membrane-bound; a factory for ribosomal subunits, with a **pars fibrosa** (rRNA transcription) and a **pars granulosa** (ribosome assembly), organized around **nucleolar organizer regions** on the acrocentric chromosomes **13, 14, 15, 21, and 22**. Cells that make large amounts of protein have prominent nucleoli, and malignant cells often do too.
 
@@ -339,7 +341,7 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 | **G2** | Repair check, prepare for mitosis | ~4 h |
 | **M** | Mitosis and cytokinesis | ~1 h |
 
-Progression is driven by **cyclin–CDK complexes**. **p53** halts the cycle at G1 to allow repair and triggers apoptosis if repair fails — hence "guardian of the genome", and hence its mutation in more than half of human cancers. **Rb** is the G1/S brake lost in retinoblastoma. **G0** is the quiescent state of cells that have left the cycle.
+The durations above are typical of a **rapidly dividing cultured cell**; most adult tissues cycle far more slowly or not at all, so do not transplant these numbers to the body. Progression is driven by **cyclin–CDK complexes**. **p53** halts the cycle at G1 to allow repair and triggers apoptosis if repair fails — hence "guardian of the genome", and hence its frequent mutation in human cancers (commonly cited as about half). **Rb** is the G1/S brake lost in retinoblastoma. **G0** is the quiescent state of cells that have left the cycle.
 
 ### Mitosis
 
@@ -356,7 +358,7 @@ Progression is driven by **cyclin–CDK complexes**. **p53** halts the cycle at 
 - **Multipotent** — form a restricted set of cell types (hematopoietic stem cell).
 - **Unipotent** — one cell type.
 
-Tissues are **labile** (continuous turnover — epidermis, gut, marrow), **stable** (low turnover, can be triggered — liver, kidney, fibroblasts), or **permanent** (neurons, cardiac myocytes, lens fibers).
+Tissues are **labile** (continuous turnover — epidermis, gut, marrow), **stable** (low turnover, can be triggered — liver, kidney, fibroblasts), or **permanent** (most neurons, cardiac myocytes, lens fibers), with little or no regenerative capacity under normal conditions.
 
 ### Meiosis
 
@@ -375,6 +377,8 @@ Programmed cell death: **caspases** are activated, **cytochrome c** escapes mito
 | Membrane | Intact, blebbing | Ruptures |
 | Inflammation | **Absent** | **Present** |
 | Spread | Single cells | Contiguous sheets |
+
+The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** are regulated lytic deaths, and apoptotic cells that are not cleared promptly can provoke inflammation, so the presence or absence of inflammation is a strong rule of thumb rather than an absolute distinction.
 
 > **CLINICAL** — **Lamin A mutation** causes progeria with premature aging. Changes in nuclear shape and chromatin texture are also one of the oldest cancer-screening tools: the irregular, hyperchromatic nucleus of a dysplastic cervical cell is what a Pap smear is looking for.
 
@@ -399,7 +403,7 @@ Programmed cell death: **caspases** are activated, **cytochrome c** escapes mito
 - Non-disjunction = aneuploid gametes, the mechanism of trisomy 21.
 - Apoptosis = caspases, cytochrome c, Bcl-2 family, apoptotic bodies, no inflammation.
 - Necrosis = swelling, membrane rupture, inflammation.
-- Labile tissue turns over constantly; stable tissue can be triggered; permanent tissue cannot regenerate.
+- Labile tissue turns over constantly; stable tissue can be triggered; permanent tissue has little or no regenerative capacity.
 
 ### Active recall
 
@@ -419,12 +423,12 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
+Each figure is listed with the subject its caption names. Cover the caption, say what the figure shows and the one structural feature that gives it away, then check. Figure numbers are those printed in the textbook.
 
-- **Fig. 3–1** — Nuclei of large, active cells (Chapter 3).
-- **Fig. 3–5** — Nuclear pores (Chapter 3).
-- **Fig. 3–9** — Chromosome territories of a human fibroblast nucleus (Chapter 3).
-- **Fig. 3–12** — Cell cycle (Chapter 3).
-- **Fig. 3–16** — Mitotic cells in adult tissues (Chapter 3).
-- **Fig. 3–20** — Late apoptosis—apoptotic bodies (Chapter 3).
+- **Fig. 3–1** — *Nuclei of large, active cells*.
+- **Fig. 3–5** — *Nuclear pores*.
+- **Fig. 3–9** — *Chromosome territories of a human fibroblast nucleus*.
+- **Fig. 3–12** — *The cell cycle*.
+- **Fig. 3–16** — *Mitotic cells in adult tissues*.
+- **Fig. 3–20** — *Late apoptosis—apoptotic bodies*.
 

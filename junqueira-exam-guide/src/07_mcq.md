@@ -224,7 +224,7 @@ A. Antibody alone <br/>B. MHC class I <br/>C. MHC class II <br/>D. MHC class III
 
 A. Thymus <br/>B. Tonsil <br/>C. Spleen <br/>D. Lymph node
 
-**54.** Which organ lacks afferent lymphatic vessels?
+**54.** Which organs lack afferent lymphatic vessels?
 
 A. Lymph node <br/>B. Thymus and spleen <br/>C. Tonsil <br/>D. Appendix
 
@@ -368,7 +368,7 @@ A. Pseudostratified <br/>B. Simple columnar <br/>C. Transitional <br/>D. Stratif
 
 **88.** Thyroid follicles are lined by:
 
-A. Stratified cuboidal epithelium <br/>B. Pseudostratified epithelium <br/>C. Simple squamous epithelium <br/>D. Simple cuboidal epithelium
+A. Stratified cuboidal epithelium <br/>B. Pseudostratified epithelium <br/>C. Transitional epithelium <br/>D. Simple cuboidal epithelium
 
 **89.** Calcitonin is secreted by:
 
@@ -596,7 +596,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **87. C** — The ureter is lined by transitional epithelium. **Trap:** B and A are respiratory or gut. D is the distal urethra and vagina.
 
-**88. D** — Thyroid follicles are lined by a simple epithelium whose cells range from squamous (inactive) to low columnar (active), classically described as cuboidal. The key point is that the epithelium is always simple; squamous and columnar are activity states, not different cell types. **Trap:** C is too flat for active transport. A and B are not the normal lining.
+**88. D** — Thyroid follicles are lined by a simple epithelium whose cells range from squamous (inactive) to low columnar (active), classically described as cuboidal. The key point is that the epithelium is always simple; squamous and columnar are activity states, not different cell types. **Trap:** C lines the urinary tract. A and B are not found in thyroid follicles.
 
 **89. B** — Parafollicular C cells secrete calcitonin. **Trap:** A make thyroid hormone. C are parathyroid. D are parathyroid.
 
@@ -632,4 +632,4 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 | **50–64** | At risk | Read each chapter's "core idea" and tables, not the prose |
 | **Below 50** | Start again from Part II | Build the six core tables from memory before anything else |
 
-> **PEARL** — The final revision loop is not reading — it is **recall**. Close the book and write the ten master tables from memory. Whatever you cannot reproduce is exactly what you must study. Students who do this for three days typically gain ten to fifteen marks.
+> **PEARL** — The final revision loop is not reading — it is **recall**. Close the book and write the ten master tables from memory. Whatever you cannot reproduce is exactly what you must study. Students who can reproduce the tables usually answer the recall questions far more quickly.
