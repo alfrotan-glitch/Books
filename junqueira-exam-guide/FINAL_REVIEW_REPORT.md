@@ -301,7 +301,7 @@ Legend: **OK** = inspected, no material defect; **CORRECTED** = defect confirmed
 
 **Artifact commit (this release):** `6a0a0cb` — *Page-by-page audit: correct leukocyte counts and sizes, cartilage and stratification wording, bile route; keep exam questions with their headings; rebuild*
 **Previous release:** `d60c14d` (TEM wording, qualified generalizations, chapter-specific plate tasks), preceded by `1f2ff2a`, `3330946`, `aeb9c70` and the earlier audit commits. All earlier commits are preserved.
-This report was committed in `5de6b7d`, immediately after the artifact commit; `git log` shows both on top.
+This report is committed immediately after the artifact commit; `git log` shows the report commit on top.
 
 | Artifact | Bytes | SHA-256 |
 |---|---|---|
