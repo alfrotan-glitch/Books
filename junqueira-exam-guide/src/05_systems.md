@@ -631,7 +631,7 @@ The cornea is **transparent because it is avascular and its collagen is regularl
 | **Inner nuclear layer** | Bipolar, horizontal, amacrine, and Müller cell nuclei |
 | **Ganglion cell layer** | Ganglion cells whose axons form the optic nerve |
 
-**Rods versus cones at the level of the disc** — a classic exam distinction: in **cones** the membranous discs of the outer segment are **continuous with the plasma membrane**; in **rods** they are **separate**, pinched-off discs. A single rod contains about **one billion rhodopsin** molecules, and each day it loses and replaces about **90 discs** in a cycle that takes **10 days**.
+**Rods versus cones at the level of the disc** — a classic distinction: in **cones** the membranous discs of the outer segment are **continuous with the plasma membrane**; in **rods** they are **separate**, pinched-off discs. A single rod contains about **one billion rhodopsin** molecules, and each day it loses and replaces about **90 discs** in a cycle that takes **10 days**.
 
 **Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
 

@@ -308,7 +308,7 @@ Functions: energy storage, insulation, cushioning of organs (retro-orbital, peri
 
 **Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesized by the adipocytes themselves**. Mobilization is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
 
-**Adipose-derived factors** — the exam list (note that the last one is an enzyme, not an adipokine):
+**Adipose-derived factors** — the ones worth knowing (the last is an enzyme, not an adipokine):
 
 - **Leptin** — from adipocytes, acts on the hypothalamus to reduce appetite.
 - **Adiponectin** — increases insulin sensitivity; low in obesity.

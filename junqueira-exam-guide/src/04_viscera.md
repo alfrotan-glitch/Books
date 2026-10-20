@@ -61,7 +61,7 @@ The lining is **stratified squamous** everywhere, but the degree of keratinizati
 
 A muscular tube about **25 cm** long. **Nonkeratinized stratified squamous** epithelium, a thick muscularis mucosae, **esophageal glands in the submucosa** (mucus-secreting, lubricating), and small **cardiac glands** in the lamina propria near the junction.
 
-The muscularis is the examinable progression: **skeletal muscle at the superior end → mixed in the middle → exclusively smooth in the lower third**. The outer layer is **adventitia** except for the distal **1–2 cm**, which lies in the peritoneal cavity and has a serosa. At the **esophagogastric junction** the epithelium changes abruptly from stratified squamous to simple columnar, and the adventitia gives way to serosa.
+The muscularis shows the progression to know: **skeletal muscle at the superior end → mixed in the middle → exclusively smooth in the lower third**. The outer layer is **adventitia** except for the distal **1–2 cm**, which lies in the peritoneal cavity and has a serosa. At the **esophagogastric junction** the epithelium changes abruptly from stratified squamous to simple columnar, and the adventitia gives way to serosa.
 
 ### Stomach
 
@@ -95,7 +95,7 @@ Each **villus** is a finger of lamina propria covered by simple columnar epithel
 - **Enteroendocrine cells** — CCK, secretin, GIP, motilin.
 - **Stem cells** — crypt base, replacing the epithelium every few days.
 
-**Lipid absorption** is different and examinable: lipid products associate with **bile salts**, enter enterocytes, are re-esterified to **triglycerides** and packaged as **chylomicrons**, and leave through the **lacteal** rather than the capillary.
+**Lipid absorption** is different and worth knowing: lipid products associate with **bile salts**, enter enterocytes, are re-esterified to **triglycerides** and packaged as **chylomicrons**, and leave through the **lacteal** rather than the capillary.
 
 | Region | Defining feature |
 |---|---|
@@ -313,7 +313,7 @@ Each nasal cavity has a **vestibule** where air enters, and **three conchae** pr
 - **Respiratory region** — **respiratory epithelium**: pseudostratified ciliated columnar with goblet cells, over a highly vascular lamina propria containing seromucous glands. It warms, humidifies, and cleans air; the cilia sweep mucus toward the pharynx.
 - **Olfactory region** — the roof and part of the superior concha: **olfactory epithelium**, about **10 cm²** and up to **100 µm** thick, containing **bipolar olfactory neurons**, supporting cells, and basal stem cells. Each neuron has about **20 long nonmotile cilia** bearing odorant receptors. Olfactory neurons are replaced every **1–2 months** — unusual for neurons. **No goblet cells**, but **Bowman glands** in the lamina propria.
 
-**The respiratory epithelium is a mixed population**, and the proportions are examinable:
+**The respiratory epithelium is a mixed population**, and the proportions are worth remembering:
 
 | Cell | Share | Function |
 |---|---|---|

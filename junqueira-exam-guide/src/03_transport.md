@@ -15,7 +15,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-The circulatory system pumps and directs blood cells and substances to all tissues, and in an adult the total length of its vessels is estimated at **100,000–150,000 km**. Almost every vessel is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
+The circulatory system pumps and directs blood cells and substances to all tissues. In an adult the capillaries alone have a total length of **more than 100,000 km** and a surface area of about **5,000 m²**. Almost every vessel is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
 
 ### Heart
 
@@ -136,8 +136,7 @@ The book's Table 12–1 quantifies the mixture:
 | — **Globulins** | ~37% of plasma protein | α- and β-globulins transport lipids, metals, and iron; γ-globulins are antibodies |
 | — **Fibrinogen** | ~4% of plasma protein | Precursor of fibrin for clotting |
 | — **Regulatory proteins** | **>1%** of plasma protein | Enzymes, proenzymes, hormones, complement |
-| **Electrolytes** | **~1%** of plasma (with nutrients) | Membrane potentials, pH, osmotic control |
-| **Nutrients** | **~1%** of plasma (with electrolytes) | Glucose, amino acids, cholesterol, vitamins — energy and synthesis |
+| **Other solutes** (electrolytes and nutrients) | **~1%** of plasma | Electrolytes maintain membrane potentials, pH, and osmotic control; nutrients (glucose, amino acids, cholesterol, vitamins) supply energy and building blocks |
 
 On clotting, some proteins are consumed and others are released from platelets, leaving **serum**, whose biological properties differ from plasma. **Serum is plasma minus fibrinogen** (i.e., after clotting).
 
@@ -152,15 +151,15 @@ On clotting, some proteins are consumed and others are released from platelets, 
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
 - **Hematocrit** — the sedimented erythrocyte column — is about **44% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood.
 
-**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). All three granulocytes are **12–15 µm**. The smallest lymphocytes are about the size of a red cell, and medium and large lymphocytes are **9–18 µm**; monocytes are **12–20 µm**.
+**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). The granulocytes are **12–15 µm**, with eosinophils about the same size as neutrophils or slightly larger. Lymphocytes range from **6 to 15 µm** — small, medium, and large forms — and monocytes are **12–20 µm**, the largest of the leukocytes in a smear. (The chapter's body text gives monocytes as 12–15 µm; the Fig. 12–12 legend gives 12–20 µm. Both are recorded here rather than one being silently preferred.)
 
 | Cell | % of WBC | Size | Nucleus | Cytoplasm | Main function |
 |---|---|---|---|---|---|
 | **Neutrophil** | **50–70%** | **12–15 µm** | **3–5 lobes**, dense | Pale; fine granules | **Phagocytosis of bacteria**; the acute responder |
 | **Eosinophil** | **1–4%** | **12–15 µm** (neutrophil-sized or slightly larger) | **Bilobed** | **Bright orange-red** granules | **Parasites and allergy**; major basic protein |
 | **Basophil** | **0.5–1%** | **12–15 µm** | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
-| **Lymphocyte** | **20–40%** | smallest ≈ red cell; **9–18 µm** (medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
-| **Monocyte** | **2–8%** | **12–20 µm** (largest) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
+| **Lymphocyte** | **20–40%** | **6–15 µm** (small, medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
+| **Monocyte** | **2–8%** | **12–20 µm** (largest; body text 12–15 µm) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
 
 **Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
@@ -230,7 +229,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-All blood cells descend from one **hematopoietic stem cell**, and the pathway from that cell to a mature erythrocyte, granulocyte, or platelet is a sequence of named stages you can recognize by **decreasing nucleus, increasing cytoplasm, and changing color**. It is the most examinable lineage in histology because every stage has a name.
+All blood cells descend from one **hematopoietic stem cell**, and the pathway from that cell to a mature erythrocyte, granulocyte, or platelet is a sequence of named stages you can recognize by **decreasing nucleus, increasing cytoplasm, and changing color**. It is the lineage with the most named stages in histology, so it rewards systematic learning.
 
 ### Sites of hemopoiesis
 
@@ -244,7 +243,7 @@ In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, 
 
 ### Stem Cells, Growth Factors, & Differentiation
 
-The **hematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitting in a **niche** of stromal cells, other cells, and ECM. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, examinable by name:
+The **hematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitting in a **niche** of stromal cells, other cells, and ECM. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, listed here by name:
 
 | Factor | Target |
 |---|---|
@@ -293,7 +292,7 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 - Hemopoiesis shifts from yolk sac → liver and spleen → bone marrow; the adult site is red marrow of the axial skeleton.
 - The marrow stroma (reticular cells, macrophages, adipocytes, endothelial cells) forms the hematopoietic niche.
 - Erythropoiesis: proerythroblast → basophilic → polychromatophilic → orthochromatophilic normoblast → reticulocyte → erythrocyte.
-- The nucleus is extruded at the reticulocyte stage; the reticulocyte still contains residual RNA.
+- The nucleus is extruded at the orthochromatophilic erythroblast stage, producing the reticulocyte, which still contains residual RNA.
 - Granulopoiesis: myeloblast → promyelocyte → myelocyte → metamyelocyte → band → segmented cell.
 - Specific granules appear at the myelocyte stage; azurophilic granules at the promyelocyte stage.
 - Megakaryocytes are polyploid and shed platelets from their cytoplasm.
@@ -303,7 +302,7 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 ### Active recall
 
 1. **Where does hemopoiesis occur in the adult?** — Red marrow of the axial skeleton (vertebrae, ribs, sternum, pelvis, proximal femur).
-2. **What is the first recognizable erythroid precursor, and what is lost at the reticulocyte stage?** — Proerythroblast; the nucleus is extruded to form the reticulocyte.
+2. **What is the first recognizable erythroid precursor, and when is the nucleus lost?** — The proerythroblast; the nucleus is extruded at the orthochromatophilic erythroblast stage, leaving a reticulocyte that still contains residual RNA.
 3. **How do you recognize a megakaryocyte?** — A huge polyploid cell with a lobulated nucleus whose cytoplasm fragments into platelets.
 4. **Which growth factor drives erythroid production?** — Erythropoietin, made by peritubular interstitial cells of the kidney.
 5. **What does the M:E ratio describe?** — The ratio of myeloid (granulocytic) to erythroid precursors in marrow, normally about 2:1 to 4:1.

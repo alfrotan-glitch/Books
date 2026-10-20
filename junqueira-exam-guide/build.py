@@ -92,9 +92,11 @@ STY = {
     "chapter":    S("chapter", fontName="Head", fontSize=17, leading=22,
                     textColor=INK, alignment=TA_LEFT, spaceBefore=0, spaceAfter=3),
     "h3":         S("h3", fontName="Head", fontSize=11, leading=14.5,
-                    textColor=ACCENT, alignment=TA_LEFT, spaceBefore=11, spaceAfter=4),
+                    textColor=ACCENT, alignment=TA_LEFT, spaceBefore=11, spaceAfter=4,
+                    keepWithNext=1),
     "h4":         S("h4", fontName="Head-Reg", fontSize=9.8, leading=13,
-                    textColor=INK, alignment=TA_LEFT, spaceBefore=8, spaceAfter=2),
+                    textColor=INK, alignment=TA_LEFT, spaceBefore=8, spaceAfter=2,
+                    keepWithNext=1),
     "body":       S("body"),
     "lead":       S("lead", fontName="Head-Reg", fontSize=9.6, leading=14,
                     textColor=INK),
@@ -453,6 +455,11 @@ def group_blocks(blocks):
                 j += 1
             out.append(("keep", group))
             i = j
+            continue
+        if b[0] in ("h3", "h4") and i + 1 < len(blocks) and blocks[i + 1][0] in (
+                "para", "bullet", "num", "table", "quote"):
+            out.append(("keep", [b, blocks[i + 1]]))
+            i += 2
             continue
         out.append(b)
         i += 1

@@ -274,7 +274,7 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 - Microtubules are 25 nm, actin filaments 7 nm, intermediate filaments 10 nm.
 - Kinesin walks toward the microtubule plus end (anterograde); dynein toward the minus end (retrograde).
 - Cilia are 9 + 2 and motile; basal bodies are 9 + 0; microvilli have an actin core.
-- Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is classically passive and inflammatory, though some lytic death programmes are regulated.
+- Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is classically passive and inflammatory, though some regulated lytic death programs blur the distinction.
 
 ### Active recall
 
@@ -328,7 +328,7 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 
 **Nuclear pores.** 3,000–4,000 per nucleus. Each is a **nuclear pore complex** about 100 nm wide, built from roughly 34 nucleoporins, and can pass up to about 1,000 macromolecules per second. Small molecules diffuse; proteins and RNA require **importins and exportins** and a Ran-GTP gradient.
 
-**Chromatin.** Each human cell holds about **2 meters of DNA — 3.2 billion base pairs** — which must be packaged into a nucleus a few micrometers across. The DNA wraps around a core of **eight histones** (two copies each of H2A, H2B, H3, H4) with **about 150 bp of DNA per nucleosome** (about 1.75 turns around the octamer), plus a larger **H1** histone on the outside: that unit is the **nucleosome**, which in EM looks like **10-nm beads on a string**. Further folding into 30-nm fibers and beyond involves nonhistone scaffold proteins and is less well understood. **Heterochromatin** is condensed and transcriptionally inactive; **euchromatin** is dispersed and active. **Constitutive** heterochromatin is permanently silent; **facultative** heterochromatin can be reactivated. The **Barr body** is a facultatively heterochromatic, inactivated X chromosome — one per somatic cell in a female.
+**Chromatin.** Each human cell holds about **2 meters of DNA — 3.2 billion base pairs** — which must be packaged into a nucleus a few micrometers across. The DNA wraps around a core of **eight histones** (two copies each of H2A, H2B, H3, H4) with **about 150 bp of DNA per nucleosome** (about 1.65 turns around the octamer), plus a larger **H1** histone on the outside: that unit is the **nucleosome**, which in EM looks like **10-nm beads on a string**. Further folding into 30-nm fibers and beyond involves nonhistone scaffold proteins and is less well understood. **Heterochromatin** is condensed and transcriptionally inactive; **euchromatin** is dispersed and active. **Constitutive** heterochromatin is permanently silent; **facultative** heterochromatin can be reactivated. The **Barr body** is a facultatively heterochromatic, inactivated X chromosome — one per somatic cell in a female.
 
 **Nucleolus.** Not membrane-bound; a factory for ribosomal subunits, with a **pars fibrosa** (rRNA transcription) and a **pars granulosa** (ribosome assembly), organized around **nucleolar organizer regions** on the acrocentric chromosomes **13, 14, 15, 21, and 22**. Cells that make large amounts of protein have prominent nucleoli, and malignant cells often do too.
 

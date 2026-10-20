@@ -131,8 +131,8 @@ As osteoid calcifies and hardens it **entraps some osteoblasts**, which then dif
 
 ### Bone Matrix
 
-- **Inorganic (~65%)** — calcium phosphate as **hydroxyapatite** crystals; compressive strength.
-- **Organic (~35%)** — **type I collagen** (90% of the organic fraction), osteocalcin, osteonectin, osteopontin, proteoglycans, growth factors; tensile strength.
+- **Inorganic (~50% of dry weight)** — calcium phosphate as **hydroxyapatite** crystals, with bicarbonate, citrate, magnesium, potassium, and sodium; compressive strength.
+- **Organic (~50% of dry weight)** — **type I collagen** (90% of the organic matter), osteocalcin, osteonectin, osteopontin, proteoglycans, growth factors; tensile strength. Many textbooks quote a 65:35 mineral-to-organic ratio; the 17th edition gives about 50:50, and this companion follows it.
 
 Remove the mineral and bone becomes flexible; remove the collagen and it becomes brittle. **Bone is strong because it is both at once.**
 
@@ -166,7 +166,7 @@ Growth in **width** is **appositional**, by periosteal osteoblasts. The **primar
 
 ### Bone Remodeling & Repair
 
-Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilization and blood supply decide the outcome. **Wolff law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
+Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilization and blood supply decide the outcome. **Wolff's law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
 
 ### Metabolic Role of Bone
 
@@ -267,7 +267,7 @@ The nervous system arises from the **neural plate**, which folds into the **neur
 
 ### Glial Cells & Neuronal Activity
 
-| Cell | Location | Function | Exam hook |
+| Cell | Location | Function | Key point |
 |---|---|---|---|
 | **Astrocyte** | CNS | **The most numerous cell of the CNS**; hundreds of processes enclose neuronal perikarya, synapses, and capillaries, providing regulated microenvironments | **GFAP**; foot processes on capillaries; glial scar |
 | **Oligodendrocyte** | CNS | Wraps flattened processes around portions of axons, forming **myelin sheaths** | One cell, many segments |
@@ -377,7 +377,7 @@ Muscle tissue consists of cells that optimize the universal cell property of **c
 
 **Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarization spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fiber. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
 
-**Innervation.** The **motor end plate** — acetylcholine binds nicotinic receptors, depolarises the sarcolemma, and triggers contraction. One motor neuron plus all the fibers it supplies is a **motor unit**.
+**Innervation.** The **motor end plate** — acetylcholine binds nicotinic receptors, depolarizes the sarcolemma, and triggers contraction. One motor neuron plus all the fibers it supplies is a **motor unit**.
 
 **Fiber types:**
 
@@ -393,7 +393,7 @@ Muscle tissue consists of cells that optimize the universal cell property of **c
 
 - **Striated**, branched fibers, **one or two central nuclei**.
 - **Intercalated discs** — the diagnostic feature — contain **fascia adherens** (anchors actin), **desmosomes** (mechanical strength), and **gap junctions** (electrical coupling), making the heart a functional syncytium.
-- **Diads** at the **Z line** (one T-tubule + one cisterna) rather than **triads** of the **transverse tubule system** at the A–I junction.
+- **Diads** at the **Z line** (one T-tubule + one cisterna), rather than the **triads** at the A–I junction of skeletal muscle.
 - Abundant mitochondria and lipid droplets; highly oxidative; resistant to fatigue.
 - **Purkinje fibers** — specialized conducting cells, larger and paler, with fewer myofibrils; they conduct rapidly through the ventricles.
 - **Regeneration is essentially absent**; damage is repaired by fibrous scar.
@@ -428,7 +428,7 @@ Skeletal muscle regenerates weakly, from **satellite cells**, and only if the ba
 
 > **MNEMONIC** — **"Skeletal = Surface nuclei. Cardiac = Central nucleus, Cross-striations, interCalated discs. Smooth = Spindle, Single central nucleus, no Striations."**
 
-> **TIP** — The A band does not shorten. This is asked more often than any other muscle fact: I and H shorten, A stays constant, Z lines approach.
+> **TIP** — The A band does not shorten. This is the muscle fact to keep straight: I and H shorten, A stays constant, Z lines approach.
 
 ### Chapter 10 — one-line answers
 
@@ -464,7 +464,7 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 
 ### Plates to study
 
-Compare the three muscle types first (**10–1**), then the sarcomere (**10–9**, **10–12**), the intercalated disc (**10–16**), and the smooth-muscle contractile apparatus (**10–20**). Use **10–5** to see the capillary relationship behind the fibre's oxygen supply.
+Compare the three muscle types first (**10–1**), then the sarcomere (**10–9**, **10–12**), the intercalated disc (**10–16**), and the smooth-muscle contractile apparatus (**10–20**). Use **10–5** to see the capillary relationship behind the fiber's oxygen supply.
 
 - **Fig. 10–1** — *Three types of muscle*.
 - **Fig. 10–5** — *Capillaries of skeletal muscle*.

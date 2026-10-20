@@ -312,7 +312,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 
 ## Appendix A · Stains and What They Prove
 
-| Stain | Target | Color | Classic exam use |
+| Stain | Target | Color | Typical use |
 |---|---|---|---|
 | **Hematoxylin** | Nucleic acids | Blue-purple | Nuclei, rough ER |
 | **Eosin** | Proteins | Pink-red | Cytoplasm, collagen, RBC |
@@ -332,7 +332,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 
 ### The stains the atlas uses
 
-The textbook's own appendix is short but examinable, because every plate caption in the atlas names its stain. The table below follows its list and adds the chemistry behind each stain; the table above is the quick-recall version.
+The textbook's own appendix is short but worth reading, because every plate caption in the atlas names its stain. The table below follows its list and adds the chemistry behind each stain; the table above is the quick-recall version.
 
 | Stain | Chemistry | What it stains | Why it is used |
 |---|---|---|---|
