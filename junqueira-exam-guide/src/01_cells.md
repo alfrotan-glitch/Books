@@ -96,7 +96,7 @@ Digital cameras extend all of these methods: images can be quantified, enhanced,
 
 The wavelength of an electron beam is far shorter than that of light, so the electron microscope can resolve structures far below the light-microscope limit — in principle, a thousandfold improvement.
 
-**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the figure the book gives — enough to view isolated particles magnified as much as **400,000×**. On ideal specimens the instrument's point resolution can approach **0.2 nm**, which is why both numbers appear in the literature. tissue sections of **40–90 nm** embedded in resin are routinely studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
+**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the figure the book gives — enough to view isolated particles magnified as much as **400,000×**. Routine tissue sections of **40–90 nm** embedded in resin are studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
 
 **Scanning EM (SEM)** images the surface in three dimensions.
 
@@ -132,14 +132,14 @@ Two rules from the book's own section:
 
 > **MICRO** — Before identifying anything, decide whether it could be an artefact. A clear space around every cell is shrinkage; a straight edge through the tissue is a knife mark; granular debris is precipitated stain. True structure has irregular, biological boundaries.
 
-> **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution of routine sections; the instrument's point resolution can approach 0.2 nm). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
+> **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution of routine sections). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
 
 > **PEARL** — A useful chain to remember from Chapter 1: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
 
 ### Chapter 1 — one-line answers
 
 - H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
-- Resolution: light microscope about 0.2 µm; TEM about 3 nm in routine sections (point resolution approaching 0.2 nm).
+- Resolution: light microscope about 0.2 µm; TEM about 3 nm in routine sections.
 - Fixation cross-links proteins; formalin is the standard fixative, glutaraldehyde for EM.
 - Paraffin sections are 3–10 µm; frozen sections are used for urgent diagnosis and for lipid.
 - PAS stains carbohydrates magenta; it demonstrates glycogen, mucin, and basement membranes.
@@ -154,7 +154,7 @@ Answer each from memory before checking.
 1. **What does formalin do to a tissue?** — Cross-links proteins, preserving structure while making the tissue firm enough to section.
 2. **Which dye stains nuclei, and why?** — Hematoxylin, a basic dye that binds acidic nucleic acids (DNA and RNA).
 3. **What does PAS demonstrate?** — Carbohydrates, glycogen, and glycoprotein-rich structures such as basement membranes.
-4. **Light microscope versus electron microscope resolution?** — About 0.2 µm versus about 3 nm in routine sections — roughly two orders of magnitude, with the instrument's point resolution approaching 0.2 nm on ideal specimens.
+4. **Light microscope versus electron microscope resolution?** — About 0.2 µm versus about 3 nm in routine sections, roughly two orders of magnitude.
 5. **Why is a 5-µm section dangerous to interpret in one glance?** — It samples a single plane; a tube can look like a ring, a sphere like a circle, and a fold like a septum.
 
 ### Exam-style question
@@ -222,7 +222,7 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 
 ### Cytoplasmic Organelles
 
-**Mitochondria.** Double membrane; the inner membrane folds into **cristae** carrying the electron transport chain and ATP synthase. The matrix contains circular mitochondrial DNA, mitochondrial ribosomes, and calcium granules. Mitochondria are **maternally inherited** and semi-autonomous. Cells with huge energy demand (cardiac muscle, brown fat, proximal tubule, sperm midpiece) are packed with them. **Cells that synthesize steroid hormone have mitochondria with tubular rather than lamellar cristae** — a favorite EM question.
+**Mitochondria.** Double membrane; the inner membrane folds into **cristae** carrying the electron transport chain and ATP synthase. The matrix contains circular mitochondrial DNA, mitochondrial ribosomes, and calcium granules. Mitochondria are **maternally inherited** and semi-autonomous. Cells with huge energy demand (cardiac muscle, brown fat, proximal tubule, sperm midpiece) are packed with them. **Cells that synthesize steroid hormone have mitochondria with tubular rather than lamellar cristae**, a reliable ultrastructural marker.
 
 **Ribosomes.** 15–20 nm particles of rRNA plus protein, made of a large and small subunit. Free ribosomes make cytosolic protein for internal use; ribosomes bound to the rough ER make protein for secretion, membranes, or lysosomes. **Polyribosomes (polysomes)** are strings of ribosomes on one mRNA, and a **polyribosome** is the functional unit of translation.
 
@@ -230,7 +230,7 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 
 **Smooth ER (SER)** — tubular and ribosome-free. Three jobs: **lipid and steroid synthesis**, **detoxification** (hepatic cytochrome P450), and **calcium storage** (sarcoplasmic reticulum of muscle). Hepatocytes, adrenal cortical cells, Leydig cells, and the corpus luteum are rich in SER — which is why steroid-secreting cells look pale and foamy rather than blue.
 
-**Golgi apparatus.** Vesicles leave the ER in coats marked by **COPII** and fuse with the cis (forming) face; transport onward is mediated by **COPI**-coated vesicles. It is a stack of 4–8 flattened cisternae with a **cis (forming) face** receiving vesicles from the ER and a **trans (maturing) face** releasing vesicles. Functions: modification (glycosylation, sulfation, phosphorylation), sorting, and packaging. The **trans-Golgi network** is the dispatch center routing proteins to secretory granules, lysosomes, or the membrane. Cells specialized for secretion (plasma cells, pancreatic acinar cells, goblet cells) have an obvious, often supra-nuclear Golgi.
+**Golgi apparatus.** Vesicles leave the ER in coats marked by **COPII** and fuse with the cis (forming) face; retrograde transport back to the ER is mediated by **COPI**-coated vesicles. It is a stack of 4–8 flattened cisternae with a **cis (forming) face** receiving vesicles from the ER and a **trans (maturing) face** releasing vesicles. Functions: modification (glycosylation, sulfation, phosphorylation), sorting, and packaging. The **trans-Golgi network** is the dispatch center routing proteins to secretory granules, lysosomes, or the membrane. Cells specialized for secretion (plasma cells, pancreatic acinar cells, goblet cells) have an obvious, often supra-nuclear Golgi.
 
 **Lysosomes.** 0.05–0.5 µm vesicles of acid hydrolases at pH ≈ 5 maintained by a proton pump. **Primary lysosomes** are newly formed; **secondary lysosomes** are the product of fusion with a phagosome or autophagosome; **residual bodies** remain after digestion and accumulate as **lipofuscin**, the "wear-and-tear" pigment of long-lived cells such as cardiac myocytes and neurons.
 
@@ -262,7 +262,7 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 
 > **MNEMONIC** — **"Keratins Keep Epithelium; Vimentin is Versatile mesenchyme; Desmin Does muscle; GFAP Glues astrocytes; Neurofilaments are Neuronal."**
 
-> **TIP** — Two traps repeat every year. The Golgi **modifies and sorts** proteins; the RER makes them. And the mitochondrion is the powerhouse; the lysosome is the incinerator.
+> **TIP** — Keep two distinctions straight. The Golgi **modifies and sorts** proteins; the RER makes them. The mitochondrion generates ATP; the lysosome degrades material.
 
 ### Chapter 2 — one-line answers
 
@@ -341,7 +341,7 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 | **G2** | Repair check, prepare for mitosis | ~4 h |
 | **M** | Mitosis and cytokinesis | ~1 h |
 
-The durations above are typical of a **rapidly dividing cultured cell**; most adult tissues cycle far more slowly or not at all, so do not transplant these numbers to the body. Progression is driven by **cyclin–CDK complexes**. **p53** halts the cycle at G1 to allow repair and triggers apoptosis if repair fails — hence "guardian of the genome", and hence its frequent mutation in human cancers (commonly cited as about half). **Rb** is the G1/S brake lost in retinoblastoma. **G0** is the quiescent state of cells that have left the cycle.
+The durations above are typical of a **rapidly dividing cultured cell**; most adult tissues cycle far more slowly or not at all, so do not transplant these numbers to the body. Progression is driven by **cyclin–CDK complexes**. **p53** halts the cycle at G1 to allow repair and triggers apoptosis if repair fails — hence "guardian of the genome" — and it is mutated in about half of human cancers. **Rb** is the G1/S brake lost in retinoblastoma. **G0** is the quiescent state of cells that have left the cycle.
 
 ### Mitosis
 
@@ -397,7 +397,7 @@ The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** ar
 - Nucleolus = rRNA synthesis and ribosome assembly; NORs on 13, 14, 15, 21, 22.
 - Cell cycle = G1 → S → G2 → M; DNA replicates in S.
 - Cyclin–CDK complexes drive the cycle; p53 arrests at G1; Rb is the G1/S brake.
-- p53 = G1 checkpoint and apoptosis; mutated in most cancers.
+- p53 = G1 checkpoint and apoptosis; mutated in about half of human cancers.
 - Mitosis order = prophase, metaphase, anaphase, telophase; actin ring divides the cell.
 - Meiosis = four haploid cells, crossing over in pachytene, held by the synaptonemal complex.
 - Non-disjunction = aneuploid gametes, the mechanism of trisomy 21.

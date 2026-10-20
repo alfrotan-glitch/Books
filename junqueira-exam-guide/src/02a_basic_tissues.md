@@ -26,7 +26,7 @@ Epithelial tissues are composed of closely aggregated polyhedral cells adhering 
 | **Muscle** | Elongated contractile cells | Moderate amount | Strong contraction; body movements |
 | **Nervous** | Elongated cells with extremely fine processes | **Very small amount** | Transmission of nerve impulses |
 
-Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma always consists of connective tissue.** This single sentence answers a common question about why the CNS looks different from every other organ.
+Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma always consists of connective tissue**, which is why the CNS has no connective-tissue framework of its own.
 
 ### Characteristic Features of Epithelial Cells
 
@@ -100,7 +100,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 - **Unicellular** — the goblet cell (mucin; empty cup-shaped apex after secretion).
 - **Simple** — one unbranched duct (simple tubular = intestinal crypt; simple coiled tubular = eccrine sweat gland; simple branched acinar = sebaceous gland).
 - **Compound** — branched duct (salivary glands, pancreas, mammary gland).
-- **Mechanism:** **merocrine** (exocytosis — pancreas, sweat glands), **apocrine** (membrane and cytoplasm bud off — mammary gland), **holocrine** (whole cell disintegrates — sebaceous gland).
+- **Mechanism:** **merocrine** (exocytosis — pancreas, sweat glands), **apocrine** (membrane and cytoplasm bud off — the lipid component of mammary secretion), **holocrine** (whole cell disintegrates — sebaceous gland).
 
 **Myoepithelial cells** sit between secretory cells and the basement membrane and contract to expel product — visible in mammary and salivary glands.
 
@@ -125,7 +125,6 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 - Basal lamina = lamina lucida + lamina densa (type IV collagen, laminin); the reticular lamina (type III) belongs to connective tissue.
 - Microvilli = actin core, increase surface; stereocilia = long, stiff microvilli; cilia = 9 + 2 microtubules, motile.
 - Basal bodies anchor cilia and have a 9 + 0 arrangement.
-- Keratin 5/14 mark the basal layer; keratin 1/10 mark suprabasal layers.
 - Apical specializations serve absorption or movement; basal specializations anchor and receive signals.
 - Epithelia renew from stem cells: labile (gut, skin) versus stable (liver, kidney).
 
@@ -239,7 +238,7 @@ Besides fibroblasts, the resident population includes **adipocytes**, **macropha
 
 > **MNEMONIC** — **"1 bone, 2 cartilage, 3 reticulin, 4 basement membrane."**
 
-> **TIP** — The most examined distinction here is **dense regular versus dense irregular**, and the answer is one word: **direction**. Regular = parallel = tendon = one axis of force. Irregular = random = dermis = many axes.
+> **TIP** — The distinction that matters most here is **dense regular versus dense irregular**, and the answer is one word: **direction**. Regular = parallel = tendon = one axis of force. Irregular = random = dermis = many axes.
 
 ### Chapter 5 — one-line answers
 

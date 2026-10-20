@@ -41,7 +41,7 @@ Edit anything in `src/`, then re-run. Sections are concatenated in filename orde
   - **one-line answers** for the last night before an exam
   - **active-recall questions** with answers
   - one **exam-style MCQ** with a worked answer
-  - **Plates to study** — six numbered figures per chapter to find in the textbook
+  - **Plates to study** — four to six numbered figures per chapter to find in the textbook, with the subject each caption names
 - **Chapter and Page Guide** — every chapter matched to its printed page range and to the part of this book that contains it
 - **Chapter 24** — the last-24-hours rapid review: a concept map of the whole book, the organ-identification algorithm, ten master tables, 100 one-line facts, 25 distinctions that decide marks
 - **Appendices** — stains and what they prove; the vocabulary examiners expect

@@ -19,11 +19,13 @@ This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th editi
 | **MICRO** | How to recognize the tissue on an unknown slide or EM image |
 | **TIP / MNEMONIC** | Traps, confusions, and memory hooks |
 | **One-line answers** | The chapter compressed to the sentences you would write in an exam |
-| **Active recall** | Five questions to answer from memory before checking |
-| **Exam-style question** | One worked MCQ, with the reason each distractor fails |
-| **Plates to study** | Six textbook figures, with the caption subject as a self-test |
+| **Active recall** | Questions to answer from memory before checking |
+| **Exam-style question** | One worked MCQ with an explained answer |
+| **Plates to study** | Four to six textbook figures, with the caption subject as a self-test |
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This companion is designed to be read *before* those, so that when you reach them you already know the answers.
+
+**Scope and independence.** This is an independent study companion. It is not authorized, sponsored, or endorsed by the author or the publisher, it does not reproduce any plate or figure from the textbook, and it is not a substitute for the textbook or for a histology course. Figure numbers are given so that you can open the corresponding plate in your own copy.
 
 **What the CLINICAL boxes are.** Some name diseases the book itself discusses; others are standard clinical correlates that the book does not cover, included to show why the histology matters. Treat them as orientation, not as claims about the textbook's contents.
 
@@ -101,13 +103,11 @@ The headings work for almost any organ. Write them down first, then fill them in
 
 ## About the 17th Edition
 
-The seventeenth edition (2024) retains the two features that made the book a standard for decades: a **concise, straightforward text** with no unnecessary detail, and an **exceptionally clear set of photomicrographs and labeled illustrations**. For the student revising for an examination, three features matter most:
+The seventeenth edition (2024) keeps the features that make the book useful for revision: a **concise text**, **clear photomicrographs and labeled illustrations**, and a consistent chapter structure. Three features matter most for examination preparation:
 
 - **Summary of Key Points** at the end of every chapter — the author's own list of what matters.
 - **Summary Tables** in each chapter — condensed comparisons of structures that are easily confused.
 - **Medical Applications boxes** — the clinical relevance of each structure.
-
-The online version on AccessMedicine adds further multiple-choice questions, a lab guide with microscopic directions for each laboratory session, and links to virtual light microscope slides. If your library subscribes, the lab guide gives step-by-step directions for each laboratory session.
 
 > **TIP** — Where this companion and the book's *Summary of Key Points* disagree in emphasis, trust the book: it is the primary source for this companion. Use this companion for structure and recall, and the book for the final word.
 
@@ -141,3 +141,4 @@ Each chapter opens with the printed page range it condenses, so the companion an
 | 22 | The Female Reproductive System | 460–489 | V |
 | 23 | The Eye & Ear: Special Sense Organs | 490–524 | V |
 | App. | Light Microscopy Stains | 525–526 | Appendix A |
+| 24 | The Last-24-Hours Rapid Review | synthesis of Chapters 1–23 | VI |

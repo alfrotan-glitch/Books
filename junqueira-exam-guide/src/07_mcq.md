@@ -2,7 +2,7 @@
 
 ## 100 Examination Questions
 
-> **TIP** — Answer all 100 before turning to the key. Mark every guess with a dot; guesses, not errors, are what you must revise. A score of 80 or more means you are exam-ready for histology. Below 65 means go back to the tables in Part VI.
+> **TIP** — Answer all 100 before turning to the key. Mark every guess with a dot; guesses, not errors, are what you must revise. A score of 80 or more suggests that the material is secure; below 65, return to the tables in Part VI. Neither figure predicts an examination result.
 
 ### Cells and techniques (1–12)
 
@@ -500,13 +500,13 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **39. D** — Calcium binds troponin C, which moves tropomyosin and exposes the myosin-binding site. **Trap:** C is the smooth-muscle calcium sensor. A is the smooth-muscle target. B is a structural protein.
 
-**40. D** — Tight junctions are not a component of intercalated discs. **Trap:** A, B, and C are all present. Tight junctions are not a component of the intercalated disc.
+**40. D** — Intercalated discs contain fascia adherens, desmosomes, and gap junctions. **Trap:** A anchors actin, B resists shear, and C couples the cells electrically; a tight junction is not part of the disc.
 
 **41. C** — Cardiac muscle has one or two central nuclei; skeletal muscle nuclei are peripheral and multiple. Striations, myofibrils, and mitochondria are shared, so they cannot distinguish the two. **Trap:** B is shared. D and A are shared.
 
 **42. D** — Smooth muscle uses calmodulin and myosin light-chain kinase; it has no troponin. **Trap:** C refers to striated muscle. A is part of the thin filament but not the calcium sensor. B is wrong.
 
-**43. C** — In mammalian skeletal muscle, triads lie at the A–I junction; in cardiac muscle, diads lie at the Z line. **Trap:** B is cardiac diads. D is the middle of the sarcomere. A is within the B band.
+**43. C** — In mammalian skeletal muscle, triads lie at the A–I junction; in cardiac muscle, diads lie at the Z line. **Trap:** B is the site of cardiac diads. D is the middle of the sarcomere. A is the H zone, which lies inside the A band.
 
 **44. B** — Type I fibers are slow, oxidative, and fatigue-resistant. **Trap:** C is fast, oxidative-glycolytic and fatigable. D is fast glycolytic. A is wrong.
 
@@ -520,7 +520,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **49. A** — Peritubular interstitial cells of the kidney produce erythropoietin. **Trap:** D produces it in fetal life. B and C are not the main source.
 
-**50. C** — The normal M:E ratio is 2:1 to 4:1, as Chapter 13 states. **Trap:** B, D, and A are not the normal adult ratio.
+**50. C** — The normal M:E ratio is 2:1 to 4:1, as Chapter 13 states. **Trap:** A (10:1) suggests myeloid hyperplasia; B and D are not normal adult values.
 
 **51. A** — IgA is the main secretory immunoglobulin; it exists as a dimer with a secretory component. **Trap:** C crosses the placenta and dominates serum. D is the first antibody response. B mediates allergy.
 
@@ -548,7 +548,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **63. A** — Brunner glands lie in the submucosa of the duodenum. **Trap:** B, C, and D contain no Brunner glands.
 
-**64. B** — Peyer's patches are characteristic of the ileum. **Trap:** D and A have few. C has none.
+**64. B** — Peyer's patches are characteristic of the ileum. **Trap:** Peyer's patches are not a feature of the duodenum or jejunum, and the stomach has no organized lymphoid nodules of this kind.
 
 **65. A** — Paneth cells secrete lysozyme and defensins, contributing to innate immunity. **Trap:** D is goblet cells. B is G cells. C is parietal cells.
 
@@ -568,7 +568,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **73. D** — Type II pneumocytes contain lamellar bodies and secrete surfactant. **Trap:** C is the type I cell. A describes airway epithelium. B describes a macrophage.
 
-**74. A** — Clara (club) cells line bronchioles. **Trap:** C and D are lined by other cells. B is a serous membrane.
+**74. A** — Clara (club) cells line bronchioles. **Trap:** The alveoli are lined by type I and type II pneumocytes, the trachea by respiratory epithelium with goblet cells, and the pleura by mesothelium.
 
 **75. C** — Cartilage forms rings in the trachea, plates in bronchi, and is absent in bronchioles. **Trap:** B and D reverse the sequence. A is not the pattern.
 

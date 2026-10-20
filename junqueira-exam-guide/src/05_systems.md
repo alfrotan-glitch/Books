@@ -19,7 +19,7 @@ The kidney is a **countercurrent filtration and reabsorption machine** built fro
 
 ### Kidneys
 
-Each kidney is bean-shaped, with a convex lateral border and a concave medial **hilum**, which admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
+Each kidney is bean-shaped, about **12 cm long, 6 cm wide, and 2.5 cm thick** in adults, with a convex lateral border and a concave medial **hilum**, which admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
 
 - **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (the chapter summary says 8–12).
 - **Renal columns (of Bertin)** — cortical tissue between pyramids.
@@ -37,10 +37,9 @@ Each kidney is bean-shaped, with a convex lateral border and a concave medial **
 
 **Functional numbers to know:**
 
-- About **20%** of the plasma entering a glomerulus is filtered.
 - Total filtration area ≈ **500 cm²**.
-- **GFR ≈ 125 mL/min ≈ 180 L/day**.
-- Plasma volume ≈ **3 L**, so the kidneys filter the entire plasma volume about **60 times a day**.
+- **GFR ≈ 125 mL/min ≈ 180 L/day** — the book's figures.
+- Plasma volume ≈ **3 L**, so the kidneys filter a volume equal to the whole plasma volume about **60 times a day**.
 
 **Juxtaglomerular apparatus (JGA)** — at the vascular pole: **juxtaglomerular (JG) cells** in the afferent arteriole (modified smooth muscle, contain **renin**), the **macula densa** (a plaque of tall, closely packed cells in the distal straight tubule sensing NaCl), and **extraglomerular mesangial (lacis) cells**.
 
@@ -72,7 +71,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 **Urothelium is a specialized barrier, not just a stratified epithelium:**
 
 - **Umbrella cells** — large superficial cells up to **100 µm** in diameter, with **uroplakin plaques ~16 nm** across, hinged to allow unfolding as the bladder fills.
-- The empty bladder has **5–7 layers**; the full bladder has **2–3**, because intermediate cells are stretched laterally.
+- The epithelium is organized in **three layers**: superficial **umbrella cells**, an intermediate layer of cuboidal or low columnar cells (one to several deep), and a basal layer. Emptying folds the mucosa and lets umbrella cells retract folded plaques; filling flattens the cells and thins the epithelium.
 - Tight junctions plus plaques make it an osmotic barrier against hypertonic urine.
 
 **Urethra** — in both sexes lined initially by urothelium. In men there are three parts: **prostatic** (3–4 cm, urothelium), **membranous** (short, through the urogenital diaphragm; stratified or pseudostratified columnar), and **penile** (long; stratified columnar/pseudostratified proximally, stratified squamous distally). In women the urethra is **3–5 cm**, urothelium proximally, then nonkeratinized stratified squamous; the middle part is surrounded by the **external striated sphincter**. The short female urethra explains the frequency of cystitis.
@@ -89,14 +88,14 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 - Lobe = pyramid + cortex; lobule = medullary ray + surrounding cortex.
 - Cortex receives **more than 10×** the blood flow of the medulla.
 - Afferent arteriole → glomerulus → **efferent arteriole** (not a venule), keeping glomerular pressure high.
-- About **20%** of entering plasma is filtered; GFR ≈ **125 mL/min ≈ 180 L/day**.
+- Filtration area ≈ **500 cm²**; GFR ≈ **125 mL/min ≈ 180 L/day** (500 cm² and 125 mL/min are the book's figures).
 - Filtration barrier = fenestrated endothelium + **GBM (type IV collagen, ~330 nm)** + slit diaphragms (nephrin, podocalyxin).
 - Mesangial cells are contractile and support the capillary tuft.
 - **PCT**: brush border, eosinophilic, reabsorbs all glucose and small proteins.
 - **TAL**: water-impermeable, reabsorbs NaCl, ends as the **macula densa**.
 - **JG cells** in the afferent arteriole secrete **renin**; macula densa senses NaCl.
 - Collecting duct: **principal cells** (aquaporins, ADH) and **intercalated cells** (acid–base transport).
-- Urothelium: **umbrella cells** with uroplakin plaques; 5–7 layers empty, 2–3 layers full.
+- Urothelium: three layers — umbrella cells with uroplakin plaques above intermediate and basal cells; it thins as the bladder fills.
 - Bladder holds **400–600 mL**; urge at **150–200 mL**.
 - Male urethra: prostatic, membranous, penile; female urethra 3–5 cm — short, hence cystitis.
 
@@ -203,11 +202,11 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 
 ### Parathyroid Glands
 
-Four small ovoid glands, each about **3 × 6 mm** and **0.4 g** in total, usually embedded in the thyroid capsule.
+Four small ovoid glands, each about **3 × 6 mm**, with a total weight of about **0.4 g**, usually embedded in the thyroid capsule.
 
 - **Principal (chief) cells** — small, pale cells with round central nuclei, arranged in dense cords around capillaries; they secrete **PTH**.
-- **Oxyphil cells** — much larger, intensely eosinophilic cells packed with abnormal mitochondria. They are **degenerated derivatives of principal cells**, increase with age, and may retain low-level PTH synthesis.
-- With age, adipocytes replace secretory cells and can make up **more than half** the gland.
+- **Oxyphil cells** — much larger, intensely eosinophilic cells packed with abnormally shaped mitochondria. They are **degenerated derivatives of principal cells**, some still showing low-level PTH synthesis, and they accumulate with age.
+- With age, adipocytes replace secretory cells and may constitute **more than 50%** of the gland.
 - Cords and capillaries only — **no follicles**.
 
 ### Pineal Gland
@@ -408,7 +407,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-The ovary is the only adult structure that must **rebuild itself through a monthly cycle**. Every histological feature of the ovary, tube, uterus, and vagina is a stage in one of two cycles — **ovarian** (follicle to corpus luteum) and **endometrial** (proliferative to secretory) — locked together by the same four hormones.
+The ovary and the endometrium are **rebuilt through a monthly cycle**. Every histological feature of the ovary, tube, uterus, and vagina is a stage in one of two cycles — **ovarian** (follicle to corpus luteum) and **endometrial** (proliferative to secretory) — locked together by the same four hormones.
 
 ### Ovaries
 
@@ -613,7 +612,7 @@ Both organs convert a physical signal into a nerve impulse through a **specializ
 The cornea is **transparent because it is avascular and its collagen is regularly arranged**. When it becomes edematous or scarred, it loses transparency — the anatomical explanation for corneal blindness.
 
 - **Choroid** — pigmented, vascular; two layers: the inner **choroidocapillary lamina** (nourishes the outer retina) and **Bruch's membrane**, an elastin sheet between two collagen layers, next to the retinal pigment epithelium.
-- **Ciliary body** — **ciliary muscle** (three orientations; accommodation) and about **75 ciliary processes** covered by a **bilaminar epithelium**: a pigmented layer next to the stroma and a nonpigmented superficial layer. The nonpigmented cells pump aqueous humor and also secrete the **fibrillin** microfibrils of the **ciliary zonule** that suspends the lens.
+- **Ciliary body** — **ciliary muscle** (fibers in three complementary orientations; accommodation) and numerous **ciliary processes** covered by a **bilaminar epithelium**: a pigmented layer next to the stroma and a nonpigmented superficial layer. The nonpigmented cells pump aqueous humor and also secrete the **fibrillin** microfibrils of the **ciliary zonule** that suspends the lens.
 - **Iris** — a stroma with melanocytes and, posteriorly, two pigmented epithelial layers. The anterior surface has **no epithelium**, only fibroblasts and melanocytes. The **dilator pupillae** is a layer of **myoepithelial cells** (sympathetic); the **sphincter pupillae** is a circular smooth-muscle bundle near the pupil (parasympathetic).
 
 **Aqueous humor** is secreted by the ciliary processes into the **posterior chamber**, flows through the **pupil** into the **anterior chamber**, and drains at the **iridocorneal angle** through the **trabecular meshwork** into the **scleral venous sinus (canal of Schlemm)**, then into scleral veins. It has the ions of plasma but almost no protein. Blockage raises intraocular pressure — **glaucoma**; a narrow angle that closes when the pupil dilates gives **angle-closure glaucoma**.
@@ -636,7 +635,7 @@ The cornea is **transparent because it is avascular and its collagen is regularl
 
 **Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
 
-The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **macula lutea** — and its center, the **fovea centralis** — contains **no rods** and a very high density of **cones**; the overlying layers are displaced sideways so light reaches the cones with little scattering. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
+The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, at the center of the **macula lutea**, contains **no rods** and a very high density of **cones**; the overlying layers are displaced sideways so light reaches the cones with little scattering. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
 
 **Müller cells** are the principal glia — modified astrocytes whose cell bodies lie in the inner nuclear layer and whose processes span the whole retina. They provide trophic support, buffer ions and water, regulate blood flow, form the **inner limiting membrane**, and join photoreceptors by zonulae adherentes to form the **outer limiting layer**.
 
@@ -649,7 +648,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 **Inner ear** — **bony labyrinth** containing the membranous labyrinth:
 
 - **Cochlea** — a **35-mm** canal with **2¾ turns** around a bony core, the **modiolus**. It has three compartments: **scala vestibuli** (perilymph) above, **scala media / cochlear duct** (endolymph) in the middle, and **scala tympani** (perilymph) below. Vestibuli and tympani communicate at the apex through the **helicotrema**. The **vestibular (Reissner) membrane** separates vestibuli from media with tight junctions that keep the two fluids apart; the **basilar membrane** separates media from tympani.
-- The **organ of Corti** sits on the basilar membrane: **about 12,000 outer hair cells in three rows (five near the apex)** with V-shaped stereocilia bundles, and **about 3,500 inner hair cells in one row** with a linear bundle. The inner row is far more heavily innervated. **Phalangeal cells** support the hair cells and, with them, form the **apical plate**; **pillar cells** enclose the stiff **inner tunnel**. The tallest stereocilia of the outer cells are embedded in the acellular **tectorial membrane** (collagens II, V, and IX, proteoglycans, and tectorin).
+- The **organ of Corti** sits on the basilar membrane: **about 12,000 outer hair cells in three rows (five near the apex)** with V-shaped stereocilia bundles, and a **single row of inner hair cells** with a linear bundle. The inner row is far more heavily innervated. **Phalangeal cells** support the hair cells and, with them, form the **apical plate**; **pillar cells** enclose the stiff **inner tunnel**. The tallest stereocilia of the outer cells are embedded in the acellular **tectorial membrane** (collagens II, V, and IX, proteoglycans, and tectorin).
 - The **stria vascularis** in the lateral wall secretes endolymph, pumping K⁺ into the lumen.
 - **Vestibule** — **utricle** and **saccule**, each with a **macula** containing hair cells and otoliths (gravity and linear acceleration).
 - **Semicircular canals** — **cristae ampullares** with hair cells in a cupula (rotational acceleration).
@@ -677,7 +676,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 - Phototransduction: retinal isomerization → transducin → phosphodiesterase → cGMP falls → channels close → hyperpolarization.
 - The RPE absorbs light, forms the blood–retina barrier, phagocytoses discs, and regenerates 11-cis-retinal.
 - Endolymph is high-K⁺; perilymph resembles CSF.
-- Organ of Corti: about 12,000 outer hair cells in 3–5 rows and 3,500 inner hair cells in one row.
+- Organ of Corti: about 12,000 outer hair cells in 3–5 rows and a single row of inner hair cells.
 - Maculae sense gravity and linear acceleration; cristae sense rotation; the cochlea hears.
 
 ### Active recall

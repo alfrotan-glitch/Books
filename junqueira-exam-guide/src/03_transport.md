@@ -15,7 +15,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-The circulatory system pumps and directs blood cells and substances to all tissues, and in an adult the total length of its vessels is estimated at **100,000–150,000 km**. Every vessel in the body is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
+The circulatory system pumps and directs blood cells and substances to all tissues, and in an adult the total length of its vessels is estimated at **100,000–150,000 km**. Almost every vessel is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
 
 ### Heart
 
@@ -415,7 +415,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 
 ### Mucosa-Associated Lymphoid Tissue
 
-**Tonsils** (palatine, lingual, pharyngeal/adenoid, tubal) — no capsule, no afferent lymphatics, epithelium invaginates into crypts. **Peyer's patches** in the ileum; **appendix**; **MALT** throughout the gut, respiratory tract, and genitourinary tract.
+**Tonsils** (palatine, lingual, pharyngeal/adenoid, tubal) — a partial capsule (hemicapsule), no afferent lymphatics, epithelium invaginates into crypts. **Peyer's patches** in the ileum; **appendix**; **MALT** throughout the gut, respiratory tract, and genitourinary tract.
 
 ### Lymph Nodes
 

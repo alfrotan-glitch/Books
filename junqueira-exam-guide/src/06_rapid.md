@@ -2,7 +2,7 @@
 
 ## 24 · The Last-24-Hours Rapid Review
 
-> **PEARL** — This chapter is designed to be read in one sitting, twice. Read it once slowly, then again out loud. Everything in it is either a rule that generates other facts or a fact that is asked almost every year.
+> **PEARL** — This chapter is designed to be read in one sitting, twice. Read it once slowly, then again out loud. Everything in it is either a rule that generates other facts or a fact worth being able to state from memory.
 
 ### The book as a concept map
 
@@ -50,7 +50,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 **Step 2 — What is the epithelium?**
 - **Stratified squamous** → esophagus, oral cavity, vagina, anal canal, epidermis (no lumen).
 - **Simple columnar with crypts** → stomach, intestine, gallbladder, uterus.
-- **Pseudostratified ciliated** → respiratory tract, epididymis, vas deferens.
+- **Pseudostratified ciliated** → respiratory tract. **Pseudostratified with stereocilia** → epididymis, vas deferens.
 - **Transitional** → ureter, bladder, renal pelvis.
 - **Simple cuboidal/columnar tubules** → kidney, salivary ducts, epididymis.
 
@@ -68,7 +68,8 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | Simple squamous | Alveoli, endothelium, mesothelium, Bowman capsule |
 | Simple cuboidal | Kidney tubules, thyroid follicles, small ducts, ovary surface |
 | Simple columnar | Stomach, intestine, gallbladder, uterine tube |
-| Pseudostratified ciliated | Trachea, bronchi, nasal cavity, epididymis, vas deferens |
+| Pseudostratified ciliated | Trachea, bronchi, nasal cavity |
+| Pseudostratified with stereocilia | Epididymis, vas deferens |
 | Stratified squamous keratinized | Epidermis |
 | Stratified squamous non-keratinized | Oral cavity, esophagus, vagina, cornea, anal canal |
 | Transitional | Renal pelvis, ureter, bladder, proximal urethra |
@@ -93,7 +94,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | Junctions | — | **Intercalated discs** | Gap junctions |
 | T-tubules | Triads at A–I | Diads at Z | Caveolae |
 | Ca²⁺ sensor | Troponin C | Troponin C | **Calmodulin** |
-| Regeneration | Limited (satellite) | **None** | Hyperplasia |
+| Regeneration | Limited (satellite) | **None** | Hypertrophy/hyperplasia |
 
 **4. Cartilage**
 
@@ -130,7 +131,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | Thymus | **No** | No | **Hassall corpuscles** |
 | Lymph node | Yes | **Yes** | Cortex/paracortex/medulla |
 | Spleen | Yes | **No** | White + red pulp |
-| Tonsil | Yes | No | Crypts, no capsule |
+| Tonsil | Yes | No | Crypts, partial capsule |
 
 **8. Gut segments**
 
@@ -139,7 +140,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | Esophagus | Stratified squamous, skeletal muscle above |
 | Stomach | **Three muscle layers**, parietal + chief cells, no goblet |
 | Duodenum | **Brunner glands (submucosa)** |
-| Jejunum | Tallest villi, no Brunner, no Peyer |
+| Jejunum | Tallest villi; no Brunner glands; Peyer's patches belong to the ileum |
 | Ileum | **Peyer's patches** |
 | Colon | **No villi**, crypts, many goblet, taeniae |
 | Appendix | Lymphoid tissue all round, blind tube |
@@ -195,7 +196,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 26. Apoptosis = no inflammation.
 27. Labile tissue = epidermis, gut, marrow; permanent = neurons, cardiac muscle.
 28. Epithelium is avascular.
-29. Basement membrane = lamina lucida, densa, reticularis.
+29. Basal lamina = lamina lucida + lamina densa; the basement membrane adds the reticular lamina (type III collagen).
 30. Type IV collagen is in the basal lamina.
 31. Desmosomes link to keratin; hemidesmosomes to laminin via integrin.
 32. E-cadherin is calcium-dependent.
@@ -207,7 +208,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 38. Transitional epithelium has umbrella cells and uroplakins.
 39. Goblet cell = unicellular mucous gland.
 40. Sebaceous gland = holocrine.
-41. Mammary gland = apocrine.
+41. Mammary gland = modified apocrine gland; lipid by apocrine secretion, protein by merocrine secretion.
 42. Pancreas = merocrine.
 43. Myoepithelial cells compress acini.
 44. Collagen synthesis needs **vitamin C** and **copper**.
@@ -331,7 +332,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 
 ### The stains the atlas uses
 
-The textbook's own appendix is short but examinable, because every plate caption in the atlas names its stain. The table below follows its list and adds the chemistry behind each stain; **Appendix A** in Part VI is the quick-recall version.
+The textbook's own appendix is short but examinable, because every plate caption in the atlas names its stain. The table below follows its list and adds the chemistry behind each stain; the table above is the quick-recall version.
 
 | Stain | Chemistry | What it stains | Why it is used |
 |---|---|---|---|

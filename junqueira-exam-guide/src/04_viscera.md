@@ -65,7 +65,7 @@ The muscularis is the examinable progression: **skeletal muscle at the superior 
 
 ### Stomach
 
-**Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
+**Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. The cardia and pylorus are **histologically similar** to each other and **lack parietal and chief cells**, secreting mucus instead. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
 
 The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus pluripotent stem cells in the neck:
 
@@ -82,7 +82,7 @@ Parietal cells are controlled both by **parasympathetic innervation** and by par
 
 ### Small Intestine
 
-The small intestine is about **5 m long**. Its absorptive surface is amplified three times: **plicae circulares** (mucosa + submucosa), **villi** (mucosa), and **microvilli** (cell surface) — the clearest "structure follows function" example in the book.
+The small intestine is about **5 m long**. Its absorptive surface is amplified at three levels: **plicae circulares** (mucosa + submucosa, about a 3-fold increase), **villi** (mucosa, about 10-fold), and **microvilli** (cell surface, a further 20-fold), for a total absorptive area of **over 200 m²** — the clearest "structure follows function" example in the book.
 
 Each **villus** is a finger of lamina propria covered by simple columnar epithelium, containing a **lacteal** and smooth muscle. Between villi, simple tubular **crypts (of Lieberkühn)** are the proliferative compartment. Smooth muscle of the lamina propria and muscularis mucosae, controlled by **Meissner's plexus**, moves the villi and propels lymph; the muscularis, controlled by **Auerbach's plexus**, produces peristalsis.
 
@@ -183,7 +183,7 @@ Four gland systems share one duct system and one embryological origin: the saliv
 
 ### Salivary Glands
 
-Three major pairs produce about **90%** of saliva; minor glands scattered through the oral mucosa produce the other **10%**. Total output is **0.75–1.5 L/day**.
+The three major pairs produce about **90%** of saliva; minor glands scattered through the oral mucosa contribute the rest. Total output is **0.75–1.5 L/day**.
 
 | Gland | Secretory units | Secretion |
 |---|---|---|
@@ -227,7 +227,7 @@ The liver is both an **endocrine** gland (plasma proteins into blood) and an **e
 
 **Functions:** carbohydrate, lipid, and protein metabolism; **albumin** and clotting factor synthesis; detoxification by SER and peroxisomes; bile production; bilirubin conjugation; storage of glycogen, iron, and vitamins A, D, and B₁₂.
 
-**Zonation.** **Zone 1** (periportal) receives the most oxygen and performs oxidative metabolism; **zone 3** (pericentral) receives the least and performs biotransformation. Zone 3 dies first in ischemia and is the site of alcoholic injury.
+**Zonation.** **Zone I** (periportal) receives the most oxygen and nutrients and performs oxidative metabolism, such as protein synthesis; **zone III** (pericentral) receives the least, and its cells are the first to accumulate fat and undergo ischemic necrosis. Zone III is also where drug biotransformation predominates — the book's basis for many patterns of hepatic injury.
 
 ### Biliary Tract & Gallbladder
 
@@ -235,7 +235,7 @@ Every bile-conducting structure after the canaliculi is lined by **cholangiocyte
 
 **Route:** canaliculi → canals of Hering → bile ductules → interlobular ducts → left and right hepatic ducts → **common hepatic duct** → **cystic duct** → gallbladder → **common bile duct** → **hepatopancreatic ampulla (of Vater)** → duodenum.
 
-The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularized lamina propria, **no muscularis mucosae and no submucosa**, and a single muscular layer. Its columnar cholangiocytes **absorb water**, concentrating bile; the muscle contracts under **cholecystokinin (CCK)** released by duodenal enteroendocrine cells when food arrives.
+The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularized lamina propria, **no muscularis mucosae or submucosa**, and a **muscularis of interwoven bundles**. Its columnar cholangiocytes **absorb water**, concentrating bile; the muscle contracts under **cholecystokinin (CCK)** released by duodenal enteroendocrine cells when food arrives.
 
 > **CLINICAL** — **Cirrhosis** is the end result of hepatocyte injury: fibrosis with regenerative nodules, portal hypertension, and synthetic failure. **Acute pancreatitis** is autodigestion by prematurely activated enzymes; **chronic pancreatitis** destroys acini and islets, producing diabetes and steatorrhea. **Carcinoma of the head of the pancreas** obstructs the common bile duct and produces painless obstructive jaundice. **Gallstones** form when bile is supersaturated with cholesterol or pigment; impaction in the cystic or common bile duct produces biliary colic and obstructive jaundice.
 
@@ -337,14 +337,14 @@ A short air passage between pharynx and trachea, with skeletal cartilages and in
 
 ### Trachea
 
-- **Epithelium** — respiratory epithelium (pseudostratified ciliated columnar with goblet cells); the trachea is **10–12 cm** long with about a dozen C-shaped rings.
+- **Epithelium** — respiratory epithelium (pseudostratified ciliated columnar with goblet cells); the trachea is **10–12 cm** long and supported by **C-shaped rings** of hyaline cartilage.
 - **Lamina propria** — elastic fibers, lymphocytes, seromucous glands.
 - **Cartilage** — **C-shaped hyaline rings**, incomplete posteriorly.
 - **Trachealis muscle** — smooth muscle bridging the posterior gap, allowing the esophagus to expand.
 
 ### Bronchial Tree & Lung
 
-**Bronchi** — the primary bronchus enters each lung and branches repeatedly. Cartilage breaks into **irregular plates** rather than rings, a complete ring of smooth muscle appears, and elastic fibers and glands persist. Each **tertiary (segmental) bronchus** with its branches forms a **bronchopulmonary segment** — about **10–12%** of a lung, with its own connective tissue capsule and blood supply.
+**Bronchi** — the primary bronchus enters each lung and branches repeatedly. Cartilage breaks into **irregular plates** rather than rings, a complete ring of smooth muscle appears, and elastic fibers and glands persist. Each **tertiary (segmental) bronchus** with its branches forms a **bronchopulmonary segment** — a pyramidal portion of lung with its own blood supply, separated from its neighbors by connective tissue septa.
 
 **Bronchioles** — airways of **1 mm or less**, formed after about the **tenth generation** of branching. They have **no cartilage and no glands**, a simple ciliated columnar or cuboidal epithelium, circular smooth muscle, and elastic fibers.
 
@@ -361,7 +361,7 @@ A short air passage between pharynx and trachea, with skeletal cartilages and in
 
 **Numbers to know:**
 
-- Each adult lung has about **200 million alveoli**, with a total internal surface area of about **75 m²**.
+- Each alveolus is about **200 µm** across. Each adult lung has about **200 million alveoli**, with a total internal surface area of about **75 m²**.
 - The **blood–air barrier** = surfactant film + **type I pneumocyte** + fused basal laminae + capillary endothelium. Its total thickness is **0.1–1.5 µm**, and the attenuated type I cytoplasm can be as thin as **25 nm**.
 - **Surfactant** is an oily mixture of **cholesterol, phospholipids, and surfactant proteins** secreted by **type II cells and club cells**. It lowers surface tension and prevents alveolar collapse at end-expiration.
 - **Pores of Kohn** — **10–15 µm** openings that connect adjacent alveoli and equalize air pressure.
@@ -378,7 +378,7 @@ A **serous membrane** of simple squamous mesothelium over connective tissue: **v
 
 Ventilation is pressure-driven: the **diaphragm** and **external intercostal muscles** enlarge the thoracic cavity, pleural pressure falls, the lung expands passively, and air enters. **Elastic recoil** of the lung and surface tension at the alveolar air–liquid interface drive expiration — precisely why surfactant deficiency causes collapse.
 
-> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane, and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection. **Lung cancer** — the book names three types: **squamous cell carcinoma** (smoking-related, arises in segmental bronchi), **adenocarcinoma** (commonest in non-smokers, arises peripherally in bronchioles and alveoli), and **small cell carcinoma** (less common, highly malignant).
+> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane, and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection. **Lung cancer** — the book names three types: **squamous cell carcinoma** (smoking-related, arises in segmental bronchi), **adenocarcinoma** (commonest in non-smokers, arises peripherally in bronchioles and alveoli), and **small cell carcinoma** (less common, highly malignant, arising from small granule Kulchitsky cells of the bronchial epithelium).
 
 > **MICRO** — Walk down the tree and count what disappears. **Cartilage rings + glands = trachea. Cartilage plates + no glands = bronchus. No cartilage, no glands, muscular wall = bronchiole.** Then look for alveoli in the wall: if present, it is a respiratory bronchiole.
 
@@ -465,7 +465,7 @@ Keratin filaments contain at least **six polypeptides of 40–70 kDa**, synthesi
 
 **Melanocytes** — about **one per five or six keratinocytes** (**600–1200/mm²** of thin skin), with processes reaching **10–30 keratinocytes**. **Tyrosinase** converts tyrosine to DOPA and then to **eumelanin** (brown-black) or **pheomelanin** (red-yellow). Mature melanosomes are ellipsoid, **0.5 × 1 µm**, and are transferred to keratinocytes, which hold more pigment than the cells that make it. The pigment sits over the nucleus and **protects nuclear DNA from UV damage** — the reason tanning exists and the reason melanoma risk tracks sun exposure. One melanocyte plus its keratinocytes is an **epidermal-melanin unit**. Melanocytes are about **four times more numerous and active in thin skin** than in thick palmar and plantar skin.
 
-**The race-and-melanin rule:** densities of epidermal-melanin units are **similar in all individuals**; what differs is how rapidly melanin is made and how abundantly it accumulates in keratinocytes. Dark skin is not skin with more melanocytes.
+**The melanin rule:** densities of epidermal-melanin units are **similar across populations**; what differs is how rapidly melanin is made and how abundantly it accumulates in keratinocytes. Dark skin is not skin with more melanocytes.
 
 ### Dermis
 

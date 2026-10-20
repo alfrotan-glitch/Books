@@ -13,7 +13,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Cartilage is a **tough, resilient** connective tissue whose **ECM** — collagen plus proteoglycan and water — is the bulk of the tissue. **Fibroblasts** of the perichondrium, not chondrocytes, produce its outer fibrous layer. Cartilage structurally supports soft tissues — notably in the respiratory tract — and provides **cushioned, low-friction surfaces in joints**. Chondrocytes are a small percentage of the tissue's mass, which is mainly a flexible extracellular matrix of collagen plus abundant proteoglycans, notably **aggrecan**, which binds a large amount of water. **Cartilage always lacks blood vessels, lymphatics, and nerves**, but usually has a vascularized **perichondrium** of dense connective tissue. It is **avascular and aneural**, which explains both its durability under load and its disastrously poor healing.
+Cartilage is a **tough, resilient** connective tissue in which the extracellular matrix — collagen, proteoglycans, and water — is the bulk of the tissue; **chondrocytes** occupy only a small fraction of its volume, sitting in lacunae. **Aggrecan** binds a large amount of water, giving the matrix its compressive resilience. Cartilage supports soft tissues, notably in the respiratory tract, and provides **cushioned, low-friction surfaces in joints**. It is **avascular and aneural** — no blood vessels, lymphatics, or nerves — and is usually surrounded by a vascularized **perichondrium** of dense connective tissue whose fibroblasts form its outer fibrous layer. The absence of vessels explains both its durability under load and its poor healing.
 
 ### The shared architecture
 
