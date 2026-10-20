@@ -81,7 +81,7 @@ Begins as blind-ended **lymphatic capillaries** with overlapping endothelial fla
 ### Active recall
 
 1. **Three layers of a vessel wall, outside in?** — Tunica adventitia, tunica media, tunica intima.
-2. **Which vessel has the thickest media relative to its lumen?** — The muscular artery; an arteriole has only one or two smooth-muscle layers.
+2. **Which vessel has a media of only one or two smooth-muscle layers and controls peripheral resistance?** — The arteriole.
 3. **Which capillary type is fenestrated, and where is it found?** — Fenestrated capillaries are in endocrine glands, gut mucosa, and kidney; they allow rapid exchange.
 4. **What distinguishes a vein from an artery in section?** — Veins have a larger, often collapsed lumen and a thinner wall with less muscle; valves are present in medium veins.
 5. **Where does lymph begin and end?** — Blind-ended lymphatic capillaries in tissue; it drains through nodes to the thoracic duct and into the subclavian vein.
@@ -150,17 +150,17 @@ On clotting, some proteins are consumed and others are released from platelets, 
 - Shape maintained by **spectrin and ankyrin**; defects produce hereditary spherocytosis.
 - **Hemoglobin** — four globin chains, each with a heme group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
-- **Hematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood (supplementary standard value, not stated in the chapter).
+- **Hematocrit** — the sedimented erythrocyte column — is about **44% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood.
 
-**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). Diameters are typical values: the chapter gives **12–15 µm** for the three granulocytes, while the lymphocyte and monocyte ranges are standard reference values.
+**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). All three granulocytes are **12–15 µm**. The smallest lymphocytes are about the size of a red cell, and medium and large lymphocytes are **9–18 µm**; monocytes are **12–20 µm**.
 
 | Cell | % of WBC | Size | Nucleus | Cytoplasm | Main function |
 |---|---|---|---|---|---|
-| **Neutrophil** | **60–70%** | **12–15 µm** | **3–5 lobes**, dense | Pale; fine granules | **Phagocytosis of bacteria**; the acute responder |
+| **Neutrophil** | **50–70%** | **12–15 µm** | **3–5 lobes**, dense | Pale; fine granules | **Phagocytosis of bacteria**; the acute responder |
 | **Eosinophil** | **1–4%** | **12–15 µm** (neutrophil-sized or slightly larger) | **Bilobed** | **Bright orange-red** granules | **Parasites and allergy**; major basic protein |
 | **Basophil** | **0.5–1%** | **12–15 µm** | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
-| **Lymphocyte** | **about one-third** | **6–15 µm** (small, medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
-| **Monocyte** | **3–8%** | **14–20 µm** (largest) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
+| **Lymphocyte** | **20–40%** | smallest ≈ red cell; **9–18 µm** (medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
+| **Monocyte** | **2–8%** | **12–20 µm** (largest) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
 
 **Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
@@ -192,7 +192,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 
 1. **How does serum differ from plasma?** — Serum is plasma after clotting, so it lacks fibrinogen and consumed clotting factors.
 2. **Normal erythrocyte dimensions and lifespan?** — About 7.5 µm diameter, biconcave with a 2.6-µm rim, circulating about 120 days.
-3. **Which leukocyte is most numerous, and which is largest?** — Neutrophils (~60–70%); monocytes are the largest.
+3. **Which leukocyte is most numerous, and which is largest?** — Neutrophils (~50–70%); monocytes are the largest.
 4. **What do eosinophil granules contain?** — Major basic protein and eosinophil cationic protein, active against parasites and in allergy.
 5. **What are the four steps of hemostasis?** — Vascular spasm, primary hemostasis (platelet plug), coagulation (fibrin clot), and clot retraction with repair.
 
@@ -264,13 +264,13 @@ Between the trabeculae lie **hemopoietic cords** and **sinusoids** with a discon
 
 **Proerythroblast → basophilic → polychromatophilic → orthochromatophilic erythroblast → reticulocyte → erythrocyte**, developing in **erythropoietic islands or cords**. The names track the cytoplasm's transition from **RNA-rich to hemoglobin-filled**; at the last stage the nucleus is **extruded**, producing a **reticulocyte** that still contains some polyribosomes when released into the circulation.
 
-The cell **shrinks**, the nucleus **condenses and is extruded**, hemoglobin accumulates so the cytoplasm shifts from blue to pink, and the nucleolus disappears. The sequence takes about **5–7 days**. EPO drives it; iron, vitamin B₁₂, and folate are required.
+The cell **shrinks**, the nucleus **condenses and is extruded**, hemoglobin accumulates so the cytoplasm shifts from blue to pink, and the nucleolus disappears. The sequence takes about **a week**. EPO drives it; iron, vitamin B₁₂, and folate are required.
 
 ### Maturation of Granulocytes
 
 **Myeloblast → promyelocyte → myelocyte → metamyelocyte → band cell → segmented neutrophil (or eosinophil/basophil).**
 
-The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**, **lymphoblast**, **proerythroblast**), **-cyte** = the later, non-dividing cell (**myelocyte**, **lymphocyte**, **reticulocyte**); **thrombocyte** is another name for the platelet.
+The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**, **lymphoblast**, **proerythroblast**), **-cyte** = the later, maturing cell (**myelocyte**, **lymphocyte**, **reticulocyte**); the suffix does not by itself mean post-mitotic, because **myelocytes still divide**; **thrombocyte** is another name for the platelet.
 
 **Primary (azurophilic) granules** appear at the promyelocyte stage, **specific granules** at the myelocyte stage, the nucleus indents at the metamyelocyte stage, and becomes a **C-shaped band** before segmenting. A **left shift** — more band forms and younger cells in the peripheral blood — indicates accelerated production: immature neutrophils, chiefly **band (stab) cells**, are released prematurely when the circulating neutrophil pool is depleted by bacterial infection.
 

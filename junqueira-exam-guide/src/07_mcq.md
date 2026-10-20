@@ -510,7 +510,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **44. B** — Type I fibers are slow, oxidative, and fatigue-resistant. **Trap:** C is fast, oxidative-glycolytic and fatigable. D is fast glycolytic. A is wrong.
 
-**45. A** — Neutrophils constitute 60–70% of circulating leukocytes. **Trap:** D is second in adults. B and C are minorities.
+**45. A** — Neutrophils constitute 50–70% of circulating leukocytes. **Trap:** D is second in adults. B and C are minorities.
 
 **46. A** — The eosinophil has a bilobed nucleus and bright orange-red granules. **Trap:** C has basophilic granules. D has a multilobed nucleus and pale granules. B is agranular and larger.
 

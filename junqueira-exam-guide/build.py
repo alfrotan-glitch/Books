@@ -426,16 +426,29 @@ def group_blocks(blocks):
     """Keep a heading, its intro, and its bullets on one page when they fit.
 
     The 'Plates to study' lists at the end of each chapter are short; without this
-    they can leave a heading and one orphaned bullet on a page of their own.
+    they can leave a heading and one orphaned bullet on a page of their own. The
+    'Exam-style question' heading is likewise kept with its vignette and answer.
     """
     out = []
     i = 0
     while i < len(blocks):
         b = blocks[i]
-        if b[0] == "h3" and b[1].strip().lower().startswith("plates to study"):
+        head = b[1].strip().lower() if b[0] == "h3" else ""
+        if head.startswith("plates to study"):
             group = [b]
             j = i + 1
             while j < len(blocks) and blocks[j][0] in ("para", "bullet"):
+                group.append(blocks[j])
+                j += 1
+            out.append(("keep", group))
+            i = j
+            continue
+        if head.startswith("exam-style question"):
+            # Keep the heading with its vignette, options and answer so the
+            # heading is never stranded at the foot of a page.
+            group = [b]
+            j = i + 1
+            while j < len(blocks) and blocks[j][0] in ("para", "bullet", "num"):
                 group.append(blocks[j])
                 j += 1
             out.append(("keep", group))

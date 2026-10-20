@@ -24,7 +24,7 @@ Cartilage is a **tough, resilient** connective tissue in which the extracellular
 
 ### Hyaline Cartilage
 
-The commonest type and the template for most of the fetal skeleton. Glassy, homogeneous matrix; **collagen makes up 40% of hyaline cartilage's dry weight**, all of it embedded in a hydrated gel of proteoglycans and structural glycoproteins, with more proteoglycan and less collagen immediately around the lacunae (the **territorial matrix**). Perichondrium is present except on **articular surfaces** and the epiphyses of growing long bones, where it forms the smooth, low-friction bearing surface of joints. Found in the **trachea, bronchi, nose, ribs, epiphyseal plate, and articular surfaces**.
+The commonest type and the template for most of the fetal skeleton. Glassy, homogeneous matrix; **collagen makes up 40% of hyaline cartilage's dry weight**, all of it embedded in a hydrated gel of proteoglycans and structural glycoproteins, with more proteoglycan and less collagen immediately around the lacunae (the **territorial matrix**). Perichondrium is present except on **articular surfaces** and the epiphyses of growing long bones, where the cartilage itself forms the smooth, low-friction bearing surface of joints. Found in the **trachea, bronchi, nose, ribs, epiphyseal plate, and articular surfaces**.
 
 ### Elastic Cartilage
 

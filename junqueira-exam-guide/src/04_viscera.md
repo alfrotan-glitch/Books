@@ -233,7 +233,7 @@ The liver is both an **endocrine** gland (plasma proteins into blood) and an **e
 
 Every bile-conducting structure after the canaliculi is lined by **cholangiocytes** — simple cuboidal or columnar epithelium.
 
-**Route:** canaliculi → canals of Hering → bile ductules → interlobular ducts → left and right hepatic ducts → **common hepatic duct** → **cystic duct** → gallbladder → **common bile duct** → **hepatopancreatic ampulla (of Vater)** → duodenum.
+**Route:** canaliculi → canals of Hering → bile ductules → interlobular ducts → left and right hepatic ducts → **common hepatic duct** → **cystic duct** → gallbladder → **cystic duct** → **common bile duct** → **hepatopancreatic ampulla (of Vater)** → duodenum.
 
 The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularized lamina propria, **no muscularis mucosae or submucosa**, and a **muscularis of interwoven bundles**. Its columnar cholangiocytes **absorb water**, concentrating bile; the muscle contracts under **cholecystokinin (CCK)** released by duodenal enteroendocrine cells when food arrives.
 
@@ -266,7 +266,7 @@ The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularize
 1. **Which salivary gland is purely serous?** — The parotid. Submandibular is mixed, mainly serous; sublingual is mixed, mainly mucous.
 2. **What do striated ducts do?** — Reabsorb Na⁺ and Cl⁻ and add HCO₃⁻, making saliva hypotonic.
 3. **What do centroacinar cells secrete, and under what hormone?** — Bicarbonate-rich fluid, under secretin.
-4. **Trace bile from canaliculus to duodenum.** — Canaliculi → canals of Hering → bile ductules → interlobular ducts → hepatic ducts → common hepatic duct → cystic duct → gallbladder → common bile duct → hepatopancreatic ampulla.
+4. **Trace bile from canaliculus to duodenum.** — Canaliculi → canals of Hering → bile ductules → interlobular ducts → hepatic ducts → common hepatic duct → cystic duct → gallbladder → cystic duct → common bile duct → hepatopancreatic ampulla.
 5. **Which way does blood flow in a hepatic lobule?** — From portal areas at the periphery toward the central vein.
 
 ### Exam-style question

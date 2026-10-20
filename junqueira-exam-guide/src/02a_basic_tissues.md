@@ -106,7 +106,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 
 > **CLINICAL** — Epithelial junctions are the target of autoimmune blistering. In **pemphigus vulgaris**, antibodies against **desmoglein** break desmosomes, so the epidermis detaches *within* the epithelium and thin-walled blisters form. In **bullous pemphigoid**, antibodies against **hemidesmosomal** antigens split the epidermis from the basement membrane and the blister is thick-walled and tense. The level of the split is dictated by which junction fails.
 
-> **MICRO** — Count nuclei, not cells. More than one nuclear level with a flat continuous surface = stratified. Then the top layer: **flat and anucleate** = keratinized; **flat with nuclei** = non-keratinized; **dome-shaped and large** = transitional; **tall with cilia** = respiratory.
+> **MICRO** — Count layers, not nuclei. If every cell rests on the basement membrane and only the nuclei sit at different heights, the epithelium is **pseudostratified** — tall, ciliated, respiratory. If cells are stacked on one another, it is **stratified**. Then the top layer: **flat and anucleate** = keratinized; **flat with nuclei** = non-keratinized; **dome-shaped and large** = transitional; **tall with cilia** = respiratory.
 
 > **MNEMONIC** — **"Simple for exchange, stratified for stress, transitional for stretch."** For cilia, remember **9 + 2 moves, 9 + 0 anchors.**
 
