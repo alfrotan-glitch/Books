@@ -107,7 +107,7 @@ Ch 5 · Fibroblast / fibrocyte — Function?,"Synthesizes collagen, elastin, GAG
 Ch 5 · Fibroblast / fibrocyte — Identifying feature?,"Elongated, pale, abundant RER; myofibroblast also has actin for wound contraction",Junqueira::Ch05 tables,basic
 Ch 5 · Macrophage — Origin?,Monocyte,Junqueira::Ch05 tables,basic
 Ch 5 · Macrophage — Function?,"Phagocytosis, antigen presentation, cytokines",Junqueira::Ch05 tables,basic
-Ch 5 · Macrophage — Identifying feature?,"Irregular, abundant lysosomes; Kupffer cell in liver, microglia in CNS, Langerhans cell in epidermis, osteoclast in bone",Junqueira::Ch05 tables,basic
+Ch 5 · Macrophage — Identifying feature?,"Irregular, abundant lysosomes; Kupffer cell in liver, microglia in CNS, osteoclast in bone (a fused macrophage)",Junqueira::Ch05 tables,basic
 Ch 5 · Mast cell — Origin?,Bone marrow,Junqueira::Ch05 tables,basic
 Ch 5 · Mast cell — Function?,Releases histamine and heparin; IgE-mediated allergy,Junqueira::Ch05 tables,basic
 Ch 5 · Mast cell — Identifying feature?,"Round, many dark granules; degranulates on IgE cross-linking",Junqueira::Ch05 tables,basic
@@ -232,7 +232,7 @@ How does serum differ from plasma?,"Serum is plasma after clotting, so it lacks 
 Normal erythrocyte dimensions and lifespan?,"About 7.5 µm diameter, biconcave with a 2.6-µm rim, circulating about 120 days.",Junqueira::Ch12 recall,basic
 "Which leukocyte is most numerous, and which is largest?",Neutrophils (~60–70%); monocytes are the largest.,Junqueira::Ch12 recall,basic
 What do eosinophil granules contain?,"Major basic protein and eosinophil cationic protein, active against parasites and in allergy.",Junqueira::Ch12 recall,basic
-What are the three steps of hemostasis?,"Vascular spasm, platelet plug formation, and coagulation (fibrin clot).",Junqueira::Ch12 recall,basic
+What are the four steps of hemostasis?,"Vascular spasm, primary hemostasis (platelet plug), coagulation (fibrin clot), and clot retraction with repair.",Junqueira::Ch12 recall,basic
 Ch 12 · Plasma proteins — Share?,~7% of plasma,Junqueira::Ch12 tables,basic
 Ch 12 · Plasma proteins — Job?,Buffer pH; maintain osmotic pressure,Junqueira::Ch12 tables,basic
 Ch 12 · Regulatory proteins — Share?,>1% of plasma protein,Junqueira::Ch12 tables,basic
@@ -298,8 +298,8 @@ Ch 15 · Parietal (oxyntic) — Function?,"Large cell, many mitochondria, intrac
 Ch 15 · Chief (zymogenic) — Location?,Deeper half of gland,Junqueira::Ch15 tables,basic
 Ch 15 · Chief (zymogenic) — Product?,Pepsinogen,Junqueira::Ch15 tables,basic
 Ch 15 · Chief (zymogenic) — Function?,Activated to pepsin by luminal acid; basophilic with apical zymogen granules,Junqueira::Ch15 tables,basic
-Ch 15 · Mucous neck — Product?,Less alkaline mucus,Junqueira::Ch15 tables,basic
-Ch 15 · Mucous neck — Function?,Immature precursors that migrate up into the pits,Junqueira::Ch15 tables,basic
+Ch 15 · Mucous neck — Product?,Mucus (less alkaline than surface mucus),Junqueira::Ch15 tables,basic
+Ch 15 · Mucous neck — Function?,Secretion; the proliferative stem-cell zone lies among them,Junqueira::Ch15 tables,basic
 Ch 15 · Surface mucous — Location?,Surface and pits,Junqueira::Ch15 tables,basic
 Ch 15 · Surface mucous — Product?,Viscous mucus + bicarbonate,Junqueira::Ch15 tables,basic
 Ch 15 · Surface mucous — Function?,The barrier that protects the mucosa,Junqueira::Ch15 tables,basic
@@ -377,7 +377,7 @@ Ch 18 · Krause end bulb — Structure?,Thin collagenous capsule,Junqueira::Ch18
 Ch 18 · Krause end bulb — Modality?,Low-frequency vibration,Junqueira::Ch18 tables,basic
 Ch 18 · Ruffini corpuscle — Location?,Dermis,Junqueira::Ch18 tables,basic
 Ch 18 · Ruffini corpuscle — Structure?,Fusiform capsule anchored to collagen,Junqueira::Ch18 tables,basic
-Ch 18 · Ruffini corpuscle — Modality?,Stretch (tension) and twisting,Junqueira::Ch18 tables,basic
+Ch 18 · Ruffini corpuscle — Modality?,Tissue distortion and sustained stretch,Junqueira::Ch18 tables,basic
 "Which nephron segment is most eosinophilic, and why?",The proximal convoluted tubule: abundant mitochondria and a brush border for active reabsorption.,Junqueira::Ch19 recall,basic
 What are the three layers of the filtration barrier?,"Fenestrated endothelium, glomerular basement membrane, and podocyte slit diaphragms.",Junqueira::Ch19 recall,basic
 "What does the macula densa sense, and what does the JGA release?",NaCl concentration; juxtaglomerular cells release renin.,Junqueira::Ch19 recall,basic
@@ -437,7 +437,7 @@ Ch 21 · Ejaculatory duct — Epithelium?,Columnar,Junqueira::Ch21 tables,basic
 Ch 21 · Ejaculatory duct — Function?,Delivers into the prostatic urethra,Junqueira::Ch21 tables,basic
 "Which cells produce estrogen, and from what precursor?",Granulosa cells aromatize androgens from theca interna cells.,Junqueira::Ch22 recall,basic
 "What is released at ovulation, and at what meiotic stage?","The secondary oocyte, arrested in metaphase II, with the corona radiata.",Junqueira::Ch22 recall,basic
-What prevents polyspermy?,Cortical granule exocytosis modifies the zona pellucida into the vitelline barrier.,Junqueira::Ch22 recall,basic
+What prevents polyspermy?,Cortical granule exocytosis modifies the zona pellucida into the perivitelline barrier.,Junqueira::Ch22 recall,basic
 Which hormone maintains the corpus luteum early in pregnancy?,hCG.,Junqueira::Ch22 recall,basic
 How do proliferative and secretory endometrium differ?,"Proliferative: straight narrow glands, mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.",Junqueira::Ch22 recall,basic
 "Ch 22: Cervix: columnar endocervix, stratified squamous ectocervix, squamocolumnar junction?",transformation zone.,Junqueira::Ch22 facts,basic

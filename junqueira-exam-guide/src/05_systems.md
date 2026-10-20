@@ -19,9 +19,9 @@ The kidney is a **countercurrent filtration and reabsorption machine** built fro
 
 ### Kidneys
 
-Each kidney is bean-shaped, with a convex lateral border and a concave medial **hilum**. on the medial border admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
+Each kidney is bean-shaped, with a convex lateral border and a concave medial **hilum**, which admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
 
-- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (commonly quoted as 8–12).
+- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (the chapter summary says 8–12).
 - **Renal columns (of Bertin)** — cortical tissue between pyramids.
 - **Lobe** = pyramid + overlying cortex; **lobule** = a medullary ray + the cortical tissue around it.
 - **Papilla** → minor calyx → major calyx → renal pelvis → ureter.
@@ -436,7 +436,7 @@ Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thi
 - **Granulosa-lutein cells** — the old granulosa cells; they enlarge to **20–35 µm** without dividing, make up about **80%** of the gland, and secrete **progesterone** (their SER expands, and they retain some aromatase).
 - **Theca-lutein cells** — from the theca interna; about **half the size**, darker staining, lying in the peripheral folds, and secreting **androstenedione** and **estrogens**.
 
-The LH surge sustains progesterone secretion for **10–12 days**. Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
+The LH surge sustains progesterone secretion for **10–12 days**. (The chapter summary reverses the two cell types, giving estrogen to the granulosa-lutein cells; the body text and Figure 22–12, followed here, give progesterone to the granulosa-lutein cells and estrogens to the theca-lutein cells.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
 
 **The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3**, all made by the oocyte, form the sperm-binding receptor; binding of a capacitated sperm to this coat begins the acrosomal reaction. The book's Summary of Key Points calls them "ZO proteins" — the body text and Figure 22–6 give ZP, and the figure notes four related glycoproteins.
 
@@ -550,7 +550,7 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 
 1. **Which cells produce estrogen, and from what precursor?** — Granulosa cells aromatize androgens from theca interna cells.
 2. **What is released at ovulation, and at what meiotic stage?** — The secondary oocyte, arrested in metaphase II, with the corona radiata.
-3. **What prevents polyspermy?** — Cortical granule exocytosis modifies the zona pellucida into the vitelline barrier.
+3. **What prevents polyspermy?** — Cortical granule exocytosis modifies the zona pellucida into the perivitelline barrier.
 4. **Which hormone maintains the corpus luteum early in pregnancy?** — hCG.
 5. **How do proliferative and secretory endometrium differ?** — Proliferative: straight narrow glands, mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.
 

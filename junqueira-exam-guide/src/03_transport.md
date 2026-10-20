@@ -146,9 +146,9 @@ On clotting, some proteins are consumed and others are released from platelets, 
 **Erythrocytes**
 
 - **Biconcave disc**, **7.5 µm** in diameter, **2.6 µm** thick at the rim but only **0.75 µm** at the center — flexible enough to pass small capillaries; **no nucleus, no organelles**, so the cell is packed with hemoglobin.
-- Lifespan about **120 days**; removed by splenic macrophages; the globin is recycled and the hem converted to bilirubin.
+- Lifespan about **120 days**; removed by splenic macrophages; the globin is recycled and the heme converted to bilirubin.
 - Shape maintained by **spectrin and ankyrin**; defects produce hereditary spherocytosis.
-- **Hemoglobin** — four globin chains, each with a hem group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
+- **Hemoglobin** — four globin chains, each with a heme group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
 - **Hematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood (supplementary standard value, not stated in the chapter).
 
@@ -194,7 +194,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 2. **Normal erythrocyte dimensions and lifespan?** — About 7.5 µm diameter, biconcave with a 2.6-µm rim, circulating about 120 days.
 3. **Which leukocyte is most numerous, and which is largest?** — Neutrophils (~60–70%); monocytes are the largest.
 4. **What do eosinophil granules contain?** — Major basic protein and eosinophil cationic protein, active against parasites and in allergy.
-5. **What are the three steps of hemostasis?** — Vascular spasm, platelet plug formation, and coagulation (fibrin clot).
+5. **What are the four steps of hemostasis?** — Vascular spasm, primary hemostasis (platelet plug), coagulation (fibrin clot), and clot retraction with repair.
 
 ### Exam-style question
 
@@ -272,7 +272,7 @@ The cell **shrinks**, the nucleus **condenses and is extruded**, hemoglobin accu
 
 The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**, **lymphoblast**, **proerythroblast**), **-cyte** = the later, non-dividing cell (**myelocyte**, **lymphocyte**, **reticulocyte**); **thrombocyte** is another name for the platelet.
 
-**Primary (azurophilic) granules** appear at the promyelocyte stage, **specific granules** at the myelocyte stage, the nucleus indents at the metamyelocyte stage, and becomes a **C-shaped band** before segmenting. A **left shift** — more bands and younger forms in the peripheral blood — indicates accelerated production: immature neutrophilic metamyelocytes called **band (stab) cells** are released prematurely when the circulating neutrophil compartment is depleted by bacterial infection.
+**Primary (azurophilic) granules** appear at the promyelocyte stage, **specific granules** at the myelocyte stage, the nucleus indents at the metamyelocyte stage, and becomes a **C-shaped band** before segmenting. A **left shift** — more band forms and younger cells in the peripheral blood — indicates accelerated production: immature neutrophils, chiefly **band (stab) cells**, are released prematurely when the circulating neutrophil pool is depleted by bacterial infection.
 
 ### Maturation of Agranulocytes
 
@@ -358,7 +358,7 @@ The book's one-line definition is worth memorizing: innate immunity is present f
 
 ### Cytokines
 
-**Polypeptide hormones of the immune system** — the book's phrase — secreted by immune cells to regulate one another. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their Storm-like excess produces the systemic inflammatory response.
+**Polypeptide hormones of the immune system** — the book's phrase — secreted by immune cells to regulate one another. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their excessive release produces a cytokine storm and the systemic inflammatory response.
 
 ### Antigens & Antibodies
 
@@ -433,7 +433,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 - **White pulp** — lymphocytes around a central arteriole: the **periarteriolar lymphoid sheath (PALS)** is the T-cell zone; follicles at its periphery are the B-cell zone.
 - **Red pulp** — **cords of Billroth** and **sinusoids** whose elongated endothelial **stave cells** are separated by narrow slits.
 - **Two routes through the red pulp.** In the **closed circulation**, capillaries from the penicillar arterioles connect directly to sinusoids. In the **open circulation** (about half of the penicillar arterioles), capillaries are open-ended and dump blood into the splenic cords, so plasma and cells must squeeze between stave cells to re-enter the vasculature. Platelets, motile leukocytes, and thin flexible erythrocytes pass; **stiff or swollen erythrocytes at the end of their 120-day life are blocked and removed by macrophages**.
-- **Iron recycling.** Iron released from **hemoglobin** during erythrocyte degradation is stored by macrophages in **ferritin**, released bound to **transferrin**, and reused for erythropoiesis. Iron-free heme binds **hemopexin** or is converted to **bilirubin** and excreted in bile.
+- **Iron recycling.** Iron released from **hemoglobin** during erythrocyte degradation is stored by macrophages in **ferritin**, released bound to **transferrin**, and reused for erythropoiesis. Heme is carried by **hemopexin** and degraded to **bilirubin**, which is excreted in bile.
 - **Functions:** blood filtration, removal of old erythrocytes, immune response to blood-borne antigen, and **extramedullary hemopoiesis** in fetal life and marrow failure.
 
 | Organ | Capsule | Afferent lymphatics | Follicles | Unique feature |
@@ -441,7 +441,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 | **Thymus** | Yes | None | **No** | **Hassall corpuscles** |
 | **Lymph node** | Yes | **Yes** | Yes | Cortex/paracortex/medulla; HEV |
 | **Spleen** | Yes | **None** | Yes | **White and red pulp** |
-| **Tonsil** | No | None | Yes | Crypts |
+| **Tonsil** | Partial | None | Yes | Crypts |
 
 > **CLINICAL** — **DiGeorge syndrome** is thymic aplasia (third and fourth pharyngeal pouches) with T-cell deficiency and hypocalcemia. **Severe combined immunodeficiency** is failure of both arms. **Hodgkin lymphoma** spreads contiguously through nodes and shows Reed–Sternberg cells. **Splenectomy** increases susceptibility to encapsulated organisms — pneumococcus, meningococcus, *Haemophilus influenzae* — because the spleen's marginal zone is the first line against polysaccharide capsules.
 

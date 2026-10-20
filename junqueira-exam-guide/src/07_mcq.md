@@ -520,7 +520,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **49. A** — Peritubular interstitial cells of the kidney produce erythropoietin. **Trap:** D produces it in fetal life. B and C are not the main source.
 
-**50. C** — The normal M:E ratio is 2:1 to 4:1. This ratio is a standard hematology figure; the chapter's text does not state one, so treat it as supplementary. **Trap:** B, D, and A are not the normal adult ratio.
+**50. C** — The normal M:E ratio is 2:1 to 4:1, as Chapter 13 states. **Trap:** B, D, and A are not the normal adult ratio.
 
 **51. A** — IgA is the main secretory immunoglobulin; it exists as a dimer with a secretory component. **Trap:** C crosses the placenta and dominates serum. D is the first antibody response. B mediates allergy.
 

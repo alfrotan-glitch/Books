@@ -25,6 +25,8 @@ This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th editi
 
 At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This companion is designed to be read *before* those, so that when you reach them you already know the answers.
 
+**What the CLINICAL boxes are.** Some name diseases the book itself discusses; others are standard clinical correlates that the book does not cover, included to show why the histology matters. Treat them as orientation, not as claims about the textbook's contents.
+
 **A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this companion uses the book's figure. A few standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added as context; they are not claims about the book's text. Nothing here is attributed to the book unless the book states it. Values and clinical terms that the textbook does not contain are marked **supplementary** where they appear.
 
 **Using the practice material.** The 100 questions in Part VII are written to be attempted after the chapter they test; the explanations say why each distractor fails, so a wrong answer is worth reading carefully. A separate flashcard deck and question bank accompany this book for spaced repetition. Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.

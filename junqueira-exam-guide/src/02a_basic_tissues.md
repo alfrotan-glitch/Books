@@ -178,7 +178,7 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 | Cell | Origin | Function | Identifying feature |
 |---|---|---|---|
 | **Fibroblast / fibrocyte** | Mesenchyme | Synthesizes collagen, elastin, GAGs; **fibrocyte** is the quiescent form | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
-| **Macrophage** | Monocyte | Phagocytosis, antigen presentation, cytokines | Irregular, abundant lysosomes; **Kupffer cell** in liver, **microglia** in CNS, **Langerhans cell** in epidermis, **osteoclast** in bone |
+| **Macrophage** | Monocyte | Phagocytosis, antigen presentation, cytokines | Irregular, abundant lysosomes; **Kupffer cell** in liver, **microglia** in CNS, **osteoclast** in bone (a fused macrophage) |
 | **Mast cell** | Bone marrow | Releases **histamine** and **heparin**; IgE-mediated allergy | Round, many dark granules; degranulates on IgE cross-linking |
 | **Plasma cell** | B lymphocyte | Secretes antibody | **Clock-face nucleus**, eccentric, perinuclear clear zone (Golgi) |
 | **Adipocyte** | Mesenchyme | Store fat | Signet-ring when unilocular |

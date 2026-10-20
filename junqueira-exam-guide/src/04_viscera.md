@@ -67,13 +67,13 @@ The muscularis is the examinable progression: **skeletal muscle at the superior 
 
 **Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
 
-The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus pluripotent stem cells:
+The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus pluripotent stem cells in the neck:
 
 | Cell | Location | Product | Function |
 |---|---|---|---|
 | **Parietal (oxyntic)** | Upper half of gland | **HCl + intrinsic factor** | Large cell, many mitochondria, **intracellular canaliculi**; intrinsic factor is required for **vitamin B₁₂** uptake; **eosinophilic** |
 | **Chief (zymogenic)** | Deeper half of gland | **Pepsinogen** | Activated to **pepsin** by luminal acid; **basophilic** with apical zymogen granules |
-| **Mucous neck** | Neck | Less alkaline mucus | Immature precursors that migrate up into the pits |
+| **Mucous neck** | Neck | Mucus (less alkaline than surface mucus) | Secretion; the proliferative stem-cell zone lies among them |
 | **Surface mucous** | Surface and pits | **Viscous mucus + bicarbonate** | The barrier that protects the mucosa |
 | **Enteroendocrine** | Throughout | **Gastrin, histamine**, others | Paracrine and endocrine control of secretion |
 | **Stem cells** | Narrow neck region | — | Pluripotent source of all the above |
@@ -90,6 +90,7 @@ Each **villus** is a finger of lamina propria covered by simple columnar epithel
 
 - **Enterocytes** — brush border; **disaccharidases and peptidases in the glycocalyx** complete digestion, and the resulting monosaccharides and amino acids are absorbed across the brush border and pass to capillaries.
 - **Goblet cells** — mucus.
+- **M cells** — specialized epithelium over the lymphoid nodules, which takes up antigen from the lumen and hands it to the lymphocytes below.
 - **Paneth cells** — base of crypts, **eosinophilic** granules, secrete **defensins** (and lysozyme).
 - **Enteroendocrine cells** — CCK, secretin, GIP, motilin.
 - **Stem cells** — crypt base, replacing the epithelium every few days.
@@ -99,7 +100,7 @@ Each **villus** is a finger of lamina propria covered by simple columnar epithel
 | Region | Defining feature |
 |---|---|
 | **Duodenum** | **Duodenal (Brunner) glands in the submucosa**; leaf-like villi |
-| **Jejunum** | Tallest villi; no Brunner glands; Peyer's patches sparse or absent (they are characteristic of the ileum) |
+| **Jejunum** | Tallest villi; no Brunner glands; Peyer's patches belong to the ileum |
 | **Ileum** | **Peyer's patches** (mucosal and submucosal); shortest villi |
 
 ### Large Intestine
@@ -488,7 +489,7 @@ The **hypodermis** — loose connective tissue and adipose tissue (**panniculus 
 | **Meissner corpuscle** | Dermal papilla | Elliptical, **~150 µm**, stacked Schwann cells | **Light touch**, fine discrimination |
 | **Pacinian corpuscle** | Deep dermis and hypodermis | Oval, **~1 mm**, **15–50 concentric lamellae** | **Pressure and high-frequency vibration** |
 | **Krause end bulb** | Penis and clitoris mainly | Thin collagenous capsule | Low-frequency vibration |
-| **Ruffini corpuscle** | Dermis | Fusiform capsule anchored to collagen | **Stretch (tension) and twisting** |
+| **Ruffini corpuscle** | Dermis | Fusiform capsule anchored to collagen | **Tissue distortion and sustained stretch** |
 
 ### Hair
 
@@ -502,7 +503,7 @@ Hairs are keratinized structures formed in **hair follicles**, epidermal invagin
 
 ### Nails
 
-Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root** lies under a skin fold whose cornified layer forms the **cuticle (eponychium)**; keratinocytes proliferate in the **matrix** and differentiate into the **nail plate**, which slides forward over the **nail bed** (which does not contribute). Growth is about **3 mm/month** for fingernails and **1 mm/month** for toenails. The **lunula** is the visible part of the matrix.
+Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root** lies under a skin fold whose cornified layer forms the **cuticle (eponychium)**; keratinocytes proliferate in the **matrix** and differentiate into the **nail plate**, which slides forward over the **nail bed** (which does not contribute). The **lunula** is the visible part of the matrix.
 
 ### Skin Glands
 
