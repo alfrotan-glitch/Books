@@ -2,11 +2,11 @@
 
 ## 11 · The Circulatory System
 
-**pp. 215–236** · Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
+**pp. 215–236** · Part 2, pages 120–155 · Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
 ### The core idea
 
-Every vessel in the body is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
+The circulatory system pumps and directs blood cells and substances to all tissues, and in an adult the total length of its vessels is estimated at **100,000–150,000 km**. Every vessel in the body is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
 
 ### Heart
 
@@ -60,7 +60,7 @@ Begins as blind-ended **lymphatic capillaries** with overlapping endothelial fla
 
 ## 12 · Blood
 
-**pp. 237–253** · Composition of Plasma · Blood Cells
+**pp. 237–253** · Part 2, pages 156–180 · Composition of Plasma · Blood Cells
 
 ### The core idea
 
@@ -68,18 +68,18 @@ Blood is connective tissue with a liquid matrix. Its cells all derive from one s
 
 ### Composition of Plasma
 
-About 55% of blood volume. Water (90%), plasma proteins — **albumin** (osmotic pressure, carrier), **globulins** (transport, immunoglobulins), **fibrinogen** (clotting) — plus electrolytes, nutrients, hormones, and waste. **Serum is plasma minus fibrinogen** (i.e., after clotting).
+About 55% of blood volume. Water plus plasma proteins — **albumin, α- and β-globulins, complement proteins, and fibrinogen**, all secreted in the **liver**, plus the **immunoglobulins** — and electrolytes, nutrients, hormones, and waste. On clotting, some proteins are consumed and others are released from platelets, leaving **serum**, whose biological properties differ from plasma. **Serum is plasma minus fibrinogen** (i.e., after clotting).
 
 ### Blood Cells
 
 **Erythrocytes**
 
-- **Biconcave disc**, 7–8 µm, **no nucleus, no organelles** — maximum haemoglobin per cell.
+- **Biconcave disc**, **7.5 µm** in diameter, **2.6 µm** thick at the rim but only **0.75 µm** at the centre — flexible enough to pass small capillaries; **no nucleus, no organelles**, so the cell is packed with haemoglobin.
 - **120-day lifespan**; removed by splenic macrophages; the globin is recycled and the haem converted to bilirubin.
 - Shape maintained by **spectrin and ankyrin**; defects produce hereditary spherocytosis.
 - **Haemoglobin** — four globin chains, each with a haem group carrying Fe²⁺. Adult HbA (α₂β₂) and fetal HbF (α₂γ₂, higher affinity for O₂).
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
-- Normal values: **Hb 13–17 g/dL (male), 12–15 g/dL (female); haematocrit ~40–50%; MCV 80–100 fL**.
+- **Haematocrit** — the sedimented erythrocyte column — is about **44–45% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leucocytes and platelets. An average adult has **5–6 L** of blood.
 
 **The leucocytes**
 
@@ -105,7 +105,7 @@ About 55% of blood volume. Water (90%), plasma proteins — **albumin** (osmotic
 
 ## 13 · Hemopoiesis
 
-**pp. 254–266** · Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
+**pp. 254–266** · Part 2, pages 181–198 · Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
 
 ### The core idea
 
@@ -117,13 +117,13 @@ All blood cells descend from one **haematopoietic stem cell**, and the pathway f
 |---|---|
 | **First trimester** | Yolk sac (mesoblastic phase) |
 | **Second trimester** | **Liver and spleen** (hepatic phase) |
-| **Third trimester and after birth** | **Bone marrow** (myeloid phase) |
+| **Third trimester** | **Bone marrow** — marrow becomes the major organ in the third trimester as skeletal elements ossify |
 
 In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, pelvis, skull, and proximal femur**. The rest is **yellow (fatty) marrow**, which can revert to red marrow under demand — why chronic anaemia produces marrow expansion and frontal bossing.
 
 ### Stem Cells, Growth Factors, & Differentiation
 
-The **haematopoietic stem cell** is CD34⁺, self-renewing, and multipotent, sitting in a **niche** of stromal cells, osteoblasts, and sinusoids. Differentiation is driven by **growth factors**, examinable by name:
+The **haematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitting in a **niche** of stromal cells, other cells, and ECM. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, examinable by name:
 
 | Factor | Target |
 |---|---|
@@ -141,7 +141,7 @@ Between the trabeculae lie **haemopoietic cords** and **sinusoids** with a disco
 
 ### Maturation of Erythrocytes
 
-**Proerythroblast → basophilic erythroblast → polychromatophilic erythroblast → orthochromatic normoblast → reticulocyte → erythrocyte.**
+**Proerythroblast → basophilic → polychromatophilic → orthochromatophilic erythroblast → reticulocyte → erythrocyte**, developing in **erythropoietic islands or cords**. The names track the cytoplasm's transition from **RNA-rich to haemoglobin-filled**; at the last stage the nucleus is **extruded**, producing a **reticulocyte** that still contains some polyribosomes when released into the circulation.
 
 The cell **shrinks**, the nucleus **condenses and is extruded**, haemoglobin accumulates so the cytoplasm shifts from blue to pink, and the nucleolus disappears. The sequence takes about **5–7 days**. EPO drives it; iron, vitamin B₁₂, and folate are required.
 
@@ -149,7 +149,7 @@ The cell **shrinks**, the nucleus **condenses and is extruded**, haemoglobin acc
 
 **Myeloblast → promyelocyte → myelocyte → metamyelocyte → band cell → segmented neutrophil (or eosinophil/basophil).**
 
-**Primary (azurophilic) granules** appear at the promyelocyte stage, **specific granules** at the myelocyte stage, the nucleus indents at the metamyelocyte stage, and becomes a **C-shaped band** before segmenting. A **left shift** — more bands and younger forms in the peripheral blood — indicates accelerated production, typically in infection.
+**Primary (azurophilic) granules** appear at the promyelocyte stage, **specific granules** at the myelocyte stage, the nucleus indents at the metamyelocyte stage, and becomes a **C-shaped band** before segmenting. A **left shift** — more bands and younger forms in the peripheral blood — indicates accelerated production: immature neutrophilic metamyelocytes called **band (stab) cells** are released prematurely when the circulating neutrophil compartment is depleted by bacterial infection.
 
 ### Maturation of Agranulocytes
 
@@ -167,7 +167,7 @@ The cell **shrinks**, the nucleus **condenses and is extruded**, haemoglobin acc
 
 ## 14 · The Immune System & Lymphoid Organs
 
-**pp. 267–294** · Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
+**pp. 267–294** · Part 2, pages 199–217 · Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 
 ### The core idea
 
@@ -216,7 +216,9 @@ This pairing — **CD4/MHC II, CD8/MHC I** — is the most examined immunology f
 
 - **Capsule** with trabeculae dividing it into lobules, each with a **cortex** and a **medulla**.
 - **No follicles.** The cortex is densely packed with developing **thymocytes** and epithelial reticular cells; the medulla is paler and contains **Hassall corpuscles** — concentric whorls of epithelial cells, unique to the thymus.
-- **Blood–thymus barrier** in the cortex prevents antigens from reaching developing T cells.
+- **Blood–thymus barrier** — formed by **squamous thymic epithelial cells** joined by desmosomes and occluding junctions, together with vascular endothelium and pericytes — prevents unregulated exposure of thymocytes to antigens.
+- **Cortex** is packed with **T lymphoblasts (thymocytes)**, macrophages, and **thymic epithelial cells (TECs)**. Stellate TECs form a **cytoreticulum** to which lymphocytes attach instead of reticulin fibres; these TECs are **antigen-presenting cells** expressing **MHC class II** and secreting cytokines — which is why the thymus is also counted among endocrine glands.
+- **Hassall corpuscles** — aggregates of medullary TECs, concentrically arranged, **up to 100 µm**, **unique to the medulla**; their cells secrete cytokines that control local dendritic cells and promote regulatory T cells for peripheral tolerance.
 - Function: **T-cell maturation and selection** (positive and negative selection, establishing self-tolerance).
 - **Involutes** after puberty, replaced by adipose tissue.
 

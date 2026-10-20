@@ -102,9 +102,9 @@ The online version on AccessMedicine adds **500 multiple-choice questions** acro
 
 ## Source Map
 
-Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. Chapters 1–7 have been checked line by line against **MyDocument_part_1.pdf**; the remaining chapters are written to the book's structure and will be checked when their parts are uploaded.
+Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. Chapters 1–7 are checked line by line against **MyDocument_part_1.pdf** and Chapters 8–14 against **MyDocument_part_2.pdf**; the remaining chapters are written to the book's structure and will be checked when part 3 is uploaded.
 
-| Ch | Title | Book pages | Your PDF (part 1) | Part of this guide |
+| Ch | Title | Book pages | Your PDF page | Part of this guide |
 |---|---|---|---|---|
 | 1 | Histology & Its Methods of Study | 1–16 | p. 13 | I |
 | 2 | The Cytoplasm | 17–52 | p. 40 | I |
@@ -113,20 +113,20 @@ Every chapter section here corresponds to the printed pages below, so the three 
 | 5 | Connective Tissue | 96–121 | p. 162 | II |
 | 6 | Adipose Tissue | 122–128 | p. 197 | II |
 | 7 | Cartilage | 129–137 | p. 208 | II |
-| 8 | Bone | 138–160 | part 2 II |
-| 9 | Nerve Tissue & the Nervous System | 161–192 | part 2 II |
-| 10 | Muscle Tissue | 193–214 | part 2 II |
-| 11 | The Circulatory System | 215–236 | part 2 III |
-| 12 | Blood | 237–253 | part 2 III |
-| 13 | Hemopoiesis | 254–266 | part 2 III |
-| 14 | The Immune System & Lymphoid Organs | 267–294 | part 2 III |
-| 15 | Digestive Tract | 295–328 | part 2 IV |
-| 16 | Organs Associated with the Digestive Tract | 329–348 | part 2 IV |
-| 17 | The Respiratory System | 349–370 | part 2 IV |
-| 18 | Skin | 371–392 | part 2 IV |
-| 19 | The Urinary System | 393–412 | part 2 V |
-| 20 | Endocrine Glands | 413–438 | part 2 V |
-| 21 | The Male Reproductive System | 439–459 | part 2 V |
-| 22 | The Female Reproductive System | 460–489 | part 2 V |
-| 23 | The Eye & Ear: Special Sense Organs | 490–524 | part 2 V |
-| App. | Light Microscopy Stains | 525–526 | part 2 | Appendix A |
+| 8 | Bone | 138–160 | p. 3 | II |
+| 9 | Nerve Tissue & the Nervous System | 161–192 | p. 37 | II |
+| 10 | Muscle Tissue | 193–214 | p. 87 | II |
+| 11 | The Circulatory System | 215–236 | p. 120 | III |
+| 12 | Blood | 237–253 | p. 156 | III |
+| 13 | Hemopoiesis | 254–266 | p. 181 | III |
+| 14 | The Immune System & Lymphoid Organs | 267–294 | p. 199 | III |
+| 15 | Digestive Tract | 295–328 | part 3 IV |
+| 16 | Organs Associated with the Digestive Tract | 329–348 | part 3 IV |
+| 17 | The Respiratory System | 349–370 | part 3 IV |
+| 18 | Skin | 371–392 | part 3 IV |
+| 19 | The Urinary System | 393–412 | part 3 V |
+| 20 | Endocrine Glands | 413–438 | part 3 V |
+| 21 | The Male Reproductive System | 439–459 | part 3 V |
+| 22 | The Female Reproductive System | 460–489 | part 3 V |
+| 23 | The Eye & Ear: Special Sense Organs | 490–524 | part 3 V |
+| App. | Light Microscopy Stains | 525–526 | part 3 | Appendix A |

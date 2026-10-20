@@ -48,22 +48,24 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 ## 8 · Bone
 
-**pp. 138–160** · Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
+**pp. 138–160** · Part 2, pages 3–36 · Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
 
 ### The core idea
 
-Bone is a **living composite material**. Its stiffness comes from mineral (hydroxyapatite), its toughness from collagen, and its capacity to adapt comes from four cell types that continuously demolish and rebuild it. Every skeletal disease is a failure of one of those four cells, or of the balance between them.
+Bone is the main constituent of the adult skeleton: it gives **solid support**, protects vital organs of the cranial and thoracic cavities, encloses **medullary cavities** where blood cells form, and acts as a **reservoir of calcium and phosphate**, storing or releasing them to keep body fluid concentrations constant. It also forms a system of **levers** that multiply the force of muscle contraction into movement. Its stiffness comes from mineral, its toughness from collagen, and its capacity to adapt from four cell types that continuously demolish and rebuild it — **every skeletal disease is a failure of one of those cells, or of the balance between them.**
 
 ### Bone Cells
 
 | Cell | Origin | Function | Marker / feature |
 |---|---|---|---|
 | **Osteoprogenitor** | Mesenchyme | Divide and differentiate into osteoblasts | Periosteum (inner layer), endosteum |
-| **Osteoblast** | Osteoprogenitor | **Synthesise osteoid**; mineralise; regulate osteoclasts via **RANKL** | Cuboidal, basophilic, aligned on bone surface; **alkaline phosphatase** high |
+| **Osteoblast** | Osteoprogenitor (periosteum, endosteum) | Secrete **osteoid**, rich in **type I collagen** plus proteoglycans; mineralise it; regulate osteoclasts via **RANKL** | Cuboidal, basophilic, cover existing bone surfaces; **alkaline phosphatase** high |
 | **Osteocyte** | Osteoblast that becomes embedded | Maintain matrix; sense mechanical load | In **lacunae**, connected by **canaliculi** via gap junctions |
 | **Osteoclast** | **Monocyte/macrophage lineage** | **Resorb bone** | Large, multinucleated, **ruffled border**, resorption bay (**Howship lacuna**); **TRAP**, carbonic anhydrase II, H⁺-ATPase |
 
-**The osteoclast is the exception examiners always test.** Every other bone cell is mesenchymal; the osteoclast is haematopoietic. It dissolves mineral by pumping H⁺ and digests collagen with cathepsin K.
+As osteoid calcifies and hardens it **entraps some osteoblasts**, which then differentiate into osteocytes sitting in **lacunae** between the lamellae, with cytoplasmic processes in **canaliculi**. Osteocytes maintain the calcified matrix and are fed from microvasculature in the **central canals of osteons** through those canaliculi.
+
+**The osteoclast is the exception examiners always test.** Every other bone cell is mesenchymal; the osteoclast is **monocyte-derived** and is the cell required for bone remodeling. It dissolves mineral by pumping H⁺ and digests collagen with cathepsin K.
 
 **The RANK–RANKL–OPG axis:** osteoblasts express **RANKL**, which binds **RANK** on osteoclast precursors and drives differentiation; they also secrete **osteoprotegerin (OPG)**, a decoy receptor that blocks RANKL. **PTH** shifts the balance toward resorption; **oestrogen** suppresses it.
 
@@ -76,7 +78,7 @@ Remove the mineral and bone becomes flexible; remove the collagen and it becomes
 
 ### Periosteum & Endosteum
 
-**Periosteum** — outer fibrous layer plus inner **osteogenic (cambium)** layer; absent on articular surfaces and at tendon insertions. **Endosteum** lines the marrow cavity. Both are sources of osteoprogenitor cells for growth and repair.
+**Periosteum** — dense connective tissue with a mainly **fibrous layer** over a more **cellular** layer; small vessels penetrate the matrix from it. Absent on articular surfaces and at tendon insertions. **Endosteum covers all trabeculae around the marrow cavities** — not merely the shaft. Both are sources of osteoprogenitor cells for growth and repair.
 
 ### Types of Bone
 
@@ -134,7 +136,7 @@ Bone is the body's calcium and phosphate reservoir.
 
 ## 9 · Nerve Tissue & the Nervous System
 
-**pp. 161–192** · Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
+**pp. 161–192** · Part 2, pages 37–86 · Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
 
 ### The core idea
 
@@ -159,14 +161,14 @@ The nervous system arises from the **neural plate**, which folds into the **neur
 
 | Cell | Location | Function | Exam hook |
 |---|---|---|---|
-| **Astrocyte** | CNS | Structural support, **blood–brain barrier** induction, K⁺ buffering, glutamate uptake, glial scar | **GFAP**; foot processes on capillaries |
-| **Oligodendrocyte** | CNS | **Myelinates multiple axons** | One cell, many segments |
+| **Astrocyte** | CNS | **The most numerous cell of the CNS**; hundreds of processes enclose neuronal perikarya, synapses, and capillaries, providing regulated microenvironments | **GFAP**; foot processes on capillaries; glial scar |
+| **Oligodendrocyte** | CNS | Wraps flattened processes around portions of axons, forming **myelin sheaths** | One cell, many segments |
 | **Microglia** | CNS | Resident phagocyte, immune surveillance | **Mesodermal** origin — the odd one out |
 | **Ependymal cell** | CNS | Lines ventricles; cilia move CSF; choroid plexus | Produces CSF |
 | **Schwann cell** | PNS | **Myelinates one segment of one axon** | Neural crest origin |
 | **Satellite cell** | PNS ganglia | Supports sensory and autonomic neurons | — |
 
-**Myelination.** In the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**. Velocity rises with axon diameter and myelin thickness.
+The book counts **six major glial types**: oligodendrocytes, astrocytes, ependymal cells, and microglia in the CNS; Schwann cells and satellite cells in the PNS. **Myelination:** in the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**. Velocity rises with axon diameter and myelin thickness.
 
 ### Central Nervous System
 
@@ -195,11 +197,11 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 
 ## 10 · Muscle Tissue
 
-**pp. 193–214** · Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
+**pp. 193–214** · Part 2, pages 87–119 · Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
 
 ### The core idea
 
-Muscle converts chemical energy into directed force. All three types use the same actin–myosin interaction, but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
+Muscle tissue consists of cells that optimise the universal cell property of **contractility**. Essentially **all muscle cells originate from embryonic mesoderm** and differentiate by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**. All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
 
 ### Skeletal Muscle
 
@@ -217,7 +219,7 @@ Muscle converts chemical energy into directed force. All three types use the sam
 
 **Sliding filament mechanism:** myosin heads bind actin, hydrolyse ATP, and pivot, pulling thin filaments toward the M line. **The A band never changes length.**
 
-**Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** invaginate at the **A–I junction**, forming **triads** (one T-tubule + two terminal cisternae). An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
+**Control.** The **sarcoplasmic reticulum** stores Ca²⁺; **T-tubules** are invaginations of the sarcolemma that encircle each myofibril **near the aligned A- and I-band boundaries**, where each T-tubule associates with **two terminal cisternae** — a **triad**. Depolarisation spreads along the T-tubules to trigger simultaneous Ca²⁺ release throughout the fibre. An action potential releases Ca²⁺, which binds **troponin C**, moves **tropomyosin** off the myosin-binding site, and contraction begins. Relaxation requires Ca²⁺ reuptake.
 
 **Innervation.** The **motor end plate** — acetylcholine binds nicotinic receptors, depolarises the sarcolemma, and triggers contraction. One motor neuron plus all the fibres it supplies is a **motor unit**.
 
