@@ -1,6 +1,6 @@
 # Junqueira's Basic Histology — The Exam Companion
 
-A **137-page** revision book built from **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024)**, written for medical students preparing for examinations. Every chapter has been read against the uploaded PDF of the book, in all four parts.
+A **138-page** revision book built from **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024)**, written for medical students preparing for examinations. Every chapter has been read against the uploaded PDF of the book, in all four parts.
 
 ## Files
 
@@ -38,7 +38,7 @@ Edit anything in `src/`, then re-run. Sections are concatenated in filename orde
   - one **exam-style MCQ** with the reason each distractor fails
   - **Plates to study** — six atlas figures per chapter, with the part and page where each figure sits
 - **Source map** — every chapter matched to its printed page range and to the page of the uploaded PDF part where it begins
-- **Chapter 24** — the last-24-hours rapid review: organ-identification algorithm, ten master tables, 100 one-line facts, 25 distinctions that decide marks
+- **Chapter 24** — the last-24-hours rapid review: a concept map of the whole book, the organ-identification algorithm, ten master tables, 100 one-line facts, 25 distinctions that decide marks
 - **Appendices** — stains and what they prove; the vocabulary examiners expect
 - **Part VII** — 100 examination MCQs with explanations and a scoring guide
 - **Appendix C** — the book's own stain appendix, with the chemistry and use of every stain in the atlas
