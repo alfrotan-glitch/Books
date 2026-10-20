@@ -103,3 +103,11 @@ The review covered commit `f85d8d4` and the corrections made in response to it. 
 - **No atlas plates are reproduced**, for copyright reasons.
 - **The 100 MCQs are original**, written in the style of the book's *Assess Your Knowledge* questions; they are not past examination papers and no frequency claims are made.
 - **The book's own errors are flagged, not copied** (Chapter 22 lutein/theca reversal, "ZO" for ZP, the semen-volume definition).
+
+## Final acceptance pass (20 October 2026)
+
+- Candidate `71938c8` was accepted for review; the corrections below produced `666cccf`, and all four formats plus both CSVs were rebuilt from it (142 pp).
+- In this pass every chapter summary of the textbook (Chapters 4–23) was used as the audit checklist, the textbook appendix was read in full, and Chapters 4–23 of the companion were read in full. Chapters 1–3 and 24 were not re-read line by line; they were sampled.
+- Corrections: Langerhans cell removed from the macrophage row (Ch 5); broken sentence repaired (Ch 7); "hem" → "heme" and the four-step haemostasis answer (Ch 12); left-shift sentence rewritten (Ch 13); M:E explanation in MCQ 50 corrected; tonsil capsule "partial" and heme/hemopexin separation (Ch 14); mucous-neck cell and jejunal Peyer statement (Ch 15); Ruffini modality and unlabelled nail-growth rates removed (Ch 18); hilum sentence and the 8–15/8–12 pyramid discrepancy (Ch 19); "perivitelline" and the lutein-cell summary reversal disclosed (Ch 22); CLINICAL-box provenance stated in the front matter.
+- Checks: no blank pages, no glyphs outside the type area, 23/23 contents entries correct, 100 MCQs with 25/25/25/25 keys, 550 unique flashcards, EPUB structural validator PASS (EPUBCheck NOT RUN — no Java), DOCX 73 tables, HTML 73 tables.
+- Still open: rights-holder/legal questions about the title and citation practice, and review by a qualified medical reader. See `ACCEPTANCE_REPORT.md` §7–§9.
