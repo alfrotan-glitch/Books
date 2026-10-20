@@ -1,4 +1,4 @@
-# PART VII — ASSESS YOUR KNOWLEDGE
+# PART VII — PRACTICE EXAMINATION
 
 ## 100 Examination Questions
 
@@ -630,6 +630,6 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 | **80–89** | Exam-ready | Reread the twenty-five distinctions table; revisit missed chapters |
 | **65–79** | Adequate | Redo the master tables in Part VI, then retake the questions |
 | **50–64** | At risk | Read each chapter's "core idea" and tables, not the prose |
-| **Below 50** | Start again from Part II | Build the six core tables from memory before anything else |
+| **Below 50** | Start again from Part II | Build the ten master tables from memory before anything else |
 
-> **PEARL** — The final revision loop is not reading — it is **recall**. Close the book and write the ten master tables from memory. Whatever you cannot reproduce is exactly what you must study. Students who can reproduce the tables usually answer the recall questions far more quickly.
+> **PEARL** — The final revision loop is not reading — it is **recall**. Close the text and write the ten master tables from memory. Whatever you cannot reproduce is exactly what you must study. Students who can reproduce the tables usually answer the recall questions far more quickly.

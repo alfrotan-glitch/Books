@@ -1,6 +1,7 @@
 ## 7 · Cartilage
 
-**Book pages 129–137**<br/>Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
+**In this chapter:** Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
+
 
 ### Learning objectives
 
@@ -55,7 +56,7 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 > **TIP** — Two commonly confused points: **hyaline cartilage contains type II collagen, not type I**, and **fibrocartilage has no perichondrium**, which is why disc injuries persist.
 
-### Chapter 7 — one-line answers
+### Chapter 7 — summary
 
 - Cartilage = chondrocytes in lacunae + solid matrix; no blood vessels, no nerves.
 - Hyaline cartilage = **type II collagen** + aggrecan; glassy; perichondrium present except at articular surfaces.
@@ -86,20 +87,14 @@ A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decal
 
 **Answer: C** — Rows of chondrocytes plus type I bundles and no perichondrium identify fibrocartilage (intervertebral disc, meniscus, pubic symphysis).
 
-### Plates to study
+### Practical identification
 
-Compare the cartilage types by matrix and cell arrangement (**7–3** hyaline, **7–5** fibrocartilage), then trace chondrogenesis (**7–6**) and growth (**7–7**). Use **7–1** to place each type in the body and **7–2** to name the matrix components.
-
-- **Fig. 7–1** — *Distribution of cartilage in adults*.
-- **Fig. 7–2** — *The structure of cartilage matrix and cells*.
-- **Fig. 7–3** — *Hyaline cartilage*.
-- **Fig. 7–5** — *Fibrocartilage*.
-- **Fig. 7–6** — *Chondrogenesis*.
-- **Fig. 7–7** — *Chondrocytes in growing cartilage*.
+Compare hyaline, elastic and fibrocartilage in one session. Hyaline has a glassy matrix, chondrocytes in lacunae often in isogenous groups, and a perichondrium except at articular surfaces; elastic cartilage has visible elastic fibers in the matrix; fibrocartilage has thick collagen bundles and no perichondrium. Locate the territorial and interterritorial matrix, and explain why the staining differs between them.
 
 ## 8 · Bone
 
-**Book pages 138–160**<br/>Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
+**In this chapter:** Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
+
 
 ### Learning objectives
 
@@ -132,7 +127,7 @@ As osteoid calcifies and hardens it **entraps some osteoblasts**, which then dif
 ### Bone Matrix
 
 - **Inorganic (~50% of dry weight)** — calcium phosphate as **hydroxyapatite** crystals, with bicarbonate, citrate, magnesium, potassium, and sodium; compressive strength.
-- **Organic (~50% of dry weight)** — **type I collagen** (90% of the organic matter), osteocalcin, osteonectin, osteopontin, proteoglycans, growth factors; tensile strength. Many textbooks quote a 65:35 mineral-to-organic ratio; the 17th edition gives about 50:50, and this companion follows it.
+- **Organic (~50% of dry weight)** — **type I collagen** (90% of the organic matter), osteocalcin, osteonectin, osteopontin, proteoglycans, growth factors; tensile strength. Some references give a 65:35 ratio instead; both conventions are in current use, so state which one you are using.
 
 Remove the mineral and bone becomes flexible; remove the collagen and it becomes brittle. **Bone is strong because it is both at once.**
 
@@ -166,7 +161,7 @@ Growth in **width** is **appositional**, by periosteal osteoblasts. The **primar
 
 ### Bone Remodeling & Repair
 
-Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodelling** to lamellar bone. Immobilization and blood supply decide the outcome. **Wolff's law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
+Fracture → **hematoma** → inflammation → **soft callus** (fibrocartilage) → **hard callus** (woven bone) → **remodeling** to lamellar bone. Immobilization and blood supply decide the outcome. **Wolff's law** — bone is laid down where it is loaded and resorbed where it is not — explains both trabecular architecture and the bone loss of bed rest.
 
 ### Metabolic Role of Bone
 
@@ -186,7 +181,7 @@ Bone is the body's calcium and phosphate reservoir.
 
 **Synovial joints (diarthroses)** — a joint cavity between **hyaline articular cartilage** on each bone, enclosed by a **capsule** of dense connective tissue lined by **synovial membrane**, which secretes **synovial fluid** for lubrication and nutrition of the avascular cartilage. Some joints add a **meniscus** (fibrocartilage), a **labrum**, or a **fat pad**. Because articular cartilage has no perichondrium and no vessels, it heals hardly at all — the anatomical basis of degenerative joint disease.
 
-> **CLINICAL** — Six to learn as a set. **Osteoporosis** — reduced bone mass with normal mineralization; estrogen deficiency drives it, trabeculae are lost first, fragility fractures follow. **Rickets/osteomalacia** — unmineralized osteoid; in children the growth plate widens and deforms (rachitic rosary, bowed legs). **Paget disease** — chaotic excessive remodelling with mosaic woven bone. **Osteopetrosis** — osteoclast failure, dense but brittle bone with a crowded marrow cavity. **Achondroplasia** — failure of chondrocyte proliferation in the plate, short limbs with normal trunk. **Osteogenesis imperfecta** — defective type I collagen, brittle bones, blue sclerae.
+> **CLINICAL** — Six to learn as a set. **Osteoporosis** — reduced bone mass with normal mineralization; estrogen deficiency drives it, trabeculae are lost first, fragility fractures follow. **Rickets/osteomalacia** — unmineralized osteoid; in children the growth plate widens and deforms (rachitic rosary, bowed legs). **Paget disease** — chaotic excessive remodeling with mosaic woven bone. **Osteopetrosis** — osteoclast failure, dense but brittle bone with a crowded marrow cavity. **Achondroplasia** — failure of chondrocyte proliferation in the plate, short limbs with normal trunk. **Osteogenesis imperfecta** — defective type I collagen, brittle bones, blue sclerae.
 
 > **MICRO** — On a ground section, **concentric lamellae around a central canal** = an osteon = compact bone. On a decalcified H&E section, osteoblasts are the row of cuboidal cells on the surface and osteocytes sit in lacunae. A **multinucleated cell in a scalloped pit** is an osteoclast resorbing.
 
@@ -194,7 +189,7 @@ Bone is the body's calcium and phosphate reservoir.
 
 > **TIP** — The commonest error is saying osteoclasts are mesenchymal. They are **hematopoietic**, from the monocyte–macrophage line. The second is reversing the epiphyseal zones: growth happens at the **epiphyseal** side, ossification at the **diaphyseal** side.
 
-### Chapter 8 — one-line answers
+### Chapter 8 — summary
 
 - Bone matrix is type I collagen plus hydroxyapatite; osteoid must mineralize before it is rigid.
 - Osteoblasts make osteoid; osteocytes maintain matrix; osteoclasts resorb bone with a ruffled border.
@@ -222,20 +217,14 @@ A. Type II collagen<br/>B. Type I collagen<br/>C. Fibrillin<br/>D. Dystrophin
 
 **Answer: B** — Osteogenesis imperfecta is a type I collagen defect. Type II defects cause chondrodysplasias; fibrillin causes Marfan syndrome.
 
-### Plates to study
+### Practical identification
 
-Work from cell to organ: osteocytes in lacunae (**8–5**), lamellar architecture and perforating canals (**8–10**), endochondral ossification (**8–14**), fracture repair (**8–19**), articular cartilage (**8–23**). For each, state which cell type is doing the work.
-
-- **Fig. 8–1** — *Components of bone*.
-- **Fig. 8–5** — *Osteocytes in lacunae*.
-- **Fig. 8–10** — *Lamellar bone: Perforating canals and interstitial lamellae*.
-- **Fig. 8–14** — *Osteogenesis of long bones by endochondral ossification*.
-- **Fig. 8–19** — *Main features of bone fracture repair*.
-- **Fig. 8–23** — *Articular cartilage*.
+In a ground or decalcified section, find osteons (concentric lamellae around a central canal), interstitial and circumferential lamellae, and Volkmann canals. Identify osteocytes in lacunae with canaliculi, osteoblasts lining a surface, osteoclasts in Howship lacunae, and the endosteum and periosteum. In a developing long bone, follow the epiphyseal plate from resting cartilage to ossification and name the change at each zone.
 
 ## 9 · Nerve Tissue & the Nervous System
 
-**Book pages 161–192**<br/>Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
+**In this chapter:** Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
+
 
 ### Learning objectives
 
@@ -276,7 +265,7 @@ The nervous system arises from the **neural plate**, which folds into the **neur
 | **Schwann cell** (neurolemmocyte) | PNS | **Myelinates one segment of one axon** | Neural crest origin |
 | **Satellite cell** | PNS ganglia | Supports sensory and autonomic neurons | — |
 
-The book counts **six major glial types**: oligodendrocytes, astrocytes, ependymal cells, and microglia in the CNS; Schwann cells and satellite cells in the PNS. **Myelination:** in the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**. Velocity rises with axon diameter and myelin thickness.
+There are **six major glial types**: oligodendrocytes, astrocytes, ependymal cells, and microglia in the CNS; Schwann cells and satellite cells in the PNS. **Myelination:** in the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**. Velocity rises with axon diameter and myelin thickness.
 
 ### Central Nervous System
 
@@ -295,7 +284,7 @@ The book counts **six major glial types**: oligodendrocytes, astrocytes, ependym
 
 ### Neural Plasticity & Regeneration
 
-After axotomy the distal stump undergoes **Wallerian degeneration**; the soma shows **central chromatolysis**; Schwann cells form **bands of Büngner** to guide regrowth; regeneration proceeds at about **1 mm/day**. CNS axons regenerate poorly because of inhibitory molecules (Nogo, MAG) and glial scarring. **Plasticity** — the remodelling of synapses with use — is the basis of learning and of rehabilitation after injury.
+After axotomy the distal stump undergoes **Wallerian degeneration**; the soma shows **central chromatolysis**; Schwann cells form **bands of Büngner** to guide regrowth; regeneration proceeds at about **1 mm/day**. CNS axons regenerate poorly because of inhibitory molecules (Nogo, MAG) and glial scarring. **Plasticity** — the remodeling of synapses with use — is the basis of learning and of rehabilitation after injury.
 
 > **CLINICAL** — **Multiple sclerosis** is autoimmune demyelination in the CNS. **Guillain–Barré syndrome** is demyelination in the PNS, ascending from the legs. **Parkinson disease** is loss of dopaminergic neurons in the substantia nigra with Lewy bodies. **Alzheimer disease** shows neurofibrillary tangles and amyloid plaques. **Poliomyelitis** destroys anterior horn motor neurons and produces flaccid paralysis.
 
@@ -303,7 +292,7 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 
 > **TIP** — **Oligodendrocyte = CNS, several axons. Schwann cell = PNS, one segment of one axon.** And **microglia are the only glia of mesodermal origin.**
 
-### Chapter 9 — one-line answers
+### Chapter 9 — summary
 
 - Neurons are classified by shape (multipolar, bipolar, pseudounipolar) and by function (sensory, motor, interneuron).
 - Nissl bodies are rough ER plus polysomes; their position marks the soma and proximal dendrites.
@@ -331,20 +320,14 @@ A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
 
 **Answer: B** — Schwann cells dedifferentiate, form bands of Büngner, and provide a physical and trophic guide for the regenerating axon.
 
-### Plates to study
+### Practical identification
 
-Use **9–1** for the overall plan, **9–7** to classify synapses, **9–18** for cord and meninges, **9–24** for the node of Ranvier, **9–30** for regeneration. In **9–13**, distinguish satellite cells from the neurons they surround.
-
-- **Fig. 9–1** — *The general organization of the nervous system*.
-- **Fig. 9–7** — *Types of synapses*.
-- **Fig. 9–13** — *Satellite cells around neurons of ganglia in the PNS*.
-- **Fig. 9–18** — *Spinal cord and meninges*.
-- **Fig. 9–24** — *Node of Ranvier and endoneurium*.
-- **Fig. 9–30** — *Regeneration in peripheral nerves*.
+Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Nissl bodies; find its dendrites and its single axon hillock. Distinguish astrocytes (star-shaped), oligodendrocytes (small, round, myelinating in the CNS), microglia (small, elongated, perivascular), ependymal cells (ciliated, lining ventricles), and, in peripheral nerve, Schwann cells and satellite cells. In a nerve trunk, find the myelin sheath, node of Ranvier, endoneurium, perineurium and epineurium.
 
 ## 10 · Muscle Tissue
 
-**Book pages 193–214**<br/>Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
+**In this chapter:** Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
+
 
 ### Learning objectives
 
@@ -430,7 +413,7 @@ Skeletal muscle regenerates weakly, from **satellite cells**, and only if the ba
 
 > **TIP** — The A band does not shorten. This is the muscle fact to keep straight: I and H shorten, A stays constant, Z lines approach.
 
-### Chapter 10 — one-line answers
+### Chapter 10 — summary
 
 - Skeletal muscle: long cylinders, **many peripheral nuclei**, triads at the **A–I junction**.
 - Cardiac muscle: branched cells, **one or two central nuclei**, **intercalated discs**, diads at the **Z line**.
@@ -462,14 +445,6 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 
 **Answer: B** — Branching, central nuclei, and intercalated discs are the triad of cardiac muscle.
 
-### Plates to study
+### Practical identification
 
-Compare the three muscle types first (**10–1**), then the sarcomere (**10–9**, **10–12**), the intercalated disc (**10–16**), and the smooth-muscle contractile apparatus (**10–20**). Use **10–5** to see the capillary relationship behind the fiber's oxygen supply.
-
-- **Fig. 10–1** — *Three types of muscle*.
-- **Fig. 10–5** — *Capillaries of skeletal muscle*.
-- **Fig. 10–9** — *Organization of a skeletal muscle fiber*.
-- **Fig. 10–12** — *Sliding filaments and sarcomere shortening in contraction*.
-- **Fig. 10–16** — *Cardiac muscle: Intercalated discs*.
-- **Fig. 10–20** — *Smooth muscle contraction*.
-
+Compare the three muscle types at the same magnification. Skeletal fibers are long, cylindrical and multinucleated with peripheral nuclei and striations; cardiac fibers branch, have central nuclei, intercalated discs and perinuclear halos; smooth muscle cells are spindle-shaped with central cigar-shaped nuclei and no striations. In skeletal muscle, identify the A band, I band, Z line and triad; in cardiac muscle, the diad at the Z line.

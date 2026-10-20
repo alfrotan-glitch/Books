@@ -12,8 +12,8 @@ BUILD = os.path.join(HERE, "build")
 os.makedirs(BUILD, exist_ok=True)
 
 META = """---
-title: "Basic Histology: The Exam & Learning Companion"
-subtitle: "An independent study companion to Junqueira's Basic Histology: Text & Atlas, 17th edition"
+title: "Basic Histology: A Learning Text"
+subtitle: "A self-contained course in microscopic anatomy"
 author: ""
 date: "2026"
 lang: en-US
@@ -88,7 +88,7 @@ def combined():
 def main():
     md = combined()
 
-    docx = os.path.join(HERE, "Junqueira_Exam_Companion_FINAL.docx")
+    docx = os.path.join(HERE, "Basic_Histology_Learning_Text.docx")
     pypandoc.convert_file(md, "docx", outputfile=docx, extra_args=[
         "--toc", "--toc-depth=2", "--resource-path=" + SRC,
     ])
@@ -98,10 +98,10 @@ def main():
     with open(css_path, "w", encoding="utf-8") as fh:
         fh.write(CSS)
 
-    html = os.path.join(HERE, "Junqueira_Exam_Companion_FINAL.html")
+    html = os.path.join(HERE, "Basic_Histology_Learning_Text.html")
     pypandoc.convert_file(md, "html5", outputfile=html, extra_args=[
         "--standalone", "--toc", "--toc-depth=2", "--embed-resources",
-        "--css=" + css_path, "--metadata", "pagetitle=Basic Histology: The Exam & Learning Companion",
+        "--css=" + css_path, "--metadata", "pagetitle=Basic Histology: A Learning Text",
     ])
     print("HTML written:", html)
 

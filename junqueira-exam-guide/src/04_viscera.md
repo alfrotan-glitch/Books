@@ -2,7 +2,8 @@
 
 ## 15 · Digestive Tract
 
-**Book pages 295–328**<br/>General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
+**In this chapter:** General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
+
 
 ### Learning objectives
 
@@ -82,7 +83,7 @@ Parietal cells are controlled both by **parasympathetic innervation** and by par
 
 ### Small Intestine
 
-The small intestine is about **5 m long**. Its absorptive surface is amplified at three levels: **plicae circulares** (mucosa + submucosa, about a 3-fold increase), **villi** (mucosa, about 10-fold), and **microvilli** (cell surface, a further 20-fold), for a total absorptive area of **over 200 m²** — the clearest "structure follows function" example in the book.
+The small intestine is about **5 m long**. Its absorptive surface is amplified at three levels: **plicae circulares** (mucosa + submucosa, about a 3-fold increase), **villi** (mucosa, about 10-fold), and **microvilli** (cell surface, a further 20-fold), for a total absorptive area of **over 200 m²** — the clearest "structure follows function" example in the body.
 
 Each **villus** is a finger of lamina propria covered by simple columnar epithelium, containing a **lacteal** and smooth muscle. Between villi, simple tubular **crypts (of Lieberkühn)** are the proliferative compartment. Smooth muscle of the lamina propria and muscularis mucosae, controlled by **Meissner's plexus**, moves the villi and propels lymph; the muscularis, controlled by **Auerbach's plexus**, produces peristalsis.
 
@@ -119,7 +120,7 @@ The **rectum** continues as the **anal canal**. There the mucosa is highly vascu
 
 > **PEARL** — The numbers that appear in questions: enamel **96%** mineral and **2 mm** thick; dentin **70%**; esophageal length **25 cm**; **8–12** vallate papillae with about **250** taste buds each. The stomach has **no goblet cells** and **no villi**; the intestine has **both**.
 
-### Chapter 15 — one-line answers
+### Chapter 15 — summary
 
 - Four gut layers, outside in: mucosa, submucosa, muscularis, serosa or adventitia.
 - Gut mucosa = epithelium + lamina propria + muscularis mucosae.
@@ -153,20 +154,14 @@ A. Duodenum<br/>B. Jejunum<br/>C. Ileum<br/>D. Colon
 
 **Answer: A** — Brunner (duodenal) glands lie in the submucosa of the duodenum only.
 
-### Plates to study
+### Practical identification
 
-Compare the wall in **15–15** (stomach) with the villus in **15–28** and the rectoanal junction in **15–34**: pits, villi, and the change from columnar to stratified squamous are the three appearances to name aloud. Use **15–8** for the dentinal tubule and **15–21** for pyloric glands.
-
-- **Fig. 15–1** — *The digestive system*.
-- **Fig. 15–8** — *Ultrastructure of dentinal tubule*.
-- **Fig. 15–15** — *Wall of the stomach with rugae*.
-- **Fig. 15–21** — *Pyloric glands*.
-- **Fig. 15–28** — *Microvasculature, lymphatics, and muscle in villi*.
-- **Fig. 15–34** — *Mucosa of the rectoanal junction*.
+Walk the gut from esophagus to anal canal on the sections available. At each level, name the epithelium, the shape of the glands and whether villi are present. Identify the four wall layers and the two plexuses. In the stomach, distinguish parietal cells (eosinophilic, with canaliculi) from chief cells (basophilic); in the small intestine, find a villus with a lacteal and crypts with Paneth cells; in the colon, find straight crypts and teniae coli.
 
 ## 16 · Organs Associated with the Digestive Tract
 
-**Book pages 329–348**<br/>Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
+**In this chapter:** Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
+
 
 ### Learning objectives
 
@@ -227,7 +222,7 @@ The liver is both an **endocrine** gland (plasma proteins into blood) and an **e
 
 **Functions:** carbohydrate, lipid, and protein metabolism; **albumin** and clotting factor synthesis; detoxification by SER and peroxisomes; bile production; bilirubin conjugation; storage of glycogen, iron, and vitamins A, D, and B₁₂.
 
-**Zonation.** **Zone I** (periportal) receives the most oxygen and nutrients and performs oxidative metabolism, such as protein synthesis; **zone III** (pericentral) receives the least, and its cells are the first to accumulate fat and undergo ischemic necrosis. Zone III is also where drug biotransformation predominates — the book's basis for many patterns of hepatic injury.
+**Zonation.** **Zone I** (periportal) receives the most oxygen and nutrients and performs oxidative metabolism, such as protein synthesis; **zone III** (pericentral) receives the least, and its cells are the first to accumulate fat and undergo ischemic necrosis. Zone III is also where drug biotransformation predominates — the basis for many patterns of hepatic injury.
 
 ### Biliary Tract & Gallbladder
 
@@ -243,7 +238,7 @@ The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularize
 
 > **TIP** — Bile flows **toward** the portal triad; blood flows **away** from it. The common error is to memorize "everything flows to the center".
 
-### Chapter 16 — one-line answers
+### Chapter 16 — summary
 
 - Major salivary glands make ~90% of saliva; minor glands ~10%.
 - Parotid = serous only. Submandibular = mixed, mainly serous. Sublingual = mixed, mainly mucous with demilunes.
@@ -277,20 +272,14 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 
 **Answer: A** — The portal triad (plus lymphatic) sits at the lobule corner; the central vein sits at the center.
 
-### Plates to study
+### Practical identification
 
-Use **16–1** to place the glands, **16–5** to compare submandibular and sublingual acini, **16–9** for pancreatic acini, **16–12** for the hepatic lobule, **16–16** for hepatocyte organelles, **16–20** for gallbladder mucosa. In **16–12**, trace blood toward the central vein and bile toward the portal area.
-
-- **Fig. 16–1** — *Major salivary glands*.
-- **Fig. 16–5** — *Submandibular gland and sublingual gland*.
-- **Fig. 16–9** — *Pancreatic acini*.
-- **Fig. 16–12** — *Hepatic lobule*.
-- **Fig. 16–16** — *Hepatocyte ultrastructure and major functions*.
-- **Fig. 16–20** — *Gallbladder*.
+In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile. In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
 
 ## 17 · The Respiratory System
 
-**Book pages 349–370**<br/>Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
+**In this chapter:** Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
+
 
 ### Learning objectives
 
@@ -378,7 +367,7 @@ A **serous membrane** of simple squamous mesothelium over connective tissue: **v
 
 Ventilation is pressure-driven: the **diaphragm** and **external intercostal muscles** enlarge the thoracic cavity, pleural pressure falls, the lung expands passively, and air enters. **Elastic recoil** of the lung and surface tension at the alveolar air–liquid interface drive expiration — precisely why surfactant deficiency causes collapse.
 
-> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane, and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection. **Lung cancer** — the book names three types: **squamous cell carcinoma** (smoking-related, arises in segmental bronchi), **adenocarcinoma** (commonest in non-smokers, arises peripherally in bronchioles and alveoli), and **small cell carcinoma** (less common, highly malignant, arising from small granule Kulchitsky cells of the bronchial epithelium).
+> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane, and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection. **Lung cancer** — three main types are described here: **squamous cell carcinoma** (smoking-related, arises in segmental bronchi), **adenocarcinoma** (commonest in non-smokers, arises peripherally in bronchioles and alveoli), and **small cell carcinoma** (less common, highly malignant, arising from small granule Kulchitsky cells of the bronchial epithelium).
 
 > **MICRO** — Walk down the tree and count what disappears. **Cartilage rings + glands = trachea. Cartilage plates + no glands = bronchus. No cartilage, no glands, muscular wall = bronchiole.** Then look for alveoli in the wall: if present, it is a respiratory bronchiole.
 
@@ -386,7 +375,7 @@ Ventilation is pressure-driven: the **diaphragm** and **external intercostal mus
 
 > **TIP** — Club cells are found in **bronchioles**, not alveoli, and are the progenitor cells of the bronchiolar epithelium. A question that places them in the alveolus is testing whether you know the level of the airway.
 
-### Chapter 17 — one-line answers
+### Chapter 17 — summary
 
 - The conducting airway is nose → pharynx → larynx → trachea → bronchi → bronchioles → terminal bronchioles.
 - Respiratory epithelium is pseudostratified ciliated columnar with goblet cells.
@@ -414,20 +403,14 @@ A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D.
 
 **Answer: B** — Type II cells produce surfactant; their immaturity causes neonatal respiratory distress syndrome.
 
-### Plates to study
+### Practical identification
 
-Walk down the airway: larynx (**17–4**), bronchial wall (**17–8**), the transition to alveoli (**17–11**), the blood–air barrier (**17–15**), pleura (**17–18**). At each level, say what has disappeared — cartilage, glands, or cilia.
-
-- **Fig. 17–1** — *Anatomy of the respiratory system*.
-- **Fig. 17–4** — *Larynx*.
-- **Fig. 17–8** — *Bronchial wall*.
-- **Fig. 17–11** — *Pulmonary circulation, terminal and respiratory bronchioles, and alveoli*.
-- **Fig. 17–15** — *Ultrastructure of the blood-air barrier*.
-- **Fig. 17–18** — *Pleura*.
+Follow the airway from trachea to alveolus. At each level, record the epithelium, the cartilage (ring, plate or none), the glands (present or absent) and the smooth muscle. Identify type I and type II pneumocytes, an alveolar macrophage, the blood–air barrier and a pore of Kohn. Distinguish a bronchiole from a tangentially cut vessel and from an alveolar duct.
 
 ## 18 · Skin
 
-**Book pages 371–392**<br/>Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
+**In this chapter:** Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
+
 
 ### Learning objectives
 
@@ -515,9 +498,9 @@ Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root
 
 ### Skin Repair
 
-Repair runs through overlapping stages (the book's Figure 18–20): a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**. Epithelialization is complete before the collagen of the scar remodels.
+Repair runs through overlapping stages: a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**. Epithelialization is complete before the collagen of the scar remodels.
 
-**Supplementary (standard clinical terminology, not used in this chapter):** healing by **first intention** — clean, apposed edges needing minimal granulation tissue; **second intention** — an open wound with abundant granulation tissue, wound contraction by myofibroblasts, and a larger scar. **Burns** are graded by depth: first-degree (epidermis), second-degree (into dermis, blistering), third-degree (full thickness, including appendages, so it cannot re-epithelialize).
+**Standard clinical terminology:** healing by **first intention** — clean, apposed edges needing minimal granulation tissue; **second intention** — an open wound with abundant granulation tissue, wound contraction by myofibroblasts, and a larger scar. **Burns** are graded by depth: first-degree (epidermis), second-degree (into dermis, blistering), third-degree (full thickness, including appendages, so it cannot re-epithelialize).
 
 > **CLINICAL** — **Psoriasis** — T-cell-driven accelerated production and differentiation of keratinocytes, with thickening, scaling, and a defective barrier. **Skin cancer** — about **one-third of all cancers** begin in skin; most arise from basal or spinous cells (basal cell and squamous cell carcinoma), are diagnosed early, and are rarely lethal; incidence rises with fair skin and solar exposure. **Melanoma** — moles can show dysplasia and progress to malignant melanoma, whose cells penetrate the basal lamina and metastasize through blood and lymph. **Merkel cell carcinoma** is **40 times less common** than melanoma but has **twice its mortality**. **Albinism** — defective tyrosinase or another melanin-pathway component; **vitiligo** — loss or reduced activity of melanocytes. **Pemphigus** (intercellular junctions) and **bullous pemphigoid** (dermal–epidermal junction) are the blistering diseases. **Cystic fibrosis** — salty sweat, because CFTR fails to reabsorb salt in the sweat duct.
 
@@ -527,7 +510,7 @@ Repair runs through overlapping stages (the book's Figure 18–20): a **clot** f
 
 > **MNEMONIC** — **"Come Let's Get Some Beer"** — **C**orneum, **L**ucidum, **G**ranulosum, **S**pinosum, **B**asale (superficial to deep) — and remember **lucidum exists only in thick skin**.
 
-### Chapter 18 — one-line answers
+### Chapter 18 — summary
 
 - Epidermal layers, deep to superficial: basale, spinosum, granulosum, lucidum (thick skin only), corneum.
 - Keratinocytes make keratin; they are the most numerous epidermal cells.
@@ -555,14 +538,6 @@ A. Scalp<br/>B. Palm<br/>C. Back<br/>D. Axilla
 
 **Answer: B** — Thick skin with a stratum lucidum and no hair follicles is palmar or plantar skin.
 
-### Plates to study
+### Practical identification
 
-Use **18–1** for the layers and appendages, **18–5** for the strata of thick skin, **18–9** for the Merkel cell, **18–12** for the two encapsulated corpuscles, **18–16** for the glands, **18–20** for the healing sequence. In **18–12**, distinguish the capsule and lamellae of the two corpuscles.
-
-- **Fig. 18–1** — *Layers and appendages of skin*.
-- **Fig. 18–5** — *Granular and clear layers: thick skin*.
-- **Fig. 18–9** — *Merkel or tactile cell*.
-- **Fig. 18–12** — *Meissner and lamellated (Pacinian) corpuscles*.
-- **Fig. 18–16** — *Glands of skin*.
-- **Fig. 18–20** — *Major stages of cutaneous wound healing*.
-
+Identify the five epidermal layers in thick skin and the four in thin skin, and find the dermal papilla, the reticular dermis and the hypodermis. Name the appendages: hair follicle with its root sheaths and arrector pili, sebaceous gland (holocrine), eccrine gland (merocrine, coiled) and apocrine gland (wide lumen). Distinguish Meissner from Pacinian corpuscles by location, size and capsule.

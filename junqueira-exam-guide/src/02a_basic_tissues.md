@@ -2,7 +2,8 @@
 
 ## 4 · Epithelial Tissue
 
-**Book pages 71–95**<br/>Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
+**In this chapter:** Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
+
 
 ### Learning objectives
 
@@ -17,7 +18,7 @@ By the end of this chapter you should be able to:
 
 Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **all substances that enter or leave an organ must cross this type of tissue**. Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
 
-**The four basic tissues** (the book's Table 4–1, and the framework for the whole subject):
+**The four basic tissues** (the framework for the whole subject):
 
 | Tissue | Cells | Extracellular matrix | Main functions |
 |---|---|---|---|
@@ -112,7 +113,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 
 > **TIP** — Where is ciliated simple columnar epithelium found? The **uterine tube** — cilia move the ovum — and parts of the respiratory tract, where the epithelium is pseudostratified. Students often wrongly assign all ciliated epithelium to the lung.
 
-### Chapter 4 — one-line answers
+### Chapter 4 — summary
 
 - Epithelium sits on a basal lamina, is avascular, and is normally adjacent to connective tissue.
 - Simple = one layer (exchange, absorption, secretion); stratified = protection; pseudostratified = all cells touch the basement membrane.
@@ -144,20 +145,14 @@ A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>
 
 **Answer: B** — Keratinized stratified squamous epithelium is the body's answer to mechanical wear plus water loss (skin, hard palate, gingiva).
 
-### Plates to study
+### Practical identification
 
-Begin with **4–1**: name the epithelium, then find the basal lamina and the connective tissue beneath. Use **4–6** for junction structure, **4–12** versus **4–17** for simple versus pseudostratified, **4–23** for apocrine secretion, **4–28** for the apical specializations of an absorptive cell.
-
-- **Fig. 4–1** — *Epithelia and adjacent connective tissue*.
-- **Fig. 4–6** — *View of a tight junction after cryofracture*.
-- **Fig. 4–12** — *Simple squamous epithelium*.
-- **Fig. 4–17** — *Pseudostratified epithelium*.
-- **Fig. 4–23** — *Apocrine secretion in the mammary gland*.
-- **Fig. 4–28** — *Features of absorptive cells*.
+Classify any epithelium with two questions: how many layers, and what shape is the surface cell? Then find the basal lamina, the underlying connective tissue and the apical specialization — microvilli, cilia, stereocilia or keratin. Distinguish pseudostratified from stratified by checking whether every cell reaches the basement membrane. In a gland, decide whether the secretory unit is serous, mucous or mixed, and whether the duct is intercalated, striated or excretory.
 
 ## 5 · Connective Tissue
 
-**Book pages 96–121**<br/>Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
+**In this chapter:** Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
+
 
 ### Learning objectives
 
@@ -228,7 +223,7 @@ An amorphous, hydrated gel of **glycosaminoglycans (GAGs)**, **proteoglycans**, 
 - **Mucous (Wharton's jelly)** — gelatinous, in the umbilical cord.
 - **Embryonic** — mesenchyme.
 
-Besides fibroblasts, the resident population includes **adipocytes**, **macrophages**, mast cells, and the **leukocytes** that migrate in (especially **lymphocytes** and plasma cells in chronic inflammation) — which is why the book lists several types of fixed and wandering cells.
+Besides fibroblasts, the resident population includes **adipocytes**, **macrophages**, mast cells, and the **leukocytes** that migrate in (especially **lymphocytes** and plasma cells in chronic inflammation) — which is why older descriptions divided them into fixed and wandering cells.
 
 **Repair.** Inflammation → **granulation tissue** (proliferating capillaries, fibroblasts, macrophages) → collagen deposition → **scar**. **Primary intention** occurs in clean apposed wounds; **secondary intention** in larger, open wounds with more granulation and contraction.
 
@@ -240,7 +235,7 @@ Besides fibroblasts, the resident population includes **adipocytes**, **macropha
 
 > **TIP** — The distinction that matters most here is **dense regular versus dense irregular**, and the answer is one word: **direction**. Regular = parallel = tendon = one axis of force. Irregular = random = dermis = many axes.
 
-### Chapter 5 — one-line answers
+### Chapter 5 — summary
 
 - Connective tissue = cells + fibers + ground substance; it is vascular except in cartilage.
 - Type I collagen = bone, tendon, dermis, scar. Type II = hyaline and elastic cartilage. Type III = reticulin. Type IV = basal lamina.
@@ -272,20 +267,14 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 
 **Answer: B** — Vitamin C is the cofactor for prolyl and lysyl hydroxylase; without hydroxylation the triple helix is unstable — scurvy.
 
-### Plates to study
+### Practical identification
 
-Use these to separate matrix from cells: mesenchyme (**5–1**), mast cells (**5–5**), collagen assembly (**5–9**), elastogenesis (**5–14**), mucoid tissue (**5–22**). In **5–18**, follow fluid movement and ask which compartment is continuous with the blood.
-
-- **Fig. 5–1** — *Embryonic mesenchyme*.
-- **Fig. 5–5** — *Mast cells*.
-- **Fig. 5–9** — *The collagen subunit*.
-- **Fig. 5–14** — *Formation of elastic fibers*.
-- **Fig. 5–18** — *Movement of fluid in connective tissue*.
-- **Fig. 5–22** — *Mucoid tissue*.
+Identify the three fiber types by their appearance and staining: collagen bundles (pink with eosin, blue with trichrome), elastic fibers (wavy, refractile, black with orcein) and reticular fibers (fine and argyrophilic). Name the resident cells — fibroblast, macrophage, mast cell with its heparin granules, adipocyte, and plasma cell with its clock-face nucleus — and the ground substance that fills the spaces. Distinguish loose from dense irregular and dense regular tissue by fiber orientation and cell density.
 
 ## 6 · Adipose Tissue
 
-**Book pages 122–128**<br/>White Adipose Tissue · Brown Adipose Tissue
+**In this chapter:** White Adipose Tissue · Brown Adipose Tissue
+
 
 ### Learning objectives
 
@@ -306,7 +295,7 @@ Adipose tissue is an endocrine and metabolic organ disguised as a filling tissue
 
 Functions: energy storage, insulation, cushioning of organs (retro-orbital, perirenal, mesenteric), and **endocrine signaling**.
 
-**Where the stored fat comes from — three sources, straight from the book:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesized by the adipocytes themselves**. Mobilization is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
+**Where the stored fat comes from — three sources:** dietary fat carried as **chylomicrons**; triglycerides made in the **liver** and carried as **VLDLs**; and fatty acids and glycerol **synthesized by the adipocytes themselves**. Mobilization is by **hormone-sensitive lipase**, activated by **norepinephrine** from the adrenal gland and sympathetic nerves, and by growth hormone; **insulin inhibits** that lipase and stimulates lipid synthesis. The cells are supported by **reticular fibers**, with connective tissue septa dividing the tissue into lobules.
 
 **Adipose-derived factors** — the ones worth knowing (the last is an enzyme, not an adipokine):
 
@@ -336,7 +325,7 @@ Found in the fetus and newborn (interscapular, axillary, perirenal, along the gr
 
 > **TIP** — Do not confuse adipose tissue with **steatosis**. Adipocytes are a normal tissue with a capsule and vessels; steatosis is lipid accumulating inside hepatocytes or myocytes as vacuoles.
 
-### Chapter 6 — one-line answers
+### Chapter 6 — summary
 
 - White adipocyte: **one large lipid droplet**, nucleus flattened at the rim, few mitochondria.
 - Brown adipocyte: **many small droplets**, round central nucleus, many cristae-rich mitochondria.
@@ -365,12 +354,6 @@ A. Unilocular droplets and few mitochondria<br/>B. Multilocular droplets, abunda
 
 **Answer: B** — Brown adipocytes are built for heat production: many small droplets for rapid lipolysis, cristae-rich mitochondria, and UCP1.
 
-### Plates to study
+### Practical identification
 
-Four figures, four ideas: unilocular adipocytes (**6–1**), storage and mobilization (**6–2**), the two developmental routes (**6–3**), and brown fat with its multilocular cells and dense mitochondria (**6–4**).
-
-- **Fig. 6–1** — *White adipose tissue*.
-- **Fig. 6–2** — *Lipid storage and mobilization from adipocytes*.
-- **Fig. 6–3** — *Development of white and brown fat cells*.
-- **Fig. 6–4** — *Brown adipose tissue*.
-
+Distinguish white from brown adipose tissue in a single section. White adipocytes are large, unilocular and appear empty after lipid extraction; brown adipocytes are smaller, multilocular, with central nuclei and eosinophilic cytoplasm packed with mitochondria. Identify the capillary network around brown adipocytes and explain why the two tissues look so different after routine processing, and what a frozen section would add.

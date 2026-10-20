@@ -2,7 +2,8 @@
 
 ## 19 · The Urinary System
 
-**Book pages 393–412**<br/>Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
+**In this chapter:** Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
+
 
 ### Learning objectives
 
@@ -21,7 +22,7 @@ The kidney is a **countercurrent filtration and reabsorption machine** built fro
 
 Each kidney is bean-shaped, about **12 cm long, 6 cm wide, and 2.5 cm thick** in adults, with a convex lateral border and a concave medial **hilum**, which admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
 
-- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (the chapter summary says 8–12).
+- **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (some descriptions give 8–12; both counts are in use).
 - **Renal columns (of Bertin)** — cortical tissue between pyramids.
 - **Lobe** = pyramid + overlying cortex; **lobule** = a medullary ray + the cortical tissue around it.
 - **Papilla** → minor calyx → major calyx → renal pelvis → ureter.
@@ -82,7 +83,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 > **TIP** — The proximal tubule is the **most eosinophilic** structure in the renal cortex, packed with mitochondria for active transport. Students often call it "basophilic" because the brush border looks fuzzy — the cytoplasm is pink.
 
-### Chapter 19 — one-line answers
+### Chapter 19 — summary
 
 - Kidney: **8–15 pyramids**; about **1.25 million nephrons**.
 - Lobe = pyramid + cortex; lobule = medullary ray + surrounding cortex.
@@ -115,20 +116,14 @@ A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte s
 
 **Answer: C** — Podocyte foot processes and their slit diaphragms form the final size filter; their loss produces proteinuria.
 
-### Plates to study
+### Practical identification
 
-Begin at the corpuscle: **19–8** contrasts proximal and distal tubules, **19–11** the medullary segments, **19–15** the papilla and calyx, **19–18** the urethra. Use **19–4** to trace the cortical microvasculature from interlobular artery to peritubular capillary.
-
-- **Fig. 19–1** — *Kidney*.
-- **Fig. 19–4** — *Microvasculature of the renal cortex*.
-- **Fig. 19–8** — *Renal cortex: proximal and distal convoluted tubules*.
-- **Fig. 19–11** — *Renal medulla: nephron loops and collecting ducts*.
-- **Fig. 19–15** — *Renal papilla, collecting ducts, and minor calyx*.
-- **Fig. 19–18** — *Urethra*.
+In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm, brush border and lumen; find a renal corpuscle and identify its parietal layer, podocytes and mesangial cells. In the medulla, identify thin and thick limbs and collecting ducts. Trace the vascular route from interlobular artery to peritubular capillary or vasa recta. In the bladder, identify urothelium with umbrella cells and the detrusor muscle.
 
 ## 20 · Endocrine Glands
 
-**Book pages 413–438**<br/>Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
+**In this chapter:** Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
+
 
 ### Learning objectives
 
@@ -178,7 +173,7 @@ Each adrenal gland is a flattened half-moon about **4–6 cm long, 1–2 cm wide
 
 ### Pancreatic Islets
 
-Pale, round clusters between the acini of the exocrine pancreas (Chapter 16). The pancreas has **more than 1 million islets**, mostly in the tail, but they occupy only **1–2%** of the organ's volume. Most are **100–200 µm** in diameter and contain several hundred cells. The book recognizes **four major cell types**:
+Pale, round clusters between the acini of the exocrine pancreas (Chapter 16). The pancreas has **more than 1 million islets**, mostly in the tail, but they occupy only **1–2%** of the organ's volume. Most are **100–200 µm** in diameter and contain several hundred cells. There are **four major cell types**:
 
 | Cell | Product | Notes |
 |---|---|---|
@@ -224,7 +219,7 @@ A pine-cone-shaped organ about **5–8 × 3–5 mm**, attached to the third vent
 
 > **TIP** — The adrenal cortex has **three** zones and the medulla has **none** of the cortex's function. Catecholamines are **medullary**.
 
-### Chapter 20 — one-line answers
+### Chapter 20 — summary
 
 - Pars distalis = **75%** of the adenohypophysis; acidophils, basophils, chromophobes.
 - Acidophils = somatotrophs (GH) and lactotrophs (prolactin); basophils = corticotrophs, thyrotrophs, gonadotrophs.
@@ -257,20 +252,14 @@ A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<
 
 **Answer: B** — Pheochromocytoma is a chromaffin-cell tumor releasing catecholamines.
 
-### Plates to study
+### Practical identification
 
-Use **20–1** to place the glands, **20–6** to separate acidophils, basophils and chromophobes, **20–10** for feedback, **20–15** for the adrenal zones, **20–19** for thyroid follicles and C cells, **20–24** for the pineal gland.
-
-- **Fig. 20–1** — *Locations of the major endocrine glands and the hormones they release*.
-- **Fig. 20–6** — *Pars distalis: Acidophils, basophils, and chromophobes*.
-- **Fig. 20–10** — *Negative feedback loops affecting anterior pituitary secretion*.
-- **Fig. 20–15** — *Adrenal cortex*.
-- **Fig. 20–19** — *Thyroid follicular cells and parafollicular cells*.
-- **Fig. 20–24** — *Pineal gland*.
+Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicles (thyroid) and clusters (pancreatic islets). In the pituitary, distinguish acidophils, basophils and chromophobes, and find the pars nervosa; in the adrenal, name the three zones and the medulla; in the thyroid, find colloid, follicular cells and parafollicular cells; in the parathyroid, chief and oxyphil cells; in the pineal, pinealocytes and corpora arenacea.
 
 ## 21 · The Male Reproductive System
 
-**Book pages 439–459**<br/>Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
+**In this chapter:** Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
+
 
 ### Learning objectives
 
@@ -304,7 +293,7 @@ The testis does two jobs that require opposite conditions: **producing sperm**, 
 
 **Spermatogenesis:** **spermatogonia → primary spermatocyte → secondary spermatocyte → spermatid → spermatozoon.** **Meiosis I** halves the chromosome number and **meiosis II** separates chromatids, giving four spermatids per primary spermatocyte. The germ cells do not divide in isolation: cytokinesis is incomplete, so clones stay joined by **cytoplasmic bridges** — a syncytium that lets a haploid cell use products of the full diploid genome, including genes on X or Y. The whole sequence from the last spermatogonial mitosis to spermatid formation takes **about 2 months**, and the testis produces about **200 million sperm per day**.
 
-**Spermiogenesis** is the metamorphosis of a round spermatid into a sperm, and the book divides it into **four phases**:
+**Spermiogenesis** is the metamorphosis of a round spermatid into a sperm, and it is conventionally divided into **four phases**:
 
 1. **Golgi phase** — proacrosomal vesicles from the Golgi coalesce into a single **acrosomal cap**; centrioles migrate to the opposite pole and one becomes the basal body of the flagellum.
 2. **Cap phase** — the acrosome spreads over about half the nucleus. It is a specialized **lysosome** containing **hyaluronidase** and the trypsin-like protease **acrosin**.
@@ -313,7 +302,7 @@ The testis does two jobs that require opposite conditions: **producing sperm**, 
 
 Because the barrier makes the adluminal compartment immunologically privileged, sperm antigens are not tolerized — which is why vasectomy can produce anti-sperm antibodies.
 
-**Leydig (interstitial) cells** — large, polygonal, **eosinophilic** cells with central nuclei, abundant SER, mitochondria, and lipid droplets, lying singly or in small groups near capillaries. They secrete **testosterone** under **LH**, which the book also calls **interstitial cell-stimulating hormone (ICSH)** — the same hormone named LH in females. Fetal Leydig cells are active in the third and fourth months of pregnancy, then become quiescent until puberty.
+**Leydig (interstitial) cells** — large, polygonal, **eosinophilic** cells with central nuclei, abundant SER, mitochondria, and lipid droplets, lying singly or in small groups near capillaries. They secrete **testosterone** under **LH**, also called **interstitial cell-stimulating hormone (ICSH)** — the same hormone named LH in females. Fetal Leydig cells are active in the third and fourth months of pregnancy, then become quiescent until puberty.
 
 ### Intratesticular Ducts
 
@@ -349,7 +338,7 @@ Erection is a vascular event with a molecular explanation worth memorizing: para
 
 > **TIP** — FSH acts on **Sertoli** cells; LH acts on **Leydig** cells. One sentence, and the two are hard to confuse.
 
-### Chapter 21 — one-line answers
+### Chapter 21 — summary
 
 - About 250 lobules per testis, each with 1–4 seminiferous tubules, 150–250 µm wide and 30–70 cm long.
 - Spermatogenesis takes about 2 months and yields about 200 million sperm per day.
@@ -381,20 +370,14 @@ A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular 
 
 **Answer: C** — Germ-cell tumors arise from the spermatogenic lineage; Leydig and Sertoli tumors are sex-cord stromal tumors and less common.
 
-### Plates to study
+### Practical identification
 
-Use **21–1** for the duct system, **21–5** to follow spermatogenesis into spermiogenesis, **21–8** for a single differentiating spermatid, **21–12** for the vas deferens, **21–15** for prostatic zones, **21–19** for erectile tissue. Name the epithelium at each level.
-
-- **Fig. 21–1** — *The male reproductive system*.
-- **Fig. 21–5** — *Spermatogenesis and spermiogenesis*.
-- **Fig. 21–8** — *Differentiating spermatid*.
-- **Fig. 21–12** — *Ductus deferens*.
-- **Fig. 21–15** — *Organization of the prostate gland*.
-- **Fig. 21–19** — *Penile urethra and erectile tissue*.
+In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each stage, peritubular myoid cells and Leydig cells. Follow sperm from tubule to rete testis, efferent ductules (scalloped epithelium), epididymis (pseudostratified with stereocilia), vas deferens (thick muscle) and prostate (tubuloacinar glands, corpora amylacea). Distinguish the prostatic zones by gland architecture and stroma.
 
 ## 22 · The Female Reproductive System
 
-**Book pages 460–489**<br/>Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
+**In this chapter:** Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
+
 
 ### Learning objectives
 
@@ -435,9 +418,9 @@ Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thi
 - **Granulosa-lutein cells** — the old granulosa cells; they enlarge to **20–35 µm** without dividing, make up about **80%** of the gland, and secrete **progesterone** (their SER expands, and they retain some aromatase).
 - **Theca-lutein cells** — from the theca interna; about **half the size**, darker staining, lying in the peripheral folds, and secreting **androstenedione** and **estrogens**.
 
-The LH surge sustains progesterone secretion for **10–12 days**. (The chapter summary reverses the two cell types, giving estrogen to the granulosa-lutein cells; the body text and Figure 22–12, followed here, give progesterone to the granulosa-lutein cells and estrogens to the theca-lutein cells.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
+The LH surge sustains progesterone secretion for **10–12 days**. (A common error is to reverse the two populations: the granulosa-lutein cells make progesterone, and the theca-lutein cells make androgens and estrogens.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
 
-**The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3**, all made by the oocyte, form the sperm-binding receptor; binding of a capacitated sperm to this coat begins the acrosomal reaction. The book's Summary of Key Points calls them "ZO proteins" — the body text and Figure 22–6 give ZP, and the figure notes four related glycoproteins.
+**The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3**, all made by the oocyte, form the sperm-binding receptor; binding of a capacitated sperm to this coat begins the acrosomal reaction. In humans the family also includes ZP4.
 
 **Ovulation, step by step.** The LH surge triggers: completion of **meiosis I** with extrusion of the **first polar body**; granulosa production of fluid rich in prostaglandins, proteoglycans, and proteases; **hyaluronan** release that loosens the cumulus; activation of **plasmin**, which digests collagen at the **stigma** (the ischemic bulge on the ovarian surface); and contraction of **theca externa** smooth muscle. The follicle ruptures, releasing the **secondary oocyte, arrested in metaphase II**, wrapped in the **corona radiata** — viable for about **24 hours**. If a sperm arrives, the oocyte completes meiosis II and emits the **second polar body**; the two pronuclei fuse to form the **zygote**.
 
@@ -525,11 +508,11 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 
 > **MNEMONIC** — **"Proliferative = Pencil-thin glands; Secretory = Saw-tooth and swollen."**
 
-> **SOURCE NOTE** — The chapter's Summary of Key Points says granulosa-lutein cells produce estrogen and theca-lutein cells produce progesterone. That reverses the book's own body text and figure legend (granulosa-lutein → progesterone; theca-lutein → estrogens), and it reverses the physiology. This guide follows the body text. If you meet the summary line in a test, answer **progesterone from granulosa-lutein cells**.
+> **COMMON ERROR** — Some summaries reverse the two lutein cell populations, giving estrogen to the granulosa-lutein cells. The correct assignment, and the one that follows from the two-cell mechanism, is **progesterone from the granulosa-lutein cells and estrogens from the theca-lutein cells**.
 
 > **TIP** — The corpus luteum secretes **progesterone**, and it is maintained by **LH** (and, in pregnancy, by **hCG**). Do not say estrogen maintains the corpus luteum.
 
-### Chapter 22 — one-line answers
+### Chapter 22 — summary
 
 - Ovary has three regions: cortex with follicles, medulla with vessels, and a surface of **germinal epithelium** over a tunica albuginea.
 - Follicle sequence: primordial → primary → secondary (antral) → mature (Graafian) → ovulation.
@@ -561,20 +544,14 @@ A. Menstrual<br/>B. Proliferative<br/>C. Secretory<br/>D. Postmenopausal
 
 **Answer: C** — The secretory phase is defined by tortuous secreting glands under progesterone.
 
-### Plates to study
+### Practical identification
 
-Follow one cycle: **22–6** for the growing follicle and zona pellucida, **22–12** for the corpus luteum, **22–17** for the ovarian–endometrial correlation, **22–23** for cervix, **22–28** for mammary secretion. In **22–12**, identify both lutein cell populations.
-
-- **Fig. 22–1** — *The female reproductive system and overview of ovary*.
-- **Fig. 22–6** — *Ultrastructure of primary follicle and zona pellucida*.
-- **Fig. 22–12** — *Corpus luteum*.
-- **Fig. 22–17** — *Correlation of ovarian and menstrual cycles with levels of their controlling hormones*.
-- **Fig. 22–23** — *Cervix*.
-- **Fig. 22–28** — *Secretion in the mammary gland*.
+In the ovary, stage the cycle by the dominant follicle or corpus luteum; identify the oocyte, zona pellucida, granulosa, theca interna and externa, and the two lutein cell populations. In the uterus, date the endometrium by gland shape and stromal edema, and identify spiral arteries. In the cervix, find the transformation zone; in the mammary gland, distinguish resting, proliferative and lactating lobules.
 
 ## 23 · The Eye & Ear: Special Sense Organs
 
-**Book pages 490–524**<br/>Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
+**In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
+
 
 ### Learning objectives
 
@@ -665,7 +642,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 
 > **TIP** — Rods detect **dim light**, cones detect **color and detail**; the **fovea has only cones**, which is why acuity is highest there and color vision is lost first in the periphery.
 
-### Chapter 23 — one-line answers
+### Chapter 23 — summary
 
 - The eyeball is about 22 mm; the sclera is 0.5 mm thick (1 mm posteriorly).
 - Cornea: epithelium, Bowman membrane, stroma, Descemet membrane, endothelium — avascular and transparent.
@@ -695,14 +672,6 @@ A. Ciliary processes<br/>B. Pupil<br/>C. Trabecular meshwork and canal of Schlem
 
 **Answer: C** — Glaucoma results when aqueous humor cannot drain through the trabecular meshwork into the canal of Schlemm.
 
-### Plates to study
+### Practical identification
 
-Use **23–1** for the tunics, **23–7** for the ciliary epithelium, **23–14** for retinal layers and the fovea, **23–20** for the lacrimal gland, **23–27** for hair-cell transduction, **23–33** for sound-wave interpretation along the cochlea. In **23–14**, follow the light path from vitreous to pigment epithelium.
-
-- **Fig. 23–1** — *Internal anatomy of the eye*.
-- **Fig. 23–7** — *Epithelium of ciliary processes*.
-- **Fig. 23–14** — *General organization and specialized areas of the retina*.
-- **Fig. 23–20** — *Lacrimal gland*.
-- **Fig. 23–27** — *Mechanotransduction in hair cells*.
-- **Fig. 23–33** — *Interpretation of sound waves in the cochlea*.
-
+In the eye, identify the five corneal layers, the sclera, choroid, ciliary body with its bilaminar epithelium, iris, lens and the ten retinal layers. Locate the fovea and optic disc and explain the differences in photoreceptor density. In the ear, identify the three cochlear compartments, the organ of Corti with inner and outer hair cells, the tectorial and basilar membranes, and the cristae and maculae.

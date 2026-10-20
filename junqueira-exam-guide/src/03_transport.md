@@ -2,7 +2,8 @@
 
 ## 11 · The Circulatory System
 
-**Book pages 215–236**<br/>Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
+**In this chapter:** Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
+
 
 ### Learning objectives
 
@@ -67,7 +68,7 @@ Begins as blind-ended **lymphatic capillaries** with overlapping endothelial fla
 
 > **TIP** — The three capillaries are distinguished by **continuity, not size**: continuous (tight), fenestrated (pores), sinusoidal (gaps wide enough for a red cell). Liver, spleen, marrow = sinusoidal. Kidney glomerulus and intestine = fenestrated. Brain = continuous with tight junctions.
 
-### Chapter 11 — one-line answers
+### Chapter 11 — summary
 
 - Three tunics: intima (endothelium + subendothelial tissue), media (smooth muscle, elastic lamellae), adventitia (collagen).
 - Elastic arteries have many concentric elastic lamellae; muscular arteries have a prominent internal elastic lamina.
@@ -94,20 +95,14 @@ A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
 
 **Answer: B** — Numerous concentric elastic lamellae in a thick media define an elastic artery (aorta, pulmonary artery).
 
-### Plates to study
+### Practical identification
 
-Use **11–1** to place the circuit, **11–6** to compare artery and vein walls layer by layer, **11–11** for a muscular artery, **11–20** for a sinusoid, **11–25** for a lymphatic valve. In **11–15**, trace the two routes through a microvascular bed.
-
-- **Fig. 11–1** — *The cardiovascular system*.
-- **Fig. 11–6** — *Walls of arteries and veins*.
-- **Fig. 11–11** — *Muscular artery*.
-- **Fig. 11–15** — *Comparison of the simple microvascular pathway with arteriovenous shunts and portal systems*.
-- **Fig. 11–20** — *Sinusoidal capillary*.
-- **Fig. 11–25** — *Lymphatic vessels and valve*.
+Compare artery, vein and capillary in one section. Name the three tunics, and judge the artery by a thick media with concentric smooth-muscle layers and an internal elastic lamina; judge the vein by a thin media, a wide lumen and a thick adventitia. Distinguish elastic from muscular arteries by the amount of elastin in the media. In a capillary bed, classify the endothelium as continuous, fenestrated or sinusoidal and relate that to the organ.
 
 ## 12 · Blood
 
-**Book pages 237–253**<br/>Composition of Plasma · Blood Cells
+**In this chapter:** Composition of Plasma · Blood Cells
+
 
 ### Learning objectives
 
@@ -126,7 +121,7 @@ Blood is connective tissue with a liquid matrix. Its cells all derive from one s
 
 About **55% of blood volume**. Water plus plasma proteins — **albumin, α- and β-globulins, complement proteins, and fibrinogen**, all secreted in the **liver**, plus the **immunoglobulins** — and electrolytes, nutrients, hormones, and waste.
 
-The book's Table 12–1 quantifies the mixture:
+The composition of plasma is summarized in the following table:
 
 | Component | Share | Job |
 |---|---|---|
@@ -151,7 +146,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 - **Reticulocytes** are young red cells with residual RNA, appearing polychromatic; a raised count signals active marrow output.
 - **Hematocrit** — the sedimented erythrocyte column — is about **44% of total blood volume** in healthy adults; the thin layer between cells and plasma is the **buffy coat** of leukocytes and platelets. An average adult has **5–6 L** of blood.
 
-**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). The granulocytes are **12–15 µm**, with eosinophils about the same size as neutrophils or slightly larger. Lymphocytes range from **6 to 15 µm** — small, medium, and large forms — and monocytes are **12–20 µm**, the largest of the leukocytes in a smear. (The chapter's body text gives monocytes as 12–15 µm; the Fig. 12–12 legend gives 12–20 µm. Both are recorded here rather than one being silently preferred.)
+**The leukocytes** — broadly grouped as **granulocytes** (neutrophils, eosinophils, basophils) and **agranulocytes** (lymphocytes, monocytes). The granulocytes are **12–15 µm**, with eosinophils about the same size as neutrophils or slightly larger. Lymphocytes range from **6 to 15 µm** — small, medium, and large forms — and monocytes are **12–20 µm**, the largest of the leukocytes in a smear. (Estimates differ: 12–15 µm in some descriptions, 12–20 µm in measurements made on smears. Both are recorded here rather than one being silently preferred.)
 
 | Cell | % of WBC | Size | Nucleus | Cytoplasm | Main function |
 |---|---|---|---|---|---|
@@ -159,7 +154,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 | **Eosinophil** | **1–4%** | **12–15 µm** (neutrophil-sized or slightly larger) | **Bilobed** | **Bright orange-red** granules | **Parasites and allergy**; major basic protein |
 | **Basophil** | **0.5–1%** | **12–15 µm** | **S-shaped**, obscured | **Large dark blue** granules | **Histamine and heparin** |
 | **Lymphocyte** | **20–40%** | **6–15 µm** (small, medium, large) | Round, dense | Pale rim | **T cells**, **B cells**, **NK cells** |
-| **Monocyte** | **2–8%** | **12–20 µm** (largest; body text 12–15 µm) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
+| **Monocyte** | **2–8%** | **12–20 µm** (largest; some descriptions give 12–15 µm) | **Kidney-shaped** | Abundant blue-gray | Become **macrophages** |
 
 **Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
@@ -175,7 +170,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 
 > **TIP** — Eosinophil granules stain with eosin because they are **basic proteins** — the naming is the reverse of what students expect. The basophil's granules contain **heparin and histamine**, so the "basic" cell is the one full of allergy mediators.
 
-### Chapter 12 — one-line answers
+### Chapter 12 — summary
 
 - Plasma is the fluid phase; serum is plasma after clotting and lacks fibrinogen.
 - Erythrocytes are biconcave, 7.5 µm, anucleate, and live about 120 days.
@@ -203,20 +198,14 @@ A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
 
 **Answer: B** — Bilobed nucleus plus large eosinophilic granules is the eosinophil.
 
-### Plates to study
+### Practical identification
 
-Begin with **12–1** to relate the layers of a centrifuged sample to the formed elements. Then use **12–4** for erythrocyte shape, **12–6** for leukocyte emigration, **12–9** and **12–11** to separate granulocyte from agranulocyte nuclei, and **12–14** for the platelet plug.
-
-- **Fig. 12–1** — *Composition of whole blood*.
-- **Fig. 12–4** — *Normal human erythrocytes*.
-- **Fig. 12–6** — *Diagram of events involving leukocytes in a postcapillary venule at sites of inflammation*.
-- **Fig. 12–9** — *Eosinophils*.
-- **Fig. 12–11** — *Lymphocytes*.
-- **Fig. 12–14** — *Platelet aggregation, degranulation, and fibrin clot formation*.
+On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), platelets (small purple fragments) and each leukocyte: neutrophil (segmented nucleus, fine granules), eosinophil (bilobed, orange-red granules), basophil (dark granules obscuring the nucleus), lymphocyte (round dense nucleus, thin cytoplasm) and monocyte (kidney-shaped nucleus, abundant blue-gray cytoplasm). Perform a differential count and explain what each cell does.
 
 ## 13 · Hemopoiesis
 
-**Book pages 254–266**<br/>Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
+**In this chapter:** Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
+
 
 ### Learning objectives
 
@@ -287,7 +276,7 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 
 > **TIP** — Two facts that are easy to invert: **EPO comes from the kidney** (peritubular interstitial cells), and **TPO comes mostly from the liver**. Students routinely invert these.
 
-### Chapter 13 — one-line answers
+### Chapter 13 — summary
 
 - Hemopoiesis shifts from yolk sac → liver and spleen → bone marrow; the adult site is red marrow of the axial skeleton.
 - The marrow stroma (reticular cells, macrophages, adipocytes, endothelial cells) forms the hematopoietic niche.
@@ -315,20 +304,14 @@ A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
 
 **Answer: A** — The megakaryocyte is the polyploid platelet factory; osteoclasts are multinucleated but resorb bone, not make platelets.
 
-### Plates to study
+### Practical identification
 
-Use **13–1** to follow where hemopoiesis moves during development, **13–4** for marrow architecture, **13–6** for the erythroid series in order, **13–11** for a single maturing granulocyte, **13–14** for platelet production. Name each cell by its stage, not its size.
-
-- **Fig. 13–1** — *Shifting locations of hemopoiesis during development and aging*.
-- **Fig. 13–4** — *Red bone marrow (active in hemopoiesis)*.
-- **Fig. 13–6** — *Summary of erythrocyte maturation*.
-- **Fig. 13–9** — *Developing erythrocytes and granulocytes in marrow*.
-- **Fig. 13–11** — *Neutrophilic myelocyte*.
-- **Fig. 13–14** — *Megakaryocyte ultrastructure*.
+In a marrow smear, identify the erythroid series by its round nucleus, progressively condensed chromatin and pink cytoplasm, and the granulocytic series by its granules and nuclear indentation. Name each stage by nuclear shape and cytoplasmic color rather than by size alone. Find a megakaryocyte by its large, lobulated nucleus, and explain how platelets are shed from it.
 
 ## 14 · The Immune System & Lymphoid Organs
 
-**Book pages 267–294**<br/>Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
+**In this chapter:** Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
+
 
 ### Learning objectives
 
@@ -353,11 +336,11 @@ The immune system is a set of organs arranged to **bring antigen to lymphocytes*
 | Cells | **Granulocytes** (mainly neutrophils), macrophages, dendritic cells, NK cells | **T and B lymphocytes** |
 | Mediators | **Defensins, complement, lysozyme, interferons**, cytokines | Antibodies, cytotoxic granules |
 
-The book's one-line definition is worth memorizing: innate immunity is present from birth and uses leukocytes (mainly granulocytes) plus soluble proteins; adaptive immunity develops more slowly and is **based on antigen presentation to lymphocytes**.
+A working definition is worth memorizing: innate immunity is present from birth and uses leukocytes (mainly granulocytes) plus soluble proteins; adaptive immunity develops more slowly and is **based on antigen presentation to lymphocytes**.
 
 ### Cytokines
 
-**Polypeptide hormones of the immune system** — the book's phrase — secreted by immune cells to regulate one another. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their excessive release produces a cytokine storm and the systemic inflammatory response.
+**Polypeptide hormones of the immune system**, secreted by immune cells to regulate one another. The ones worth naming: **interleukins** (IL-1, IL-2 for T-cell proliferation, IL-4 for IgE and Th2 responses, IL-5 for eosinophils, IL-6 for acute-phase response), **interferons** (antiviral; IFN-γ activates macrophages), **TNF-α** (inflammation, fever, cachexia), **chemokines** (directed leukocyte migration), and **colony-stimulating factors** (hemopoiesis, Chapter 13). Cytokines act locally (paracrine) or on the secreting cell (autocrine), and their excessive release produces a cytokine storm and the systemic inflammatory response.
 
 ### Antigens & Antibodies
 
@@ -450,7 +433,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 
 > **TIP** — Two negative facts are worth more than most positive ones: the **thymus has no follicles**, and the **spleen has no afferent lymphatics**.
 
-### Chapter 14 — one-line answers
+### Chapter 14 — summary
 
 - Innate immunity = present at birth, granulocytes and soluble proteins; adaptive = antigen presentation to lymphocytes.
 - MHC I is on **all nucleated cells** and presents endogenous peptide to **CD8⁺** cells.
@@ -485,14 +468,6 @@ A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neura
 
 **Answer: B** — DiGeorge syndrome is a third/fourth pharyngeal pouch defect affecting the thymus and parathyroids.
 
-### Plates to study
+### Practical identification
 
-Use **14–1** to place the organs and their lymphatic connections, **14–16** for the three regions of a lymph node, **14–21** for spleen, **14–11** for thymic selection. In **14–26**, explain how stave cells filter erythrocytes.
-
-- **Fig. 14–1** — *The lymphoid organs and main paths of lymphatic vessels*.
-- **Fig. 14–6** — *Activation of lymphocytes*.
-- **Fig. 14–11** — *Thymic selection of functional but not self-reactive T cells*.
-- **Fig. 14–16** — *Regions of a lymph node*.
-- **Fig. 14–21** — *Spleen*.
-- **Fig. 14–26** — *Structure and function of splenic sinusoids*.
-
+Compare the four lymphoid organs. In the thymus, find lobules with a dark cortex, pale medulla and Hassall corpuscles; in a lymph node, the capsule, subcapsular sinus, cortical follicles, paracortex with high endothelial venules, and medullary cords; in the spleen, white pulp around a central arteriole and red pulp with sinusoids and cords; in a tonsil, crypts and a partial capsule. Use the presence or absence of afferent lymphatics to separate them.

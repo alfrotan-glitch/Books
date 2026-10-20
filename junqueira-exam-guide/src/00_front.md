@@ -1,57 +1,53 @@
 # BEFORE YOU BEGIN
 
-## How to Use This Companion
+## About this book
 
-Histology rewards recognition rather than recall: a small number of structural rules generate most of the detail you will be asked to reproduce. Learn the rules and the detail follows.
+This is a complete course in histology: the microscopic structure of cells, tissues and organs, the way that structure serves function, and the way it fails in disease. It is written to be read on its own, from the first page to the last. Every explanation, table, identification task and question is complete in itself.
 
-This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024; ISBN 978-1-26-493039-5)** into a structured revision text. It is built on the book's own contents page: **every chapter follows the same section sequence, in the same order, using the book's own section titles**, with printed page numbers so you can read a section here and then turn straight to the corresponding pages in your copy.
+The book is organized in seven parts. Parts I to V teach the subject in the order in which it is best learned: the cell and the techniques that make it visible; the four basic tissues; blood, circulation and defense; digestion and respiration; and finally excretion, reproduction and the special senses. Part VI condenses the whole subject into comparison tables and a rapid-review chapter. Part VII is a hundred-question examination with explained answers.
 
-**How each chapter in Parts I–V is built**
+**What this book does not contain is pictures.** Histology is a visual subject, and no set of printed words can replace a microscope. What this book gives you instead is a precise description of what to look for and how to tell one structure from its neighbors — the organization of a tissue, the shape and position of its cells, the staining of its matrix, the arrangement of its layers, ducts, follicles and vessels. Those descriptions are written to work with any slide collection, any virtual-microscopy set and any microscope you have access to. Read a chapter, then go and find the structures it describes. The seeing is yours; the book teaches you what to see.
+
+**A note on numbers.** Values are typical adult human values unless stated otherwise. Ranges differ with method, fixation, species and observer, and even well-established figures vary a little between references. Where authorities differ, this book gives the range or says which value is being used. Percentages are approximate. No number in this book should be treated as a diagnostic threshold; clinical decisions require clinical sources.
+
+**Clinical material.** The clinical notes show why histological structure matters. They are written for orientation and are not advice about diagnosis or treatment.
+
+**Scope and limits.** This is an independent educational work. It is not a substitute for laboratory teaching, for a course in medicine, or for supervised clinical training. It reproduces no histological images, because the images in published atlases belong to their makers; where a structure is best learned from a picture, the text tells you exactly what the picture should show.
+
+## How this book is organized
+
+Every chapter follows the same teaching sequence, adapted where the subject demands it:
 
 | Block | What it gives you |
 |---|---|
-| **Chapter line** | Printed page range and the book's own section titles |
-| **Learning objectives** | What you must be able to do, not merely recognize, by the end |
-| **The core idea** | The one organizing principle that makes the chapter cohere |
-| **Sections** | The book's sections, in the book's order, condensed |
+| **Learning objectives** | What you should be able to do by the end of the chapter |
+| **The core idea** | The one principle that makes the chapter cohere |
+| **Explanation** | The structures and processes, from simple to complex, in the order they are best understood |
+| **Structure and function** | Why each feature exists, and what fails when it does not |
+| **MICRO boxes** | How to recognize the tissue, and how to distinguish it from its closest look-alikes |
 | **Comparison tables** | Side-by-side distinctions between structures that are easily confused |
-| **CLINICAL** | The disease link that turns a fact into a mark |
-| **MICRO** | How to recognize the tissue on an unknown slide or EM image |
-| **TIP / MNEMONIC** | Traps, confusions, and memory hooks |
-| **One-line answers** | The chapter compressed to the sentences you would write in an exam |
+| **CLINICAL boxes** | The disease link that turns a fact into a consequence |
+| **TIP and MNEMONIC boxes** | Common errors, and memory hooks that are worth the space |
+| **Chapter summary** | The chapter compressed to the sentences you should be able to write |
 | **Active recall** | Questions to answer from memory before checking |
-| **Exam-style question** | One worked MCQ with an explained answer |
-| **Plates to study** | Four to six textbook figures, each with a specific structure or distinction to find |
+| **Examination-style question** | A worked multiple-choice question with every option explained |
+| **Practical identification** | Specific structures to find on a slide, and the features that identify them |
 
-At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This companion is designed to be read *before* those, so that when you reach them you already know the answers.
+The parts are cumulative. Part I establishes the cell and the methods; nothing later makes sense without it. Part II builds the four tissues. Parts III to V apply them organ by organ. Part VI is for consolidation, not for first learning. Part VII tests the whole book.
 
-**Scope and independence.** This is an independent study companion. It is not authorized, sponsored, or endorsed by the author or the publisher, it does not reproduce any plate or figure from the textbook, and it is not a substitute for the textbook or for a histology course. Figure numbers are given so that you can open the corresponding plate in your own copy.
+## How to study
 
-**What the CLINICAL boxes are.** Some name diseases the book itself discusses; others are standard clinical correlates that the book does not cover, included to show why the histology matters. Treat them as orientation, not as claims about the textbook's contents.
+**If you have six weeks.** Work through Parts I to V at roughly one part per week. Read a chapter, then close it and write its comparison tables from memory, then answer its recall questions. In the sixth week, revise with Part VI and work through the hundred questions in Part VII.
 
-**A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this companion uses the book's figure. A few standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added as context; they are not claims about the book's text. Nothing here is attributed to the book unless the book states it. Values and clinical terms that the textbook does not contain are marked **supplementary** where they appear.
+**If you have ten days.** Two or three chapters a day. On the first pass read the explanation and the tables; leave the recall questions for the second pass. Concentrate on six comparisons: the epithelium types, the connective-tissue fibers, the cartilage types, the muscle types, the leukocytes, and the wall of the gut.
 
-**Using the practice material.** The 100 questions in Part VII are written to be attempted after the chapter they test; the explanations say why each distractor fails, so a wrong answer is worth reading carefully. A separate flashcard deck and question bank accompany this book for spaced repetition. Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.
+**If you have 48 hours.** Read Chapter 24 end to end, then the hundred questions, then the ten master tables. Do not attempt the prose. Histology rewards pattern recognition under time pressure, and patterns live in tables.
 
-**Three questions to start any slide question**
-
-1. **What tissue is this?** — epithelium, connective tissue, muscle, nervous tissue, or a fluid.
-2. **What organ or region?** — the tissue *arrangement* identifies the organ, not the cell type.
-3. **What is it doing here?** — every structure you can see exists because of a function the cell must perform. Naming the function is what makes the structure memorable.
-
-> **TIP** — Never memorize a slide as a picture. Memorize the *rule that generates the picture* ("stratified squamous with keratin on top = surface exposed to abrasion and drying"). The book's atlas plates teach you the appearance; this companion teaches the rule behind it.
-
-### Three study plans
-
-**If you have six weeks.** Work through Parts I–V at roughly one part per week, reading the corresponding chapter first, then the section here, then covering the tables and redrawing them from memory. Do the book's "Assess Your Knowledge" questions as you go. In the sixth week, revise with Part VI (Rapid Review and the master tables) and work through the 100 questions in Part VII.
-
-**If you have ten days.** Two to three chapters per day, tables only on the first pass. Concentrate on six comparison tables: epithelium types, connective tissue fibers, cartilage, muscle, leukocytes, and the GI tract wall.
-
-**If you have 48 hours.** Read *Rapid Review* (Chapter 24) end to end, then the 100 MCQs, then the six tables. Do not attempt prose. Histology rewards pattern recognition under time pressure, and patterns live in tables.
+Whichever plan you use, alternate between reading and retrieving. Rereading feels productive and is not; answering a question from memory, even badly, is what builds the memory.
 
 ## The Twelve Laws of Histology
 
-These twelve rules of thumb hold across most of the book. Each has exceptions, and the chapters point them out. When you are unsure how to approach a structure, reason from them.
+These twelve rules of thumb hold across most of histology. Each has exceptions, and the chapters point them out. When you are unsure how to approach a structure, reason from them.
 
 1. **Structure follows function, and function follows structure.** Most visible features are a solution to a physical problem — diffusion distance, mechanical stress, surface area, water loss, conduction speed.
 2. **Form is set by the apical surface, the basal surface, and the junctions between cells.** Look at all three before naming a tissue.
@@ -66,11 +62,11 @@ These twelve rules of thumb hold across most of the book. Each has exceptions, a
 11. **A capsule and a hilum identify a solid organ as lymph node, spleen, thymus, or gland.** The route of fluid flow tells you which one.
 12. **Most histological facts have a clinical counterpart.** Linking a structure to a disease makes it easier to recall and easier to apply.
 
-## Exam Technique
+## Exam technique
 
 ### Answering a slide or image question
 
-Never begin with a guess. Use this sequence every single time:
+Never begin with a guess. Use this sequence every time:
 
 1. **Magnification and staining.** H&E at low power versus PAS versus silver tells you what the preparation was designed to show.
 2. **The boundary.** Is there a free surface? A lumen? A capsule? Blood vessels *inside* the tissue? This immediately separates epithelium-lined organs from solid organs.
@@ -101,44 +97,39 @@ The headings work for almost any organ. Write them down first, then fill them in
 
 > **PEARL** — In a viva or OSCE-style histology station, the task is usually to *connect* a structure to a function and a disease. Practice every fact in a three-part sentence: "Structurally X, which allows Y, and when it fails you get Z."
 
-## About the 17th Edition
+## Chapter guide
 
-The seventeenth edition (2024) keeps the features that make the book useful for revision: a **concise text**, **clear photomicrographs and labeled illustrations**, and a consistent chapter structure. Three features matter most for examination preparation:
+| Ch | Title | Part |
+|---|---|---|
+| 1 | Histology and Its Methods of Study | I |
+| 2 | The Cytoplasm | I |
+| 3 | The Nucleus | I |
+| 4 | Epithelial Tissue | II |
+| 5 | Connective Tissue | II |
+| 6 | Adipose Tissue | II |
+| 7 | Cartilage | II |
+| 8 | Bone | II |
+| 9 | Nerve Tissue and the Nervous System | II |
+| 10 | Muscle Tissue | II |
+| 11 | The Circulatory System | III |
+| 12 | Blood | III |
+| 13 | Hemopoiesis | III |
+| 14 | The Immune System and Lymphoid Organs | III |
+| 15 | Digestive Tract | IV |
+| 16 | Organs Associated with the Digestive Tract | IV |
+| 17 | The Respiratory System | IV |
+| 18 | Skin | IV |
+| 19 | The Urinary System | V |
+| 20 | Endocrine Glands | V |
+| 21 | The Male Reproductive System | V |
+| 22 | The Female Reproductive System | V |
+| 23 | The Eye and Ear: Special Sense Organs | V |
+| 24 | The Last-24-Hours Rapid Review | VI |
+| — | Appendix A: Stains and What They Prove | VI |
+| — | Appendix B: Vocabulary You Should Know | VI |
+| — | Appendix C: Sources and Further Reading | VI |
+| — | One Hundred Examination Questions | VII |
 
-- **Summary of Key Points** at the end of every chapter — the author's own list of what matters.
-- **Summary Tables** in each chapter — condensed comparisons of structures that are easily confused.
-- **Medical Applications boxes** — the clinical relevance of each structure.
+## A note on sources
 
-> **TIP** — Where this companion and the book's *Summary of Key Points* disagree in emphasis, trust the book: it is the primary source for this companion. Use this companion for structure and recall, and the book for the final word.
-
-## Chapter and Page Guide
-
-Each chapter opens with the printed page range it condenses, so the companion and the textbook can be read side by side. The part column refers to the seven parts of this book.
-
-| Ch | Title | Book pages | Part |
-|---|---|---|---|
-| 1 | Histology & Its Methods of Study | 1–16 | I |
-| 2 | The Cytoplasm | 17–52 | I |
-| 3 | The Nucleus | 53–70 | I |
-| 4 | Epithelial Tissue | 71–95 | II |
-| 5 | Connective Tissue | 96–121 | II |
-| 6 | Adipose Tissue | 122–128 | II |
-| 7 | Cartilage | 129–137 | II |
-| 8 | Bone | 138–160 | II |
-| 9 | Nerve Tissue & the Nervous System | 161–192 | II |
-| 10 | Muscle Tissue | 193–214 | II |
-| 11 | The Circulatory System | 215–236 | III |
-| 12 | Blood | 237–253 | III |
-| 13 | Hemopoiesis | 254–266 | III |
-| 14 | The Immune System & Lymphoid Organs | 267–294 | III |
-| 15 | Digestive Tract | 295–328 | IV |
-| 16 | Organs Associated with the Digestive Tract | 329–348 | IV |
-| 17 | The Respiratory System | 349–370 | IV |
-| 18 | Skin | 371–392 | IV |
-| 19 | The Urinary System | 393–412 | V |
-| 20 | Endocrine Glands | 413–438 | V |
-| 21 | The Male Reproductive System | 439–459 | V |
-| 22 | The Female Reproductive System | 460–489 | V |
-| 23 | The Eye & Ear: Special Sense Organs | 490–524 | V |
-| App. | Light Microscopy Stains | 525–526 | Appendix A |
-| 24 | The Last-24-Hours Rapid Review | synthesis of Chapters 1–23 | VI |
+Histology is an old and well-settled science, and the facts in this book are the common property of the field. They were checked against the principal reference listed in Appendix C. Where standard accounts differ — on a range, a definition, or the weight to give a mechanism — the difference is stated in the text rather than hidden. Nothing in this book is presented as a quotation from another work, and no illustration is reproduced. Appendix C also explains how the checking was done and what it does not cover.

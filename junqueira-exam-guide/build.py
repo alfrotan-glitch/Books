@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Build the Junqueira exam guide into a print-ready PDF, an HTML reading copy,
-and an editable DOCX.
+Build the histology text into a print-ready PDF.
 
     python3 build.py
 
@@ -28,7 +27,7 @@ from reportlab.platypus.tableofcontents import TableOfContents
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "src")
-OUT_PDF = os.path.join(HERE, "Junqueira_Exam_Companion_FINAL.pdf")
+OUT_PDF = os.path.join(HERE, "Basic_Histology_Learning_Text.pdf")
 
 PAGE_W, PAGE_H = A4
 ML, MR, MT, MB = 46, 46, 52, 46
@@ -328,9 +327,9 @@ class Book(BaseDocTemplate):
         BaseDocTemplate.__init__(self, filename, pagesize=A4,
                                  leftMargin=ML, rightMargin=MR,
                                  topMargin=MT, bottomMargin=MB,
-                                 title="Basic Histology: The Exam & Learning Companion",
+                                 title="Basic Histology: A Learning Text",
                                  author="",
-                                 subject="An independent study companion to Junqueira's Basic Histology, 17th edition",
+                                 subject="A self-contained course in microscopic anatomy",
                                  keywords="histology, medical education, examination revision, study guide")
         frame = Frame(ML, MB, FRAME_W, PAGE_H - MT - MB, id="body")
         self.cover_tpl = PageTemplate(id="cover", frames=[frame], onPage=self.cover)
@@ -348,7 +347,7 @@ class Book(BaseDocTemplate):
             return
         canv.setFont("Head-Reg", 7.4)
         canv.setFillColor(MUTED)
-        canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  THE EXAM & LEARNING COMPANION")
+        canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  A LEARNING TEXT")
         canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "First edition")
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.5)
@@ -368,7 +367,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(colors.HexColor("#6FD3CF"))
         canv.setFont("Head-Reg", 9.5)
-        canv.drawString(ML, PAGE_H - 100, "INDEPENDENT STUDY COMPANION")
+        canv.drawString(ML, PAGE_H - 100, "A COMPLETE COURSE IN MICROSCOPIC ANATOMY")
 
         canv.setFillColor(colors.white)
         canv.setFont("Head", 38)
@@ -377,19 +376,19 @@ class Book(BaseDocTemplate):
 
         canv.setFont("Head-Reg", 13)
         canv.setFillColor(colors.HexColor("#CFE3E2"))
-        canv.drawString(ML, PAGE_H - 228, "The Exam & Learning Companion")
+        canv.drawString(ML, PAGE_H - 228, "A Learning Text")
 
         canv.setFillColor(INK)
         canv.setFont("Body", 12)
-        canv.drawString(ML, PAGE_H - 360, "A structured summary of Junqueira\u2019s Basic Histology,")
-        canv.drawString(ML, PAGE_H - 378, "Text & Atlas, 17th edition, written for medical")
-        canv.drawString(ML, PAGE_H - 396, "students preparing for examinations.")
+        canv.drawString(ML, PAGE_H - 360, "A self-contained course in microscopic anatomy,")
+        canv.drawString(ML, PAGE_H - 378, "written for students who want to understand")
+        canv.drawString(ML, PAGE_H - 396, "tissues, organs and the logic of their structure.")
 
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.8)
         canv.line(ML, PAGE_H - 430, PAGE_W - MR, PAGE_H - 430)
 
-        rows = [("23", "chapters condensed"), ("100", "exam questions"),
+        rows = [("23", "chapters"), ("100", "exam questions"),
                 ("10", "master comparison tables"), ("1", "rapid-review chapter")]
         y = PAGE_H - 470
         for big, small in rows:
@@ -403,7 +402,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(MUTED)
         canv.setFont("Head-Reg", 8.5)
-        canv.drawString(ML, 58, "An independent companion to Junqueira's Basic Histology, 17th edition  ·  Not affiliated with or endorsed by the publisher")
+        canv.drawString(ML, 58, "First edition  ·  Text only: no histological images are reproduced")
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -597,12 +596,12 @@ def build_pdf():
     toc.dotsMinLevel = 99
 
     imprint = (
-        "This is an independent study companion. It is not published by, affiliated with, "
-        "or endorsed by McGraw Hill or the estate of Anthony L. Mescher. No plates or extended "
-        "passages from the source textbook are reproduced; figures are cited by number so that "
-        "the reader can consult the original atlas. Rights in this companion have not been "
-        "assigned, and commercial distribution requires a licence and an ISBN. The source "
-        "textbook remains the authoritative work and should be consulted alongside this companion."
+        "This is an independent teaching text. Its prose is original; no images, plates, "
+        "captions or extended passages from another publication are reproduced. Histological "
+        "facts are part of the common scientific literature, and where authorities differ the "
+        "text says so rather than hiding the difference. The book is not a clinical manual and "
+        "does not replace laboratory instruction or medical training. Rights in this text have "
+        "not been assigned; commercial distribution requires a license and an ISBN."
     )
 
     front = [
@@ -612,13 +611,13 @@ def build_pdf():
         Paragraph("BASIC HISTOLOGY", S("tp1", fontName="Head", fontSize=34, leading=38,
                                        textColor=INK)),
         Spacer(1, 6),
-        Paragraph("The Exam &amp; Learning Companion", S("tp2", fontName="Head-Reg", fontSize=17,
+        Paragraph("A Learning Text", S("tp2", fontName="Head-Reg", fontSize=17,
                                                         leading=22, textColor=ACCENT)),
         Spacer(1, 14),
         Rule(FRAME_W, 1.2, ACCENT),
         Spacer(1, 16),
-        Paragraph("An independent study companion to <i>Junqueira\u2019s Basic Histology: "
-                  "Text &amp; Atlas</i>, 17th edition",
+        Paragraph("A self-contained course in microscopic anatomy for students of medicine, "
+                  "dentistry and the biomedical sciences",
                   S("tp3", fontName="Body", fontSize=12, leading=18, textColor=INK)),
         Spacer(1, 4),
         Paragraph("First edition  \u00b7  2026", S("tp4", fontName="Head-Reg", fontSize=10,
@@ -633,7 +632,7 @@ def build_pdf():
             "Part III  ·  Transport, defense, and blood: circulation, blood, hemopoiesis, immunity<br/>"
             "Part IV  ·  Digestion and respiration: gut, associated organs, respiratory system, skin<br/>"
             "Part V  ·  Excretion and reproduction: urinary system, endocrine glands, male and female reproductive systems, eye and ear<br/>"
-            "Part VI  ·  Rapid review, master tables, stains, and the vocabulary worth knowing<br/>"
+            "Part VI  ·  Rapid review, master tables, stains, vocabulary, and sources<br/>"
             "Part VII  ·  One hundred examination questions with explained answers",
             S("tgl", fontName="Head-Reg", fontSize=8.3, leading=13.2, textColor=INK)),
         Spacer(1, 120),

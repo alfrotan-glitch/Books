@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Structural validation of the EPUB, used because EPUBCheck (Java) is unavailable.
 
-    python3 tools/validate_epub.py Junqueira_Exam_Companion_FINAL.epub
+    python3 tools/validate_epub.py Basic_Histology_Learning_Text.epub
 
 Checks: OCF container and mimetype, OPF metadata and manifest, the navigation
 document, XML well-formedness of every XHTML file, internal link and fragment
@@ -126,4 +126,4 @@ def report(errors, warnings):
 
 
 if __name__ == "__main__":
-    sys.exit(main(sys.argv[1] if len(sys.argv) > 1 else "Junqueira_Exam_Companion_FINAL.epub"))
+    sys.exit(main(sys.argv[1] if len(sys.argv) > 1 else "Basic_Histology_Learning_Text.epub"))

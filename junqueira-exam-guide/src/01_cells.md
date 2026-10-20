@@ -2,7 +2,8 @@
 
 ## 1 · Histology & Its Methods of Study
 
-**Book pages 1–16**<br/>Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
+**In this chapter:** Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
+
 
 ### Learning objectives
 
@@ -17,11 +18,11 @@ By the end of this chapter you should be able to:
 
 Histology explores the body's tissues and how they are arranged to produce functional organs. Tissues have two interacting components: **cells and extracellular matrix (ECM)**. The ECM is not packing material — it supports the cells, carries the fluid that brings nutrients and removes waste, and its molecules bind specific cell-surface receptors connected to structural components inside the cell, forming a continuum in which cells and matrix function together.
 
-Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and every image you will interpret has been fixed, dehydrated, cleared, embedded, sectioned, stained and mounted. Knowing what each step does tells you which appearances are real and which are artefacts.
+Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and every image you will interpret has been fixed, dehydrated, cleared, embedded, sectioned, stained and mounted. Knowing what each step does tells you which appearances are real and which are artifacts.
 
 ### Preparation of Tissues for Study
 
-| Step | What the book says it does |
+| Step | What it does |
 |---|---|
 | **Fixation** | Pieces of organ are placed as soon as possible in **stabilizing or cross-linking compounds**. **Formalin** — a buffered solution of formaldehyde, made by diluting the 37–40% stock to about 4% — is widely used for light microscopy; **glutaraldehyde** for electron microscopy. Both react with the **amine groups (NH₂) of proteins**, preventing degradation by proteases; glutaraldehyde also **cross-links adjacent proteins**. Fixative must diffuse fully through the tissue, so organs are cut into small fragments, or fixed by **vascular perfusion** |
 | **Dehydration** | Water extracted gradually through increasing **ethanol** solutions, ending in 100% ethanol |
@@ -30,9 +31,9 @@ Organs form by an orderly combination of these tissues. Because cells and matrix
 | **Embedding** | Paraffin allowed to harden in a small container at room temperature |
 | **Sectioning** | Block trimmed and cut on a **microtome**. Paraffin sections are typically **3–10 µm**; EM requires sections **less than 1 µm** |
 
-**A concentration note.** The book describes formalin as "a buffered isotonic solution of 37% formaldehyde." That 37–40% solution is the **stock** from which working fixative is made; tissue is fixed in **10% formalin**, equivalent to about 3.7–4% formaldehyde, buffered to pH 7.2–7.4 (neutral buffered formalin). Keep the two concentrations apart in practical questions.
+**A concentration note.** Formalin is often described as a buffered isotonic solution of 37% formaldehyde. That 37–40% solution is the **stock** from which working fixative is made; tissue is fixed in **10% formalin**, equivalent to about 3.7–4% formaldehyde, buffered to pH 7.2–7.4 (neutral buffered formalin). Keep the two concentrations apart in practical questions.
 
-**The units** the book expects you to handle: 1 µm = 1/1000 mm; 1 nm = 0.001 µm = 10⁻⁶ mm; 1 Å = 0.1 nm = 10⁻⁴ µm.
+**The units** you should be able to convert: 1 µm = 1/1000 mm; 1 nm = 0.001 µm = 10⁻⁶ mm; 1 Å = 0.1 nm = 10⁻⁴ µm.
 
 **Plastic resins** are used for both light and electron microscopy. They are infiltrated after dehydration and harden when cross-linking polymerisers are added; plastic embedding **avoids the higher temperatures of paraffin** and therefore avoids tissue distortion.
 
@@ -42,7 +43,7 @@ Organs form by an orderly combination of these tissues. Because cells and matrix
 
 Most cells and extracellular material are completely colorless. Dyes behave like acidic or basic compounds and form **electrostatic (salt) linkages** with ionisable radicals of tissue macromolecules.
 
-| Term | Meaning in the book | Examples |
+| Term | Meaning | Examples |
 |---|---|---|
 | **Basophilic** | Anionic (net negative) components with affinity for **basic dyes** — nucleic acids, glycosaminoglycans | Toluidine blue, alcian blue, methylene blue, **hematoxylin** |
 | **Acidophilic** | Cationic components with many ionised amino groups, staining with **acidic dyes** — mitochondria, secretory granules, collagen | **Eosin**, orange G, acid fuchsin |
@@ -53,9 +54,9 @@ Most cells and extracellular material are completely colorless. Dyes behave like
 
 **Enzyme digestion** identifies what a stain is binding: pretreating a section with an enzyme that digests one substrate. Pretreatment with **ribonuclease** greatly reduces cytoplasmic basophilia with little effect on the nucleus, proving that the cytoplasmic staining depended on RNA.
 
-**Lipid-soluble dyes** such as **Sudan black** reveal lipid-rich structures — provided the processing steps that remove lipids (heat and organic solvents) are avoided. **Metal impregnation** with silver salts visualizes certain ECM fibers and specific elements in nervous tissue. The book's Appendix lists the staining procedures used for most of its light micrographs.
+**Lipid-soluble dyes** such as **Sudan black** reveal lipid-rich structures — provided the processing steps that remove lipids (heat and organic solvents) are avoided. **Metal impregnation** with silver salts visualizes certain ECM fibers and specific elements in nervous tissue. The staining procedures used for most light micrographs are conventional, and the ones you will meet are summarized below.
 
-**The atlas palette.** The book's Appendix (pp 525–526) lists the stains behind its plates, and the captions name them. Learn what each one makes visible, because a caption that says "Mallory trichrome" is telling you which structures were deliberately contrasted:
+**The staining palette.** Learn what each one makes visible, because a report that says "Mallory trichrome" is telling you which structures were deliberately contrasted:
 
 | Stain | Nuclei | Cytoplasm | Collagen / other | Where you meet it |
 |---|---|---|---|---|
@@ -96,13 +97,13 @@ Digital cameras extend all of these methods: images can be quantified, enhanced,
 
 The wavelength of an electron beam is far shorter than that of light, so the electron microscope can resolve structures far below the light-microscope limit — in principle, a thousandfold improvement.
 
-**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the figure the book gives, limited by section thickness and staining rather than by the instrument alone. A modern TEM can reach a point-to-point resolution of about **0.2 nm** on suitable specimens, which is why both numbers appear in teaching; use **3 nm for sectioned tissue** and **0.2 nm only when the question asks for the instrument's limit**. Either way, TEM views isolated particles magnified as much as **400,000×**. Routine tissue sections of **40–90 nm** embedded in resin are studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
+**Transmission EM (TEM)** resolves to about **3 nm** in routine biological sections — the working figure, limited by section thickness and staining rather than by the instrument alone. A modern TEM can reach a point-to-point resolution of about **0.2 nm** on suitable specimens, which is why both numbers appear in teaching; use **3 nm for sectioned tissue** and **0.2 nm only when the question asks for the instrument's limit**. Either way, TEM views isolated particles magnified as much as **400,000×**. Routine tissue sections of **40–90 nm** embedded in resin are studied at up to about **120,000×**. Electrons pass through the section to produce an image in black, white, and gray: areas that transmitted electrons appear **electron lucent** (bright), while denser areas or those binding heavy metal ions appear **electron dense** (dark). The column is configured like an upside-down light microscope, with electromagnetic lenses and a tungsten filament cathode accelerating electrons at 60–120 kV.
 
 **Scanning EM (SEM)** images the surface in three dimensions.
 
 ### Autoradiography
 
-A **radiolabelled precursor** is incorporated into newly synthesized macromolecules and detected by a photographic emulsion applied over the section — so the silver grains mark the **cellular sites where those macromolecules were made**. The classic application is **³H-thymidine** labeling of cells in S phase.
+A **radiolabeled precursor** is incorporated into newly synthesized macromolecules and detected by a photographic emulsion applied over the section — so the silver grains mark the **cellular sites where those macromolecules were made**. The classic application is **³H-thymidine** labeling of cells in S phase.
 
 ### Cell & Tissue Culture
 
@@ -119,24 +120,24 @@ A substrate is converted by a specific enzyme into an **insoluble, colored produ
 | Method | How it works | Why it is used |
 |---|---|---|
 | **Direct IHC** | A labeled **primary antibody** binds the antigen directly | Simple, fewer steps |
-| **Indirect IHC** | An unlabelled primary antibody is detected by labeled **secondary antibodies** | **More commonly used** — the extra level of binding **amplifies the signal** and gives greater technical flexibility |
+| **Indirect IHC** | An unlabeled primary antibody is detected by labeled **secondary antibodies** | **More commonly used** — the extra level of binding **amplifies the signal** and gives greater technical flexibility |
 
 **In situ hybridization (ISH)** uses labeled **cDNA probes** to detect specific gene sequences or mRNAs microscopically.
 
 ### Interpretation of Structures in Tissue Sections
 
-Two rules from the book's own section:
+Two rules govern the interpretation of every section:
 
-1. Many processing, preparation, and staining steps introduce **artefacts** — spaces and precipitates not present in living tissue — and these must be recognized for what they are.
+1. Many processing, preparation, and staining steps introduce **artifacts** — spaces and precipitates not present in living tissue — and these must be recognized for what they are.
 2. Sections are essentially **two-dimensional planes through three-dimensional structures**, so what you see is a slice, not the whole object.
 
-> **MICRO** — Before identifying anything, decide whether it could be an artefact. A clear space around every cell usually means shrinkage; a straight edge through the tissue is a knife mark; granular debris is precipitated stain. True structure has irregular, biological boundaries.
+> **MICRO** — Before identifying anything, decide whether it could be an artifact. A clear space around every cell usually means shrinkage; a straight edge through the tissue is a knife mark; granular debris is precipitated stain. True structure has irregular, biological boundaries.
 
 > **TIP** — Three numbers carry the chapter: **0.2 µm** (light microscope resolution), **3–10 µm** (paraffin section thickness), **about 3 nm** (TEM resolution of routine sections). If a question asks why the electron microscope reveals organelles that the light microscope cannot, the answer is **the shorter wavelength of the electron beam**, not the magnification.
 
 > **PEARL** — A useful chain to remember from Chapter 1: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
 
-### Chapter 1 — one-line answers
+### Chapter 1 — summary
 
 - H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
 - Resolution: light microscope about 0.2 µm; TEM about 3 nm in routine sections.
@@ -144,7 +145,7 @@ Two rules from the book's own section:
 - Paraffin sections are 3–10 µm; frozen sections are used for urgent diagnosis and for lipid.
 - PAS stains carbohydrates magenta; it demonstrates glycogen, mucin, and basement membranes.
 - Immunohistochemistry localizes a specific antigen with an antibody; in situ hybridization localizes a specific nucleic acid sequence.
-- Artefacts — shrinkage, knife marks, precipitated stain — must be recognized before any structure is identified.
+- Artifacts — shrinkage, knife marks, precipitated stain — must be recognized before any structure is identified.
 - A 2D section samples one plane, so a tube can look like a ring and a sphere like a circle.
 
 ### Active recall
@@ -165,20 +166,14 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 **Answer: C** — Immunohistochemistry localizes a specific protein by antibody binding. H&E shows general morphology, PAS shows carbohydrates, and Sudan black shows lipids.
 
-### Plates to study
+### Practical identification
 
-Start with the artefact problem: **1–1** shows what sectioning does to a block, **1–14** what a two-dimensional cut does to a three-dimensional structure. Then compare what each method can reveal — fluorescence (**1–4**), confocal optical sections (**1–6**), autoradiography (**1–9**), immunocytochemistry (**1–11**).
-
-- **Fig. 1–1** — *Sectioning fixed and embedded tissue*.
-- **Fig. 1–4** — *Appearance of cells with fluorescent microscopy*.
-- **Fig. 1–6** — *Principle of confocal microscopy*.
-- **Fig. 1–9** — *Microscopic autoradiography*.
-- **Fig. 1–11** — *Immunocytochemistry techniques*.
-- **Fig. 1–14** — *Interpretation of 3D structures in 2D sections*.
+Work with a real or virtual H&E section. At low power, locate the tissue edge, any free surface and any capsule; at high power, find nuclei, cytoplasm and extracellular matrix. Then look deliberately for artifacts: clear spaces around cells (shrinkage), straight knife marks, folded or torn areas, and precipitated stain. If phase-contrast, fluorescence or confocal images are available, compare what each reveals and explain why a structure may be visible in one preparation and invisible in another.
 
 ## 2 · The Cytoplasm
 
-**Book pages 17–52**<br/>Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
+**In this chapter:** Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
+
 
 ### Learning objectives
 
@@ -264,7 +259,7 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 
 > **TIP** — Keep two distinctions straight. The Golgi **modifies and sorts** proteins; the RER makes them. The mitochondrion generates ATP; the lysosome degrades material.
 
-### Chapter 2 — one-line answers
+### Chapter 2 — summary
 
 - Rough ER makes membrane and secretory proteins; smooth ER makes lipids and steroids and detoxifies.
 - The Golgi is polarized: cis face receives, medial cisternae modify, trans face sorts and packages.
@@ -292,20 +287,14 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 **Answer: B** — Steroid synthesis requires cholesterol (stored as lipid droplets), smooth ER for the enzymatic steps, and mitochondria with tubular cristae.
 
-### Plates to study
+### Practical identification
 
-Match each organelle to its image: membrane structure (**2–1**), endocytosis (**2–6**), protein sorting (**2–12**), lysosomes (**2–17**), microtubule dynamics (**2–23**). Use **2–28** to test whether you can name an inclusion from its appearance alone.
-
-- **Fig. 2–1** — *Lipids in membrane structure*.
-- **Fig. 2–6** — *Three major forms of endocytosis*.
-- **Fig. 2–12** — *Protein localization and cell morphology*.
-- **Fig. 2–17** — *Lysosomal functions*.
-- **Fig. 2–23** — *Dynamic instability of microtubules*.
-- **Fig. 2–28** — *Cellular inclusions*.
+On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment). On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
 
 ## 3 · The Nucleus
 
-**Book pages 53–70**<br/>Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
+**In this chapter:** Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
+
 
 ### Learning objectives
 
@@ -386,7 +375,7 @@ The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** ar
 
 > **TIP** — **One Barr body** in a normal female somatic cell, **zero** in a male, one in Klinefelter syndrome (47, XXY), none in Turner syndrome (45, X). Count Barr bodies and you have counted X chromosomes minus one.
 
-### Chapter 3 — one-line answers
+### Chapter 3 — summary
 
 - Nuclear lamina = lamins; lamin A mutation = progeria.
 - Nuclear envelope = two membranes + perinuclear cisterna, continuous with rough ER.
@@ -421,14 +410,6 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 
 **Answer: B** — Colchicine arrests cells in metaphase, when sister chromatids are still attached; a count of 46 means diploid. Haploid cells would show 23.
 
-### Plates to study
+### Practical identification
 
-Read nuclear texture as a function: **3–1** contrasts active nuclei, **3–5** shows pores, **3–9** chromosome territories, **3–12** the cycle, **3–16** mitotic figures. In **3–20**, distinguish apoptotic bodies from necrotic debris.
-
-- **Fig. 3–1** — *Nuclei of large, active cells*.
-- **Fig. 3–5** — *Nuclear pores*.
-- **Fig. 3–9** — *Chromosome territories of a human fibroblast nucleus*.
-- **Fig. 3–12** — *The cell cycle*.
-- **Fig. 3–16** — *Mitotic cells in adult tissues*.
-- **Fig. 3–20** — *Late apoptosis—apoptotic bodies*.
-
+Find a cell with a large, pale nucleus and a prominent nucleolus, such as a neuron or a plasma cell, and contrast it with a small lymphocyte, whose dense nucleus almost fills the cell. Identify mitotic figures by their condensed chromosomes and absent nuclear envelope, and distinguish them from apoptotic bodies, which are fragmented, membrane-bound and lack a spindle. In a buccal smear from a female, look for the Barr body at the nuclear margin.

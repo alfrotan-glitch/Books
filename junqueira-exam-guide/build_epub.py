@@ -17,17 +17,15 @@ SRC = os.path.join(HERE, "src")
 BUILD = os.path.join(HERE, "build")
 os.makedirs(BUILD, exist_ok=True)
 
-OUT = os.path.join(HERE, "Junqueira_Exam_Companion_FINAL.epub")
+OUT = os.path.join(HERE, "Basic_Histology_Learning_Text.epub")
 COVER = os.path.join(BUILD, "cover.png")
 CSS_PATH = os.path.join(BUILD, "epub.css")
 MD_PATH = os.path.join(BUILD, "book.md")
 
-TITLE = "Basic Histology: The Exam & Learning Companion"
-SUBTITLE = ("An independent study companion to Junqueira's Basic Histology: "
-            "Text & Atlas, 17th edition")
-RIGHTS = ("Independent study companion. Not published by, affiliated with, or "
-          "endorsed by McGraw Hill or the estate of Anthony L. Mescher. "
-          "No plates from the source textbook are reproduced.")
+TITLE = "Basic Histology: A Learning Text"
+SUBTITLE = "A self-contained course in microscopic anatomy"
+RIGHTS = ("Original text. No images or extended passages from other publications "
+          "are reproduced. A teaching text, not a clinical manual.")
 
 CSS = """
 body { font-family: serif; line-height: 1.55; margin: 0 5%; color: #17242C; }
@@ -63,11 +61,11 @@ def make_cover():
     d.text((130, 300), "BASIC", font=bold, fill="#FFFFFF")
     d.text((130, 470), "HISTOLOGY", font=bold, fill="#FFFFFF")
     d.line([130, 700, 700, 700], fill="#0E6B6B", width=8)
-    d.text((130, 760), "The Exam & Learning", font=small, fill="#DCEBEA")
-    d.text((130, 840), "Companion", font=small, fill="#DCEBEA")
-    d.text((130, 1010), "An independent study companion to", font=tiny, fill="#8FA3AD")
-    d.text((130, 1075), "Junqueira's Basic Histology", font=tiny, fill="#8FA3AD")
-    d.text((130, 1140), "Text & Atlas, 17th edition", font=tiny, fill="#8FA3AD")
+    d.text((130, 760), "A Learning", font=small, fill="#DCEBEA")
+    d.text((130, 840), "Text", font=small, fill="#DCEBEA")
+    d.text((130, 1010), "A self-contained course in", font=tiny, fill="#8FA3AD")
+    d.text((130, 1075), "microscopic anatomy", font=tiny, fill="#8FA3AD")
+    d.text((130, 1140), "for students of medicine and science", font=tiny, fill="#8FA3AD")
     d.text((130, h - 180), "First edition  ·  2026", font=tiny, fill="#8FA3AD")
     img.save(COVER, "PNG")
 
