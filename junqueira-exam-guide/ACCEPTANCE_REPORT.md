@@ -23,7 +23,7 @@ All artefacts in this section were rebuilt from `666cccf` and are the files comm
 
 PDF: 142 pages, 49,285 extracted words, text SHA-256 prefix `c58b0891d21808db`. All artefacts carry the same build timestamp (`2026-10-20T16:21`), i.e. they come from one build run of one revision. `5816334` and `d137690` remain in history and untouched.
 
-**Provenance:** every reader-facing file is generated from `src/*.md` by `build.py` (PDF), `build_docs.py` (DOCX + HTML) and `build_epub.py` (EPUB); the two CSVs by `tools/make_study_decks.py` and `tools/make_question_bank.py`. In the previous pass a clean rebuild reproduced the committed PDF's extracted text byte-for-byte (142 pp, text hash `49b60102aaf4e99c`); after this pass's edits the text hash is `c58b0891d21808db`, and a second full build in this pass reproduced 142 pages with no blank pages and no layout overflow.
+**Provenance:** every reader-facing file is generated from `src/*.md` by `build.py` (PDF), `build_docs.py` (DOCX + HTML) and `build_epub.py` (EPUB); the two CSVs by `tools/make_study_decks.py` and `tools/make_question_bank.py`. In the previous pass a clean rebuild reproduced the committed PDF's extracted text byte-for-byte (142 pp, text hash `49b60102aaf4e99c`); after this pass's edits the text hash is `c58b0891d21808db`, and rebuilds in this pass reproduced 142 pages with no blank pages and no layout overflow.
 
 ---
 
@@ -131,7 +131,7 @@ Platelet diameter (2–4 µm), Table 12–1 plasma shares, thin ascending limb a
 | EPUBCheck (official) | requires Java | **NOT RUN** — no Java runtime in the environment; the validator above is a structural check, **not** an EPUBCheck equivalent |
 | DOCX structure | zip/XML inspection | **PASS** — 73 tables, no placeholder text, styles present |
 | HTML structure | tag census and size | **PASS** — 34 `<h2>`, 288 `<h3>`, 73 tables, 442 kB |
-| Build reproducibility | full rebuild of all four formats from the same sources | **PASS** — 142 pages again, no blank pages, same text hash |
+| Build reproducibility | rebuild of all four formats from the same sources | **PASS** — 142 pages again, no blank pages, no overflow |
 
 ---
 
