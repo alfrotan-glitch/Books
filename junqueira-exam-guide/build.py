@@ -123,13 +123,28 @@ STY = {
 
 
 # ---------------------------------------------------------------- inline md
-def inline(text):
-    """Convert a subset of inline markdown into reportlab paragraph markup."""
+def inline(text, bold="Body-Bold", base="Body"):
+    """Convert a subset of inline markdown into reportlab paragraph markup.
+
+    Bold is emitted as an explicit <font> tag rather than <b>: with these
+    font families ReportLab can leak a <b> run across the short unstyled
+    gaps between bold spans, which bolds whole sentences. A font tag
+    switches back to the regular face reliably.
+    """
     text = text.replace("&", "&amp;").replace("<br/>", "\x00BR\x00")
     text = text.replace("<", "&lt;").replace(">", "&gt;")
     text = text.replace("\x00BR\x00", "<br/>")
     text = re.sub(r"`([^`]+)`", r'<font name="Mono" size="8">\1</font>', text)
-    text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
+    parts = re.split(r"\*\*(.+?)\*\*", text)
+    out = []
+    for i, part in enumerate(parts):
+        if not part:
+            continue
+        if i % 2:
+            out.append('<font name="%s">%s</font>' % (bold, part))
+        else:
+            out.append('<font name="%s">%s</font>' % (base, part))
+    text = "".join(out)
     text = re.sub(r"(?<![\*<])\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"<i>\1</i>", text)
     return text
 
@@ -270,9 +285,9 @@ def make_table(header, rows):
         wsum = sum(weights)
         widths = [m + spare * (w / wsum) for m, w in zip(mins, weights)]
 
-    data = [[Paragraph(inline(c), STY["cellhead"]) for c in header]]
+    data = [[Paragraph(inline(c, bold="Head"), STY["cellhead"]) for c in header]]
     for r in norm:
-        data.append([Paragraph(inline(c), STY["cell"]) for c in r])
+        data.append([Paragraph(inline(c, bold="Head"), STY["cell"]) for c in r])
 
     t = Table(data, colWidths=widths, repeatRows=1, hAlign="LEFT")
     style = [
@@ -454,7 +469,7 @@ def build_story(blocks):
             story.append(Spacer(1, 130))
             story.append(Rule(FRAME_W, 0.8, RULE, space=2))
             story.append(Spacer(1, 10))
-            story.append(Paragraph(inline(title), STY["part_title"]))
+            story.append(Paragraph(inline(title, bold="Head"), STY["part_title"]))
             desc = PART_DESC.get(title.split("—")[0].strip())
             if desc:
                 story.append(Spacer(1, 2))
@@ -468,16 +483,16 @@ def build_story(blocks):
             if not first_part:
                 brk()
             story.append(Spacer(1, 2))
-            story.append(Paragraph(inline(b[1]), STY["chapter"]))
+            story.append(Paragraph(inline(b[1], bold="Head"), STY["chapter"]))
             story.append(Rule(FRAME_W, 1.6, ACCENT, space=5))
             story.append(Spacer(1, 3))
             first_part = False
 
         elif kind == "h3":
-            story.append(Paragraph(inline(b[1]), STY["h3"]))
+            story.append(Paragraph(inline(b[1], bold="Head"), STY["h3"]))
 
         elif kind == "h4":
-            story.append(Paragraph(inline(b[1]), STY["h4"]))
+            story.append(Paragraph(inline(b[1], bold="Head"), STY["h4"]))
 
         elif kind == "para":
             txt = b[1]
@@ -487,9 +502,9 @@ def build_story(blocks):
                 story.append(Paragraph(
                     '<font name="Head" size="7.4" color="#0E6B6B">BOOK PAGES %s</font>'
                     '&nbsp;&nbsp;<font color="#C9D5DB">|</font>&nbsp;&nbsp;%s'
-                    % (pages, inline(m.group(2))), STY["source"]))
+                    % (pages, inline(m.group(2), bold="Head")), STY["source"]))
             elif re.fullmatch(r"\*\*[^*]{2,90}\*\*", txt.strip()):
-                story.append(Paragraph(inline(txt), STY["boldlead"]))
+                story.append(Paragraph(inline(txt, bold="Head"), STY["boldlead"]))
             elif re.match(r"^\*\*\d+\.", txt):
                 opts = re.split(r"\s+(?=[A-D]\.\s)", txt)
                 if len(opts) == 5:                      # a multiple-choice question

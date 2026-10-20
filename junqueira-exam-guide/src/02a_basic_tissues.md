@@ -64,7 +64,7 @@ The pattern is worth memorizing: **tight seals, adherens belts to actin, desmoso
 
 ### Specializations of the Apical Cell Surface
 
-**Microvilli.** Finger-like extensions with a core of **actin** filaments cross-linked by villin and fimbrin and anchored in a **terminal web**. They multiply surface area for absorption. In the proximal tubule and small intestine they form a **brush border** visible as a fuzzy eosinophilic rim. In the epididymis and inner ear, unusually long, stiff microvilli are called **stereocilia** — a misnomer, because they contain no microtubules.
+**Microvilli.** Finger-like extensions with a core of **actin** filaments cross-linked by actin-bundling proteins (villin, fimbrin) and anchored in a **terminal web**. They multiply surface area for absorption. In the proximal tubule and small intestine they form a **brush border** visible as a fuzzy eosinophilic rim. In the epididymis and inner ear, unusually long, stiff microvilli are called **stereocilia** — a misnomer, because they contain no microtubules.
 
 **Cilia.** Motile, **9 + 2** microtubule axoneme with dynein arms, anchored to a **basal body (9 + 0)**. They move mucus, cerebrospinal fluid, and the ovum. A **primary cilium** is a single non-motile 9 + 0 cilium acting as a sensory antenna — its failure underlies polycystic kidney disease.
 
@@ -81,7 +81,7 @@ The pattern is worth memorizing: **tight seals, adherens belts to actin, desmoso
 | **Stratified squamous, keratinized** | Many layers, outermost anucleate keratin | Epidermis | Protection against abrasion and dehydration |
 | **Stratified squamous, non-keratinized** | Many layers, outermost live nucleated cells | Oral cavity, esophagus, vagina, anal canal, cornea | Protection in a wet environment |
 | **Stratified cuboidal / columnar** | Two or more layers | Ducts of sweat glands, conjunctiva | Conduit with protection |
-| **Transitional (urothelium)** | Stratified, with dome-shaped **umbrella cells** and uroplakins | Renal pelvis, ureter, bladder, proximal urethra | Stretchable barrier to urine |
+| **Transitional (urothelium)** | Stratified, with dome-shaped **umbrella cells** whose apical membrane is stiffened by **uroplakin** plaques | Renal pelvis, ureter, bladder, proximal urethra | Stretchable barrier to urine |
 | **Epithelioid** | Cells in clusters with no free surface | Adrenal cortex, islets of Langerhans, liver cords | Endocrine secretion |
 
 Two naming traps decide many marks. **Endothelium and mesothelium are both simple squamous epithelium** — one lines blood vessels, the other body cavities; they are not separate tissue types. And **pseudostratified** epithelium is truly a **single layer** in which every cell touches the basement membrane, even though the nuclei sit at different levels.
@@ -177,7 +177,7 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 
 | Cell | Origin | Function | Identifying feature |
 |---|---|---|---|
-| **Fibroblast / fibrocyte** | Mesenchyme | Synthesises collagen, elastin, GAGs; **fibrocyte** is the quiescent form | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
+| **Fibroblast / fibrocyte** | Mesenchyme | Synthesizes collagen, elastin, GAGs; **fibrocyte** is the quiescent form | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
 | **Macrophage** | Monocyte | Phagocytosis, antigen presentation, cytokines | Irregular, abundant lysosomes; **Kupffer cell** in liver, **microglia** in CNS, **Langerhans cell** in epidermis, **osteoclast** in bone |
 | **Mast cell** | Bone marrow | Releases **histamine** and **heparin**; IgE-mediated allergy | Round, many dark granules; degranulates on IgE cross-linking |
 | **Plasma cell** | B lymphocyte | Secretes antibody | **Clock-face nucleus**, eccentric, perinuclear clear zone (Golgi) |

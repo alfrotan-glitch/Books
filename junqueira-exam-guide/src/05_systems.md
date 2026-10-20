@@ -19,7 +19,7 @@ The kidney is a **countercurrent filtration and reabsorption machine** built fro
 
 ### Kidneys
 
-Each kidney is about **12 cm long, 6 cm wide, and 2.5 cm thick**. The **hilum** on the medial border admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
+Each kidney is bean-shaped, with a convex lateral border and a concave medial **hilum**. on the medial border admits nerves and vessels and lets the ureter and lymphatics exit. Inside the hilum the ureter expands as the **renal pelvis**, which divides into **two or three major calyces**, then **minor calyces**.
 
 - **Capsule** → **cortex** (renal corpuscles + convoluted tubules) → **medulla** (loops of Henle, collecting ducts, vasa recta) organized into **8–15 pyramids** (commonly quoted as 8–12).
 - **Renal columns (of Bertin)** — cortical tissue between pyramids.
@@ -30,7 +30,7 @@ Each kidney is about **12 cm long, 6 cm wide, and 2.5 cm thick**. The **hilum** 
 **The nephron** — about **1.25 million per kidney** — begins with the **renal corpuscle**: the **glomerulus** (a tuft of fenestrated capillaries) inside the **glomerular (Bowman) capsule**.
 
 - **Parietal layer** — simple squamous epithelium, continuous with the proximal tubule.
-- **Visceral layer** — **podocytes** with primary processes and interdigitating **pedicels** that embrace the capillaries. Between pedicels are **filtration slit pores 25–30 nm wide**, bridged by a **slit diaphragm** of P-cadherin, **nephrin**, and the negatively charged glycoprotein **podocalyxin**.
+- **Visceral layer** — **podocytes** with primary processes and interdigitating **pedicels** that embrace the capillaries. Between pedicels are **filtration slit pores**, bridged by a zipper-like **slit diaphragm** of P-cadherin, **nephrins**, and the negatively charged glycoprotein **podocalyxin**.
 - **Mesangial cells** — between capillaries, covering surfaces not covered by podocytes; **contractile** (like pericytes) and produce external lamina.
 
 **The filtration barrier has three layers:** **fenestrated endothelium** → **glomerular basement membrane (GBM)**, about **330 nm** thick, of **type IV collagen** and other proteins made by endothelial cells and podocytes → **podocyte slit diaphragms**. The barrier is both a size and a charge filter.
@@ -54,10 +54,10 @@ Renal artery → segmental → interlobar (between pyramids) → arcuate (at the
 |---|---|---|---|
 | **Proximal convoluted tubule (PCT)** | Simple cuboidal, **eosinophilic** | **Long microvilli (brush border)**, abundant mitochondria, large interdigitating **basolateral folds** | **Major reabsorption**: all glucose and organic nutrients, all small proteins and peptides (degraded to amino acids), much water and electrolyte |
 | **Thin descending limb** | Simple squamous | Thin | Water permeability |
-| **Thin ascending limb** | Simple squamous | Thin | — |
+| **Thin ascending limb** | Simple squamous | Thin | Passive NaCl reabsorption; much less water-permeable than the descending limb |
 | **Thick ascending limb (TAL = distal straight tubule)** | Simple cuboidal, low brush border | Ends as the **macula densa** at the vascular pole | **NaCl reabsorption, impermeable to water** — the diluting segment and loop-diuretic site |
 | **Distal convoluted tubule (DCT)** | Simple cuboidal, **pale**, no brush border | Many mitochondria, basal infoldings | Further adjustment of electrolytes; thiazide site; leads to **connecting tubules** |
-| **Collecting duct** | Simple cuboidal → columnar in medulla | **Principal cells** (aquaporins, ADH) and **intercalated cells** (type A secrete H⁺, type B secrete HCO₃⁻) | Final water and acid–base regulation |
+| **Collecting duct** | Simple cuboidal → columnar in medulla | **Principal cells** (aquaporins, ADH) and **intercalated cells** (acid–base transport) | Final water and acid–base regulation |
 
 **Size contrast:** the straight proximal tubule is about **60 µm** in outer diameter and narrows abruptly to about **30 µm** in the thin limbs of the loop.
 
@@ -77,7 +77,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 **Urethra** — in both sexes lined initially by urothelium. In men there are three parts: **prostatic** (3–4 cm, urothelium), **membranous** (short, through the urogenital diaphragm; stratified or pseudostratified columnar), and **penile** (long; stratified columnar/pseudostratified proximally, stratified squamous distally). In women the urethra is **3–5 cm**, urothelium proximally, then nonkeratinized stratified squamous; the middle part is surrounded by the **external striated sphincter**. The short female urethra explains the frequency of cystitis.
 
-> **CLINICAL** — **Diabetic nephropathy** thickens the glomerular basement membrane and later produces mesangial expansion (Kimmelstiel–Wilson nodules), with proteinuria. **Nephrotic syndrome** — heavy proteinuria, hypoalbuminemia, edema, hyperlipidemia; podocyte injury is central. **Acute tubular necrosis** — ischemic or toxic injury to the proximal tubule, the most metabolically demanding segment. **Polycystic kidney disease** — the primary cilium and its signaling fail. **Renal cell carcinoma** arises from proximal tubule cells; **transitional cell carcinoma** from the urothelium. **Kidney stones** form in the pelvis or calyces and cause extreme pain when they move into the ureter.
+> **CLINICAL** — **Polycystic kidney disease** — inherited cysts arising from nephron epithelium destroy cortical organization. **Glomerulonephritis** — immune-complex or anti-glomerular antibody injury; **proteinuria** means the filter has become permeable to protein. **Diabetic glomerulosclerosis** — thickening and loss of function of the GBM; the leading cause of end-stage kidney disease in the United States. **Sickle cell nephropathy** — sickling in the vasa recta causes papillary infarcts. **Kidney stones** — calculi form in the pelvis or calyces, usually from calcium oxalate/phosphate or uric acid. **Pyelonephritis** — bacteria reach the papilla from a calyx; **cystitis** — the commonest bladder problem, favored in women by the short urethra.
 
 > **MICRO** — Start at the renal corpuscle: the **glomerulus** is a tuft of capillaries inside a capsule. Then compare tubules: **eosinophilic + brush border = proximal; pale + clean = distal; large pale cells in a row = collecting duct.** The **macula densa** is the patch of tall cells on the distal tubule facing the vascular pole.
 
@@ -85,7 +85,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 ### Chapter 19 — one-line answers
 
-- Kidney: 12 × 6 × 2.5 cm; **8–15 pyramids**; about **1.25 million nephrons**.
+- Kidney: **8–15 pyramids**; about **1.25 million nephrons**.
 - Lobe = pyramid + cortex; lobule = medullary ray + surrounding cortex.
 - Cortex receives **more than 10×** the blood flow of the medulla.
 - Afferent arteriole → glomerulus → **efferent arteriole** (not a venule), keeping glomerular pressure high.
@@ -95,7 +95,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 - **PCT**: brush border, eosinophilic, reabsorbs all glucose and small proteins.
 - **TAL**: water-impermeable, reabsorbs NaCl, ends as the **macula densa**.
 - **JG cells** in the afferent arteriole secrete **renin**; macula densa senses NaCl.
-- Collecting duct: **principal cells** (aquaporins, ADH) and **intercalated cells** (type A H⁺, type B HCO₃⁻).
+- Collecting duct: **principal cells** (aquaporins, ADH) and **intercalated cells** (acid–base transport).
 - Urothelium: **umbrella cells** with uroplakin plaques; 5–7 layers empty, 2–3 layers full.
 - Bladder holds **400–600 mL**; urge at **150–200 mL**.
 - Male urethra: prostatic, membranous, penile; female urethra 3–5 cm — short, hence cystitis.
@@ -183,8 +183,8 @@ Pale, round clusters between the acini of the exocrine pancreas (Chapter 16). Th
 
 | Cell | Product | Notes |
 |---|---|---|
-| **β (beta)** | **Insulin** | About **twice as abundant** as α cells; central in the islet |
-| **α (alpha)** | **Glucagon** | Peripheral |
+| **β (beta)** | **Insulin** | About **twice as abundant** as α cells; scattered in human islets |
+| **α (alpha)** | **Glucagon** | Abundant and scattered through most islets |
 | **δ (delta)** | **Somatostatin** | Paracrine inhibition |
 | **PP** | Pancreatic polypeptide | — |
 
@@ -219,7 +219,7 @@ A pine-cone-shaped organ about **5–8 × 3–5 mm**, attached to the third vent
 - **Melatonin** — a tryptophan derivative released in **darkness** under **sympathetic** control; it sets diurnal rhythms.
 - Interstitial (glial) cells lie between pinealocytes; unmyelinated sympathetic fibers run in the septa.
 
-> **CLINICAL** — **Graves disease** — diffuse hyperthyroidism with tall columnar follicular cells, scalloped colloid, and lymphoid infiltration. **Hashimoto thyroiditis** — autoimmune destruction with **Hürthle cells** and germinal centers. **Cushing syndrome** — excess cortisol, with fasciculata hyperplasia or an adrenal adenoma. **Conn syndrome** — aldosterone excess from a glomerulosa adenoma. **Pheochromocytoma** — a chromaffin-cell tumor producing episodic hypertension. **Diabetes mellitus** — progressive β-cell loss. **Pituitary adenoma** — bitemporal hemianopia from compression of the optic chiasm plus a hormone syndrome.
+> **CLINICAL** — **Pituitary adenoma** — benign tumors of acidophils or basophils; a somatotroph adenoma causes **gigantism** before epiphyseal closure and **acromegaly** afterwards. **Diabetes insipidus** — deficient ADH (mutation, tumor compression, or head trauma) produces copious dilute urine. **Addison disease** — autoimmune destruction of the adrenal cortex with loss of glucocorticoid, mineralocorticoid, and androgen output. **Pheochromocytoma** — a benign chromaffin-cell tumor that discharges catecholamines episodically, causing swings between hypertension and hypotension. **Diabetes mellitus** — type 1 from autoimmune β-cell loss; type 2 from insulin resistance with relative insulin deficiency. **Goiter** — dietary iodine deficiency lowers thyroid hormone output, so TSH rises and the gland enlarges. **Graves disease** — autoantibodies chronically stimulate follicular cells, producing hyperthyroidism. **Hypoparathyroidism** — low PTH leaves bone over-mineralized and causes tetanic muscle contraction; **hyperparathyroidism** — excess PTH drives osteoclasts and hypercalcemia. **Pineal tumors** are rare but may be benign or highly malignant.
 
 > **MICRO** — Three patterns, three organs. **Follicles of colloid = thyroid.** **Cords of pale foamy cells under a capsule = adrenal cortex; the medulla is paler and central.** **Small pale chief cells in dense cords = parathyroid.** Pituitary: **acidophils and basophils in sheets (anterior); pale fibrillary tissue without epithelial cells (posterior).**
 
@@ -442,7 +442,7 @@ The LH surge sustains progesterone secretion for **10–12 days**. Without pregn
 
 **Ovulation, step by step.** The LH surge triggers: completion of **meiosis I** with extrusion of the **first polar body**; granulosa production of fluid rich in prostaglandins, proteoglycans, and proteases; **hyaluronan** release that loosens the cumulus; activation of **plasmin**, which digests collagen at the **stigma** (the ischemic bulge on the ovarian surface); and contraction of **theca externa** smooth muscle. The follicle ruptures, releasing the **secondary oocyte, arrested in metaphase II**, wrapped in the **corona radiata** — viable for about **24 hours**. If a sperm arrives, the oocyte completes meiosis II and emits the **second polar body**; the two pronuclei fuse to form the **zygote**.
 
-A mature follicle takes about **90 days** to develop from a primordial follicle, and only one per cycle reaches that stage while its neighbours become atretic.
+A mature follicle takes about **90 days** to develop from a primordial follicle, and only one per cycle reaches that stage while its neighbors become atretic.
 
 **Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to make **androstenedione**; it crosses the basement membrane (the granulosa layer is avascular) and **FSH** stimulates **granulosa** cells to **aromatize** it to **estradiol**. The estrogen returns to the theca capillaries and reaches the whole body. This division of labor explains why both gonadotropins are needed for normal estrogen production — and why the granulosa layer must stay avascular.
 

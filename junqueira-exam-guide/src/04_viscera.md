@@ -48,7 +48,7 @@ The lining is **stratified squamous** everywhere, but the degree of keratinizati
 | **Foliate** | Leaf-like folds | Yes | Lateral margins |
 | **Vallate (circumvallate)** | Largest, **1–3 mm** wide, in a trench | **Yes, ~250 per papilla** | **8–12** in a V in front of the terminal sulcus |
 
-**Taste buds** are ovoid intraepithelial organs of **50–100 cells**, about half of them elongated **gustatory cells** with a **7–10-day** turnover. Their microvilli face a **2-µm taste pore**; support cells and basal stem cells complete the bud. **Filiform papillae never carry taste buds** — a standard trap.
+**Taste buds** are ovoid intraepithelial organs of **50–100 cells**, about half of them elongated **gustatory cells** with a **7–10-day** turnover. Their microvilli project toward a **2-µm-wide taste pore**; support cells and basal stem cells complete the bud. **Filiform papillae never carry taste buds** — a standard trap.
 
 **Teeth.** An adult has **32 permanent teeth**. Each has a crown, a constricted neck, and roots in dental alveoli.
 
@@ -67,7 +67,7 @@ The muscularis is the examinable progression: **skeletal muscle at the superior 
 
 **Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
 
-The gland epithelium contains **five functional cell types plus pluripotent stem cells**:
+The gland epithelium contains **five functional cell types** — surface mucous, mucous neck, parietal, chief, and enteroendocrine — plus pluripotent stem cells:
 
 | Cell | Location | Product | Function |
 |---|---|---|---|
@@ -82,13 +82,13 @@ Parietal cells are controlled both by **parasympathetic innervation** and by par
 
 ### Small Intestine
 
-The absorptive surface is amplified three times: **plicae circulares** (mucosa + submucosa), **villi** (mucosa), and **microvilli** (cell surface) — the clearest "structure follows function" example in the book.
+The small intestine is about **5 m long**. Its absorptive surface is amplified three times: **plicae circulares** (mucosa + submucosa), **villi** (mucosa), and **microvilli** (cell surface) — the clearest "structure follows function" example in the book.
 
 Each **villus** is a finger of lamina propria covered by simple columnar epithelium, containing a **lacteal** and smooth muscle. Between villi, simple tubular **crypts (of Lieberkühn)** are the proliferative compartment. Smooth muscle of the lamina propria and muscularis mucosae, controlled by **Meissner's plexus**, moves the villi and propels lymph; the muscularis, controlled by **Auerbach's plexus**, produces peristalsis.
 
 **Cell types and what each absorbs or secretes:**
 
-- **Enterocytes** — brush border; **sugars and amino acids** produced by final digestion in the glycocalyx are taken up by **transcytosis** and pass to capillaries.
+- **Enterocytes** — brush border; **disaccharidases and peptidases in the glycocalyx** complete digestion, and the resulting monosaccharides and amino acids are absorbed across the brush border and pass to capillaries.
 - **Goblet cells** — mucus.
 - **Paneth cells** — base of crypts, **eosinophilic** granules, secrete **defensins** (and lysozyme).
 - **Enteroendocrine cells** — CCK, secretin, GIP, motilin.
@@ -99,7 +99,7 @@ Each **villus** is a finger of lamina propria covered by simple columnar epithel
 | Region | Defining feature |
 |---|---|
 | **Duodenum** | **Duodenal (Brunner) glands in the submucosa**; leaf-like villi |
-| **Jejunum** | Tallest villi, no Brunner glands, no Peyer's patches |
+| **Jejunum** | Tallest villi; no Brunner glands; Peyer's patches sparse or absent (they are characteristic of the ileum) |
 | **Ileum** | **Peyer's patches** (mucosal and submucosal); shortest villi |
 
 ### Large Intestine
@@ -108,7 +108,7 @@ Three regions: the short **cecum** with the **appendix**; the long **colon** (as
 
 **No villi**, straight tubular crypts lined by **colonocytes** (absorptive, water and electrolyte uptake) and **abundant goblet cells**. The outer longitudinal muscle is gathered into three **teniae coli**, which produce the bulging **haustra**; the serosa carries hanging fat masses, the **omental appendages** (appendices epiploicae). Function: water and electrolyte absorption, mucus secretion, bacterial fermentation. The **appendix** is a blind diverticulum of the cecum with abundant lymphoid tissue in its lamina propria and submucosa — part of MALT.
 
-**Anal canal** — the mucosa is highly vascular, folded into **anal columns (of Morgagni)** with intervening anal sinuses; it ends as **stratified squamous** epithelium. Swollen mucosal or submucosal veins here are **hemorrhoids**.
+The **rectum** (**10–12 cm**) continues as the **anal canal** (**3–4 cm**). There the mucosa is highly vascular, folded into **anal columns (of Morgagni)** with intervening anal sinuses, and the columnar lining changes to **stratified squamous** epithelium at the rectoanal junction. Swollen mucosal or submucosal veins here are **hemorrhoids**.
 
 > **CLINICAL** — **Peptic ulcer** — *H. pylori* breaches the mucous barrier; acid and pepsin digest the wall, classically in the duodenal bulb or gastric antrum. **Pernicious anemia** — loss of parietal cells means no intrinsic factor, so B₁₂ cannot be absorbed in the terminal ileum. **Celiac disease** — villous atrophy, crypt hyperplasia, and intraepithelial lymphocytes in the proximal small intestine, driven by gluten. **Barrett esophagus** — chronic acid reflux causes metaplasia from stratified squamous to **intestinal-type columnar epithelium with goblet cells**, a premalignant change. **Diverticulosis** — mucosa and submucosa herniate between the teniae coli; trapped feces cause diverticulitis.
 
@@ -188,7 +188,7 @@ Three major pairs produce about **90%** of saliva; minor glands scattered throug
 |---|---|---|
 | **Parotid** | **Serous acini only** | Watery, enzyme-rich |
 | **Submandibular** | Mixed, **mainly serous** acini | Mixed |
-| **Sublingual** | Mixed, **mainly mucous tubules**, some with **serous demilunes** | Viscous |
+| **Sublingual** | Mixed, **mainly mucous tubules**, some with **serous demilunes** (partly a fixation artifact) | Viscous |
 
 **Serous cells** are protein-secreting and form round or oval acini; **mucous cells** secrete mucin and form elongated tubules. **Myoepithelial cells** sit between the secretory cells and the basal lamina and squeeze the secretion onward.
 
@@ -336,7 +336,7 @@ A short air passage between pharynx and trachea, with skeletal cartilages and in
 
 ### Trachea
 
-- **Epithelium** — respiratory epithelium (pseudostratified ciliated columnar with goblet cells).
+- **Epithelium** — respiratory epithelium (pseudostratified ciliated columnar with goblet cells); the trachea is **10–12 cm** long with about a dozen C-shaped rings.
 - **Lamina propria** — elastic fibers, lymphocytes, seromucous glands.
 - **Cartilage** — **C-shaped hyaline rings**, incomplete posteriorly.
 - **Trachealis muscle** — smooth muscle bridging the posterior gap, allowing the esophagus to expand.
@@ -354,17 +354,16 @@ A short air passage between pharynx and trachea, with skeletal cartilages and in
 
 | Cell | Shape | Function | Share of alveolar lining |
 |---|---|---|---|
-| **Type I pneumocyte** | Squamous, extremely thin | **Gas exchange**; forms the blood–air barrier | **~95%** |
-| **Type II pneumocyte** | Cuboidal, **lamellar bodies** | **Surfactant**; innate immunity; progenitor for type I | ~5% |
+| **Type I pneumocyte** | Squamous, extremely thin | **Gas exchange**; forms the blood–air barrier | Lines almost the **entire** alveolar surface |
+| **Type II pneumocyte** | Cuboidal, **lamellar bodies** | **Surfactant**; innate immunity; progenitor for type I | A **small part** of each alveolus |
 | **Alveolar macrophage** | Large, free ("dust cell") | Phagocytosis | — |
 
 **Numbers to know:**
 
-- Each alveolus is about **200 µm** in diameter.
-- Each adult lung has about **200 million alveoli**, with a total surface area of about **75 m²**.
+- Each adult lung has about **200 million alveoli**, with a total internal surface area of about **75 m²**.
 - The **blood–air barrier** = surfactant film + **type I pneumocyte** + fused basal laminae + capillary endothelium. Its total thickness is **0.1–1.5 µm**, and the attenuated type I cytoplasm can be as thin as **25 nm**.
 - **Surfactant** is an oily mixture of **cholesterol, phospholipids, and surfactant proteins** secreted by **type II cells and club cells**. It lowers surface tension and prevents alveolar collapse at end-expiration.
-- **Pores of Kohn** connect adjacent alveoli.
+- **Pores of Kohn** — **10–15 µm** openings that connect adjacent alveoli and equalize air pressure.
 
 ### Lung Vasculature & Nerves
 
@@ -378,7 +377,7 @@ A **serous membrane** of simple squamous mesothelium over connective tissue: **v
 
 Ventilation is pressure-driven: the **diaphragm** and **external intercostal muscles** enlarge the thoracic cavity, pleural pressure falls, the lung expands passively, and air enters. **Elastic recoil** of the lung and surface tension at the alveolar air–liquid interface drive expiration — precisely why surfactant deficiency causes collapse.
 
-> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane, and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection. **Lung cancer** — the commonest sites are the major bronchi; squamous cell carcinoma, adenocarcinoma, small cell carcinoma, and large cell carcinoma are the four main types.
+> **CLINICAL** — **Respiratory distress syndrome of the newborn** — immature type II pneumocytes produce insufficient surfactant, so alveoli collapse; treatment is exogenous surfactant and antenatal steroids. **Emphysema** — destruction of alveolar walls enlarges air spaces and reduces surface area. **Asthma** — bronchoconstriction, mucosal edema, eosinophilic inflammation, thickened basement membrane, and smooth muscle hypertrophy. **Chronic bronchitis** — mucus hypersecretion and gland hypertrophy. **Cystic fibrosis** — defective CFTR thickens secretions, causing bronchiectasis and recurrent infection. **Lung cancer** — the book names three types: **squamous cell carcinoma** (smoking-related, arises in segmental bronchi), **adenocarcinoma** (commonest in non-smokers, arises peripherally in bronchioles and alveoli), and **small cell carcinoma** (less common, highly malignant).
 
 > **MICRO** — Walk down the tree and count what disappears. **Cartilage rings + glands = trachea. Cartilage plates + no glands = bronchus. No cartilage, no glands, muscular wall = bronchiole.** Then look for alveoli in the wall: if present, it is a respiratory bronchiole.
 
@@ -392,7 +391,7 @@ Ventilation is pressure-driven: the **diaphragm** and **external intercostal mus
 - Respiratory epithelium is pseudostratified ciliated columnar with goblet cells.
 - Cartilage changes down the tree: C-shaped rings → irregular plates → none.
 - The respiratory bronchiole is the first airway with alveoli in its wall.
-- Type I pneumocytes cover about 95% of the alveolar surface and form the thin gas-exchange barrier.
+- Type I pneumocytes line almost the entire alveolar surface and form the thin gas-exchange barrier.
 - Type II pneumocytes secrete surfactant and divide to replace type I cells.
 - The blood–air barrier is surfactant, type I cell, fused basal laminae, and capillary endothelium (0.1–1.5 µm).
 - Alveolar macrophages (dust cells) clear particles and debris.
@@ -401,7 +400,7 @@ Ventilation is pressure-driven: the **diaphragm** and **external intercostal mus
 ### Active recall
 
 1. **What marks the transition from conducting to respiratory airway?** — The appearance of alveoli in the wall — the respiratory bronchiole.
-2. **Which cells line ~95% of the alveolar surface?** — Type I pneumocytes.
+2. **Which cells line almost the entire alveolar surface?** — Type I pneumocytes.
 3. **What do type II pneumocytes secrete, and why does it matter?** — Surfactant, which lowers surface tension and prevents alveolar collapse.
 4. **Name the components of the blood–air barrier.** — Surfactant film, type I pneumocyte, fused basal laminae, capillary endothelium.
 5. **How does cartilage change down the tree?** — C-shaped rings (trachea) → irregular plates (bronchi) → absent (bronchioles).
@@ -436,7 +435,7 @@ By the end of this chapter you should be able to:
 1. Name the epidermal layers in order and the defining feature of each.
 2. Match each epidermal cell type to its origin and function.
 3. Identify the dermis, hypodermis, and each skin appendage.
-4. Explain wound healing by first and second intention, and classify burns by depth.
+4. Explain the stages of skin repair, and recognize healing by first and second intention.
 
 ### The core idea
 
@@ -515,9 +514,11 @@ Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root
 
 ### Skin Repair
 
-**First intention** — clean, apposed edges; a clot forms, neutrophils and macrophages arrive, keratinocytes migrate across the wound, and minimal granulation tissue is needed. **Second intention** — open wounds; abundant **granulation tissue**, wound contraction by myofibroblasts, and a larger scar. **Burns** are classified by depth: first-degree (epidermis), second-degree (into dermis, with blistering), third-degree (full thickness, including appendages, so it cannot re-epithelialize).
+Repair runs through overlapping stages (the book's Figure 18–20): a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**. Epithelialization is complete before the collagen of the scar remodels.
 
-> **CLINICAL** — **Psoriasis** — accelerated keratinocyte turnover with parakeratosis, acanthosis, and Munro microabscesses. **Melanoma** — malignant melanocytes; **Breslow thickness** (depth of invasion) predicts survival, which is why the dermis matters. **Vitiligo** — autoimmune destruction of melanocytes. **Albinism** — defective tyrosinase or another melanin-pathway component. **Basal cell carcinoma** — from basal keratinocytes, locally invasive but rarely metastasizes. **Squamous cell carcinoma** — from spinous cells, can metastasize. **Merkel cell carcinoma** — rare but about **twice as lethal** as melanoma. **Pemphigus** and **bullous pemphigoid** are the blistering diseases of desmosomes and hemidesmosomes described in Chapter 4.
+**Supplementary (standard clinical terminology, not used in this chapter):** healing by **first intention** — clean, apposed edges needing minimal granulation tissue; **second intention** — an open wound with abundant granulation tissue, wound contraction by myofibroblasts, and a larger scar. **Burns** are graded by depth: first-degree (epidermis), second-degree (into dermis, blistering), third-degree (full thickness, including appendages, so it cannot re-epithelialize).
+
+> **CLINICAL** — **Psoriasis** — T-cell-driven accelerated production and differentiation of keratinocytes, with thickening, scaling, and a defective barrier. **Skin cancer** — about **one-third of all cancers** begin in skin; most arise from basal or spinous cells (basal cell and squamous cell carcinoma), are diagnosed early, and are rarely lethal; incidence rises with fair skin and solar exposure. **Melanoma** — moles can show dysplasia and progress to malignant melanoma, whose cells penetrate the basal lamina and metastasize through blood and lymph. **Merkel cell carcinoma** is **40 times less common** than melanoma but has **twice its mortality**. **Albinism** — defective tyrosinase or another melanin-pathway component; **vitiligo** — loss or reduced activity of melanocytes. **Pemphigus** (intercellular junctions) and **bullous pemphigoid** (dermal–epidermal junction) are the blistering diseases. **Cystic fibrosis** — salty sweat, because CFTR fails to reabsorb salt in the sweat duct.
 
 > **MICRO** — Count layers and look for appendages. **Thick skin: five layers, thick keratin, no hair. Thin skin: four layers, hair follicles and sebaceous glands.** A dark condensed nucleus at the basal layer with a clear halo suggests a melanocyte.
 

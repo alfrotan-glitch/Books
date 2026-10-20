@@ -1,6 +1,6 @@
 # Junqueira's Basic Histology — The Exam Companion
 
-A **138-page** revision book built from **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024)**, written for medical students preparing for examinations. Every chapter has been read against the uploaded PDF of the book, in all four parts.
+A **140-page** revision book built from **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024)**, written for medical students preparing for examinations. Every chapter has been read against the uploaded PDF of the book, in all four parts.
 
 ## Files
 
@@ -9,7 +9,7 @@ A **138-page** revision book built from **Junqueira's Basic Histology: Text & At
 | `Junqueira_Exam_Companion.pdf` | Print-ready A4 book with running heads, contents page, PDF bookmarks |
 | `Junqueira_Exam_Companion.docx` | Editable Word version (same content, Word styles) |
 | `Junqueira_Exam_Companion.html` | Phone/tablet reading copy, self-contained, no internet needed |
-| `deliverables/junqueira_flashcards.csv` | Anki-importable cards (`Front,Back,Tags,Type`) |
+| `deliverables/junqueira_flashcards.csv` | 550 Anki-importable cards (`Front,Back,Tags,Type`) |
 | `deliverables/junqueira_question_bank.csv` | 100 MCQs with answer, explanation, and why each distractor fails |
 | `COVERAGE.md` | Chapter-by-chapter audit trail, plus the known discrepancies in the source |
 | `src/*.md` | The manuscript — one file per section, plain Markdown |
@@ -45,7 +45,7 @@ Edit anything in `src/`, then re-run. Sections are concatenated in filename orde
 
 ## Notes
 
-- Source book: Junqueira's Basic Histology: Text & Atlas, 17th ed., Anthony L. Mescher, McGraw Hill, 2024 (ISBN 978-1-264-93039-5).
+- Source book: Junqueira's Basic Histology: Text & Atlas, 17th ed., Anthony L. Mescher, McGraw Hill, 2024 (ISBN 978-1-26-493039-5).
 - **All four uploaded parts have been read in full**: part 1 for Chapters 1–7, part 2 for Chapters 8–14, part 3 for the tail of Chapter 14 through the thyroid section of Chapter 20, and part 4 for the parathyroid and pineal sections of Chapter 20, Chapters 21–23, and Appendix A. The Source Map gives the exact starting page of every chapter.
 - **No facts are invented and no past-paper claims are made.** The 100 MCQs were written for this guide in the style of the book's *Assess Your Knowledge* questions; they are not past examination questions, and no topic-frequency statistics are claimed.
 - **Known source discrepancies are flagged rather than copied.** Chapter 22's Summary of Key Points reverses the hormones of the two lutein cell types (the body text, figure legend and end-of-chapter question all contradict it), and calls the zona pellucida glycoproteins "ZO proteins" where the body gives ZP1–ZP3. Both are documented in `COVERAGE.md` and in the chapter itself.

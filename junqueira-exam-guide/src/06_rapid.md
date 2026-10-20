@@ -179,7 +179,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 10. Mitochondria are maternally inherited.
 11. Steroid-secreting cells have **tubular** cristae.
 12. Nissl bodies = rough ER + polysomes.
-13. Golgi **modifies and sorts**; RER **synthesises**.
+13. Golgi **modifies and sorts**; RER **synthesizes**.
 14. Lysosomes are acidic (pH ≈ 5).
 15. Lipofuscin = residual body pigment.
 16. Peroxisomes contain catalase.

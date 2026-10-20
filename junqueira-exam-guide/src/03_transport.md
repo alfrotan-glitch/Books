@@ -135,9 +135,11 @@ The book's Table 12–1 (p2 · 158 — a page with no extractable text, read her
 | — **Albumin** | ~58% of plasma protein | Osmotic pull (oncotic pressure); carries fatty acids, hormones, drugs |
 | — **Globulins** | ~37% of plasma protein | α- and β-globulins transport lipids, metals, and iron; γ-globulins are antibodies |
 | — **Fibrinogen** | ~4% of plasma protein | Precursor of fibrin for clotting |
-| — **Regulatory proteins** | <1% of plasma protein | Enzymes, proenzymes, hormones, complement |
-| **Electrolytes** | <1% of plasma | Membrane potentials, pH, osmotic control |
-| **Nutrients** | <1% of plasma | Glucose, amino acids, cholesterol, vitamins — energy and synthesis | On clotting, some proteins are consumed and others are released from platelets, leaving **serum**, whose biological properties differ from plasma. **Serum is plasma minus fibrinogen** (i.e., after clotting).
+| — **Regulatory proteins** | **>1%** of plasma protein | Enzymes, proenzymes, hormones, complement |
+| **Electrolytes** | **~1%** of plasma (with nutrients) | Membrane potentials, pH, osmotic control |
+| **Nutrients** | **~1%** of plasma (with electrolytes) | Glucose, amino acids, cholesterol, vitamins — energy and synthesis |
+
+On clotting, some proteins are consumed and others are released from platelets, leaving **serum**, whose biological properties differ from plasma. **Serum is plasma minus fibrinogen** (i.e., after clotting).
 
 ### Blood Cells
 
@@ -162,7 +164,9 @@ The book's Table 12–1 (p2 · 158 — a page with no extractable text, read her
 
 **Neutrophil granules:** **azurophilic (primary)** granules contain myeloperoxidase and defensins; **specific (secondary)** granules contain lysozyme and lactoferrin. The neutrophil dies after phagocytosis; the accumulation of dead neutrophils and debris is **pus**. Each **phagocyte** kills ingested bacteria inside a phagolysosome.
 
-**Platelets** are 2–3 µm anucleate fragments of **megakaryocyte** cytoplasm, with a peripheral clear zone (hyalomere) and a central granular zone (granulomere). They adhere, activate, and aggregate to form the primary hemostatic plug; **von Willebrand factor** links them to collagen.
+**Platelets** are **2–4 µm** anucleate fragments of **megakaryocyte** cytoplasm, with a peripheral clear zone (hyalomere) and a central granular zone (granulomere). They number **150,000–400,000/µL** and circulate for about **10 days**. They adhere, activate, and aggregate to form the primary hemostatic plug; **von Willebrand factor** links them to collagen.
+
+**Hemostasis in four steps** (the standard physiology sequence; this chapter describes only the platelet plug and clotting): (1) **Vascular spasm** — the injured vessel constricts, slowing flow. (2) **Primary hemostasis** — platelets bind exposed collagen (directly and through von Willebrand factor), degranulate, and aggregate into a soft plug. (3) **Coagulation** — exposed tissue factor and platelet phospholipid trigger the clotting cascade, converting prothrombin to **thrombin**, which cleaves fibrinogen into **fibrin**; the fibrin mesh stabilizes the plug as a clot. (4) **Retraction and repair** — the clot contracts, and endothelial cells and fibroblasts rebuild the wall.
 
 > **CLINICAL** — The differential count is a diagnostic instrument. **Neutrophilia** suggests bacterial infection or steroid use; **eosinophilia** parasites or allergy; **lymphocytosis** viral infection or chronic lymphocytic leukemia; **pancytopenia** marrow failure. In **sickle cell disease** a single glutamic acid → valine substitution in β-globin allows deoxygenated HbS to polymerize; the cell sickles, occludes small vessels, and is removed by the spleen.
 

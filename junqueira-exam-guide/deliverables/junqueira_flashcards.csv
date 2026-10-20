@@ -91,7 +91,7 @@ Ch 4 · Pseudostratified ciliated columnar — Function?,"Mucus clearance (""res
 Ch 4 · Stratified cuboidal / columnar — Structure?,Two or more layers,Junqueira::Ch04 tables,basic
 Ch 4 · Stratified cuboidal / columnar — Location?,"Ducts of sweat glands, conjunctiva",Junqueira::Ch04 tables,basic
 Ch 4 · Stratified cuboidal / columnar — Function?,Conduit with protection,Junqueira::Ch04 tables,basic
-Ch 4 · Transitional (urothelium) — Structure?,"Stratified, with dome-shaped umbrella cells and uroplakins",Junqueira::Ch04 tables,basic
+Ch 4 · Transitional (urothelium) — Structure?,"Stratified, with dome-shaped umbrella cells whose apical membrane is stiffened by uroplakin plaques",Junqueira::Ch04 tables,basic
 Ch 4 · Transitional (urothelium) — Location?,"Renal pelvis, ureter, bladder, proximal urethra",Junqueira::Ch04 tables,basic
 Ch 4 · Transitional (urothelium) — Function?,Stretchable barrier to urine,Junqueira::Ch04 tables,basic
 Which collagen type forms the basal lamina?,"Type IV (with laminin), over a reticular lamina of type III.",Junqueira::Ch05 recall,basic
@@ -103,7 +103,7 @@ Ch 5: Type I collagen?,"bone, tendon, dermis, scar. Type II = hyaline and elasti
 Ch 5: Collagen synthesis needs vitamin C for proline and lysine hydroxylation; deficiency?,scurvy.,Junqueira::Ch05 facts,basic
 Ch 5: Loose (areolar) tissue?,cells and vessels; dense irregular = dermis; dense regular = tendon.,Junqueira::Ch05 facts,basic
 Ch 5 · Fibroblast / fibrocyte — Origin?,Mesenchyme,Junqueira::Ch05 tables,basic
-Ch 5 · Fibroblast / fibrocyte — Function?,"Synthesises collagen, elastin, GAGs; fibrocyte is the quiescent form",Junqueira::Ch05 tables,basic
+Ch 5 · Fibroblast / fibrocyte — Function?,"Synthesizes collagen, elastin, GAGs; fibrocyte is the quiescent form",Junqueira::Ch05 tables,basic
 Ch 5 · Fibroblast / fibrocyte — Identifying feature?,"Elongated, pale, abundant RER; myofibroblast also has actin for wound contraction",Junqueira::Ch05 tables,basic
 Ch 5 · Macrophage — Origin?,Monocyte,Junqueira::Ch05 tables,basic
 Ch 5 · Macrophage — Function?,"Phagocytosis, antigen presentation, cytokines",Junqueira::Ch05 tables,basic
@@ -235,7 +235,7 @@ What do eosinophil granules contain?,"Major basic protein and eosinophil cationi
 What are the three steps of hemostasis?,"Vascular spasm, platelet plug formation, and coagulation (fibrin clot).",Junqueira::Ch12 recall,basic
 Ch 12 · Plasma proteins — Share?,~7% of plasma,Junqueira::Ch12 tables,basic
 Ch 12 · Plasma proteins — Job?,Buffer pH; maintain osmotic pressure,Junqueira::Ch12 tables,basic
-Ch 12 · Regulatory proteins — Share?,<1% of plasma protein,Junqueira::Ch12 tables,basic
+Ch 12 · Regulatory proteins — Share?,>1% of plasma protein,Junqueira::Ch12 tables,basic
 Ch 12 · Regulatory proteins — Job?,"Enzymes, proenzymes, hormones, complement",Junqueira::Ch12 tables,basic
 Ch 12 · Neutrophil — % of WBC?,60–70%,Junqueira::Ch12 tables,basic
 Ch 12 · Neutrophil — Size?,10–14 µm,Junqueira::Ch12 tables,basic
@@ -312,7 +312,7 @@ Trace bile from canaliculus to duodenum.,Canaliculi → canals of Hering → bil
 Which way does blood flow in a hepatic lobule?,From portal areas at the periphery toward the central vein.,Junqueira::Ch16 recall,basic
 Ch 16: Hepatic zone 1?,"periportal, most oxygen; zone 3 = pericentral, most biotransformation and first to die in ischemia.",Junqueira::Ch16 facts,basic
 What marks the transition from conducting to respiratory airway?,The appearance of alveoli in the wall — the respiratory bronchiole.,Junqueira::Ch17 recall,basic
-Which cells line ~95% of the alveolar surface?,Type I pneumocytes.,Junqueira::Ch17 recall,basic
+Which cells line almost the entire alveolar surface?,Type I pneumocytes.,Junqueira::Ch17 recall,basic
 "What do type II pneumocytes secrete, and why does it matter?","Surfactant, which lowers surface tension and prevents alveolar collapse.",Junqueira::Ch17 recall,basic
 Name the components of the blood–air barrier.,"Surfactant film, type I pneumocyte, fused basal laminae, capillary endothelium.",Junqueira::Ch17 recall,basic
 How does cartilage change down the tree?,C-shaped rings (trachea) → irregular plates (bronchi) → absent (bronchioles).,Junqueira::Ch17 recall,basic
@@ -327,10 +327,10 @@ Ch 17 · Basal cells — Share?,~30%,Junqueira::Ch17 tables,basic
 Ch 17 · Basal cells — Function?,Stem cells,Junqueira::Ch17 tables,basic
 Ch 17 · Type I pneumocyte — Shape?,"Squamous, extremely thin",Junqueira::Ch17 tables,basic
 Ch 17 · Type I pneumocyte — Function?,Gas exchange; forms the blood–air barrier,Junqueira::Ch17 tables,basic
-Ch 17 · Type I pneumocyte — Share of alveolar lining?,~95%,Junqueira::Ch17 tables,basic
+Ch 17 · Type I pneumocyte — Share of alveolar lining?,Lines almost the entire alveolar surface,Junqueira::Ch17 tables,basic
 Ch 17 · Type II pneumocyte — Shape?,"Cuboidal, lamellar bodies",Junqueira::Ch17 tables,basic
 Ch 17 · Type II pneumocyte — Function?,Surfactant; innate immunity; progenitor for type I,Junqueira::Ch17 tables,basic
-Ch 17 · Type II pneumocyte — Share of alveolar lining?,~5%,Junqueira::Ch17 tables,basic
+Ch 17 · Type II pneumocyte — Share of alveolar lining?,A small part of each alveolus,Junqueira::Ch17 tables,basic
 Ch 17 · Alveolar macrophage — Shape?,"Large, free (""dust cell"")",Junqueira::Ch17 tables,basic
 Ch 17 · Alveolar macrophage — Function?,Phagocytosis,Junqueira::Ch17 tables,basic
 Name the epidermal layers from deep to superficial.,"Basale, spinosum, granulosum, lucidum (thick skin only), corneum.",Junqueira::Ch18 recall,basic
@@ -389,6 +389,7 @@ Ch 19 · Proximal convoluted tubule (PCT) — Function?,"Major reabsorption: all
 Ch 19 · Thin descending limb — Epithelium?,Simple squamous,Junqueira::Ch19 tables,basic
 Ch 19 · Thin descending limb — Function?,Water permeability,Junqueira::Ch19 tables,basic
 Ch 19 · Thin ascending limb — Epithelium?,Simple squamous,Junqueira::Ch19 tables,basic
+Ch 19 · Thin ascending limb — Function?,Passive NaCl reabsorption; much less water-permeable than the descending limb,Junqueira::Ch19 tables,basic
 Ch 19 · Thick ascending limb (TAL = distal straight tubule) — Epithelium?,"Simple cuboidal, low brush border",Junqueira::Ch19 tables,basic
 Ch 19 · Thick ascending limb (TAL = distal straight tubule) — Key features?,Ends as the macula densa at the vascular pole,Junqueira::Ch19 tables,basic
 Ch 19 · Thick ascending limb (TAL = distal straight tubule) — Function?,"NaCl reabsorption, impermeable to water — the diluting segment and loop-diuretic site",Junqueira::Ch19 tables,basic
@@ -396,7 +397,7 @@ Ch 19 · Distal convoluted tubule (DCT) — Epithelium?,"Simple cuboidal, pale, 
 Ch 19 · Distal convoluted tubule (DCT) — Key features?,"Many mitochondria, basal infoldings",Junqueira::Ch19 tables,basic
 Ch 19 · Distal convoluted tubule (DCT) — Function?,Further adjustment of electrolytes; thiazide site; leads to connecting tubules,Junqueira::Ch19 tables,basic
 Ch 19 · Collecting duct — Epithelium?,Simple cuboidal → columnar in medulla,Junqueira::Ch19 tables,basic
-Ch 19 · Collecting duct — Key features?,"Principal cells (aquaporins, ADH) and intercalated cells (type A secrete H⁺, type B secrete HCO₃⁻)",Junqueira::Ch19 tables,basic
+Ch 19 · Collecting duct — Key features?,"Principal cells (aquaporins, ADH) and intercalated cells (acid–base transport)",Junqueira::Ch19 tables,basic
 Ch 19 · Collecting duct — Function?,Final water and acid–base regulation,Junqueira::Ch19 tables,basic
 Which pituitary cells are acidophils?,Somatotrophs (GH) and lactotrophs (prolactin).,Junqueira::Ch20 recall,basic
 Where are oxytocin and ADH made and stored?,Made in the supraoptic and paraventricular nuclei; stored and released in the pars nervosa.,Junqueira::Ch20 recall,basic
@@ -418,9 +419,9 @@ Ch 20 · Zona reticularis — Cells?,"Irregular cords, pigmented cells",Junqueir
 Ch 20 · Zona reticularis — Hormone?,Androgens (DHEA),Junqueira::Ch20 tables,basic
 Ch 20 · Zona reticularis — Control?,ACTH,Junqueira::Ch20 tables,basic
 Ch 20 · β (beta) — Product?,Insulin,Junqueira::Ch20 tables,basic
-Ch 20 · β (beta) — Notes?,About twice as abundant as α cells; central in the islet,Junqueira::Ch20 tables,basic
+Ch 20 · β (beta) — Notes?,About twice as abundant as α cells; scattered in human islets,Junqueira::Ch20 tables,basic
 Ch 20 · α (alpha) — Product?,Glucagon,Junqueira::Ch20 tables,basic
-Ch 20 · α (alpha) — Notes?,Peripheral,Junqueira::Ch20 tables,basic
+Ch 20 · α (alpha) — Notes?,Abundant and scattered through most islets,Junqueira::Ch20 tables,basic
 Ch 20 · δ (delta) — Product?,Somatostatin,Junqueira::Ch20 tables,basic
 Ch 20 · δ (delta) — Notes?,Paracrine inhibition,Junqueira::Ch20 tables,basic
 "What forms the blood–testis barrier, and what does it separate?",Tight junctions between Sertoli cells; basal and adluminal compartments.,Junqueira::Ch21 recall,basic

@@ -16,7 +16,7 @@ title: "Basic Histology — The Exam Companion"
 subtitle: "A structured summary of Junqueira's Basic Histology: Text & Atlas, 17th edition"
 author: "Prepared for medical examination revision"
 date: "2026"
-lang: en-GB
+lang: en-US
 ---
 """
 
