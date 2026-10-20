@@ -32,6 +32,8 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 | 17 | Small-cell carcinoma described only as "less common, highly malignant" | Origin from **small granule (Kulchitsky) cells** added | Ch 17 |
 | 20 | Parathyroid oxyphils softened to "function not established"; total weight deleted | Restored the book's statement: **degenerated derivatives of principal cells, some still showing low-level PTH synthesis**, and the **0.4 g** total | Part 4, Ch 20 |
 | 23 | "About 75 ciliary processes" | Replaced with "numerous"; the count is not in the source | Part 4, Ch 23 |
+| 15 | Rectum "10–12 cm" and anal canal "3–4 cm" | Deleted; neither length is given in the chapter | Ch 15 text |
+| 12 | Granulocytes "10–14 µm"; lymphocytes "7–12 µm, 20–30%"; eosinophils "2–4%" | **12–15 µm** for neutrophils, eosinophils and basophils; lymphocytes **6–15 µm, about one-third**; eosinophils **1–4%** | Ch 12 body text |
 
 ### 1.3 Corrections made earlier in the same pass (previously uncommitted)
 
@@ -122,17 +124,17 @@ The earlier audit's other "not in the source" removals were re-checked in the sa
 
 ## 6. Final commits and artifact hashes
 
-**Artifact commit (this release):** `3330946` — *Ch 19: tidy filtration figures; rebuild all formats*
-**Preceding commit in the same pass:** `aeb9c70` — *Final priority reset: verify Chapters 15-23 against source, correct details, add study plates, rebuild*
+**Artifact commit (this release):** `1f2ff2a` — *Correct leukocyte dimensions, remove unstated rectal lengths; rebuild*
+**Earlier commits in the same pass:** `3330946` (Ch 19 filtration wording) and `aeb9c70` — *Final priority reset: verify Chapters 15-23 against source, correct details, add study plates, rebuild*
 This report is committed in the commit that follows; `git log` shows it on top.
 
 | Artifact | Bytes | SHA-256 |
 |---|---|---|
-| `Junqueira_Exam_Companion_FINAL.pdf` | 511,111 | `ceb2e4955d7024d3438ac4c18756d1f781eaec6c64f46694ee338e2120ecb2f1` |
-| `Junqueira_Exam_Companion_FINAL.docx` | 177,706 | `27cdc49efed77516d6509290c53267e7b9a17504bf41fbb6cdd491696c855011` |
-| `Junqueira_Exam_Companion_FINAL.epub` | 215,416 | `4183d59d29438940d7953408cffd87412e980479d9933fedd1f43336a57c5898` |
-| `Junqueira_Exam_Companion_FINAL.html` | 443,863 | `3b038717877ce43074fdf7125297a1bce73c6cc96e772ac42420de50538f6db2` |
+| `Junqueira_Exam_Companion_FINAL.pdf` | 511,251 | `dc84775c2856ba8ee13f68546ce253030acebfe88efabcc177343fc8be04f99b` |
+| `Junqueira_Exam_Companion_FINAL.docx` | 177,765 | `51c39f4fd7aab673825a4498708b0a783909f02274b4ee5928eaae1ad4fe2842` |
+| `Junqueira_Exam_Companion_FINAL.epub` | 215,472 | `214b187ee89c9c78b2feafee2c665857f247b4f7182a3dd1848123378df6dcec` |
+| `Junqueira_Exam_Companion_FINAL.html` | 444,083 | `ea6cf413728e67aeba7ab2ba4b37e19eb82d6e6122d28df9f4c60bde92bf1216` |
 | `deliverables/junqueira_flashcards.csv` (unchanged) | — | `0d33512669193a36fc8d895397883f0c34fe9cdb0ad31925214fdab3bb151a57` |
 | `deliverables/junqueira_question_bank.csv` (unchanged) | — | `7790a51397fff690e029123606a9c5217696e196ffb9b8a07c45f17fd6d78628` |
 
-PDF text: **49,433 words**; **142 pages**; contents on p. 3; Part VII begins p. 125; answer key p. 137.
+PDF text: **49,455 words**; **142 pages**; contents on p. 3; Part VII begins p. 125; answer key p. 137.
