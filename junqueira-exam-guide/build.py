@@ -28,7 +28,7 @@ from reportlab.platypus.tableofcontents import TableOfContents
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "src")
-OUT_PDF = os.path.join(HERE, "Junqueira_Exam_Companion.pdf")
+OUT_PDF = os.path.join(HERE, "Junqueira_Exam_Companion_FINAL.pdf")
 
 PAGE_W, PAGE_H = A4
 ML, MR, MT, MB = 46, 46, 52, 46
@@ -107,9 +107,9 @@ STY = {
     "quote":      S("quote", fontName="Body", fontSize=9.3, leading=13.2,
                     alignment=TA_LEFT, leftIndent=9, rightIndent=9,
                     spaceBefore=8, spaceAfter=8),
-    "toc0":       S("toc0", fontName="Head", fontSize=9.5, leading=15,
-                    textColor=INK, alignment=TA_LEFT, spaceBefore=5),
-    "toc1":       S("toc1", fontName="Head-Reg", fontSize=8.6, leading=13,
+    "toc0":       S("toc0", fontName="Head", fontSize=9.0, leading=10.6,
+                    textColor=INK, alignment=TA_LEFT, spaceBefore=2.2),
+    "toc1":       S("toc1", fontName="Head-Reg", fontSize=8.3, leading=8.9,
                     textColor=MUTED, leftIndent=12, alignment=TA_LEFT),
     "cell":       S("cell", fontName="Head-Reg", fontSize=7.9, leading=10.1,
                     alignment=TA_LEFT, spaceAfter=0),
@@ -326,9 +326,10 @@ class Book(BaseDocTemplate):
         BaseDocTemplate.__init__(self, filename, pagesize=A4,
                                  leftMargin=ML, rightMargin=MR,
                                  topMargin=MT, bottomMargin=MB,
-                                 title="Junqueira's Basic Histology — The Exam Companion",
-                                 author="Prepared for medical exam revision",
-                                 subject="Histology summary for medical students")
+                                 title="Basic Histology: The Exam & Learning Companion",
+                                 author="",
+                                 subject="An independent study companion to Junqueira's Basic Histology, 17th edition",
+                                 keywords="histology, medical education, examination revision, study guide")
         frame = Frame(ML, MB, FRAME_W, PAGE_H - MT - MB, id="body")
         self.cover_tpl = PageTemplate(id="cover", frames=[frame], onPage=self.cover)
         self.body_tpl = PageTemplate(id="body", frames=[frame], onPage=self.deco)
@@ -340,10 +341,13 @@ class Book(BaseDocTemplate):
     # -- page decoration
     def deco(self, canv, doc):
         canv.saveState()
+        if doc.page <= 2:            # cover artwork and title page carry no folio
+            canv.restoreState()
+            return
         canv.setFont("Head-Reg", 7.4)
         canv.setFillColor(MUTED)
-        canv.drawString(ML, PAGE_H - 30, "JUNQUEIRA'S BASIC HISTOLOGY  ·  THE EXAM COMPANION")
-        canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "17th Edition")
+        canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  THE EXAM & LEARNING COMPANION")
+        canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "First edition")
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.5)
         canv.line(ML, PAGE_H - 36, PAGE_W - MR, PAGE_H - 36)
@@ -362,7 +366,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(colors.HexColor("#6FD3CF"))
         canv.setFont("Head-Reg", 9.5)
-        canv.drawString(ML, PAGE_H - 100, "MEDICAL EXAM REVISION SERIES")
+        canv.drawString(ML, PAGE_H - 100, "INDEPENDENT STUDY COMPANION")
 
         canv.setFillColor(colors.white)
         canv.setFont("Head", 38)
@@ -371,7 +375,7 @@ class Book(BaseDocTemplate):
 
         canv.setFont("Head-Reg", 13)
         canv.setFillColor(colors.HexColor("#CFE3E2"))
-        canv.drawString(ML, PAGE_H - 228, "The Exam Companion")
+        canv.drawString(ML, PAGE_H - 228, "The Exam & Learning Companion")
 
         canv.setFillColor(INK)
         canv.setFont("Body", 12)
@@ -397,7 +401,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(MUTED)
         canv.setFont("Head-Reg", 8.5)
-        canv.drawString(ML, 58, "Condensed from the 17th edition  ·  For study use  ·  Not a substitute for the atlas plates")
+        canv.drawString(ML, 58, "An independent companion to Junqueira's Basic Histology, 17th edition  ·  Not affiliated with or endorsed by the publisher")
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -410,11 +414,12 @@ class Book(BaseDocTemplate):
                 self.canv.bookmarkPage(key)
                 self.canv.addOutlineEntry(flowable.getPlainText(), key, 0, 0)
             elif name == "chapter":
-                level = 1 if getattr(self, "_seen_part", False) else 0
-                self.notify("TOCEntry", (level, flowable.getPlainText(), self.page))
+                # Front-matter headings sit at outline level 0; chapters nest under their part.
+                outline = 1 if getattr(self, "_seen_part", False) else 0
+                self.notify("TOCEntry", (1, flowable.getPlainText(), self.page))
                 key = "ch-%d-%d" % (self.page, id(flowable) % 9999)
                 self.canv.bookmarkPage(key)
-                self.canv.addOutlineEntry(flowable.getPlainText(), key, level, 0)
+                self.canv.addOutlineEntry(flowable.getPlainText(), key, outline, 0)
 
 
 def group_blocks(blocks):
@@ -571,14 +576,55 @@ def build_pdf():
     toc.levelStyles = [STY["toc0"], STY["toc1"]]
     toc.dotsMinLevel = 99
 
+    imprint = (
+        "This is an independent study companion. It is not published by, affiliated with, "
+        "or endorsed by McGraw Hill or the estate of Anthony L. Mescher. No plates or extended "
+        "passages from the source textbook are reproduced; figures are cited by number so that "
+        "the reader can consult the original atlas. Rights in this companion have not been "
+        "assigned, and commercial distribution requires a licence and an ISBN. The source "
+        "textbook remains the authoritative work and should be consulted alongside this companion."
+    )
+
     front = [
         NextPageTemplate("body"),
         PageBreak(),
-        Spacer(1, 10),
-        Paragraph("Contents", S("toctitle", fontName="Head", fontSize=23, leading=29,
-                                textColor=INK, alignment=TA_LEFT, spaceAfter=10)),
+        Spacer(1, 64),
+        Paragraph("BASIC HISTOLOGY", S("tp1", fontName="Head", fontSize=34, leading=38,
+                                       textColor=INK)),
+        Spacer(1, 6),
+        Paragraph("The Exam &amp; Learning Companion", S("tp2", fontName="Head-Reg", fontSize=17,
+                                                        leading=22, textColor=ACCENT)),
+        Spacer(1, 14),
         Rule(FRAME_W, 1.2, ACCENT),
-        Spacer(1, 10),
+        Spacer(1, 16),
+        Paragraph("An independent study companion to <i>Junqueira\u2019s Basic Histology: "
+                  "Text &amp; Atlas</i>, 17th edition",
+                  S("tp3", fontName="Body", fontSize=12, leading=18, textColor=INK)),
+        Spacer(1, 4),
+        Paragraph("First edition  \u00b7  2026", S("tp4", fontName="Head-Reg", fontSize=10,
+                                                   leading=16, textColor=MUTED)),
+        Spacer(1, 34),
+        Paragraph("HOW THIS BOOK IS ORGANIZED", S("tg", fontName="Head", fontSize=7.6,
+                                                   leading=11, textColor=ACCENT)),
+        Spacer(1, 7),
+        Paragraph(
+            "Part I  ·  Cells and techniques: microscopy, the cytoplasm, the nucleus<br/>"
+            "Part II  ·  The four basic tissues: epithelium, connective tissue, adipose, cartilage, bone, nerve, muscle<br/>"
+            "Part III  ·  Transport, defense, and blood: circulation, blood, hemopoiesis, immunity<br/>"
+            "Part IV  ·  Digestion and respiration: gut, associated organs, respiratory system, skin<br/>"
+            "Part V  ·  Excretion and reproduction: urinary system, endocrine glands, male and female reproductive systems, eye and ear<br/>"
+            "Part VI  ·  Rapid review, master tables, stains, and the vocabulary examiners use<br/>"
+            "Part VII  ·  One hundred examination questions with explained answers",
+            S("tgl", fontName="Head-Reg", fontSize=8.3, leading=13.2, textColor=INK)),
+        Spacer(1, 120),
+        Paragraph(imprint, S("imp", fontName="Head-Reg", fontSize=8, leading=11.5,
+                             textColor=MUTED, alignment=TA_JUSTIFY)),
+        PageBreak(),
+        Spacer(1, 2),
+        Paragraph("Contents", S("toctitle", fontName="Head", fontSize=20, leading=25,
+                                textColor=INK, alignment=TA_LEFT, spaceAfter=6)),
+        Rule(FRAME_W, 1.2, ACCENT),
+        Spacer(1, 6),
         toc,
     ]
     story = build_story(blocks)

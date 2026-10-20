@@ -2,7 +2,7 @@
 
 ## 1 · Histology & Its Methods of Study
 
-**pp. 1–16** · Part 1, pages 13–39 · Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
+**Book pages 1–16**<br/>Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
 
 ### Learning objectives
 
@@ -165,18 +165,18 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 1–1** — Sectioning fixed and embedded tissue (p1 · 14).
-- **Fig. 1–4** — Appearance of cells with fluorescent microscopy (p1 · 19).
-- **Fig. 1–6** — Principle of confocal microscopy (p1 · 22).
-- **Fig. 1–9** — Microscopic autoradiography (p1 · 26).
-- **Fig. 1–11** — Immunocytochemistry techniques (p1 · 31).
-- **Fig. 1–14** — Interpretation of 3D structures in 2D sections (p1 · 36).
+- **Fig. 1–1** — Sectioning fixed and embedded tissue (Chapter 1).
+- **Fig. 1–4** — Appearance of cells with fluorescent microscopy (Chapter 1).
+- **Fig. 1–6** — Principle of confocal microscopy (Chapter 1).
+- **Fig. 1–9** — Microscopic autoradiography (Chapter 1).
+- **Fig. 1–11** — Immunocytochemistry techniques (Chapter 1).
+- **Fig. 1–14** — Interpretation of 3D structures in 2D sections (Chapter 1).
 
 ## 2 · The Cytoplasm
 
-**pp. 17–52** · Part 1, pages 40–91 · Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
+**Book pages 17–52**<br/>Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
 
 ### Learning objectives
 
@@ -292,18 +292,18 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 2–1** — Lipids in membrane structure (p1 · 42).
-- **Fig. 2–6** — Three major forms of endocytosis (p1 · 50).
-- **Fig. 2–12** — Protein localization and cell morphology (p1 · 58).
-- **Fig. 2–17** — Lysosomal functions (p1 · 65).
-- **Fig. 2–23** — Dynamic instability of microtubules (p1 · 75).
-- **Fig. 2–28** — Cellular inclusions (p1 · 84).
+- **Fig. 2–1** — Lipids in membrane structure (Chapter 2).
+- **Fig. 2–6** — Three major forms of endocytosis (Chapter 2).
+- **Fig. 2–12** — Protein localization and cell morphology (Chapter 2).
+- **Fig. 2–17** — Lysosomal functions (Chapter 2).
+- **Fig. 2–23** — Dynamic instability of microtubules (Chapter 2).
+- **Fig. 2–28** — Cellular inclusions (Chapter 2).
 
 ## 3 · The Nucleus
 
-**pp. 53–70** · Part 1, pages 92–121 · Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
+**Book pages 53–70**<br/>Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
 
 ### Learning objectives
 
@@ -419,12 +419,12 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 3–1** — Nuclei of large, active cells (p1 · 92).
-- **Fig. 3–5** — Nuclear pores (p1 · 96).
-- **Fig. 3–9** — Chromosome territories of a human fibroblast nucleus (p1 · 101).
-- **Fig. 3–12** — Cell cycle (p1 · 106).
-- **Fig. 3–16** — Mitotic cells in adult tissues (p1 · 111).
-- **Fig. 3–20** — Late apoptosis—apoptotic bodies (p1 · 116).
+- **Fig. 3–1** — Nuclei of large, active cells (Chapter 3).
+- **Fig. 3–5** — Nuclear pores (Chapter 3).
+- **Fig. 3–9** — Chromosome territories of a human fibroblast nucleus (Chapter 3).
+- **Fig. 3–12** — Cell cycle (Chapter 3).
+- **Fig. 3–16** — Mitotic cells in adult tissues (Chapter 3).
+- **Fig. 3–20** — Late apoptosis—apoptotic bodies (Chapter 3).
 

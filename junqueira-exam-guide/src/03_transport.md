@@ -2,7 +2,7 @@
 
 ## 11 · The Circulatory System
 
-**pp. 215–236** · Part 2, pages 120–155 · Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
+**Book pages 215–236**<br/>Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
 ### Learning objectives
 
@@ -96,18 +96,18 @@ A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 11–1** — Cardiovascular system (p2 · 120).
-- **Fig. 11–6** — Walls of arteries and veins (p2 · 127).
-- **Fig. 11–11** — Muscular artery (p2 · 135).
-- **Fig. 11–15** — Comparison of the simple microvascular pathway with arteriovenous shunts and portal… (p2 · 141).
-- **Fig. 11–20** — Sinusoidal capillary (p2 · 145).
-- **Fig. 11–25** — Lymphatic vessels and valve (p2 · 151).
+- **Fig. 11–1** — Cardiovascular system (Chapter 11).
+- **Fig. 11–6** — Walls of arteries and veins (Chapter 11).
+- **Fig. 11–11** — Muscular artery (Chapter 11).
+- **Fig. 11–15** — Comparison of the simple microvascular pathway with arteriovenous shunts and portal… (Chapter 11).
+- **Fig. 11–20** — Sinusoidal capillary (Chapter 11).
+- **Fig. 11–25** — Lymphatic vessels and valve (Chapter 11).
 
 ## 12 · Blood
 
-**pp. 237–253** · Part 2, pages 156–180 · Composition of Plasma · Blood Cells
+**Book pages 237–253**<br/>Composition of Plasma · Blood Cells
 
 ### Learning objectives
 
@@ -126,7 +126,7 @@ Blood is connective tissue with a liquid matrix. Its cells all derive from one s
 
 About **55% of blood volume**. Water plus plasma proteins — **albumin, α- and β-globulins, complement proteins, and fibrinogen**, all secreted in the **liver**, plus the **immunoglobulins** — and electrolytes, nutrients, hormones, and waste.
 
-The book's Table 12–1 (p2 · 158 — a page with no extractable text, read here from the page image) quantifies the mixture:
+The book's Table 12–1 quantifies the mixture:
 
 | Component | Share | Job |
 |---|---|---|
@@ -206,18 +206,18 @@ A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 12–1** — Composition of whole blood (p2 · 156).
-- **Fig. 12–4** — Normal human erythrocytes (p2 · 160).
-- **Fig. 12–6** — Diagram of events involving leukocytes in a postcapillary venule at sites of inflammation (p2 · 164).
-- **Fig. 12–9** — Eosinophils (p2 · 168).
-- **Fig. 12–11** — Lymphocytes (p2 · 171).
-- **Fig. 12–14** — Platelet aggregation, degranulation, and fibrin clot formation (p2 · 176).
+- **Fig. 12–1** — Composition of whole blood (Chapter 12).
+- **Fig. 12–4** — Normal human erythrocytes (Chapter 12).
+- **Fig. 12–6** — Diagram of events involving leukocytes in a postcapillary venule at sites of inflammation (Chapter 12).
+- **Fig. 12–9** — Eosinophils (Chapter 12).
+- **Fig. 12–11** — Lymphocytes (Chapter 12).
+- **Fig. 12–14** — Platelet aggregation, degranulation, and fibrin clot formation (Chapter 12).
 
 ## 13 · Hemopoiesis
 
-**pp. 254–266** · Part 2, pages 181–198 · Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
+**Book pages 254–266**<br/>Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
 
 ### Learning objectives
 
@@ -318,18 +318,18 @@ A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 13–1** — Shifting locations of hemopoiesis during development and aging (p2 · 181).
-- **Fig. 13–4** — Red bone marrow (active in hemopoiesis) (p2 · 185).
-- **Fig. 13–6** — Summary of erythrocyte maturation (p2 · 187).
-- **Fig. 13–9** — Developing erythrocytes and granulocytes in marrow (p2 · 190).
-- **Fig. 13–11** — Neutrophilic myelocyte (p2 · 192).
-- **Fig. 13–14** — Megakaryocyte ultrastructure (p2 · 196).
+- **Fig. 13–1** — Shifting locations of hemopoiesis during development and aging (Chapter 13).
+- **Fig. 13–4** — Red bone marrow (active in hemopoiesis) (Chapter 13).
+- **Fig. 13–6** — Summary of erythrocyte maturation (Chapter 13).
+- **Fig. 13–9** — Developing erythrocytes and granulocytes in marrow (Chapter 13).
+- **Fig. 13–11** — Neutrophilic myelocyte (Chapter 13).
+- **Fig. 13–14** — Megakaryocyte ultrastructure (Chapter 13).
 
 ## 14 · The Immune System & Lymphoid Organs
 
-**pp. 267–294** · Part 2, pages 199–217 + part 3, pages 1–22 · Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
+**Book pages 267–294**<br/>Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 
 ### Learning objectives
 
@@ -488,12 +488,12 @@ A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neura
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 14–1** — Lymphoid organs and main paths of lymphatic vessels (p2 · 199).
-- **Fig. 14–6** — Activation of lymphocytes (p2 · 209).
-- **Fig. 14–11** — Thymic selection of functional but not self-reactive T cells (p2 · 216).
-- **Fig. 14–16** — Regions of a lymph node (p3 · 9).
-- **Fig. 14–21** — Spleen (p3 · 13).
-- **Fig. 14–26** — Structure and function of splenic sinusoids (p3 · 17).
+- **Fig. 14–1** — Lymphoid organs and main paths of lymphatic vessels (Chapter 14).
+- **Fig. 14–6** — Activation of lymphocytes (Chapter 14).
+- **Fig. 14–11** — Thymic selection of functional but not self-reactive T cells (Chapter 14).
+- **Fig. 14–16** — Regions of a lymph node (Chapter 14).
+- **Fig. 14–21** — Spleen (Chapter 14).
+- **Fig. 14–26** — Structure and function of splenic sinusoids (Chapter 14).
 

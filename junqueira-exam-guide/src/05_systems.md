@@ -2,7 +2,7 @@
 
 ## 19 · The Urinary System
 
-**pp. 393–412** · Part 3, pages 161–190 · Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
+**Book pages 393–412**<br/>Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 ### Learning objectives
 
@@ -118,18 +118,18 @@ A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte s
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 19–1** — Kidney (p3 · 161).
-- **Fig. 19–4** — Microvasculature of the renal cortex (p3 · 165).
-- **Fig. 19–8** — Renal cortex: proximal and distal convoluted tubules (p3 · 172).
-- **Fig. 19–11** — Renal medulla: nephron loops and collecting ducts (p3 · 177).
-- **Fig. 19–15** — Renal papilla, collecting ducts, and minor calyx (p3 · 183).
-- **Fig. 19–18** — Urethra (p3 · 187).
+- **Fig. 19–1** — Kidney (Chapter 19).
+- **Fig. 19–4** — Microvasculature of the renal cortex (Chapter 19).
+- **Fig. 19–8** — Renal cortex: proximal and distal convoluted tubules (Chapter 19).
+- **Fig. 19–11** — Renal medulla: nephron loops and collecting ducts (Chapter 19).
+- **Fig. 19–15** — Renal papilla, collecting ducts, and minor calyx (Chapter 19).
+- **Fig. 19–18** — Urethra (Chapter 19).
 
 ## 20 · Endocrine Glands
 
-**pp. 413–438** · Part 3, pages 191–217 + part 4, pages 1–10 · Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
+**Book pages 413–438**<br/>Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
 ### Learning objectives
 
@@ -260,18 +260,18 @@ A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 20–1** — Locations of the major endocrine glands and the hormones they release (p3 · 191).
-- **Fig. 20–6** — Pars distalis: Acidophils, basophils, and chromophobes (p3 · 197).
-- **Fig. 20–10** — Negative feedback loops affecting anterior pituitary secretion (p3 · 203).
-- **Fig. 20–15** — Adrenal cortex (p3 · 209).
-- **Fig. 20–19** — Thyroid follicular cells and parafollicular cells (p3 · 216).
-- **Fig. 20–24** — Pineal gland (p4 · 5).
+- **Fig. 20–1** — Locations of the major endocrine glands and the hormones they release (Chapter 20).
+- **Fig. 20–6** — Pars distalis: Acidophils, basophils, and chromophobes (Chapter 20).
+- **Fig. 20–10** — Negative feedback loops affecting anterior pituitary secretion (Chapter 20).
+- **Fig. 20–15** — Adrenal cortex (Chapter 20).
+- **Fig. 20–19** — Thyroid follicular cells and parafollicular cells (Chapter 20).
+- **Fig. 20–24** — Pineal gland (Chapter 20).
 
 ## 21 · The Male Reproductive System
 
-**pp. 439–459** · Part 4, pages 11–39 · Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
+**Book pages 439–459**<br/>Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
 
 ### Learning objectives
 
@@ -384,18 +384,18 @@ A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular 
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 21–1** — Male reproductive system (p4 · 11).
-- **Fig. 21–5** — Spermatogenesis and spermiogenesis (p4 · 16).
-- **Fig. 21–8** — Differentiating spermatid (p4 · 21).
-- **Fig. 21–12** — Ductus deferens (p4 · 28).
-- **Fig. 21–15** — Organization of the prostate gland (p4 · 31).
-- **Fig. 21–19** — Penile urethra and erectile tissue (p4 · 35).
+- **Fig. 21–1** — Male reproductive system (Chapter 21).
+- **Fig. 21–5** — Spermatogenesis and spermiogenesis (Chapter 21).
+- **Fig. 21–8** — Differentiating spermatid (Chapter 21).
+- **Fig. 21–12** — Ductus deferens (Chapter 21).
+- **Fig. 21–15** — Organization of the prostate gland (Chapter 21).
+- **Fig. 21–19** — Penile urethra and erectile tissue (Chapter 21).
 
 ## 22 · The Female Reproductive System
 
-**pp. 460–489** · Part 4, pages 40–83 · Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
+**Book pages 460–489**<br/>Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
 
 ### Learning objectives
 
@@ -564,18 +564,18 @@ A. Menstrual<br/>B. Proliferative<br/>C. Secretory<br/>D. Postmenopausal
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 22–1** — Female reproductive system and overview of ovary (p4 · 41).
-- **Fig. 22–6** — Ultrastructure of primary follicle and zona pellucida (p4 · 47).
-- **Fig. 22–12** — Corpus luteum (p4 · 53).
-- **Fig. 22–17** — Correlation of ovarian and menstrual cycles with levels of their controlling hormones (p4 · 59).
-- **Fig. 22–23** — Cervix (p4 · 73).
-- **Fig. 22–28** — Secretion in the mammary gland (p4 · 78).
+- **Fig. 22–1** — Female reproductive system and overview of ovary (Chapter 22).
+- **Fig. 22–6** — Ultrastructure of primary follicle and zona pellucida (Chapter 22).
+- **Fig. 22–12** — Corpus luteum (Chapter 22).
+- **Fig. 22–17** — Correlation of ovarian and menstrual cycles with levels of their controlling hormones (Chapter 22).
+- **Fig. 22–23** — Cervix (Chapter 22).
+- **Fig. 22–28** — Secretion in the mammary gland (Chapter 22).
 
 ## 23 · The Eye & Ear: Special Sense Organs
 
-**pp. 490–524** · Part 4, pages 84–137 · Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
+**Book pages 490–524**<br/>Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
 
 ### Learning objectives
 
@@ -698,12 +698,12 @@ A. Ciliary processes<br/>B. Pupil<br/>C. Trabecular meshwork and canal of Schlem
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 23–1** — Internal anatomy of the eye (p4 · 84).
-- **Fig. 23–7** — Epithelium of ciliary processes (p4 · 93).
-- **Fig. 23–14** — General organization and specialized areas of the retina (p4 · 103).
-- **Fig. 23–20** — Lacrimal gland (p4 · 114).
-- **Fig. 23–27** — Mechanotransduction in hair cells (p4 · 123).
-- **Fig. 23–33** — Interpretation of sound waves in the cochlea (p4 · 132).
+- **Fig. 23–1** — Internal anatomy of the eye (Chapter 23).
+- **Fig. 23–7** — Epithelium of ciliary processes (Chapter 23).
+- **Fig. 23–14** — General organization and specialized areas of the retina (Chapter 23).
+- **Fig. 23–20** — Lacrimal gland (Chapter 23).
+- **Fig. 23–27** — Mechanotransduction in hair cells (Chapter 23).
+- **Fig. 23–33** — Interpretation of sound waves in the cochlea (Chapter 23).
 

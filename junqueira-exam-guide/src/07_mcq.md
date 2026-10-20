@@ -7,317 +7,417 @@
 ### Cells and techniques (1–12)
 
 **1.** A tissue section is treated with a basic dye. Which structure will stain most intensely?
+
 A. Nuclei and rough endoplasmic reticulum <br/>B. Erythrocytes <br/>C. Elastic fibers <br/>D. Collagen bundles
 
 **2.** Which stain would you choose to demonstrate a basement membrane?
+
 A. Eosin <br/>B. Orcein <br/>C. PAS <br/>D. Sudan black
 
 **3.** A surgeon requires an immediate diagnosis during an operation. The correct specimen preparation is:
+
 A. Resin embedding <br/>B. Whole-mount preparation <br/>C. Routine paraffin section <br/>D. Frozen section
 
 **4.** The resolving power of the light microscope is approximately:
+
 A. 2 µm <br/>B. 0.2 µm <br/>C. 20 µm <br/>D. 0.2 nm
 
 **5.** Which technique localizes a specific protein in a tissue section using an antibody?
+
 A. Autoradiography <br/>B. In situ hybridization <br/>C. Immunohistochemistry <br/>D. Polarizing microscopy
 
 **6.** A cell specialized for steroid hormone synthesis would show abundant:
+
 A. Rough ER and Golgi <br/>B. Smooth ER and lipid droplets <br/>C. Lysosomes and residual bodies <br/>D. Free ribosomes and proteasomes
 
 **7.** Which organelle contains catalase and performs β-oxidation of very long-chain fatty acids?
+
 A. Mitochondrion <br/>B. Lysosome <br/>C. Peroxisome <br/>D. Proteasome
 
 **8.** Retrograde axonal transport of viruses toward the neuronal soma is mediated by:
+
 A. Myosin <br/>B. Dynein and kinesin equally <br/>C. Kinesin <br/>D. Dynein
 
 **9.** Which intermediate filament is characteristic of astrocytes?
+
 A. Vimentin <br/>B. GFAP <br/>C. Neurofilament <br/>D. Desmin
 
 **10.** A cell with a 9 + 0 arrangement of microtubules is:
+
 A. A basal body <br/>B. A sperm flagellum <br/>C. A microvillus <br/>D. A motile cilium
 
 **11.** A mutation in lamin A produces:
+
 A. Alport syndrome <br/>B. Progeria <br/>C. Duchenne dystrophy <br/>D. Marfan syndrome
 
 **12.** The nucleolar organizer regions are located on which chromosomes?
+
 A. 16, 17, 18, 19, 20 <br/>B. X and Y <br/>C. 1, 2, 3, 4, 5 <br/>D. 13, 14, 15, 21, 22
 
 ### Epithelium, connective tissue, cartilage and bone (13–32)
 
 **13.** Which junctional complex is principally responsible for sealing the intercellular space?
+
 A. Hemidesmosome <br/>B. Desmosome <br/>C. Gap junction <br/>D. Tight junction
 
 **14.** Pemphigus vulgaris results from autoantibodies against:
+
 A. Connexin <br/>B. Laminin <br/>C. Desmoglein <br/>D. Integrin
 
 **15.** Which epithelium lines the normal ureter?
+
 A. Simple columnar <br/>B. Pseudostratified ciliated <br/>C. Stratified squamous <br/>D. Transitional
 
 **16.** Stereocilia are found in the:
+
 A. Epididymis <br/>B. Fallopian tube <br/>C. Intestinal villi <br/>D. Trachea
 
 **17.** The basement membrane's lamina reticularis is composed mainly of:
+
 A. Type I collagen <br/>B. Type II collagen <br/>C. Type III collagen <br/>D. Type IV collagen
 
 **18.** Which collagen type is defective in osteogenesis imperfecta?
+
 A. Type II <br/>B. Type III <br/>C. Type IV <br/>D. Type I
 
 **19.** Hydroxylation of proline and lysine during collagen synthesis requires:
+
 A. Vitamin C <br/>B. Vitamin D <br/>C. Copper <br/>D. Vitamin A
 
 **20.** A cell with an eccentric nucleus showing a clock-face chromatin pattern and a pale perinuclear halo is a:
+
 A. Macrophage <br/>B. Eosinophil <br/>C. Mast cell <br/>D. Plasma cell
 
 **21.** The main function of UCP1 in brown adipose tissue is:
+
 A. ATP synthesis <br/>B. Uncoupling of oxidative phosphorylation to produce heat <br/>C. Fatty acid storage <br/>D. Leptin secretion
 
 **22.** Adiponectin, secreted by adipocytes, acts to:
+
 A. Increase insulin sensitivity <br/>B. Increase blood pressure <br/>C. Stimulate lipolysis in brown fat <br/>D. Reduce appetite
 
 **23.** Which cartilage type lacks a perichondrium?
+
 A. Elastic <br/>B. Fibrocartilage <br/>C. Tracheal hyaline <br/>D. Hyaline
 
 **24.** The intervertebral disc's annulus fibrosus is composed of:
+
 A. Dense regular connective tissue <br/>B. Hyaline cartilage <br/>C. Elastic cartilage <br/>D. Fibrocartilage
 
 **25.** Which cell is responsible for bone resorption?
+
 A. Osteocyte <br/>B. Osteoclast <br/>C. Osteoprogenitor cell <br/>D. Osteoblast
 
 **26.** Osteoclasts are derived from:
+
 A. Monocyte–macrophage lineage <br/>B. Osteoblasts <br/>C. Neural crest <br/>D. Mesenchymal cells
 
 **27.** In endochondral ossification, the zone in which chondrocytes enlarge and the matrix calcifies is the:
+
 A. Ossification zone <br/>B. Reserve zone <br/>C. Proliferative zone <br/>D. Hypertrophic zone
 
 **28.** Which hormone lowers serum calcium?
+
 A. Calcitriol <br/>B. Calcitonin <br/>C. Growth hormone <br/>D. PTH
 
 **29.** The primary ossification center of a long bone appears in the:
+
 A. Diaphysis <br/>B. Metaphysis <br/>C. Periosteum <br/>D. Epiphysis
 
 **30.** A multinucleated cell lying in a scalloped resorption pit is:
+
 A. An osteocyte <br/>B. An osteoclast <br/>C. A macrophage <br/>D. An osteoblast
 
 **31.** Dense regular connective tissue is characterized by:
+
 A. Parallel collagen bundles <br/>B. Abundant elastic fibers <br/>C. A reticular network <br/>D. Randomly oriented collagen bundles
 
 **32.** Which tissue is the site of hematopoiesis in the adult?
+
 A. Liver <br/>B. Spleen <br/>C. Red bone marrow <br/>D. Yellow bone marrow
 
 ### Nerve and muscle (33–44)
 
 **33.** Nissl bodies are composed of:
+
 A. Rough ER and polysomes <br/>B. Neurofilaments <br/>C. Synaptic vesicles <br/>D. Smooth ER and Golgi
 
 **34.** Which glial cell myelinates several axons in the central nervous system?
+
 A. Schwann cell <br/>B. Microglia <br/>C. Astrocyte <br/>D. Oligodendrocyte
 
 **35.** Microglia are derived from:
+
 A. Neural tube <br/>B. Mesoderm (monocyte lineage) <br/>C. Endoderm <br/>D. Neural crest
 
 **36.** The blood–brain barrier is formed principally by:
+
 A. Pericytes alone <br/>B. Astrocyte end-feet alone <br/>C. Tight junctions between capillary endothelial cells <br/>D. Ependymal cells
 
 **37.** In a peripheral nerve, the connective tissue sheath surrounding a single axon is the:
+
 A. Perineurium <br/>B. Endoneurium <br/>C. Mesoneurium <br/>D. Epineurium
 
 **38.** During muscle contraction, which band does not change in length?
+
 A. I band <br/>B. H band <br/>C. A band <br/>D. None of these
 
 **39.** Calcium binds which molecule in skeletal muscle to initiate contraction?
+
 A. Myosin light chain <br/>B. Actinin <br/>C. Calmodulin <br/>D. Troponin C
 
 **40.** Intercalated discs contain all of the following except:
+
 A. Fascia adherens <br/>B. Desmosomes <br/>C. Gap junctions <br/>D. Tight junctions
 
 **41.** Which feature distinguishes cardiac from skeletal muscle?
+
 A. Mitochondria <br/>B. Striations <br/>C. Central nucleus <br/>D. Myofibrils
 
 **42.** Smooth muscle contraction differs from striated muscle because it uses:
+
 A. Tropomyosin only <br/>B. No calcium <br/>C. Troponin C <br/>D. Calmodulin and myosin light-chain kinase
 
 **43.** T-tubules and terminal cisternae form triads at the:
+
 A. H band <br/>B. Z line <br/>C. A–I junction <br/>D. M line
 
 **44.** A muscle fiber that is rich in mitochondria and myoglobin and resistant to fatigue is:
+
 A. All equally <br/>B. Type I <br/>C. Type IIa <br/>D. Type IIx
 
 ### Blood, hemopoiesis and immunity (45–60)
 
 **45.** The most abundant leukocyte in normal peripheral blood is the:
+
 A. Neutrophil <br/>B. Monocyte <br/>C. Eosinophil <br/>D. Lymphocyte
 
 **46.** A bilobed nucleus with bright orange-red granules identifies the:
+
 A. Eosinophil <br/>B. Monocyte <br/>C. Basophil <br/>D. Neutrophil
 
 **47.** The largest leukocyte, with a kidney-shaped nucleus, is the:
+
 A. Neutrophil <br/>B. Basophil <br/>C. Lymphocyte <br/>D. Monocyte
 
 **48.** Platelets are derived from:
+
 A. Erythroblasts <br/>B. Megakaryocytes <br/>C. Monocytes <br/>D. Lymphocytes
 
 **49.** Erythropoietin is produced mainly by the:
+
 A. Kidney <br/>B. Spleen <br/>C. Bone marrow <br/>D. Liver
 
 **50.** The normal myeloid-to-erythroid ratio in bone marrow is:
+
 A. 10:1 <br/>B. 1:1 <br/>C. 2:1 to 4:1 <br/>D. 1:2
 
 **51.** Which immunoglobulin is the main secretory antibody at mucosal surfaces?
+
 A. IgA <br/>B. IgE <br/>C. IgG <br/>D. IgM
 
 **52.** CD4-positive T cells recognize antigen presented by:
+
 A. Antibody alone <br/>B. MHC class I <br/>C. MHC class II <br/>D. MHC class III
 
 **53.** Hassall corpuscles are found in the:
+
 A. Thymus <br/>B. Tonsil <br/>C. Spleen <br/>D. Lymph node
 
 **54.** Which organ lacks afferent lymphatic vessels?
+
 A. Lymph node <br/>B. Thymus and spleen <br/>C. Tonsil <br/>D. Appendix
 
 **55.** The periarteriolar lymphoid sheath of the spleen contains mainly:
+
 A. Plasma cells <br/>B. B cells <br/>C. T cells <br/>D. Macrophages
 
 **56.** A germinal center is a site of:
+
 A. Erythropoiesis <br/>B. Platelet production <br/>C. T-cell maturation <br/>D. B-cell proliferation
 
 **57.** The red pulp of the spleen functions mainly to:
+
 A. Secrete antibodies <br/>B. Produce T cells <br/>C. Filter blood and remove aged erythrocytes <br/>D. Store lymphocytes
 
 **58.** The lifespan of a normal erythrocyte is approximately:
+
 A. 120 days <br/>B. 1 year <br/>C. 7 days <br/>D. 30 days
 
 **59.** During the second trimester, hemopoiesis occurs mainly in the:
+
 A. Liver and spleen <br/>B. Bone marrow <br/>C. Thymus <br/>D. Yolk sac
 
 **60.** Which cell is the principal antigen-presenting cell of the epidermis?
+
 A. Keratinocyte <br/>B. Melanocyte <br/>C. Langerhans cell <br/>D. Merkel cell
 
 ### Digestive system (61–72)
 
 **61.** Which layer of the gut wall contains the myenteric (Auerbach) plexus?
+
 A. Between the circular and longitudinal muscle layers <br/>B. Serosa <br/>C. Mucosa <br/>D. Submucosa
 
 **62.** Parietal cells of the gastric glands secrete:
+
 A. HCl and intrinsic factor <br/>B. Mucus <br/>C. Gastrin <br/>D. Pepsinogen
 
 **63.** Brunner glands are found in the:
+
 A. Duodenum <br/>B. Jejunum <br/>C. Ileum <br/>D. Colon
 
 **64.** Peyer's patches are characteristic of the:
+
 A. Jejunum <br/>B. Ileum <br/>C. Stomach <br/>D. Duodenum
 
 **65.** Paneth cells are located at the base of intestinal crypts and secrete:
+
 A. Lysozyme and defensins <br/>B. Gastrin <br/>C. Intrinsic factor <br/>D. Mucus
 
 **66.** Which feature is absent in the colon but present in the small intestine?
+
 A. Villi <br/>B. Enteroendocrine cells <br/>C. Goblet cells <br/>D. Crypts
 
 **67.** The portal triad contains all of the following except:
+
 A. Hepatic artery <br/>B. Portal vein <br/>C. Bile duct <br/>D. Central vein
 
 **68.** Kupffer cells are:
+
 A. Fat-storing cells <br/>B. Endothelial cells <br/>C. Hepatocytes <br/>D. Sinusoidal macrophages
 
 **69.** Bile flows in which direction relative to the portal triad?
+
 A. Away from the triad <br/>B. Toward the triad <br/>C. Parallel to blood flow <br/>D. Into the central vein
 
 **70.** The exocrine pancreas is identified by:
+
 A. Basophilic acini and zymogen granules <br/>B. Mucous acini only <br/>C. Follicles of colloid <br/>D. Islets and striated ducts
 
 **71.** Which cells secrete insulin?
+
 A. Delta cells <br/>B. PP cells <br/>C. Alpha cells <br/>D. Beta cells
 
 **72.** The esophagus is lined by:
+
 A. Transitional epithelium <br/>B. Pseudostratified ciliated epithelium <br/>C. Simple columnar epithelium <br/>D. Stratified squamous non-keratinized epithelium
 
 ### Respiratory system and skin (73–82)
 
 **73.** Type II pneumocytes are characterized by:
+
 A. Cilia and goblet granules <br/>B. Phagocytic vacuoles <br/>C. A squamous shape and no organelles <br/>D. Lamellar bodies and surfactant production
 
 **74.** Clara (club) cells are found in the:
+
 A. Bronchioles <br/>B. Pleura <br/>C. Alveoli <br/>D. Trachea
 
 **75.** Cartilage in the bronchial tree changes in which sequence?
+
 A. Rings → none → plates <br/>B. None → plates → rings <br/>C. Rings → plates → none <br/>D. Plates → rings → none
 
 **76.** The blood–air barrier does not include:
+
 A. Basement membrane <br/>B. Type II pneumocyte <br/>C. Surfactant <br/>D. Type I pneumocyte
 
 **77.** The layer of the epidermis present only in thick skin is the:
+
 A. Lucidum <br/>B. Basale <br/>C. Spinosum <br/>D. Granulosum
 
 **78.** Melanocytes are derived from:
+
 A. Endoderm <br/>B. Ectoderm <br/>C. Neural crest <br/>D. Mesoderm
 
 **79.** Sebaceous glands secrete by which mechanism?
+
 A. Apocrine <br/>B. Holocrine <br/>C. Endocrine <br/>D. Merocrine
 
 **80.** Pacinian corpuscles are located in the:
+
 A. Basal epidermis <br/>B. Dermal papillae <br/>C. Deep dermis and hypodermis <br/>D. Stratum corneum
 
 **81.** Which cell type is most numerous in the epidermis?
+
 A. Langerhans cell <br/>B. Keratinocyte <br/>C. Merkel cell <br/>D. Melanocyte
 
 **82.** Which receptor is responsible for fine tactile discrimination in the fingertips?
+
 A. Pacinian corpuscle <br/>B. Meissner corpuscle <br/>C. Ruffini ending <br/>D. Free nerve ending
 
 ### Urinary and endocrine (83–92)
 
 **83.** The filtration slit diaphragm between podocyte foot processes contains:
+
 A. Desmoglein <br/>B. Connexin <br/>C. Laminin only <br/>D. Nephrin
 
 **84.** The macula densa is located in the:
+
 A. Proximal tubule <br/>B. Thin limb <br/>C. Distal tubule <br/>D. Collecting duct
 
 **85.** Renin is secreted by:
+
 A. Mesangial cells <br/>B. Macula densa cells <br/>C. Juxtaglomerular cells <br/>D. Podocytes
 
 **86.** Which tubule segment is most eosinophilic because of abundant mitochondria?
+
 A. Collecting duct <br/>B. Proximal convoluted tubule <br/>C. Thin descending limb <br/>D. Distal convoluted tubule
 
 **87.** The epithelium of the ureter is:
+
 A. Pseudostratified <br/>B. Simple columnar <br/>C. Transitional <br/>D. Stratified squamous
 
 **88.** Thyroid follicles are lined by:
+
 A. Stratified cuboidal epithelium <br/>B. Pseudostratified epithelium <br/>C. Simple squamous epithelium <br/>D. Simple cuboidal epithelium
 
 **89.** Calcitonin is secreted by:
+
 A. Follicular cells <br/>B. Parafollicular C cells <br/>C. Chief cells <br/>D. Oxyphil cells
 
 **90.** The zona fasciculata of the adrenal cortex secretes:
+
 A. Epinephrine <br/>B. Aldosterone <br/>C. Cortisol <br/>D. Androgens
 
 **91.** Which is derived from neural crest?
+
 A. Adrenal cortex <br/>B. Adrenal medulla <br/>C. Thyroid follicle <br/>D. Parathyroid chief cells
 
 **92.** Herring bodies are found in the:
+
 A. Pineal gland <br/>B. Thyroid <br/>C. Anterior pituitary <br/>D. Posterior pituitary
 
 ### Reproductive system, eye and ear (93–100)
 
 **93.** The blood–testis barrier is formed by tight junctions between:
+
 A. Peritubular myoid cells <br/>B. Spermatogonia <br/>C. Sertoli cells <br/>D. Leydig cells
 
 **94.** LH acts primarily on:
+
 A. Spermatogonia <br/>B. Epididymal cells <br/>C. Sertoli cells <br/>D. Leydig cells
 
 **95.** The usual site of fertilization is the:
+
 A. Uterine cavity <br/>B. Ampulla of the uterine tube <br/>C. Isthmus <br/>D. Cervix
 
 **96.** Straight, narrow endometrial glands with numerous mitoses indicate which phase?
+
 A. Menstrual <br/>B. Proliferative <br/>C. Secretory <br/>D. Gestational
 
 **97.** The corpus luteum secretes mainly:
+
 A. FSH <br/>B. Estrogen <br/>C. Progesterone <br/>D. hCG
 
 **98.** The fovea centralis contains:
+
 A. Both equally <br/>B. Neither <br/>C. Rods only <br/>D. Cones only
 
 **99.** Aqueous humor drains into the:
+
 A. Canal of Schlemm <br/>B. Ciliary body <br/>C. Choroid <br/>D. Vitreous body
 
 **100.** The sensory cells of the organ of Corti are:
+
 A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supporting cells
 
 ## Answer Key with Explanations
@@ -533,24 +633,3 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 | **Below 50** | Start again from Part II | Build the six core tables from memory before anything else |
 
 > **PEARL** — The final revision loop is not reading — it is **recall**. Close the book and write the ten master tables from memory. Whatever you cannot reproduce is exactly what you must study. Students who do this for three days typically gain ten to fifteen marks.
-
-# APPENDIX C — The Book's Stain Appendix (Light Microscopy Stains)
-
-**Book pages 525–526 · `p4` · 138–139**
-
-The textbook's own appendix (Appendix A in the source, pp 525–526) is short but examinable, because every plate caption in the atlas names its stain. This chapter reproduces its list with the chemistry behind each stain; the guide's own Appendix A (Chapter 24) is the quick-recall version.
-
-| Stain | Chemistry | What it stains | Why it is used |
-|---|---|---|---|
-| **Hematoxylin & eosin (H&E)** | Hematoxylin is a **basic** dye; eosin is an **acidic** counterstain | Nuclei and rough ER blue-purple; collagen and most cytoplasmic proteins, especially mitochondria, pink-red | The default survey stain; the source of the basophilic/eosinophilic vocabulary |
-| **Pararosaniline–toluidine blue (PT)** | Basic dye combination | Chromatin purple; cytoplasm and collagen lighter violet | Penetrates **plastic (resin) sections**, giving finer detail than H&E |
-| **Mallory trichrome** | Sequential stain combination | Nuclei purple; cytoplasm, keratin, and erythrocytes red-orange; **collagen blue** | Demonstrates cells and small vessels of connective tissue. Masson and Gomori trichromes are equivalent, with collagen blue-green or green |
-| **Picrosirius–hematoxylin (PSH)** | Sirius red in picric acid | Collagen red; cytoplasm pink-violet; nuclei purple | Collagen becomes **birefringent** under polarized light — a specific collagen stain |
-| **Periodic acid–Schiff (PAS)** | Periodic acid oxidizes vicinal diols; Schiff reagent detects them | Carbohydrate-rich structures **magenta** | Mucin granules, glycogen, glycocalyx, basement membranes |
-| **Wright–Giemsa** | Two related Romanowsky combinations | Nuclei purple; erythrocytes pink-orange; leukocyte granules differentially | Blood and bone-marrow smears |
-| **Silver and gold impregnation** | Metal salts reduce on filaments | Nerve filaments and **reticulin (type III collagen)** dark brown or black | Largely replaced by immunohistochemistry |
-| **Elastin stains** — Weigert resorcin fuchsin, aldehyde fuchsin, orcein | Dye binds elastin | Elastic fibers brown or purple | Distinguishing elastic from collagen (aorta, lung, skin) |
-| **Lipid stains** — oil red O, Sudan black, osmium tetroxide | Lipophilic dye partitions into lipid | Lipid droplets and myelin | Requires frozen sections or special processing, because solvents used in paraffin embedding extract lipid |
-| **Other aniline dyes** — azures, cresyl violet, brilliant cresyl blue, luxol fast blue, light green | Basic dyes | Various cellular and extracellular components | Permanence and color contrast in paraffin sections; many began as textile dyes |
-
-> **MICRO** — Read the caption before you read the picture. "PT" tells you the section is plastic-embedded and shows fine detail; "Mallory" tells you collagen will be blue and cytoplasm red; "PSH" tells you collagen is red and can be examined under polarized light. The stain is part of the evidence.

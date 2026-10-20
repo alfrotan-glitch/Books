@@ -2,7 +2,7 @@
 
 ## 15 · Digestive Tract
 
-**pp. 295–328** · Part 3, pages 23–70 · General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
+**Book pages 295–328**<br/>General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
 
 ### Learning objectives
 
@@ -48,7 +48,7 @@ The lining is **stratified squamous** everywhere, but the degree of keratinizati
 | **Foliate** | Leaf-like folds | Yes | Lateral margins |
 | **Vallate (circumvallate)** | Largest, **1–3 mm** wide, in a trench | **Yes, ~250 per papilla** | **8–12** in a V in front of the terminal sulcus |
 
-**Taste buds** are ovoid intraepithelial organs of **50–100 cells**, about half of them elongated **gustatory cells** with a **7–10-day** turnover. Their microvilli project toward a **2-µm-wide taste pore**; support cells and basal stem cells complete the bud. **Filiform papillae never carry taste buds** — a standard trap.
+**Taste buds** are ovoid intraepithelial organs of **50–100 cells**, about half of them elongated **gustatory cells** with a **7–10-day** turnover. Their microvilli project toward a **taste pore** in the epithelial surface; support cells and basal stem cells complete the bud. **Filiform papillae never carry taste buds** — a standard trap.
 
 **Teeth.** An adult has **32 permanent teeth**. Each has a crown, a constricted neck, and roots in dental alveoli.
 
@@ -67,7 +67,7 @@ The muscularis is the examinable progression: **skeletal muscle at the superior 
 
 **Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
 
-The gland epithelium contains **five functional cell types** — surface mucous, mucous neck, parietal, chief, and enteroendocrine — plus pluripotent stem cells:
+The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus pluripotent stem cells:
 
 | Cell | Location | Product | Function |
 |---|---|---|---|
@@ -154,18 +154,18 @@ A. Duodenum<br/>B. Jejunum<br/>C. Ileum<br/>D. Colon
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 15–1** — Digestive system (p3 · 23).
-- **Fig. 15–8** — Ultrastructure of dentinal tubule (p3 · 32).
-- **Fig. 15–15** — Wall of the stomach with rugae (p3 · 39).
-- **Fig. 15–21** — Pyloric glands (p3 · 49).
-- **Fig. 15–28** — Microvasculature, lymphatics, and muscle in villi (p3 · 59).
-- **Fig. 15–34** — Mucosa of the rectoanal junction (p3 · 65).
+- **Fig. 15–1** — Digestive system (Chapter 15).
+- **Fig. 15–8** — Ultrastructure of dentinal tubule (Chapter 15).
+- **Fig. 15–15** — Wall of the stomach with rugae (Chapter 15).
+- **Fig. 15–21** — Pyloric glands (Chapter 15).
+- **Fig. 15–28** — Microvasculature, lymphatics, and muscle in villi (Chapter 15).
+- **Fig. 15–34** — Mucosa of the rectoanal junction (Chapter 15).
 
 ## 16 · Organs Associated with the Digestive Tract
 
-**pp. 329–348** · Part 3, pages 71–99 · Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
+**Book pages 329–348**<br/>Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
 
 ### Learning objectives
 
@@ -278,18 +278,18 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 16–1** — Major salivary glands (p3 · 71).
-- **Fig. 16–5** — Submandibular gland and sublingual gland (p3 · 75).
-- **Fig. 16–9** — Pancreatic acini (p3 · 79).
-- **Fig. 16–12** — Hepatic lobule (p3 · 85).
-- **Fig. 16–16** — Hepatocyte ultrastructure and major functions (p3 · 89).
-- **Fig. 16–20** — Gallbladder (p3 · 95).
+- **Fig. 16–1** — Major salivary glands (Chapter 16).
+- **Fig. 16–5** — Submandibular gland and sublingual gland (Chapter 16).
+- **Fig. 16–9** — Pancreatic acini (Chapter 16).
+- **Fig. 16–12** — Hepatic lobule (Chapter 16).
+- **Fig. 16–16** — Hepatocyte ultrastructure and major functions (Chapter 16).
+- **Fig. 16–20** — Gallbladder (Chapter 16).
 
 ## 17 · The Respiratory System
 
-**pp. 349–370** · Part 3, pages 100–131 · Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
+**Book pages 349–370**<br/>Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
 
 ### Learning objectives
 
@@ -415,18 +415,18 @@ A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D.
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 17–1** — Anatomy of the respiratory system (p3 · 100).
-- **Fig. 17–4** — Larynx (p3 · 105).
-- **Fig. 17–8** — Bronchial wall (p3 · 112).
-- **Fig. 17–11** — Pulmonary circulation, terminal and respiratory bronchioles, and alveoli (p3 · 116).
-- **Fig. 17–15** — Ultrastructure of the blood-air barrier (p3 · 120).
-- **Fig. 17–18** — Pleura (p3 · 126).
+- **Fig. 17–1** — Anatomy of the respiratory system (Chapter 17).
+- **Fig. 17–4** — Larynx (Chapter 17).
+- **Fig. 17–8** — Bronchial wall (Chapter 17).
+- **Fig. 17–11** — Pulmonary circulation, terminal and respiratory bronchioles, and alveoli (Chapter 17).
+- **Fig. 17–15** — Ultrastructure of the blood-air barrier (Chapter 17).
+- **Fig. 17–18** — Pleura (Chapter 17).
 
 ## 18 · Skin
 
-**pp. 371–392** · Part 3, pages 132–160 · Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
+**Book pages 371–392**<br/>Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
 
 ### Learning objectives
 
@@ -556,12 +556,12 @@ A. Scalp<br/>B. Palm<br/>C. Back<br/>D. Axilla
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 18–1** — Layers and appendages of skin (p3 · 133).
-- **Fig. 18–5** — Granular and clear layers: thick skin (p3 · 136).
-- **Fig. 18–9** — Merkel or tactile cell (p3 · 142).
-- **Fig. 18–12** — Meissner and lamellated (Pacinian) corpuscles (p3 · 146).
-- **Fig. 18–16** — Glands of skin (p3 · 152).
-- **Fig. 18–20** — Major stages of cutaneous wound healing (p3 · 157).
+- **Fig. 18–1** — Layers and appendages of skin (Chapter 18).
+- **Fig. 18–5** — Granular and clear layers: thick skin (Chapter 18).
+- **Fig. 18–9** — Merkel or tactile cell (Chapter 18).
+- **Fig. 18–12** — Meissner and lamellated (Pacinian) corpuscles (Chapter 18).
+- **Fig. 18–16** — Glands of skin (Chapter 18).
+- **Fig. 18–20** — Major stages of cutaneous wound healing (Chapter 18).
 

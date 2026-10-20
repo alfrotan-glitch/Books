@@ -2,7 +2,7 @@
 
 ## 4 · Epithelial Tissue
 
-**pp. 71–95** · Part 1, pages 122–161 · Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
+**Book pages 71–95**<br/>Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
 
 ### Learning objectives
 
@@ -147,18 +147,18 @@ A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 4–1** — Epithelia and adjacent connective tissue (p1 · 123).
-- **Fig. 4–6** — View of a tight junction after cryofracture (p1 · 129).
-- **Fig. 4–12** — Simple squamous epithelium (p1 · 137).
-- **Fig. 4–17** — Pseudostratified epithelium (p1 · 144).
-- **Fig. 4–23** — Apocrine secretion in the mammary gland (p1 · 151).
-- **Fig. 4–28** — Features of absorptive cells (p1 · 157).
+- **Fig. 4–1** — Epithelia and adjacent connective tissue (Chapter 4).
+- **Fig. 4–6** — View of a tight junction after cryofracture (Chapter 4).
+- **Fig. 4–12** — Simple squamous epithelium (Chapter 4).
+- **Fig. 4–17** — Pseudostratified epithelium (Chapter 4).
+- **Fig. 4–23** — Apocrine secretion in the mammary gland (Chapter 4).
+- **Fig. 4–28** — Features of absorptive cells (Chapter 4).
 
 ## 5 · Connective Tissue
 
-**pp. 96–121** · Part 1, pages 162–196 · Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
+**Book pages 96–121**<br/>Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
 
 ### Learning objectives
 
@@ -275,18 +275,18 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 5–1** — Embryonic mesenchyme (p1 · 162).
-- **Fig. 5–5** — Mast cells (p1 · 170).
-- **Fig. 5–9** — Collagen subunit (p1 · 176).
-- **Fig. 5–14** — Formation of elastic fibers (p1 · 182).
-- **Fig. 5–18** — Movement of fluid in connective tissue (p1 · 187).
-- **Fig. 5–22** — Mucoid tissue (p1 · 193).
+- **Fig. 5–1** — Embryonic mesenchyme (Chapter 5).
+- **Fig. 5–5** — Mast cells (Chapter 5).
+- **Fig. 5–9** — Collagen subunit (Chapter 5).
+- **Fig. 5–14** — Formation of elastic fibers (Chapter 5).
+- **Fig. 5–18** — Movement of fluid in connective tissue (Chapter 5).
+- **Fig. 5–22** — Mucoid tissue (Chapter 5).
 
 ## 6 · Adipose Tissue
 
-**pp. 122–128** · Part 1, pages 197–207 · White Adipose Tissue · Brown Adipose Tissue
+**Book pages 122–128**<br/>White Adipose Tissue · Brown Adipose Tissue
 
 ### Learning objectives
 
@@ -368,10 +368,10 @@ A. Unilocular droplets and few mitochondria<br/>B. Multilocular droplets, abunda
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 6–1** — White adipose tissue (p1 · 197).
-- **Fig. 6–2** — Lipid storage and mobilization from adipocytes (p1 · 199).
-- **Fig. 6–3** — Development of white and brown fat cells (p1 · 200).
-- **Fig. 6–4** — Brown adipose tissue (p1 · 202).
+- **Fig. 6–1** — White adipose tissue (Chapter 6).
+- **Fig. 6–2** — Lipid storage and mobilization from adipocytes (Chapter 6).
+- **Fig. 6–3** — Development of white and brown fat cells (Chapter 6).
+- **Fig. 6–4** — Brown adipose tissue (Chapter 6).
 

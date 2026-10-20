@@ -329,6 +329,25 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | **Ziehl–Neelsen** | Acid-fast bacilli | Red | Tuberculosis |
 | **Immunohistochemistry** | Specific antigen | Brown (DAB) or fluorescent | Tumor typing, cell identification |
 
+### The stains the atlas uses
+
+The textbook's own appendix is short but examinable, because every plate caption in the atlas names its stain. The table below follows its list and adds the chemistry behind each stain; **Appendix A** in Part VI is the quick-recall version.
+
+| Stain | Chemistry | What it stains | Why it is used |
+|---|---|---|---|
+| **Hematoxylin & eosin (H&E)** | Hematoxylin is a **basic** dye; eosin is an **acidic** counterstain | Nuclei and rough ER blue-purple; collagen and most cytoplasmic proteins, especially mitochondria, pink-red | The default survey stain; the source of the basophilic/eosinophilic vocabulary |
+| **Pararosaniline–toluidine blue (PT)** | Basic dye combination | Chromatin purple; cytoplasm and collagen lighter violet | Penetrates **plastic (resin) sections**, giving finer detail than H&E |
+| **Mallory trichrome** | Sequential stain combination | Nuclei purple; cytoplasm, keratin, and erythrocytes red-orange; **collagen blue** | Demonstrates cells and small vessels of connective tissue. Masson and Gomori trichromes are equivalent, with collagen blue-green or green |
+| **Picrosirius–hematoxylin (PSH)** | Sirius red in picric acid | Collagen red; cytoplasm pink-violet; nuclei purple | Collagen becomes **birefringent** under polarized light — a specific collagen stain |
+| **Periodic acid–Schiff (PAS)** | Periodic acid oxidizes vicinal diols; Schiff reagent detects them | Carbohydrate-rich structures **magenta** | Mucin granules, glycogen, glycocalyx, basement membranes |
+| **Wright–Giemsa** | Two related Romanowsky combinations | Nuclei purple; erythrocytes pink-orange; leukocyte granules differentially | Blood and bone-marrow smears |
+| **Silver and gold impregnation** | Metal salts reduce on filaments | Nerve filaments and **reticulin (type III collagen)** dark brown or black | Largely replaced by immunohistochemistry |
+| **Elastin stains** — Weigert resorcin fuchsin, aldehyde fuchsin, orcein | Dye binds elastin | Elastic fibers brown or purple | Distinguishing elastic from collagen (aorta, lung, skin) |
+| **Lipid stains** — oil red O, Sudan black, osmium tetroxide | Lipophilic dye partitions into lipid | Lipid droplets and myelin | Requires frozen sections or special processing, because solvents used in paraffin embedding extract lipid |
+| **Other aniline dyes** — azures, cresyl violet, brilliant cresyl blue, luxol fast blue, light green | Basic dyes | Various cellular and extracellular components | Permanence and color contrast in paraffin sections; many began as textile dyes |
+
+> **MICRO** — Read the caption before you read the picture. "PT" tells you the section is plastic-embedded and shows fine detail; "Mallory" tells you collagen will be blue and cytoplasm red; "PSH" tells you collagen is red and can be examined under polarized light. The stain is part of the evidence.
+
 ## Appendix B · The Vocabulary Examiners Expect
 
 | Term | Meaning |

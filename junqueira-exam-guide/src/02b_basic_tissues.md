@@ -1,6 +1,6 @@
 ## 7 · Cartilage
 
-**pp. 129–137** · Part 1, pages 208–217 · Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
+**Book pages 129–137**<br/>Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
 
 ### Learning objectives
 
@@ -88,18 +88,18 @@ A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decal
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 7–1** — Distribution of cartilage in adults (p1 · 208).
-- **Fig. 7–2** — Structure of cartilage matrix and cells (p1 · 209).
-- **Fig. 7–3** — Hyaline cartilage (p1 · 211).
-- **Fig. 7–5** — Fibrocartilage (p1 · 213).
-- **Fig. 7–6** — Chondrogenesis (p1 · 215).
-- **Fig. 7–7** — Chondrocytes in growing cartilage (p1 · 215).
+- **Fig. 7–1** — Distribution of cartilage in adults (Chapter 7).
+- **Fig. 7–2** — Structure of cartilage matrix and cells (Chapter 7).
+- **Fig. 7–3** — Hyaline cartilage (Chapter 7).
+- **Fig. 7–5** — Fibrocartilage (Chapter 7).
+- **Fig. 7–6** — Chondrogenesis (Chapter 7).
+- **Fig. 7–7** — Chondrocytes in growing cartilage (Chapter 7).
 
 ## 8 · Bone
 
-**pp. 138–160** · Part 2, pages 3–36 · Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
+**Book pages 138–160**<br/>Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
 
 ### Learning objectives
 
@@ -224,18 +224,18 @@ A. Type II collagen<br/>B. Type I collagen<br/>C. Fibrillin<br/>D. Dystrophin
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 8–1** — Components of bone (p2 · 3).
-- **Fig. 8–5** — Osteocytes in lacunae (p2 · 8).
-- **Fig. 8–10** — Lamellar bone: Perforating canals and interstitial lamellae (p2 · 16).
-- **Fig. 8–14** — Osteogenesis of long bones by endochondral ossification (p2 · 20).
-- **Fig. 8–19** — Main features of bone fracture repair (p2 · 26).
-- **Fig. 8–23** — Articular cartilage (p2 · 31).
+- **Fig. 8–1** — Components of bone (Chapter 8).
+- **Fig. 8–5** — Osteocytes in lacunae (Chapter 8).
+- **Fig. 8–10** — Lamellar bone: Perforating canals and interstitial lamellae (Chapter 8).
+- **Fig. 8–14** — Osteogenesis of long bones by endochondral ossification (Chapter 8).
+- **Fig. 8–19** — Main features of bone fracture repair (Chapter 8).
+- **Fig. 8–23** — Articular cartilage (Chapter 8).
 
 ## 9 · Nerve Tissue & the Nervous System
 
-**pp. 161–192** · Part 2, pages 37–86 · Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
+**Book pages 161–192**<br/>Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
 
 ### Learning objectives
 
@@ -333,18 +333,18 @@ A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 9–1** — General organization of the nervous system (p2 · 37).
-- **Fig. 9–7** — Types of synapses (p2 · 48).
-- **Fig. 9–13** — Satellite cells around neurons of ganglia in the PNS (p2 · 59).
-- **Fig. 9–18** — Spinal cord and meninges (p2 · 66).
-- **Fig. 9–24** — Node of Ranvier and endoneurium (p2 · 76).
-- **Fig. 9–30** — Regeneration in peripheral nerves (p2 · 82).
+- **Fig. 9–1** — General organization of the nervous system (Chapter 9).
+- **Fig. 9–7** — Types of synapses (Chapter 9).
+- **Fig. 9–13** — Satellite cells around neurons of ganglia in the PNS (Chapter 9).
+- **Fig. 9–18** — Spinal cord and meninges (Chapter 9).
+- **Fig. 9–24** — Node of Ranvier and endoneurium (Chapter 9).
+- **Fig. 9–30** — Regeneration in peripheral nerves (Chapter 9).
 
 ## 10 · Muscle Tissue
 
-**pp. 193–214** · Part 2, pages 87–119 · Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
+**Book pages 193–214**<br/>Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
 
 ### Learning objectives
 
@@ -464,12 +464,12 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 
 ### Plates to study
 
-Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Page references are to the uploaded PDF parts (`p1`–`p4`).
+Open the book to these figures, cover the caption, and name the structure. Then read the caption to check yourself. Each figure number is the one printed in the source textbook; the chapter’s page range is given at the start of the chapter.
 
-- **Fig. 10–1** — Three types of muscle (p2 · 87).
-- **Fig. 10–5** — Capillaries of skeletal muscle (p2 · 92).
-- **Fig. 10–9** — Organization of a skeletal muscle fiber (p2 · 98).
-- **Fig. 10–12** — Sliding filaments and sarcomere shortening in contraction (p2 · 101).
-- **Fig. 10–16** — Cardiac muscle: Intercalated discs (p2 · 109).
-- **Fig. 10–20** — Smooth muscle contraction (p2 · 115).
+- **Fig. 10–1** — Three types of muscle (Chapter 10).
+- **Fig. 10–5** — Capillaries of skeletal muscle (Chapter 10).
+- **Fig. 10–9** — Organization of a skeletal muscle fiber (Chapter 10).
+- **Fig. 10–12** — Sliding filaments and sarcomere shortening in contraction (Chapter 10).
+- **Fig. 10–16** — Cardiac muscle: Intercalated discs (Chapter 10).
+- **Fig. 10–20** — Smooth muscle contraction (Chapter 10).
 

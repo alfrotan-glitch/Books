@@ -1,10 +1,10 @@
 # BEFORE YOU BEGIN
 
-## How to Use This Guide
+## How to Use This Companion
 
 Histology is the one preclinical subject where you cannot bluff. Everything is either there on the slide or it is not. But histology is also the most *efficient* subject in medicine, because a small number of structural rules generate almost every fact you will be asked.
 
-This guide condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024; ISBN 978-1-264-93039-5)** into the material that decides exam marks. It is built on the book's own contents page: **every chapter follows the same section sequence, in the same order, using the book's own section titles**, with printed page numbers so you can read a section here and then turn straight to the corresponding pages in your copy.
+This companion condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (Anthony L. Mescher, McGraw Hill, 2024; ISBN 978-1-26-493039-5)** into the material that decides exam marks. It is built on the book's own contents page: **every chapter follows the same section sequence, in the same order, using the book's own section titles**, with printed page numbers so you can read a section here and then turn straight to the corresponding pages in your copy.
 
 **How each chapter is built**
 
@@ -21,22 +21,13 @@ This guide condenses **Junqueira's Basic Histology: Text & Atlas, 17th edition (
 | **One-line answers** | The chapter compressed to the sentences you would write in an exam |
 | **Active recall** | Five questions to answer from memory before checking |
 | **Exam-style question** | One worked MCQ, with the reason each distractor fails |
-| **Plates to study** | Six atlas figures, with the part and page where each one sits |
+| **Plates to study** | Six numbered figures to find and study in the source textbook |
 
-At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This guide is designed to be read *before* those, so that when you reach them you already know the answers.
+At the end of every chapter in the book there is a **Summary of Key Points** and an **Assess Your Knowledge** question set. This companion is designed to be read *before* those, so that when you reach them you already know the answers.
 
-**A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this guide uses the book's figure. Some standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added because examiners ask for them; they are context, not claims about the book's text. Nothing here is attributed to the book unless the book states it.
+**A word about numbers.** Where the book gives a figure — 250 testicular lobules, 2–2.5 million follicles at birth, 70% of semen from the seminal vesicles, a 35-mm cochlea — this companion uses the book's figure. Some standard physiology and clinical numbers (GFR, bladder volumes, sperm-density thresholds) are added because examiners ask for them; they are context, not claims about the book's text. Nothing here is attributed to the book unless the book states it.
 
-**The complete study system** — the book is one deliverable, not the whole course:
-
-| File | Use it for |
-|---|---|
-| `Junqueira_Exam_Companion.pdf` / `.docx` / `.html` | Reading, revision, and printing |
-| `deliverables/junqueira_flashcards.csv` | Spaced repetition — import into Anki (fields: Front, Back, Tags, Type) |
-| `deliverables/junqueira_question_bank.csv` | Timed practice — question, four options, answer, explanation, and why each distractor fails |
-| `COVERAGE.md` | The audit trail: what was read, what is in each chapter, and the known discrepancies |
-
-Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.
+**Using the practice material.** The 100 questions in Part VII are written to be attempted after the chapter they test; the explanations say why each distractor fails, so a wrong answer is worth more than a guess. A separate flashcard deck and question bank accompany this book for spaced repetition. Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35, and interleave two earlier chapters' cards in every session. Interleaving feels harder and works better.
 
 **Three questions answer 80% of slide questions**
 
@@ -44,11 +35,11 @@ Suggested spacing: learn a chapter, review its cards on days 1, 3, 7, 16 and 35,
 2. **What organ or region?** — the tissue *arrangement* identifies the organ, not the cell type.
 3. **What is it doing here?** — every structure you can see exists because of a function the cell must perform. Name the function and the marks follow.
 
-> **TIP** — Never memorize a slide as a picture. Memorize the *rule that generates the picture* ("stratified squamous with keratin on top = surface exposed to abrasion and drying"). The book's atlas plates teach you the appearance; this guide teaches you the rule behind it.
+> **TIP** — Never memorize a slide as a picture. Memorize the *rule that generates the picture* ("stratified squamous with keratin on top = surface exposed to abrasion and drying"). The book's atlas plates teach you the appearance; this companion teaches the rule behind it.
 
 ### Three study plans
 
-**If you have six weeks.** One part of this guide per week. Read the corresponding chapter, then this section, then cover the tables and redraw them from memory. Do the book's "Assess Your Knowledge" questions and this guide's MCQs at the end of the week. Reserve the final week for the Rapid Review chapter only.
+**If you have six weeks.** One part of this companion per week. Read the corresponding chapter, then this section, then cover the tables and redraw them from memory. Do the book's "Assess Your Knowledge" questions and this guide's MCQs at the end of the week. Reserve the final week for the Rapid Review chapter only.
 
 **If you have ten days.** Two to three chapters per day, tables only on the first pass. Spend 60% of your time on the six comparison tables that carry the most marks: epithelium types, connective tissue fibers, cartilage, muscle, leukocytes, and GI tract wall.
 
@@ -108,43 +99,43 @@ Ten headings, ten marks, almost regardless of the organ. Write the headings firs
 
 ## About the 17th Edition
 
-The seventeenth edition (2024) retains the two features that made the book a standard for over fifty years: a **concise, straightforward text** with no unnecessary detail, and an **exceptionally clear set of photomicrographs and labeled illustrations**. For the student revising for an examination, three features matter most:
+The seventeenth edition (2024) retains the two features that made the book a standard for decades: a **concise, straightforward text** with no unnecessary detail, and an **exceptionally clear set of photomicrographs and labeled illustrations**. For the student revising for an examination, three features matter most:
 
 - **Summary of Key Points** at the end of every chapter — the author's own list of what matters.
 - **Summary Tables** in each chapter — condensed comparisons in exactly the form examiners like.
 - **Medical Applications boxes** — the clinical relevance of each structure.
 
-The online version on AccessMedicine adds **500 multiple-choice questions** across the chapters, a **Lab Guide** with microscopic directions for each laboratory session, and links to a collection of **virtual light microscope slides**. If your university library subscribes, that Lab Guide is the closest thing to sitting at a microscope with a demonstrator beside you.
+The online version on AccessMedicine adds further multiple-choice questions, a lab guide with microscopic directions for each laboratory session, and links to virtual light microscope slides. If your university library subscribes, that Lab Guide is the closest thing to sitting at a microscope with a demonstrator beside you.
 
-> **TIP** — Where this guide and the book's *Summary of Key Points* disagree in emphasis, trust the book: it is the examiner's source. Use this guide for structure and recall, and the book for the final word.
+> **TIP** — Where this companion and the book's *Summary of Key Points* disagree in emphasis, trust the book: it is the examiner's source. Use this companion for structure and recall, and the book for the final word.
 
-## Source Map
+## Chapter and Page Guide
 
-Every chapter section here corresponds to the printed pages below, so the three books — this guide, the textbook, and your uploaded PDF — can be read side by side. **All four parts have now been read and every chapter has been checked against its part:** Chapters 1–7 against `MyDocument_part_1.pdf`, Chapters 8–14 against part 2, Chapters 15–19 and the pituitary, adrenal, islet and thyroid sections of Chapter 20 against part 3, and the parathyroid and pineal sections of Chapter 20, Chapters 21–23 and Appendix A against part 4. The PDF page column is written `p1`, `p2`, `p3`, `p4` for the part file, then the page inside that file.
+Each chapter opens with the printed page range it condenses, so the companion and the textbook can be read side by side. The part numbers refer to the five parts of this book.
 
-| Ch | Title | Book pages | Your PDF page | Part of this guide |
-|---|---|---|---|---|
-| 1 | Histology & Its Methods of Study | 1–16 | p1 · 13 | I |
-| 2 | The Cytoplasm | 17–52 | p1 · 40 | I |
-| 3 | The Nucleus | 53–70 | p1 · 92 | I |
-| 4 | Epithelial Tissue | 71–95 | p1 · 122 | II |
-| 5 | Connective Tissue | 96–121 | p1 · 162 | II |
-| 6 | Adipose Tissue | 122–128 | p1 · 197 | II |
-| 7 | Cartilage | 129–137 | p1 · 208 | II |
-| 8 | Bone | 138–160 | p2 · 3 | II |
-| 9 | Nerve Tissue & the Nervous System | 161–192 | p2 · 37 | II |
-| 10 | Muscle Tissue | 193–214 | p2 · 87 | II |
-| 11 | The Circulatory System | 215–236 | p2 · 120 | III |
-| 12 | Blood | 237–253 | p2 · 156 | III |
-| 13 | Hemopoiesis | 254–266 | p2 · 181 | III |
-| 14 | The Immune System & Lymphoid Organs | 267–294 | p2 · 199 + p3 · 1 | III |
-| 15 | Digestive Tract | 295–328 | p3 · 23 | IV |
-| 16 | Organs Associated with the Digestive Tract | 329–348 | p3 · 71 | IV |
-| 17 | The Respiratory System | 349–370 | p3 · 100 | IV |
-| 18 | Skin | 371–392 | p3 · 132 | IV |
-| 19 | The Urinary System | 393–412 | p3 · 161 | V |
-| 20 | Endocrine Glands | 413–438 | p3 · 191 to end; p4 · 1–10 | V |
-| 21 | The Male Reproductive System | 439–459 | p4 · 11 | V |
-| 22 | The Female Reproductive System | 460–489 | p4 · 40 | V |
-| 23 | The Eye & Ear: Special Sense Organs | 490–524 | p4 · 84 | V |
-| App. | Light Microscopy Stains | 525–526 | p4 · 138 | Appendix A |
+| Ch | Title | Book pages | Part |
+|---|---|---|---|
+| 1 | Histology & Its Methods of Study | 1–16 | I |
+| 2 | The Cytoplasm | 17–52 | I |
+| 3 | The Nucleus | 53–70 | I |
+| 4 | Epithelial Tissue | 71–95 | II |
+| 5 | Connective Tissue | 96–121 | II |
+| 6 | Adipose Tissue | 122–128 | II |
+| 7 | Cartilage | 129–137 | II |
+| 8 | Bone | 138–160 | II |
+| 9 | Nerve Tissue & the Nervous System | 161–192 | II |
+| 10 | Muscle Tissue | 193–214 | II |
+| 11 | The Circulatory System | 215–236 | III |
+| 12 | Blood | 237–253 | III |
+| 13 | Hemopoiesis | 254–266 | III |
+| 14 | The Immune System & Lymphoid Organs | 267–294 | III |
+| 15 | Digestive Tract | 295–328 | IV |
+| 16 | Organs Associated with the Digestive Tract | 329–348 | IV |
+| 17 | The Respiratory System | 349–370 | IV |
+| 18 | Skin | 371–392 | IV |
+| 19 | The Urinary System | 393–412 | V |
+| 20 | Endocrine Glands | 413–438 | V |
+| 21 | The Male Reproductive System | 439–459 | V |
+| 22 | The Female Reproductive System | 460–489 | V |
+| 23 | The Eye & Ear: Special Sense Organs | 490–524 | V |
+| App. | Light Microscopy Stains | 525–526 | Appendix A |

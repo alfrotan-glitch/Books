@@ -80,7 +80,7 @@ The review covered commit `f85d8d4` and the corrections made in response to it. 
 | Numbers | Every number in the manuscript searched in the source text | all traceable |
 | Flashcards | 550 cards: duplicate fronts, empty or over-long backs, invented facts | 0 duplicates, 0 empty, 0 over-long |
 | MCQs | 100 items: four distinct options, single key, explanation and distractor notes for every item | 100/100 complete |
-| DOCX/HTML consistency | 74 tables in each; content spot-checks against the PDF | consistent |
+| DOCX/HTML consistency | 73 tables in each; content spot-checks against the PDF | consistent |
 
 ### Defects found and fixed in this review
 
