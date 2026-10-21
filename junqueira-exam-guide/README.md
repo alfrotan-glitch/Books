@@ -1,14 +1,22 @@
 # Basic Histology: A Learning Text
 
-A self-contained course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book carries no images: it describes what to look for on a slide, how to tell one structure from its neighbour, and how each structure serves function.
+A self-contained, **editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book carries no images: it describes what to look for on a slide, how to tell one structure from its neighbour, and how each structure serves function.
 
 The text is original. No images, plates, captions or extended passages from another publication are reproduced, and no page ranges, figure numbers or review questions point the reader to another book.
+
+## Latest build and publication status
+
+**Use the files attached to the most recent successful [Build and validate histology book workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml).** GitHub's tracked `Basic_Histology_Learning_Text.*` files may predate subsequent manuscript edits; a workflow artifact is tied to its source commit. The artifact bundles all four formats and `publication-manifest.json` with their SHA-256 hashes.
+
+The latest fully observed structural build before this README update was 149 PDF pages, 44 PDF bookmarks, 2,139 DOCX paragraphs, 79 DOCX tables, and EPUBCheck v5.4.0 with zero errors or warnings. Check the new workflow run for later revisions.
+
+**Status: editorial candidate, not independently medically certified or fully print-proofed.** An automated green build does not replace an end-to-end specialist review, clearance of any third-party content, physical printing/visual inspection, or e-reader/Word/browser acceptance. See [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md).
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `Basic_Histology_Learning_Text.pdf` | Print-ready A4 book, 143 pages, running heads, contents page, PDF outline |
+| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **latest CI build: 149 pages** (print proof still required) |
 | `Basic_Histology_Learning_Text.docx` | Editable Word version (same content, Word styles) |
 | `Basic_Histology_Learning_Text.html` | Phone/tablet reading copy, self-contained, no internet needed |
 | `Basic_Histology_Learning_Text.epub` | EPUB 3, reflowable, navigable, for e-readers and phones |
@@ -16,18 +24,23 @@ The text is original. No images, plates, captions or extended passages from anot
 | `build.py` | Markdown → PDF (ReportLab), book design and layout |
 | `build_docs.py` | Markdown → DOCX and HTML (pandoc) |
 | `build_epub.py` | Markdown → EPUB 3 (pandoc + generated cover) |
-| `tools/validate_epub.py` | Structural EPUB validation (not EPUBCheck) |
+| `tools/validate_epub.py` | Additional internal EPUB structural checks |
+| `tools/release_smoke_test.py` | Automated PDF, DOCX, EPUB, HTML structural and geometry checks |
+| `tools/write_release_manifest.py` | Creates per-format SHA-256 release manifest |
+| `RELEASE_VERIFICATION.md` | Explicit, evidence-based final-publication acceptance criteria |
 | `COVERAGE.md` | Source ledger: what was read, what was checked, known discrepancies |
 | `FINAL_REVIEW_REPORT.md` | Production record: verification evidence, hashes, limitations |
 
 ## Rebuilding
 
 ```bash
-pip install --break-system-packages reportlab pypandoc_binary
+python -m pip install reportlab pypandoc_binary python-docx pymupdf
 python3 build.py         # PDF
 python3 build_docs.py    # DOCX + HTML
 python3 build_epub.py    # EPUB 3
 python3 tools/validate_epub.py   # EPUB structural checks
+python3 tools/release_smoke_test.py   # Four-format smoke tests
+python3 tools/write_release_manifest.py   # SHA-256 provenance file
 ```
 
 Edit anything in `src/`, then re-run all four. Sections are concatenated in filename order, so a new file named `02c_whatever.md` drops in automatically.
