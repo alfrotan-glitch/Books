@@ -36,6 +36,21 @@ jobs:
           python build_epub.py
           python tools/validate_epub.py
           python tools/release_smoke_test.py
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Validate EPUB with official W3C EPUBCheck 5.4.0
+        shell: bash
+        run: |
+          curl --fail --location --silent --show-error \
+            --output /tmp/epubcheck-5.4.0.zip \
+            https://github.com/w3c/epubcheck/releases/download/v5.4.0/epubcheck-5.4.0.zip
+          mkdir -p /tmp/epubcheck-release
+          unzip -q /tmp/epubcheck-5.4.0.zip -d /tmp/epubcheck-release
+          JAR="$(find /tmp/epubcheck-release -type f -name epubcheck.jar -print -quit)"
+          test -n "$JAR"
+          java -jar "$JAR" Basic_Histology_Learning_Text.epub
       - name: Check all outputs exist
         run: |
           python - <<'PY'
