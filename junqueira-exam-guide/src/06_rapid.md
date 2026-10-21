@@ -44,12 +44,12 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 ### The 60-second organ identification algorithm
 
 **Step 1 — Is there a lumen?**
-- **No lumen, solid cords or follicles** → thyroid (follicles), adrenal (cords), liver (cords + central veins), parathyroid (cords), pituitary (cell sheets), lymphoid organ (nodules).
+- **No obvious large lumen** → look for follicles, cords, sinusoids, lobules or lymphoid tissue. Small ducts and vessels may still be present; lack of a visible lumen does not establish that an organ is solid.
 - **Yes, a lumen** → go to Step 2.
 
 **Step 2 — What is the epithelium?**
 - **Stratified squamous** → esophagus, oral cavity, vagina, anal canal, epidermis (no lumen).
-- **Simple columnar with crypts** → stomach, intestine, gallbladder, uterus.
+- **Simple columnar epithelium** → assess surface architecture: gastric pits in stomach; villi and intestinal crypts in small intestine; straight crypts without villi in colon; folds without true intestinal crypts in gallbladder or uterine tube.
 - **Pseudostratified ciliated** → respiratory tract. **Pseudostratified with stereocilia** → epididymis, vas deferens.
 - **Transitional** → ureter, bladder, renal pelvis.
 - **Simple cuboidal/columnar tubules** → kidney, salivary ducts, epididymis.
@@ -57,7 +57,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 **Step 3 — What surrounds it?**
 - **Cartilage rings** → trachea. **Cartilage plates** → bronchus. **No cartilage** → bronchiole.
 - **Three muscle layers** → stomach. **Taeniae coli** → colon. **Thick muscle wall** → vas deferens, ureter.
-- **Serosa** → intraperitoneal; **adventitia** → retroperitoneal.
+- **Serosa** indicates a mesothelial covering; **adventitia** indicates attachment to surrounding connective tissue. These coverings depend on the organ segment and cannot alone determine its peritoneal position.
 
 ### The ten master tables
 
@@ -94,7 +94,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | Junctions | — | **Intercalated discs** | Gap junctions |
 | T-tubules | Triads at A–I | Diads at Z | Caveolae |
 | Ca²⁺ sensor | Troponin C | Troponin C | **Calmodulin** |
-| Regeneration | Limited (satellite) | **None** | Hypertrophy/hyperplasia |
+| Regeneration | Limited, supported by satellite cells | Very limited in adults; clinically insufficient after major injury | Hypertrophy and, in some settings, hyperplasia |
 
 **4. Cartilage**
 
@@ -112,7 +112,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 | Osteoprogenitor | Mesenchyme | Precursor |
 | Osteoblast | Mesenchyme | **Make osteoid**, RANKL |
 | Osteocyte | Osteoblast | Maintain, sense load |
-| Osteoclast | **Monocyte** | **Resorb**, ruffled border |
+| Osteoclast | Fusion of monocyte/macrophage-lineage precursors | **Resorb**, ruffled border |
 
 **6. Blood cells**
 
