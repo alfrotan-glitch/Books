@@ -44,6 +44,20 @@ Each kidney is bean-shaped, about **12 cm long, 6 cm wide, and 2.5 cm thick** in
 
 **Juxtaglomerular apparatus (JGA)** — at the vascular pole: **juxtaglomerular (JG) cells** in the afferent arteriole (modified smooth muscle, contain **renin**), the **macula densa** (a plaque of tall, closely packed cells in the distal straight tubule sensing NaCl), and **extraglomerular mesangial (lacis) cells**.
 
+### Reading a Renal Biopsy: A Step-by-Step Method
+
+A renal section becomes easier to interpret when you separate **location**, **compartment**, and **cellular detail** rather than guessing a diagnosis from a single structure.
+
+1. **Orient the specimen.** Renal corpuscles establish that cortex is present. Medullary tissue lacks corpuscles and contains parallel loops, vessels and collecting ducts. A small biopsy may not sample every compartment.
+2. **Examine the glomeruli.** Locate the capillary tuft, Bowman's space, parietal epithelium and mesangial regions. Ask whether the tuft is open and delicate or crowded by cells or matrix. Do not diagnose a specific glomerular disease from routine light microscopy alone.
+3. **Compare tubules.** Proximal tubules generally have strongly eosinophilic cytoplasm and a prominent apical brush border, so their lumina often look irregular or partly obscured. Distal tubules usually have clearer lumina and less conspicuous apical microvilli. Section angle and fixation can alter both appearances.
+4. **Assess the interstitium and vessels.** Note the amount of connective tissue between tubules, inflammatory cells if present, and arterial or arteriolar wall changes. These compartments can be as important as the glomeruli.
+5. **Connect appearance to function.** A damaged filtration barrier may permit albumin to enter urine; tubular injury can impair reabsorption and concentration. Neither finding establishes a diagnosis without clinical information and appropriate laboratory tests.
+
+**Microscopy caution.** Standard renal-biopsy interpretation often integrates light microscopy with immunofluorescence and electron microscopy. For example, immune deposits and podocyte foot-process changes may not be characterized adequately on a routine H&E slide.
+
+**Active identification task.** On a low-power renal cortex image, identify one corpuscle, two proximal tubules and two distal tubules. For each identification, state two positive features and one potential source of error.
+
 ### Blood Circulation
 
 Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high. Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and participate in **countercurrent exchange**, helping preserve the medullary osmotic gradient. The **loops of Henle**, especially their thick ascending limbs, are central to countercurrent multiplication.
