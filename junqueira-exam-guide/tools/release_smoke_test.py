@@ -31,7 +31,7 @@ assert len(doc.tables) >= 10, "DOCX tables missing"
 print(f"DOCX PASS: {len(doc.paragraphs)} paragraphs, {len(doc.tables)} tables")
 
 html = EXPECTED[".html"].read_text(encoding="utf-8")
-assert re.search(r"<html\\b", html, re.I), "HTML document element missing"
+assert re.search(r"<html\b", html, re.I), "HTML document element missing"
 assert "Histology" in html and "</html>" in html.lower(), "HTML title/end missing"
 assert len(html) >= 50000, "HTML unexpectedly small"
 print(f"HTML PASS: {len(html)} characters")
