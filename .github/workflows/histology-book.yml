@@ -8,6 +8,7 @@ on:
       - 'junqueira-exam-guide/src/**'
       - 'junqueira-exam-guide/build*.py'
       - 'junqueira-exam-guide/tools/validate_epub.py'
+      - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - '.github/workflows/histology-book.yml'
   workflow_dispatch:
 
@@ -34,6 +35,7 @@ jobs:
           python build_docs.py
           python build_epub.py
           python tools/validate_epub.py
+          python tools/release_smoke_test.py
       - name: Check all outputs exist
         run: |
           python - <<'PY'
