@@ -140,6 +140,27 @@ The **rectum** continues as the **anal canal**. There the mucosa is highly vascu
 
 > **PEARL** — The numbers that appear in questions: enamel **96%** mineral and **2 mm** thick; dentin **70%**; esophageal length **25 cm**; **8–12** vallate papillae with about **250** taste buds each. The stomach has **no goblet cells** and **no villi**; the intestine has **both**.
 
+### Practical Histology: Distinguishing Duodenum, Jejunum, Ileum, and Colon
+
+Identify the intestinal segment from **multiple tissue layers**, not from a single villus or lymphoid nodule. Orientation, distension, and the depth of the biopsy can hide useful landmarks.
+
+| Segment | Mucosal pattern | Most discriminating supporting feature |
+|---|---|---|
+| Duodenum | Villi and intestinal crypts | **Brunner glands in the submucosa**; a superficial biopsy may miss them |
+| Jejunum | Often prominent villi and plicae circulares | No defining Brunner glands or extensive aggregated Peyer patches in a representative full-thickness section |
+| Ileum | Villi and crypts; often more goblet cells distally | **Aggregated lymphoid nodules (Peyer patches)**, typically extending into the submucosa |
+| Colon | Straight crypts rich in goblet cells; **no normal villi** | Continuous crypt-rich mucosa without small-intestinal villi |
+
+**Worked example 1.** A specimen contains villi and crypts, plus pale mucous glands *beneath the muscularis mucosae*. **Best answer:** duodenum. Confirm that the glands lie in the submucosa, rather than confusing them with ordinary intestinal crypts.
+
+**Worked example 2.** A section shows numerous straight goblet-rich crypts and a flat luminal surface without villi. **Best answer:** colonic mucosa. A biopsy alone may not reliably distinguish individual colonic segments.
+
+**Worked example 3.** A villous small-intestinal specimen has a large aggregate of lymphoid follicles extending toward the submucosa. **Best answer:** ileum, especially if the aggregate is characteristic of a Peyer patch. Isolated lymphoid follicles can occur elsewhere, so use the complete pattern.
+
+**Boundary of inference.** Villus height, goblet-cell abundance and fold prominence vary along the intestine and with sampling. If submucosa is absent and the distinguishing landmarks are not seen, report *small-intestinal mucosa* rather than guessing a segment.
+
+**Self-test.** Why can a routine mucosal biopsy fail to establish duodenal identity even when the patient has duodenal tissue? **Answer:** the biopsy may not include the submucosa, where Brunner glands are located.
+
 ### Chapter 15 — summary
 
 - Four gut layers, outside in: mucosa, submucosa, muscularis, serosa or adventitia.
