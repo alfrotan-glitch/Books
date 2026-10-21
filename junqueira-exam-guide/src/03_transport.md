@@ -16,15 +16,15 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-The circulatory system pumps and directs blood cells and substances to all tissues. In an adult the capillaries alone have a total length of **more than 100,000 km** and a surface area of about **5,000 m²**. Almost every vessel is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — decided entirely by the pressure the vessel must withstand and the job it must do.
+The circulatory system pumps and directs blood cells and substances to all tissues. The enormous capillary network provides a large exchange surface, although estimates of total capillary length and area vary with the method and assumptions used. Almost every vessel is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — reflecting local hemodynamic forces, tissue requirements and developmental specialization.
 
 ### Heart
 
-- **Endocardium** — endothelium + subendothelial connective tissue + a layer of Purkinje fibers; continuous with the intima of vessels.
+- **Endocardium** — endothelial lining and underlying connective tissue, continuous with the intima of vessels. A deeper **subendocardial layer**, particularly in the ventricles, may contain Purkinje fibers; they are not a universal layer of the endocardium.
 - **Myocardium** — the thickest layer; cardiac muscle in complex spirals, atria thinner than ventricles, left ventricle thickest.
 - **Epicardium** — connective tissue containing many **adipocytes**, covered by mesothelium; the visceral layer of the pericardium.
 - **Cardiac skeleton** — dense irregular connective tissue rings that anchor the valves and electrically insulate atria from ventricles.
-- **Valves** — endocardium folded over a core of dense connective tissue; **avascular**. The mitral and tricuspid have chordae tendineae and papillary muscles.
+- **Valves** — endocardium folded over a connective-tissue core; valve leaflets are **largely avascular**, although small vessels may occur near their bases. The mitral and tricuspid have chordae tendineae and papillary muscles.
 
 ### Tissues of the Vascular Wall
 
@@ -52,7 +52,7 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 
 | Type | Structure | Location | Function |
 |---|---|---|---|
-| **Continuous** | Uninterrupted endothelium, tight junctions | Muscle, skin, lung, CNS | Regulated exchange; the **blood–brain barrier** is this type plus tight junctions and astrocyte feet |
+| **Continuous** | Uninterrupted endothelium, tight junctions | Muscle, skin, lung, CNS | Regulated exchange; the **blood–brain barrier** depends on specialized CNS endothelial junctions and transport properties, supported by pericytes, basal lamina and astrocyte endfeet |
 | **Fenestrated** | Endothelial pores, usually with diaphragms; **glomerular fenestrae generally lack diaphragms** | Kidney glomerulus, intestine, endocrine glands | Rapid fluid and solute exchange |
 | **Sinusoidal** | Discontinuous, large gaps, incomplete basal lamina | **Liver, spleen, bone marrow** | Free passage of cells and large molecules |
 
@@ -60,7 +60,7 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 
 ### Lymphatic Vascular System
 
-Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**. Lymphatics have **no continuous basal lamina** and no fenestrations — which is exactly why tumor cells and bacteria enter them so easily.
+Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**. Initial lymphatic capillaries have a discontinuous or sparse basal lamina and specialized overlapping endothelial junctions that permit interstitial fluid and cells to enter under appropriate conditions. Microbial spread and tumor-cell entry depend on additional biological mechanisms, not simply on the absence of fenestrations.
 
 > **CLINICAL** — **Atherosclerosis** begins with endothelial dysfunction: LDL crosses the endothelium, is oxidized, and provokes monocyte recruitment. Macrophages become **foam cells**, a fatty streak forms, smooth muscle migrates into the intima, and a fibrous cap covers a necrotic core. Rupture of a thin cap exposes thrombogenic material and produces the acute coronary syndrome. **Aneurysm** follows destruction of medial elastic fibers. **Varicose veins** follow valve failure. **Lymphedema** follows lymphatic obstruction — classically after axillary node clearance.
 
