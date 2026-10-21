@@ -43,7 +43,7 @@ The parts are cumulative. Part I establishes the cell and the methods; nothing l
 
 **If you have 48 hours.** Read Chapter 24 end to end, then the hundred questions, then the ten master tables. Do not attempt the prose. Histology rewards pattern recognition under time pressure, and patterns live in tables.
 
-Whichever plan you use, alternate between reading and retrieving. Rereading feels productive and is not; answering a question from memory, even badly, is what builds the memory.
+Whichever plan you use, alternate reading with retrieval and slide identification. Rereading can support initial comprehension, but testing yourself from memory and explaining visual evidence more clearly reveals what you can recall.
 
 ## The Twelve Laws of Histology
 
@@ -56,10 +56,10 @@ These twelve rules of thumb hold across most of histology. Each has exceptions, 
 5. **Basophilia and eosinophilia report what a cell is doing.** Blue-purple staining (hematoxylin) reflects nucleic acid — rough ER and ribosomes in a protein-synthesizing cell. Pink staining (eosin) reflects abundant protein — cytoplasm, secretory granules, collagen. The correlation is strong but not absolute: mucin and lipid droplets stain poorly with either dye.
 6. **Cells that make steroid hormone are full of smooth ER and lipid droplets** — hence foamy, pale, or vacuolated cytoplasm (adrenal cortex, Leydig cells, corpus luteum).
 7. **Muscle is classified by nucleus position and striation, not by shape alone.** Peripheral multiple nuclei = skeletal; central single nucleus with striation = cardiac; central single nucleus without striation = smooth.
-8. **The number of cell layers tells you the mechanical job.** One layer = exchange, absorption, secretion, or a thin barrier. Many layers = protection from abrasion.
+8. **The number of cell layers is one clue to function, not a complete rule.** Simple epithelia often specialize in exchange, absorption or secretion; stratified epithelia often resist abrasion. Cell junctions, surface specializations and location also matter.
 9. **Surface area is bought with folds.** Microvilli, villi, plicae circulares, basal infoldings, and cristae all exist for the same arithmetic reason.
 10. **Tubes are built in concentric layers, and each layer has one job.** In blood vessels: intima for exchange, media for tone, adventitia for anchorage. In the gut: mucosa for digestion, submucosa for supply, muscularis for movement.
-11. **A capsule and a hilum identify a solid organ as lymph node, spleen, thymus, or gland.** The route of fluid flow tells you which one.
+11. **Capsules, septa, follicles, ducts and vascular organization help identify solid organs.** A capsule or hilum alone is not diagnostic: distinguish lymph node, spleen, thymus and glands by their characteristic parenchyma and routes of blood, lymph or secretion.
 12. **Most histological facts have a clinical counterpart.** Linking a structure to a disease makes it easier to recall and easier to apply.
 
 ## Exam technique
@@ -80,7 +80,7 @@ Use a fixed skeleton — it works for any organ:
 
 **Capsule → cortex → medulla → parenchyma arrangement → cell types → blood supply → ducts or outflow → function → clinical correlation.**
 
-The headings work for almost any organ. Write them down first, then fill them in.
+Adapt the headings to the organ. Cortex and medulla are not universal; hollow organs are better described by their wall layers and luminal specializations.
 
 ### Ten common errors
 
