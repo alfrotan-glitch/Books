@@ -3,7 +3,18 @@ name: Build and validate histology book
 on:
   push:
     branches:
+      - main
       - arena/8f31a7ed-books
+    paths:
+      - 'junqueira-exam-guide/src/**'
+      - 'junqueira-exam-guide/build*.py'
+      - 'junqueira-exam-guide/tools/validate_epub.py'
+      - 'junqueira-exam-guide/tools/release_smoke_test.py'
+      - 'junqueira-exam-guide/tools/write_release_manifest.py'
+      - '.github/workflows/histology-book.yml'
+  pull_request:
+    branches:
+      - main
     paths:
       - 'junqueira-exam-guide/src/**'
       - 'junqueira-exam-guide/build*.py'
