@@ -43,6 +43,22 @@ Type II collagen plus a network of **elastic fibers**, giving flexibility with r
 | Locations | Trachea, bronchi, nose, ribs, epiphyseal plate, joints | Epiglottis, pinna, auditory canal | Disc, symphysis pubis, menisci |
 | Function | Smooth bearing surface, template for bone | Flexible support | Shock absorption, tensile strength |
 
+### Reading Cartilage on a Slide
+
+Cartilage is recognized by **chondrocytes in lacunae** embedded in a substantial extracellular matrix. The presence or absence of a perichondrium helps classification but is not decisive by itself: articular hyaline cartilage lacks one, and fibrocartilage also lacks one.
+
+| Type | Most useful positive clues | Important limitation |
+|---|---|---|
+| Hyaline | Smooth, glassy-appearing matrix on H&E; rounded chondrocytes, sometimes in isogenous groups | Type II collagen fibers are usually not individually resolved by routine H&E |
+| Elastic | Chondrocytes in lacunae and a dense branching elastic-fiber network | Elastic fibers may require a special stain for confident demonstration |
+| Fibrocartilage | Rows of chondrocytes between conspicuous eosinophilic collagen bundles | May resemble dense regular connective tissue unless lacunae are found |
+
+**Three-pass exercise.** At low power, locate the cartilage and its boundary. At medium power, search for lacunae and collagen-bundle organization. At higher power, identify chondrocytes and describe whether the matrix is homogeneous or fibrous. Only then choose a cartilage subtype.
+
+**Structure–function question.** Why does the meniscus contain fibrocartilaginous tissue rather than a uniform glassy matrix? **Answer:** its collagen organization helps resist tensile forces while its hydrated matrix participates in load distribution and compression resistance. Mechanical behavior depends on the complete tissue architecture, not a single collagen type.
+
+**Repair question.** Why does a focal articular-cartilage defect often persist? **Answer:** articular cartilage has no direct blood supply and lacks a perichondrium; mature chondrocytes have limited capacity to replace a substantial defect. Repair responses depend on lesion depth and whether subchondral bone is involved.
+
 ### Cartilage Formation, Growth, & Repair
 
 - **Appositional growth** — new cartilage added at the periphery by chondroblasts of the perichondrium. Increases width.
