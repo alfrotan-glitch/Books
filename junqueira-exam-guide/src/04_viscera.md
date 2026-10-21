@@ -66,7 +66,7 @@ The muscularis shows the progression to know: **skeletal muscle at the superior 
 
 ### Stomach
 
-**Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. The cardia and pylorus are **histologically similar** to each other and **lack parietal and chief cells**, secreting mucus instead. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
+**Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. Cardiac and pyloric glands are predominantly mucous; **parietal cells may be present in small numbers**, especially near transitions. They should not be described as categorically absent. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
 
 The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus pluripotent stem cells in the neck:
 
@@ -83,7 +83,7 @@ Parietal cells are controlled both by **parasympathetic innervation** and by par
 
 ### Small Intestine
 
-The small intestine is about **5 m long**. Its absorptive surface is amplified at three levels: **plicae circulares** (mucosa + submucosa, about a 3-fold increase), **villi** (mucosa, about 10-fold), and **microvilli** (cell surface, a further 20-fold), for a total absorptive area of **over 200 m²** — the clearest "structure follows function" example in the body.
+The small intestine is several metres long in adults; measured length varies with whether it is examined in vivo or after removal and with the degree of muscular contraction. Its absorptive surface is amplified at three levels: **plicae circulares** (mucosa + submucosa, about a 3-fold increase), **villi** (mucosa, about 10-fold), and **microvilli** (cell surface, a further 20-fold), with a large cumulative increase in absorptive surface; **published total-area estimates vary considerably with the measurement method** — the clearest "structure follows function" example in the body.
 
 Each **villus** is a finger of lamina propria covered by simple columnar epithelium, containing a **lacteal** and smooth muscle. Between villi, simple tubular **crypts (of Lieberkühn)** are the proliferative compartment. Smooth muscle of the lamina propria and muscularis mucosae, controlled by **Meissner's plexus**, moves the villi and propels lymph; the muscularis, controlled by **Auerbach's plexus**, produces peristalsis.
 
