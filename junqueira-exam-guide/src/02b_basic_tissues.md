@@ -14,7 +14,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Cartilage is a **tough, resilient** connective tissue in which the extracellular matrix — collagen, proteoglycans, and water — is the bulk of the tissue; **chondrocytes** occupy only a small fraction of its volume, sitting in lacunae. **Aggrecan** binds a large amount of water, giving the matrix its compressive resilience. Cartilage supports soft tissues, notably in the respiratory tract, and provides **cushioned, low-friction surfaces in joints**. It is **avascular and aneural** — no blood vessels, lymphatics, or nerves — and is usually surrounded by a vascularized **perichondrium** of dense connective tissue whose fibroblasts form its outer fibrous layer. The absence of vessels explains both its durability under load and its poor healing.
+Cartilage is a **tough, resilient** connective tissue in which the extracellular matrix — collagen, proteoglycans, and water — is the bulk of the tissue; **chondrocytes** occupy only a small fraction of its volume, sitting in lacunae. **Aggrecan** binds a large amount of water, giving the matrix its compressive resilience. Cartilage supports soft tissues, notably in the respiratory tract, and provides **cushioned, low-friction surfaces in joints**. It is **avascular and aneural** — no blood vessels, lymphatics, or nerves — and is usually surrounded by a vascularized **perichondrium** of dense connective tissue whose fibroblasts form its outer fibrous layer. Its extracellular matrix provides mechanical resilience; the absence of vessels contributes to its limited capacity for repair.
 
 ### The shared architecture
 
@@ -46,11 +46,11 @@ Type II collagen plus a network of **elastic fibers**, giving flexibility with r
 ### Cartilage Formation, Growth, & Repair
 
 - **Appositional growth** — new cartilage added at the periphery by chondroblasts of the perichondrium. Increases width.
-- **Interstitial growth** — chondrocytes divide within lacunae and secrete matrix, pushing cells apart. Increases length; possible only in young cartilage.
+- **Interstitial growth** — chondrocytes divide within lacunae and secrete matrix, separating daughter cells. It is prominent during development and in growth plates; some interstitial matrix turnover continues in mature cartilage, although its capacity for growth is limited.
 
-Because cartilage is avascular, nutrition depends on diffusion from the perichondrium or synovial fluid. This limits repair: defects fill with **fibrocartilage** rather than hyaline cartilage, and that patch is mechanically inferior.
+Because cartilage is avascular, nutrition depends on diffusion from the perichondrium or synovial fluid. This limits repair: some defects may fill with **fibrocartilaginous repair tissue**, particularly after procedures that access subchondral bone; many untreated full-thickness articular defects heal poorly or incompletely.
 
-> **CLINICAL** — **Osteoarthritis** is a failure of the chondrocyte to maintain matrix: proteoglycans are depleted, water content rises, collagen fibrils fragment, and the surface fissures. Because hyaline cartilage has no vessels and no nerves, pain comes late and from the underlying bone, capsule, and synovium. **Rheumatoid arthritis** is different: an autoimmune synovitis destroys cartilage from the surface inward, producing a pannus.
+> **CLINICAL** — **Osteoarthritis** is a whole-joint disorder involving cartilage, subchondral bone, synovium and other joint tissues; a central feature is disruption of chondrocyte-mediated matrix maintenance: proteoglycans are depleted, water content rises, collagen fibrils fragment, and the surface fissures. Articular cartilage itself is aneural, so pain arises from innervated structures such as subchondral bone, capsule, ligaments and synovium; pain can occur at different stages and does not correlate perfectly with cartilage loss. **Rheumatoid arthritis** is different: an autoimmune synovitis destroys cartilage from the surface inward, producing a pannus.
 
 > **MICRO** — Identify cartilage by the **lacuna**: a cell alone in a clear space within a solid matrix. Then the matrix: **glassy purple with cells in clusters = hyaline; wavy dark fibers = elastic; thick parallel pink bundles with cells in rows = fibrocartilage.**
 
