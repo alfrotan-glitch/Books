@@ -16,7 +16,7 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **all substances that enter or leave an organ must cross this type of tissue**. Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
+Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **many exchanges between an organ and its environment occur across epithelial barriers**. Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
 
 **The four basic tissues** (the framework for the whole subject):
 
@@ -27,7 +27,7 @@ Epithelial tissues are composed of closely aggregated polyhedral cells adhering 
 | **Muscle** | Elongated contractile cells | Moderate amount | Strong contraction; body movements |
 | **Nervous** | Elongated cells with extremely fine processes | **Very small amount** | Transmission of nerve impulses |
 
-Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **Except in the brain and spinal cord, the stroma normally consists of connective tissue**, which is why the CNS has no connective-tissue framework of its own.
+Most organs are divided into the **parenchyma** — the cells responsible for the organ's specialized functions — and the **stroma**, which plays a supporting role. **In most organs, stroma includes supporting connective tissue and vessels.** The brain and spinal cord have specialized neural supporting tissue (notably glia) and also contain connective tissue associated with blood vessels and coverings.
 
 ### Characteristic Features of Epithelial Cells
 
@@ -43,11 +43,11 @@ The defining features:
 4. The tissue is **avascular** — nourishment arrives by diffusion from vessels in the underlying connective tissue.
 5. Cells are **polarized**: apical, lateral, and basal domains differ in structure and function.
 
-**The basement membrane**, visible with PAS or silver in the light microscope and as two layers in EM:
+**The basement membrane** is often demonstrated by PAS or silver staining. Electron microscopy identifies a basal lamina, usually described by its lamina densa and sometimes an electron-lucent zone; the classical lamina lucida can be influenced by preparation. An associated reticular lamina is not uniformly present beneath every epithelium:
 
 | Layer | Composition | Made by |
 |---|---|---|
-| **Lamina lucida** | Laminin, entactin, perlecan | Epithelial cells |
+| **Lamina lucida** (classical EM description) | Zone adjacent to the cell membrane; its appearance depends partly on preparation | Primarily epithelial contributions |
 | **Lamina densa** | **Type IV collagen**, heparan sulfate proteoglycan | Epithelial cells |
 | **Lamina reticularis** | **Type III (reticular) collagen** | Fibroblasts of underlying connective tissue |
 
