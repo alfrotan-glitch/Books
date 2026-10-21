@@ -54,7 +54,7 @@ The lining is **stratified squamous** everywhere, but the degree of keratinizati
 **Teeth.** An adult has **32 permanent teeth**. Each has a crown, a constricted neck, and roots in dental alveoli.
 
 - **Enamel** — hardest material in the body: **96% calcium hydroxyapatite**, only **2–3% organic**, **no collagen**. It is built of **enamel rods ~5 µm wide** running the full **~2 mm** thickness. **Ameloblasts** secrete a collagen-free matrix rich in **amelogenin (20 kDa)**, which initiates and guides crystal growth. Enamel is **acellular**; ameloblasts disappear at eruption, so enamel cannot regenerate, and it is lost from decalcified sections.
-- **Dentin** — **70% hydroxyapatite** in a **type I collagen** matrix, harder than bone. **Odontoblasts** (cranial neural crest) secrete **predentin**, which mineralizes within about a day. Odontoblasts persist for life, and their processes occupy **dentinal tubules** across the full thickness of the dentin, accompanied by unmyelinated nerves — the basis of dentin sensitivity.
+- **Dentin** — **70% hydroxyapatite** in a **type I collagen** matrix, harder than bone. **Odontoblasts** (cranial neural crest) secrete **predentin**, which mineralizes within about a day. Odontoblasts can persist for many years, and their processes extend into **dentinal tubules**, although their extent varies. Sensory nerve fibers enter the inner dentin in some regions; they do not accompany every odontoblast process throughout the full dentin thickness. Movement of fluid within dentinal tubules is a leading explanation for dentin sensitivity (the **hydrodynamic theory**).
 - **Cementum** — bone-like covering of the roots. **Pulp** — vascular, innervated loose connective tissue entering through apical foramina.
 - **Periodontium** = **cementum + periodontal ligament + alveolar bone + gingiva**. The ligament's collagen bundles (**Sharpey fibers**) bind cementum to bone; it is **150–350 µm** thick.
 
@@ -88,7 +88,7 @@ Finally, assess the **muscularis externa**. Esophageal muscle changes from skele
 
 **Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. Cardiac and pyloric glands are predominantly mucous; **parietal cells may be present in small numbers**, especially near transitions. They should not be described as categorically absent. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
 
-The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus pluripotent stem cells in the neck:
+The gland epithelium contains surface mucous cells, mucous neck cells, parietal cells, chief cells, and enteroendocrine cells, plus epithelial stem and progenitor populations concentrated in the isthmus/neck region:
 
 | Cell | Location | Product | Function |
 |---|---|---|---|
@@ -97,7 +97,7 @@ The gland epithelium contains surface mucous cells, mucous neck cells, parietal 
 | **Mucous neck** | Neck | Mucus (less alkaline than surface mucus) | Secretion; the proliferative stem-cell zone lies among them |
 | **Surface mucous** | Surface and pits | **Viscous mucus + bicarbonate** | The barrier that protects the mucosa |
 | **Enteroendocrine** | Throughout | **Gastrin, histamine**, others | Paracrine and endocrine control of secretion |
-| **Stem cells** | Narrow neck region | — | Pluripotent source of all the above |
+| **Stem and progenitor cells** | Predominantly isthmus/neck region | — | Renew the gastric epithelial lineages; these are tissue-specific, not pluripotent embryonic stem cells |
 
 Parietal cells are controlled both by **parasympathetic innervation** and by paracrine **histamine** and **gastrin** from enteroendocrine cells — the pharmacological basis of proton-pump inhibitors and H₂ blockers. The **muscularis has three layers** (oblique, circular, longitudinal), an exception to the four-layer template that allows churning.
 
