@@ -64,6 +64,26 @@ A muscular tube about **25 cm** long. **Nonkeratinized stratified squamous** epi
 
 The muscularis shows the progression to know: **skeletal muscle at the superior end → mixed in the middle → exclusively smooth in the lower third**. The outer layer is **adventitia** except for the distal **1–2 cm**, which lies in the peritoneal cavity and has a serosa. At the **esophagogastric junction** the epithelium changes abruptly from stratified squamous to simple columnar, and the adventitia gives way to serosa.
 
+### Practical Histology: Identifying the Esophagus–Stomach Transition
+
+At low magnification, begin with the **luminal epithelium** rather than the thickness of the muscle wall. The esophagus has nonkeratinized stratified squamous epithelium designed to resist abrasion. The stomach has simple columnar mucous epithelium that descends into gastric pits. The transition between the two epithelial patterns is usually abrupt.
+
+Next, inspect the **mucosal glands**. Esophageal submucosal glands are mucus-secreting and sit beneath the muscularis mucosae; the stomach's gastric pits and glands belong to the mucosa. A gland's position relative to the muscularis mucosae is often more informative than its color alone.
+
+Finally, assess the **muscularis externa**. Esophageal muscle changes from skeletal to smooth along its length, while the stomach's muscular wall is predominantly smooth muscle. Do not use muscle type alone to identify the junction: a small or obliquely cut specimen may not show the full wall.
+
+| Observation | Favors esophagus | Favors stomach |
+|---|---|---|
+| Surface epithelium | Stratified squamous, nonkeratinized | Simple columnar, mucous |
+| Surface invaginations | No gastric pits | Gastric pits present |
+| Mucosal glands | Usually absent except near the ends | Region-specific gastric glands |
+| Submucosal glands | May be present | Not a defining feature |
+| Best initial clue | Abrasion-resistant epithelial sheet | Secretory surface with pits |
+
+**Clinical connection.** Chronic reflux may cause replacement of the distal esophageal squamous lining by intestinal-type columnar epithelium (Barrett esophagus). Identification and grading require proper biopsy interpretation; the mere presence of columnar cells at a junction is not sufficient by itself.
+
+**Slide challenge.** Find the muscularis mucosae first, then locate one gland and decide whether it lies above or below that boundary. Explain why the location changes your identification.
+
 ### Stomach
 
 **Four regions:** the superior **cardia** and inferior **pylorus** resemble each other histologically (branching mucous glands, few parietal or chief cells), while the intervening **fundus and body** contain the main gastric glands. Cardiac and pyloric glands are predominantly mucous; **parietal cells may be present in small numbers**, especially near transitions. They should not be described as categorically absent. The surface is perforated by **gastric pits**, which are lined by the same **surface mucous cells** as the stomach lumen and lead into branching glands. **No goblet cells, no villi.**
