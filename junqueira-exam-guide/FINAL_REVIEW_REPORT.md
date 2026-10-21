@@ -1,5 +1,8 @@
 # Production report — transformation into a standalone text
 
+> **Current release-status notice (21 October 2026).** This report documents an **earlier** 143-page build, not the latest source revision. Subsequent source changes were committed through `ecb2478`, and GitHub Actions run [39606454328](https://github.com/alfrotan-glitch/Books/actions/runs/39606454328) completed successfully and uploaded the four generated formats as a build artifact. The page count, word count, checksum, per-page checks, and visual-inspection figures below are **historical** and must not be represented as checks of the latest build. The generated files tracked in the repository may also differ from the newer CI artifact. Independent medical review, image-rights assessment where relevant, EPUBCheck, cross-reader testing, and a fresh complete visual proof remain outstanding. The latest edition is therefore a **technically buildable editorial candidate, not a certified final release**.
+
+
 **Product:** *Basic Histology: A Learning Text* (first edition, 2026).
 **Branch:** `arena/8f31a7ed-books`.
 **Artifacts:** `Basic_Histology_Learning_Text.pdf` (143 pp), `.docx`, `.epub`, `.html`.
