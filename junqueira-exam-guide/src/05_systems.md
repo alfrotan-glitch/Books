@@ -34,7 +34,7 @@ Each kidney is bean-shaped, about **12 cm long, 6 cm wide, and 2.5 cm thick** in
 - **Visceral layer** — **podocytes** with primary processes and interdigitating **pedicels** that embrace the capillaries. Between pedicels are **filtration slit pores**, bridged by a zipper-like **slit diaphragm** of P-cadherin, **nephrins**, and the negatively charged glycoprotein **podocalyxin**.
 - **Mesangial cells** — between capillaries, covering surfaces not covered by podocytes; **contractile** (like pericytes) and produce external lamina.
 
-**The filtration barrier has three layers:** **fenestrated endothelium** → **glomerular basement membrane (GBM)**, about **330 nm** thick, of **type IV collagen** and other proteins made by endothelial cells and podocytes → **podocyte slit diaphragms**. The barrier is both a size and a charge filter.
+**The filtration barrier has three layers:** **fenestrated endothelium** → **glomerular basement membrane (GBM)**, about **330 nm** thick, of **type IV collagen** and other proteins made by endothelial cells and podocytes → **podocyte slit diaphragms**. The barrier restricts macromolecules through its structural organization and molecular interactions; **size selectivity is well established, while the independent contribution of charge selectivity is more complex than a simple two-filter model suggests**.
 
 **Functional numbers to know:**
 
@@ -46,7 +46,7 @@ Each kidney is bean-shaped, about **12 cm long, 6 cm wide, and 2.5 cm thick** in
 
 ### Blood Circulation
 
-Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high. Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and are the anatomical basis of the **countercurrent multiplier**.
+Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high. Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and participate in **countercurrent exchange**, helping preserve the medullary osmotic gradient. The **loops of Henle**, especially their thick ascending limbs, are central to countercurrent multiplication.
 
 ### Renal Function: Filtration, Secretion, & Reabsorption
 
@@ -71,7 +71,7 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 **Urothelium is a specialized barrier, not just a stratified epithelium:**
 
-- **Umbrella cells** — large superficial cells up to **100 µm** in diameter, with **uroplakin plaques ~16 nm** across, hinged to allow unfolding as the bladder fills.
+- **Umbrella cells** — large superficial cells up to **100 µm** in diameter, with **uroplakin-containing membrane plaques**, hinged to allow unfolding as the bladder fills.
 - The epithelium is organized in **three layers**: superficial **umbrella cells**, an intermediate layer of cuboidal or low columnar cells (one to several deep), and a basal layer. Emptying folds the mucosa and lets umbrella cells retract folded plaques; filling flattens the cells and thins the epithelium.
 - Tight junctions plus plaques make it an osmotic barrier against hypertonic urine.
 
