@@ -1,5 +1,7 @@
 # Final release acceptance — Basic Histology: The Exam & Learning Companion
 
+> **ARCHIVED HISTORICAL ACCEPTANCE (20 October 2026): NOT THE CURRENT BOOK RELEASE.** This report describes an older 142-page companion, older filenames beginning `Junqueira_Exam_Companion_FINAL`, and earlier source revisions. The current independently authored title is *Basic Histology: A Learning Text*. Its current release evidence and remaining gates are documented in [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md). The historical acceptance label below must **not** be interpreted as clearance of the latest edition.
+
 **Date of pass:** 20 October 2026
 **Branch:** `arena/8f31a7ed-books`
 **Candidate examined:** `71938c8` ("Final content cleanup and scientific QA")
