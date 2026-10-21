@@ -63,6 +63,25 @@ The defining features:
 
 The pattern is worth memorizing: **tight seals, adherens belts to actin, desmosomes to keratin, gap junctions for talk, hemidesmosomes for feet.**
 
+### A Practical Approach to Epithelial Identification
+
+Epithelial classification becomes reliable when three separate observations are recorded: **layering**, **shape of the luminal cells**, and **apical or basal specialization**. Begin at the free surface, then trace individual cells toward the basement membrane. A tangential cut may make a simple epithelium appear stratified, while nuclei at different heights in pseudostratified epithelium do not imply that every cell fails to reach the basal lamina.
+
+| Observation | Interpretation | Common pitfall |
+|---|---|---|
+| One layer of very flat cells | Simple squamous epithelium, as in endothelium or alveolar lining | Thin cytoplasm may be almost invisible on H&E |
+| One layer of cells about as tall as wide | Simple cuboidal epithelium, common in small ducts and tubules | An oblique section changes apparent cell height |
+| One layer of tall cells | Simple columnar epithelium, often absorptive or secretory | Goblet cells and cilia are not present at every site |
+| Nuclei at different heights, cells sharing the basal lamina | Pseudostratified epithelium | It is functionally one epithelial layer, not truly multilayered |
+| Several layers with flattened surface cells | Stratified squamous epithelium | Keratinization must be assessed at the surface, not inferred from location |
+| Superficial dome-shaped cells, variable thickness with distension | Urothelium | Flattened umbrella cells in a distended specimen may obscure the classic dome shape |
+
+**Decision sequence.** (1) Find the luminal boundary. (2) Determine whether the tissue is genuinely multilayered. (3) Describe the surface cells. (4) Look for cilia, microvilli, keratin, goblet cells or umbrella cells. (5) Use surrounding tissue and organ architecture to confirm the identification.
+
+**Clinical reasoning.** Epithelial metaplasia changes a tissue's differentiation program, but the new lining is not automatically malignant. Dysplasia describes disordered growth and cytologic atypia; invasive carcinoma requires evidence of invasion through the relevant tissue boundary. Routine histology must be interpreted in clinical context.
+
+**Check your understanding.** A respiratory lining has nuclei at several levels, cilia and mucus-producing cells, yet its cells contact the basal lamina. **Answer:** pseudostratified ciliated columnar epithelium. The critical evidence is basal attachment, not the apparent number of nuclear rows.
+
 ### Specializations of the Apical Cell Surface
 
 **Microvilli.** Finger-like extensions with a core of **actin** filaments cross-linked by actin-bundling proteins (villin, fimbrin) and anchored in a **terminal web**. They multiply surface area for absorption. In the proximal tubule and small intestine they form a **brush border** visible as a fuzzy eosinophilic rim. In the epididymis and inner ear, unusually long, stiff microvilli are called **stereocilia** — a misnomer, because they contain no microtubules.
