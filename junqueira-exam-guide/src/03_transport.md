@@ -46,17 +46,17 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 | **Capillary** | Endothelium + basal lamina only | None | None | One cell thick |
 | **Venule** | Endothelium | None or sparse pericytes | Thin | Site of **leukocyte diapedesis** |
 | **Small/medium vein** | Endothelium | Thin | **Thickest layer** | Often collapsed on section |
-| **Large vein** (vena cava) | Endothelium | Thin | **Thick, with longitudinal smooth muscle** | Valve-like intimal folds |
+| **Large vein** (vena cava) | Endothelium | Thin | **Thick, often with longitudinal smooth muscle** | Prominent adventitia; the venae cavae do not have the typical limb-vein valves |
 
 **Capillaries:**
 
 | Type | Structure | Location | Function |
 |---|---|---|---|
 | **Continuous** | Uninterrupted endothelium, tight junctions | Muscle, skin, lung, CNS | Regulated exchange; the **blood–brain barrier** is this type plus tight junctions and astrocyte feet |
-| **Fenestrated** | Pores with diaphragms | Kidney glomerulus, intestine, endocrine glands | Rapid fluid and solute exchange |
+| **Fenestrated** | Endothelial pores, usually with diaphragms; **glomerular fenestrae generally lack diaphragms** | Kidney glomerulus, intestine, endocrine glands | Rapid fluid and solute exchange |
 | **Sinusoidal** | Discontinuous, large gaps, incomplete basal lamina | **Liver, spleen, bone marrow** | Free passage of cells and large molecules |
 
-**Microcirculation.** Arteriole → metarteriole → capillary bed → venule, with **precapillary sphincters** regulating flow. **Arteriovenous anastomoses** shunt blood directly, important in skin thermoregulation.
+**Microcirculation.** Arterioles feed capillary networks that drain into venules. Metarterioles and discrete precapillary sphincters are described in some vascular beds but are **not universal features** of all tissues. **Arteriovenous anastomoses** shunt blood directly, important in skin thermoregulation.
 
 ### Lymphatic Vascular System
 
