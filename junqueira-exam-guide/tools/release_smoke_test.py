@@ -6,7 +6,7 @@ from pathlib import Path
 from zipfile import ZipFile
 import re
 import sys
-import fitz
+import pymupdf
 from docx import Document
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,11 +15,23 @@ EXPECTED = {ext: BASE.with_suffix(ext) for ext in (".pdf", ".docx", ".epub", ".h
 for ext, path in EXPECTED.items():
     assert path.is_file() and path.stat().st_size > 1000, f"Missing or empty {ext}: {path}"
 
-pdf = fitz.open(EXPECTED[".pdf"])
+pdf = pymupdf.open(EXPECTED[".pdf"])
 assert len(pdf) >= 50, f"Unexpectedly short PDF: {len(pdf)} pages"
 page_text = [p.get_text() for p in pdf]
 assert all(len(t.strip()) >= 35 for t in page_text), "Blank or nearly blank PDF page detected"
 assert len(pdf.get_toc()) >= 20, "Missing PDF bookmarks"
+out_of_page = []
+broken_glyphs = []
+for number, page in enumerate(pdf, start=1):
+    for word in page.get_text("words"):
+        x0, y0, x1, y1 = word[:4]
+        if x0 < -2 or y0 < -2 or x1 > page.rect.width + 2 or y1 > page.rect.height + 2:
+            out_of_page.append((number, (round(x0, 1), round(y0, 1), round(x1, 1), round(y1, 1))))
+    if "\uFFFD" in page_text[number - 1]:
+        broken_glyphs.append(number)
+assert not out_of_page, f"Words outside PDF page bounds: {out_of_page[:8]}"
+assert not broken_glyphs, f"Unicode replacement glyphs on PDF pages: {broken_glyphs}"
+
 assert "Histology" in " ".join(page_text[:4]), "Missing title/front matter"
 assert any("Appendix" in t for t in page_text), "Missing appendices"
 assert any("24" in t and "review" in t.lower() for t in page_text), "Missing rapid-review chapter"
