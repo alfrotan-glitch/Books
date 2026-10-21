@@ -59,6 +59,26 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 - **Three muscle layers** → stomach. **Taeniae coli** → colon. **Thick muscle wall** → vas deferens, ureter.
 - **Serosa** indicates a mesothelial covering; **adventitia** indicates attachment to surrounding connective tissue. These coverings depend on the organ segment and cannot alone determine its peritoneal position.
 
+### How to Read an Unfamiliar Histology Slide Without Guessing
+
+**First pass: orientation (low power).** Decide whether you are looking at a hollow organ, a solid organ, a sheet of tissue, or a mixed specimen. Look for the boundary of the sample, connective-tissue septa, major vessels, a capsule if present, and any recognizable lumen. A single section may cut an organ obliquely, and a biopsy may omit diagnostic landmarks.
+
+**Second pass: tissue architecture (medium power).** Identify epithelial layers, glands, follicles, ducts, tubules, muscle bundles, vascular channels, lymphoid aggregates and extracellular matrix. Ask which components repeat and how they are organized. For hollow organs, follow the wall from lumen outward; for solid organs, identify functional units rather than assuming every organ has a cortex and medulla.
+
+**Third pass: cellular evidence (high power).** Compare nuclear shape, cytoplasmic staining, apical specialization, granules, extracellular fibers and cell arrangement. Recognize artifacts: folds may mimic thick epithelium, shrinkage can create false spaces, and tangential sections can make one layer look like several.
+
+**Fourth pass: test alternatives.** State at least two observations that support your identification and one finding that would favor a competing organ. For example, both small intestine and colon have intestinal crypts, but villi strongly favor small intestine; Brunner glands in the submucosa support duodenum.
+
+**Fifth pass: communicate uncertainty.** If the distinguishing feature is absent, identify the tissue at the highest defensible level (for example, *intestinal mucosa* rather than *ileum*). A confident but unsupported organ label is less useful than an accurate description.
+
+**Practice case A.** You see simple columnar epithelium with many goblet cells, closely packed straight crypts and no villi. What is the best identification? **Answer:** colonic-type mucosa. The absence of villi and abundance of goblet-rich straight crypts favor large intestine; the precise segment may require additional landmarks.
+
+**Practice case B.** You see a tube lined by urothelium with mucosal folds and a thick, irregular smooth-muscle wall. What alternatives remain? **Answer:** ureter and urinary bladder. A relatively small, stellate lumen and organized muscular layers favor ureter; a broad lumen and interlacing detrusor bundles favor bladder, but section orientation matters.
+
+**Practice case C.** You see densely packed tubules and scattered round capillary tufts surrounded by a narrow space. What tissue is present? **Answer:** renal cortex, because renal corpuscles are present. Proximal and distal tubules should then be distinguished by their apical brush borders and staining patterns.
+
+**Retrieval rule:** cover each answer and justify your choice from the visual evidence before reading the explanation. The purpose is to learn an observable decision process, not to memorize an organ name from a single photograph.
+
 ### The ten master tables
 
 **1. Epithelium by location**
