@@ -9,6 +9,7 @@ on:
       - 'junqueira-exam-guide/build*.py'
       - 'junqueira-exam-guide/tools/validate_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
+      - 'junqueira-exam-guide/tools/write_release_manifest.py'
       - '.github/workflows/histology-book.yml'
   workflow_dispatch:
 
@@ -51,6 +52,8 @@ jobs:
           JAR="$(find /tmp/epubcheck-release -type f -name epubcheck.jar -print -quit)"
           test -n "$JAR"
           java -jar "$JAR" Basic_Histology_Learning_Text.epub
+      - name: Record publication file hashes and provenance
+        run: python tools/write_release_manifest.py
       - name: Check all outputs exist
         run: |
           python - <<'PY'
@@ -69,4 +72,5 @@ jobs:
             junqueira-exam-guide/Basic_Histology_Learning_Text.docx
             junqueira-exam-guide/Basic_Histology_Learning_Text.epub
             junqueira-exam-guide/Basic_Histology_Learning_Text.html
+            junqueira-exam-guide/publication-manifest.json
           if-no-files-found: error
