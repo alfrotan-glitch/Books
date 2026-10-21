@@ -68,6 +68,25 @@ Begins as blind-ended **lymphatic capillaries** with overlapping endothelial fla
 
 > **TIP** — The three capillaries are distinguished by **continuity, not size**: continuous (tight), fenestrated (pores), sinusoidal (gaps wide enough for a red cell). Liver, spleen, marrow = sinusoidal. Kidney glomerulus and intestine = fenestrated. Brain = continuous with tight junctions.
 
+### Practical Microscopy: Artery, Vein, and Lymphatic Vessel
+
+The first task in a vascular section is to locate the **endothelial lining**. Only after confirming a vessel should you classify it by the wall, lumen, and surrounding tissue. A collapsed vein can look like a narrow slit, while a contracted artery may show a folded internal elastic lamina.
+
+| Feature | Muscular artery | Vein of comparable caliber | Initial lymphatic capillary |
+|---|---|---|---|
+| Lumen in routine sections | Often more rounded | Often irregular or collapsed | Thin-walled, often irregular |
+| Dominant wall feature | Conspicuous smooth-muscle tunica media | Relatively thin media; adventitia may dominate | Endothelium with little supporting wall |
+| Elastic lamina | Internal elastic lamina may be conspicuous | Usually less conspicuous | No arterial-type elastic lamina |
+| Luminal contents | Erythrocytes may be present | Erythrocytes may be present | Usually no erythrocytes in normal tissue |
+
+**Do not classify by lumen shape alone.** Fixation, tissue pressure and the angle of section can change apparent diameter. Large elastic arteries, venules and collecting lymphatics require additional criteria beyond this comparison.
+
+**Worked case.** Two adjacent profiles have similar outer diameters. One has a thick concentric smooth-muscle media and a distinct wavy elastic lamina. The other has a thinner media and a wider, partly collapsed lumen. The first is most consistent with a **muscular artery**; the second with a **vein**.
+
+**Blood–brain barrier distinction.** A CNS capillary is a continuous capillary, but the barrier is not created by astrocytes alone. Endothelial tight junctions and specialized low-permeability transport properties are central, while pericytes, the basement membrane and astrocytic endfeet support barrier development and maintenance.
+
+**Active task.** In a tissue image, locate an artery–vein pair and explain the classification using two wall features. If you suspect a lymphatic, state what additional evidence (for example, lymphatic endothelial markers in an appropriate context) would improve confidence.
+
 ### Chapter 11 — summary
 
 - Three tunics: intima (endothelium + subendothelial tissue), media (smooth muscle, elastic lamellae), adventitia (collagen).
