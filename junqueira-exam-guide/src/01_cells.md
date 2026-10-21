@@ -137,6 +137,25 @@ Two rules govern the interpretation of every section:
 
 > **PEARL** — A useful chain to remember from Chapter 1: **dehydration precedes clearing**, clearing makes the tissue translucent, and **freezing avoids both** — which is why frozen sections are used for rapid diagnosis, for enzymes, and for lipids.
 
+### Laboratory Reasoning: Choosing a Method and Recognizing Artifacts
+
+A useful histology result begins with a **question**, not a stain. Decide what structure or molecule must be demonstrated, what resolution is required, and what the specimen-processing method might destroy.
+
+| Question | Useful starting approach | Important limitation |
+|---|---|---|
+| What is the overall tissue architecture? | Formalin-fixed, paraffin-embedded section with H&E | Fine molecular identity cannot be inferred from color alone |
+| Is a carbohydrate-rich structure present? | PAS with appropriate controls; diastase digestion when testing for glycogen | PAS positivity is not specific for glycogen |
+| Where is a particular protein expressed? | Validated immunohistochemistry or immunofluorescence | Antibody specificity, fixation and controls determine interpretability |
+| Are neutral lipid droplets present? | Suitable frozen section with a lipid stain | Routine paraffin processing extracts many lipids |
+| What is the ultrastructure of a membrane or organelle? | Electron microscopy with appropriate preparation | Small field of view and preparation artifacts complicate interpretation |
+| Is a target nucleic-acid sequence present? | In situ hybridization with appropriate probes and controls | Signal quality depends on preservation, accessibility and probe specificity |
+
+**Artifact checklist.** Tissue shrinkage can produce artificial gaps between cells. Poor fixation can cause loss of cellular detail and autolysis. Compression or chatter during microtomy can distort tissue architecture. Folding may mimic an additional epithelial layer. A poorly oriented cut may make a round tubule look elongated or hide a gland's opening.
+
+**Worked example.** A pale circular space in a paraffin section is not automatically a blood vessel. Ask whether it has an endothelial lining, contains erythrocytes, and is connected to other vascular structures. An adipocyte may also appear empty because lipid was extracted during processing, but it usually has a thin rim of cytoplasm and a displaced nucleus.
+
+**Quality-control habit.** Record the stain, magnification, specimen orientation and relevant positive and negative controls before drawing a molecular conclusion. Distinguish what is directly visible from what is inferred.
+
 ### Chapter 1 — summary
 
 - H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
