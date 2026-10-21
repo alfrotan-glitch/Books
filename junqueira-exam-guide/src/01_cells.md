@@ -18,7 +18,7 @@ By the end of this chapter you should be able to:
 
 Histology explores the body's tissues and how they are arranged to produce functional organs. Tissues have two interacting components: **cells and extracellular matrix (ECM)**. The ECM is not packing material — it supports the cells, carries the fluid that brings nutrients and removes waste, and its molecules bind specific cell-surface receptors connected to structural components inside the cell, forming a continuum in which cells and matrix function together.
 
-Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and every image you will interpret has been fixed, dehydrated, cleared, embedded, sectioned, stained and mounted. Knowing what each step does tells you which appearances are real and which are artifacts.
+Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and many routine bright-field images come from fixed, dehydrated, cleared, embedded, sectioned and stained tissue. Frozen sections, live-cell imaging and some specialized methods use different workflows. Knowing what each step does tells you which appearances are real and which are artifacts.
 
 ### Preparation of Tissues for Study
 
@@ -35,9 +35,9 @@ Organs form by an orderly combination of these tissues. Because cells and matrix
 
 **The units** you should be able to convert: 1 µm = 1/1000 mm; 1 nm = 0.001 µm = 10⁻⁶ mm; 1 Å = 0.1 nm = 10⁻⁴ µm.
 
-**Plastic resins** are used for both light and electron microscopy. They are infiltrated after dehydration and harden when cross-linking polymerisers are added; plastic embedding **avoids the higher temperatures of paraffin** and therefore avoids tissue distortion.
+**Plastic resins** are used for both light and electron microscopy. They are infiltrated after dehydration and harden when cross-linking polymerisers are added; some resins can be polymerized at lower temperatures than paraffin processing, but resin embedding does not eliminate processing artifacts, and some protocols use heat.
 
-> **CLINICAL** — **Biopsies** are tissue samples removed during surgery or routine procedures, fixed in vials of formalin. When the result is needed *before the procedure ends* — typically to know whether a growth is malignant before the patient is closed — the biopsy is **frozen in liquid nitrogen**, which preserves structure and hardens the tissue, and sectioned on a **cryostat** in a subfreezing cabinet. Freezing is also used for histochemistry of **sensitive enzymes or small molecules**, because freezing, unlike fixation, does not inactivate most enzymes; and because clearing solvents dissolve lipids, **frozen sections are used whenever lipid-containing structures must be studied**.
+> **CLINICAL** — **Biopsies** are tissue samples removed during surgery or routine procedures, fixed in vials of formalin. When the result is needed *before the procedure ends* — typically to know whether a growth is malignant before the patient is closed — the specimen is **rapidly frozen** using an appropriate cooling method and sectioned in a **cryostat**. Direct immersion in liquid nitrogen is not universally used and may introduce freezing artifacts. Freezing is also used for histochemistry of **sensitive enzymes or small molecules**, because freezing can preserve enzyme activities that routine fixation may diminish; and because routine organic solvents extract many lipids, **frozen sections are often preferred for demonstrating neutral lipids**.
 
 ### Staining
 
@@ -50,7 +50,7 @@ Most cells and extracellular material are completely colorless. Dyes behave like
 
 **H&E** is the most common method. **Hematoxylin** stains DNA in the nucleus, RNA-rich cytoplasm, and cartilage matrix dark blue-purple; **eosin** stains other cytoplasmic structures and collagen pink and acts as the **counterstain**. **Trichrome** stains (eg, Masson) allow greater distinction among extracellular components.
 
-**The PAS reaction** uses the hexose rings of polysaccharides and other carbohydrate-rich structures and stains them distinctly **purple or magenta** — the basis for demonstrating glycogen, mucin, and basement membranes. The **Feulgen reaction** is a modification of PAS that stains **DNA specifically**.
+**The PAS reaction** uses the hexose rings of polysaccharides and other carbohydrate-rich structures and stains them distinctly **purple or magenta** — the basis for demonstrating glycogen, mucin, and basement membranes. The **Feulgen reaction** is a distinct DNA-specific method: controlled acid hydrolysis exposes aldehyde groups in DNA, which then react with Schiff reagent.
 
 **Enzyme digestion** identifies what a stain is binding: pretreating a section with an enzyme that digests one substrate. Pretreatment with **ribonuclease** greatly reduces cytoplasmic basophilia with little effect on the nucleus, proving that the cytoplasmic staining depended on RNA.
 
@@ -80,7 +80,7 @@ The **bright-field microscope** has three lens sets:
 - **Objective** — enlarges and projects the image; routine objectives are **×4** (large field), **×10** (medium), **×40** (detail).
 - **Eyepiece (ocular)** — magnifies a further **×10**, giving total magnifications of **×40, ×100, ×400**. Total magnification = objective × ocular.
 
-**Resolving power** — the smallest distance at which two structures are seen as separate — is the critical factor, and its maximum for a light microscope is about **0.2 µm**, permitting clear images at **1000–1500×**. Anything smaller or thinner than 0.2 µm (a single ribosome, a microfilament) cannot be distinguished, and two mitochondria closer than 0.2 µm appear as one. Resolution depends mainly on the **objective lens**; the ocular only enlarges and does **not** improve resolution. *Magnification is of value only when accompanied by resolution.*
+**Resolving power** — the smallest distance at which two structures are seen as separate — is the critical factor, and conventional bright-field light microscopy typically achieves lateral resolution of about **0.2 µm** under favorable conditions. Higher magnification alone cannot recover detail below the resolution limit. Anything smaller or thinner than 0.2 µm (a single ribosome, a microfilament) cannot be distinguished, and two mitochondria closer than 0.2 µm appear as one. Resolution depends mainly on the **objective lens**; the ocular only enlarges and does **not** improve resolution. *Magnification is of value only when accompanied by resolution.*
 
 **Virtual microscopy** converts a stained slide into high-resolution digital images captured in a grid at multiple magnifications, stored so a browser can navigate the original slide — now replacing glass slide collections in teaching laboratories.
 
