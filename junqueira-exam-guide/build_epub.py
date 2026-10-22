@@ -71,6 +71,8 @@ def make_cover():
 
 
 def main():
+    from tools.generate_atlas import generate
+    generate()
     make_cover()
     with open(CSS_PATH, "w", encoding="utf-8") as fh:
         fh.write(CSS)
@@ -90,6 +92,7 @@ def main():
             "--split-level=1",
             "--epub-cover-image=" + COVER,
             "--css=" + CSS_PATH,
+            "--resource-path=" + os.pathsep.join((HERE, SRC, BUILD)),
             "--metadata", "title=" + TITLE,
             "--metadata", "subtitle=" + SUBTITLE,
             "--metadata", "rights=" + RIGHTS,
