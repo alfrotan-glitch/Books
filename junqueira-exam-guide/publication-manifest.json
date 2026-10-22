@@ -1,30 +1,30 @@
 {
   "title": "Basic Histology: A Learning Text",
   "edition": "First edition (2026)",
-  "git_commit": "3a143b09cb2cdde443d6ef323c1c6a0f63d35ce9",
-  "generated_utc": "2026-10-22T19:48:59.812716+00:00",
+  "git_commit": "64e60e224974bdc968d5568314459384a646d3e6",
+  "generated_utc": "2026-10-22T19:50:19.607431+00:00",
   "release_status": "editorial_candidate",
   "meaning_of_status": "Build and structural checks are not a substitute for independent scientific review, EPUB reader testing or full visual/print proof.",
   "pdf": {
-    "page_count": 156,
+    "page_count": 157,
     "outline_entries": 45
   },
   "files": {
     "Basic_Histology_Learning_Text.pdf": {
-      "bytes": 992730,
-      "sha256": "580537daef121c0fbcff47a8e4721e9fb3bd657e2ef17fd85857c98090d980ca"
+      "bytes": 993961,
+      "sha256": "29bc16cf6640935d18cab93a499ce72117fa2e7e8c894efd6955cb2cc658f477"
     },
     "Basic_Histology_Learning_Text.docx": {
-      "bytes": 480298,
-      "sha256": "2555e0a59f2e3307746ea7bec90f26891abe7c51bce181348070fb58cce56116"
+      "bytes": 480626,
+      "sha256": "19340937523b5ed9b7bc1c040b56fd3fd53188b6dfb656b6874e56a2d0b0c1be"
     },
     "Basic_Histology_Learning_Text.epub": {
-      "bytes": 508804,
-      "sha256": "b3c6c56f05789c1b33d420fc5299958f997589d551b73cdfb198c4cb0dc0d90f"
+      "bytes": 509109,
+      "sha256": "7fc85d20dc59ce33d66969e3402bb552058f87984c7e811cea63e2d561345bd4"
     },
     "Basic_Histology_Learning_Text.html": {
-      "bytes": 919116,
-      "sha256": "cd23d737a2f10bd40ad9e79309d733c470383f05168d871171bc09cffef53d4d"
+      "bytes": 919801,
+      "sha256": "826e2db78c2323ba96437e99435f634167d41b45853ad552266e5469f26283ab"
     }
   }
 }
