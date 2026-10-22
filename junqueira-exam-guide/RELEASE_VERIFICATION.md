@@ -22,11 +22,23 @@ A green GitHub Actions build establishes that commands completed and the configu
 - [ ] A sample of learners or teachers attempts the identification tasks and examination questions; ambiguous wording is revised.
 - [ ] Final release files are committed or published together with hashes, build instructions, edition, date and known limitations.
 
+## Verified illustrated editorial package — 22 October 2026
+
+- Final validated source commit: `0d2b0db4ba81ad48a76b797cd68dcd99464af5fa`; GitHub Actions [run 39728037204](https://github.com/alfrotan-glitch/Books/actions/runs/39728037204) finished **successfully**. After its green build the generated outputs were also synchronized to `main`.
+- Build artifact contains PDF, DOCX, EPUB, HTML, both generated CSV study decks, publication-manifest.json, and nine original schematic PNG plates.
+- The PDF has **156 pages**, **45 bookmarks**, and nine embedded diagram images. A subsequent automated inspection verified all page text exists; seven short pages are intentional cover/part-divider pages.
+- DOCX: **2,193 paragraphs and 83 tables**. Word-style section breaks and separately displayed MCQ choices are validated in the publication pipeline.
+- Study material alignment: **607 flashcards** and **100 exam questions** with every key, four choices and explanation matched to the current canonical manuscript.
+- EPUB: official **W3C EPUBCheck 5.4.0 = 0 errors, 0 warnings**, with nine illustrations plus a generated cover.
+- Cryptographic provenance: SHA-256 values in `publication-manifest.json` matched the downloaded PDF, DOCX, EPUB and HTML bytes in a local independent verification.
+- Browser verification of the actual generated **self-contained HTML** with Chromium: `390 × 844` mobile and `1280 × 900` desktop, all nine pictures loaded, 83 tables present, **document scroll width exactly equals viewport width** in both cases, and narrow tables can scroll internally.
+- These are **engineering release checks**, not a signed peer review or a page-by-page print proof.
+
 ## Current evidence
 
 - Illustrated source run [39727177604](https://github.com/alfrotan-glitch/Books/actions/runs/39727177604) passed: PDF 156 pages and 45 bookmarks; DOCX 2,193 paragraphs and 83 tables; 607 flashcards and 100 synchronized questions; nine original labeled schematic plates; official EPUBCheck 5.4.0: 0 errors, 0 warnings. The latest responsive-HTML build must be checked separately.
 - Automated PDF preflight checks off-page words, Unicode replacement glyphs, bookmarks and the presence of the nine images in each output; it cannot detect every problem visible to a human reader. Word was rendered for targeted visual inspection, and desktop/mobile HTML inspection identified a horizontal overflow which has now been addressed in the source and requires a matching build-and-browser retest.
-- The older `FINAL_REVIEW_REPORT.md` documents a different, earlier manuscript revision and is not a current all-pages proof.
+- The older `FINAL_REVIEW_REPORT.md` documents a different, earlier manuscript revision and is not a current all-pages proof. This section is the current production evidence.
 - Expert medical review, an independent rights/legal assessment, cross-reader EPUB tests, formal classroom evaluation, and complete page-by-page human visual print inspection are **not** documented as passed.
 
 **Release disposition:** EDITORIAL CANDIDATE — NOT YET FINAL. Change this status only when the above evidence exists.
