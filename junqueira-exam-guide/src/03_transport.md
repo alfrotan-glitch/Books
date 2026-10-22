@@ -138,7 +138,7 @@ Blood is connective tissue with a liquid matrix. Its cells all derive from one s
 
 ### Composition of Plasma
 
-About **55% of blood volume**. Water plus plasma proteins — **albumin, α- and β-globulins, complement proteins, and fibrinogen**, all secreted in the **liver**, plus the **immunoglobulins** — and electrolytes, nutrients, hormones, and waste.
+About **55% of blood volume**. Plasma consists mainly of water and dissolved proteins, electrolytes, nutrients, hormones, and waste. The **liver produces most major plasma proteins**, including albumin and fibrinogen, while **plasma cells produce immunoglobulins**; some complement and other circulating proteins also have extrahepatic sources.
 
 The composition of plasma is summarized in the following table:
 
@@ -389,7 +389,7 @@ A working definition is worth memorizing: innate immunity is present from birth 
 **T cells cannot see free antigen.** They recognize peptide displayed on **MHC** molecules:
 
 - **MHC class I** — on the surface of **all nucleated cells**, bearing fragments of that cell's own proteins (and viral proteins if infected); recognized by **CD8⁺ cytotoxic T cells**.
-- **MHC class II** — only on **antigen-presenting cells (APCs)**, mostly derived from monocytes; presents fragments of **endocytosed foreign** proteins to **CD4⁺ helper T cells**. This is the defining difference: MHC I says "here is what I am making"; MHC II says "here is what I have eaten".
+- **MHC class II** — expressed chiefly by **professional antigen-presenting cells** (dendritic cells, macrophages, B lymphocytes) and also by specialized cells such as thymic epithelial cells; expression can be induced in other cells during inflammation. It commonly presents peptides from extracellular proteins processed in endosomal compartments, including **self as well as foreign antigens**, to **CD4⁺ T cells**. The distinction from MHC I is useful but not absolute, because cross-presentation and other processing routes exist.
 
 This pairing — **CD4/MHC II, CD8/MHC I** — is the one to know cold.
 
@@ -445,7 +445,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 - **White pulp** — lymphocytes around a central arteriole: the **periarteriolar lymphoid sheath (PALS)** is the T-cell zone; follicles at its periphery are the B-cell zone.
 - **Red pulp** — **cords of Billroth** and **sinusoids** whose elongated endothelial **stave cells** are separated by narrow slits.
 - **Two routes through the red pulp.** In the **closed circulation**, capillaries from the penicillar arterioles connect directly to sinusoids. In the **open circulation** (about half of the penicillar arterioles), capillaries are open-ended and dump blood into the splenic cords, so plasma and cells must squeeze between stave cells to re-enter the vasculature. Platelets, motile leukocytes, and thin flexible erythrocytes pass; **stiff or swollen erythrocytes at the end of their 120-day life are blocked and removed by macrophages**.
-- **Iron recycling.** Iron released from **hemoglobin** during erythrocyte degradation is stored by macrophages in **ferritin**, released bound to **transferrin**, and reused for erythropoiesis. Heme is carried by **hemopexin** and degraded to **bilirubin**, which is excreted in bile.
+- **Iron recycling.** Splenic and hepatic macrophages break down senescent erythrocyte hemoglobin. Heme oxygenase releases iron for storage in ferritin or export through ferroportin; circulating iron binds transferrin for reuse in erythropoiesis. The heme ring is catabolized to biliverdin and then bilirubin for hepatic processing and biliary excretion. **Hemopexin binds free heme in plasma** to limit heme toxicity; it is not the carrier required for every intracellular heme-degradation reaction.
 - **Functions:** blood filtration, removal of old erythrocytes, immune response to blood-borne antigen, and **extramedullary hemopoiesis** in fetal life and marrow failure.
 
 | Organ | Capsule | Afferent lymphatics | Follicles | Unique feature |
@@ -467,7 +467,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 
 - Innate immunity = present at birth, granulocytes and soluble proteins; adaptive = antigen presentation to lymphocytes.
 - MHC I is on **all nucleated cells** and presents endogenous peptide to **CD8⁺** cells.
-- MHC II is on **APCs** (mostly monocyte-derived) and presents endocytosed peptide to **CD4⁺** cells.
+- MHC II is expressed mainly on **dendritic cells, macrophages and B cells**, with additional specialized or inducible expression; it presents processed peptides to **CD4⁺** T cells.
 - BCR = surface **IgM or IgD**; TCR is usually **αβ** with a CD co-receptor.
 - T cells: CD4 helper, CD8 cytotoxic, CD4⁺CD25⁺ regulatory, γδ in epithelia.
 - B cells make antibodies (humoral); T cells mediate cell-mediated immunity.
@@ -485,7 +485,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 ### Active recall
 
 1. **Which MHC class is on all nucleated cells, and which T cell reads it?** — MHC I; CD8⁺ cytotoxic T cells.
-2. **Which cells present on MHC II?** — Antigen-presenting cells, mostly monocyte-derived: dendritic cells, macrophages, B cells.
+2. **Which cells typically present peptides on MHC II?** — Professional antigen-presenting cells: dendritic cells, macrophages, and B cells; thymic epithelial cells also present peptides during T-cell selection.
 3. **Where do T cells undergo positive and negative selection?** — Positive selection in the cortex; negative selection in the medulla.
 4. **What is the difference between the thymus and the spleen in one line?** — The thymus makes and selects T cells and has no follicles; the spleen filters blood and has no afferent lymphatics.
 5. **What does an FDC do?** — Follicular dendritic cells display antigen–antibody complexes to B cells and drive germinal-center formation.
