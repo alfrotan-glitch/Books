@@ -340,6 +340,16 @@ A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
 
 Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Nissl bodies; find its dendrites and its single axon hillock. Distinguish astrocytes (star-shaped), oligodendrocytes (small, round, myelinating in the CNS), microglia (small, elongated, perivascular), ependymal cells (ciliated, lining ventricles), and, in peripheral nerve, Schwann cells and satellite cells. In a nerve trunk, find the myelin sheath, node of Ranvier, endoneurium, perineurium and epineurium.
 
+**Three-specimen localization exercise.** An unlabeled slide has large, round neuronal somata, each surrounded by a nearly continuous ring of small satellite-cell nuclei. This favors a **sensory (dorsal-root) ganglion**, not a peripheral nerve trunk. A second section has parallel bundles of nerve fibers enclosed by a distinct perineurium, but no large neuronal somata: this favors a **peripheral nerve**. A third section contains ependymal lining along a fluid-filled cavity, surrounded by nervous tissue: look for the **ventricular or central-canal region** rather than a ganglion.
+
+| Evidence | Strongest interpretation | Important limitation |
+|---|---|---|
+| Neuronal somata with close satellite-cell rings | Sensory ganglion | Orientation and neuronal size vary |
+| Fascicles, endoneurium and perineurium, no ganglion somata | Peripheral nerve | Nodes of Ranvier may not be visible in routine H&E |
+| White matter rich in myelinated fibers and glial nuclei | CNS tract | Specific glial classes may require special stains |
+
+**Do not over-identify.** Small, dark glial nuclei in H&E usually cannot be assigned confidently to a particular glial class on nuclear appearance alone; cell-specific immunostains or ultrastructural evidence may be necessary.
+
 ## 10 · Muscle Tissue
 
 **In this chapter:** Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
