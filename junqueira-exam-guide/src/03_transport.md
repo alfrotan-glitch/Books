@@ -251,7 +251,7 @@ In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, 
 
 ### Stem Cells, Growth Factors, & Differentiation
 
-The **hematopoietic stem cell** is CD34⁺, self-renewing, and pluripotent, sitting in a **niche** of stromal cells, other cells, and ECM. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, listed here by name:
+The **hematopoietic stem cell (HSC)** is **multipotent**, not pluripotent: it self-renews and can give rise to the major blood-cell lineages. Human HSC-enriched populations commonly express **CD34**, but CD34 alone does not uniquely identify a functional stem cell. HSC behavior is regulated by a bone-marrow **niche** involving stromal cells, vascular cells, and extracellular matrix. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, listed here by name:
 
 | Factor | Target |
 |---|---|
@@ -402,7 +402,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 1. Lymphocytes are packed in a meshwork of **reticulin** made by **fibroblastic reticular cells**; most APCs among them are **dendritic cells** with many processes.
 2. In a secondary organ, **follicular dendritic cells (FDCs)** display antigen–antibody complexes on their large surface. A B cell whose BCR binds that antigen is held there.
 3. With cytokines from helper T cells, that B cell **proliferates clonally**, producing a large transient nodule with a pale **germinal center**.
-4. The cells disperse as **plasma cells, various T cells, and B and T memory cells** — which is why the same nodule can look "active" (large germinal center) or "resting" (dense primary follicle).
+4. Selected B cells can exit as **antibody-secreting plasma cells** or **memory B cells**. T follicular helper cells support the germinal-center reaction; the germinal center is **not a production site for memory T cells**. An active secondary follicle has a pale germinal center, whereas a resting primary follicle lacks one.
 
 ### Thymus
 
