@@ -314,7 +314,7 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 - Nissl bodies are rough ER plus polysomes; their position marks the soma and proximal dendrites.
 - Oligodendrocytes myelinate the CNS (several axons each); Schwann cells myelinate the PNS (one segment each).
 - Astrocytes form end-feet, contribute to the blood–brain barrier, and scar the CNS.
-- Microglia are the resident macrophages, derived from monocytes.
+- **Microglia** are the resident CNS macrophages. Under usual physiological conditions they arise mainly from **embryonic yolk-sac myeloid progenitors**, colonize the developing CNS, and largely maintain themselves by local self-renewal; they are not simply replenished from circulating adult monocytes.
 - Ependymal cells line the ventricles and produce cerebrospinal fluid.
 - Myelin allows saltatory conduction between nodes of Ranvier.
 - The blood–brain barrier is sealed by tight junctions between capillary endothelial cells.
@@ -323,7 +323,7 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 ### Active recall
 
 1. **Which glial cell myelinates the CNS, and which myelinates the PNS?** — Oligodendrocyte (CNS, several axons); Schwann cell (PNS, one segment of one axon).
-2. **Which glial cell is the macrophage of the CNS?** — Microglia, derived from monocytes.
+2. **Which CNS glia act as resident macrophages, and where do they originate?** — Microglia; mainly from embryonic yolk-sac myeloid precursors rather than the adult circulating monocyte pool.
 3. **What forms the blood–brain barrier?** — Tight junctions between capillary endothelial cells, reinforced by astrocyte end-feet and pericytes.
 4. **How is a signal carried along an axon?** — An action potential; myelin allows saltatory conduction between nodes of Ranvier.
 5. **Why does CNS injury scar rather than regenerate?** — Oligodendrocytes and myelin inhibit axon growth, astrocytes form a glial scar, and there is no permissive sheath like the PNS bands of Büngner.
@@ -418,7 +418,7 @@ Muscle tissue consists of cells that optimize the universal cell property of **c
 
 ### Regeneration of Muscle Tissue
 
-Skeletal muscle regenerates weakly, from **satellite cells**, and only if the basal lamina survives; otherwise the defect fills with fibrous tissue. **Cardiac muscle does not regenerate** — infarcted myocardium is replaced by scar. **Smooth muscle** can both hypertrophy and, in the uterus, proliferate.
+Skeletal muscle can regenerate to a limited extent from **satellite cells**; preserved basal-lamina and extracellular-matrix scaffolds favor aligned repair, whereas extensive destruction promotes fibrosis. **Cardiac muscle does not regenerate** — infarcted myocardium is replaced by scar. **Smooth muscle** can both hypertrophy and, in the uterus, proliferate.
 
 | Feature | Skeletal | Cardiac | Smooth |
 |---|---|---|---|
@@ -449,7 +449,7 @@ Skeletal muscle regenerates weakly, from **satellite cells**, and only if the ba
 - Ca²⁺ binds **troponin C** in striated muscle and **calmodulin** in smooth muscle.
 - Smooth muscle contraction uses **myosin light-chain kinase**; it has no troponin.
 - Intercalated discs contain **fasciae adherentes, desmosomes, and gap junctions** — not tight junctions.
-- Skeletal muscle regenerates from **satellite cells**, and only if the basal lamina survives.
+- Skeletal muscle regeneration depends on **satellite cells** and is more effective when extracellular-matrix scaffolds are preserved.
 - Cardiac muscle does not regenerate; infarction heals by scar.
 - Type I fibers = slow, oxidative, fatigue-resistant. Type II = fast, glycolytic.
 - Duchenne dystrophy = **dystrophin** defect; myasthenia gravis = antibody to the nicotinic receptor.
