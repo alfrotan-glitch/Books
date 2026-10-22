@@ -45,6 +45,14 @@ doc = Document(EXPECTED[".docx"])
 assert len(doc.paragraphs) >= 100, "DOCX appears incomplete"
 assert len(doc.tables) >= 10, "DOCX tables missing"
 assert len(doc.inline_shapes) >= 9, f"DOCX atlas incomplete: {len(doc.inline_shapes)} inline images"
+assert any(p.paragraph_format.page_break_before for p in doc.paragraphs
+           if p.style.name == "Heading 1" and p.text.startswith("PART VII")), (
+    "DOCX Part VII must open on a new page"
+)
+mcq_options = [p.text for p in doc.paragraphs if "Nuclei and rough endoplasmic reticulum" in p.text]
+assert mcq_options and ("\nB." in mcq_options[0]), (
+    "DOCX multiple-choice options ran together instead of separate lines"
+)
 print(f"DOCX PASS: {len(doc.paragraphs)} paragraphs, {len(doc.tables)} tables")
 
 html = EXPECTED[".html"].read_text(encoding="utf-8")
