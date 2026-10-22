@@ -86,11 +86,13 @@ def combined():
 
 
 def main():
+    from tools.generate_atlas import generate
+    generate()
     md = combined()
 
     docx = os.path.join(HERE, "Basic_Histology_Learning_Text.docx")
     pypandoc.convert_file(md, "docx", outputfile=docx, extra_args=[
-        "--toc", "--toc-depth=2", "--resource-path=" + SRC,
+        "--toc", "--toc-depth=2", "--resource-path=" + os.pathsep.join((HERE, SRC, BUILD)),
     ])
     print("DOCX written:", docx)
 
@@ -101,7 +103,8 @@ def main():
     html = os.path.join(HERE, "Basic_Histology_Learning_Text.html")
     pypandoc.convert_file(md, "html5", outputfile=html, extra_args=[
         "--standalone", "--toc", "--toc-depth=2", "--embed-resources",
-        "--css=" + css_path, "--metadata", "pagetitle=Basic Histology: A Learning Text",
+        "--css=" + css_path, "--resource-path=" + os.pathsep.join((HERE, SRC, BUILD)),
+        "--metadata", "pagetitle=Basic Histology: A Learning Text",
     ])
     print("HTML written:", html)
 
