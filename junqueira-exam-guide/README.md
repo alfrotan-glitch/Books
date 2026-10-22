@@ -8,7 +8,7 @@ The prose and nine generated schematic plates are newly authored for this projec
 
 **Use the latest successful [Build and validate histology book workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml).** The workflow now rebuilds and synchronizes the tracked PDF, DOCX, EPUB, HTML, CSV study decks and publication manifest on `main` after a passing run. The GitHub Actions artifact also bundles those files and the nine original schematic plates. The manifest records SHA-256 hashes and source commit.
 
-The latest fully confirmed illustrated build before responsive-HTML changes was **156 PDF pages, 45 PDF bookmarks, 2,193 DOCX paragraphs, 83 DOCX tables, 9 original schematic plates, 607 validated flashcards, and 100 synchronized MCQs**; W3C EPUBCheck v5.4.0 reported no errors or warnings. For the newest build and hashes consult the most recent successful workflow and publication manifest.
+The most recently validated book build ([run 39844077558](https://github.com/alfrotan-glitch/Books/actions/runs/39844077558)) produced **157 PDF pages, 45 PDF bookmarks, 2,195 DOCX paragraphs, 83 tables, 9 original schematic plates, 607 flashcards and 100 synchronized MCQs**. W3C EPUBCheck 5.4.0 reported zero errors and warnings; scientific regression checks and independently rechecked per-format SHA-256 hashes passed. The latest bundle and manifest are available from the linked run.
 
 **Status: editorial candidate, not independently medically certified or fully print-proofed.** An automated green build does not replace an end-to-end specialist review, clearance of any third-party content, physical printing/visual inspection, or e-reader/Word/browser acceptance. See [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md).
 
@@ -16,7 +16,7 @@ The latest fully confirmed illustrated build before responsive-HTML changes was 
 
 | File | Purpose |
 |---|---|
-| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **illustrated CI baseline: 156 pages** (print proof still required) |
+| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **latest verified CI: 157 pages** (print proof still required) |
 | `Basic_Histology_Learning_Text.docx` | Editable Word version (same content, Word styles) |
 | `Basic_Histology_Learning_Text.html` | Phone/tablet reading copy, self-contained, no internet needed |
 | `Basic_Histology_Learning_Text.epub` | EPUB 3, reflowable, navigable, for e-readers and phones |
@@ -28,6 +28,7 @@ The latest fully confirmed illustrated build before responsive-HTML changes was 
 | `tools/release_smoke_test.py` | Automated PDF, DOCX, EPUB, HTML structural and geometry checks |
 | `tools/generate_atlas.py` | Generates nine original labeled histology schematic diagrams |
 | `tools/validate_study_materials.py` | Validates CSV decks against the 100 canonical manuscript questions |
+| `tools/validate_scientific_corrections.py` | Rejects regressions of verified high-impact scientific corrections |
 | `tools/write_release_manifest.py` | Creates per-format SHA-256 release manifest |
 | `RELEASE_VERIFICATION.md` | Explicit, evidence-based final-publication acceptance criteria |
 | `COVERAGE.md` | Source ledger: what was read, what was checked, known discrepancies |
@@ -46,6 +47,7 @@ python3 tools/release_smoke_test.py   # Four-format smoke tests
 python3 tools/make_study_decks.py     # Regenerate flashcards and MCQs
 python3 tools/make_question_bank.py   # Regenerate canonical MCQ CSV
 python3 tools/validate_study_materials.py   # Check alignment
+python3 tools/validate_scientific_corrections.py  # Scientific regression guard
 python3 tools/write_release_manifest.py   # SHA-256 provenance file
 ```
 
@@ -62,7 +64,7 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 ## Notes
 
 - **Terminology** follows American spelling (`hematoxylin`, `esophagus`, `fiber`, `organized`), the convention of the histological literature.
-- **No facts are invented and no past-paper claims are made.** The 100 questions were written for this book in the style of a standard histology examination; they are not past examination questions, and no topic-frequency statistics are claimed.
+- **The 100 original questions are not advertised as historical examination questions.** Specific inaccuracies were corrected and automated regressions added, but comprehensive scientific peer review remains outstanding. No topic-frequency statistics or guaranteed exam outcomes are claimed.
 - **Disagreements between standard accounts are stated, not hidden.** Where authorities differ on a count or a range, the text gives both or says which one it is using. `COVERAGE.md` records the discrepancies found while checking.
 - **Original schematic atlas included:** nine labeled teaching plates; no third-party photomicrographs are reproduced. A real microscope or licensed virtual slide collection remains essential.
 - **This is a teaching text, not a clinical manual.** It does not replace laboratory teaching or supervised clinical training.
