@@ -1,6 +1,6 @@
 # Basic Histology: A Learning Text
 
-A self-contained, **editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book carries no images: it describes what to look for on a slide, how to tell one structure from its neighbour, and how each structure serves function.
+A self-contained, **editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book includes nine **original schematic histology plates** (not copied microscopy photographs), alongside descriptive slide-identification methods and structure–function explanations.
 
 The text is original. No images, plates, captions or extended passages from another publication are reproduced, and no page ranges, figure numbers or review questions point the reader to another book.
 
@@ -26,6 +26,8 @@ The latest fully observed structural build before this README update was 149 PDF
 | `build_epub.py` | Markdown → EPUB 3 (pandoc + generated cover) |
 | `tools/validate_epub.py` | Additional internal EPUB structural checks |
 | `tools/release_smoke_test.py` | Automated PDF, DOCX, EPUB, HTML structural and geometry checks |
+| `tools/generate_atlas.py` | Generates nine original labeled histology schematic diagrams |
+| `tools/validate_study_materials.py` | Validates CSV decks against the 100 canonical manuscript questions |
 | `tools/write_release_manifest.py` | Creates per-format SHA-256 release manifest |
 | `RELEASE_VERIFICATION.md` | Explicit, evidence-based final-publication acceptance criteria |
 | `COVERAGE.md` | Source ledger: what was read, what was checked, known discrepancies |
@@ -35,6 +37,7 @@ The latest fully observed structural build before this README update was 149 PDF
 
 ```bash
 python -m pip install reportlab pypandoc_binary python-docx pymupdf
+python3 tools/generate_atlas.py  # Build nine original schematic plates
 python3 build.py         # PDF
 python3 build_docs.py    # DOCX + HTML
 python3 build_epub.py    # EPUB 3
@@ -58,6 +61,6 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 - **Terminology** follows American spelling (`hematoxylin`, `esophagus`, `fiber`, `organized`), the convention of the histological literature.
 - **No facts are invented and no past-paper claims are made.** The 100 questions were written for this book in the style of a standard histology examination; they are not past examination questions, and no topic-frequency statistics are claimed.
 - **Disagreements between standard accounts are stated, not hidden.** Where authorities differ on a count or a range, the text gives both or says which one it is using. `COVERAGE.md` records the discrepancies found while checking.
-- **No histological images are reproduced.** Descriptions replace pictures; the reader is expected to take them to a microscope or a slide collection.
+- **Original schematic atlas included:** nine labeled teaching plates; no third-party photomicrographs are reproduced. A real microscope or licensed virtual slide collection remains essential.
 - **This is a teaching text, not a clinical manual.** It does not replace laboratory teaching or supervised clinical training.
-- Ancillary study files in `deliverables/` (flashcards, question-bank CSV) are not part of the book and are not maintained as part of it.
+- Study files in `deliverables/` (flashcards and the 100-question bank) are automatically regenerated from the manuscript and checked for synchronization during the publication workflow.
