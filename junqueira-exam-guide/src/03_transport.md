@@ -221,6 +221,17 @@ A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
 
 On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), platelets (small purple fragments) and each leukocyte: neutrophil (segmented nucleus, fine granules), eosinophil (bilobed, orange-red granules), basophil (dark granules obscuring the nucleus), lymphocyte (round dense nucleus, thin cytoplasm) and monocyte (kidney-shaped nucleus, abundant blue-gray cytoplasm). Perform a differential count and explain what each cell does.
 
+**Slide identification drill.** First scan a well-stained monolayer in which erythrocytes are close together without excessive overlap. Choose 100 leukocytes across representative fields, classify each by **nuclear shape, cytoplasmic proportion and granule appearance**, and record your uncertainty rather than assigning a cell by color alone.
+
+| Unknown field | Observation | Reasoned identification |
+|---|---|---|
+| A | A bilobed nucleus with abundant conspicuous orange-red granules | **Eosinophil** |
+| B | Dense deep-purple cytoplasmic granules that partly hide the nucleus | **Basophil** |
+| C | A large cell with folded or kidney-shaped nucleus and blue-gray cytoplasm | **Monocyte** |
+| D | Multiple separated nuclear lobes, pale cytoplasm and fine granules | **Neutrophil** |
+
+**Quality-control question.** A dark purple speck beside an erythrocyte might be a platelet, stain precipitate or an artifact. Check size, sharpness, field repetition and nearby intact cells before reporting a platelet count. The exercise trains recognition; clinical interpretation requires a validated differential and appropriate laboratory context.
+
 ## 13 · Hemopoiesis
 
 **In this chapter:** Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
