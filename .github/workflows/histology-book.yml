@@ -1,5 +1,9 @@
 name: Build and validate histology book
 
+concurrency:
+  group: histology-publication-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push:
     branches:
@@ -11,6 +15,10 @@ on:
       - 'junqueira-exam-guide/tools/validate_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - 'junqueira-exam-guide/tools/write_release_manifest.py'
+      - 'junqueira-exam-guide/tools/make_study_decks.py'
+      - 'junqueira-exam-guide/tools/make_question_bank.py'
+      - 'junqueira-exam-guide/tools/validate_study_materials.py'
+      - 'junqueira-exam-guide/data/extra_cards.tsv'
       - '.github/workflows/histology-book.yml'
   pull_request:
     branches:
@@ -25,7 +33,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -41,6 +49,11 @@ jobs:
           python-version: '3.11'
       - name: Install build dependencies
         run: python -m pip install reportlab pypandoc_binary python-docx pypdfium2 pymupdf
+      - name: Regenerate study materials from the canonical manuscript
+        run: |
+          python tools/make_study_decks.py
+          python tools/make_question_bank.py
+          python tools/validate_study_materials.py
       - name: Rebuild publication files
         run: |
           python build.py
@@ -84,4 +97,20 @@ jobs:
             junqueira-exam-guide/Basic_Histology_Learning_Text.epub
             junqueira-exam-guide/Basic_Histology_Learning_Text.html
             junqueira-exam-guide/publication-manifest.json
+            junqueira-exam-guide/deliverables/junqueira_flashcards.csv
+            junqueira-exam-guide/deliverables/junqueira_question_bank.csv
           if-no-files-found: error
+
+      - name: Synchronize latest build outputs on main
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f -- Basic_Histology_Learning_Text.pdf Basic_Histology_Learning_Text.docx Basic_Histology_Learning_Text.epub Basic_Histology_Learning_Text.html publication-manifest.json deliverables/junqueira_flashcards.csv deliverables/junqueira_question_bank.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync generated histology publication and study assets [skip ci]"
+            git push origin HEAD:main
+          else
+            echo "Tracked publication outputs already match this source revision."
+          fi
