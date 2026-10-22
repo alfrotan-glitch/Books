@@ -407,6 +407,6 @@ This book is a synthesis of standard histology, and its facts belong to the comm
 
 **How the content was checked.** Numerical values, structural descriptions and named cell types were compared with the principal reference; where standard accounts give different ranges or counts, the text gives the range or says which value is being used. Mechanisms and clinical correlations were reasoned through for consistency with standard physiology and pathology rather than checked against a second text. No claim is made that every sentence was individually verified, and no reference is cited for a statement it does not contain.
 
-**Limits.** This book contains no histological images. The descriptions tell you what to look for, but recognition is learned at a microscope, and a description cannot certify what is on your particular slide. Clinical notes are for orientation and are not medical advice.
+**Limits.** The original schematic plates in Appendix D are not histological photographs and cannot certify what appears in a particular specimen. Recognizing real tissue requires laboratory or virtual microscopy. Clinical notes are for orientation and are not medical advice.
 
-**Rights.** No images, plates, captions or extended passages from another publication are reproduced. This appendix records the works consulted; it is not a statement of permission or legal clearance.
+**Rights.** No third-party images, plates, captions or extended passages from another publication are reproduced. Appendix D contains newly drawn educational diagrams. This bibliography does not constitute legal clearance.
