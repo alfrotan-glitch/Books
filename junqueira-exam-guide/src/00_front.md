@@ -6,13 +6,13 @@ This is a complete course in histology: the microscopic structure of cells, tiss
 
 The book is organized in seven parts. Parts I to V teach the subject in the order in which it is best learned: the cell and the techniques that make it visible; the four basic tissues; blood, circulation and defense; digestion and respiration; and finally excretion, reproduction and the special senses. Part VI condenses the whole subject into comparison tables and a rapid-review chapter. Part VII is a hundred-question examination with explained answers.
 
-**What this book does not contain is pictures.** Histology is a visual subject, and no set of printed words can replace a microscope. What this book gives you instead is a precise description of what to look for and how to tell one structure from its neighbors — the organization of a tissue, the shape and position of its cells, the staining of its matrix, the arrangement of its layers, ducts, follicles and vessels. Those descriptions are written to work with any slide collection, any virtual-microscopy set and any microscope you have access to. Read a chapter, then go and find the structures it describes. The seeing is yours; the book teaches you what to see.
+**How to use the images.** Histology is a visual subject. Appendix D provides nine **original schematic teaching plates** to show relationships among tissue structures. These are not photomicrographs, are not drawn to scale, and do not replace authentic stained sections or laboratory instruction. The chapter descriptions identify the cellular features, tissue boundaries, layers, ducts and follicles to look for in real slides. Read a chapter, compare its schematic where relevant, then test the identification on actual microscopy material.
 
 **A note on numbers.** Values are typical adult human values unless stated otherwise. Ranges differ with method, fixation, species and observer, and even well-established figures vary a little between references. Where authorities differ, this book gives the range or says which value is being used. Percentages are approximate. No number in this book should be treated as a diagnostic threshold; clinical decisions require clinical sources.
 
 **Clinical material.** The clinical notes show why histological structure matters. They are written for orientation and are not advice about diagnosis or treatment.
 
-**Scope and limits.** This is an independent educational work. It is not a substitute for laboratory teaching, for a course in medicine, or for supervised clinical training. It reproduces no histological images, because the images in published atlases belong to their makers; where a structure is best learned from a picture, the text tells you exactly what the picture should show.
+**Scope and limits.** This is an independent educational work. It is not a substitute for laboratory teaching, for a course in medicine, or for supervised clinical training. No third-party micrographs or textbook plates are reproduced. The original schematics in Appendix D explain patterns but are not evidence of actual slide morphology.
 
 ## How this book is organized
 
