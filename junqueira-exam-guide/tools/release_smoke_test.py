@@ -16,6 +16,9 @@ for ext, path in EXPECTED.items():
     assert path.is_file() and path.stat().st_size > 1000, f"Missing or empty {ext}: {path}"
 
 pdf = pymupdf.open(EXPECTED[".pdf"])
+assert (pdf.metadata.get("title") or "").strip() == "Basic Histology: A Learning Text", (
+    "PDF must include title metadata for library catalogs and accessibility"
+)
 assert len(pdf) >= 50, f"Unexpectedly short PDF: {len(pdf)} pages"
 page_text = [p.get_text() for p in pdf]
 assert all(len(t.strip()) >= 35 for t in page_text), "Blank or nearly blank PDF page detected"
