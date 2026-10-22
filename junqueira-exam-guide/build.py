@@ -108,9 +108,9 @@ STY = {
     "quote":      S("quote", fontName="Body", fontSize=9.3, leading=13.2,
                     alignment=TA_LEFT, leftIndent=9, rightIndent=9,
                     spaceBefore=8, spaceAfter=8),
-    "toc0":       S("toc0", fontName="Head", fontSize=9.0, leading=10.6,
-                    textColor=INK, alignment=TA_LEFT, spaceBefore=2.2),
-    "toc1":       S("toc1", fontName="Head-Reg", fontSize=8.3, leading=8.9,
+    "toc0":       S("toc0", fontName="Head", fontSize=8.5, leading=9.1,
+                    textColor=INK, alignment=TA_LEFT, spaceBefore=1.1),
+    "toc1":       S("toc1", fontName="Head-Reg", fontSize=7.8, leading=7.9,
                     textColor=MUTED, leftIndent=12, alignment=TA_LEFT),
     "cell":       S("cell", fontName="Head-Reg", fontSize=7.9, leading=10.1,
                     alignment=TA_LEFT, spaceAfter=0),
@@ -538,11 +538,11 @@ def build_story(blocks):
                 opts = re.split(r"\s+(?=[A-D]\.\s)", txt)
                 if len(opts) == 5:                      # a multiple-choice question
                     story.append(Paragraph(inline(opts[0]),
-                                           S("q", spaceBefore=7, spaceAfter=2,
+                                           S("q", spaceBefore=4, spaceAfter=1.5,
                                              alignment=TA_LEFT)))
                     lines = "<br/>".join(inline(o) for o in opts[1:])
-                    story.append(Paragraph(lines, S("opts", fontSize=9.2, leading=13.2,
-                                                    leftIndent=16, spaceAfter=6,
+                    story.append(Paragraph(lines, S("opts", fontSize=9.2, leading=12.7,
+                                                    leftIndent=16, spaceAfter=3,
                                                     alignment=TA_LEFT)))
                 else:                                   # an answer key entry
                     story.append(Paragraph(inline(txt), S("a", spaceBefore=4.2,
