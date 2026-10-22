@@ -1,14 +1,14 @@
 # Basic Histology: A Learning Text
 
-A self-contained, **editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book includes nine **original schematic histology plates** (not copied microscopy photographs), alongside descriptive slide-identification methods and structure–function explanations.
+A self-contained, **technically validated editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book includes nine **original schematic histology plates** (not copied microscopy photographs), alongside descriptive slide-identification methods and structure–function explanations.
 
-The text is original. No images, plates, captions or extended passages from another publication are reproduced, and no page ranges, figure numbers or review questions point the reader to another book.
+The prose and nine generated schematic plates are newly authored for this project. No third-party textbook images, plates, captions or extended passages have intentionally been reproduced, and no page ranges or questions require the reader to consult another textbook. Independent legal clearance has not been performed.
 
 ## Latest build and publication status
 
-**Use the files attached to the most recent successful [Build and validate histology book workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml).** GitHub's tracked `Basic_Histology_Learning_Text.*` files may predate subsequent manuscript edits; a workflow artifact is tied to its source commit. The artifact bundles all four formats and `publication-manifest.json` with their SHA-256 hashes.
+**Use the latest successful [Build and validate histology book workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml).** The workflow now rebuilds and synchronizes the tracked PDF, DOCX, EPUB, HTML, CSV study decks and publication manifest on `main` after a passing run. The GitHub Actions artifact also bundles those files and the nine original schematic plates. The manifest records SHA-256 hashes and source commit.
 
-The latest fully observed structural build before this README update was 149 PDF pages, 44 PDF bookmarks, 2,139 DOCX paragraphs, 79 DOCX tables, and EPUBCheck v5.4.0 with zero errors or warnings. Check the new workflow run for later revisions.
+The latest fully confirmed illustrated build before responsive-HTML changes was **156 PDF pages, 45 PDF bookmarks, 2,193 DOCX paragraphs, 83 DOCX tables, 9 original schematic plates, 607 validated flashcards, and 100 synchronized MCQs**; W3C EPUBCheck v5.4.0 reported no errors or warnings. For the newest build and hashes consult the most recent successful workflow and publication manifest.
 
 **Status: editorial candidate, not independently medically certified or fully print-proofed.** An automated green build does not replace an end-to-end specialist review, clearance of any third-party content, physical printing/visual inspection, or e-reader/Word/browser acceptance. See [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md).
 
@@ -16,7 +16,7 @@ The latest fully observed structural build before this README update was 149 PDF
 
 | File | Purpose |
 |---|---|
-| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **latest CI build: 149 pages** (print proof still required) |
+| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **illustrated CI baseline: 156 pages** (print proof still required) |
 | `Basic_Histology_Learning_Text.docx` | Editable Word version (same content, Word styles) |
 | `Basic_Histology_Learning_Text.html` | Phone/tablet reading copy, self-contained, no internet needed |
 | `Basic_Histology_Learning_Text.epub` | EPUB 3, reflowable, navigable, for e-readers and phones |
@@ -43,6 +43,9 @@ python3 build_docs.py    # DOCX + HTML
 python3 build_epub.py    # EPUB 3
 python3 tools/validate_epub.py   # EPUB structural checks
 python3 tools/release_smoke_test.py   # Four-format smoke tests
+python3 tools/make_study_decks.py     # Regenerate flashcards and MCQs
+python3 tools/make_question_bank.py   # Regenerate canonical MCQ CSV
+python3 tools/validate_study_materials.py   # Check alignment
 python3 tools/write_release_manifest.py   # SHA-256 provenance file
 ```
 
@@ -53,7 +56,7 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 - **Before you begin** — how the book works, how to study (six-week, ten-day and 48-hour plans), the Twelve Laws of Histology, exam technique, a chapter guide, and a note on sources.
 - **Chapters 1–23** — each has learning objectives, a core idea, the explanation in sections, structure–function reasoning, comparison tables, clinical correlates, common misconceptions, a summary, active-recall questions, one exam-style question with a worked answer, and a practical identification task.
 - **Chapter 24** — the last-24-hours rapid review: a concept map of the subject, the organ-identification algorithm, ten master tables, 100 one-line facts and 25 distinctions that decide marks.
-- **Appendices** — A: stains and what they prove, with the chemistry behind each; B: the vocabulary examiners expect; C: sources and further reading, with an honest account of how the text was checked and what that checking does not cover.
+- **Appendices** — A: stains and their chemistry; B: histology vocabulary; C: sources and scope of verification; D: nine newly illustrated histology pattern plates, explicitly labeled as schematics rather than micrographs.
 - **Part VII** — 100 examination questions with explained answers and a scoring guide.
 
 ## Notes
