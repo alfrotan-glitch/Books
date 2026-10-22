@@ -318,7 +318,7 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 - Ependymal cells line the ventricles and produce cerebrospinal fluid.
 - Myelin allows saltatory conduction between nodes of Ranvier.
 - The blood–brain barrier is sealed by tight junctions between capillary endothelial cells.
-- PNS axons regenerate through bands of Büngner; CNS axons do not regenerate.
+- Peripheral axons can regrow along Schwann-cell **bands of Büngner** under favorable conditions; regeneration after adult CNS axonal injury is markedly restricted.
 
 ### Active recall
 
@@ -418,7 +418,7 @@ Muscle tissue consists of cells that optimize the universal cell property of **c
 
 ### Regeneration of Muscle Tissue
 
-Skeletal muscle can regenerate to a limited extent from **satellite cells**; preserved basal-lamina and extracellular-matrix scaffolds favor aligned repair, whereas extensive destruction promotes fibrosis. **Cardiac muscle does not regenerate** — infarcted myocardium is replaced by scar. **Smooth muscle** can both hypertrophy and, in the uterus, proliferate.
+Skeletal muscle can regenerate to a limited extent from **satellite cells**; preserved basal-lamina and extracellular-matrix scaffolds favor aligned repair, whereas extensive destruction promotes fibrosis. **Adult cardiac muscle has very limited regenerative capacity**; substantial infarcts heal predominantly by replacement fibrosis rather than functional regeneration. **Smooth muscle** can both hypertrophy and, in the uterus, proliferate.
 
 | Feature | Skeletal | Cardiac | Smooth |
 |---|---|---|---|
