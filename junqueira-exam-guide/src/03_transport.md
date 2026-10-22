@@ -183,7 +183,7 @@ On clotting, some proteins are consumed and others are released from platelets, 
 
 > **CLINICAL** — The differential count is a diagnostic instrument. **Neutrophilia** suggests bacterial infection or steroid use; **eosinophilia** parasites or allergy; **lymphocytosis** viral infection or chronic lymphocytic leukemia; **pancytopenia** marrow failure. In **sickle cell disease** a single glutamic acid → valine substitution in β-globin allows deoxygenated HbS to polymerize; the cell sickles, occludes small vessels, and is removed by the spleen.
 
-> **MICRO** — Count lobes, not granules. **Neutrophil: 3–5 lobes. Eosinophil: exactly two, orange granules. Basophil: granules so dark the nucleus is hidden. Monocyte: kidney-shaped nucleus, largest cell. Lymphocyte: round dense nucleus, almost no cytoplasm.**
+> **MICRO** — Count lobes, not granules. **Neutrophil: commonly 3–5 lobes. Eosinophil: usually bilobed, with orange-red granules. Basophil: granules so dark the nucleus is hidden. Monocyte: kidney-shaped nucleus, largest cell. Lymphocyte: round dense nucleus, almost no cytoplasm.**
 
 > **MNEMONIC** — **"Never Let Monkeys Eat Bananas"** = **N**eutrophil, **L**ymphocyte, **M**onocyte, **E**osinophil, **B**asophil — in descending order of abundance.
 
@@ -388,7 +388,7 @@ A working definition is worth memorizing: innate immunity is present from birth 
 
 **T cells cannot see free antigen.** They recognize peptide displayed on **MHC** molecules:
 
-- **MHC class I** — on the surface of **all nucleated cells**, bearing fragments of that cell's own proteins (and viral proteins if infected); recognized by **CD8⁺ cytotoxic T cells**.
+- **MHC class I** — expressed on **most nucleated cells**, presenting intracellularly derived peptide fragments (including viral peptides in infected cells) to **CD8⁺ cytotoxic T cells**. Some specialized cells, such as certain placental trophoblast populations, have distinct MHC-I expression patterns.
 - **MHC class II** — expressed chiefly by **professional antigen-presenting cells** (dendritic cells, macrophages, B lymphocytes) and also by specialized cells such as thymic epithelial cells; expression can be induced in other cells during inflammation. It commonly presents peptides from extracellular proteins processed in endosomal compartments, including **self as well as foreign antigens**, to **CD4⁺ T cells**. The distinction from MHC I is useful but not absolute, because cross-presentation and other processing routes exist.
 
 This pairing — **CD4/MHC II, CD8/MHC I** — is the one to know cold.
@@ -466,7 +466,7 @@ This sequence explains every secondary lymphoid organ in the chapter:
 ### Chapter 14 — summary
 
 - Innate immunity = present at birth, granulocytes and soluble proteins; adaptive = antigen presentation to lymphocytes.
-- MHC I is on **all nucleated cells** and presents endogenous peptide to **CD8⁺** cells.
+- MHC I is on **most nucleated cells** and usually presents intracellular peptides to **CD8⁺** T cells.
 - MHC II is expressed mainly on **dendritic cells, macrophages and B cells**, with additional specialized or inducible expression; it presents processed peptides to **CD4⁺** T cells.
 - BCR = surface **IgM or IgD**; TCR is usually **αβ** with a CD co-receptor.
 - T cells: CD4 helper, CD8 cytotoxic, CD4⁺CD25⁺ regulatory, γδ in epithelia.
