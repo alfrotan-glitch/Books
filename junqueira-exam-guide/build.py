@@ -21,7 +21,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (
     BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, PageBreak,
-    Table, TableStyle, KeepTogether, NextPageTemplate, Flowable,
+    Table, TableStyle, KeepTogether, NextPageTemplate, Flowable, Image as RLImage,
 )
 from reportlab.platypus.tableofcontents import TableOfContents
 
@@ -181,6 +181,11 @@ def read_blocks():
         line = lines[i]
         s = line.strip()
         if not s:
+            i += 1
+            continue
+        image_match = re.fullmatch(r"!\[([^\]]+)\]\(([^)]+)\)", s)
+        if image_match:
+            blocks.append(("image", image_match.group(1), image_match.group(2)))
             i += 1
             continue
         if s.startswith("|") and i + 1 < n and is_sep(lines[i + 1]):
@@ -555,6 +560,20 @@ def build_story(blocks):
         elif kind == "rule":
             story.append(Rule(FRAME_W, 0.6, RULE, space=7))
 
+        elif kind == "image":
+            alt, rel_path = b[1], b[2]
+            path = os.path.normpath(os.path.join(HERE, rel_path))
+            if not os.path.isfile(path):
+                raise FileNotFoundError("Missing original schematic atlas plate: " + path)
+            illustration = RLImage(path)
+            ratio = min(FRAME_W / illustration.imageWidth, 320 / illustration.imageHeight)
+            illustration.drawWidth = illustration.imageWidth * ratio
+            illustration.drawHeight = illustration.imageHeight * ratio
+            illustration.hAlign = "CENTER"
+            story.append(Spacer(1, 6))
+            story.append(illustration)
+            story.append(Paragraph(inline(alt), STY["caption"]))
+
         elif kind == "table":
             story.append(Spacer(1, 3))
             story.append(make_table(b[1], b[2]))
@@ -589,6 +608,8 @@ def build_story(blocks):
 
 
 def build_pdf():
+    from tools.generate_atlas import generate
+    generate()
     blocks = group_blocks(read_blocks())
     doc = Book(OUT_PDF)
     toc = TableOfContents()
