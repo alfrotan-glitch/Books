@@ -105,27 +105,55 @@ jobs:
             junqueira-exam-guide/deliverables/junqueira_question_bank.csv
           if-no-files-found: error
 
-      - name: Synchronize latest build outputs on main
+      - name: Synchronize current-source outputs without binary rebase conflicts
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f -- Basic_Histology_Learning_Text.pdf Basic_Histology_Learning_Text.docx Basic_Histology_Learning_Text.epub Basic_Histology_Learning_Text.html publication-manifest.json deliverables/junqueira_flashcards.csv deliverables/junqueira_question_bank.csv
-          if ! git diff --cached --quiet; then
-            git commit -m "Sync generated histology publication and study assets [skip ci]"
-            for attempt in 1 2 3; do
-              git fetch origin main
-              git rebase origin/main
-              if git push origin HEAD:main; then
-                echo "Publication assets synchronized with main"
-                break
-              fi
-              if [ "$attempt" -eq 3 ]; then
-                echo "Publication sync failed after three attempts" >&2
-                exit 1
-              fi
+
+          files=(
+            Basic_Histology_Learning_Text.pdf
+            Basic_Histology_Learning_Text.docx
+            Basic_Histology_Learning_Text.epub
+            Basic_Histology_Learning_Text.html
+            publication-manifest.json
+            deliverables/junqueira_flashcards.csv
+            deliverables/junqueira_question_bank.csv
+          )
+          # Keep the validated build outside the checkout. Rebase of
+          # timestamp-bearing PDFs and EPUBs produces binary conflicts.
+          snapshot="$(mktemp -d)"
+          trap 'rm -rf "$snapshot"' EXIT
+          cp --parents "${files[@]}" "$snapshot"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            # A newer source edit must build its own outputs. Never publish
+            # an old CI artifact over a newer manuscript or build script.
+            if ! git diff --quiet "$GITHUB_SHA" origin/main -- \
+                 src build.py build_docs.py build_epub.py tools data/extra_cards.tsv; then
+              echo "Newer publication source detected; skip stale output sync."
+              exit 0
+            fi
+
+            git reset --hard origin/main
+            for file in "${files[@]}"; do
+              mkdir -p "$(dirname "$file")"
+              cp "$snapshot/$file" "$file"
             done
-          else
-            echo "Tracked publication outputs already match this source revision."
-          fi
+            git add -f -- "${files[@]}"
+            if git diff --cached --quiet; then
+              echo "Current publication assets already match this build."
+              exit 0
+            fi
+            git commit -m "Sync generated histology publication and study assets [skip ci]"
+            if git push origin HEAD:main; then
+              echo "Publication outputs synchronized successfully."
+              exit 0
+            fi
+            echo "Non-fast-forward push on attempt $attempt; retrying from remote main."
+          done
+          echo "Could not synchronize publication after three safe attempts." >&2
+          exit 1
