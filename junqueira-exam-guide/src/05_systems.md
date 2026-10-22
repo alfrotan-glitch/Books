@@ -562,6 +562,17 @@ A. Menstrual<br/>B. Proliferative<br/>C. Secretory<br/>D. Postmenopausal
 
 In the ovary, stage the cycle by the dominant follicle or corpus luteum; identify the oocyte, zona pellucida, granulosa, theca interna and externa, and the two lutein cell populations. In the uterus, date the endometrium by gland shape and stromal edema, and identify spiral arteries. In the cervix, find the transformation zone; in the mammary gland, distinguish resting, proliferative and lactating lobules.
 
+**Ovarian-slide staging drill.** A small cortical follicle with a single layer of **flattened follicular cells** is primordial. A growing follicle with a larger oocyte, a zona pellucida and **cuboidal granulosa cells** is primary. A conspicuous fluid-filled **antrum** identifies an antral follicle. After ovulation, a richly vascular folded mass of enlarged steroid-secreting cells identifies a **corpus luteum**.
+
+| Unlabeled sample | Best supporting observation | Most likely identity |
+|---|---|---|
+| Oocyte beneath one flattened-cell layer | No antrum, very small follicle | Primordial follicle |
+| Multiple granulosa layers with a forming fluid cavity | Antrum appears and theca differentiates | Antral (secondary) follicle |
+| Large eosinophilic lutein cells in vascular folds | No intact oocyte or follicular antrum | Corpus luteum |
+| Endometrial glands are tortuous with luminal secretion | Stromal edema and progesterone effect | Secretory endometrium |
+
+**Microscopy caution.** Small tissue fragments and oblique sections can omit the diagnostic region. A single gland or follicle must not be used as the only basis for assigning an entire organ's stage.
+
 ## 23 · The Eye & Ear: Special Sense Organs
 
 **In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
