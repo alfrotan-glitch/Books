@@ -57,7 +57,6 @@ def main():
                     numbers.add(int(m.group(1)))
             for table in root.findall(".//x:table", N):
                 all_tables += 1
-                assert table.getparent if False else True  # parent checked by shape below
             for wrapper in root.findall(".//x:div[@class='table-scroll']", N):
                 assert wrapper.find("x:table", N) is not None, (
                     f"Empty table-scroller in {name}"
