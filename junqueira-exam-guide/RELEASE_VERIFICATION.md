@@ -12,10 +12,10 @@ A green GitHub Actions build establishes that commands completed and the configu
 - [ ] Quantitative and clinically significant claims are checked against appropriate references; conflicting or variable estimates are qualified.
 - [x] Nine schematic atlas plates are generated entirely from the project's own source code and explicitly labeled as original non-photomicrographic artwork; no third-party microscopy images are embedded.
 - [ ] Independent legal/provenance review verifies the remaining prose, citations and any rights/permission questions.
-- [x] The publication workflow generates PDF, DOCX, EPUB, HTML, two synchronized CSV decks and per-file SHA-256 manifest from one source revision; the last verified illustrated build was [run 39727177604](https://github.com/alfrotan-glitch/Books/actions/runs/39727177604). Recheck a subsequent source revision using its matching run and manifest.
+- [x] The publication workflow generates PDF, DOCX, EPUB, HTML, two synchronized CSV decks and per-file SHA-256 manifest from one source revision; the newest validated illustrated-plus-real-slide-companion build was [run 39845766634](https://github.com/alfrotan-glitch/Books/actions/runs/39845766634). Recheck a subsequent source revision using its matching run and manifest.
 - [ ] PDF is inspected at full size page by page for clipping, table overflow, missing glyphs, awkward breaks and readability, including the cover and answer key.
 - [ ] PDF table of contents, bookmarks, pagination and internal links are tested against the latest output.
-- [x] Official W3C EPUBCheck 5.4.0 passed with zero errors and warnings for illustrated run `39727177604`.
+- [x] Official W3C EPUBCheck 5.4.0 passed with zero errors and warnings for the current run `39845766634`.
 - [ ] EPUB is opened in at least two reading applications and its navigation, tables and reflow are examined.
 - [ ] DOCX is opened in a word processor and checked for tables, headings, page breaks and special characters.
 - [ ] HTML is checked in a browser at desktop and mobile widths, including keyboard navigation and semantic headings.
@@ -34,7 +34,7 @@ A green GitHub Actions build establishes that commands completed and the configu
 - Browser verification of the actual generated **self-contained HTML** with Chromium: `390 × 844` mobile and `1280 × 900` desktop, all nine pictures loaded, 83 tables present, **document scroll width exactly equals viewport width** in both cases, and narrow tables can scroll internally.
 - These are **engineering release checks**, not a signed peer review or a page-by-page print proof.
 
-## Most recent independently inspected build — 23 October 2026 (Afghanistan local date)
+## Previous verified 157-page build — 23 October 2026
 
 - **Exact manuscript build commit:** `798f68ad5c753f6afc7e6f720d53faf557974c88`. Successful [GitHub Actions run 39844077558](https://github.com/alfrotan-glitch/Books/actions/runs/39844077558). Published asset-sync commit on `main`: `312b56d3bd156f634a778043f0a4039018949479`.
 - Four matched deliverables were downloaded as a single run artifact and independently checked against `publication-manifest.json` using SHA-256. **All four hashes matched**; do not mix output files from other runs.
@@ -45,6 +45,17 @@ A green GitHub Actions build establishes that commands completed and the configu
 - **Learning assets:** 607 flashcards and 100 questions, with all 400 choices, answer keys and rationales synchronized to their manuscript source.
 - The additional scientific-regression gate passed: specifically targeted outdated statements about hematopoietic stem cells, microglia, antigen presentation, cardiac repair and foveal anatomy did not reappear.
 - **What this evidence does not establish:** no independent all-chapter medical signoff; no full-scale page-by-page visual/print approval; no cross-reader EPUB certification or legal/commercial rights approval. These remain explicit release blockers.
+
+## Latest independently checked 161-page candidate — 23 October 2026
+
+- **Authoritative build:** GitHub Actions [run 39845766634](https://github.com/alfrotan-glitch/Books/actions/runs/39845766634), successful, from source `7f04c3997207438a94a6c090c59f7954470fa209`; the generated binary files were safely synchronized to `main` in commit `881571517a01997fe37111cc47c37760559c5adc`.
+- **Package verification:** downloaded the actual artifact and independently verified that each PDF, DOCX, EPUB and HTML file's SHA-256 and byte count matched `publication-manifest.json` (4 of 4).
+- **PDF:** 161 pages and 46 bookmarks; title metadata included; visual spot-check covered the cover, contents, original schematic plates, Appendix E real-slide exercises, questions, answer key and ending pages. This is **not** a 161-page full-size human proof.
+- **DOCX:** 2,215 paragraphs and 84 tables; PDF-rendered Word layouts were sampled during earlier illustrated revisions, but the latest edition still needs a complete editorial proof in a word processor.
+- **EPUB:** W3C EPUBCheck 5.4.0 found **0 errors and 0 warnings**; 27 archive entries.
+- **Study materials:** 607 regenerated flashcards and 100 exam questions; source-to-CSV comparison and high-impact scientific regression checks both passed.
+- **Practical learning:** Appendix D includes nine original teaching schematics. Appendix E supplies 23 observational tasks and links to externally hosted university slides. **No third-party slide images are redistributed.**
+- **Remaining gates:** independent medical specialist review, rights-holder approval and author credit, complete print-page visual proof, and cross-reader EPUB accessibility/usability evaluation are still open.
 
 ## Current evidence
 
