@@ -364,6 +364,12 @@ class Book(BaseDocTemplate):
         canv.restoreState()
 
     def cover(self, canv, doc):
+        # Explicit PDF document-info fields: automated validators inspect these.
+        # No author is named without the rights holder approving attribution.
+        canv.setTitle("Basic Histology: A Learning Text")
+        canv.setSubject("Original microscopic anatomy learning text, illustrated schematics and revision examination")
+        canv.setKeywords("histology, microscopic anatomy, medical education, teaching schematics, examination")
+        canv.setCreator("Basic Histology publication build system")
         canv.saveState()
         canv.setFillColor(INK)
         canv.rect(0, PAGE_H - 300, PAGE_W, 300, stroke=0, fill=1)
