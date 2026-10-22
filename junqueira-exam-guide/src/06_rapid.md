@@ -327,7 +327,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 4. Saying the spleen has afferent lymphatics. It **does not**.
 5. Saying the adrenal medulla makes steroids. It makes **catecholamines**.
 6. Saying FSH acts on Leydig cells. It acts on **Sertoli** cells; LH acts on Leydig.
-7. Saying rods are at the fovea. The fovea has **cones only**.
+7. Saying rods are abundant at the foveal center. The central **foveola** is rod-free, but the broader fovea has a few rods at its periphery.
 8. Saying the stomach has goblet cells. It has **surface mucous cells**, not goblet cells.
 
 ## Appendix A · Stains and What They Prove
