@@ -210,12 +210,15 @@ def polish_epub(path: str | Path) -> None:
         body = root.find(f"{{{X}}}body")
         if body is None:
             continue
-        children = list(body)
-        # --split-level=2 can emit a placeholder with only an empty span.
-        if (len(children) == 1 and children[0].tag == f"{{{X}}}p"
-                and not "".join(children[0].itertext()).strip()
-                and len(children[0]) == 1
-                and children[0][0].tag == f"{{{X}}}span"):
+        # Pandoc can create tiny synthetic link-anchor files between Parts.
+        # They contain no readable words, headings or illustrations.
+        visible_text = " ".join("".join(body.itertext()).split())
+        has_heading = any(
+            body.find(f".//{{{X}}}h{level}") is not None
+            for level in (1, 2, 3, 4)
+        )
+        has_image = body.find(f".//{{{X}}}img") is not None
+        if not visible_text and not has_heading and not has_image:
             removed.add(name)
             continue
 
