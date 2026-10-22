@@ -405,6 +405,14 @@ This book is a synthesis of standard histology, and its facts belong to the comm
 - Alberts B, et al. *Molecular Biology of the Cell*. W. W. Norton.
 - Kumar V, Abbas AK, Aster JC. *Robbins and Cotran Pathologic Basis of Disease*. Elsevier.
 
+**Selected scientific reading for core distinctions**
+
+- Aiuti A, Scala S, Chabannon C. Biological properties of hematopoietic stem cells. In: *The EBMT Handbook*, 8th ed. Springer; 2024. doi:10.1007/978-3-031-44080-9_7. The hematopoietic stem cell is multipotent; CD34 is an enrichment marker, not a definition of functional stemness.
+- Purves D, et al. *Neuroscience*, 2nd ed. The distribution of rods and cones in the human retina. NCBI Bookshelf, NBK10848. The central foveola is rod-free, while the broader foveal region includes peripheral rods.
+- Watanabe N, Wang Y-H, Lee HK, et al. Hassall's corpuscles instruct dendritic cells to induce CD4+CD25+ regulatory T cells in human thymus. *Nature*. 2005;436:1181–1185. doi:10.1038/nature03886. These structures have studied signaling functions in addition to their familiar microscopic appearance.
+- *Regulation of the Germinal Center Response*. PMID:30410492 (2018). Germinal centers select B cells and generate antibody-secreting cells and memory B cells in cooperation with follicular helper T cells.
+- *Anatomy, Head and Neck, Palatine Tonsil*. StatPearls; 2023. NCBI Bookshelf NBK538296. Tonsils sample surface antigens and normally lack afferent lymphatic vessels.
+
 **How the content was checked.** Numerical values, structural descriptions and named cell types were compared with the principal reference; where standard accounts give different ranges or counts, the text gives the range or says which value is being used. Mechanisms and clinical correlations were reasoned through for consistency with standard physiology and pathology rather than checked against a second text. No claim is made that every sentence was individually verified, and no reference is cited for a statement it does not contain.
 
 **Limits.** The original schematic plates in Appendix D are not histological photographs and cannot certify what appears in a particular specimen. Recognizing real tissue requires laboratory or virtual microscopy. Clinical notes are for orientation and are not medical advice.
