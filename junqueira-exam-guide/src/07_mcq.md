@@ -64,7 +64,7 @@ A. Hemidesmosome <br/>B. Desmosome <br/>C. Gap junction <br/>D. Tight junction
 
 A. Connexin <br/>B. Laminin <br/>C. Desmoglein <br/>D. Integrin
 
-**15.** Which epithelium lines the normal ureter?
+**15.** A folded urinary-tract mucosa has several layers and large dome-shaped umbrella cells at its free surface. Which epithelium is present?
 
 A. Simple columnar <br/>B. Pseudostratified ciliated <br/>C. Stratified squamous <br/>D. Transitional
 
@@ -128,7 +128,7 @@ A. Diaphysis <br/>B. Metaphysis <br/>C. Periosteum <br/>D. Epiphysis
 
 A. An osteocyte <br/>B. An osteoclast <br/>C. A macrophage <br/>D. An osteoblast
 
-**31.** Dense regular connective tissue is characterized by:
+**31.** A tendon section shows parallel collagen bundles and elongated fibroblast nuclei aligned with tensile forces. Dense regular connective tissue is characterized by:
 
 A. Parallel collagen bundles <br/>B. Abundant elastic fibers <br/>C. A reticular network <br/>D. Randomly oriented collagen bundles
 
@@ -138,11 +138,11 @@ A. Liver <br/>B. Spleen <br/>C. Red bone marrow <br/>D. Yellow bone marrow
 
 ### Nerve and muscle (33–44)
 
-**33.** Nissl bodies are composed of:
+**33.** A large motor-neuron cell body has prominent basophilic cytoplasmic granules absent from the axon hillock. These Nissl bodies are composed of:
 
 A. Rough ER and polysomes <br/>B. Neurofilaments <br/>C. Synaptic vesicles <br/>D. Smooth ER and Golgi
 
-**34.** Which glial cell myelinates several axons in the central nervous system?
+**34.** Electron microscopy of CNS white matter shows several axon segments myelinated by processes from one glial cell. Which cell is responsible?
 
 A. Schwann cell <br/>B. Microglia <br/>C. Astrocyte <br/>D. Oligodendrocyte
 
@@ -196,7 +196,7 @@ A. Neutrophil <br/>B. Monocyte <br/>C. Eosinophil <br/>D. Lymphocyte
 
 A. Eosinophil <br/>B. Monocyte <br/>C. Basophil <br/>D. Neutrophil
 
-**47.** The largest leukocyte, with a kidney-shaped nucleus, is the:
+**47.** A peripheral-blood smear shows a large leukocyte with blue-gray cytoplasm and an indented kidney-shaped nucleus. Identify the cell:
 
 A. Neutrophil <br/>B. Basophil <br/>C. Lymphocyte <br/>D. Monocyte
 
@@ -220,7 +220,7 @@ A. IgA <br/>B. IgE <br/>C. IgG <br/>D. IgM
 
 A. Antibody alone <br/>B. MHC class I <br/>C. MHC class II <br/>D. MHC class III
 
-**53.** Hassall corpuscles are found in the:
+**53.** A lobulated lymphoid organ has dark cortical regions and pale medullae with concentric epithelial whorls (Hassall corpuscles). Which organ is this?
 
 A. Thymus <br/>B. Tonsil <br/>C. Spleen <br/>D. Lymph node
 
@@ -262,11 +262,11 @@ A. Between the circular and longitudinal muscle layers <br/>B. Serosa <br/>C. Mu
 
 A. HCl and intrinsic factor <br/>B. Mucus <br/>C. Gastrin <br/>D. Pepsinogen
 
-**63.** Brunner glands are found in the:
+**63.** A small-intestinal section contains villi and pale mucous glands deep in the submucosa. These Brunner glands identify the:
 
 A. Duodenum <br/>B. Jejunum <br/>C. Ileum <br/>D. Colon
 
-**64.** Peyer's patches are characteristic of the:
+**64.** A small-intestinal specimen shows villi and a large aggregate of lymphoid follicles extending toward the submucosa. Peyer's patches favor the:
 
 A. Jejunum <br/>B. Ileum <br/>C. Stomach <br/>D. Duodenum
 
@@ -298,13 +298,13 @@ A. Basophilic acini and zymogen granules <br/>B. Mucous acini only <br/>C. Folli
 
 A. Delta cells <br/>B. PP cells <br/>C. Alpha cells <br/>D. Beta cells
 
-**72.** The esophagus is lined by:
+**72.** A digestive-tract section shows thick nonkeratinized stratified squamous epithelium and submucosal mucous glands. The esophagus is lined by:
 
 A. Transitional epithelium <br/>B. Pseudostratified ciliated epithelium <br/>C. Simple columnar epithelium <br/>D. Stratified squamous non-keratinized epithelium
 
 ### Respiratory system and skin (73–82)
 
-**73.** Type II pneumocytes are characterized by:
+**73.** Electron microscopy identifies a cuboidal alveolar epithelial cell containing lamellar bodies beside attenuated type I cells. Type II pneumocytes are characterized by:
 
 A. Cilia and goblet granules <br/>B. Phagocytic vacuoles <br/>C. A squamous shape and no organelles <br/>D. Lamellar bodies and surfactant production
 
@@ -320,7 +320,7 @@ A. Rings → none → plates <br/>B. None → plates → rings <br/>C. Rings →
 
 A. Basement membrane <br/>B. Type II pneumocyte <br/>C. Surfactant <br/>D. Type I pneumocyte
 
-**77.** The layer of the epidermis present only in thick skin is the:
+**77.** A section from the palm shows a translucent epidermal layer between the granular layer and a prominent stratum corneum. This layer is the:
 
 A. Lucidum <br/>B. Basale <br/>C. Spinosum <br/>D. Granulosum
 
@@ -340,13 +340,13 @@ A. Basal epidermis <br/>B. Dermal papillae <br/>C. Deep dermis and hypodermis <b
 
 A. Langerhans cell <br/>B. Keratinocyte <br/>C. Merkel cell <br/>D. Melanocyte
 
-**82.** Which receptor is responsible for fine tactile discrimination in the fingertips?
+**82.** A small encapsulated ovoid mechanoreceptor lies in a dermal papilla of glabrous fingertip skin. Which receptor supports fine tactile discrimination?
 
 A. Pacinian corpuscle <br/>B. Meissner corpuscle <br/>C. Ruffini ending <br/>D. Free nerve ending
 
 ### Urinary and endocrine (83–92)
 
-**83.** The filtration slit diaphragm between podocyte foot processes contains:
+**83.** Electron microscopy of a renal corpuscle shows diaphragms bridging filtration slits between interdigitating podocyte foot processes. A key protein in these diaphragms is:
 
 A. Desmoglein <br/>B. Connexin <br/>C. Laminin only <br/>D. Nephrin
 
@@ -358,7 +358,7 @@ A. Proximal tubule <br/>B. Thin limb <br/>C. Distal tubule <br/>D. Collecting du
 
 A. Mesangial cells <br/>B. Macula densa cells <br/>C. Juxtaglomerular cells <br/>D. Podocytes
 
-**86.** Which tubule segment is most eosinophilic because of abundant mitochondria?
+**86.** In renal cortex, a tubule has strongly eosinophilic cytoplasm and a fuzzy, poorly defined lumen owing to its brush border. Which segment is this?
 
 A. Collecting duct <br/>B. Proximal convoluted tubule <br/>C. Thin descending limb <br/>D. Distal convoluted tubule
 
@@ -366,7 +366,7 @@ A. Collecting duct <br/>B. Proximal convoluted tubule <br/>C. Thin descending li
 
 A. Pseudostratified <br/>B. Simple columnar <br/>C. Transitional <br/>D. Stratified squamous
 
-**88.** Thyroid follicles are lined by:
+**88.** A gland contains rounded follicles filled with colloid and surrounded by a single epithelial layer. Thyroid follicles are normally lined by:
 
 A. Stratified cuboidal epithelium <br/>B. Pseudostratified epithelium <br/>C. Transitional epithelium <br/>D. Simple cuboidal epithelium
 
@@ -382,7 +382,7 @@ A. Epinephrine <br/>B. Aldosterone <br/>C. Cortisol <br/>D. Androgens
 
 A. Adrenal cortex <br/>B. Adrenal medulla <br/>C. Thyroid follicle <br/>D. Parathyroid chief cells
 
-**92.** Herring bodies are found in the:
+**92.** Neurosecretory axons from the hypothalamus show local dilations packed with hormone-containing granules (Herring bodies). They are found in the:
 
 A. Pineal gland <br/>B. Thyroid <br/>C. Anterior pituitary <br/>D. Posterior pituitary
 
@@ -404,7 +404,7 @@ A. Uterine cavity <br/>B. Ampulla of the uterine tube <br/>C. Isthmus <br/>D. Ce
 
 A. Menstrual <br/>B. Proliferative <br/>C. Secretory <br/>D. Gestational
 
-**97.** The corpus luteum secretes mainly:
+**97.** After ovulation a highly vascular temporary endocrine body composed of luteinized follicular cells forms in the ovary. The corpus luteum secretes mainly:
 
 A. FSH <br/>B. Estrogen <br/>C. Progesterone <br/>D. hCG
 
@@ -416,7 +416,7 @@ A. Both equally <br/>B. Neither <br/>C. Rods only <br/>D. Cones only
 
 A. Canal of Schlemm <br/>B. Ciliary body <br/>C. Choroid <br/>D. Vitreous body
 
-**100.** The sensory cells of the organ of Corti are:
+**100.** A cochlear section shows inner and outer receptor cells with stereocilia above the basilar membrane. The transducing sensory cells of the organ of Corti are:
 
 A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supporting cells
 
