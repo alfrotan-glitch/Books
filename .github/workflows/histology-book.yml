@@ -13,6 +13,8 @@ on:
       - 'junqueira-exam-guide/src/**'
       - 'junqueira-exam-guide/build*.py'
       - 'junqueira-exam-guide/tools/validate_epub.py'
+      - 'junqueira-exam-guide/tools/epub_polish.py'
+      - 'junqueira-exam-guide/tools/validate_modern_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - 'junqueira-exam-guide/tools/write_release_manifest.py'
       - 'junqueira-exam-guide/tools/make_study_decks.py'
@@ -29,6 +31,8 @@ on:
       - 'junqueira-exam-guide/src/**'
       - 'junqueira-exam-guide/build*.py'
       - 'junqueira-exam-guide/tools/validate_epub.py'
+      - 'junqueira-exam-guide/tools/epub_polish.py'
+      - 'junqueira-exam-guide/tools/validate_modern_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - 'junqueira-exam-guide/tools/write_release_manifest.py'
       - '.github/workflows/histology-book.yml'
@@ -50,7 +54,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install build dependencies
-        run: python -m pip install reportlab pypandoc_binary python-docx pypdfium2 pymupdf
+        run: python -m pip install reportlab pypandoc_binary python-docx pypdfium2 pymupdf lxml
       - name: Regenerate study materials from the canonical manuscript
         run: |
           python tools/make_study_decks.py
@@ -63,6 +67,7 @@ jobs:
           python build_docs.py
           python build_epub.py
           python tools/validate_epub.py
+          python tools/validate_modern_epub.py
           python tools/release_smoke_test.py
       - uses: actions/setup-java@v4
         with:
