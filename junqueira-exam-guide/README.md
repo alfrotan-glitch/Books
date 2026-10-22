@@ -8,7 +8,7 @@ The prose and nine generated schematic plates are newly authored for this projec
 
 **Use the latest successful [Build and validate histology book workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml).** The workflow now rebuilds and synchronizes the tracked PDF, DOCX, EPUB, HTML, CSV study decks and publication manifest on `main` after a passing run. The GitHub Actions artifact also bundles those files and the nine original schematic plates. The manifest records SHA-256 hashes and source commit.
 
-The most recently validated book build ([run 39844077558](https://github.com/alfrotan-glitch/Books/actions/runs/39844077558)) produced **157 PDF pages, 45 PDF bookmarks, 2,195 DOCX paragraphs, 83 tables, 9 original schematic plates, 607 flashcards and 100 synchronized MCQs**. W3C EPUBCheck 5.4.0 reported zero errors and warnings; scientific regression checks and independently rechecked per-format SHA-256 hashes passed. The latest bundle and manifest are available from the linked run.
+The latest fully validated build ([run 39845766634](https://github.com/alfrotan-glitch/Books/actions/runs/39845766634)) produced **161 PDF pages, 46 PDF bookmarks, 2,215 DOCX paragraphs, 84 tables, 9 original schematic plates, 607 flashcards and 100 synchronized MCQs**. Official W3C EPUBCheck 5.4.0 reported zero errors and warnings, and scientific regression checks passed. The artifact includes the complete Appendix E real-slide practice companion (linked university resources, not copied photographs) and SHA-256 publication manifest.
 
 **Status: editorial candidate, not independently medically certified or fully print-proofed.** An automated green build does not replace an end-to-end specialist review, clearance of any third-party content, physical printing/visual inspection, or e-reader/Word/browser acceptance. See [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md).
 
@@ -16,7 +16,7 @@ The most recently validated book build ([run 39844077558](https://github.com/alf
 
 | File | Purpose |
 |---|---|
-| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **latest verified CI: 157 pages** (print proof still required) |
+| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **latest verified CI: 161 pages** (print proof still required) |
 | `Basic_Histology_Learning_Text.docx` | Editable Word version (same content, Word styles) |
 | `Basic_Histology_Learning_Text.html` | Phone/tablet reading copy, self-contained, no internet needed |
 | `Basic_Histology_Learning_Text.epub` | EPUB 3, reflowable, navigable, for e-readers and phones |
@@ -58,7 +58,7 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 - **Before you begin** — how the book works, how to study (six-week, ten-day and 48-hour plans), the Twelve Laws of Histology, exam technique, a chapter guide, and a note on sources.
 - **Chapters 1–23** — each has learning objectives, a core idea, the explanation in sections, structure–function reasoning, comparison tables, clinical correlates, common misconceptions, a summary, active-recall questions, one exam-style question with a worked answer, and a practical identification task.
 - **Chapter 24** — the last-24-hours rapid review: a concept map of the subject, the organ-identification algorithm, ten master tables, 100 one-line facts and 25 distinctions that decide marks.
-- **Appendices** — A: stains and their chemistry; B: histology vocabulary; C: sources and scope of verification; D: nine newly illustrated histology pattern plates, explicitly labeled as schematics rather than micrographs.
+- **Appendices** — A: stains and their chemistry; B: histology vocabulary; C: sources and evidence limits; D: nine original tissue-pattern schematic plates; E: an optional chapter-by-chapter guide to real histology slides hosted by universities, with no third-party photos reproduced.
 - **Part VII** — 100 examination questions with explained answers and a scoring guide.
 
 ## Notes
@@ -66,6 +66,6 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 - **Terminology** follows American spelling (`hematoxylin`, `esophagus`, `fiber`, `organized`), the convention of the histological literature.
 - **The 100 original questions are not advertised as historical examination questions.** Specific inaccuracies were corrected and automated regressions added, but comprehensive scientific peer review remains outstanding. No topic-frequency statistics or guaranteed exam outcomes are claimed.
 - **Disagreements between standard accounts are stated, not hidden.** Where authorities differ on a count or a range, the text gives both or says which one it is using. `COVERAGE.md` records the discrepancies found while checking.
-- **Original schematic atlas included:** nine labeled teaching plates; no third-party photomicrographs are reproduced. A real microscope or licensed virtual slide collection remains essential.
+- **Original schematic atlas and optional live-slide practice included:** nine labeled teaching schematics plus Appendix E's 23 practical observation challenges using institutional microscopic slide collections. No third-party photomicrographs are reproduced, and access to external resources is optional.
 - **This is a teaching text, not a clinical manual.** It does not replace laboratory teaching or supervised clinical training.
 - Study files in `deliverables/` (flashcards and the 100-question bank) are automatically regenerated from the manuscript and checked for synchronization during the publication workflow.
