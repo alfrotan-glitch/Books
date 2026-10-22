@@ -396,7 +396,7 @@ The table above is the quick-recall version; this one adds the chemistry behind 
 
 ## Appendix C · Sources and Further Reading
 
-This book is a synthesis of standard histology, and its facts belong to the common scientific literature rather than to any single work. The first work below is the one against which the text was principally checked; the others are standard references offered for deeper reading and were not used as verification sources. Editions of the further-reading works are not listed: use the current edition of each. The principal reference is cited with its edition, because every check was made against that edition.
+This independently written guide synthesizes concepts from standard microscopic anatomy. *Junqueira's Basic Histology*, 17th edition, is a principal textbook for the curriculum and broad structure; **its inclusion does not certify a line-by-line verification of the entire manuscript**. Other textbooks below are suggestions for deeper study. Selected scientific papers are cited where specific corrections were checked against accessible abstracts or full text. No copyrighted photographs or passages have been copied into this book.
 
 - Mescher AL. *Junqueira's Basic Histology: Text and Atlas*. 17th ed. New York: McGraw Hill; 2024.
 - Ross MH, Pawlina W. *Histology: A Text and Atlas*. Wolters Kluwer.
@@ -407,13 +407,15 @@ This book is a synthesis of standard histology, and its facts belong to the comm
 
 **Selected scientific reading for core distinctions**
 
+- Barry-Carroll L, Gomez-Nicola D. The molecular determinants of microglial developmental dynamics. *Nature Reviews Neuroscience*. 2024;25:414–427. doi:10.1038/s41583-024-00813-1. Microglia mainly originate from yolk-sac progenitors and self-maintain within CNS tissue.
+- Roche PA, Furuta K. The ins and outs of MHC class II-mediated antigen processing and presentation. *Nature Reviews Immunology*. 2015;15:203–216. doi:10.1038/nri3818. Professional MHC-II antigen presenters include dendritic cells, macrophages, B cells, and thymic epithelial cells.
 - Aiuti A, Scala S, Chabannon C. Biological properties of hematopoietic stem cells. In: *The EBMT Handbook*, 8th ed. Springer; 2024. doi:10.1007/978-3-031-44080-9_7. The hematopoietic stem cell is multipotent; CD34 is an enrichment marker, not a definition of functional stemness.
 - Purves D, et al. *Neuroscience*, 2nd ed. The distribution of rods and cones in the human retina. NCBI Bookshelf, NBK10848. The central foveola is rod-free, while the broader foveal region includes peripheral rods.
 - Watanabe N, Wang Y-H, Lee HK, et al. Hassall's corpuscles instruct dendritic cells to induce CD4+CD25+ regulatory T cells in human thymus. *Nature*. 2005;436:1181–1185. doi:10.1038/nature03886. These structures have studied signaling functions in addition to their familiar microscopic appearance.
 - *Regulation of the Germinal Center Response*. PMID:30410492 (2018). Germinal centers select B cells and generate antibody-secreting cells and memory B cells in cooperation with follicular helper T cells.
 - *Anatomy, Head and Neck, Palatine Tonsil*. StatPearls; 2023. NCBI Bookshelf NBK538296. Tonsils sample surface antigens and normally lack afferent lymphatic vessels.
 
-**How the content was checked.** Numerical values, structural descriptions and named cell types were compared with the principal reference; where standard accounts give different ranges or counts, the text gives the range or says which value is being used. Mechanisms and clinical correlations were reasoned through for consistency with standard physiology and pathology rather than checked against a second text. No claim is made that every sentence was individually verified, and no reference is cited for a statement it does not contain.
+**Evidence and verification limits.** The manuscript underwent automated structural checks and targeted correction of specific histology claims. The dated, identifiable references above support those selected corrections; this is **not** a comprehensive citation-by-citation audit of all measurements, mechanisms, clinical correlations, or practice questions. General textbook coverage does not replace independent specialist review. Numeric estimates vary by specimen, method, and population and should be interpreted as approximate unless a clear source and context are supplied.
 
 **Limits.** The original schematic plates in Appendix D are not histological photographs and cannot certify what appears in a particular specimen. Recognizing real tissue requires laboratory or virtual microscopy. Clinical notes are for orientation and are not medical advice.
 
