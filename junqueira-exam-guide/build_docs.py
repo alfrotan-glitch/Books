@@ -69,6 +69,13 @@ def hard_break_options(text):
             parts = MCQ_OPTS.split(line)
             if len(parts) == 5:
                 line = parts[0] + "".join("  \n" + p for p in parts[1:])
+        elif re.match(r"^A\.\s", line) and re.search(r"<br\s*/?>", line):
+            # The manuscript stores all four options on one Markdown line.
+            # Explicit hard breaks are needed for Word, EPUB and HTML output;
+            # Pandoc otherwise merges the distractors into a single run.
+            options = [piece.strip() for piece in re.split(r"<br\s*/?>", line)]
+            if len(options) == 4 and all(re.match(r"^[A-D]\.\s", p) for p in options):
+                line = "  \n".join(options)
         out.append(line)
     return "\n".join(out)
 
@@ -94,6 +101,15 @@ def main():
     pypandoc.convert_file(md, "docx", outputfile=docx, extra_args=[
         "--toc", "--toc-depth=2", "--resource-path=" + os.pathsep.join((HERE, SRC, BUILD)),
     ])
+    # Ensure major parts and appendices open on fresh pages in editable Word.
+    from docx import Document
+    document = Document(docx)
+    for para in document.paragraphs:
+        title = para.text.strip()
+        if ((para.style.name == "Heading 1" and title.startswith("PART "))
+                or (para.style.name == "Heading 2" and title.startswith("Appendix "))):
+            para.paragraph_format.page_break_before = True
+    document.save(docx)
     print("DOCX written:", docx)
 
     css_path = os.path.join(BUILD, "style.css")
