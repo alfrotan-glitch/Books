@@ -112,7 +112,18 @@ jobs:
           git add -f -- Basic_Histology_Learning_Text.pdf Basic_Histology_Learning_Text.docx Basic_Histology_Learning_Text.epub Basic_Histology_Learning_Text.html publication-manifest.json deliverables/junqueira_flashcards.csv deliverables/junqueira_question_bank.csv
           if ! git diff --cached --quiet; then
             git commit -m "Sync generated histology publication and study assets [skip ci]"
-            git push origin HEAD:main
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                echo "Publication assets synchronized with main"
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "Publication sync failed after three attempts" >&2
+                exit 1
+              fi
+            done
           else
             echo "Tracked publication outputs already match this source revision."
           fi
