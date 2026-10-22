@@ -59,6 +59,8 @@ html = EXPECTED[".html"].read_text(encoding="utf-8")
 assert re.search(r"<html\b", html, re.I), "HTML document element missing"
 assert "Histology" in html and "</html>" in html.lower(), "HTML title/end missing"
 assert len(html) >= 50000, "HTML unexpectedly small"
+assert "max-width:100%" in html or "max-width: 100%" in html, "Responsive image CSS missing"
+assert "overflow-x:auto" in html or "overflow-x: auto" in html, "Mobile table scrolling CSS missing"
 html_plates = len(re.findall(r"<img\b", html, flags=re.I))
 assert html_plates >= 9, f"HTML atlas incomplete: {html_plates} images"
 print(f"HTML PASS: {len(html)} characters")
