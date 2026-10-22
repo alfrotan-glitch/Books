@@ -36,7 +36,10 @@ h3 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.12rem;
   color: var(--accent); margin: 1.8rem 0 .35rem; }
 h4 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: .98rem; margin: 1.2rem 0 .3rem; }
 p { margin: .55rem 0; text-align: justify; }
-table { width:100%; border-collapse: collapse; margin: 1rem 0 1.4rem; font-size: .84rem;
+figure { max-width: 100%; margin: 1.3rem 0; }
+img { display:block; max-width:100%; height:auto; }
+table { display:block; overflow-x:auto; max-width:100%; width:100%; -webkit-overflow-scrolling:touch;
+  border-collapse: collapse; margin: 1rem 0 1.4rem; font-size: .84rem;
   font-family: "Helvetica Neue", Arial, sans-serif; }
 th { background: var(--ink); color:#fff; text-align:left; font-weight:700; }
 th, td { padding: .45rem .55rem; vertical-align: top; border-bottom: 1px solid var(--rule); }
