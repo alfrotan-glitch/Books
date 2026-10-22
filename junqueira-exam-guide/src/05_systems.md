@@ -626,7 +626,7 @@ The cornea is **transparent because it is avascular and its collagen is regularl
 
 **Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
 
-The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, at the center of the **macula lutea**, contains **no rods** and a very high density of **cones**; the overlying layers are displaced sideways so light reaches the cones with little scattering. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
+The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, within the **macula lutea**, has an exceptionally high central cone density. Its **central foveola** is rod-free, while a few rods can occur toward the peripheral fovea; inner retinal layers are displaced laterally, improving light access to the central cones. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
 
 **Müller cells** are the principal glia — modified astrocytes whose cell bodies lie in the inner nuclear layer and whose processes span the whole retina. They provide trophic support, buffer ions and water, regulate blood flow, form the **inner limiting membrane**, and join photoreceptors by zonulae adherentes to form the **outer limiting layer**.
 
@@ -654,7 +654,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 
 > **MICRO** — The **cornea** is identified by five layers and a regular, avascular stroma. The **retina** by its ten layers with a pigmented layer at the outer border and ganglion cells at the inner border. The **organ of Corti** by the tunnel of Corti between inner and outer hair cells on the basilar membrane, with the tectorial membrane above.
 
-> **TIP** — Rods detect **dim light**, cones detect **color and detail**; the **fovea has only cones**, which is why acuity is highest there and color vision is lost first in the periphery.
+> **TIP** — Rods detect **dim light**, cones detect **color and detail**; the **central foveola contains only cones**, helping explain peak visual acuity; rod density increases outside the foveal center.
 
 ### Chapter 23 — summary
 
@@ -663,7 +663,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 - Aqueous humor: ciliary processes → posterior chamber → pupil → anterior chamber → trabecular meshwork → canal of Schlemm.
 - The lens is avascular, suspended by the fibrillin zonule; it becomes rounder when the ciliary muscle contracts.
 - The retina has nine neural layers plus the pigmented epithelium.
-- Rods (rhodopsin, dim light, ~92 million) and cones (iodopsin, color, ~4.6 million); the fovea contains cones only.
+- Rods support scotopic vision and cones support high-acuity color vision; the **foveola** is rod-free, whereas the wider fovea can contain peripheral rods. Total photoreceptor counts vary among individuals and measurement methods.
 - Phototransduction: retinal isomerization → transducin → phosphodiesterase → cGMP falls → channels close → hyperpolarization.
 - The RPE absorbs light, forms the blood–retina barrier, phagocytoses discs, and regenerates 11-cis-retinal.
 - Endolymph is high-K⁺; perilymph resembles CSF.
@@ -675,7 +675,7 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 1. **Name the five layers of the cornea, outside in.** — Epithelium, Bowman membrane, stroma, Descemet membrane, endothelium.
 2. **Where is aqueous humor produced and where does it drain?** — Ciliary processes; drains through the trabecular meshwork into the canal of Schlemm.
 3. **Which retinal cells form the optic nerve?** — Ganglion cells.
-4. **What is the fovea, and why is acuity highest there?** — A cone-only pit at the macula; it has the highest photoreceptor density and minimal overlying tissue.
+4. **Why is acuity highest in the central foveola?** — Its densely packed cones and laterally displaced inner retinal layers support precise, minimally obstructed sampling of the retinal image.
 5. **Endolymph versus perilymph?** — Endolymph (high K⁺) fills the membranous labyrinth; perilymph (high Na⁺) fills the bony labyrinth.
 
 ### Exam-style question
