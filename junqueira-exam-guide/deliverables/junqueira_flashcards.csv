@@ -184,7 +184,7 @@ Ch 8 · Osteoclast — Marker / feature?,"Large, multinucleated, ruffled border,
 "Ch 8 · Calcitriol (1,25-(OH)₂D) — Effect on bone?",Increases intestinal absorption and bone resorption,Junqueira::Ch08 tables,basic
 "Ch 8 · Calcitriol (1,25-(OH)₂D) — Net serum calcium?",Raises,Junqueira::Ch08 tables,basic
 "Which glial cell myelinates the CNS, and which myelinates the PNS?","Oligodendrocyte (CNS, several axons); Schwann cell (PNS, one segment of one axon).",Junqueira::Ch09 recall,basic
-Which glial cell is the macrophage of the CNS?,"Microglia, derived from monocytes.",Junqueira::Ch09 recall,basic
+"Which CNS glia act as resident macrophages, and where do they originate?",Microglia; mainly from embryonic yolk-sac myeloid precursors rather than the adult circulating monocyte pool.,Junqueira::Ch09 recall,basic
 What forms the blood–brain barrier?,"Tight junctions between capillary endothelial cells, reinforced by astrocyte end-feet and pericytes.",Junqueira::Ch09 recall,basic
 How is a signal carried along an axon?,An action potential; myelin allows saltatory conduction between nodes of Ranvier.,Junqueira::Ch09 recall,basic
 Why does CNS injury scar rather than regenerate?,"Oligodendrocytes and myelin inhibit axon growth, astrocytes form a glial scar, and there is no permissive sheath like the PNS bands of Büngner.",Junqueira::Ch09 recall,basic
@@ -310,7 +310,7 @@ How do you recognize a megakaryocyte?,A huge polyploid cell with a lobulated nuc
 Which growth factor drives erythroid production?,"Erythropoietin, made by peritubular interstitial cells of the kidney.",Junqueira::Ch13 recall,basic
 What does the M:E ratio describe?,"The ratio of myeloid (granulocytic) to erythroid precursors in marrow, normally about 2:1 to 4:1.",Junqueira::Ch13 recall,basic
 "Which MHC class is on all nucleated cells, and which T cell reads it?",MHC I; CD8⁺ cytotoxic T cells.,Junqueira::Ch14 recall,basic
-Which cells present on MHC II?,"Antigen-presenting cells, mostly monocyte-derived: dendritic cells, macrophages, B cells.",Junqueira::Ch14 recall,basic
+Which cells typically present peptides on MHC II?,"Professional antigen-presenting cells: dendritic cells, macrophages, and B cells; thymic epithelial cells also present peptides during T-cell selection.",Junqueira::Ch14 recall,basic
 Where do T cells undergo positive and negative selection?,Positive selection in the cortex; negative selection in the medulla.,Junqueira::Ch14 recall,basic
 What is the difference between the thymus and the spleen in one line?,The thymus makes and selects T cells and has no follicles; the spleen filters blood and has no afferent lymphatics.,Junqueira::Ch14 recall,basic
 What does an FDC do?,Follicular dendritic cells display antigen–antibody complexes to B cells and drive germinal-center formation.,Junqueira::Ch14 recall,basic
