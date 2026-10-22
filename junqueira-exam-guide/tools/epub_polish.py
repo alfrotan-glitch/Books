@@ -284,7 +284,7 @@ def polish_epub(path: str | Path) -> None:
     if b is not None and illustration_destinations:
         section = ET.SubElement(b, f"{{{X}}}nav")
         section.set(f"{{{E}}}type", "loi")
-        section.set("aria-label", "List of illustrations")
+        # The heading names this navigation; aria-label is rejected on EPUB nav.
         h = ET.SubElement(section, f"{{{X}}}h2")
         h.text = "Illustrations"
         listing = ET.SubElement(section, f"{{{X}}}ol")
