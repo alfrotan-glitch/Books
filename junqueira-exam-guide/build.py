@@ -623,12 +623,10 @@ def build_pdf():
     toc.dotsMinLevel = 99
 
     imprint = (
-        "This is an independent teaching text. Its prose is original; no images, plates, "
-        "captions or extended passages from another publication are reproduced. Histological "
-        "facts are part of the common scientific literature, and where authorities differ the "
-        "text says so rather than hiding the difference. The book is not a clinical manual and "
-        "does not replace laboratory instruction or medical training. Rights in this text have "
-        "not been assigned; commercial distribution requires a license and an ISBN."
+        "Independent teaching text with original schematic illustrations and no reproduced "
+        "third-party histology plates. The book is educational, not clinical guidance. Author "
+        "attribution, rights-holder approval and distribution terms must be confirmed before "
+        "a commercial edition is issued. ISBN requirements depend on the retailer and market."
     )
 
     front = [
