@@ -420,6 +420,19 @@ A. Canal of Schlemm <br/>B. Ciliary body <br/>C. Choroid <br/>D. Vitreous body
 
 A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supporting cells
 
+### Before consulting the answer key
+
+This examination is a *retrieval and interpretation exercise*, not a prediction of performance on a formal medical examination. Review the 100 questions once **without looking at the answers**. For each uncertain item, name the observation that would distinguish your chosen option from the closest alternative.
+
+| Evidence you can state | What to do before marking the answer |
+|---|---|
+| A tissue layer or glandular feature | Say which organ or tissue it identifies and why |
+| A cell morphology or special stain | Explain what else could produce a similar appearance |
+| A physiological or ultrastructural mechanism | Link the named structure to its function |
+| No clear distinguishing evidence | Mark the answer as uncertain and record the topic for revision |
+
+**Confidence audit.** Count not only wrong answers but also *correct guesses*. Revisit their corresponding chapters and identify the exact missing observation. Then return to the clinical and practical-identification questions after a delay. The purpose is to reduce guessing while improving the ability to interpret unfamiliar histology sections.
+
 ## Answer Key with Explanations
 
 **1. A** — Basic dyes such as hematoxylin bind acidic structures, and nucleic acids (nucleus, rough ER) are the most acidic components of the cell. **Trap:** D — collagen is basic and binds eosin, not hematoxylin. B — hemoglobin is basic. C — elastin is not particularly acidic.
