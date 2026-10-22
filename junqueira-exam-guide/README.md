@@ -12,6 +12,21 @@ The latest fully validated build ([run 39845766634](https://github.com/alfrotan-
 
 **Status: editorial candidate, not independently medically certified or fully print-proofed.** An automated green build does not replace an end-to-end specialist review, clearance of any third-party content, physical printing/visual inspection, or e-reader/Word/browser acceptance. See [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md).
 
+## Modern EPUB reading edition
+
+The EPUB is now designed as a **reader-first, reflowable EPUB 3** book rather than an exported print document. Its features include:
+
+- A newly drawn, high-resolution modern cover and discoverable ebook metadata.
+- **47 small XHTML reading sections**, with chapter-level navigation for all 24 chapters and appendices.
+- A dedicated clickable index linking to all nine original histology schematic plates.
+- Native font-size adjustment, a clear typographic hierarchy, reader-friendly links, and contrast-aware light/dark styling.
+- **84 individually scrollable comparison tables** to avoid requiring horizontal scrolling of the entire book on a phone.
+- Differentiated MICRO, CLINICAL, TIP, MNEMONIC and PEARL study callouts.
+- Accessible figure descriptions, table-column header markup, and no embedded proprietary fonts or externally fetched images.
+- Automatic structural checks and official W3C EPUBCheck 5.4.0 on every publication build.
+
+**Reading tip:** In Apple Books, Google Play Books or another EPUB 3-capable reading app, use the app's font/size settings, chapter contents, bookmarks and text highlights. Wide comparison tables may require a horizontal swipe *inside the table* depending on the reader. Device rendering varies; independent cross-reader acceptance is still required for a fully certified release.
+
 ## Files
 
 | File | Purpose |
@@ -23,8 +38,10 @@ The latest fully validated build ([run 39845766634](https://github.com/alfrotan-
 | `src/*.md` | The manuscript — one file per section, plain Markdown |
 | `build.py` | Markdown → PDF (ReportLab), book design and layout |
 | `build_docs.py` | Markdown → DOCX and HTML (pandoc) |
-| `build_epub.py` | Markdown → EPUB 3 (pandoc + generated cover) |
-| `tools/validate_epub.py` | Additional internal EPUB structural checks |
+| `build_epub.py` | Manuscript → chapter-split EPUB 3 with modern cover and ebook semantics |
+| `tools/validate_epub.py` | Internal EPUB manifest and link checks |
+| `tools/epub_polish.py` | Original cover design, modern scalable CSS, chapter navigation, table/figure semantics |
+| `tools/validate_modern_epub.py` | Reader-experience regression checks for EPUB chapters, tables, figures and dark mode |
 | `tools/release_smoke_test.py` | Automated PDF, DOCX, EPUB, HTML structural and geometry checks |
 | `tools/generate_atlas.py` | Generates nine original labeled histology schematic diagrams |
 | `tools/validate_study_materials.py` | Validates CSV decks against the 100 canonical manuscript questions |
@@ -37,12 +54,13 @@ The latest fully validated build ([run 39845766634](https://github.com/alfrotan-
 ## Rebuilding
 
 ```bash
-python -m pip install reportlab pypandoc_binary python-docx pymupdf
+python -m pip install reportlab pypandoc_binary python-docx pymupdf lxml
 python3 tools/generate_atlas.py  # Build nine original schematic plates
 python3 build.py         # PDF
 python3 build_docs.py    # DOCX + HTML
 python3 build_epub.py    # EPUB 3
 python3 tools/validate_epub.py   # EPUB structural checks
+python3 tools/validate_modern_epub.py   # EPUB reading/navigation/contrast checks
 python3 tools/release_smoke_test.py   # Four-format smoke tests
 python3 tools/make_study_decks.py     # Regenerate flashcards and MCQs
 python3 tools/make_question_bank.py   # Regenerate canonical MCQ CSV
