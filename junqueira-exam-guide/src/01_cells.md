@@ -211,7 +211,7 @@ A cell is a compartmentalization machine. Each organelle is a membrane-bound sol
 
 The chapter opens with differentiation, because it explains why one genome produces hundreds of cell shapes. Cells become specialized by **differential gene expression** — the same DNA, different genes switched on. Differentiation is accompanied by changes in the amount and type of organelles, which is exactly what you recognize down a microscope: an erythroblast loses its nucleus, a plasma cell fills with rough ER, a muscle cell fills with contractile filaments.
 
-**Stem cells** retain the capacity to divide and to produce differentiated progeny. They divide **asymmetrically**: one daughter renews the stem-cell pool, the other commits to differentiation. This mechanism explains tissue renewal in the gut, epidermis, and bone marrow (Chapter 3).
+**Stem cells** retain the capacity to self-renew and produce differentiated progeny. They can undergo **asymmetric division** (one daughter retains stem-cell identity and one differentiates) or **symmetric division** (expanding or reducing the stem-cell pool according to context). The balance helps regulate tissue renewal in the gut, epidermis, and bone marrow (Chapter 3).
 
 ### The Plasma Membrane
 
