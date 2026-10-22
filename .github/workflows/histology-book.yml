@@ -18,6 +18,7 @@ on:
       - 'junqueira-exam-guide/tools/make_study_decks.py'
       - 'junqueira-exam-guide/tools/make_question_bank.py'
       - 'junqueira-exam-guide/tools/validate_study_materials.py'
+      - 'junqueira-exam-guide/tools/generate_atlas.py'
       - 'junqueira-exam-guide/data/extra_cards.tsv'
       - '.github/workflows/histology-book.yml'
   pull_request:
@@ -97,6 +98,7 @@ jobs:
             junqueira-exam-guide/Basic_Histology_Learning_Text.epub
             junqueira-exam-guide/Basic_Histology_Learning_Text.html
             junqueira-exam-guide/publication-manifest.json
+            junqueira-exam-guide/build/atlas/*.png
             junqueira-exam-guide/deliverables/junqueira_flashcards.csv
             junqueira-exam-guide/deliverables/junqueira_question_bank.csv
           if-no-files-found: error
