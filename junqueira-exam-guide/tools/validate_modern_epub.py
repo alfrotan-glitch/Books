@@ -27,6 +27,10 @@ def main():
         for required in (".table-scroll", "prefers-color-scheme: dark",
                          "font-family:", "max-width: 100%", "focus"):
             assert required in css, f"Missing reader-friendly CSS feature: {required}"
+        dark_css = css.split("@media (prefers-color-scheme: dark)", 1)[-1]
+        assert re.search(r"body\s*\{[^}]*color:\s*#[0-9A-Fa-f]{6};[^}]*background:\s*#[0-9A-Fa-f]{6}", dark_css), (
+            "Dark mode must set contrasting foreground and background colors"
+        )
 
         spine = ET.fromstring(z.read("EPUB/content.opf"))
         metadata = spine.find("o:metadata", N)
