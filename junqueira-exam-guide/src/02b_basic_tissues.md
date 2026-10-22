@@ -450,7 +450,7 @@ Skeletal muscle can regenerate to a limited extent from **satellite cells**; pre
 - Smooth muscle contraction uses **myosin light-chain kinase**; it has no troponin.
 - Intercalated discs contain **fasciae adherentes, desmosomes, and gap junctions** — not tight junctions.
 - Skeletal muscle regeneration depends on **satellite cells** and is more effective when extracellular-matrix scaffolds are preserved.
-- Cardiac muscle does not regenerate; infarction heals by scar.
+- Adult cardiomyocyte renewal is very limited; a substantial myocardial infarct heals mainly through scar formation.
 - Type I fibers = slow, oxidative, fatigue-resistant. Type II = fast, glycolytic.
 - Duchenne dystrophy = **dystrophin** defect; myasthenia gravis = antibody to the nicotinic receptor.
 - Muscle spindle = stretch receptor; Golgi tendon organ = tension receptor.
