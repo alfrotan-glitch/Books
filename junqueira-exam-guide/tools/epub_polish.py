@@ -121,6 +121,7 @@ section.titlepage { text-align: center; margin: 16% auto 0; max-width: 90%; }
   figure { margin: .9em 0 1.15em; }
 }
 @media (prefers-color-scheme: dark) {
+  body { color: #E6F0F0; background: #14252B; }
   a, h3 { color: #85D5C9; }
   h1, thead { border-color: #62B8B0; }
   h2, th, td { border-color: #58686F; }
