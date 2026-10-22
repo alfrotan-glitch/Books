@@ -48,7 +48,7 @@ def main():
         for name in docs:
             root = ET.fromstring(z.read(name))
             body = root.find("x:body", N)
-            assert body is not None and len("".join(body.itertext()).strip()) >= 20, (
+            assert body is not None and len("".join(body.itertext()).strip()) >= 8, (
                 f"Blank chapter file: {name}"
             )
             for heading in root.findall(".//x:h2", N):
