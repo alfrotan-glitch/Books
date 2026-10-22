@@ -96,9 +96,9 @@ A. ATP synthesis <br/>B. Uncoupling of oxidative phosphorylation to produce heat
 
 A. Increase insulin sensitivity <br/>B. Increase blood pressure <br/>C. Stimulate lipolysis in brown fat <br/>D. Reduce appetite
 
-**23.** Which cartilage type lacks a perichondrium?
+**23.** Which cartilage type characteristically lacks a perichondrium throughout its normal locations?
 
-A. Elastic <br/>B. Fibrocartilage <br/>C. Tracheal hyaline <br/>D. Hyaline
+A. Elastic <br/>B. Fibrocartilage <br/>C. Tracheal hyaline <br/>D. Costal hyaline
 
 **24.** The intervertebral disc's annulus fibrosus is composed of:
 
@@ -224,9 +224,9 @@ A. Antibody alone <br/>B. MHC class I <br/>C. MHC class II <br/>D. MHC class III
 
 A. Thymus <br/>B. Tonsil <br/>C. Spleen <br/>D. Lymph node
 
-**54.** Which organs lack afferent lymphatic vessels?
+**54.** Which pair of lymphoid organs characteristically lacks afferent lymphatic vessels?
 
-A. Lymph node <br/>B. Thymus and spleen <br/>C. Tonsil <br/>D. Appendix
+A. Lymph node and spleen <br/>B. Thymus and spleen <br/>C. Tonsil and lymph node <br/>D. Appendix and lymph node
 
 **55.** The periarteriolar lymphoid sheath of the spleen contains mainly:
 
@@ -408,7 +408,7 @@ A. Menstrual <br/>B. Proliferative <br/>C. Secretory <br/>D. Gestational
 
 A. FSH <br/>B. Estrogen <br/>C. Progesterone <br/>D. hCG
 
-**98.** The fovea centralis contains:
+**98.** The central foveola (the center of the fovea) normally contains which photoreceptors?
 
 A. Both equally <br/>B. Neither <br/>C. Rods only <br/>D. Cones only
 
@@ -466,7 +466,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **22. A** — Adiponectin increases insulin sensitivity; it is reduced in obesity. **Trap:** D is leptin. B and C are not adiponectin actions.
 
-**23. B** — Fibrocartilage has no perichondrium, which contributes to its poor healing. **Trap:** D and A have perichondrium. C is hyaline and is covered by perichondrium.
+**23. B** — Fibrocartilage characteristically lacks a perichondrium. **Trap:** Elastic, tracheal hyaline, and costal hyaline cartilage generally have a perichondrium; **articular hyaline cartilage** is an important exception and also lacks one.
 
 **24. D** — The annulus fibrosus is fibrocartilage, with type I and type II collagen. **Trap:** B is the articular surface. C is the epiglottis. A is tendon.
 
@@ -528,7 +528,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **53. A** — Hassall corpuscles are concentric epithelial whorls unique to the thymic medulla. **Trap:** C has no corpuscles. D has follicles and sinuses. B has crypts and lymphoid tissue.
 
-**54. B** — Neither the thymus nor the spleen has afferent lymphatics. **Trap:** A has afferent lymphatics. C and D are MALT, not encapsulated organs.
+**54. B** — Thymus and spleen lack afferent lymphatic vessels: the thymus is a primary lymphoid organ, while the spleen samples blood-borne antigens. **Trap:** Every other pair contains a lymph node, which does have afferent lymphatics. **Tonsils themselves also lack afferent lymphatics**, so a single-organ choice of 'tonsil' would be ambiguous.
 
 **55. C** — The PALS is the T-cell zone of the spleen; follicles are the B-cell zone. **Trap:** B occupies follicles. D and A are present but not the defining population.
 
@@ -616,7 +616,7 @@ A. Spiral ganglion cells <br/>B. Tectorial cells <br/>C. Hair cells <br/>D. Supp
 
 **97. C** — The corpus luteum secretes mainly progesterone. **Trap:** B is a minor product. D comes from trophoblast. A comes from pituitary.
 
-**98. D** — The fovea contains cones only, giving maximal acuity and color vision. **Trap:** C is the periphery. A is false. B is the optic disc, not the fovea.
+**98. D** — The central **foveola** is rod-free and contains densely packed cones, supporting high-acuity color vision. **Trap:** Rods can occur at the periphery of the larger fovea; the optic disc, rather than the foveola, has no photoreceptors.
 
 **99. A** — Aqueous humor drains through the trabecular meshwork into the canal of Schlemm. **Trap:** D is behind the lens. B produces it. C is not a drainage route.
 
