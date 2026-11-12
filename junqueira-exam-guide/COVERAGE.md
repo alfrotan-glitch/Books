@@ -84,7 +84,7 @@ Specialist medical review, question-by-question scientific signoff, rights revie
 
 ## Limitations
 
-- **No images.** The book describes appearances in words. Recognition cannot be certified from a description, and no claim is made that a reader who has not used a microscope will recognise a slide.
+- **No third-party microscopy photographs are embedded.** The revised source generates twelve original schematic plates; diagrams are not a substitute for authentic microscopy and cannot establish that a learner can identify real specimens.
 - **Thirty reference pages had no text layer**, as listed above.
 - **Ranges differ by method, fixation and observer.** Where standard accounts differ, the text gives a range or states which value it uses.
 - **The book is not a clinical manual.** Clinical notes are for orientation.
