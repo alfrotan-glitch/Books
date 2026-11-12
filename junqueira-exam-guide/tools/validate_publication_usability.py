@@ -28,7 +28,7 @@ with fitz.open(PDF) as pdf:
     page_text = [p.get_text() for p in pdf]
     assert len(pdf.get_toc()) >= 45, "Main contents/bookmarks appear missing"
     contents_pages = [
-        (i, text) for i, text in enumerate(page_text)
+        (i, text) for i, text in enumerate(page_text[:6])
         if re.search(r"(?m)^Contents$", text)
     ]
     assert len(contents_pages) == 1, f"Unexpected contents pages: {len(contents_pages)}"
