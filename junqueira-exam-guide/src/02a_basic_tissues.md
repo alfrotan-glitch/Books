@@ -88,7 +88,7 @@ Epithelial classification becomes reliable when three separate observations are 
 
 **Microvilli.** Finger-like extensions with a core of **actin** filaments cross-linked by actin-bundling proteins (villin, fimbrin) and anchored in a **terminal web**. They multiply surface area for absorption. In the proximal tubule and small intestine they form a **brush border** visible as a fuzzy eosinophilic rim. In the epididymis and inner ear, unusually long, stiff microvilli are called **stereocilia** — a misnomer, because they contain no microtubules.
 
-**Cilia.** Motile, **9 + 2** microtubule axoneme with dynein arms, anchored to a **basal body (9 + 0)**. They move mucus, cerebrospinal fluid, and the ovum. A **primary cilium** is a single non-motile 9 + 0 cilium acting as a sensory antenna — its failure underlies polycystic kidney disease.
+**Cilia.** Conventional **motile epithelial cilia** have a **9 + 2 axoneme** (nine peripheral microtubule doublets plus a central pair, with dynein driving beating). Most **primary sensory cilia** have a **9 + 0 axoneme** (nine peripheral doublets, without a central pair) and act as signaling organelles; defects in ciliary signaling can cause kidney cystic diseases. Both arise from a **basal body formed from a centriole with nine microtubule triplets**. Do not confuse the triplet-based basal body with a 9 + 0 axoneme. Motile 9 + 0 nodal cilia are a specialized exception.
 
 **Basal infoldings.** Deep folds of the basal membrane packed with mitochondria — the "striated" appearance in the ducts of salivary glands and the distal tubule of the kidney. They are the morphological signature of **active ion transport**.
 
@@ -130,7 +130,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 
 > **MICRO** — Count layers, not nuclei. If every cell rests on the basement membrane and only the nuclei sit at different heights, the epithelium is **pseudostratified** — tall, ciliated, respiratory. If cells are stacked on one another, it is **stratified**. Then the top layer: **flat and anucleate** = keratinized; **flat with nuclei** = non-keratinized; **dome-shaped and large** = transitional; **tall with cilia** = respiratory.
 
-> **MNEMONIC** — **"Simple for exchange, stratified for stress, transitional for stretch."** For cilia, remember **9 + 2 moves, 9 + 0 anchors.**
+> **MNEMONIC** — **"Simple for exchange, stratified for stress, transitional for stretch."** Most motile respiratory cilia have a **9 + 2 axoneme**, while most primary sensory cilia have a **9 + 0 axoneme**. A basal body has **nine triplets**, not axonemal doublets.
 
 > **TIP** — Where is ciliated simple columnar epithelium found? The **uterine tube** — cilia move the ovum — and parts of the respiratory tract, where the epithelium is pseudostratified. Students often wrongly assign all ciliated epithelium to the lung.
 
@@ -146,7 +146,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 - Hemidesmosomes attach the basal cell to the basal lamina.
 - Basal lamina = lamina lucida + lamina densa (type IV collagen, laminin); the reticular lamina (type III) belongs to connective tissue.
 - Microvilli = actin core, increase surface; stereocilia = long, stiff microvilli; cilia = 9 + 2 microtubules, motile.
-- Basal bodies anchor cilia and have a 9 + 0 arrangement.
+- Basal bodies anchor cilia and comprise nine microtubule triplets; the 9 + 0 notation describes the usual primary-cilium axoneme, with nine outer doublets.
 - Apical specializations serve absorption or movement; basal specializations anchor and receive signals.
 - Epithelia renew from stem cells: labile (gut, skin) versus stable (liver, kidney).
 
@@ -155,7 +155,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 1. **How do you classify an epithelium in one pass?** — First count the layers (simple, stratified, pseudostratified), then name the surface cell shape (squamous, cuboidal, columnar).
 2. **What does a tight junction do besides sealing?** — It fences membrane proteins, creating and maintaining apical–basal polarity.
 3. **Which junction attaches a cell to the basal lamina?** — The hemidesmosome.
-4. **Microvillus, stereocilium, cilium — core structure?** — Microvillus: actin core. Stereocilium: long, stiff actin bundle. Cilium: 9 + 2 microtubules anchored by a 9 + 0 basal body.
+4. **Microvillus, stereocilium, cilium — core structure?** — Microvillus and stereocilium: actin-based; most motile epithelial cilia: 9 + 2 axoneme; typical primary cilium: 9 + 0 axoneme; a basal body has nine microtubule triplets.
 5. **Why is urothelium suited to the bladder?** — Umbrella cells with uroplakin plaques and tight junctions form an osmotic barrier, and the epithelium thins as the bladder fills.
 
 ### Exam-style question
