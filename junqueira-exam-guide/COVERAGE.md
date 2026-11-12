@@ -69,6 +69,19 @@ Source pages are given for provenance only; the book itself no longer cites them
 - The 100 questions were checked for a single correct answer and an explanation consistent with the chapter text; key distribution is 25/25/25/25.
 - **Not done:** independent expert or medical review; systematic reading of all 142 reference pages as images; EPUBCheck (no Java environment); rendering of the DOCX or HTML in Word or a browser; any legal clearance of copyright.
 
+## Targeted reference comparison and literature update — 12 November 2026
+
+All four Google Drive PDF parts of the principal 17th-edition reference were retrieved for targeted scientific comparison. These are checks of selected passages in Chapters 2, 4, 9, 20 and 22, **not** an independent line-by-line review of the entire book.
+
+- Reference Chapter 9 explains that most microglia derive from embryonic yolk-sac macrophage precursors, with minimal routine adult blood-monocyte input. Chapter 5 macrophage lineage was clarified.
+- Reference Chapters 2 and 4 discuss centrosomes in most cells, motile 9+2 epithelial cilia and centriolar-triplet basal bodies; universal wording and the missing primary-cilium distinction were corrected.
+- Reference Chapter 22 gives an approximate 90-day follicle-development estimate and an FSH-centered account. A 2021 modern review distinguishes early gonadotropin-independent from later responsive/dependent growth. The reference's figure is attributed, not silently presented as a precise physiological limit.
+- The reference describes weak egg-membrane depolarization in fertilization. Mammalian reviews do not establish a fast electrical human polyspermy block; text now emphasizes Ca2+-triggered cortical-granule release, zona modification and membrane mechanisms.
+- The older neural-crest-only C-cell origin was qualified based on endoderm-lineage studies (Nilsson & Williams 2016; Lobo et al. 2026).
+- The reference's corpus-luteum summary/body contradiction was correctly excluded from the manuscript.
+
+Specialist medical review, question-by-question scientific signoff, rights review and page/reader visual proof remain outstanding.
+
 ## Limitations
 
 - **No images.** The book describes appearances in words. Recognition cannot be certified from a description, and no claim is made that a reader who has not used a microscope will recognise a slide.

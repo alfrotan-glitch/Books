@@ -415,6 +415,14 @@ This independently written guide synthesizes concepts from standard microscopic 
 - *Regulation of the Germinal Center Response*. PMID:30410492 (2018). Germinal centers select B cells and generate antibody-secreting cells and memory B cells in cooperation with follicular helper T cells.
 - *Anatomy, Head and Neck, Palatine Tonsil*. StatPearls; 2023. NCBI Bookshelf NBK538296. Tonsils sample surface antigens and normally lack afferent lymphatic vessels.
 
+**Selected scientific updates beyond the principal 2024 textbook**
+
+- Nilsson M, Williams D. On the origin of cells and derivation of thyroid cancer: C cell story revisited. *European Thyroid Journal*. 2016;5:79–93. doi:10.1159/000447333. Endoderm-lineage evidence challenges the classical neural-crest-only assignment.
+- Lobo M, Johansson E, Kumari S, et al. Resolving thyroid lineage cell trajectories merging into a dual endocrine gland in mammals. *Nature Communications*. 2026;17:6811. doi:10.1038/s41467-026-73385-6. Mammalian pharyngeal-endoderm lineage research.
+- The role of pituitary gonadotropins and intraovarian regulators in follicle development: A mini-review. *Reproductive Medicine and Biology*. 2021. doi:10.1002/rmb2.12371. Gonadotropin-independent early and later FSH-responsive/dependent stages.
+- Preventing polyspermy in mammalian eggs: Contributions of the membrane block and other mechanisms. *Molecular Reproduction and Development*. 2020. doi:10.1002/mrd.23331. A universal fast electrical block is not established in humans.
+- The biology and dynamics of mammalian cortical granules. *Reproductive Biology and Endocrinology*. 2011;9:149. doi:10.1186/1477-7827-9-149. Mammalian zona and membrane blocks to polyspermy.
+
 **Evidence and verification limits.** The manuscript underwent automated structural checks and targeted correction of specific histology claims. The dated, identifiable references above support those selected corrections; this is **not** a comprehensive citation-by-citation audit of all measurements, mechanisms, clinical correlations, or practice questions. General textbook coverage does not replace independent specialist review. Numeric estimates vary by specimen, method, and population and should be interpreted as approximate unless a clear source and context are supplied.
 
 **Limits.** The original schematic plates in Appendix D are not histological photographs and cannot certify what appears in a particular specimen. Recognizing real tissue requires laboratory or virtual microscopy. Clinical notes are for orientation and are not medical advice.

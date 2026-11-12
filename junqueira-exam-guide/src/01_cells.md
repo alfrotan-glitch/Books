@@ -264,7 +264,7 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 
 **Microtubules are polar.** **Kinesin** walks cargo toward the plus end (anterograde, away from the cell body); **dynein** walks toward the minus end (retrograde, back to the cell body). Rabies and herpes viruses exploit dynein to travel to the neuronal soma.
 
-**Cilia and flagella** have a **9 + 2** arrangement with dynein arms; the **basal body** has **9 + 0**. Defective dynein causes **primary ciliary dyskinesia**, of which **Kartagener syndrome** (situs inversus, bronchiectasis, sinusitis, male infertility) is the classic form.
+**Motile cilia** in respiratory and many other epithelia generally contain a **9 + 2** axoneme (nine peripheral microtubule doublets and a central pair); dynein drives their beating. Most **primary cilia** are instead nonmotile **9 + 0** sensory organelles (nine peripheral doublets without a central pair). The anchoring **basal body** has **nine microtubule triplets**, like a centriole, rather than the same doublet organization as the axoneme. Specialized exceptions include motile 9 + 0 nodal cilia. Dynein defects cause some cases of **primary ciliary dyskinesia**; Kartagener syndrome (situs inversus, bronchiectasis, chronic sinusitis) is a classic, but not universal, presentation.
 
 ### Inclusions
 
@@ -287,7 +287,7 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 - The lysosome is the acid hydrolase compartment; its failure produces storage diseases.
 - Microtubules are 25 nm, actin filaments 7 nm, intermediate filaments 10 nm.
 - Kinesin walks toward the microtubule plus end (anterograde); dynein toward the minus end (retrograde).
-- Cilia are 9 + 2 and motile; basal bodies are 9 + 0; microvilli have an actin core.
+- Most motile epithelial cilia have a 9 + 2 axoneme; primary sensory cilia usually have a 9 + 0 axoneme; basal bodies contain nine microtubule triplets. Microvilli have an actin core.
 - Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is classically passive and inflammatory, though some regulated lytic death programs blur the distinction.
 
 ### Active recall
@@ -332,7 +332,7 @@ The nucleus stores the genome, transcribes it, and duplicates it before division
 
 **Nuclear envelope.** Two membranes separated by a **perinuclear cisterna**, continuous with the rough ER. Beneath the inner membrane lies the **nuclear lamina**, a meshwork of **lamins A, B, and C** that supports the envelope and organizes chromatin. **Mutations in lamin A cause Hutchinson–Gilford progeria.**
 
-**Centrosomes.** Each cell has a pair of **centrioles** — nine microtubular triplets — surrounded by pericentriolar material: the **centrosome**, the microtubule-organizing center that builds the mitotic spindle, and the **basal body** of a cilium.
+**Centrosomes.** Most typical cycling animal cells possess a **centrosome** containing a pair of **centrioles**, each assembled from nine microtubule triplets, and surrounding pericentriolar material. Centrosomes organize spindle microtubules; centrioles can become the **basal bodies** of cilia. This is not universal: mature human erythrocytes lack a centrosome, and differentiated cell types vary in centrosome organization.
 
 **Nuclear pores.** 3,000–4,000 per nucleus. Each is a **nuclear pore complex** about 100 nm wide, built from roughly 34 nucleoporins, and can pass up to about 1,000 macromolecules per second. Small molecules diffuse; proteins and RNA require **importins and exportins** and a Ran-GTP gradient.
 
