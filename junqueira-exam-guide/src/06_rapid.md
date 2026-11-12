@@ -417,6 +417,9 @@ This independently written guide synthesizes concepts from standard microscopic 
 
 **Selected scientific updates beyond the principal 2024 textbook**
 
+- Chorro L, Sarde A, Li M, et al. Langerhans cell origin and regulation. *Current Opinion in Hematology*. 2016. doi:10.1097/MOH.0000000000000202. Epidermal Langerhans cells arise in embryonic waves and self-renew; adult blood-derived contribution is context-dependent.
+- Ishikawa T. Axoneme structure from motile cilia. *Cold Spring Harbor Perspectives in Biology*. 2017;9:a028076. doi:10.1101/cshperspect.a028076. The basal body has nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
+
 - Nilsson M, Williams D. On the origin of cells and derivation of thyroid cancer: C cell story revisited. *European Thyroid Journal*. 2016;5:79–93. doi:10.1159/000447333. Endoderm-lineage evidence challenges the classical neural-crest-only assignment.
 - Lobo M, Johansson E, Kumari S, et al. Resolving thyroid lineage cell trajectories merging into a dual endocrine gland in mammals. *Nature Communications*. 2026;17:6811. doi:10.1038/s41467-026-73385-6. Mammalian pharyngeal-endoderm lineage research.
 - The role of pituitary gonadotropins and intraovarian regulators in follicle development: A mini-review. *Reproductive Medicine and Biology*. 2021. doi:10.1002/rmb2.12371. Gonadotropin-independent early and later FSH-responsive/dependent stages.

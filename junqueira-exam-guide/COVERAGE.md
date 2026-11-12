@@ -88,3 +88,14 @@ Specialist medical review, question-by-question scientific signoff, rights revie
 - **Thirty reference pages had no text layer**, as listed above.
 - **Ranges differ by method, fixation and observer.** Where standard accounts differ, the text gives a range or states which value it uses.
 - **The book is not a clinical manual.** Clinical notes are for orientation.
+
+## Follow-up exam-question and usable-reader audit — 12 November 2026
+
+A content review of the 100 generated canonical multiple-choice stems, answers and rationales identified three high-impact inconsistencies between science updates and old question explanations:
+- #10 confused the 9+0 doublet-based primary-cilium axoneme with the triplet-based basal body.
+- #35 attributed resident microglia to ordinary monocytes rather than embryonic yolk-sac progenitors.
+- #60 incorrectly implied epidermal Langerhans cells originate only in adult bone marrow.
+
+The corrected source `src/07_mcq.md` is the single source for generated question-bank CSV and explanations in PDF, DOCX, EPUB and HTML. The source references added to Appendix C support these distinctions. A question-by-question specialist certification of the complete exam remains outstanding.
+
+Reader navigation audit found the PDF Table of Contents was not clickable and split with one orphaned entry to a separate page; PDF external microscope resources also lacked clickable link annotations. These were addressed in the PDF renderer and explicit, institution-hosted virtual-slide Markdown links were added across formats. Automated release tests enforce navigability and visible TOC layout, but are not a substitute for visual proofreading on physical devices.

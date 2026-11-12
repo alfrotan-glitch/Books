@@ -108,10 +108,10 @@ STY = {
     "quote":      S("quote", fontName="Body", fontSize=9.3, leading=13.2,
                     alignment=TA_LEFT, leftIndent=9, rightIndent=9,
                     spaceBefore=8, spaceAfter=8),
-    "toc0":       S("toc0", fontName="Head", fontSize=8.5, leading=9.1,
-                    textColor=INK, alignment=TA_LEFT, spaceBefore=1.1),
-    "toc1":       S("toc1", fontName="Head-Reg", fontSize=7.8, leading=7.9,
-                    textColor=MUTED, leftIndent=12, alignment=TA_LEFT),
+    "toc0":       S("toc0", fontName="Head", fontSize=8.5, leading=10,
+                    textColor=INK, alignment=TA_LEFT, spaceBefore=2, spaceAfter=2.8),
+    "toc1":       S("toc1", fontName="Head-Reg", fontSize=8.1, leading=8.6,
+                    textColor=MUTED, leftIndent=12, alignment=TA_LEFT, spaceAfter=1.5),
     "cell":       S("cell", fontName="Head-Reg", fontSize=7.9, leading=10.1,
                     alignment=TA_LEFT, spaceAfter=0),
     "cellhead":   S("cellhead", fontName="Head", fontSize=7.9, leading=10.1,
@@ -149,6 +149,14 @@ def inline(text, bold="Body-Bold", base="Body"):
             out.append('<font name="%s">%s</font>' % (base, part))
     text = "".join(out)
     text = re.sub(r"(?<![\*<])\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"<i>\1</i>", text)
+
+    # Make explicitly authored HTTPS Markdown links clickable in the PDF.
+    # The input was HTML-escaped above; allow no arbitrary link tags or schemes.
+    def link_to_reportlab(match):
+        label, url = match.group(1), match.group(2)
+        escaped_url = url.replace('"', "&quot;")
+        return '<link href="%s" color="#0E6B6B"><u>%s</u></link>' % (escaped_url, label)
+    text = re.sub(r"\[([^\]\n]+)\]\((https://[^\s)]+)\)", link_to_reportlab, text)
     return text
 
 
@@ -415,7 +423,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(MUTED)
         canv.setFont("Head-Reg", 8.5)
-        canv.drawString(ML, 58, "First edition  ·  Text only: no histological images are reproduced")
+        canv.drawString(ML, 58, "First edition  ·  Original schematic atlas; no third-party micrographs reproduced")
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -423,15 +431,15 @@ class Book(BaseDocTemplate):
             name = flowable.style.name
             if name == "part_title":
                 self._seen_part = True
-                self.notify("TOCEntry", (0, flowable.getPlainText(), self.page))
                 key = "part-%d" % self.page
+                self.notify("TOCEntry", (0, flowable.getPlainText(), self.page, key))
                 self.canv.bookmarkPage(key)
                 self.canv.addOutlineEntry(flowable.getPlainText(), key, 0, 0)
             elif name == "chapter":
                 # Front-matter headings sit at outline level 0; chapters nest under their part.
                 outline = 1 if getattr(self, "_seen_part", False) else 0
-                self.notify("TOCEntry", (1, flowable.getPlainText(), self.page))
                 key = "ch-%d-%d" % (self.page, id(flowable) % 9999)
+                self.notify("TOCEntry", (1, flowable.getPlainText(), self.page, key))
                 self.canv.bookmarkPage(key)
                 self.canv.addOutlineEntry(flowable.getPlainText(), key, outline, 0)
 

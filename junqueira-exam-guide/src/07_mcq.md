@@ -42,9 +42,9 @@ A. Myosin <br/>B. Dynein and kinesin equally <br/>C. Kinesin <br/>D. Dynein
 
 A. Vimentin <br/>B. GFAP <br/>C. Neurofilament <br/>D. Desmin
 
-**10.** A cell with a 9 + 0 arrangement of microtubules is:
+**10.** Which cell-surface specialization usually has a 9 + 0 axoneme consisting of nine peripheral microtubule doublets without a central pair?
 
-A. A basal body <br/>B. A sperm flagellum <br/>C. A microvillus <br/>D. A motile cilium
+A. A primary sensory cilium <br/>B. A sperm flagellum <br/>C. A microvillus <br/>D. A conventional motile respiratory cilium
 
 **11.** A mutation in lamin A produces:
 
@@ -146,9 +146,9 @@ A. Rough ER and polysomes <br/>B. Neurofilaments <br/>C. Synaptic vesicles <br/>
 
 A. Schwann cell <br/>B. Microglia <br/>C. Astrocyte <br/>D. Oligodendrocyte
 
-**35.** Microglia are derived from:
+**35.** Which developmental population gives rise to most resident microglia in the healthy CNS?
 
-A. Neural tube <br/>B. Mesoderm (monocyte lineage) <br/>C. Endoderm <br/>D. Neural crest
+A. Neural-tube neuroepithelial cells <br/>B. Embryonic yolk-sac myeloid progenitors <br/>C. Gut endodermal epithelium <br/>D. Migrating neural-crest cells
 
 **36.** The blood–brain barrier is formed principally by:
 
@@ -453,7 +453,7 @@ This examination is a *retrieval and interpretation exercise*, not a prediction 
 
 **9. B** — GFAP is the characteristic intermediate filament of astrocytes. **Trap:** D is muscle. A is connective tissue and some neural cells. C is the neuronal cytoskeleton.
 
-**10. A** — The basal body is 9 + 0; the motile cilium and flagellum are 9 + 2. **Trap:** D and B are 9 + 2. C has no microtubules at all.
+**10. A** — A typical primary sensory cilium has a **9 + 0 axoneme** made of nine peripheral microtubule **doublets**, without a central pair. A basal body, in contrast, has nine microtubule **triplets** and is not an axoneme. **Trap:** B and the conventional motile respiratory cilium D have 9 + 2 axonemes; C has an actin-filament core, not microtubules. Motile 9 + 0 nodal cilia are a specialized exception.
 
 **11. B** — Lamin A mutations destabilize the nuclear envelope and cause Hutchinson–Gilford progeria. **Trap:** C is dystrophin. D is fibrillin. A is type IV collagen.
 
@@ -503,7 +503,7 @@ This examination is a *retrieval and interpretation exercise*, not a prediction 
 
 **34. D** — One oligodendrocyte myelinates segments of several CNS axons. **Trap:** C is a supporting astrocyte. A myelinates in the PNS. B is phagocytic.
 
-**35. B** — Microglia are mesodermal, derived from monocytes — the exception among glia. **Trap:** D gives melanocytes and Schwann cells. A gives neurons and macroglia. C gives epithelia.
+**35. B** — Most resident microglia originate from **embryonic yolk-sac myeloid progenitors** and are sustained mainly by local self-renewal in steady state. They are **not routinely replenished by circulating adult blood monocytes**. **Trap:** A gives neurons and much macroglia, D contributes peripheral glia and melanocytes, while C gives epithelial derivatives.
 
 **36. C** — Tight junctions between endothelial cells are the anatomical basis; astrocyte feet and pericytes reinforce it. **Trap:** B contributes a barrier but is not the seal. D lines ventricles. A support the capillary.
 
@@ -553,7 +553,7 @@ This examination is a *retrieval and interpretation exercise*, not a prediction 
 
 **59. A** — In the second trimester, the liver and spleen are the main hemopoietic organs. **Trap:** D is the earliest site. B and C are later or lymphoid.
 
-**60. C** — Langerhans cells are the epidermal antigen-presenting cells; they originate in bone marrow. **Trap:** A is structural. B is pigment-producing. D is a mechanoreceptor.
+**60. C** — Langerhans cells are dendritic **antigen-presenting cells** in epidermis. Many arise prenatally from embryonic yolk-sac and fetal-liver precursors and self-renew locally in steady state; circulating bone-marrow-derived precursors can contribute after significant inflammation. A simple statement that all originate in adult bone marrow is misleading. **Trap:** A is the structural keratinocyte, B makes pigment, and D mediates touch.
 
 **61. A** — Auerbach's plexus lies between the circular and longitudinal layers of the muscularis externa. **Trap:** D contains the submucosal (Meissner) plexus. C is the mucosa; B is the outer covering.
 

@@ -75,3 +75,15 @@ for stale_phrase in ("each cell has a pair of **centrioles**", "FSH-dependent fr
                      "Membrane depolarization and a **Ca²⁺ wave** trigger"):
     assert stale_phrase.casefold() not in whole, f"Outdated claim returned: {stale_phrase}"
 print("November 2026 targeted correction guards PASS; external scientific approval still required.")
+
+# Question-bank semantic audit: a correct answer key is not proof of a true rationale.
+q = parts["07_mcq.md"]
+assert "**10. A** — A typical primary sensory cilium has a **9 + 0 axoneme**" in q
+assert "nine microtubule **triplets**" in q, "Basal-body triplets missing from MCQ 10"
+assert "**35. B** — Most resident microglia originate from" in q
+assert "**60. C** — Langerhans cells are dendritic" in q
+for obsolete in ("The basal body is 9 + 0; the motile cilium",
+                 "Microglia are mesodermal, derived from monocytes",
+                 "they originate in bone marrow. **Trap:**"):
+    assert obsolete.casefold() not in q.casefold(), f"Incorrect exam explanation returned: {obsolete}"
+print("Three high-impact MCQ corrections PASS (targeted textual checks, not exam validation).")
