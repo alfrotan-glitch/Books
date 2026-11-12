@@ -258,6 +258,72 @@ def pattern(d, kind, a):
                 d.ellipse((x-18,y0+190,x+18,y0+215),fill="#F9E3E8",outline=FIBER,width=3)
                 nucleus(d,x,y0+203,7,7)
             d.rectangle((x0+10,y0+320,x1-10,y0+355),fill="#C788A1")
+    elif kind in ("motilecil","sensorycil","microvillus"):
+        cy=y0+200
+        if kind=="microvillus":
+            d.ellipse((cx-130,cy-145,cx+130,cy+145),fill=TISSUE,outline=FIBER,width=6)
+            for k in range(11):
+                xx=cx-100+k*20
+                d.line([(xx,cy-113),(xx+9,cy+108)],fill=ACCENT,width=5)
+            text(d,(x0+60,y0+387),"Actin core; no axoneme",f=F15)
+        else:
+            d.ellipse((cx-140,cy-140,cx+140,cy+140),fill=PALE,outline=ACCENT,width=6)
+            for k in range(9):
+                a=2*math.pi*k/9
+                xx=cx+int(104*math.cos(a)); yy=cy+int(104*math.sin(a))
+                dot(d,xx-8,yy,10,PURPLE); dot(d,xx+10,yy,10,FIBER)
+            if kind=="motilecil":
+                dot(d,cx-13,cy,10,PURPLE); dot(d,cx+13,cy,10,FIBER)
+                text(d,(x0+75,y0+387),"9 + 2 axoneme",f=F15)
+            else:
+                text(d,(x0+75,y0+387),"9 + 0 axoneme",f=F15)
+    elif kind in ("primordialfol","antralfol","lutealfol"):
+        cy=y0+204
+        d.ellipse((cx-152,cy-148,cx+152,cy+148),fill="#E7BACB",outline=PURPLE,width=5)
+        if kind=="primordialfol":
+            d.ellipse((cx-95,cy-92,cx+95,cy+92),fill="#FFEAC9",outline=FIBER,width=5)
+            nucleus(d,cx,cy,30,29)
+            for k in range(12):
+                a=k*math.pi/6; xx=cx+int(120*math.cos(a)); yy=cy+int(118*math.sin(a))
+                d.ellipse((xx-19,yy-9,xx+19,yy+9),fill=FIBER)
+            text(d,(x0+40,y0+383),"Flattened follicular cells",f=F15)
+        elif kind=="antralfol":
+            d.ellipse((cx-108,cy-106,cx+108,cy+106),fill=PALE,outline=ACCENT,width=5)
+            d.ellipse((cx+34,cy+33,cx+103,cy+99),fill="#FFEAC9",outline=FIBER,width=6)
+            nucleus(d,cx+68,cy+65,14,14)
+            text(d,(x0+45,y0+383),"Antrum; granulosa; oocyte",f=F15)
+        else:
+            rng=random.Random(2026)
+            for _ in range(42):
+                xx=cx+rng.randint(-115,115); yy=cy+rng.randint(-106,106)
+                d.ellipse((xx-17,yy-13,xx+17,yy+13),fill="#F9DCE2",outline=FIBER,width=2)
+                nucleus(d,xx,yy,4,6)
+            d.line([(cx-120,cy-22),(cx-20,cy+36),(cx+105,cy+81)],fill=ACCENT,width=11)
+            text(d,(x0+43,y0+383),"Vascular luteinized tissue",f=F15)
+    elif kind in ("thyroidfol","parathyroidfol","adrenalfol"):
+        cy=y0+205
+        if kind=="thyroidfol":
+            for xx,yy in ((cx-78,cy-69),(cx+75,cy-65),(cx,cy+89)):
+                d.ellipse((xx-73,yy-70,xx+73,yy+70),fill="#E8BBCA",outline=PURPLE,width=4)
+                d.ellipse((xx-54,yy-52,xx+54,yy+52),fill=GOLD,outline=ACCENT,width=4)
+            text(d,(x0+40,y0+384),"Colloid in epithelial follicles",f=F15)
+        elif kind=="parathyroidfol":
+            for j in range(9):
+                for k in range(7):
+                    xx=x0+42+k*43; yy=y0+65+j*33
+                    d.ellipse((xx-14,yy-12,xx+14,yy+12),fill="#E9B8C6",outline=FIBER,width=2)
+                    nucleus(d,xx,yy,5,5)
+            for j in range(4):
+                d.line([(x0+24,y0+105+j*80),(x1-25,y0+91+j*80)],fill=ACCENT,width=5)
+            text(d,(x0+45,y0+384),"Chief-cell cords and capillaries",f=F15)
+        else:
+            for j,(lab,shade) in enumerate((("Glomerulosa","#E7B3C1"),("Fasciculata","#F4DCAA"),("Reticularis","#C28DA4"))):
+                yy=y0+57+j*110
+                d.rectangle((x0+24,yy,x1-24,yy+105),fill=shade,outline=FIBER,width=3)
+                text(d,(x0+45,yy+16),lab,f=F17)
+                for k in range(6):
+                    nucleus(d,x0+57+k*48,yy+73,8,9)
+            text(d,(x0+42,y0+398),"Cortex only; medulla omitted",f=F15)
     elif kind in ("thickskin","thinskin","gland"):
         cy=y0+200
         if kind!="gland":
@@ -295,6 +361,12 @@ PLATES = [
      [("Compact bone","osteon","Osteons around central canals"),("Spongy bone","trabeculae","Network of trabeculae"),("Hyaline cartilage","cartilagebone","Chondrocytes in lacunae")]),
     ("skin_patterns","Skin section landmarks","Compare epidermal thickness and adnexal structures",
      [("Thick skin","thickskin","Thick corneum; no hair"),("Thin skin","thinskin","Hair and thinner epidermis"),("Sweat gland coil","gland","Epithelial secretory tubules")]),
+    ("cilia_patterns","Surface specializations","A cross-section of the axoneme is not a basal body",
+     [("Motile cilium","motilecil","Nine doublets and central pair"),("Primary cilium","sensorycil","Usually nine doublets only"),("Microvillus","microvillus","Actin, not microtubules")]),
+    ("ovarian_patterns","Ovarian structures","Primordial follicle, antral follicle and corpus luteum are distinct stages",
+     [("Primordial follicle","primordialfol","Oocyte + flat cells"),("Antral follicle","antralfol","Large fluid space"),("Corpus luteum","lutealfol","Folded endocrine tissue")]),
+    ("endocrine_patterns","Endocrine tissue recognition","Find follicles, cords or zones before naming a gland",
+     [("Thyroid","thyroidfol","Colloid-filled follicles"),("Parathyroid","parathyroidfol","Capillary-rich cell cords"),("Adrenal cortex","adrenalfol","Three cortical zones")]),
 ]
 
 def generate():

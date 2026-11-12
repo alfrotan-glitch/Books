@@ -1,6 +1,6 @@
 ## Appendix D · An Original Schematic Pattern Atlas
 
-**How to use this atlas.** These nine illustrations were drawn specifically for this book from simplified geometric shapes. They are **not photomicrographs**, are **not drawn to scale**, and do not show every cell or tissue boundary. Use each plate to learn the *relationships* among structures, then verify those relationships with real H&E, special-stain, or virtual-microscopy sections. Color here is instructional and is not a claim about staining.
+**How to use this atlas.** These twelve illustrations were drawn specifically for this book from simplified geometric shapes. They are **not photomicrographs**, are **not drawn to scale**, and do not show every cell or tissue boundary. Use each plate to learn the *relationships* among structures, then verify those relationships with real H&E, special-stain, or virtual-microscopy sections. Color here is instructional and is not a claim about staining.
 
 ### Plate 1 — Epithelial organization
 
@@ -55,5 +55,23 @@
 ![Original schematic plate comparing thick skin, hair-bearing thin skin, and a sweat gland coil.](build/atlas/skin_patterns.png)
 
 **Look for:** epidermal thickness, the stratum corneum and skin appendages. Hair follicles occur in thin skin, not thick palmar or plantar skin; eccrine sweat glands are present in both. **Microscope challenge:** distinguish a sweat-gland duct from the secretory coil by lumen size and epithelial appearance.
+
+### Plate 10 — Motile cilia, primary cilia, and microvilli
+
+![Original cross-sectional teaching diagram comparing 9+2 axonemal motile cilia, 9+0 primary cilia and actin-core microvilli.](build/atlas/cilia_patterns.png)
+
+**Look for:** the central microtubule pair in conventional motile cilia, its absence in typical primary cilia, and the actin core of microvilli. The basal body is *not pictured*; it contains nine microtubule triplets. Motile 9+0 nodal cilia are an exception. **Challenge:** these structural distinctions require electron microscopy, not ordinary H&E.
+
+### Plate 11 — Ovary through a follicular cycle
+
+![Original schematic of a primordial follicle, fluid-containing antral follicle and vascular corpus luteum.](build/atlas/ovarian_patterns.png)
+
+**Look for:** flat follicular cells around the primordial oocyte, a fluid-filled antrum with granulosa around the oocyte, then vascularized luteal endocrine tissue. The corpus luteum is **not** a persistent fluid-filled follicle. **Challenge:** identify primary follicles separately by their *cuboidal* granulosa cells.
+
+### Plate 12 — Thyroid, parathyroid, and adrenal cortex
+
+![Original schematic distinguishing thyroid colloid-filled follicles, parathyroid chief-cell cords, and the three adrenal cortical zones.](build/atlas/endocrine_patterns.png)
+
+**Look for:** extracellular colloid in the thyroid; chief-cell cords and capillaries without follicles in parathyroid; glomerulosa, fasciculata and reticularis layers in adrenal cortex. The adrenal medulla is **not** shown. **Challenge:** identify each at low magnification before looking for individual cell types.
 
 **Final identification rule:** these diagrams teach where to look, not what every real section must resemble. Confirm identifications using tissue relationships, stain, section orientation, and more than one diagnostic landmark.
