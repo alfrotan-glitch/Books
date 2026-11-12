@@ -206,7 +206,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 16. Peroxisomes contain catalase.
 17. Proteasomes degrade ubiquitin-tagged protein.
 18. Kinesin = anterograde; dynein = retrograde.
-19. Cilia = 9 + 2; basal body = 9 + 0.
+19. Conventional motile epithelial cilium = 9 + 2 doublet-based axoneme; primary sensory cilium usually = 9 + 0 doublet-based axoneme; basal body = nine microtubule triplets.
 20. Keratin = epithelium; vimentin = mesenchyme; desmin = muscle; GFAP = astrocyte.
 21. Lamin A mutation = progeria.
 22. Nucleolus makes rRNA; NORs on 13, 14, 15, 21, 22.
@@ -416,6 +416,11 @@ This independently written guide synthesizes concepts from standard microscopic 
 - *Anatomy, Head and Neck, Palatine Tonsil*. StatPearls; 2023. NCBI Bookshelf NBK538296. Tonsils sample surface antigens and normally lack afferent lymphatic vessels.
 
 **Selected scientific updates beyond the principal 2024 textbook**
+
+- Van Keymeulen A, Mascre G, Youseff KK, et al. Epidermal progenitors give rise to Merkel cells during embryonic development and adult homeostasis. *J Cell Biol*. 2009;187:91–100. doi:10.1083/jcb.200907080. Mammalian lineage tracing supports epidermal rather than neural-crest-derived Merkel cells.
+- Morrison KM, Miesegaes GR, Lumpkin EA, Maricich SM. Mammalian Merkel cells are descended from the epidermal lineage. *Dev Biol*. 2009;336:76–83. doi:10.1016/j.ydbio.2009.09.032. Independent fate-mapping evidence.
+- Collin M, Milne P. Langerhans cell origin and regulation. *Current Opinion in Hematology*. 2016;23(1):28–35. doi:10.1097/MOH.0000000000000202. Epidermal Langerhans cells arise in embryonic waves and self-renew; adult blood-derived contribution is context-dependent.
+- Ishikawa T. Axoneme structure from motile cilia. *Cold Spring Harbor Perspectives in Biology*. 2017;9:a028076. doi:10.1101/cshperspect.a028076. The basal body has nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
 
 - Nilsson M, Williams D. On the origin of cells and derivation of thyroid cancer: C cell story revisited. *European Thyroid Journal*. 2016;5:79–93. doi:10.1159/000447333. Endoderm-lineage evidence challenges the classical neural-crest-only assignment.
 - Lobo M, Johansson E, Kumari S, et al. Resolving thyroid lineage cell trajectories merging into a dual endocrine gland in mammals. *Nature Communications*. 2026;17:6811. doi:10.1038/s41467-026-73385-6. Mammalian pharyngeal-endoderm lineage research.

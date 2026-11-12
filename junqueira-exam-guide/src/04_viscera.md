@@ -492,8 +492,8 @@ Keratin filaments contain at least **six polypeptides of 40–70 kDa**, synthesi
 |---|---|---|---|
 | **Keratinocyte** | Ectoderm | Barrier, keratin production | 90% of epidermal cells; desmosomes |
 | **Melanocyte** | **Neural crest** | **Melanin** via tyrosinase; transferred in melanosomes | Dark, dendritic; basal layer |
-| **Langerhans cell** | **Monocyte/bone marrow** | Antigen presentation | Dendritic, stratum spinosum; **2–8%** of epidermal cells |
-| **Merkel cell** | Neural crest | **Light touch** (mechanoreception) | Basal, with a sensory nerve ending |
+| **Langerhans cell** | Mainly embryonic yolk-sac and fetal-liver myeloid precursors; local self-renewal in steady state | Antigen presentation | Dendritic epidermal immune cell, often in stratum spinosum; **2–8%** is an approximate estimate |
+| **Merkel cell** | Epidermal ectoderm-lineage progenitors (supported by mammalian fate mapping) | **Light touch** (mechanoreception) | Basal epidermis, with sensory nerve contact; not normally classified as a neural-crest derivative |
 
 **Melanocytes** — about **one per five or six keratinocytes** (**600–1200/mm²** of thin skin), with processes reaching **10–30 keratinocytes**. **Tyrosinase** converts tyrosine to DOPA and then to **eumelanin** (brown-black) or **pheomelanin** (red-yellow). Mature melanosomes are ellipsoid, **0.5 × 1 µm**, and are transferred to keratinocytes, which hold more pigment than the cells that make it. The pigment sits over the nucleus and **protects nuclear DNA from UV damage** — the reason tanning exists and the reason melanoma risk tracks sun exposure. One melanocyte plus its keratinocytes is an **epidermal-melanin unit**. Melanocytes are about **four times more numerous and active in thin skin** than in thick palmar and plantar skin.
 
@@ -564,7 +564,7 @@ Repair runs through overlapping stages: a **clot** forms and platelets release g
 - Epidermal layers, deep to superficial: basale, spinosum, granulosum, lucidum (thick skin only), corneum.
 - Keratinocytes make keratin; they are the most numerous epidermal cells.
 - Melanocytes are neural crest cells that transfer melanin to keratinocytes.
-- Langerhans cells are antigen-presenting cells of monocyte origin.
+- Langerhans cells are antigen-presenting epidermal myeloid cells, largely seeded prenatally from embryonic progenitors and maintained by local self-renewal.
 - Merkel cells are mechanoreceptors at the basal layer.
 - Dermis = papillary (loose) + reticular (dense irregular); hypodermis is adipose and loose connective tissue.
 - Eccrine sweat glands are merocrine; apocrine glands open into hair follicles; sebaceous glands are holocrine.
@@ -574,7 +574,7 @@ Repair runs through overlapping stages: a **clot** forms and platelets release g
 ### Active recall
 
 1. **Name the epidermal layers from deep to superficial.** — Basale, spinosum, granulosum, lucidum (thick skin only), corneum.
-2. **Which epidermal cells are neural crest derived?** — Melanocytes and Merkel cells; Langerhans cells come from monocytes.
+2. **Distinguish the developmental origins of three nonkeratinocyte epidermal cells.** — Melanocytes arise from the neural crest; Merkel cells arise from epidermal progenitors (supported by mammalian lineage tracing); Langerhans cells are immune-lineage cells seeded mainly by embryonic yolk-sac and fetal-liver precursors.
 3. **What is the function of lamellar bodies?** — They discharge lipid into the intercellular space, forming the water barrier.
 4. **Where are Meissner and Pacinian corpuscles?** — Meissner in the dermal papillae (light touch); Pacinian deep in the dermis/hypodermis (pressure, vibration).
 5. **How do sebaceous and eccrine glands differ in secretion?** — Sebaceous: holocrine. Eccrine: merocrine.

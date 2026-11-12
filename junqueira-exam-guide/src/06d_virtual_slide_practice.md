@@ -4,10 +4,10 @@
 
 **Independent university slide resources (accessed for availability in October 2026):**
 
-- **University of Michigan Histology Laboratory Manual and Virtual Microscopy:** https://histology.medicine.umich.edu/home — open medical-school teaching resource, with a laboratory manual and slide collections.
-- **University of Leeds — The Histology Guide:** https://histology.leeds.ac.uk/ — virtual microscope, labels that can be hidden, zoomable slides, and topic quizzes.
-- **Yale Histology:** https://medcell.org/histology/ — organ-system sections and slide identification examples.
-- **University of Minnesota Virtual Microscopy Slide Box:** https://cbs-histology02.oit.umn.edu/slidebox/slidebox.html — organized by cells, tissues, organ systems and tissue look-alikes.
+- **University of Michigan Histology Laboratory Manual and Virtual Microscopy:** [Explore Michigan histology slides](https://histology.medicine.umich.edu/home) — openly viewable medical-school resource, with a laboratory manual and slide collections. Its copyright notice restricts commercial reuse; view or link, but do not copy the images.
+- **University of Leeds — The Histology Guide:** [Use the Leeds virtual microscope](https://histology.leeds.ac.uk/) — interactive slides, hideable labels, zoom and topic quizzes.
+- **Yale Histology:** [Browse Yale histology](https://medcell.org/histology/) — organ-system sections and slide identification examples.
+- **Histology Guide virtual slide box (developed from University of Minnesota collections):** [Browse 300+ digital slides](https://www.histologyguide.org/slidebox/slidebox.html) — cells, tissues, organ systems and tissue look-alikes. The earlier University of Minnesota legacy hostname can be unreliable.
 
 These websites are owned and maintained by their respective institutions. **Links do not grant permission to reproduce their images**, and no third-party micrographs are included in this book. Websites may change, may need an internet connection, and can have their own usage terms. An offline laboratory set is an equally suitable alternative.
 

@@ -73,3 +73,7 @@ The source expands the generated teaching atlas from nine to **twelve** original
 ## Afghanistan specialty-exam markers — 12 November 2026
 
 The source adds small specialty-scope labels to all 23 reference chapters (medicine 16, surgery 18, overlap 11) and a front-matter navigation summary. The mapping is supplied by the owner and is **not independently verified against an official current MoPH syllabus**. The generated PDF, DOCX, EPUB and HTML must all preserve these labels, as checked by `tools/validate_specialty_exam_scope.py`; a green software test is not medical syllabus authorization. Existing release gates remain open.
+
+## 12 November 2026 — publication usability and MCQ correction gate
+
+The following source revision closes **specific** repeatable digital-reader issues: high-impact MCQ #10/#35/#60 answer explanations, PDF Table of Contents click targets, orphaned final TOC entry, and previously nonclickable university slide URLs. The updated publication pipeline should pass `tools/validate_publication_usability.py` against all four *actual* generated outputs, in addition to science, EPUB and structural checks. Confirm the exact matching workflow run and manifest for this revision before claiming a new page count or hashes. **Open**: independent all-chapter medical and 100-question signoff; verified rights-holder/author attribution; legal/provenance clearance; full-size page-by-page print proof; independent Word, e-reader and accessibility checks; teacher/student trials. These blockers cannot be checked automatically.

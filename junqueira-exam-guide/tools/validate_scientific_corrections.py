@@ -75,3 +75,30 @@ for stale_phrase in ("each cell has a pair of **centrioles**", "FSH-dependent fr
                      "Membrane depolarization and a **Ca²⁺ wave** trigger"):
     assert stale_phrase.casefold() not in whole, f"Outdated claim returned: {stale_phrase}"
 print("November 2026 targeted correction guards PASS; external scientific approval still required.")
+
+# Question-bank semantic audit: a correct answer key is not proof of a true rationale.
+q = parts["07_mcq.md"]
+assert "**10. A** — A typical primary sensory cilium has a **9 + 0 axoneme**" in q
+assert "nine microtubule **triplets**" in q, "Basal-body triplets missing from MCQ 10"
+assert "**35. B** — Most resident microglia originate from" in q
+assert "**60. C** — Langerhans cells are dendritic" in q
+for obsolete in ("The basal body is 9 + 0; the motile cilium",
+                 "Microglia are mesodermal, derived from monocytes",
+                 "they originate in bone marrow. **Trap:**"):
+    assert obsolete.casefold() not in q.casefold(), f"Incorrect exam explanation returned: {obsolete}"
+print("Three high-impact MCQ corrections PASS (targeted textual checks, not exam validation).")
+
+# The chapter-level epithelial and skin explanations must match corrected exam keys.
+for file, phrases in {
+    "02a_basic_tissues.md": ["nine microtubule triplets", "9 + 0 axoneme"],
+    "04_viscera.md": ["embryonic yolk-sac and fetal-liver", "Epidermal ectoderm-lineage progenitors"],
+    "06_rapid.md": ["doi:10.1083/jcb.200907080", "doi:10.1016/j.ydbio.2009.09.032"],
+}.items():
+    for phrase in phrases:
+        assert phrase.casefold() in parts[file].casefold(), f"Outdated body chapter: {file}: {phrase}"
+for outdated in ("basal body (9 + 0)", "9 + 0 anchors", "a 9 + 0 basal body",
+                 "| **Merkel cell** | Neural crest |",
+                 "**Monocyte/bone marrow** | Antigen presentation",
+                 "Melanocytes and Merkel cells; Langerhans cells come from monocytes"):
+    assert outdated.casefold() not in whole, f"Stale microanatomy claim: {outdated}"
+print("Ciliary and epidermal lineage cross-chapter consistency PASS.")

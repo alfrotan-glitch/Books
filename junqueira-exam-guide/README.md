@@ -95,3 +95,7 @@ A follow-on source revision updates selected science claims after direct checkin
 ## Afghanistan specialty-exam study labels (2026-11-12)
 
 Each chapter 1–23 has small `INTERNAL MEDICINE` and/or `SURGERY` syllabus markers based on the chapter lists supplied by the project owner. Medicine: 16 chapters (1–6, 9, 11–18, 20). Surgery: 18 chapters (1–14, 19, 21–23). Eleven chapters overlap. The user-supplied mapping has not been independently verified against a dated official MoPH publication and is not a claim of Ministry endorsement. The source-first design carries these markers into PDF, DOCX, EPUB and HTML; `tools/validate_specialty_exam_scope.py` checks the mapping and output coverage.
+
+## 12 November 2026 editorial usability audit — subsequent revision
+
+Targeted question-bank quality control identified and corrected three stale explanations (question 10: primary-cilium axoneme versus basal-body triplets; question 35: embryonic microglial origin; question 60: prenatal Langerhans-cell origin). The PDF typesetting now creates clickable contents entries and directly clickable virtual-slide resource links, with HTML, DOCX and EPUB equivalents. The independent source references are described in Appendix C. `tools/validate_publication_usability.py` runs on the actual generated files in CI. These are quality improvements; complete independent medical and legal review are **not** claimed.
