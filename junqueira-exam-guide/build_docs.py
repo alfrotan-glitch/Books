@@ -152,10 +152,15 @@ def main():
 
     # Pandoc emits exactly three metadata paragraphs when author is blank:
     # Title, Subtitle, Date. Never style the first actual chapter as a date.
-    title_paragraphs = document.paragraphs[:3]
-    if (len(title_paragraphs) == 3 and title_paragraphs[0].style.name == "Title"
-            and title_paragraphs[2].style.name == "Date"):
-        title, subtitle, date = title_paragraphs
+    metadata_paragraphs = document.paragraphs[:6]
+    date_paragraph = next(
+        (para for para in metadata_paragraphs if para.style.name == "Date"), None
+    )
+    if (len(metadata_paragraphs) >= 3
+            and metadata_paragraphs[0].style.name == "Title"
+            and metadata_paragraphs[1].style.name == "Subtitle"
+            and date_paragraph is not None):
+        title, subtitle, date = metadata_paragraphs[0], metadata_paragraphs[1], date_paragraph
         title.alignment = WD_ALIGN_PARAGRAPH.CENTER
         title.paragraph_format.space_before = Pt(130)
         title.paragraph_format.space_after = Pt(22)
