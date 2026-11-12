@@ -1,8 +1,8 @@
 # Basic Histology: A Learning Text
 
-A self-contained, **technically validated editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book includes nine **original schematic histology plates** (not copied microscopy photographs), alongside descriptive slide-identification methods and structure–function explanations.
+A self-contained, **technically validated editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book includes twelve **original schematic histology plates** (not copied microscopy photographs), alongside descriptive slide-identification methods and structure–function explanations.
 
-The prose and nine generated schematic plates are newly authored for this project. No third-party textbook images, plates, captions or extended passages have intentionally been reproduced, and no page ranges or questions require the reader to consult another textbook. Independent legal clearance has not been performed.
+The prose and twelve generated schematic plates are newly authored for this project. No third-party textbook images, plates, captions or extended passages have intentionally been reproduced, and no page ranges or questions require the reader to consult another textbook. Independent legal clearance has not been performed.
 
 ## Latest build and publication status
 
@@ -18,7 +18,7 @@ The EPUB is now designed as a **reader-first, reflowable EPUB 3** book rather th
 
 - A newly drawn, high-resolution modern cover and discoverable ebook metadata.
 - **47 small XHTML reading sections**, with chapter-level navigation for all 24 chapters and appendices.
-- A dedicated clickable index linking to all nine original histology schematic plates.
+- A dedicated clickable index linking to all twelve original histology schematic plates.
 - Native font-size adjustment, a clear typographic hierarchy, reader-friendly links, and contrast-aware light/dark styling.
 - **84 individually scrollable comparison tables** to avoid requiring horizontal scrolling of the entire book on a phone.
 - Differentiated MICRO, CLINICAL, TIP, MNEMONIC and PEARL study callouts.
@@ -43,7 +43,7 @@ The EPUB is now designed as a **reader-first, reflowable EPUB 3** book rather th
 | `tools/epub_polish.py` | Original cover design, modern scalable CSS, chapter navigation, table/figure semantics |
 | `tools/validate_modern_epub.py` | Reader-experience regression checks for EPUB chapters, tables, figures and dark mode |
 | `tools/release_smoke_test.py` | Automated PDF, DOCX, EPUB, HTML structural and geometry checks |
-| `tools/generate_atlas.py` | Generates nine original labeled histology schematic diagrams |
+| `tools/generate_atlas.py` | Generates twelve original labeled histology schematic diagrams |
 | `tools/validate_study_materials.py` | Validates CSV decks against the 100 canonical manuscript questions |
 | `tools/validate_scientific_corrections.py` | Rejects regressions of verified high-impact scientific corrections |
 | `tools/write_release_manifest.py` | Creates per-format SHA-256 release manifest |
@@ -84,6 +84,14 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 - **Terminology** follows American spelling (`hematoxylin`, `esophagus`, `fiber`, `organized`), the convention of the histological literature.
 - **The 100 original questions are not advertised as historical examination questions.** Specific inaccuracies were corrected and automated regressions added, but comprehensive scientific peer review remains outstanding. No topic-frequency statistics or guaranteed exam outcomes are claimed.
 - **Disagreements between standard accounts are stated, not hidden.** Where authorities differ on a count or a range, the text gives both or says which one it is using. `COVERAGE.md` records the discrepancies found while checking.
-- **Original schematic atlas and optional live-slide practice included:** nine labeled teaching schematics plus Appendix E's 23 practical observation challenges using institutional microscopic slide collections. No third-party photomicrographs are reproduced, and access to external resources is optional.
+- **Original schematic atlas and optional live-slide practice included:** twelve labeled teaching schematics plus Appendix E's 23 practical observation challenges using institutional microscopic slide collections. No third-party photomicrographs are reproduced, and access to external resources is optional.
 - **This is a teaching text, not a clinical manual.** It does not replace laboratory teaching or supervised clinical training.
 - Study files in `deliverables/` (flashcards and the 100-question bank) are automatically regenerated from the manuscript and checked for synchronization during the publication workflow.
+
+## 12 November 2026 — new source candidate
+
+A follow-on source revision updates selected science claims after direct checking of Junqueira 17th edition and modern literature, and expands the *code-generated* schematic atlas from 9 to **12** figures. The new illustrations are original diagrams, not micrographs. See [IMAGE_RIGHTS_POLICY.md](IMAGE_RIGHTS_POLICY.md) and [rights/image_ledger.csv](rights/image_ledger.csv). The run 39845766634 statistics above document a **historical 9-figure build**; they are not claims about a subsequent unpublished artifact. The new source must pass its matching CI workflow, and scientific/legal/real-reader release approval remain open.
+
+## Afghanistan specialty-exam study labels (2026-11-12)
+
+Each chapter 1–23 has small `INTERNAL MEDICINE` and/or `SURGERY` syllabus markers based on the chapter lists supplied by the project owner. Medicine: 16 chapters (1–6, 9, 11–18, 20). Surgery: 18 chapters (1–14, 19, 21–23). Eleven chapters overlap. The user-supplied mapping has not been independently verified against a dated official MoPH publication and is not a claim of Ministry endorsement. The source-first design carries these markers into PDF, DOCX, EPUB and HTML; `tools/validate_specialty_exam_scope.py` checks the mapping and output coverage.

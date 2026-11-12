@@ -36,6 +36,8 @@ h3 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.12rem;
   color: var(--accent); margin: 1.8rem 0 .35rem; }
 h4 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: .98rem; margin: 1.2rem 0 .3rem; }
 p { margin: .55rem 0; text-align: justify; }
+p.specialty-exam { margin: .18rem 0 .75rem; text-align: left; font-family: "Helvetica Neue", Arial, sans-serif; font-size: .72rem; font-weight: 600; line-height: 1.8; color: #557078; letter-spacing: .025em; }
+p.specialty-exam code { display: inline-block; padding: .08rem .42rem; margin: 0 .12rem; border: 1px solid #AFCAC7; border-radius: .42rem; background: #EAF5F3; color: #105A58; font-family: inherit; font-weight: 700; font-size: inherit; letter-spacing: .035em; }
 figure { max-width: 100%; margin: 1.3rem 0; }
 img { display:block; max-width:100%; height:auto; }
 table { display:block; overflow-x:auto; max-width:100%; width:100%; -webkit-overflow-scrolling:touch;
@@ -106,9 +108,16 @@ def main():
     ])
     # Ensure major parts and appendices open on fresh pages in editable Word.
     from docx import Document
+    from docx.shared import Pt, RGBColor
     document = Document(docx)
     for para in document.paragraphs:
         title = para.text.strip()
+        if title.startswith("SPECIALTY EXAM:"):
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(4)
+            for run in para.runs:
+                run.font.size = Pt(8)
+                run.font.color.rgb = RGBColor(14, 107, 107)
         if ((para.style.name == "Heading 1" and title.startswith("PART "))
                 or (para.style.name == "Heading 2" and title.startswith("Appendix "))):
             para.paragraph_format.page_break_before = True
@@ -125,6 +134,17 @@ def main():
         "--css=" + css_path, "--resource-path=" + os.pathsep.join((HERE, SRC, BUILD)),
         "--metadata", "pagetitle=Basic Histology: A Learning Text",
     ])
+    # Add a small, accessible track-label style after Pandoc has emitted HTML.
+    with open(html, encoding="utf-8") as fh:
+        output_html = fh.read()
+    output_html, label_count = re.subn(
+        r"<p><strong>SPECIALTY EXAM:</strong>",
+        '<p class="specialty-exam"><strong>SPECIALTY EXAM:</strong>',
+        output_html,
+    )
+    assert label_count == 23, f"Expected 23 HTML specialty labels, got {label_count}"
+    with open(html, "w", encoding="utf-8") as fh:
+        fh.write(output_html)
     print("HTML written:", html)
 
 

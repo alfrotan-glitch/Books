@@ -6,7 +6,19 @@ This is a complete course in histology: the microscopic structure of cells, tiss
 
 The book is organized in seven parts. Parts I to V teach the subject in the order in which it is best learned: the cell and the techniques that make it visible; the four basic tissues; blood, circulation and defense; digestion and respiration; and finally excretion, reproduction and the special senses. Part VI condenses the whole subject into comparison tables and a rapid-review chapter. Part VII is a hundred-question examination with explained answers.
 
-**How to use the images.** Histology is a visual subject. Appendix D provides nine **original schematic teaching plates** to show relationships among tissue structures. These are not photomicrographs, are not drawn to scale, and do not replace authentic stained sections or laboratory instruction. The chapter descriptions identify the cellular features, tissue boundaries, layers, ducts and follicles to look for in real slides. Read a chapter, compare its schematic where relevant, then test the identification on actual microscopy material. **Appendix E** provides a chapter-by-chapter optional practice route through real university microscopy collections without reproducing their copyrighted images.
+### Specialty-examination chapter markers (Afghanistan)
+
+The compact tags directly below chapter titles indicate which chapters appear in the **Internal Medicine (داخله)** and **Surgery (جراحی)** histology reference lists supplied for the Afghanistan specialist entrance examination. A chapter carrying both tags belongs to both tracks; a single tag means it appears only on that listed track. These are **study-planning markers**, not part of the scientific content and not an indication of an official endorsement. The provided lists have not yet been independently checked against a dated Ministry of Public Health syllabus; verify the current examination notice before relying on them.
+
+| Exam track | Assigned chapter numbers | Chapters |
+|---|---|---|
+| **Internal Medicine** | 1–6, 9, 11–18, 20 | 16 |
+| **Surgery** | 1–14, 19, 21–23 | 18 |
+| **Both tracks** | 1–6, 9, 11–14 | 11 |
+
+Chapter 24 is an optional rapid-review chapter, not an additional officially assigned Junqueira reference chapter.
+
+**How to use the images.** Histology is a visual subject. Appendix D provides twelve **original schematic teaching plates** to show relationships among tissue structures. These are not photomicrographs, are not drawn to scale, and do not replace authentic stained sections or laboratory instruction. The chapter descriptions identify the cellular features, tissue boundaries, layers, ducts and follicles to look for in real slides. Read a chapter, compare its schematic where relevant, then test the identification on actual microscopy material. **Appendix E** provides a chapter-by-chapter optional practice route through real university microscopy collections without reproducing their copyrighted images.
 
 **A note on numbers.** Values are typical adult human values unless stated otherwise. Ranges differ with method, fixation, species and observer, and even well-established figures vary a little between references. Where authorities differ, this book gives the range or says which value is being used. Percentages are approximate. No number in this book should be treated as a diagnostic threshold; clinical decisions require clinical sources.
 

@@ -2,6 +2,8 @@
 
 ## 19 · The Urinary System
 
+**SPECIALTY EXAM:** `SURGERY`
+
 **In this chapter:** Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 
@@ -136,6 +138,8 @@ In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm,
 
 ## 20 · Endocrine Glands
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE`
+
 **In this chapter:** Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
 
@@ -206,7 +210,7 @@ Scattered hormone-secreting cells throughout the body — gut enteroendocrine ce
 
 - **Follicles** of varying size filled with **colloid** (thyroglobulin), lined by a simple epithelium whose height ranges from **squamous to low columnar**.
 - **Thyrocytes (follicular cells)** — synthesize **T4 and T3**. Activity is read from the epithelium: **active gland = more follicles of tall columnar cells with scalloped colloid; hypoactive gland = squamous cells with dense colloid.**
-- **Parafollicular (C) cells** — large, pale cells in the follicular epithelium or between follicles, of **neural crest** origin, secreting **calcitonin**.
+- **Parafollicular (C) cells** — large, pale cells in or near the follicular epithelium, secreting **calcitonin**. Although traditionally described as **neural crest-derived**, modern mammalian lineage studies instead support a major **pharyngeal endoderm/ultimobranchial-body** origin (see Appendix C for the 2016 and 2026 studies).
 - **Folliculogenesis:** thyroglobulin is synthesized, iodinated at the apical surface, stored as colloid, taken back by endocytosis, and digested to release T3/T4.
 
 ### Parathyroid Glands
@@ -271,6 +275,8 @@ A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<
 Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicles (thyroid) and clusters (pancreatic islets). In the pituitary, distinguish acidophils, basophils and chromophobes, and find the pars nervosa; in the adrenal, name the three zones and the medulla; in the thyroid, find colloid, follicular cells and parafollicular cells; in the parathyroid, chief and oxyphil cells; in the pineal, pinealocytes and corpora arenacea.
 
 ## 21 · The Male Reproductive System
+
+**SPECIALTY EXAM:** `SURGERY`
 
 **In this chapter:** Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
 
@@ -390,6 +396,8 @@ In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each 
 
 ## 22 · The Female Reproductive System
 
+**SPECIALTY EXAM:** `SURGERY`
+
 **In this chapter:** Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
 
 
@@ -420,7 +428,7 @@ Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thi
 | Stage | Structure | Hormonal influence |
 |---|---|---|
 | **Primordial follicle** | Oocyte + single layer of flat granulosa cells | None; present from birth |
-| **Primary follicle** | Oocyte enlarges (to ~120 µm); granulosa cells become **cuboidal** (unilaminar), then stratified (multilaminar); **zona pellucida** appears | FSH-dependent from this stage |
+| **Primary follicle** | Oocyte enlarges (to ~120 µm); granulosa cells become **cuboidal** (unilaminar), then stratified (multilaminar); **zona pellucida** appears | Early growth largely gonadotropin-independent; FSH responsiveness develops |
 | **Secondary (antral) follicle** | Antrum forms among the granulosa cells; **theca interna** (steroidogenic, vascular) and **theca externa** (fibrous, contractile) differentiate | FSH and LH |
 | **Graafian (mature) follicle** | Single large antrum up to **2 cm**; oocyte on the **cumulus oophorus**, wrapped by the **corona radiata** | LH surge triggers ovulation |
 | **Atretic follicle** | Degenerating; **glassy membrane** remains | — |
@@ -438,7 +446,7 @@ The LH surge sustains progesterone secretion for **10–12 days**. (A common err
 
 **Ovulation, step by step.** The LH surge triggers: completion of **meiosis I** with extrusion of the **first polar body**; granulosa production of fluid rich in prostaglandins, proteoglycans, and proteases; **hyaluronan** release that loosens the cumulus; activation of **plasmin**, which digests collagen at the **stigma** (the ischemic bulge on the ovarian surface); and contraction of **theca externa** smooth muscle. The follicle ruptures, releasing the **secondary oocyte, arrested in metaphase II**, wrapped in the **corona radiata** — viable for about **24 hours**. If a sperm arrives, the oocyte completes meiosis II and emits the **second polar body**; the two pronuclei fuse to form the **zygote**.
 
-A mature follicle takes about **90 days** to develop from a primordial follicle, and only one per cycle reaches that stage while its neighbors become atretic.
+Junqueira (17th ed.) gives **about 90 days** as an approximate primordial-to-mature follicle interval. This is not a precise timer in humans: estimates depend on stage definitions and methods. Contemporary reviews distinguish gonadotropin-independent early growth, subsequent FSH responsiveness, and later gonadotropin-dependent antral maturation. Usually one dominant follicle ovulates per cycle, whereas most others undergo atresia.
 
 **Two-cell, two-gonadotropin theory:** **LH** stimulates **theca interna** cells to make **androstenedione**; it crosses the basement membrane (the granulosa layer is avascular) and **FSH** stimulates **granulosa** cells to **aromatize** it to **estradiol**. The estrogen returns to the theca capillaries and reaches the whole body. This division of labor explains why both gonadotropins are needed for normal estrogen production — and why the granulosa layer must stay avascular.
 
@@ -453,7 +461,7 @@ Fertilization normally occurs in the **ampulla**, and only a few hundred of the 
 1. **Capacitation** in the female tract makes sperm able to fertilize.
 2. The sperm releases **hyaluronidase** to pass between the corona radiata cells.
 3. At the zona, binding to the **ZP1–ZP3** complex triggers the **acrosomal reaction**: **acrosin** and other proteases digest a path through the zona.
-4. The first sperm to cross fuses with the oolemma. Membrane depolarization and a **Ca²⁺ wave** trigger the **cortical reaction** — proteases from cortical granules modify the zona glycoproteins and convert the zona into the impenetrable **perivitelline barrier**, a permanent block to polyspermy.
+4. After sperm–oocyte fusion, repeated **intracellular Ca²⁺ rises** trigger **cortical-granule exocytosis**. Released enzymes and factors modify and harden the **zona pellucida**, reducing additional sperm binding and penetration; changes at the egg membrane also contribute to the mammalian block to polyspermy. Rapid electrical depolarization is **not an established fast block in humans** and should not be inferred from observations in some externally fertilizing species.
 5. The oocyte completes **meiosis II**, emits the **second polar body**, and forms the female pronucleus; the sperm head decondenses into the male pronucleus. Fusion gives the diploid **zygote**.
 
 Cleavage follows as the embryo travels to the uterus — about **5 days** from fertilization to the blastocyst in the uterine cavity.
@@ -546,7 +554,7 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 
 1. **Which cells produce estrogen, and from what precursor?** — Granulosa cells aromatize androgens from theca interna cells.
 2. **What is released at ovulation, and at what meiotic stage?** — The secondary oocyte, arrested in metaphase II, with the corona radiata.
-3. **What prevents polyspermy?** — Cortical granule exocytosis modifies the zona pellucida into the perivitelline barrier.
+3. **What prevents polyspermy?** — Cortical-granule secretion modifies and hardens the zona pellucida; egg-membrane changes also reduce subsequent sperm fusion in mammals.
 4. **Which hormone maintains the corpus luteum early in pregnancy?** — hCG.
 5. **How do proliferative and secretory endometrium differ?** — Proliferative: straight narrow glands, mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.
 
@@ -574,6 +582,8 @@ In the ovary, stage the cycle by the dominant follicle or corpus luteum; identif
 **Microscopy caution.** Small tissue fragments and oblique sections can omit the diagnostic region. A single gland or follicle must not be used as the only basis for assigning an entire organ's stage.
 
 ## 23 · The Eye & Ear: Special Sense Organs
+
+**SPECIALTY EXAM:** `SURGERY`
 
 **In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
 

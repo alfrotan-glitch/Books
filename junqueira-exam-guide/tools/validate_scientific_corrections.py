@@ -59,3 +59,19 @@ assert "C. Tonsil and lymph node" in stems
 assert "D. Appendix and lymph node" in stems
 assert "**54. B**" in answers and "**98. D**" in answers
 print("Scientific regression markers PASS: corrected high-impact claims and exam wording.")
+
+# November 2026 target-specific string regressions; not a medical peer review.
+targeted = {
+    "01_cells.md": ["Most typical cycling animal cells", "primary cilia", "nine microtubule triplets"],
+    "02a_basic_tissues.md": ["Embryonic tissue-resident precursors", "yolk-sac-derived CNS macrophages"],
+    "05_systems.md": ["pharyngeal endoderm/ultimobranchial-body", "gonadotropin-independent",
+                      "not an established fast block in humans", "modify and harden"],
+    "06_rapid.md": ["10.1038/s41467-026-73385-6", "10.1002/mrd.23331"],
+}
+for name, phrases in targeted.items():
+    for phrase in phrases:
+        assert phrase.casefold() in parts[name].casefold(), f"Missing science marker: {name}: {phrase}"
+for stale_phrase in ("each cell has a pair of **centrioles**", "FSH-dependent from this stage",
+                     "Membrane depolarization and a **Ca²⁺ wave** trigger"):
+    assert stale_phrase.casefold() not in whole, f"Outdated claim returned: {stale_phrase}"
+print("November 2026 targeted correction guards PASS; external scientific approval still required.")

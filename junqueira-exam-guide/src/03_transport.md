@@ -2,6 +2,8 @@
 
 ## 11 · The Circulatory System
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
 
@@ -120,6 +122,8 @@ Compare artery, vein and capillary in one section. Name the three tunics, and ju
 
 ## 12 · Blood
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Composition of Plasma · Blood Cells
 
 
@@ -234,6 +238,8 @@ On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), pl
 
 ## 13 · Hemopoiesis
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
 
 
@@ -339,6 +345,8 @@ A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
 In a marrow smear, identify the erythroid series by its round nucleus, progressively condensed chromatin and pink cytoplasm, and the granulocytic series by its granules and nuclear indentation. Name each stage by nuclear shape and cytoplasmic color rather than by size alone. Find a megakaryocyte by its large, lobulated nucleus, and explain how platelets are shed from it.
 
 ## 14 · The Immune System & Lymphoid Organs
+
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
 
 **In this chapter:** Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 

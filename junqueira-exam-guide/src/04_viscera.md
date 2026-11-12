@@ -2,6 +2,8 @@
 
 ## 15 · Digestive Tract
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE`
+
 **In this chapter:** General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
 
 
@@ -201,6 +203,8 @@ Walk the gut from esophagus to anal canal on the sections available. At each lev
 
 ## 16 · Organs Associated with the Digestive Tract
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE`
+
 **In this chapter:** Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
 
 
@@ -318,6 +322,8 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile. In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
 
 ## 17 · The Respiratory System
+
+**SPECIALTY EXAM:** `INTERNAL MEDICINE`
 
 **In this chapter:** Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
 
@@ -449,6 +455,8 @@ A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D.
 Follow the airway from trachea to alveolus. At each level, record the epithelium, the cartilage (ring, plate or none), the glands (present or absent) and the smooth muscle. Identify type I and type II pneumocytes, an alveolar macrophage, the blood–air barrier and a pore of Kohn. Distinguish a bronchiole from a tangentially cut vessel and from an alveolar duct.
 
 ## 18 · Skin
+
+**SPECIALTY EXAM:** `INTERNAL MEDICINE`
 
 **In this chapter:** Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
 

@@ -2,6 +2,8 @@
 
 ## 4 · Epithelial Tissue
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
 
 
@@ -170,6 +172,8 @@ Classify any epithelium with two questions: how many layers, and what shape is t
 
 ## 5 · Connective Tissue
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
 
 
@@ -191,7 +195,7 @@ Connective tissue is the tissue whose defining feature is **abundance of extrace
 | Cell | Origin | Function | Identifying feature |
 |---|---|---|---|
 | **Fibroblast / fibrocyte** | Mesenchyme | Synthesizes collagen, elastin, GAGs; **fibrocyte** is the quiescent form | Elongated, pale, abundant RER; **myofibroblast** also has actin for wound contraction |
-| **Macrophage** | Monocyte | Phagocytosis, antigen presentation, cytokines | Irregular, abundant lysosomes; **Kupffer cell** in liver, **microglia** in CNS, **osteoclast** in bone (a fused macrophage) |
+| **Macrophage lineage** | Embryonic tissue-resident precursors and/or circulating monocytes; varies by organ | Phagocytosis, antigen presentation, cytokines | Irregular, lysosome-rich cells; **Kupffer cells** reside in liver; **microglia** are specialized yolk-sac-derived CNS macrophages; **osteoclasts** arise by fusion of monocyte/macrophage-lineage precursors |
 | **Mast cell** | Bone marrow | Releases **histamine** and **heparin**; IgE-mediated allergy | Round, many dark granules; degranulates on IgE cross-linking |
 | **Plasma cell** | B lymphocyte | Secretes antibody | **Clock-face nucleus**, eccentric, perinuclear clear zone (Golgi) |
 | **Adipocyte** | Mesenchyme | Store fat | Signet-ring when unilocular |
@@ -291,6 +295,8 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 Identify the three fiber types by their appearance and staining: collagen bundles (pink with eosin, blue with trichrome), elastic fibers (wavy, refractile, black with orcein) and reticular fibers (fine and argyrophilic). Name the resident cells — fibroblast, macrophage, mast cell with its heparin granules, adipocyte, and plasma cell with its clock-face nucleus — and the ground substance that fills the spaces. Distinguish loose from dense irregular and dense regular tissue by fiber orientation and cell density.
 
 ## 6 · Adipose Tissue
+
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
 
 **In this chapter:** White Adipose Tissue · Brown Adipose Tissue
 
