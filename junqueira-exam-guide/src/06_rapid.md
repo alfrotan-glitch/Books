@@ -428,8 +428,4 @@ This independently written guide synthesizes concepts from standard microscopic 
 - Preventing polyspermy in mammalian eggs: Contributions of the membrane block and other mechanisms. *Molecular Reproduction and Development*. 2020. doi:10.1002/mrd.23331. A universal fast electrical block is not established in humans.
 - The biology and dynamics of mammalian cortical granules. *Reproductive Biology and Endocrinology*. 2011;9:149. doi:10.1186/1477-7827-9-149. Mammalian zona and membrane blocks to polyspermy.
 
-**Evidence and verification limits.** The manuscript underwent automated structural checks and targeted correction of specific histology claims. The dated, identifiable references above support those selected corrections; this is **not** a comprehensive citation-by-citation audit of all measurements, mechanisms, clinical correlations, or practice questions. General textbook coverage does not replace independent specialist review. Numeric estimates vary by specimen, method, and population and should be interpreted as approximate unless a clear source and context are supplied.
-
-**Limits.** The original schematic plates in Appendix D are not histological photographs and cannot certify what appears in a particular specimen. Recognizing real tissue requires laboratory or virtual microscopy. Clinical notes are for orientation and are not medical advice.
-
-**Rights.** No third-party images, plates, captions or extended passages from another publication are reproduced. Appendix D contains newly drawn educational diagrams. This bibliography does not constitute legal clearance.
+**Using the illustrations.** Appendix D contains schematic diagrams for learning structural relationships; study actual tissue morphology with the reference atlas and the microscope resources in Appendix E.

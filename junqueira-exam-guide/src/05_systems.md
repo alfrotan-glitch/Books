@@ -99,6 +99,16 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 > **TIP** — The proximal tubule is the **most eosinophilic** structure in the renal cortex, packed with mitochondria for active transport. Students often call it "basophilic" because the brush border looks fuzzy — the cytoplasm is pink.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **proximal versus distal convoluted tubule** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch a renal corpuscle with nearby PCT and DCT profiles. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** PCT has a more prominent brush border, acidophilic cytoplasm and less open lumen; DCT shows a clearer lumen with scant brush border.
+
+**Common confusion.** The glomerular filtration barrier cannot be resolved fully by routine light microscopy.
+
 ### Chapter 19 — summary
 
 - Kidney: **8–15 pyramids**; about **1.25 million nephrons**.
@@ -237,6 +247,16 @@ A pine-cone-shaped organ about **5–8 × 3–5 mm**, attached to the third vent
 
 > **TIP** — The adrenal cortex has **three** zones and the medulla has **none** of the cortex's function. Catecholamines are **medullary**.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **thyroid versus parathyroid** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch thyroid follicle, adrenal cortical zonation and parathyroid cell cords. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Thyroid contains colloid-filled follicles; parathyroid has chief-cell cords and capillaries, not storage follicles.
+
+**Common confusion.** Thyroid C cells secrete calcitonin; thyroid follicular cells secrete T3/T4.
+
 ### Chapter 20 — summary
 
 - Pars distalis = **75%** of the adenohypophysis; acidophils, basophils, chromophobes.
@@ -357,6 +377,16 @@ Erection is a vascular event with a molecular explanation worth memorizing: para
 > **MICRO** — Identify the two compartments instantly. **Inside the tubule: Sertoli cells (pale, tall) and germ cells at various stages.** **Outside the tubule: Leydig cells (eosinophilic, polygonal, in clusters).** If asked for the cell that forms the blood–testis barrier, the answer is Sertoli.
 
 > **TIP** — FSH acts on **Sertoli** cells; LH acts on **Leydig** cells. One sentence, and the two are hard to confuse.
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **Sertoli versus Leydig cells** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Draw a seminiferous tubule from spermatogonia to spermatids and mark basement membrane. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Sertoli cells support germ cells inside seminiferous tubules; Leydig cells produce testosterone in the interstitium.
+
+**Common confusion.** Epididymal stereocilia are long actin-based microvilli, not motile cilia.
 
 ### Chapter 21 — summary
 
@@ -534,6 +564,16 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 
 > **TIP** — The corpus luteum secretes **progesterone**, and it is maintained by **LH** (and, in pregnancy, by **hCG**). Do not say estrogen maintains the corpus luteum.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **primordial versus primary follicle** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Draw follicular development to corpus luteum, marking granulosa and theca. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Primordial follicles have a flattened follicular-cell layer; unilaminar primary follicles have cuboidal granulosa cells.
+
+**Common confusion.** Early follicular growth is largely gonadotropin independent; human polyspermy prevention is not proven to rely on a classic fast electrical block.
+
 ### Chapter 22 — summary
 
 - Ovary has three regions: cortex with follicles, medulla with vessels, and a surface of **germinal epithelium** over a tunica albuginea.
@@ -676,6 +716,16 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 > **MICRO** — The **cornea** is identified by five layers and a regular, avascular stroma. The **retina** by its ten layers with a pigmented layer at the outer border and ganglion cells at the inner border. The **organ of Corti** by the tunnel of Corti between inner and outer hair cells on the basilar membrane, with the tectorial membrane above.
 
 > **TIP** — Rods detect **dim light**, cones detect **color and detail**; the **central foveola contains only cones**, helping explain peak visual acuity; rod density increases outside the foveal center.
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **rod versus cone photoreceptor** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch retinal outer/inner layers and the cellular path of light vs neural output. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Rods are sensitive in dim light; cones support color and high-acuity daylight vision, highly concentrated at the foveola.
+
+**Common confusion.** Avoid saying the entire fovea is wholly devoid of rods; the foveola is the central rod-free specialization.
 
 ### Chapter 23 — summary
 

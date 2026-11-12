@@ -158,6 +158,16 @@ A useful histology result begins with a **question**, not a stain. Decide what s
 
 **Quality-control habit.** Record the stain, magnification, specimen orientation and relevant positive and negative controls before drawing a molecular conclusion. Distinguish what is directly visible from what is inferred.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **method selection** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Reconstruct the chain fixation → section → stain and identify the point where a false tissue fold may arise. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** LM preserves architecture at lower resolution; TEM resolves subcellular ultrastructure but requires ultrathin tissue.
+
+**Common confusion.** A stain's color alone cannot prove the identity of a specific protein.
+
 ### Chapter 1 — summary
 
 - H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
@@ -282,6 +292,16 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 
 > **TIP** — Keep two distinctions straight. The Golgi **modifies and sorts** proteins; the RER makes them. The mitochondrion generates ATP; the lysosome degrades material.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **protein secretion versus steroid synthesis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Draw the antibody secretory route; place a lysosome and mitochondrion. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Plasma cells rely on rough ER/Golgi; steroid-secreting cells rely on smooth ER and lipid droplets.
+
+**Common confusion.** A basal body contains nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
+
 ### Chapter 2 — summary
 
 - Rough ER makes membrane and secretory proteins; smooth ER makes lipids and steroids and detoxifies.
@@ -399,6 +419,16 @@ The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** ar
 > **MICRO** — An active cell has a pale nucleus with a prominent, reticulated nucleolus and lots of euchromatin. A quiescent cell — a small lymphocyte, a spermatozoon, a superficial keratinocyte — has dense heterochromatin and little visible nucleolus. **Nuclear texture is a functional readout.**
 
 > **TIP** — **One Barr body** in a normal female somatic cell, **zero** in a male, one in Klinefelter syndrome (47, XXY), none in Turner syndrome (45, X). Count Barr bodies and you have counted X chromosomes minus one.
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **apoptosis versus necrosis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Arrange G1, S, G2 and M on an annotated cycle and mark DNA synthesis. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Apoptosis usually involves cell shrinkage and controlled fragmentation; necrosis has membrane disruption and typically inflammation.
+
+**Common confusion.** A condensed mitotic chromosome does not imply DNA is being replicated.
 
 ### Chapter 3 — summary
 

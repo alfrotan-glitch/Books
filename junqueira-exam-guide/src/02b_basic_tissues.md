@@ -74,6 +74,16 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 > **TIP** — Two commonly confused points: **hyaline cartilage contains type II collagen, not type I**, and **fibrocartilage has no perichondrium**, which is why disc injuries persist.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **hyaline versus fibrocartilage** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Draw an isogenous group and aligned chondrocyte rows; show the perichondrium only where anatomically expected. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Hyaline cartilage usually has homogeneous type II-collagen matrix; fibrocartilage has coarse collagen bundles and often rows of chondrocytes.
+
+**Common confusion.** Articular cartilage and fibrocartilage generally lack perichondrium.
+
 ### Chapter 7 — summary
 
 - Cartilage = chondrocytes in lacunae + solid matrix; no blood vessels, no nerves.
@@ -209,6 +219,16 @@ Bone is the body's calcium and phosphate reservoir.
 
 > **TIP** — The commonest error is saying osteoclasts are mesenchymal. They are **hematopoietic**, from the monocyte–macrophage line. The second is reversing the epiphyseal zones: growth happens at the **epiphyseal** side, ossification at the **diaphyseal** side.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **osteoblast versus osteoclast** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch osteon central canal, lamellae, lacunae and canaliculi. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Osteoblasts deposit osteoid on forming surfaces; multinucleated osteoclasts resorb bone in Howship lacunae.
+
+**Common confusion.** Osteoclasts are not osteocytes multiplied in place; they derive from monocyte/macrophage-lineage progenitors.
+
 ### Chapter 8 — summary
 
 - Bone matrix is type I collagen plus hydroxyapatite; osteoid must mineralize before it is rigid.
@@ -313,6 +333,16 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 > **MICRO** — Identify neurons by the **large pale nucleus, prominent nucleolus, and clumped Nissl bodies**. The axon hillock is the pale cone where Nissl substance stops. In peripheral nerve, look for **wavy bundles of axons with myelin rings** and connective tissue sheaths. In the cerebellar cortex, the **single row of enormous Purkinje cells** is unmistakable.
 
 > **TIP** — **Oligodendrocyte = CNS, several axons. Schwann cell = PNS, one segment of one axon.** And **microglia are the only glia of mesodermal origin.**
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **Schwann versus oligodendrocyte myelination** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Draw an axon, myelin internode, node of Ranvier and endoneurium; distinguish glial wrapping from connective tissue. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** One oligodendrocyte can form segments on multiple CNS axons; a myelinating Schwann cell makes one PNS internode of one axon.
+
+**Common confusion.** Most homeostatic microglia arise from embryonic yolk-sac myeloid precursors.
 
 ### Chapter 9 — summary
 
@@ -446,6 +476,16 @@ Skeletal muscle can regenerate to a limited extent from **satellite cells**; pre
 > **MNEMONIC** — **"Skeletal = Surface nuclei. Cardiac = Central nucleus, Cross-striations, interCalated discs. Smooth = Spindle, Single central nucleus, no Striations."**
 
 > **TIP** — The A band does not shorten. This is the muscle fact to keep straight: I and H shorten, A stays constant, Z lines approach.
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **skeletal versus smooth muscle** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch the A band, I band, H zone and Z lines in a sarcomere. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Skeletal fibers are striated and multinucleated with peripheral nuclei; smooth-muscle cells are nonstriated with central nuclei and use calmodulin/MLCK.
+
+**Common confusion.** The A band remains constant in sliding-filament contraction.
 
 ### Chapter 10 — summary
 

@@ -134,6 +134,16 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 
 > **TIP** — Where is ciliated simple columnar epithelium found? The **uterine tube** — cilia move the ovum — and parts of the respiratory tract, where the epithelium is pseudostratified. Students often wrongly assign all ciliated epithelium to the lung.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **pseudostratified versus stratified epithelium** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch a free surface, basal lamina and lateral cells for each type; identify one source of tangential-section artifact. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Pseudostratified epithelia appear layered because nuclei lie at different heights, but all cells reach basal lamina; stratified epithelia contain multiple actual layers.
+
+**Common confusion.** A swollen urothelial umbrella cell may flatten when the bladder is distended.
+
 ### Chapter 4 — summary
 
 - Epithelium sits on a basal lamina, is avascular, and is normally adjacent to connective tissue.
@@ -145,7 +155,7 @@ Epithelia wear out. They are replaced from **stem cells** whose location varies 
 - Zonula adherens anchors actin; desmosomes anchor intermediate filaments; gap junctions couple cells.
 - Hemidesmosomes attach the basal cell to the basal lamina.
 - Basal lamina = lamina lucida + lamina densa (type IV collagen, laminin); the reticular lamina (type III) belongs to connective tissue.
-- Microvilli = actin core, increase surface; stereocilia = long, stiff microvilli; cilia = 9 + 2 microtubules, motile.
+- Microvilli and stereocilia have an actin core; conventional motile epithelial cilia usually have a 9 + 2 axoneme, while most primary sensory cilia have a nonmotile 9 + 0 axoneme.
 - Basal bodies anchor cilia and comprise nine microtubule triplets; the 9 + 0 notation describes the usual primary-cilium axoneme, with nine outer doublets.
 - Apical specializations serve absorption or movement; basal specializations anchor and receive signals.
 - Epithelia renew from stem cells: labile (gut, skin) versus stable (liver, kidney).
@@ -258,6 +268,16 @@ Besides fibroblasts, the resident population includes **adipocytes**, **macropha
 
 > **TIP** — The distinction that matters most here is **dense regular versus dense irregular**, and the answer is one word: **direction**. Regular = parallel = tendon = one axis of force. Irregular = random = dermis = many axes.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **dense regular versus loose connective tissue** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Sketch parallel tendon collagen next to multidirectional areolar matrix; mark fibroblast nuclei. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** Dense regular connective tissue has closely aligned collagen bundles for unidirectional tensile load; loose connective tissue has more open ground-substance spaces.
+
+**Common confusion.** Not all tissue-resident macrophages arise from circulating adult monocytes.
+
 ### Chapter 5 — summary
 
 - Connective tissue = cells + fibers + ground substance; it is vascular except in cartilage.
@@ -268,7 +288,7 @@ Besides fibroblasts, the resident population includes **adipocytes**, **macropha
 - Fibroblast makes collagen; myofibroblast contracts (wound closure).
 - Plasma cell = eccentric clock-face nucleus, perinuclear Golgi halo, antibody factory.
 - Mast cell = heparin, histamine, proteases; metachromatic granules; IgE receptor.
-- Macrophage = monocyte-derived phagocyte; foreign-body and Langhans giant cells are fused macrophages.
+- Macrophages are phagocytic immune cells that may develop from embryonic tissue-resident precursors or circulating monocytes, depending on the organ; foreign-body and Langhans giant cells form through macrophage-lineage cell fusion.
 - Adipocytes, mast cells, and leukocytes are resident connective tissue cells.
 - Loose (areolar) tissue = cells and vessels; dense irregular = dermis; dense regular = tendon.
 - Reticular tissue = type III collagen framework of lymphoid organs and marrow.
@@ -349,6 +369,16 @@ Found in the fetus and newborn (interscapular, axillary, perirenal, along the gr
 > **MICRO** — **One big hole per cell with a flattened nucleus at the rim = white. Many small holes with a round central nucleus and granular eosinophilic cytoplasm = brown.**
 
 > **TIP** — Do not confuse adipose tissue with **steatosis**. Adipocytes are a normal tissue with a capsule and vessels; steatosis is lipid accumulating inside hepatocytes or myocytes as vacuoles.
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **white versus brown adipose tissue** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Draw and identify.** Draw a single large fat droplet next to many small lipid droplets; place nuclei. Use two visible landmarks to justify the identification.
+
+**Check your reasoning.** White adipocytes are usually unilocular energy stores with peripheral nuclei; brown adipocytes are multilocular and mitochondria-rich, specialized for non-shivering thermogenesis.
+
+**Common confusion.** Lipid appears optically empty after routine paraffin processing, not because adipocytes contain only water.
 
 ### Chapter 6 — summary
 
