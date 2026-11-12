@@ -99,3 +99,9 @@ A content review of the 100 generated canonical multiple-choice stems, answers a
 The corrected source `src/07_mcq.md` is the single source for generated question-bank CSV and explanations in PDF, DOCX, EPUB and HTML. The source references added to Appendix C support these distinctions. A question-by-question specialist certification of the complete exam remains outstanding.
 
 Reader navigation audit found the PDF Table of Contents was not clickable and split with one orphaned entry to a separate page; PDF external microscope resources also lacked clickable link annotations. These were addressed in the PDF renderer and explicit, institution-hosted virtual-slide Markdown links were added across formats. Automated release tests enforce navigability and visible TOC layout, but are not a substitute for visual proofreading on physical devices.
+
+## Additional cross-chapter consistency pass — 12 November 2026
+
+After correcting the exam keys, a manuscript-wide search found legacy contradictions in Chapter 4 (basal-body 9+0) and Chapter 18 (Langerhans cells derived exclusively from adult monocytes; Merkel cells neural-crest-derived), also present in Chapter 24's facts and chapter active-recall answers. These have now been updated consistently. Merkel-cell epidermal origin is supported by two independently reported mammalian lineage-tracing studies (Van Keymeulen et al., 2009, doi:10.1083/jcb.200907080; Morrison et al., 2009, doi:10.1016/j.ydbio.2009.09.032); Langerhans-cell origins by Collin & Milne, 2016. The short textbook-style summary was replaced with specified distinctions and qualifiers.
+
+This search is targeted and cannot certify absence of other scientific errors. Independent reviewer approval remains a release gate.
