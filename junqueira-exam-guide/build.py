@@ -643,6 +643,16 @@ def build_pdf():
     toc = TableOfContents()
     toc.levelStyles = [STY["toc0"], STY["toc1"]]
     toc.dotsMinLevel = 99
+    # ReportLab's default TOC table adds 3pt of top and bottom padding to each
+    # row; across 46 entries this strands the final item on its own page.
+    # Use compact cell padding while retaining legible text and clickable keys.
+    toc.tableStyle = TableStyle([
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("LEFTPADDING", (0, 0), (-1, -1), 0),
+        ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+        ("TOPPADDING", (0, 0), (-1, -1), 1.7),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 1.7),
+    ])
 
     imprint = (
         "Independent teaching text with original schematic illustrations and no reproduced "
