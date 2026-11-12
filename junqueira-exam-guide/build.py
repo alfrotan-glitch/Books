@@ -423,7 +423,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(MUTED)
         canv.setFont("Head-Reg", 8.5)
-        canv.drawString(ML, 58, "First edition  ·  Original schematic atlas; no third-party micrographs reproduced")
+        canv.drawString(ML, 58, "Structure  ·  Function  ·  Recognition  ·  Recall")
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -655,10 +655,9 @@ def build_pdf():
     ])
 
     imprint = (
-        "Independent teaching text with original schematic illustrations and no reproduced "
-        "third-party histology plates. The book is educational, not clinical guidance. Author "
-        "attribution, rights-holder approval and distribution terms must be confirmed before "
-        "a commercial edition is issued. ISBN requirements depend on the retailer and market."
+        "Understand the structure. Explain its function. Recognize its microscopic landmarks. "
+        "Test your recall, correct misconceptions, and use the named Junqueira chapters "
+        "as the primary source for deeper study."
     )
 
     front = [

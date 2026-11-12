@@ -2,7 +2,7 @@
 
 ## About this book
 
-This is a complete course in histology: the microscopic structure of cells, tissues and organs, the way that structure serves function, and the way it fails in disease. It is written to be read on its own, from the first page to the last. Every explanation, table, identification task and question is complete in itself.
+This textbook follows the 23 chapters of **Junqueira's Basic Histology: Text & Atlas, 17th edition**. Its explanations and exercises help you understand microscopic structures, connect them to function, recognize them in specimens, and recall the key distinctions in examinations. Study the corresponding Junqueira chapter when you need the full source detail; use this book for guided comprehension, application and self-testing.
 
 The book is organized in seven parts. Parts I to V teach the subject in the order in which it is best learned: the cell and the techniques that make it visible; the four basic tissues; blood, circulation and defense; digestion and respiration; and finally excretion, reproduction and the special senses. Part VI condenses the whole subject into comparison tables and a rapid-review chapter. Part VII is a hundred-question examination with explained answers.
 
@@ -41,6 +41,7 @@ Every chapter follows the same teaching sequence, adapted where the subject dema
 | **CLINICAL boxes** | The disease link that turns a fact into a consequence |
 | **TIP and MNEMONIC boxes** | Common errors, and memory hooks that are worth the space |
 | **Chapter summary** | The chapter compressed to the sentences you should be able to write |
+| **Integrative practice** | A guided specimen-based comparison, reconstruction, reasoning check and common mistake |
 | **Active recall** | Questions to answer from memory before checking |
 | **Examination-style question** | A worked multiple-choice question with every option explained |
 | **Practical identification** | Specific structures to find on a slide, and the features that identify them |
@@ -48,6 +49,14 @@ Every chapter follows the same teaching sequence, adapted where the subject dema
 The parts are cumulative. Part I establishes the cell and the methods; nothing later makes sense without it. Part II builds the four tissues. Parts III to V apply them organ by organ. Part VI is for consolidation, not for first learning. Part VII tests the whole book.
 
 ## How to study
+
+### Learn, teach, and retain
+
+For each chapter, begin with the learning objectives, explain the core idea, and identify two anatomical landmarks in the relevant figures or slides. Work through the comparison and reconstruction in **Integrative practice** before consulting its reasoning check. Finish with the chapter summary, active recall, examination-style question and practical identification. In class, one learner should explain a specimen while another proposes an alternative; both must justify their answers from tissue structure.
+
+**Review from memory**, not only by rereading. A useful starting schedule is the next day, then roughly days 3, 7, 14 and 30; shorten the gap for missed items. Keep a brief error log recording the structure, the incorrect interpretation and the observation that corrects it.
+
+
 
 **If you have six weeks.** Work through Parts I to V at roughly one part per week. Read a chapter, then close it and write its comparison tables from memory, then answer its recall questions. In the sixth week, revise with Part VI and work through the hundred questions in Part VII.
 
@@ -142,6 +151,8 @@ Adapt the headings to the organ. Cortex and medulla are not universal; hollow or
 | — | Appendix C: Sources and Further Reading | VI |
 | — | One Hundred Examination Questions | VII |
 
-## A note on sources
+## Primary textbook and study reference
 
-Histology is an old and well-settled science, and the facts in this book are the common property of the field. They were checked against the principal reference listed in Appendix C. Where standard accounts differ — on a range, a definition, or the weight to give a mechanism — the difference is stated in the text rather than hidden. Nothing in this book is presented as a quotation from another work, and no illustration is reproduced. Appendix C also explains how the checking was done and what it does not cover.
+**Mescher AL. Junqueira's Basic Histology: Text & Atlas. 17th edition. McGraw Hill; 2024.**
+
+The chapter numbers in Parts I–V match the corresponding chapters in this reference. Detailed microscopy photographs should be studied in the reference and in the real-slide collections linked in Appendix E. The diagrams in Appendix D are schematic learning aids, not actual photomicrographs. Appendix C lists further scientific reading for subjects on which terminology or current evidence has changed.

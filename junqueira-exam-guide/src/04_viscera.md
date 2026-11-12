@@ -163,6 +163,18 @@ Identify the intestinal segment from **multiple tissue layers**, not from a sing
 
 **Self-test.** Why can a routine mucosal biopsy fail to establish duodenal identity even when the patient has duodenal tissue? **Answer:** the biopsy may not include the submucosa, where Brunner glands are located.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **duodenum versus ileum** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Reconstruct.** Draw the four layers of gut wall and place Meissner and Auerbach plexuses. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+
+**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+
+**Reasoning check.** Duodenum is supported by Brunner glands in submucosa; ileum has villi and may show Peyer patches.
+
+**Avoid this error.** A superficial mucosal biopsy lacking submucosa cannot reliably exclude duodenum by missing Brunner glands.
+
 ### Chapter 15 — summary
 
 - Four gut layers, outside in: mucosa, submucosa, muscularis, serosa or adventitia.
@@ -282,6 +294,18 @@ The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularize
 > **MICRO** — The liver is recognized by **cords of eosinophilic cells with central veins and portal areas**. The pancreas by **dark purple acini with pink apical granules and pale islets**. Pancreas versus parotid: the pancreas has **islets** and **no striated ducts**; the parotid has **striated ducts** and **no islets**.
 
 > **TIP** — Bile flows **toward** the portal triad; blood flows **away** from it. The common error is to memorize "everything flows to the center".
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **liver versus pancreas histology** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Reconstruct.** Sketch one liver lobule including portal triad and central vein; draw arrows for blood and bile in opposite directions. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+
+**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+
+**Reasoning check.** Liver has hepatic plates and sinusoidal channels; pancreas has exocrine acini and pale endocrine islets.
+
+**Avoid this error.** Do not assume pancreatic endocrine islets are mucous acini.
 
 ### Chapter 16 — summary
 
@@ -422,6 +446,18 @@ Ventilation is pressure-driven: the **diaphragm** and **external intercostal mus
 
 > **TIP** — Club cells are found in **bronchioles**, not alveoli, and are the progenitor cells of the bronchiolar epithelium. A question that places them in the alveolus is testing whether you know the level of the airway.
 
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **bronchus versus bronchiole** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Reconstruct.** Sketch airway transition to respiratory bronchiole, alveolar duct and alveolus. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+
+**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+
+**Reasoning check.** Bronchi retain cartilage plates and glands; bronchioles lack both, typically showing a muscular wall.
+
+**Avoid this error.** Type II pneumocytes synthesize surfactant; type I pneumocytes provide a large diffusion surface.
+
 ### Chapter 17 — summary
 
 - The conducting airway is nose → pharynx → larynx → trachea → bronchi → bronchioles → terminal bronchioles.
@@ -558,6 +594,18 @@ Repair runs through overlapping stages: a **clot** forms and platelets release g
 > **TIP** — "Melanocytes are more numerous in dark skin" is false. **Unit density is similar in all people; melanin production and transfer differ.** Also remember that the **nail bed makes no contribution** to the nail plate — the matrix does.
 
 > **MNEMONIC** — **"Come Let's Get Some Beer"** — **C**orneum, **L**ucidum, **G**ranulosum, **S**pinosum, **B**asale (superficial to deep) — and remember **lucidum exists only in thick skin**.
+
+### Integrative practice: reason from the specimen
+
+**Compare.** Contrast **thick versus thin skin** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**Reconstruct.** Draw epidermal strata and appendages; add stratum lucidum only where appropriate. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+
+**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+
+**Reasoning check.** Thick palmar/plantar skin has prominent corneum and no hair follicles; thin skin may contain hair follicles.
+
+**Avoid this error.** Melanocytes are neural-crest derived, Merkel cells are epidermal-lineage, and Langerhans cells are immune-lineage.
 
 ### Chapter 18 — summary
 
