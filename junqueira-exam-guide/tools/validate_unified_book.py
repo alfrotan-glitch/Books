@@ -47,10 +47,25 @@ doc=Document(base.with_suffix(".docx"))
 doc_headings=[p.text for p in doc.paragraphs if p.text.startswith(marker)]
 assert len(doc_headings)==23,("DOCX",len(doc_headings))
 html=base.with_suffix(".html").read_text(encoding="utf-8")
-assert html.count(marker)==23,("HTML",html.count(marker))
+from lxml import html as lxml_html
+html_doc=lxml_html.fromstring(html)
+html_titles=[
+    " ".join("".join(node.itertext()).split())
+    for node in html_doc.xpath("//h3")
+]
+assert sum(title==marker for title in html_titles)==23,(
+    "HTML",sum(title==marker for title in html_titles))
 with ZipFile(base.with_suffix(".epub")) as epub:
-    xhtml="".join(epub.read(name).decode("utf-8") for name in epub.namelist()
-                  if name.endswith(".xhtml"))
-    assert xhtml.count(marker)==23,("EPUB",xhtml.count(marker))
+    from xml.etree import ElementTree as ET
+    epub_titles=[]
+    for name in epub.namelist():
+        if not name.endswith(".xhtml"):continue
+        xml=ET.fromstring(epub.read(name))
+        epub_titles += [
+            " ".join("".join(node.itertext()).split())
+            for node in xml.findall(".//{http://www.w3.org/1999/xhtml}h3")
+        ]
+    assert sum(title==marker for title in epub_titles)==23,(
+        "EPUB",sum(title==marker for title in epub_titles))
 assert "Junqueira's Basic Histology" in whole
 print("UNIFIED TEXTBOOK PASS: 23 integrated chapters, one textbook in PDF/DOCX/EPUB/HTML.")
