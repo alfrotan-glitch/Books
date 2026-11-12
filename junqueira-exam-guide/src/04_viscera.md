@@ -201,6 +201,28 @@ A. Duodenum<br/>B. Jejunum<br/>C. Ileum<br/>D. Colon
 
 Walk the gut from esophagus to anal canal on the sections available. At each level, name the epithelium, the shape of the glands and whether villi are present. Identify the four wall layers and the two plexuses. In the stomach, distinguish parietal cells (eosinophilic, with canaliculi) from chief cells (basophilic); in the small intestine, find a villus with a lacteal and crypts with Paneth cells; in the colon, find straight crypts and teniae coli.
 
+### Learning studio — Chapter 15: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 15 (Digestive Tract). **Entrance tracks:** INTERNAL MEDICINE. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Name the four layers of the gut wall in order.** Then explain: **What are the three surface amplifiers of the small intestine?**
+
+**2 — Discrimination challenge.** Contrast **duodenum versus ileum** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw the four layers of gut wall and place Meissner and Auerbach plexuses. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Mucosa, submucosa, muscularis, serosa or adventitia.
+- **Retrieval B:** Plicae circulares, villi, and microvilli.
+- **Model discrimination:** Duodenum is supported by Brunner glands in submucosa; ileum has villi and may show Peyer patches.
+- **Common examination trap:** A superficial mucosal biopsy lacking submucosa cannot reliably exclude duodenum by missing Brunner glands.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 16 · Organs Associated with the Digestive Tract
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE`
@@ -320,6 +342,28 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 ### Practical identification
 
 In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile. In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
+
+### Learning studio — Chapter 16: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 16 (Organs Associated with the Digestive Tract). **Entrance tracks:** INTERNAL MEDICINE. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which salivary gland is purely serous?** Then explain: **What do centroacinar cells secrete, and under what hormone?**
+
+**2 — Discrimination challenge.** Contrast **liver versus pancreas histology** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch one liver lobule including portal triad and central vein; draw arrows for blood and bile in opposite directions. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** The parotid. Submandibular is mixed, mainly serous; sublingual is mixed, mainly mucous.
+- **Retrieval B:** Bicarbonate-rich fluid, under secretin.
+- **Model discrimination:** Liver has hepatic plates and sinusoidal channels; pancreas has exocrine acini and pale endocrine islets.
+- **Common examination trap:** Do not assume pancreatic endocrine islets are mucous acini.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
 
 ## 17 · The Respiratory System
 
@@ -453,6 +497,28 @@ A. Type I pneumocyte<br/>B. Type II pneumocyte<br/>C. Alveolar macrophage<br/>D.
 ### Practical identification
 
 Follow the airway from trachea to alveolus. At each level, record the epithelium, the cartilage (ring, plate or none), the glands (present or absent) and the smooth muscle. Identify type I and type II pneumocytes, an alveolar macrophage, the blood–air barrier and a pore of Kohn. Distinguish a bronchiole from a tangentially cut vessel and from an alveolar duct.
+
+### Learning studio — Chapter 17: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 17 (The Respiratory System). **Entrance tracks:** INTERNAL MEDICINE. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **What marks the transition from conducting to respiratory airway?** Then explain: **What do type II pneumocytes secrete, and why does it matter?**
+
+**2 — Discrimination challenge.** Contrast **bronchus versus bronchiole** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch airway transition to respiratory bronchiole, alveolar duct and alveolus. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** The appearance of alveoli in the wall — the respiratory bronchiole.
+- **Retrieval B:** Surfactant, which lowers surface tension and prevents alveolar collapse.
+- **Model discrimination:** Bronchi retain cartilage plates and glands; bronchioles lack both, typically showing a muscular wall.
+- **Common examination trap:** Type II pneumocytes synthesize surfactant; type I pneumocytes provide a large diffusion surface.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
 
 ## 18 · Skin
 
@@ -590,3 +656,26 @@ A. Scalp<br/>B. Palm<br/>C. Back<br/>D. Axilla
 ### Practical identification
 
 Identify the five epidermal layers in thick skin and the four in thin skin, and find the dermal papilla, the reticular dermis and the hypodermis. Name the appendages: hair follicle with its root sheaths and arrector pili, sebaceous gland (holocrine), eccrine gland (merocrine, coiled) and apocrine gland (wide lumen). Distinguish Meissner from Pacinian corpuscles by location, size and capsule.
+
+### Learning studio — Chapter 18: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 18 (Skin). **Entrance tracks:** INTERNAL MEDICINE. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Name the epidermal layers from deep to superficial.** Then explain: **What is the function of lamellar bodies?**
+
+**2 — Discrimination challenge.** Contrast **thick versus thin skin** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw epidermal strata and appendages; add stratum lucidum only where appropriate. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Basale, spinosum, granulosum, lucidum (thick skin only), corneum.
+- **Retrieval B:** They discharge lipid into the intercellular space, forming the water barrier.
+- **Model discrimination:** Thick palmar/plantar skin has prominent corneum and no hair follicles; thin skin may contain hair follicles.
+- **Common examination trap:** Melanocytes are neural-crest derived, Merkel cells are epidermal-lineage, and Langerhans cells are immune-lineage.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+

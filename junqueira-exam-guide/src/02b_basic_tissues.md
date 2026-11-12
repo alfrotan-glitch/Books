@@ -109,6 +109,28 @@ A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decal
 
 Compare hyaline, elastic and fibrocartilage in one session. Hyaline has a glassy matrix, chondrocytes in lacunae often in isogenous groups, and a perichondrium except at articular surfaces; elastic cartilage has visible elastic fibers in the matrix; fibrocartilage has thick collagen bundles and no perichondrium. Locate the territorial and interterritorial matrix, and explain why the staining differs between them.
 
+### Learning studio — Chapter 7: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 7 (Cartilage). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which cartilage has no perichondrium, and why does that matter?** Then explain: **What is an isogenous group?**
+
+**2 — Discrimination challenge.** Contrast **hyaline versus fibrocartilage** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw an isogenous group and aligned chondrocyte rows; show the perichondrium only where anatomically expected. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Fibrocartilage; without a perichondrial source of new chondroblasts, disc and meniscal injuries heal poorly.
+- **Retrieval B:** Daughter chondrocytes from a recent division, still sharing one lacuna.
+- **Model discrimination:** Hyaline cartilage usually has homogeneous type II-collagen matrix; fibrocartilage has coarse collagen bundles and often rows of chondrocytes.
+- **Common examination trap:** Articular cartilage and fibrocartilage generally lack perichondrium.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 8 · Bone
 
 **SPECIALTY EXAM:** `SURGERY`
@@ -241,6 +263,28 @@ A. Type II collagen<br/>B. Type I collagen<br/>C. Fibrillin<br/>D. Dystrophin
 
 In a ground or decalcified section, find osteons (concentric lamellae around a central canal), interstitial and circumferential lamellae, and Volkmann canals. Identify osteocytes in lacunae with canaliculi, osteoblasts lining a surface, osteoclasts in Howship lacunae, and the endosteum and periosteum. In a developing long bone, follow the epiphyseal plate from resting cartilage to ossification and name the change at each zone.
 
+### Learning studio — Chapter 8: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 8 (Bone). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which cell makes bone matrix, and which resorbs it?** Then explain: **How do osteocytes stay alive inside lacunae?**
+
+**2 — Discrimination challenge.** Contrast **osteoblast versus osteoclast** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch osteon central canal, lamellae, lacunae and canaliculi. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Osteoblasts make osteoid; osteoclasts resorb bone using a ruffled border and acid.
+- **Retrieval B:** Their processes run through canaliculi and contact processes of neighboring cells and the central canal, allowing diffusion of nutrients.
+- **Model discrimination:** Osteoblasts deposit osteoid on forming surfaces; multinucleated osteoclasts resorb bone in Howship lacunae.
+- **Common examination trap:** Osteoclasts are not osteocytes multiplied in place; they derive from monocyte/macrophage-lineage progenitors.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 9 · Nerve Tissue & the Nervous System
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
@@ -355,6 +399,28 @@ Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Niss
 | White matter rich in myelinated fibers and glial nuclei | CNS tract | Specific glial classes may require special stains |
 
 **Do not over-identify.** Small, dark glial nuclei in H&E usually cannot be assigned confidently to a particular glial class on nuclear appearance alone; cell-specific immunostains or ultrastructural evidence may be necessary.
+
+### Learning studio — Chapter 9: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 9 (Nerve Tissue & the Nervous System). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which glial cell myelinates the CNS, and which myelinates the PNS?** Then explain: **What forms the blood–brain barrier?**
+
+**2 — Discrimination challenge.** Contrast **Schwann versus oligodendrocyte myelination** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw an axon, myelin internode, node of Ranvier and endoneurium; distinguish glial wrapping from connective tissue. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Oligodendrocyte (CNS, several axons); Schwann cell (PNS, one segment of one axon).
+- **Retrieval B:** Tight junctions between capillary endothelial cells, reinforced by astrocyte end-feet and pericytes.
+- **Model discrimination:** One oligodendrocyte can form segments on multiple CNS axons; a myelinating Schwann cell makes one PNS internode of one axon.
+- **Common examination trap:** Most homeostatic microglia arise from embryonic yolk-sac myeloid precursors.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
 
 ## 10 · Muscle Tissue
 
@@ -482,3 +548,26 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 ### Practical identification
 
 Compare the three muscle types at the same magnification. Skeletal fibers are long, cylindrical and multinucleated with peripheral nuclei and striations; cardiac fibers branch, have central nuclei, intercalated discs and perinuclear halos; smooth muscle cells are spindle-shaped with central cigar-shaped nuclei and no striations. In skeletal muscle, identify the A band, I band, Z line and triad; in cardiac muscle, the diad at the Z line.
+
+### Learning studio — Chapter 10: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 10 (Muscle Tissue). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which band does not change length during contraction?** Then explain: **Cardiac versus skeletal muscle at the T-tubule level?**
+
+**2 — Discrimination challenge.** Contrast **skeletal versus smooth muscle** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch the A band, I band, H zone and Z lines in a sarcomere. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** The A band, because it is the length of the thick filaments.
+- **Retrieval B:** Cardiac diads lie at the Z line; skeletal triads lie at the A–I junction.
+- **Model discrimination:** Skeletal fibers are striated and multinucleated with peripheral nuclei; smooth-muscle cells are nonstriated with central nuclei and use calmodulin/MLCK.
+- **Common examination trap:** The A band remains constant in sliding-filament contraction.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+

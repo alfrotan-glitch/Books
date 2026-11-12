@@ -136,6 +136,28 @@ A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte s
 
 In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm, brush border and lumen; find a renal corpuscle and identify its parietal layer, podocytes and mesangial cells. In the medulla, identify thin and thick limbs and collecting ducts. Trace the vascular route from interlobular artery to peritubular capillary or vasa recta. In the bladder, identify urothelium with umbrella cells and the detrusor muscle.
 
+### Learning studio — Chapter 19: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 19 (The Urinary System). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which nephron segment is most eosinophilic, and why?** Then explain: **What does the macula densa sense, and what does the JGA release?**
+
+**2 — Discrimination challenge.** Contrast **proximal versus distal convoluted tubule** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch a renal corpuscle with nearby PCT and DCT profiles. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** The proximal convoluted tubule: abundant mitochondria and a brush border for active reabsorption.
+- **Retrieval B:** NaCl concentration; juxtaglomerular cells release renin.
+- **Model discrimination:** PCT has a more prominent brush border, acidophilic cytoplasm and less open lumen; DCT shows a clearer lumen with scant brush border.
+- **Common examination trap:** The glomerular filtration barrier cannot be resolved fully by routine light microscopy.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 20 · Endocrine Glands
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE`
@@ -274,6 +296,28 @@ A. Zona glomerulosa cells<br/>B. Chromaffin cells<br/>C. Zona fasciculata cells<
 
 Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicles (thyroid) and clusters (pancreatic islets). In the pituitary, distinguish acidophils, basophils and chromophobes, and find the pars nervosa; in the adrenal, name the three zones and the medulla; in the thyroid, find colloid, follicular cells and parafollicular cells; in the parathyroid, chief and oxyphil cells; in the pineal, pinealocytes and corpora arenacea.
 
+### Learning studio — Chapter 20: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 20 (Endocrine Glands). **Entrance tracks:** INTERNAL MEDICINE. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which pituitary cells are acidophils?** Then explain: **Name the adrenal zones and their main hormones.**
+
+**2 — Discrimination challenge.** Contrast **thyroid versus parathyroid** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch thyroid follicle, adrenal cortical zonation and parathyroid cell cords. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Somatotrophs (GH) and lactotrophs (prolactin).
+- **Retrieval B:** Glomerulosa: aldosterone; fasciculata: cortisol; reticularis: androgens.
+- **Model discrimination:** Thyroid contains colloid-filled follicles; parathyroid has chief-cell cords and capillaries, not storage follicles.
+- **Common examination trap:** Thyroid C cells secrete calcitonin; thyroid follicular cells secrete T3/T4.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 21 · The Male Reproductive System
 
 **SPECIALTY EXAM:** `SURGERY`
@@ -393,6 +437,28 @@ A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular 
 ### Practical identification
 
 In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each stage, peritubular myoid cells and Leydig cells. Follow sperm from tubule to rete testis, efferent ductules (scalloped epithelium), epididymis (pseudostratified with stereocilia), vas deferens (thick muscle) and prostate (tubuloacinar glands, corpora amylacea). Distinguish the prostatic zones by gland architecture and stroma.
+
+### Learning studio — Chapter 21: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 21 (The Male Reproductive System). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **What forms the blood–testis barrier, and what does it separate?** Then explain: **Name the four phases of spermiogenesis.**
+
+**2 — Discrimination challenge.** Contrast **Sertoli versus Leydig cells** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw a seminiferous tubule from spermatogonia to spermatids and mark basement membrane. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Tight junctions between Sertoli cells; basal and adluminal compartments.
+- **Retrieval B:** Golgi, cap, acrosome, maturation.
+- **Model discrimination:** Sertoli cells support germ cells inside seminiferous tubules; Leydig cells produce testosterone in the interstitium.
+- **Common examination trap:** Epididymal stereocilia are long actin-based microvilli, not motile cilia.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
 
 ## 22 · The Female Reproductive System
 
@@ -581,6 +647,28 @@ In the ovary, stage the cycle by the dominant follicle or corpus luteum; identif
 
 **Microscopy caution.** Small tissue fragments and oblique sections can omit the diagnostic region. A single gland or follicle must not be used as the only basis for assigning an entire organ's stage.
 
+### Learning studio — Chapter 22: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 22 (The Female Reproductive System). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which cells produce estrogen, and from what precursor?** Then explain: **What prevents polyspermy?**
+
+**2 — Discrimination challenge.** Contrast **primordial versus primary follicle** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw follicular development to corpus luteum, marking granulosa and theca. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Granulosa cells aromatize androgens from theca interna cells.
+- **Retrieval B:** Cortical-granule secretion modifies and hardens the zona pellucida; egg-membrane changes also reduce subsequent sperm fusion in mammals.
+- **Model discrimination:** Primordial follicles have a flattened follicular-cell layer; unilaminar primary follicles have cuboidal granulosa cells.
+- **Common examination trap:** Early follicular growth is largely gonadotropin independent; human polyspermy prevention is not proven to rely on a classic fast electrical block.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 23 · The Eye & Ear: Special Sense Organs
 
 **SPECIALTY EXAM:** `SURGERY`
@@ -710,3 +798,26 @@ A. Ciliary processes<br/>B. Pupil<br/>C. Trabecular meshwork and canal of Schlem
 ### Practical identification
 
 In the eye, identify the five corneal layers, the sclera, choroid, ciliary body with its bilaminar epithelium, iris, lens and the ten retinal layers. Locate the fovea and optic disc and explain the differences in photoreceptor density. In the ear, identify the three cochlear compartments, the organ of Corti with inner and outer hair cells, the tectorial and basilar membranes, and the cristae and maculae.
+
+### Learning studio — Chapter 23: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 23 (The Eye & Ear: Special Sense Organs). **Entrance tracks:** SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Name the five layers of the cornea, outside in.** Then explain: **Which retinal cells form the optic nerve?**
+
+**2 — Discrimination challenge.** Contrast **rod versus cone photoreceptor** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch retinal outer/inner layers and the cellular path of light vs neural output. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Epithelium, Bowman membrane, stroma, Descemet membrane, endothelium.
+- **Retrieval B:** Ganglion cells.
+- **Model discrimination:** Rods are sensitive in dim light; cones support color and high-acuity daylight vision, highly concentrated at the foveola.
+- **Common examination trap:** Avoid saying the entire fovea is wholly devoid of rods; the foveola is the central rod-free specialization.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+

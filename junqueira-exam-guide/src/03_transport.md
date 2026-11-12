@@ -120,6 +120,28 @@ A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
 
 Compare artery, vein and capillary in one section. Name the three tunics, and judge the artery by a thick media with concentric smooth-muscle layers and an internal elastic lamina; judge the vein by a thin media, a wide lumen and a thick adventitia. Distinguish elastic from muscular arteries by the amount of elastin in the media. In a capillary bed, classify the endothelium as continuous, fenestrated or sinusoidal and relate that to the organ.
 
+### Learning studio — Chapter 11: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 11 (The Circulatory System). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Three layers of a vessel wall, outside in?** Then explain: **Which capillary type is fenestrated, and where is it found?**
+
+**2 — Discrimination challenge.** Contrast **muscular artery versus vein** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch intima, media and adventitia in each vessel; add an internal elastic lamina where expected. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Tunica adventitia, tunica media, tunica intima.
+- **Retrieval B:** Fenestrated capillaries are in endocrine glands, gut mucosa, and kidney; they allow rapid exchange.
+- **Model discrimination:** Arteries typically have proportionally thicker tunica media; veins often have thin media and a relatively prominent adventitia, but section shape alone is unreliable.
+- **Common examination trap:** A collapsed vein can be round or narrow; do not identify a vessel only from lumen shape.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 12 · Blood
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
@@ -236,6 +258,28 @@ On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), pl
 
 **Quality-control question.** A dark purple speck beside an erythrocyte might be a platelet, stain precipitate or an artifact. Check size, sharpness, field repetition and nearby intact cells before reporting a platelet count. The exercise trains recognition; clinical interpretation requires a validated differential and appropriate laboratory context.
 
+### Learning studio — Chapter 12: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 12 (Blood). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **How does serum differ from plasma?** Then explain: **Which leukocyte is most numerous, and which is largest?**
+
+**2 — Discrimination challenge.** Contrast **eosinophil versus neutrophil** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch an eosinophil, neutrophil, basophil and monocyte; label two identifying features each. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Serum is plasma after clotting, so it lacks fibrinogen and consumed clotting factors.
+- **Retrieval B:** Neutrophils (~50–70%); monocytes are the largest.
+- **Model discrimination:** Eosinophils usually show bilobed nuclei and eosinophilic granules; neutrophils commonly show multilobed nuclei and finer neutral-staining granules.
+- **Common examination trap:** A human mature erythrocyte is anucleate; do not apply the generic nucleated-cell diagram.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 13 · Hemopoiesis
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
@@ -343,6 +387,28 @@ A. Megakaryocyte<br/>B. Osteoclast<br/>C. Macrophage<br/>D. Proerythroblast
 ### Practical identification
 
 In a marrow smear, identify the erythroid series by its round nucleus, progressively condensed chromatin and pink cytoplasm, and the granulocytic series by its granules and nuclear indentation. Name each stage by nuclear shape and cytoplasmic color rather than by size alone. Find a megakaryocyte by its large, lobulated nucleus, and explain how platelets are shed from it.
+
+### Learning studio — Chapter 13: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 13 (Hemopoiesis). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Where does hemopoiesis occur in the adult?** Then explain: **How do you recognize a megakaryocyte?**
+
+**2 — Discrimination challenge.** Contrast **HSC versus mature blood cell** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw the erythrocyte maturation series and mark nucleus extrusion. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Red marrow of the axial skeleton (vertebrae, ribs, sternum, pelvis, proximal femur).
+- **Retrieval B:** A huge polyploid cell with a lobulated nucleus whose cytoplasm fragments into platelets.
+- **Model discrimination:** Multipotent hematopoietic stem cells self-renew and give rise to multiple blood lineages; megakaryocytes produce platelet fragments.
+- **Common examination trap:** Hematopoietic stem cells are multipotent, not normally pluripotent.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
 
 ## 14 · The Immune System & Lymphoid Organs
 
@@ -509,3 +575,26 @@ A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neura
 ### Practical identification
 
 Compare the four lymphoid organs. In the thymus, find lobules with a dark cortex, pale medulla and Hassall corpuscles; in a lymph node, the capsule, subcapsular sinus, cortical follicles, paracortex with high endothelial venules, and medullary cords; in the spleen, white pulp around a central arteriole and red pulp with sinusoids and cords; in a tonsil, crypts and a partial capsule. Use the presence or absence of afferent lymphatics to separate them.
+
+### Learning studio — Chapter 14: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 14 (The Immune System & Lymphoid Organs). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which MHC class is on all nucleated cells, and which T cell reads it?** Then explain: **Where do T cells undergo positive and negative selection?**
+
+**2 — Discrimination challenge.** Contrast **thymus versus lymph node** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch a lymph node and thymic lobule without labels; ask a partner to identify them. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** MHC I; CD8⁺ cytotoxic T cells.
+- **Retrieval B:** Positive selection in the cortex; negative selection in the medulla.
+- **Model discrimination:** Thymus has lobules, cortex/medulla and Hassall corpuscles; lymph nodes have follicles, subcapsular sinuses and medullary cords.
+- **Common examination trap:** Hassall corpuscles are not germinal centers; the thymus is not organized into ordinary lymphoid follicles.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+

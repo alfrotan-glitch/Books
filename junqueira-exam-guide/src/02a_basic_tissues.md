@@ -170,6 +170,28 @@ A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>
 
 Classify any epithelium with two questions: how many layers, and what shape is the surface cell? Then find the basal lamina, the underlying connective tissue and the apical specialization — microvilli, cilia, stereocilia or keratin. Distinguish pseudostratified from stratified by checking whether every cell reaches the basement membrane. In a gland, decide whether the secretory unit is serous, mucous or mixed, and whether the duct is intercalated, striated or excretory.
 
+### Learning studio — Chapter 4: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 4 (Epithelial Tissue). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **How do you classify an epithelium in one pass?** Then explain: **Which junction attaches a cell to the basal lamina?**
+
+**2 — Discrimination challenge.** Contrast **pseudostratified versus stratified epithelium** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch a free surface, basal lamina and lateral cells for each type; identify one source of tangential-section artifact. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** First count the layers (simple, stratified, pseudostratified), then name the surface cell shape (squamous, cuboidal, columnar).
+- **Retrieval B:** The hemidesmosome.
+- **Model discrimination:** Pseudostratified epithelia appear layered because nuclei lie at different heights, but all cells reach basal lamina; stratified epithelia contain multiple actual layers.
+- **Common examination trap:** A swollen urothelial umbrella cell may flatten when the bladder is distended.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 5 · Connective Tissue
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
@@ -294,6 +316,28 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 
 Identify the three fiber types by their appearance and staining: collagen bundles (pink with eosin, blue with trichrome), elastic fibers (wavy, refractile, black with orcein) and reticular fibers (fine and argyrophilic). Name the resident cells — fibroblast, macrophage, mast cell with its heparin granules, adipocyte, and plasma cell with its clock-face nucleus — and the ground substance that fills the spaces. Distinguish loose from dense irregular and dense regular tissue by fiber orientation and cell density.
 
+### Learning studio — Chapter 5: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 5 (Connective Tissue). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Which collagen type forms the basal lamina?** Then explain: **What is the only unsulfated GAG?**
+
+**2 — Discrimination challenge.** Contrast **dense regular versus loose connective tissue** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Sketch parallel tendon collagen next to multidirectional areolar matrix; mark fibroblast nuclei. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Type IV (with laminin), over a reticular lamina of type III.
+- **Retrieval B:** Hyaluronan.
+- **Model discrimination:** Dense regular connective tissue has closely aligned collagen bundles for unidirectional tensile load; loose connective tissue has more open ground-substance spaces.
+- **Common examination trap:** Not all tissue-resident macrophages arise from circulating adult monocytes.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 6 · Adipose Tissue
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
@@ -382,3 +426,26 @@ A. Unilocular droplets and few mitochondria<br/>B. Multilocular droplets, abunda
 ### Practical identification
 
 Distinguish white from brown adipose tissue in a single section. White adipocytes are large, unilocular and appear empty after lipid extraction; brown adipocytes are smaller, multilocular, with central nuclei and eosinophilic cytoplasm packed with mitochondria. Identify the capillary network around brown adipocytes and explain why the two tissues look so different after routine processing, and what a frozen section would add.
+
+### Learning studio — Chapter 6: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 6 (Adipose Tissue). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **One histological difference between white and brown fat?** Then explain: **Name two adipokines.**
+
+**2 — Discrimination challenge.** Contrast **white versus brown adipose tissue** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw a single large fat droplet next to many small lipid droplets; place nuclei. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** White: one large droplet, peripheral flattened nucleus. Brown: many small droplets, central round nucleus, eosinophilic granular cytoplasm.
+- **Retrieval B:** Leptin (signals stored energy) and adiponectin (increases insulin sensitivity).
+- **Model discrimination:** White adipocytes are usually unilocular energy stores with peripheral nuclei; brown adipocytes are multilocular and mitochondria-rich, specialized for non-shivering thermogenesis.
+- **Common examination trap:** Lipid appears optically empty after routine paraffin processing, not because adipocytes contain only water.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+

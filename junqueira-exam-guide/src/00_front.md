@@ -47,6 +47,16 @@ Every chapter follows the same teaching sequence, adapted where the subject dema
 
 The parts are cumulative. Part I establishes the cell and the methods; nothing later makes sense without it. Part II builds the four tissues. Parts III to V apply them organ by organ. Part VI is for consolidation, not for first learning. Part VII tests the whole book.
 
+## The reference-first learning and review method
+
+**Never replace the assigned source:** Junqueira's Basic Histology, 17th edition, is the main content reference for this independent course text. The book gives newly authored explanations and 23 learning studios to help you recognize, explain, retrieve and remember what the reference teaches. It does not claim to reproduce all textbook details or to contain past Ministry examination questions.
+
+Each lesson runs **preview → understand → explain structure and function → inspect a genuine slide → close-book retrieval → analyze a mistaken alternative → delayed retrieval**. Use the chapter's Learning studio and the separate *Student Practice Workbook*. Write your response before viewing its feedback; rereading a highlighted answer is not equivalent to recalling it.
+
+**Suggested review days:** 1, 3, 7, 14 and 30 after initial learning. Adjust these intervals to your level and the course calendar; retrain errors early and mix previously learned organs into later quizzes. Teacher sessions can use the separate 23-lesson guide with a standard 70-minute lesson sequence and a track-specific syllabus.
+
+**Why these techniques?** Evidence reviews support practice testing and distributed practice for retention across many learning contexts (Dunlosky et al., 2013, doi:10.1177/1529100612453266; Roediger & Karpicke, 2006, doi:10.1111/j.1467-9280.2006.01693.x). This is sound educational practice, not a guarantee of entrance-exam success.
+
 ## How to study
 
 **If you have six weeks.** Work through Parts I to V at roughly one part per week. Read a chapter, then close it and write its comparison tables from memory, then answer its recall questions. In the sixth week, revise with Part VI and work through the hundred questions in Part VII.

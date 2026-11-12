@@ -191,6 +191,28 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 Work with a real or virtual H&E section. At low power, locate the tissue edge, any free surface and any capsule; at high power, find nuclei, cytoplasm and extracellular matrix. Then look deliberately for artifacts: clear spaces around cells (shrinkage), straight knife marks, folded or torn areas, and precipitated stain. If phase-contrast, fluorescence or confocal images are available, compare what each reveals and explain why a structure may be visible in one preparation and invisible in another.
 
+### Learning studio — Chapter 1: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 1 (Histology & Its Methods of Study). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **What does formalin do to a tissue?** Then explain: **What does PAS demonstrate?**
+
+**2 — Discrimination challenge.** Contrast **method selection** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Reconstruct the chain fixation → section → stain and identify the point where a false tissue fold may arise. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Cross-links proteins, preserving structure while making the tissue firm enough to section.
+- **Retrieval B:** Carbohydrates, glycogen, and glycoprotein-rich structures such as basement membranes.
+- **Model discrimination:** LM preserves architecture at lower resolution; TEM resolves subcellular ultrastructure but requires ultrathin tissue.
+- **Common examination trap:** A stain's color alone cannot prove the identity of a specific protein.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
 ## 2 · The Cytoplasm
 
 **SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
@@ -313,6 +335,28 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 ### Practical identification
 
 On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment). On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
+
+### Learning studio — Chapter 2: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 2 (The Cytoplasm). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **Rough versus smooth ER — what distinguishes them functionally?** Then explain: **Which organelle contains catalase, and what does it do?**
+
+**2 — Discrimination challenge.** Contrast **protein secretion versus steroid synthesis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Draw the antibody secretory route; place a lysosome and mitochondrion. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** Rough ER carries ribosomes and makes membrane and secretory proteins; smooth ER makes lipids and steroids and detoxifies.
+- **Retrieval B:** The peroxisome; catalase breaks down hydrogen peroxide, and peroxisomes also perform β-oxidation of very long-chain fatty acids.
+- **Model discrimination:** Plasma cells rely on rough ER/Golgi; steroid-secreting cells rely on smooth ER and lipid droplets.
+- **Common examination trap:** A basal body contains nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
 
 ## 3 · The Nucleus
 
@@ -438,3 +482,26 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 ### Practical identification
 
 Find a cell with a large, pale nucleus and a prominent nucleolus, such as a neuron or a plasma cell, and contrast it with a small lymphocyte, whose dense nucleus almost fills the cell. Identify mitotic figures by their condensed chromosomes and absent nuclear envelope, and distinguish them from apoptotic bodies, which are fragmented, membrane-bound and lack a spindle. In a buccal smear from a female, look for the Barr body at the nuclear margin.
+
+### Learning studio — Chapter 3: retrieve, distinguish, visualize
+
+**Reference:** Junqueira's Basic Histology, 17th ed., Chapter 3 (The Nucleus). **Entrance tracks:** INTERNAL MEDICINE / SURGERY. These are original practice prompts, not official past questions.
+
+**1 — Closed-book retrieval.** Give yourself 2 minutes. Without viewing the answers above, explain: **What is a nucleosome?** Then explain: **What is a Barr body?**
+
+**2 — Discrimination challenge.** Contrast **apoptosis versus necrosis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
+
+**3 — Visual memory.** Arrange G1, S, G2 and M on an annotated cycle and mark DNA synthesis. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill.
+
+**4 — Teach back.** Explain your answer in 60 seconds, naming *structure → location → function*. Have a partner offer one plausible incorrect answer.
+
+**Feedback to check after attempting the tasks:**
+
+- **Retrieval A:** About 150 bp of DNA wrapped around an octamer of histones (two each of H2A, H2B, H3, H4), with H1 on the outside.
+- **Retrieval B:** The facultatively heterochromatic, inactivated X chromosome in a female somatic cell.
+- **Model discrimination:** Apoptosis usually involves cell shrinkage and controlled fragmentation; necrosis has membrane disruption and typically inflammation.
+- **Common examination trap:** A condensed mitotic chromosome does not imply DNA is being replicated.
+
+**Long-term review:** On days 1, 3, 7, 14 and 30, retry the two retrieval questions without notes. This is a suggested schedule, not a universal optimum. If you fail a question, correct it using the named Junqueira chapter and bring its next review forward.
+
+
