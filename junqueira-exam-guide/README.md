@@ -99,3 +99,11 @@ Each chapter 1–23 has small `INTERNAL MEDICINE` and/or `SURGERY` syllabus mark
 ## 12 November 2026 editorial usability audit — subsequent revision
 
 Targeted question-bank quality control identified and corrected three stale explanations (question 10: primary-cilium axoneme versus basal-body triplets; question 35: embryonic microglial origin; question 60: prenatal Langerhans-cell origin). The PDF typesetting now creates clickable contents entries and directly clickable virtual-slide resource links, with HTML, DOCX and EPUB equivalents. The independent source references are described in Appendix C. `tools/validate_publication_usability.py` runs on the actual generated files in CI. These are quality improvements; complete independent medical and legal review are **not** claimed.
+
+## Unified reference-first textbook — 12 November 2026
+
+**One textbook, one manuscript, four matching output formats.** The book keeps the 23 assigned reference chapters in Junqueira order and preserves the Internal Medicine/Surgery chapter labels. A compact **Integrative practice** section is integrated *within each chapter before its summary*, reinforcing genuine histological discrimination, schematic reconstruction, rationales and common mistakes. Existing core explanations, original labeled plates, 100 explained MCQs, 607 flashcards and real-slide practice links remain available in the same book. The reader-facing manuscript includes no development or copyright-clearance progress logs.
+
+No separate teacher manual or student workbook is part of this edition. The instructor uses the **same book**: learning objectives, core explanation, integrative practice, chapter summary, active recall, original question and visual identification task, with a single class-friendly learning sequence in the front matter. Source-first publication is checked by `tools/validate_unified_book.py` in addition to established format, science and link tests. CI artifacts contain only the four editions of the same book plus a provenance manifest; repository source remains available separately.
+
+**Status:** ready for classroom use and self-study after CI, but not independently reviewed by a specialist against every reference passage; official syllabus mapping, publisher/author rights, authentic photo permissions and final external print review remain outside the automated gates.
