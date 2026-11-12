@@ -103,13 +103,11 @@ The visual contrast that answers most questions: the **proximal tubule is eosino
 
 **Compare.** Contrast **proximal versus distal convoluted tubule** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch a renal corpuscle with nearby PCT and DCT profiles. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch a renal corpuscle with nearby PCT and DCT profiles. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** PCT has a more prominent brush border, acidophilic cytoplasm and less open lumen; DCT shows a clearer lumen with scant brush border.
 
-**Reasoning check.** PCT has a more prominent brush border, acidophilic cytoplasm and less open lumen; DCT shows a clearer lumen with scant brush border.
-
-**Avoid this error.** The glomerular filtration barrier cannot be resolved fully by routine light microscopy.
+**Common confusion.** The glomerular filtration barrier cannot be resolved fully by routine light microscopy.
 
 ### Chapter 19 — summary
 
@@ -253,13 +251,11 @@ A pine-cone-shaped organ about **5–8 × 3–5 mm**, attached to the third vent
 
 **Compare.** Contrast **thyroid versus parathyroid** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch thyroid follicle, adrenal cortical zonation and parathyroid cell cords. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch thyroid follicle, adrenal cortical zonation and parathyroid cell cords. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Thyroid contains colloid-filled follicles; parathyroid has chief-cell cords and capillaries, not storage follicles.
 
-**Reasoning check.** Thyroid contains colloid-filled follicles; parathyroid has chief-cell cords and capillaries, not storage follicles.
-
-**Avoid this error.** Thyroid C cells secrete calcitonin; thyroid follicular cells secrete T3/T4.
+**Common confusion.** Thyroid C cells secrete calcitonin; thyroid follicular cells secrete T3/T4.
 
 ### Chapter 20 — summary
 
@@ -386,13 +382,11 @@ Erection is a vascular event with a molecular explanation worth memorizing: para
 
 **Compare.** Contrast **Sertoli versus Leydig cells** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw a seminiferous tubule from spermatogonia to spermatids and mark basement membrane. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw a seminiferous tubule from spermatogonia to spermatids and mark basement membrane. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Sertoli cells support germ cells inside seminiferous tubules; Leydig cells produce testosterone in the interstitium.
 
-**Reasoning check.** Sertoli cells support germ cells inside seminiferous tubules; Leydig cells produce testosterone in the interstitium.
-
-**Avoid this error.** Epididymal stereocilia are long actin-based microvilli, not motile cilia.
+**Common confusion.** Epididymal stereocilia are long actin-based microvilli, not motile cilia.
 
 ### Chapter 21 — summary
 
@@ -574,13 +568,11 @@ Hormonal control: **estrogen** for ductal growth, **progesterone** for lobuloalv
 
 **Compare.** Contrast **primordial versus primary follicle** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw follicular development to corpus luteum, marking granulosa and theca. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw follicular development to corpus luteum, marking granulosa and theca. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Primordial follicles have a flattened follicular-cell layer; unilaminar primary follicles have cuboidal granulosa cells.
 
-**Reasoning check.** Primordial follicles have a flattened follicular-cell layer; unilaminar primary follicles have cuboidal granulosa cells.
-
-**Avoid this error.** Early follicular growth is largely gonadotropin independent; human polyspermy prevention is not proven to rely on a classic fast electrical block.
+**Common confusion.** Early follicular growth is largely gonadotropin independent; human polyspermy prevention is not proven to rely on a classic fast electrical block.
 
 ### Chapter 22 — summary
 
@@ -729,13 +721,11 @@ The retina is **inverted**: light passes through the ganglion cell and inner lay
 
 **Compare.** Contrast **rod versus cone photoreceptor** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch retinal outer/inner layers and the cellular path of light vs neural output. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch retinal outer/inner layers and the cellular path of light vs neural output. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Rods are sensitive in dim light; cones support color and high-acuity daylight vision, highly concentrated at the foveola.
 
-**Reasoning check.** Rods are sensitive in dim light; cones support color and high-acuity daylight vision, highly concentrated at the foveola.
-
-**Avoid this error.** Avoid saying the entire fovea is wholly devoid of rods; the foveola is the central rod-free specialization.
+**Common confusion.** Avoid saying the entire fovea is wholly devoid of rods; the foveola is the central rod-free specialization.
 
 ### Chapter 23 — summary
 

@@ -78,13 +78,11 @@ Because cartilage is avascular, nutrition depends on diffusion from the perichon
 
 **Compare.** Contrast **hyaline versus fibrocartilage** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw an isogenous group and aligned chondrocyte rows; show the perichondrium only where anatomically expected. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw an isogenous group and aligned chondrocyte rows; show the perichondrium only where anatomically expected. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Hyaline cartilage usually has homogeneous type II-collagen matrix; fibrocartilage has coarse collagen bundles and often rows of chondrocytes.
 
-**Reasoning check.** Hyaline cartilage usually has homogeneous type II-collagen matrix; fibrocartilage has coarse collagen bundles and often rows of chondrocytes.
-
-**Avoid this error.** Articular cartilage and fibrocartilage generally lack perichondrium.
+**Common confusion.** Articular cartilage and fibrocartilage generally lack perichondrium.
 
 ### Chapter 7 — summary
 
@@ -225,13 +223,11 @@ Bone is the body's calcium and phosphate reservoir.
 
 **Compare.** Contrast **osteoblast versus osteoclast** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch osteon central canal, lamellae, lacunae and canaliculi. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch osteon central canal, lamellae, lacunae and canaliculi. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Osteoblasts deposit osteoid on forming surfaces; multinucleated osteoclasts resorb bone in Howship lacunae.
 
-**Reasoning check.** Osteoblasts deposit osteoid on forming surfaces; multinucleated osteoclasts resorb bone in Howship lacunae.
-
-**Avoid this error.** Osteoclasts are not osteocytes multiplied in place; they derive from monocyte/macrophage-lineage progenitors.
+**Common confusion.** Osteoclasts are not osteocytes multiplied in place; they derive from monocyte/macrophage-lineage progenitors.
 
 ### Chapter 8 — summary
 
@@ -342,13 +338,11 @@ After axotomy the distal stump undergoes **Wallerian degeneration**; the soma sh
 
 **Compare.** Contrast **Schwann versus oligodendrocyte myelination** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw an axon, myelin internode, node of Ranvier and endoneurium; distinguish glial wrapping from connective tissue. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw an axon, myelin internode, node of Ranvier and endoneurium; distinguish glial wrapping from connective tissue. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** One oligodendrocyte can form segments on multiple CNS axons; a myelinating Schwann cell makes one PNS internode of one axon.
 
-**Reasoning check.** One oligodendrocyte can form segments on multiple CNS axons; a myelinating Schwann cell makes one PNS internode of one axon.
-
-**Avoid this error.** Most homeostatic microglia arise from embryonic yolk-sac myeloid precursors.
+**Common confusion.** Most homeostatic microglia arise from embryonic yolk-sac myeloid precursors.
 
 ### Chapter 9 — summary
 
@@ -487,13 +481,11 @@ Skeletal muscle can regenerate to a limited extent from **satellite cells**; pre
 
 **Compare.** Contrast **skeletal versus smooth muscle** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch the A band, I band, H zone and Z lines in a sarcomere. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch the A band, I band, H zone and Z lines in a sarcomere. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Skeletal fibers are striated and multinucleated with peripheral nuclei; smooth-muscle cells are nonstriated with central nuclei and use calmodulin/MLCK.
 
-**Reasoning check.** Skeletal fibers are striated and multinucleated with peripheral nuclei; smooth-muscle cells are nonstriated with central nuclei and use calmodulin/MLCK.
-
-**Avoid this error.** The A band remains constant in sliding-filament contraction.
+**Common confusion.** The A band remains constant in sliding-filament contraction.
 
 ### Chapter 10 — summary
 

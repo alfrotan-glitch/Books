@@ -167,13 +167,11 @@ Identify the intestinal segment from **multiple tissue layers**, not from a sing
 
 **Compare.** Contrast **duodenum versus ileum** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw the four layers of gut wall and place Meissner and Auerbach plexuses. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw the four layers of gut wall and place Meissner and Auerbach plexuses. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Duodenum is supported by Brunner glands in submucosa; ileum has villi and may show Peyer patches.
 
-**Reasoning check.** Duodenum is supported by Brunner glands in submucosa; ileum has villi and may show Peyer patches.
-
-**Avoid this error.** A superficial mucosal biopsy lacking submucosa cannot reliably exclude duodenum by missing Brunner glands.
+**Common confusion.** A superficial mucosal biopsy lacking submucosa cannot reliably exclude duodenum by missing Brunner glands.
 
 ### Chapter 15 — summary
 
@@ -299,13 +297,11 @@ The **gallbladder** is a sac with a **highly folded mucosa**, a well-vascularize
 
 **Compare.** Contrast **liver versus pancreas histology** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch one liver lobule including portal triad and central vein; draw arrows for blood and bile in opposite directions. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch one liver lobule including portal triad and central vein; draw arrows for blood and bile in opposite directions. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Liver has hepatic plates and sinusoidal channels; pancreas has exocrine acini and pale endocrine islets.
 
-**Reasoning check.** Liver has hepatic plates and sinusoidal channels; pancreas has exocrine acini and pale endocrine islets.
-
-**Avoid this error.** Do not assume pancreatic endocrine islets are mucous acini.
+**Common confusion.** Do not assume pancreatic endocrine islets are mucous acini.
 
 ### Chapter 16 — summary
 
@@ -450,13 +446,11 @@ Ventilation is pressure-driven: the **diaphragm** and **external intercostal mus
 
 **Compare.** Contrast **bronchus versus bronchiole** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch airway transition to respiratory bronchiole, alveolar duct and alveolus. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch airway transition to respiratory bronchiole, alveolar duct and alveolus. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Bronchi retain cartilage plates and glands; bronchioles lack both, typically showing a muscular wall.
 
-**Reasoning check.** Bronchi retain cartilage plates and glands; bronchioles lack both, typically showing a muscular wall.
-
-**Avoid this error.** Type II pneumocytes synthesize surfactant; type I pneumocytes provide a large diffusion surface.
+**Common confusion.** Type II pneumocytes synthesize surfactant; type I pneumocytes provide a large diffusion surface.
 
 ### Chapter 17 — summary
 
@@ -599,13 +593,11 @@ Repair runs through overlapping stages: a **clot** forms and platelets release g
 
 **Compare.** Contrast **thick versus thin skin** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw epidermal strata and appendages; add stratum lucidum only where appropriate. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw epidermal strata and appendages; add stratum lucidum only where appropriate. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Thick palmar/plantar skin has prominent corneum and no hair follicles; thin skin may contain hair follicles.
 
-**Reasoning check.** Thick palmar/plantar skin has prominent corneum and no hair follicles; thin skin may contain hair follicles.
-
-**Avoid this error.** Melanocytes are neural-crest derived, Merkel cells are epidermal-lineage, and Langerhans cells are immune-lineage.
+**Common confusion.** Melanocytes are neural-crest derived, Merkel cells are epidermal-lineage, and Langerhans cells are immune-lineage.
 
 ### Chapter 18 — summary
 

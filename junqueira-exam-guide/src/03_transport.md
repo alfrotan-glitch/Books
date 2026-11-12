@@ -93,13 +93,11 @@ The first task in a vascular section is to locate the **endothelial lining**. On
 
 **Compare.** Contrast **muscular artery versus vein** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch intima, media and adventitia in each vessel; add an internal elastic lamina where expected. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch intima, media and adventitia in each vessel; add an internal elastic lamina where expected. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Arteries typically have proportionally thicker tunica media; veins often have thin media and a relatively prominent adventitia, but section shape alone is unreliable.
 
-**Reasoning check.** Arteries typically have proportionally thicker tunica media; veins often have thin media and a relatively prominent adventitia, but section shape alone is unreliable.
-
-**Avoid this error.** A collapsed vein can be round or narrow; do not identify a vessel only from lumen shape.
+**Common confusion.** A collapsed vein can be round or narrow; do not identify a vessel only from lumen shape.
 
 ### Chapter 11 — summary
 
@@ -209,13 +207,11 @@ On clotting, some proteins are consumed and others are released from platelets, 
 
 **Compare.** Contrast **eosinophil versus neutrophil** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch an eosinophil, neutrophil, basophil and monocyte; label two identifying features each. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch an eosinophil, neutrophil, basophil and monocyte; label two identifying features each. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Eosinophils usually show bilobed nuclei and eosinophilic granules; neutrophils commonly show multilobed nuclei and finer neutral-staining granules.
 
-**Reasoning check.** Eosinophils usually show bilobed nuclei and eosinophilic granules; neutrophils commonly show multilobed nuclei and finer neutral-staining granules.
-
-**Avoid this error.** A human mature erythrocyte is anucleate; do not apply the generic nucleated-cell diagram.
+**Common confusion.** A human mature erythrocyte is anucleate; do not apply the generic nucleated-cell diagram.
 
 ### Chapter 12 — summary
 
@@ -340,13 +336,11 @@ The suffixes carry the meaning: **-blast** = dividing precursor (**myeloblast**,
 
 **Compare.** Contrast **HSC versus mature blood cell** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw the erythrocyte maturation series and mark nucleus extrusion. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw the erythrocyte maturation series and mark nucleus extrusion. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Multipotent hematopoietic stem cells self-renew and give rise to multiple blood lineages; megakaryocytes produce platelet fragments.
 
-**Reasoning check.** Multipotent hematopoietic stem cells self-renew and give rise to multiple blood lineages; megakaryocytes produce platelet fragments.
-
-**Avoid this error.** Hematopoietic stem cells are multipotent, not normally pluripotent.
+**Common confusion.** Hematopoietic stem cells are multipotent, not normally pluripotent.
 
 ### Chapter 13 — summary
 
@@ -511,13 +505,11 @@ This sequence explains every secondary lymphoid organ in the chapter:
 
 **Compare.** Contrast **thymus versus lymph node** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Sketch a lymph node and thymic lobule without labels; ask a partner to identify them. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Sketch a lymph node and thymic lobule without labels; ask a partner to identify them. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Thymus has lobules, cortex/medulla and Hassall corpuscles; lymph nodes have follicles, subcapsular sinuses and medullary cords.
 
-**Reasoning check.** Thymus has lobules, cortex/medulla and Hassall corpuscles; lymph nodes have follicles, subcapsular sinuses and medullary cords.
-
-**Avoid this error.** Hassall corpuscles are not germinal centers; the thymus is not organized into ordinary lymphoid follicles.
+**Common confusion.** Hassall corpuscles are not germinal centers; the thymus is not organized into ordinary lymphoid follicles.
 
 ### Chapter 14 — summary
 

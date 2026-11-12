@@ -8,7 +8,7 @@ The book is organized in seven parts. Parts I to V teach the subject in the orde
 
 ### Specialty-examination chapter markers (Afghanistan)
 
-The compact tags directly below chapter titles indicate which chapters appear in the **Internal Medicine (داخله)** and **Surgery (جراحی)** histology reference lists supplied for the Afghanistan specialist entrance examination. A chapter carrying both tags belongs to both tracks; a single tag means it appears only on that listed track. These are **study-planning markers**, not part of the scientific content and not an indication of an official endorsement. The provided lists have not yet been independently checked against a dated Ministry of Public Health syllabus; verify the current examination notice before relying on them.
+The tags below each chapter title show the chapters used for **Internal Medicine (داخله)** and **Surgery (جراحی)** preparation for Afghanistan's specialist entrance examination. A chapter marked for both routes is common to both. As examination syllabuses may be revised, always confirm your assigned chapters against the current Ministry of Public Health notice.
 
 | Exam track | Assigned chapter numbers | Chapters |
 |---|---|---|
@@ -18,13 +18,11 @@ The compact tags directly below chapter titles indicate which chapters appear in
 
 Chapter 24 is an optional rapid-review chapter, not an additional officially assigned Junqueira reference chapter.
 
-**How to use the images.** Histology is a visual subject. Appendix D provides twelve **original schematic teaching plates** to show relationships among tissue structures. These are not photomicrographs, are not drawn to scale, and do not replace authentic stained sections or laboratory instruction. The chapter descriptions identify the cellular features, tissue boundaries, layers, ducts and follicles to look for in real slides. Read a chapter, compare its schematic where relevant, then test the identification on actual microscopy material. **Appendix E** provides a chapter-by-chapter optional practice route through real university microscopy collections without reproducing their copyrighted images.
+**How to use the images.** Appendix D contains twelve schematic plates showing the relationships among cells, tissue boundaries, layers and ducts. Schematics explain structure but are not microscopic photographs. Follow each diagram with authentic histology slides using the microscope resources listed in Appendix E.
 
 **A note on numbers.** Values are typical adult human values unless stated otherwise. Ranges differ with method, fixation, species and observer, and even well-established figures vary a little between references. Where authorities differ, this book gives the range or says which value is being used. Percentages are approximate. No number in this book should be treated as a diagnostic threshold; clinical decisions require clinical sources.
 
 **Clinical material.** The clinical notes show why histological structure matters. They are written for orientation and are not advice about diagnosis or treatment.
-
-**Scope and limits.** This is an independent educational work. It is not a substitute for laboratory teaching, for a course in medicine, or for supervised clinical training. No third-party micrographs or textbook plates are reproduced. The original schematics in Appendix D explain patterns but are not evidence of actual slide morphology.
 
 ## How this book is organized
 

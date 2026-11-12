@@ -162,13 +162,11 @@ A useful histology result begins with a **question**, not a stain. Decide what s
 
 **Compare.** Contrast **method selection** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Reconstruct the chain fixation → section → stain and identify the point where a false tissue fold may arise. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Reconstruct the chain fixation → section → stain and identify the point where a false tissue fold may arise. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** LM preserves architecture at lower resolution; TEM resolves subcellular ultrastructure but requires ultrathin tissue.
 
-**Reasoning check.** LM preserves architecture at lower resolution; TEM resolves subcellular ultrastructure but requires ultrathin tissue.
-
-**Avoid this error.** A stain's color alone cannot prove the identity of a specific protein.
+**Common confusion.** A stain's color alone cannot prove the identity of a specific protein.
 
 ### Chapter 1 — summary
 
@@ -298,13 +296,11 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 
 **Compare.** Contrast **protein secretion versus steroid synthesis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Draw the antibody secretory route; place a lysosome and mitochondrion. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Draw the antibody secretory route; place a lysosome and mitochondrion. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Plasma cells rely on rough ER/Golgi; steroid-secreting cells rely on smooth ER and lipid droplets.
 
-**Reasoning check.** Plasma cells rely on rough ER/Golgi; steroid-secreting cells rely on smooth ER and lipid droplets.
-
-**Avoid this error.** A basal body contains nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
+**Common confusion.** A basal body contains nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
 
 ### Chapter 2 — summary
 
@@ -428,13 +424,11 @@ The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** ar
 
 **Compare.** Contrast **apoptosis versus necrosis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
 
-**Reconstruct.** Arrange G1, S, G2 and M on an annotated cycle and mark DNA synthesis. Use authentic microscope practice after making your diagram; schematic shapes do not certify slide-recognition skill. Cover your notes before drawing. Label the two most reliable features for identifying the tissue or structure.
+**Draw and identify.** Arrange G1, S, G2 and M on an annotated cycle and mark DNA synthesis. Use two visible landmarks to justify the identification.
 
-**Explain aloud.** Using your own words, connect the microscopic architecture to its function. If working in a class, have a partner propose an alternative identification and defend your answer with visible evidence.
+**Check your reasoning.** Apoptosis usually involves cell shrinkage and controlled fragmentation; necrosis has membrane disruption and typically inflammation.
 
-**Reasoning check.** Apoptosis usually involves cell shrinkage and controlled fragmentation; necrosis has membrane disruption and typically inflammation.
-
-**Avoid this error.** A condensed mitotic chromosome does not imply DNA is being replicated.
+**Common confusion.** A condensed mitotic chromosome does not imply DNA is being replicated.
 
 ### Chapter 3 — summary
 
