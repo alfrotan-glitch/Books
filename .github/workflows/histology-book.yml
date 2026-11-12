@@ -17,12 +17,13 @@ on:
       - 'junqueira-exam-guide/tools/validate_modern_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - 'junqueira-exam-guide/tools/write_release_manifest.py'
-      - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
-      - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/make_study_decks.py'
       - 'junqueira-exam-guide/tools/make_question_bank.py'
       - 'junqueira-exam-guide/tools/validate_study_materials.py'
       - 'junqueira-exam-guide/tools/validate_scientific_corrections.py'
+      - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
+      - 'junqueira-exam-guide/tools/validate_publication_usability.py'
+      - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/generate_atlas.py'
@@ -39,6 +40,10 @@ on:
       - 'junqueira-exam-guide/tools/validate_modern_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - 'junqueira-exam-guide/tools/write_release_manifest.py'
+      - 'junqueira-exam-guide/tools/validate_scientific_corrections.py'
+      - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
+      - 'junqueira-exam-guide/tools/validate_publication_usability.py'
+      - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - '.github/workflows/histology-book.yml'
   workflow_dispatch:
 
@@ -73,6 +78,7 @@ jobs:
           python tools/validate_epub.py
           python tools/validate_modern_epub.py
           python tools/release_smoke_test.py
+          python tools/validate_publication_usability.py
       - name: Validate medicine and surgery exam scope in four formats
         run: python tools/validate_specialty_exam_scope.py
       - uses: actions/setup-java@v4
@@ -114,6 +120,13 @@ jobs:
             junqueira-exam-guide/build/atlas/*.png
             junqueira-exam-guide/deliverables/junqueira_flashcards.csv
             junqueira-exam-guide/deliverables/junqueira_question_bank.csv
+            junqueira-exam-guide/src/*.md
+            junqueira-exam-guide/tools/*.py
+            junqueira-exam-guide/build*.py
+            junqueira-exam-guide/README.md
+            junqueira-exam-guide/RELEASE_VERIFICATION.md
+            junqueira-exam-guide/IMAGE_RIGHTS_POLICY.md
+            junqueira-exam-guide/rights/image_ledger.csv
           if-no-files-found: error
 
       - name: Synchronize current-source outputs without binary rebase conflicts
