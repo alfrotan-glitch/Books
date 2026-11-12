@@ -417,7 +417,7 @@ This independently written guide synthesizes concepts from standard microscopic 
 
 **Selected scientific updates beyond the principal 2024 textbook**
 
-- Chorro L, Sarde A, Li M, et al. Langerhans cell origin and regulation. *Current Opinion in Hematology*. 2016. doi:10.1097/MOH.0000000000000202. Epidermal Langerhans cells arise in embryonic waves and self-renew; adult blood-derived contribution is context-dependent.
+- Collin M, Milne P. Langerhans cell origin and regulation. *Current Opinion in Hematology*. 2016;23(1):28–35. doi:10.1097/MOH.0000000000000202. Epidermal Langerhans cells arise in embryonic waves and self-renew; adult blood-derived contribution is context-dependent.
 - Ishikawa T. Axoneme structure from motile cilia. *Cold Spring Harbor Perspectives in Biology*. 2017;9:a028076. doi:10.1101/cshperspect.a028076. The basal body has nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
 
 - Nilsson M, Williams D. On the origin of cells and derivation of thyroid cancer: C cell story revisited. *European Thyroid Journal*. 2016;5:79–93. doi:10.1159/000447333. Endoderm-lineage evidence challenges the classical neural-crest-only assignment.
