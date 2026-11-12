@@ -2,6 +2,8 @@
 
 ## 1 · Histology & Its Methods of Study
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
 
 
@@ -191,6 +193,8 @@ Work with a real or virtual H&E section. At low power, locate the tissue edge, a
 
 ## 2 · The Cytoplasm
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
 
 
@@ -311,6 +315,8 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment). On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
 
 ## 3 · The Nucleus
+
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
 
 **In this chapter:** Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
 

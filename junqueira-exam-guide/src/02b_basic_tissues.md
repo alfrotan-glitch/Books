@@ -1,5 +1,7 @@
 ## 7 · Cartilage
 
+**SPECIALTY EXAM:** `SURGERY`
+
 **In this chapter:** Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
 
 
@@ -108,6 +110,8 @@ A. Hyaline cartilage<br/>B. Elastic cartilage<br/>C. Fibrocartilage<br/>D. Decal
 Compare hyaline, elastic and fibrocartilage in one session. Hyaline has a glassy matrix, chondrocytes in lacunae often in isogenous groups, and a perichondrium except at articular surfaces; elastic cartilage has visible elastic fibers in the matrix; fibrocartilage has thick collagen bundles and no perichondrium. Locate the territorial and interterritorial matrix, and explain why the staining differs between them.
 
 ## 8 · Bone
+
+**SPECIALTY EXAM:** `SURGERY`
 
 **In this chapter:** Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
 
@@ -239,6 +243,8 @@ In a ground or decalcified section, find osteons (concentric lamellae around a c
 
 ## 9 · Nerve Tissue & the Nervous System
 
+**SPECIALTY EXAM:** `INTERNAL MEDICINE` · `SURGERY`
+
 **In this chapter:** Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
 
 
@@ -351,6 +357,8 @@ Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Niss
 **Do not over-identify.** Small, dark glial nuclei in H&E usually cannot be assigned confidently to a particular glial class on nuclear appearance alone; cell-specific immunostains or ultrastructural evidence may be necessary.
 
 ## 10 · Muscle Tissue
+
+**SPECIALTY EXAM:** `SURGERY`
 
 **In this chapter:** Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
 

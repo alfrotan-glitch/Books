@@ -91,3 +91,7 @@ Edit anything in `src/`, then re-run all four. Sections are concatenated in file
 ## 12 November 2026 — new source candidate
 
 A follow-on source revision updates selected science claims after direct checking of Junqueira 17th edition and modern literature, and expands the *code-generated* schematic atlas from 9 to **12** figures. The new illustrations are original diagrams, not micrographs. See [IMAGE_RIGHTS_POLICY.md](IMAGE_RIGHTS_POLICY.md) and [rights/image_ledger.csv](rights/image_ledger.csv). The run 39845766634 statistics above document a **historical 9-figure build**; they are not claims about a subsequent unpublished artifact. The new source must pass its matching CI workflow, and scientific/legal/real-reader release approval remain open.
+
+## Afghanistan specialty-exam study labels (2026-11-12)
+
+Each chapter 1–23 has small `INTERNAL MEDICINE` and/or `SURGERY` syllabus markers based on the chapter lists supplied by the project owner. Medicine: 16 chapters (1–6, 9, 11–18, 20). Surgery: 18 chapters (1–14, 19, 21–23). Eleven chapters overlap. The user-supplied mapping has not been independently verified against a dated official MoPH publication and is not a claim of Ministry endorsement. The source-first design carries these markers into PDF, DOCX, EPUB and HTML; `tools/validate_specialty_exam_scope.py` checks the mapping and output coverage.

@@ -17,10 +17,14 @@ on:
       - 'junqueira-exam-guide/tools/validate_modern_epub.py'
       - 'junqueira-exam-guide/tools/release_smoke_test.py'
       - 'junqueira-exam-guide/tools/write_release_manifest.py'
+      - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
+      - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/make_study_decks.py'
       - 'junqueira-exam-guide/tools/make_question_bank.py'
       - 'junqueira-exam-guide/tools/validate_study_materials.py'
       - 'junqueira-exam-guide/tools/validate_scientific_corrections.py'
+      - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
+      - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/generate_atlas.py'
       - 'junqueira-exam-guide/data/extra_cards.tsv'
       - '.github/workflows/histology-book.yml'
@@ -69,6 +73,8 @@ jobs:
           python tools/validate_epub.py
           python tools/validate_modern_epub.py
           python tools/release_smoke_test.py
+      - name: Validate medicine and surgery exam scope in four formats
+        run: python tools/validate_specialty_exam_scope.py
       - uses: actions/setup-java@v4
         with:
           distribution: temurin

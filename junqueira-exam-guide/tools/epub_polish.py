@@ -37,6 +37,8 @@ body {
   -webkit-hyphens: auto; hyphens: auto;
 }
 p { margin: .45em 0 .78em; text-align: start; overflow-wrap: break-word; }
+p.specialty-exam { font: 700 .74em/1.8 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; text-align: start; color: #376A6A; margin: .12em 0 .8em; break-after: avoid; }
+p.specialty-exam code { font: inherit; font-weight: 700; color: #125F5B; background: #E9F4F2; border: 1px solid #B4D0C9; border-radius: .4em; padding: .13em .45em; }
 h1, h2, h3, h4 {
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Segoe UI",
                "Liberation Sans", Arial, sans-serif;
@@ -133,6 +135,8 @@ section.titlepage { text-align: center; margin: 16% auto 0; max-width: 90%; }
   blockquote.note-mnemonic { background: #3F3452; color: #EEE6F8; }
   blockquote.note-tip { background: #483B27; color: #F8EDCF; }
   figcaption { color: #B7CBCC; }
+  p.specialty-exam { color: #A6D9D1; }
+  p.specialty-exam code { color: #D6F7EC; background: #23463E; border-color: #568679; }
 }
 """
 
@@ -223,6 +227,9 @@ def polish_epub(path: str | Path) -> None:
             removed.add(name)
             continue
 
+        for para in root.findall(f".//{{{X}}}p"):
+            if "".join(para.itertext()).strip().startswith("SPECIALTY EXAM:"):
+                para.set("class", "specialty-exam")
         for table in root.findall(f".//{{{X}}}table"):
             for th in table.findall(f".//{{{X}}}thead//{{{X}}}th"):
                 if "scope" not in th.attrib:

@@ -2,6 +2,8 @@
 
 ## 19 · The Urinary System
 
+**SPECIALTY EXAM:** `SURGERY`
+
 **In this chapter:** Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 
@@ -135,6 +137,8 @@ A. Fenestrated endothelium<br/>B. Glomerular basement membrane<br/>C. Podocyte s
 In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm, brush border and lumen; find a renal corpuscle and identify its parietal layer, podocytes and mesangial cells. In the medulla, identify thin and thick limbs and collecting ducts. Trace the vascular route from interlobular artery to peritubular capillary or vasa recta. In the bladder, identify urothelium with umbrella cells and the detrusor muscle.
 
 ## 20 · Endocrine Glands
+
+**SPECIALTY EXAM:** `INTERNAL MEDICINE`
 
 **In this chapter:** Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
@@ -272,6 +276,8 @@ Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicl
 
 ## 21 · The Male Reproductive System
 
+**SPECIALTY EXAM:** `SURGERY`
+
 **In this chapter:** Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
 
 
@@ -389,6 +395,8 @@ A. Leydig cell<br/>B. Sertoli cell<br/>C. Spermatogenic cell<br/>D. Peritubular 
 In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each stage, peritubular myoid cells and Leydig cells. Follow sperm from tubule to rete testis, efferent ductules (scalloped epithelium), epididymis (pseudostratified with stereocilia), vas deferens (thick muscle) and prostate (tubuloacinar glands, corpora amylacea). Distinguish the prostatic zones by gland architecture and stroma.
 
 ## 22 · The Female Reproductive System
+
+**SPECIALTY EXAM:** `SURGERY`
 
 **In this chapter:** Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
 
@@ -574,6 +582,8 @@ In the ovary, stage the cycle by the dominant follicle or corpus luteum; identif
 **Microscopy caution.** Small tissue fragments and oblique sections can omit the diagnostic region. A single gland or follicle must not be used as the only basis for assigning an entire organ's stage.
 
 ## 23 · The Eye & Ear: Special Sense Organs
+
+**SPECIALTY EXAM:** `SURGERY`
 
 **In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
 

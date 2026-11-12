@@ -118,6 +118,8 @@ STY = {
                     alignment=TA_LEFT, textColor=colors.white, spaceAfter=0),
     "source":     S("source", fontName="Head-Reg", fontSize=7.9, leading=11.4,
                     textColor=MUTED, alignment=TA_LEFT, spaceBefore=1, spaceAfter=9),
+    "specialty":  S("specialty", fontName="Head-Reg", fontSize=7.2, leading=10.8,
+                    textColor=MUTED, alignment=TA_LEFT, spaceBefore=0, spaceAfter=8),
     "caption":    S("caption", fontName="Head-Reg", fontSize=7.6, leading=10,
                     textColor=MUTED, alignment=TA_LEFT, spaceBefore=2, spaceAfter=9),
 }
@@ -531,6 +533,18 @@ def build_story(blocks):
 
         elif kind == "para":
             txt = b[1]
+            if txt.startswith("**SPECIALTY EXAM:** "):
+                tags = re.findall(r"`([A-Z ]+)`", txt)
+                assert tags and set(tags) <= {"INTERNAL MEDICINE", "SURGERY"}
+                labels = " &nbsp; ".join(
+                    '<font name="Head" color="#0E6B6B" size="7.4">[ %s ]</font>' % tag
+                    for tag in tags
+                )
+                story.append(Paragraph(
+                    '<font name="Head-Reg" color="#667A81" size="7">EXAM SCOPE</font>'
+                    '&nbsp;&nbsp;&nbsp;' + labels,
+                    STY["specialty"]))
+                continue
             m = re.match(r"^\*\*pp\.\s*([0-9\u2013\-]+)\*\*\s*\u00b7\s*(.*)$", txt.strip())
             if m:
                 pages = m.group(1).replace("-", "\u2013")
