@@ -58,7 +58,7 @@ Ch 3 · Cell size — Necrosis?,Swells,Junqueira::Ch03 tables,basic
 How do you classify an epithelium in one pass?,"First count the layers (simple, stratified, pseudostratified), then name the surface cell shape (squamous, cuboidal, columnar).",Junqueira::Ch04 recall,basic
 What does a tight junction do besides sealing?,"It fences membrane proteins, creating and maintaining apical–basal polarity.",Junqueira::Ch04 recall,basic
 Which junction attaches a cell to the basal lamina?,The hemidesmosome.,Junqueira::Ch04 recall,basic
-"Microvillus, stereocilium, cilium — core structure?","Microvillus: actin core. Stereocilium: long, stiff actin bundle. Cilium: 9 + 2 microtubules anchored by a 9 + 0 basal body.",Junqueira::Ch04 recall,basic
+"Microvillus, stereocilium, cilium — core structure?",Microvillus and stereocilium: actin-based; most motile epithelial cilia: 9 + 2 axoneme; typical primary cilium: 9 + 0 axoneme; a basal body has nine microtubule triplets.,Junqueira::Ch04 recall,basic
 Why is urothelium suited to the bladder?,"Umbrella cells with uroplakin plaques and tight junctions form an osmotic barrier, and the epithelium thins as the bladder fills.",Junqueira::Ch04 recall,basic
 Ch 4 · Lamina lucida (classical EM description) — Composition?,Zone adjacent to the cell membrane; its appearance depends partly on preparation,Junqueira::Ch04 tables,basic
 Ch 4 · Lamina lucida (classical EM description) — Made by?,Primarily epithelial contributions,Junqueira::Ch04 tables,basic
@@ -384,7 +384,7 @@ Ch 17 · Type II pneumocyte — Share of alveolar lining?,A small part of each a
 Ch 17 · Alveolar macrophage — Shape?,"Large, free (""dust cell"")",Junqueira::Ch17 tables,basic
 Ch 17 · Alveolar macrophage — Function?,Phagocytosis,Junqueira::Ch17 tables,basic
 Name the epidermal layers from deep to superficial.,"Basale, spinosum, granulosum, lucidum (thick skin only), corneum.",Junqueira::Ch18 recall,basic
-Which epidermal cells are neural crest derived?,Melanocytes and Merkel cells; Langerhans cells come from monocytes.,Junqueira::Ch18 recall,basic
+Distinguish the developmental origins of three nonkeratinocyte epidermal cells.,Melanocytes arise from the neural crest; Merkel cells arise from epidermal progenitors (supported by mammalian lineage tracing); Langerhans cells are immune-lineage cells seeded mainly by embryonic yolk-sac and fetal-liver precursors.,Junqueira::Ch18 recall,basic
 What is the function of lamellar bodies?,"They discharge lipid into the intercellular space, forming the water barrier.",Junqueira::Ch18 recall,basic
 Where are Meissner and Pacinian corpuscles?,"Meissner in the dermal papillae (light touch); Pacinian deep in the dermis/hypodermis (pressure, vibration).",Junqueira::Ch18 recall,basic
 How do sebaceous and eccrine glands differ in secretion?,Sebaceous: holocrine. Eccrine: merocrine.,Junqueira::Ch18 recall,basic
@@ -404,12 +404,12 @@ Ch 18 · Keratinocyte — Identifying feature?,90% of epidermal cells; desmosome
 Ch 18 · Melanocyte — Origin?,Neural crest,Junqueira::Ch18 tables,basic
 Ch 18 · Melanocyte — Function?,Melanin via tyrosinase; transferred in melanosomes,Junqueira::Ch18 tables,basic
 Ch 18 · Melanocyte — Identifying feature?,"Dark, dendritic; basal layer",Junqueira::Ch18 tables,basic
-Ch 18 · Langerhans cell — Origin?,Monocyte/bone marrow,Junqueira::Ch18 tables,basic
+Ch 18 · Langerhans cell — Origin?,Mainly embryonic yolk-sac and fetal-liver myeloid precursors; local self-renewal in steady state,Junqueira::Ch18 tables,basic
 Ch 18 · Langerhans cell — Function?,Antigen presentation,Junqueira::Ch18 tables,basic
-Ch 18 · Langerhans cell — Identifying feature?,"Dendritic, stratum spinosum; 2–8% of epidermal cells",Junqueira::Ch18 tables,basic
-Ch 18 · Merkel cell — Origin?,Neural crest,Junqueira::Ch18 tables,basic
+Ch 18 · Langerhans cell — Identifying feature?,"Dendritic epidermal immune cell, often in stratum spinosum; 2–8% is an approximate estimate",Junqueira::Ch18 tables,basic
+Ch 18 · Merkel cell — Origin?,Epidermal ectoderm-lineage progenitors (supported by mammalian fate mapping),Junqueira::Ch18 tables,basic
 Ch 18 · Merkel cell — Function?,Light touch (mechanoreception),Junqueira::Ch18 tables,basic
-Ch 18 · Merkel cell — Identifying feature?,"Basal, with a sensory nerve ending",Junqueira::Ch18 tables,basic
+Ch 18 · Merkel cell — Identifying feature?,"Basal epidermis, with sensory nerve contact; not normally classified as a neural-crest derivative",Junqueira::Ch18 tables,basic
 Ch 18 · Free nerve endings — Location?,Epidermis and dermis,Junqueira::Ch18 tables,basic
 Ch 18 · Free nerve endings — Structure?,Unencapsulated,Junqueira::Ch18 tables,basic
 Ch 18 · Free nerve endings — Modality?,"Pain, temperature extremes, mechanical movement",Junqueira::Ch18 tables,basic
