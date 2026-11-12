@@ -38,7 +38,12 @@ with fitz.open(PDF) as pdf:
         "PDF contents spill over into an isolated extra page"
     )
     annotations = [link for page in pdf for link in page.get_links()]
-    internal = [x for x in annotations if x.get("kind") == fitz.LINK_GOTO]
+    # PyMuPDF versions can classify valid PDF named GoTo destinations as
+    # LINK_NAMED rather than LINK_GOTO; both are clickable page links.
+    internal = [
+        x for x in annotations
+        if x.get("kind") in (fitz.LINK_GOTO, fitz.LINK_NAMED)
+    ]
     external = [x.get("uri", "") for x in annotations if x.get("kind") == fitz.LINK_URI]
     assert len(internal) >= 40, f"PDF has only {len(internal)} clickable internal TOC links"
     for host in EXPECTED_HOSTS:
@@ -51,6 +56,18 @@ with fitz.open(PDF) as pdf:
     )
 
 document = Document(DOCX)
+metadata_paras = document.paragraphs[:6]
+assert metadata_paras[0].style.name == "Title", "Word title paragraph missing"
+date_paras = [p for p in metadata_paras if p.style.name == "Date"]
+assert len(date_paras) == 1, "Word date metadata missing or duplicated"
+date_xml = date_paras[0]._p.xml
+assert 'w:type="page"' in date_xml and "w:br" in date_xml, (
+    "Word needs a real title-page break after its Date paragraph"
+)
+assert len(document.inline_shapes) >= 12, "Word illustrated atlas missing"
+assert all(section.page_width.mm >= 209 and section.page_height.mm >= 296
+           for section in document.sections), "Word is not configured as A4"
+print("DOCX LAYOUT PASS: title page, A4, 12 schematic figures and page break.")
 docx_links = [
     rel.target_ref for rel in document.part.rels.values()
     if rel.is_external and str(rel.target_ref).startswith("https://")
