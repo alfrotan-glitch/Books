@@ -12,7 +12,7 @@ for n in range(1,24):
     assert f"**Reference:** Junqueira's Basic Histology, 17th ed., Chapter {n}" in source
 for stem in ("Teacher_Guide","Student_Workbook"):
     md=(root/"course"/(stem+".md")).read_text(encoding="utf-8")
-    heads=re.findall(r"(?m)^### (?:Lesson|Chapter) (\d+):",md)
+    heads=re.findall(r"(?m)^### (?:Lesson|Chapter) (\d+)(?::| —)",md)
     assert len(heads)==23 and set(map(int,heads))==set(range(1,24)),(stem,heads)
     for ext in (".pdf",".docx",".html"):
         p=root/"course"/(stem+ext)
