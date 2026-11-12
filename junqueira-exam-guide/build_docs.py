@@ -110,6 +110,117 @@ def main():
     from docx import Document
     from docx.shared import Pt, RGBColor
     document = Document(docx)
+
+    # Preserve a clean reflowable source; format the generated Word book for
+    # A4 printing and long-form reading without embedding proprietary fonts.
+    from docx.shared import Mm
+    from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
+    from docx.oxml import OxmlElement
+    from docx.oxml.ns import qn
+    for section in document.sections:
+        section.page_width, section.page_height = Mm(210), Mm(297)
+        section.left_margin = section.right_margin = Mm(18)
+        section.top_margin = section.bottom_margin = Mm(18)
+        section.header_distance = section.footer_distance = Mm(8)
+        section.different_first_page_header_footer = True
+
+    for name in ("Normal", "Body Text", "First Paragraph"):
+        if name in document.styles:
+            style = document.styles[name]
+            style.font.name = "Georgia"
+            style.font.size = Pt(9.6)
+            style.paragraph_format.space_after = Pt(4)
+            style.paragraph_format.line_spacing = 1.14
+            style.paragraph_format.widow_control = True
+
+    headings = {
+        "Heading 1": (18, RGBColor(20, 45, 52), 14),
+        "Heading 2": (13.5, RGBColor(12, 105, 104), 11),
+        "Heading 3": (11.2, RGBColor(12, 105, 104), 8),
+        "Heading 4": (10, RGBColor(20, 45, 52), 6),
+    }
+    for name, (size, color, before) in headings.items():
+        if name in document.styles:
+            style = document.styles[name]
+            style.font.name = "Aptos Display"
+            style.font.size = Pt(size)
+            style.font.bold = True
+            style.font.color.rgb = color
+            style.paragraph_format.space_before = Pt(before)
+            style.paragraph_format.space_after = Pt(5)
+            style.paragraph_format.keep_with_next = True
+
+    # Pandoc emits exactly three metadata paragraphs when author is blank:
+    # Title, Subtitle, Date. Never style the first actual chapter as a date.
+    title_paragraphs = document.paragraphs[:3]
+    if (len(title_paragraphs) == 3 and title_paragraphs[0].style.name == "Title"
+            and title_paragraphs[2].style.name == "Date"):
+        title, subtitle, date = title_paragraphs
+        title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        title.paragraph_format.space_before = Pt(130)
+        title.paragraph_format.space_after = Pt(22)
+        for run in title.runs:
+            run.font.name = "Aptos Display"
+            run.font.size = Pt(32)
+            run.font.bold = True
+            run.font.color.rgb = RGBColor(16, 62, 68)
+        subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        subtitle.paragraph_format.space_after = Pt(45)
+        for run in subtitle.runs:
+            run.font.size = Pt(16)
+            run.font.color.rgb = RGBColor(40, 105, 104)
+        date.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        date.paragraph_format.space_before = Pt(35)
+        for run in date.runs:
+            run.font.size = Pt(11)
+            run.font.color.rgb = RGBColor(105, 122, 128)
+        date.add_run().add_break(WD_BREAK.PAGE)
+
+    # Repeat header rows across pages and differentiate comparison-table headings.
+    for table in document.tables:
+        if not table.rows:
+            continue
+        trPr = table.rows[0]._tr.get_or_add_trPr()
+        if not trPr.xpath("./w:tblHeader"):
+            trPr.append(OxmlElement("w:tblHeader"))
+        for i, row in enumerate(table.rows):
+            for cell in row.cells:
+                if i == 0:
+                    tcPr = cell._tc.get_or_add_tcPr()
+                    shading = OxmlElement("w:shd")
+                    shading.set(qn("w:fill"), "173C43")
+                    tcPr.append(shading)
+                for paragraph in cell.paragraphs:
+                    paragraph.paragraph_format.space_after = Pt(1.5)
+                    for run in paragraph.runs:
+                        run.font.size = Pt(8.2)
+                        if i == 0:
+                            run.font.bold = True
+                            run.font.color.rgb = RGBColor(255, 255, 255)
+
+    # Quiet running header/folio; none on the title page.
+    section = document.sections[0]
+    header = section.header.paragraphs[0]
+    header.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    run = header.add_run("BASIC HISTOLOGY  ·  A LEARNING TEXT")
+    run.font.size = Pt(7.3)
+    run.font.color.rgb = RGBColor(86, 115, 120)
+    footer = section.footer.paragraphs[0]
+    footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = footer.add_run()
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(34, 112, 112)
+    page_field = OxmlElement("w:fldSimple")
+    page_field.set(qn("w:instr"), "PAGE")
+    run._r.addnext(page_field)
+
+    # Word can refresh Pandoc's field-based Table of Contents when opened.
+    settings = document.settings.element
+    update = settings.find(qn("w:updateFields"))
+    if update is None:
+        update = OxmlElement("w:updateFields")
+        settings.append(update)
+    update.set(qn("w:val"), "true")
     for para in document.paragraphs:
         title = para.text.strip()
         if title.startswith("SPECIALTY EXAM:"):
