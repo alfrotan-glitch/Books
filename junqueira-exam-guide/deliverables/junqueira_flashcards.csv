@@ -122,9 +122,9 @@ How do you tell dense regular from dense irregular connective tissue?,"Direction
 Ch 5 · Fibroblast / fibrocyte — Origin?,Mesenchyme,Junqueira::Ch05 tables,basic
 Ch 5 · Fibroblast / fibrocyte — Function?,"Synthesizes collagen, elastin, GAGs; fibrocyte is the quiescent form",Junqueira::Ch05 tables,basic
 Ch 5 · Fibroblast / fibrocyte — Identifying feature?,"Elongated, pale, abundant RER; myofibroblast also has actin for wound contraction",Junqueira::Ch05 tables,basic
-Ch 5 · Macrophage — Origin?,Monocyte,Junqueira::Ch05 tables,basic
-Ch 5 · Macrophage — Function?,"Phagocytosis, antigen presentation, cytokines",Junqueira::Ch05 tables,basic
-Ch 5 · Macrophage — Identifying feature?,"Irregular, abundant lysosomes; Kupffer cell in liver, microglia in CNS, osteoclast in bone (a fused macrophage)",Junqueira::Ch05 tables,basic
+Ch 5 · Macrophage lineage — Origin?,Embryonic tissue-resident precursors and/or circulating monocytes; varies by organ,Junqueira::Ch05 tables,basic
+Ch 5 · Macrophage lineage — Function?,"Phagocytosis, antigen presentation, cytokines",Junqueira::Ch05 tables,basic
+Ch 5 · Macrophage lineage — Identifying feature?,"Irregular, lysosome-rich cells; Kupffer cells reside in liver; microglia are specialized yolk-sac-derived CNS macrophages; osteoclasts arise by fusion of monocyte/macrophage-lineage precursors",Junqueira::Ch05 tables,basic
 Ch 5 · Mast cell — Origin?,Bone marrow,Junqueira::Ch05 tables,basic
 Ch 5 · Mast cell — Function?,Releases histamine and heparin; IgE-mediated allergy,Junqueira::Ch05 tables,basic
 Ch 5 · Mast cell — Identifying feature?,"Round, many dark granules; degranulates on IgE cross-linking",Junqueira::Ch05 tables,basic
@@ -487,13 +487,13 @@ Ch 21 · Ejaculatory duct — Epithelium?,Columnar,Junqueira::Ch21 tables,basic
 Ch 21 · Ejaculatory duct — Function?,Delivers into the prostatic urethra,Junqueira::Ch21 tables,basic
 "Which cells produce estrogen, and from what precursor?",Granulosa cells aromatize androgens from theca interna cells.,Junqueira::Ch22 recall,basic
 "What is released at ovulation, and at what meiotic stage?","The secondary oocyte, arrested in metaphase II, with the corona radiata.",Junqueira::Ch22 recall,basic
-What prevents polyspermy?,Cortical granule exocytosis modifies the zona pellucida into the perivitelline barrier.,Junqueira::Ch22 recall,basic
+What prevents polyspermy?,Cortical-granule secretion modifies and hardens the zona pellucida; egg-membrane changes also reduce subsequent sperm fusion in mammals.,Junqueira::Ch22 recall,basic
 Which hormone maintains the corpus luteum early in pregnancy?,hCG.,Junqueira::Ch22 recall,basic
 How do proliferative and secretory endometrium differ?,"Proliferative: straight narrow glands, mitoses. Secretory: tortuous dilated glands with secretion and edematous stroma.",Junqueira::Ch22 recall,basic
 Ch 22 · Primordial follicle — Structure?,Oocyte + single layer of flat granulosa cells,Junqueira::Ch22 tables,basic
 Ch 22 · Primordial follicle — Hormonal influence?,None; present from birth,Junqueira::Ch22 tables,basic
 Ch 22 · Primary follicle — Structure?,"Oocyte enlarges (to ~120 µm); granulosa cells become cuboidal (unilaminar), then stratified (multilaminar); zona pellucida appears",Junqueira::Ch22 tables,basic
-Ch 22 · Primary follicle — Hormonal influence?,FSH-dependent from this stage,Junqueira::Ch22 tables,basic
+Ch 22 · Primary follicle — Hormonal influence?,Early growth largely gonadotropin-independent; FSH responsiveness develops,Junqueira::Ch22 tables,basic
 Ch 22 · Secondary (antral) follicle — Structure?,"Antrum forms among the granulosa cells; theca interna (steroidogenic, vascular) and theca externa (fibrous, contractile) differentiate",Junqueira::Ch22 tables,basic
 Ch 22 · Secondary (antral) follicle — Hormonal influence?,FSH and LH,Junqueira::Ch22 tables,basic
 Ch 22 · Graafian (mature) follicle — Structure?,"Single large antrum up to 2 cm; oocyte on the cumulus oophorus, wrapped by the corona radiata",Junqueira::Ch22 tables,basic
