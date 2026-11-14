@@ -16,6 +16,11 @@ marker="Integrative practice: reason from the specimen"
 chapters=[int(n) for n in re.findall(r"(?m)^## (\d{1,2}) ·",whole) if int(n)<=23]
 assert len(chapters)==23 and set(chapters)==set(range(1,24)),chapters
 assert len(re.findall(r"(?m)^### "+re.escape(marker)+r"$",whole))==23
+quick=re.findall(r"(?m)^### Quick notes — understand in 90 seconds$",whole)
+assert len(quick)==23,("Missing brief study notes",len(quick))
+inline_images=re.findall(r"(?m)^!\[[^\]]+\]\(build/atlas/[^)]+\.png\)$",whole)
+assert len(inline_images)==24,("Expected twelve repeated original visual anchors and twelve atlas plates",len(inline_images))
+
 for chapter in range(1,24):
     start=whole.find(f"## {chapter} ·")
     assert start!=-1,chapter

@@ -7,6 +7,26 @@
 **In this chapter:** Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
 
+### Quick notes — understand in 90 seconds
+
+- Blood vessels have **tunica intima, media, and adventitia** (with variations in small vessels).
+- **Arteries:** often a thicker smooth-muscle media relative to the lumen.
+- **Veins:** commonly thinner media, irregular or collapsed lumina and prominent adventitia.
+- **Capillaries:** mainly endothelium and its basal lamina for exchange.
+- **Endothelium** is simple squamous epithelium; interpret its morphology with surrounding wall layers.
+
+**High-yield comparison:** A round lumen alone does **not** prove artery; examine the **media** and elastic laminae.
+
+> **MNEMONIC** — Vessel ID: **wall thickness → smooth muscle → elastic layers → surrounding tissue**.
+
+**Recall without looking:** A vessel has a thick media and clear internal elastic lamina. Which category fits best?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing artery, vein and lymphatic capillary](build/atlas/vascular_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -18,7 +38,9 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-The circulatory system pumps and directs blood cells and substances to all tissues. The enormous capillary network provides a large exchange surface, although estimates of total capillary length and area vary with the method and assumptions used. Almost every vessel is a variation on one three-layered tube. What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — reflecting local hemodynamic forces, tissue requirements and developmental specialization.
+The circulatory system pumps and directs blood cells and substances to all tissues. The enormous capillary network provides a large exchange surface, although estimates of total capillary length and area vary with the method and assumptions used. Almost every vessel is a variation on one three-layered tube.
+
+What changes between an aorta and a capillary is **how much muscle and elastic tissue each layer contains** — reflecting local hemodynamic forces, tissue requirements and developmental specialization.
 
 ### Heart
 
@@ -62,7 +84,9 @@ The circulatory system pumps and directs blood cells and substances to all tissu
 
 ### Lymphatic Vascular System
 
-Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**. Initial lymphatic capillaries have a discontinuous or sparse basal lamina and specialized overlapping endothelial junctions that permit interstitial fluid and cells to enter under appropriate conditions. Microbial spread and tumor-cell entry depend on additional biological mechanisms, not simply on the absence of fenestrations.
+Begins as blind-ended **lymphatic capillaries** with overlapping endothelial flaps and **anchoring filaments**, which open when interstitial pressure rises. They converge into collecting vessels with valves, then nodes, trunks, and the **thoracic duct** and **right lymphatic duct**.
+
+Initial lymphatic capillaries have a discontinuous or sparse basal lamina and specialized overlapping endothelial junctions that permit interstitial fluid and cells to enter under appropriate conditions. Microbial spread and tumor-cell entry depend on additional biological mechanisms, not simply on the absence of fenestrations.
 
 > **CLINICAL** — **Atherosclerosis** begins with endothelial dysfunction: LDL crosses the endothelium, is oxidized, and provokes monocyte recruitment. Macrophages become **foam cells**, a fatty streak forms, smooth muscle migrates into the intima, and a fibrous cap covers a necrotic core. Rupture of a thin cap exposes thrombogenic material and produces the acute coronary syndrome. **Aneurysm** follows destruction of medial elastic fibers. **Varicose veins** follow valve failure. **Lymphedema** follows lymphatic obstruction — classically after axillary node clearance.
 
@@ -128,7 +152,9 @@ A. Large vein<br/>B. Elastic artery<br/>C. Arteriole<br/>D. Capillary
 
 ### Practical identification
 
-Compare artery, vein and capillary in one section. Name the three tunics, and judge the artery by a thick media with concentric smooth-muscle layers and an internal elastic lamina; judge the vein by a thin media, a wide lumen and a thick adventitia. Distinguish elastic from muscular arteries by the amount of elastin in the media. In a capillary bed, classify the endothelium as continuous, fenestrated or sinusoidal and relate that to the organ.
+Compare artery, vein and capillary in one section. Name the three tunics, and judge the artery by a thick media with concentric smooth-muscle layers and an internal elastic lamina; judge the vein by a thin media, a wide lumen and a thick adventitia. Distinguish elastic from muscular arteries by the amount of elastin in the media.
+
+In a capillary bed, classify the endothelium as continuous, fenestrated or sinusoidal and relate that to the organ.
 
 ## 12 · Blood
 
@@ -137,6 +163,23 @@ Compare artery, vein and capillary in one section. Name the three tunics, and ju
 **In this chapter:** Composition of Plasma · Blood Cells
 
 
+### Quick notes — understand in 90 seconds
+
+- **Erythrocyte:** anucleate, biconcave oxygen-transporting cell in humans.
+- **Neutrophil:** segmented nucleus, fine granules; rapid response to many bacterial infections.
+- **Eosinophil:** often bilobed nucleus, prominent eosinophilic granules.
+- **Basophil:** coarse deeply staining granules that may conceal the nucleus.
+- **Monocyte:** large, often folded nucleus; **lymphocyte:** dense round nucleus with limited cytoplasm.
+- **Platelets:** small anucleate cytoplasmic fragments from megakaryocytes.
+
+**High-yield comparison:** Monocyte and large lymphocyte are not identified by size alone; inspect **nuclear contour and cytoplasm**.
+
+> **MNEMONIC** — **Neutro = many lobes; eosino = two lobes; baso = dark granules**.
+
+**Recall without looking:** Which leukocyte has a bilobed nucleus and intensely eosinophilic granules?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -243,7 +286,9 @@ A. Neutrophil<br/>B. Eosinophil<br/>C. Basophil<br/>D. Monocyte
 
 ### Practical identification
 
-On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), platelets (small purple fragments) and each leukocyte: neutrophil (segmented nucleus, fine granules), eosinophil (bilobed, orange-red granules), basophil (dark granules obscuring the nucleus), lymphocyte (round dense nucleus, thin cytoplasm) and monocyte (kidney-shaped nucleus, abundant blue-gray cytoplasm). Perform a differential count and explain what each cell does.
+On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), platelets (small purple fragments) and each leukocyte: neutrophil (segmented nucleus, fine granules), eosinophil (bilobed, orange-red granules), basophil (dark granules obscuring the nucleus), lymphocyte (round dense nucleus, thin cytoplasm) and monocyte (kidney-shaped nucleus, abundant blue-gray cytoplasm).
+
+Perform a differential count and explain what each cell does.
 
 **Slide identification drill.** First scan a well-stained monolayer in which erythrocytes are close together without excessive overlap. Choose 100 leukocytes across representative fields, classify each by **nuclear shape, cytoplasmic proportion and granule appearance**, and record your uncertainty rather than assigning a cell by color alone.
 
@@ -263,6 +308,22 @@ On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), pl
 **In this chapter:** Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
 
 
+### Quick notes — understand in 90 seconds
+
+- **Red bone marrow** contains active developing blood cells, sinusoids and stromal support.
+- **Hematopoietic stem cells are multipotent**, capable of generating several blood lineages.
+- **Erythroid maturation:** cell becomes smaller, cytoplasm changes and nucleus is eventually expelled.
+- **Megakaryocytes:** large polyploid marrow cells releasing platelet fragments.
+- Erythrocytes, white blood cells and platelets have distinct developmental pathways and regulators.
+
+**High-yield comparison:** **Reticulocyte** retains some ribosomal RNA; a mature human erythrocyte lacks a nucleus.
+
+> **MNEMONIC** — Blood production: **stem cell → committed progenitor → immature cell → circulating cell**.
+
+**Recall without looking:** Which marrow cell is the immediate parent of circulating platelets?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -288,7 +349,9 @@ In the adult, active **red marrow** persists in the **sternum, ribs, vertebrae, 
 
 ### Stem Cells, Growth Factors, & Differentiation
 
-The **hematopoietic stem cell (HSC)** is **multipotent**, not pluripotent: it self-renews and can give rise to the major blood-cell lineages. Human HSC-enriched populations commonly express **CD34**, but CD34 alone does not uniquely identify a functional stem cell. HSC behavior is regulated by a bone-marrow **niche** involving stromal cells, vascular cells, and extracellular matrix. Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, listed here by name:
+The **hematopoietic stem cell (HSC)** is **multipotent**, not pluripotent: it self-renews and can give rise to the major blood-cell lineages. Human HSC-enriched populations commonly express **CD34**, but CD34 alone does not uniquely identify a functional stem cell. HSC behavior is regulated by a bone-marrow **niche** involving stromal cells, vascular cells, and extracellular matrix.
+
+Committed **progenitor cells** — also called **CFUs** (colony-forming units) — proliferate and differentiate under growth factors, which are also called **CSFs** (colony-stimulating factors) or cytokines. Differentiation is driven by **growth factors**, listed here by name:
 
 | Factor | Target |
 |---|---|
@@ -381,6 +444,26 @@ In a marrow smear, identify the erythroid series by its round nucleus, progressi
 **In this chapter:** Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 
 
+### Quick notes — understand in 90 seconds
+
+- **Thymus:** lymphocyte-rich cortex, paler medulla, Hassall corpuscles; T-cell maturation.
+- **Lymph node:** capsule, subcapsular sinus, cortical follicles, paracortex, medullary cords.
+- **Spleen:** white pulp for immune responses; red pulp for blood filtration.
+- **MALT/tonsils:** immune surveillance along mucosal surfaces.
+- **Germinal centers** occur in active B-cell follicles—not in normal thymic lobules.
+
+**High-yield comparison:** **Spleen filters blood; lymph nodes filter lymph; thymus matures T cells**.
+
+> **MNEMONIC** — Hassall corpuscles → **thymus**; red and white pulp → **spleen**.
+
+**Recall without looking:** A lobulated lymphoid organ contains Hassall corpuscles. Name it.
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing major lymphoid tissues](build/atlas/lymphoid_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -548,4 +631,6 @@ A. First pharyngeal arch<br/>B. Third and fourth pharyngeal pouches<br/>C. Neura
 
 ### Practical identification
 
-Compare the four lymphoid organs. In the thymus, find lobules with a dark cortex, pale medulla and Hassall corpuscles; in a lymph node, the capsule, subcapsular sinus, cortical follicles, paracortex with high endothelial venules, and medullary cords; in the spleen, white pulp around a central arteriole and red pulp with sinusoids and cords; in a tonsil, crypts and a partial capsule. Use the presence or absence of afferent lymphatics to separate them.
+Compare the four lymphoid organs. In the thymus, find lobules with a dark cortex, pale medulla and Hassall corpuscles; in a lymph node, the capsule, subcapsular sinus, cortical follicles, paracortex with high endothelial venules, and medullary cords; in the spleen, white pulp around a central arteriole and red pulp with sinusoids and cords; in a tonsil, crypts and a partial capsule.
+
+Use the presence or absence of afferent lymphatics to separate them.

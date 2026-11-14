@@ -7,6 +7,27 @@
 **In this chapter:** Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 
+### Quick notes — understand in 90 seconds
+
+- **Renal corpuscle:** glomerular capillary tuft within Bowman's capsule.
+- **PCT:** eosinophilic cells and conspicuous apical brush border; often indistinct lumen.
+- **DCT:** clearer lumen and little/no prominent brush border.
+- **Collecting ducts:** relatively distinct cell boundaries in larger profiles.
+- **Juxtaglomerular apparatus:** close relationship of macula densa, granular cells and vascular pole.
+- **Urothelium:** lines renal pelvis, ureter and bladder.
+
+**High-yield comparison:** **PCT = brush border + fuzzy lumen; DCT = cleaner lumen**.
+
+> **MNEMONIC** — Start at the **renal corpuscle**, then compare nearby tubules.
+
+**Recall without looking:** Which cortical tubule has a strong brush border?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing renal corpuscle and tubules](build/atlas/renal_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -62,7 +83,9 @@ A renal section becomes easier to interpret when you separate **location**, **co
 
 ### Blood Circulation
 
-Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high. Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and participate in **countercurrent exchange**, helping preserve the medullary osmotic gradient. The **loops of Henle**, especially their thick ascending limbs, are central to countercurrent multiplication.
+Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high.
+
+Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and participate in **countercurrent exchange**, helping preserve the medullary osmotic gradient. The **loops of Henle**, especially their thick ascending limbs, are central to countercurrent multiplication.
 
 ### Renal Function: Filtration, Secretion, & Reabsorption
 
@@ -153,6 +176,27 @@ In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm,
 **In this chapter:** Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
 
+### Quick notes — understand in 90 seconds
+
+- **Pituitary:** anterior glandular cells and posterior neural tissue; hormones differ by region.
+- **Thyroid:** follicles filled with colloid; follicular cells synthesize T3/T4.
+- **Parathyroid:** endocrine chief-cell cords and capillaries, not colloid follicles.
+- **Adrenal cortex:** glomerulosa (mineralocorticoids), fasciculata (glucocorticoids), reticularis (androgens).
+- **Adrenal medulla:** catecholamine-producing chromaffin cells.
+- **Thyroid C cells:** secrete calcitonin; mammalian embryologic origin differs from older exclusively neural-crest accounts.
+
+**High-yield comparison:** **Thyroid = follicles; parathyroid = cell cords; adrenal cortex = three zones**.
+
+> **MNEMONIC** — Adrenal cortex: **G-F-R = salt, sugar, sex-related steroids** (simplified).
+
+**Recall without looking:** Which endocrine organ stores hormone precursors extracellularly in colloid?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing thyroid, parathyroid and adrenal cortex](build/atlas/endocrine_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -197,7 +241,9 @@ Two glands in one organ, with entirely different embryology and function:
 | **Zona reticularis** | Irregular cords, pigmented cells | **Androgens (DHEA)** | ACTH |
 | **Medulla** | **Chromaffin cells** (neural crest) | **Epinephrine, norepinephrine** | Sympathetic splanchnic nerve |
 
-Each adrenal gland is a flattened half-moon about **4–6 cm long, 1–2 cm wide, and 4–6 mm thick**, weighing about **8 g** in total. The **fasciculata** is the **thickest** zone, and its cells are pale and vacuolated because they are full of **lipid droplets (cholesterol esters)**, **tubular mitochondrial cristae**, and **smooth ER** for steroid synthesis. The **medulla** is functionally a sympathetic ganglion without axons: **chromaffin cells** contain electron-dense granules **150–350 nm** in diameter, storing catecholamines with Ca²⁺, ATP, and **49-kDa chromogranins**. About **80%** of the catecholamine released is **epinephrine**. Mnemonic for the zones: **"GFR — Salt, Sugar, Sex"** from outside in.
+Each adrenal gland is a flattened half-moon about **4–6 cm long, 1–2 cm wide, and 4–6 mm thick**, weighing about **8 g** in total. The **fasciculata** is the **thickest** zone, and its cells are pale and vacuolated because they are full of **lipid droplets (cholesterol esters)**, **tubular mitochondrial cristae**, and **smooth ER** for steroid synthesis.
+
+The **medulla** is functionally a sympathetic ganglion without axons: **chromaffin cells** contain electron-dense granules **150–350 nm** in diameter, storing catecholamines with Ca²⁺, ATP, and **49-kDa chromogranins**. About **80%** of the catecholamine released is **epinephrine**. Mnemonic for the zones: **"GFR — Salt, Sugar, Sex"** from outside in.
 
 ### Pancreatic Islets
 
@@ -301,6 +347,22 @@ Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicl
 **In this chapter:** Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
 
 
+### Quick notes — understand in 90 seconds
+
+- **Seminiferous tubules:** layers of developing germ cells around Sertoli cells.
+- **Sertoli cells:** germ-cell support, blood-testis barrier, inhibin secretion.
+- **Leydig cells:** interstitial testosterone-producing endocrine cells.
+- **Epididymis:** pseudostratified epithelium with long nonmotile stereocilia.
+- **Vas deferens:** thick muscular wall and comparatively smaller folded lumen.
+
+**High-yield comparison:** **Sertoli inside tubules; Leydig between tubules**.
+
+> **MNEMONIC** — Epididymis stereocilia are **actin-based microvilli**, not motile cilia.
+
+**Recall without looking:** Which cell type in the testicular interstitium synthesizes testosterone?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -346,7 +408,9 @@ Because the barrier makes the adluminal compartment immunologically privileged, 
 
 ### Intratesticular Ducts
 
-Sperm leave each tubule through a short **straight tubule**, lined at first only by Sertoli cells and then by simple cuboidal epithelium. It enters the **rete testis**, a labyrinth of cuboidal-lined channels in the mediastinum testis. From there **10–20 efferent ductules** carry sperm to the head of the epididymis. Their epithelium has a characteristic **scalloped** profile in section — patches of absorptive, nonciliated cuboidal cells with microvilli alternating with patches of taller ciliated cells. Absorption of Sertoli-cell fluid plus ciliary beating creates the flow that moves sperm out of the testis.
+Sperm leave each tubule through a short **straight tubule**, lined at first only by Sertoli cells and then by simple cuboidal epithelium. It enters the **rete testis**, a labyrinth of cuboidal-lined channels in the mediastinum testis. From there **10–20 efferent ductules** carry sperm to the head of the epididymis.
+
+Their epithelium has a characteristic **scalloped** profile in section — patches of absorptive, nonciliated cuboidal cells with microvilli alternating with patches of taller ciliated cells. Absorption of Sertoli-cell fluid plus ciliary beating creates the flow that moves sperm out of the testis.
 
 ### Excretory Genital Ducts
 
@@ -368,9 +432,13 @@ Sperm leave each tubule through a short **straight tubule**, lined at first only
 
 ### Penis
 
-Three erectile bodies: two dorsal **corpora cavernosa** and one ventral **corpus spongiosum** containing the urethra and expanding distally as the **glans**. Each is a sponge of **endothelium-lined cavernous spaces** separated by trabeculae of smooth muscle and connective tissue, with a dense **tunica albuginea** around the corpora cavernosa. Most of the penile urethra is **pseudostratified columnar**, becoming **stratified squamous** in the glans.
+Three erectile bodies: two dorsal **corpora cavernosa** and one ventral **corpus spongiosum** containing the urethra and expanding distally as the **glans**. Each is a sponge of **endothelium-lined cavernous spaces** separated by trabeculae of smooth muscle and connective tissue, with a dense **tunica albuginea** around the corpora cavernosa.
 
-Erection is a vascular event with a molecular explanation worth memorizing: parasympathetic acetylcholine makes the endothelium release **nitric oxide**, which activates **guanylate cyclase** and raises **cGMP** in smooth muscle; the muscle relaxes, **helicine arteries** dilate, cavernous spaces fill, and the swollen corpora compress the dorsal veins against the tunica albuginea. **Sildenafil** blocks the phosphodiesterase that degrades cGMP and therefore sustains an erection. Sympathetic discharge at ejaculation constricts the helicine arteries and trabecular muscle, emptying the spaces.
+Most of the penile urethra is **pseudostratified columnar**, becoming **stratified squamous** in the glans.
+
+Erection is a vascular event with a molecular explanation worth memorizing: parasympathetic acetylcholine makes the endothelium release **nitric oxide**, which activates **guanylate cyclase** and raises **cGMP** in smooth muscle; the muscle relaxes, **helicine arteries** dilate, cavernous spaces fill, and the swollen corpora compress the dorsal veins against the tunica albuginea. **Sildenafil** blocks the phosphodiesterase that degrades cGMP and therefore sustains an erection.
+
+Sympathetic discharge at ejaculation constricts the helicine arteries and trabecular muscle, emptying the spaces.
 
 > **CLINICAL** — **Cryptorchidism** — failure of descent, present in about **4%** of male neonates; most descend in the first year, and bilateral cases cause infertility if not corrected by **2–3 years**. An undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises. **Hydrocele** — serous fluid in the tunica vaginalis, the commonest cause of scrotal swelling. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasizes to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — **95%** are germ-cell tumors, appearing after puberty and more often in untreated cryptorchidism; a painless mass is malignant until proven otherwise.
 
@@ -431,6 +499,27 @@ In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each 
 **In this chapter:** Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
 
 
+### Quick notes — understand in 90 seconds
+
+- **Primordial follicle:** primary oocyte with one layer of flattened follicular cells.
+- **Primary follicle:** granulosa cells become cuboidal; zona pellucida develops.
+- **Antral follicle:** fluid-filled cavity and organized granulosa/thecal layers.
+- **Ovulation:** LH surge; remaining follicle reorganizes as **corpus luteum**.
+- **Proliferative endometrium:** relatively straight glands; **secretory:** coiled secretory glands and changing stroma.
+- Human polyspermy prevention emphasizes **Ca²⁺-activated cortical granules and zona modifications**.
+
+**High-yield comparison:** **Primordial = flat layer; primary = cuboidal layer; antral = fluid cavity**.
+
+> **MNEMONIC** — Follow the **oocyte, granulosa, theca and antrum** in that order.
+
+**Recall without looking:** What changes in the follicle after ovulation, and which hormone drives that change?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic of ovarian follicle stages and corpus luteum](build/atlas/ovarian_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -470,7 +559,9 @@ Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thi
 - **Granulosa-lutein cells** — the old granulosa cells; they enlarge to **20–35 µm** without dividing, make up about **80%** of the gland, and secrete **progesterone** (their SER expands, and they retain some aromatase).
 - **Theca-lutein cells** — from the theca interna; about **half the size**, darker staining, lying in the peripheral folds, and secreting **androstenedione** and **estrogens**.
 
-The LH surge sustains progesterone secretion for **10–12 days**. (A common error is to reverse the two populations: the granulosa-lutein cells make progesterone, and the theca-lutein cells make androgens and estrogens.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
+The LH surge sustains progesterone secretion for **10–12 days**. (A common error is to reverse the two populations: the granulosa-lutein cells make progesterone, and the theca-lutein cells make androgens and estrogens.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**.
+
+Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
 
 **The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3**, all made by the oocyte, form the sperm-binding receptor; binding of a capacitated sperm to this coat begins the acrosomal reaction. In humans the family also includes ZP4.
 
@@ -482,7 +573,9 @@ Junqueira (17th ed.) gives **about 90 days** as an approximate primordial-to-mat
 
 ### Uterine Tubes
 
-About **10–12 cm** long, in four parts — **infundibulum with fimbriae → ampulla (longest; fertilization happens here) → isthmus → intramural portion**. The mucosa has complex branching folds, tallest in the ampulla, and is lined by **ciliated columnar cells** that sweep fluid toward the uterus and **peg (secretory) cells** that make the nutritive fluid. The muscularis has interwoven circular and longitudinal layers and provides most of the transport — women with immotile cilia still carry the embryo to the uterus.
+About **10–12 cm** long, in four parts — **infundibulum with fimbriae → ampulla (longest; fertilization happens here) → isthmus → intramural portion**. The mucosa has complex branching folds, tallest in the ampulla, and is lined by **ciliated columnar cells** that sweep fluid toward the uterus and **peg (secretory) cells** that make the nutritive fluid.
+
+The muscularis has interwoven circular and longitudinal layers and provides most of the transport — women with immotile cilia still carry the embryo to the uterus.
 
 ### Major Events of Fertilization
 
@@ -517,7 +610,9 @@ The single best discriminator: **straight, narrow glands = proliferative; saw-to
 
 ### Embryonic Implantation, Decidua, & the Placenta
 
-The blastocyst reaches the uterine cavity about **5 days** after fertilization and floats in the glandular secretion for about **2 days**. Implantation (nidation) takes about **3 days** and is complete by about **day 9**: trophoblast receptors bind glycoproteins on the endometrial epithelium, the **syncytiotrophoblast** digests the stroma, and the embryo embeds. The trophoblast has two layers — **cytotrophoblast** (mitotic, inner) and **syncytiotrophoblast** (invasive, multinucleated, outer, and the source of **hCG**).
+The blastocyst reaches the uterine cavity about **5 days** after fertilization and floats in the glandular secretion for about **2 days**. Implantation (nidation) takes about **3 days** and is complete by about **day 9**: trophoblast receptors bind glycoproteins on the endometrial epithelium, the **syncytiotrophoblast** digests the stroma, and the embryo embeds.
+
+The trophoblast has two layers — **cytotrophoblast** (mitotic, inner) and **syncytiotrophoblast** (invasive, multinucleated, outer, and the source of **hCG**).
 
 **Chorionic villi** project into maternal blood in the **intervillous space** and develop in three stages: **primary** villi (cytotrophoblast covered by syncytiotrophoblast) about 2 days after implantation; **secondary** villi (mesenchymal cores) about day 15; **tertiary** villi (with capillary loops) a few days later. By the end of the first month there are thousands of tertiary villi.
 
@@ -628,6 +723,23 @@ In the ovary, stage the cycle by the dominant follicle or corpus luteum; identif
 **In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
 
 
+### Quick notes — understand in 90 seconds
+
+- **Retina:** neural layers plus retinal pigment epithelium; photoreceptors lie toward its outer side.
+- **Rods:** highly light-sensitive, support dim-light vision.
+- **Cones:** color and high-acuity vision; concentrated at the foveola.
+- **Cornea:** transparent layered tissue, avascular in health.
+- **Cochlea:** organ of Corti with inner and outer hair cells for hearing.
+- **Vestibular apparatus:** hair cells detect position and head movement.
+
+**High-yield comparison:** **Rods = dim-light sensitivity; cones = high-acuity/color vision**.
+
+> **MNEMONIC** — A retinal label must specify **which side faces the pigment epithelium**.
+
+**Recall without looking:** Where are photoreceptor nuclei found in the retinal layers?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -687,7 +799,9 @@ The cornea is **transparent because it is avascular and its collagen is regularl
 
 **Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
 
-The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, within the **macula lutea**, has an exceptionally high central cone density. Its **central foveola** is rod-free, while a few rods can occur toward the peripheral fovea; inner retinal layers are displaced laterally, improving light access to the central cones. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
+The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, within the **macula lutea**, has an exceptionally high central cone density.
+
+Its **central foveola** is rod-free, while a few rods can occur toward the peripheral fovea; inner retinal layers are displaced laterally, improving light access to the central cones. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
 
 **Müller cells** are the principal glia — modified astrocytes whose cell bodies lie in the inner nuclear layer and whose processes span the whole retina. They provide trophic support, buffer ions and water, regulate blood flow, form the **inner limiting membrane**, and join photoreceptors by zonulae adherentes to form the **outer limiting layer**.
 

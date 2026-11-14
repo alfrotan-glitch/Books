@@ -31,12 +31,12 @@ MODERN_CSS = r"""
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 body {
   font-family: Georgia, "Palatino Linotype", "Book Antiqua", serif;
-  font-size: 1em; line-height: 1.58; margin: 0; padding: 0 1%;
+  font-size: 1em; line-height: 1.72; margin: 0; padding: 0 1%;
   color: inherit; background: transparent;
   widows: 2; orphans: 2;
   -webkit-hyphens: auto; hyphens: auto;
 }
-p { margin: .45em 0 .78em; text-align: start; overflow-wrap: break-word; }
+p { margin: .75em 0 1em; text-align: start; overflow-wrap: break-word; }
 p.specialty-exam { font: 700 .74em/1.8 -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; text-align: start; color: #376A6A; margin: .12em 0 .8em; break-after: avoid; }
 p.specialty-exam code { font: inherit; font-weight: 700; color: #125F5B; background: #E9F4F2; border: 1px solid #B4D0C9; border-radius: .4em; padding: .13em .45em; }
 h1, h2, h3, h4 {
@@ -57,13 +57,14 @@ h2 {
   padding-bottom: .28em; border-bottom: 1px solid #90B1B4;
 }
 h3 { font-size: 1.17em; margin: 1.45em 0 .45em; color: #087772; }
+h3.note-summary { background:#E7F4F1; padding:.72em; border-radius:.4em; border-left:.25em solid #168986; }
 h4 { font-size: 1.03em; margin: 1.25em 0 .35em; }
 h1 + p, h2 + p, h3 + p { margin-top: .3em; }
 strong, b { font-weight: 700; }
 a { color: #087772; text-decoration: underline; text-underline-offset: .12em; }
 a:focus { outline: 2px solid #168986; outline-offset: 2px; }
 ul, ol { margin: .45em 0 .85em; padding-left: 1.4em; }
-li { padding-left: .06em; margin: .22em 0; }
+li { padding-left: .12em; margin: .42em 0; }
 li > ul, li > ol { margin-top: .2em; }
 blockquote {
   margin: 1.05em 0; padding: .65em .85em;
@@ -184,7 +185,7 @@ def build_cover(destination: str | Path) -> None:
     d.text((100, 365), "BASIC", font=_font(165, True), fill="#FFF7ED")
     d.text((100, 555), "HISTOLOGY", font=_font(162, True), fill="#FFF7ED")
     d.rounded_rectangle((102, 787, 532, 800), radius=6, fill="#28BAAD")
-    d.text((104, 870), "A Learning Text", font=_font(79), fill="#D5EFEB")
+    d.text((104, 870), "SMART STUDY NOTES", font=_font(65), fill="#D5EFEB")
     d.text((106, 977), "Cells  ·  Tissues  ·  Organ Systems", font=_font(41), fill="#ABCACB")
     d.text((106, 2224), "ORIGINAL ILLUSTRATED EDITION", font=_font(37, True), fill="#EAF7F3")
     d.text((106, 2290), "2026   •   24 CHAPTERS   •   100 EXAM QUESTIONS", font=_font(29), fill="#AAC8C6")
@@ -230,6 +231,9 @@ def polish_epub(path: str | Path) -> None:
         for para in root.findall(f".//{{{X}}}p"):
             if "".join(para.itertext()).strip().startswith("SPECIALTY EXAM:"):
                 para.set("class", "specialty-exam")
+        for heading in root.findall(f".//{{{X}}}h3"):
+            if "".join(heading.itertext()).strip().startswith("Quick notes —"):
+                heading.set("class", "note-summary")
         for table in root.findall(f".//{{{X}}}table"):
             for th in table.findall(f".//{{{X}}}thead//{{{X}}}th"):
                 if "scope" not in th.attrib:

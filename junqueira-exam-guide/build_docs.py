@@ -12,8 +12,8 @@ BUILD = os.path.join(HERE, "build")
 os.makedirs(BUILD, exist_ok=True)
 
 META = """---
-title: "Basic Histology: A Learning Text"
-subtitle: "A self-contained course in microscopic anatomy"
+title: "Basic Histology: Smart Study Notes"
+subtitle: "Junqueira 17th edition — understand, recognize, remember"
 author: ""
 date: "2026"
 lang: en-US
@@ -23,19 +23,20 @@ lang: en-US
 CSS = """
 :root { --ink:#17242C; --muted:#5A6B75; --accent:#0E6B6B; --rule:#C9D5DB; --zebra:#F4F7F8; }
 * { box-sizing: border-box; }
-body { margin:0 auto; max-width: 46rem; padding: 2rem 1.2rem 5rem;
+body { margin:0 auto; max-width: 43rem; padding: 2.3rem 1.5rem 5rem;
   font-family: Georgia, "Times New Roman", serif; color: var(--ink);
-  line-height: 1.62; background:#fff; font-size: 17px; }
+  line-height: 1.78; background:#fff; font-size: 18px; }
 h1 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.9rem;
   line-height:1.15; margin: 3rem 0 .6rem; padding-top: 1.4rem;
   border-top: 3px solid var(--accent); }
 h1:first-of-type { border-top: none; }
 h2 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.45rem;
   margin: 2.6rem 0 .5rem; padding-bottom:.45rem; border-bottom: 2px solid var(--accent); }
+h3:first-line { text-wrap: pretty; }
 h3 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.12rem;
   color: var(--accent); margin: 1.8rem 0 .35rem; }
 h4 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: .98rem; margin: 1.2rem 0 .3rem; }
-p { margin: .55rem 0; text-align: justify; }
+p { margin: .85rem 0 1rem; text-align: left; }
 p.specialty-exam { margin: .18rem 0 .75rem; text-align: left; font-family: "Helvetica Neue", Arial, sans-serif; font-size: .72rem; font-weight: 600; line-height: 1.8; color: #557078; letter-spacing: .025em; }
 p.specialty-exam code { display: inline-block; padding: .08rem .42rem; margin: 0 .12rem; border: 1px solid #AFCAC7; border-radius: .42rem; background: #EAF5F3; color: #105A58; font-family: inherit; font-weight: 700; font-size: inherit; letter-spacing: .035em; }
 figure { max-width: 100%; margin: 1.3rem 0; }
@@ -44,7 +45,7 @@ table { display:block; overflow-x:auto; max-width:100%; width:100%; -webkit-over
   border-collapse: collapse; margin: 1rem 0 1.4rem; font-size: .84rem;
   font-family: "Helvetica Neue", Arial, sans-serif; }
 th { background: var(--ink); color:#fff; text-align:left; font-weight:700; }
-th, td { padding: .45rem .55rem; vertical-align: top; border-bottom: 1px solid var(--rule); }
+th, td { padding: .62rem .67rem; vertical-align: top; border-bottom: 1px solid var(--rule); }
 tbody tr:nth-child(even) { background: var(--zebra); }
 blockquote { margin: 1.1rem 0; padding: .8rem 1rem; border-left: 4px solid var(--accent);
   background:#F6F9F9; font-size: .95rem; }
@@ -128,9 +129,9 @@ def main():
         if name in document.styles:
             style = document.styles[name]
             style.font.name = "Georgia"
-            style.font.size = Pt(9.6)
-            style.paragraph_format.space_after = Pt(4)
-            style.paragraph_format.line_spacing = 1.14
+            style.font.size = Pt(10.7)
+            style.paragraph_format.space_after = Pt(7)
+            style.paragraph_format.line_spacing = 1.26
             style.paragraph_format.widow_control = True
 
     headings = {
@@ -198,7 +199,7 @@ def main():
                 for paragraph in cell.paragraphs:
                     paragraph.paragraph_format.space_after = Pt(1.5)
                     for run in paragraph.runs:
-                        run.font.size = Pt(8.2)
+                        run.font.size = Pt(8.7)
                         if i == 0:
                             run.font.bold = True
                             run.font.color.rgb = RGBColor(255, 255, 255)
@@ -207,7 +208,7 @@ def main():
     section = document.sections[0]
     header = section.header.paragraphs[0]
     header.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    run = header.add_run("BASIC HISTOLOGY  ·  A LEARNING TEXT")
+    run = header.add_run("BASIC HISTOLOGY  ·  SMART STUDY NOTES")
     run.font.size = Pt(7.3)
     run.font.color.rgb = RGBColor(86, 115, 120)
     footer = section.footer.paragraphs[0]

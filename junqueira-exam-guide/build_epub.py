@@ -22,8 +22,8 @@ COVER = os.path.join(BUILD, "cover.png")
 CSS_PATH = os.path.join(BUILD, "epub.css")
 MD_PATH = os.path.join(BUILD, "book.md")
 
-TITLE = "Basic Histology: A Learning Text"
-SUBTITLE = "A self-contained course in microscopic anatomy"
+TITLE = "Basic Histology: Smart Study Notes"
+SUBTITLE = "Junqueira 17th ed. | Understand, Recognize, Remember"
 RIGHTS = ("Original learning text and independently drawn teaching schematics; "
           "no third-party atlas photographs are included. Editorial candidate; "
           "not a clinical manual.")

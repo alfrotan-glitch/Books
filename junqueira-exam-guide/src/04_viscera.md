@@ -7,6 +7,27 @@
 **In this chapter:** General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
 
 
+### Quick notes — understand in 90 seconds
+
+- Most GI segments have **mucosa, submucosa, muscularis externa, outer serosa/adventitia**.
+- **Esophagus:** stratified squamous nonkeratinized lining (in most human regions).
+- **Stomach:** pits and gastric glands; no intestinal villi.
+- **Duodenum:** intestinal villi plus **Brunner glands** in submucosa.
+- **Ileum:** villi and often **Peyer patches**; **colon:** straight goblet-rich crypts without villi.
+- **Auerbach plexus:** between muscle layers; **Meissner plexus:** submucosa.
+
+**High-yield comparison:** **Duodenum → Brunner glands; ileum → Peyer patches; colon → no villi**.
+
+> **MNEMONIC** — Find the wall layers first; then identify **regional signature structures**.
+
+**Recall without looking:** Which structure in the submucosa strongly supports duodenum?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic showing duodenum, ileum and colon](build/atlas/intestinal_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -218,6 +239,26 @@ Walk the gut from esophagus to anal canal on the sections available. At each lev
 **In this chapter:** Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
 
 
+### Quick notes — understand in 90 seconds
+
+- **Liver:** hepatic plates and sinusoids between portal areas and central veins.
+- **Portal triad:** portal venule, hepatic arteriole, bile ductule.
+- **Blood** travels through sinusoids toward the central vein; **bile** travels toward portal bile ducts.
+- **Pancreas:** exocrine acini plus pale endocrine islets; centroacinar cells occur in exocrine pancreas.
+- **Gallbladder:** mucosal folds and absorptive epithelium; lacks distinct muscularis mucosae and submucosa.
+
+**High-yield comparison:** Pancreas has **islets**; salivary glands have **ducts** but no endocrine pancreatic islets.
+
+> **MNEMONIC** — Liver: **blood inward to central vein; bile outward to portal duct**.
+
+**Recall without looking:** In a liver lobule, which direction does bile travel relative to blood?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic showing liver microscopic architecture](build/atlas/hepatic_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -339,7 +380,9 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 
 ### Practical identification
 
-In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile. In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
+In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile.
+
+In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
 
 ## 17 · The Respiratory System
 
@@ -348,6 +391,23 @@ In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and
 **In this chapter:** Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
 
 
+### Quick notes — understand in 90 seconds
+
+- **Trachea:** respiratory epithelium, seromucous glands and C-shaped hyaline cartilage.
+- **Bronchus:** cartilage plates and glands within the lung.
+- **Bronchiole:** no cartilage or submucosal glands; smooth muscle remains prominent.
+- **Respiratory bronchiole:** airway wall begins to contain alveoli.
+- **Type I pneumocytes:** thin surface for gas exchange; **type II:** produce surfactant and replenish cells.
+- **Alveolar macrophages:** immune defense in air spaces.
+
+**High-yield comparison:** **Bronchus vs bronchiole:** cartilage and glands indicate bronchus.
+
+> **MNEMONIC** — Airway sequence: **trachea → bronchus → bronchiole → alveoli**.
+
+**Recall without looking:** Which epithelial cell secretes pulmonary surfactant?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -424,7 +484,9 @@ A short air passage between pharynx and trachea, with skeletal cartilages and in
 
 ### Lung Vasculature & Nerves
 
-The lung has a **double blood supply**: the **pulmonary artery** carries deoxygenated blood for gas exchange and forms a dense capillary network around alveoli, while the **bronchial arteries** (from the aorta) supply the conducting airways and pleura. Pulmonary arteries are unusual in carrying **deoxygenated** blood and in having thin walls suited to low pressure. Autonomic nerves control bronchial smooth muscle and gland secretion — parasympathetic (vagal) constriction, sympathetic relaxation.
+The lung has a **double blood supply**: the **pulmonary artery** carries deoxygenated blood for gas exchange and forms a dense capillary network around alveoli, while the **bronchial arteries** (from the aorta) supply the conducting airways and pleura. Pulmonary arteries are unusual in carrying **deoxygenated** blood and in having thin walls suited to low pressure.
+
+Autonomic nerves control bronchial smooth muscle and gland secretion — parasympathetic (vagal) constriction, sympathetic relaxation.
 
 ### Pleural Membranes
 
@@ -491,6 +553,26 @@ Follow the airway from trachea to alveolus. At each level, record the epithelium
 **In this chapter:** Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
 
 
+### Quick notes — understand in 90 seconds
+
+- **Epidermis:** keratinized stratified squamous epithelium.
+- Layers from deep to surface: **basale → spinosum → granulosum → corneum**; lucidum is visible in thick skin.
+- **Thick skin:** prominent corneum, no hair follicles; **thin skin:** may contain hair and sebaceous glands.
+- **Melanocytes:** pigment cells; **Langerhans cells:** antigen-presenting immune cells.
+- **Merkel cells:** specialized basal epidermal touch-associated cells.
+
+**High-yield comparison:** **Thick skin ≠ thicker dermis**; diagnose mainly by epidermal thickness and absence of hair follicles.
+
+> **MNEMONIC** — Epidermis (deep → superficial): **B-S-G-C**.
+
+**Recall without looking:** Which skin type has stratum lucidum but lacks hair follicles?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing thick and hair-bearing skin](build/atlas/skin_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -577,7 +659,9 @@ Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root
 
 ### Skin Repair
 
-Repair runs through overlapping stages: a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**. Epithelialization is complete before the collagen of the scar remodels.
+Repair runs through overlapping stages: a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**.
+
+Epithelialization is complete before the collagen of the scar remodels.
 
 **Standard clinical terminology:** healing by **first intention** — clean, apposed edges needing minimal granulation tissue; **second intention** — an open wound with abundant granulation tissue, wound contraction by myofibroblasts, and a larger scar. **Burns** are graded by depth: first-degree (epidermis), second-degree (into dermis, blistering), third-degree (full thickness, including appendages, so it cannot re-epithelialize).
 

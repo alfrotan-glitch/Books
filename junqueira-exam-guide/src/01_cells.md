@@ -7,6 +7,22 @@
 **In this chapter:** Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
 
 
+### Quick notes — understand in 90 seconds
+
+- **Histology** studies cells, extracellular matrix (ECM), and how tissues form functioning organs.
+- **Routine H&E workflow:** fixation → dehydration → clearing → paraffin embedding → thin section → staining.
+- **Hematoxylin** highlights nucleic-acid-rich regions (blue/purple); **eosin** stains many proteins (pink).
+- **Light microscopy** shows tissue architecture; **electron microscopy** resolves organelle ultrastructure.
+- **Artifacts** from shrinkage, folding, and poor fixation may resemble genuine tissue features.
+
+**High-yield comparison:** PAS highlights many carbohydrate-rich structures; immunohistochemistry locates a selected antigen—neither is equivalent to routine H&E.
+
+> **MNEMONIC** — Always ask: **What was preserved? What was stained? At what resolution?**
+
+**Recall without looking:** Which preparation step can remove stored lipid and leave adipocytes apparently empty?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -20,7 +36,9 @@ By the end of this chapter you should be able to:
 
 Histology explores the body's tissues and how they are arranged to produce functional organs. Tissues have two interacting components: **cells and extracellular matrix (ECM)**. The ECM is not packing material — it supports the cells, carries the fluid that brings nutrients and removes waste, and its molecules bind specific cell-surface receptors connected to structural components inside the cell, forming a continuum in which cells and matrix function together.
 
-Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and many routine bright-field images come from fixed, dehydrated, cleared, embedded, sectioned and stained tissue. Frozen sections, live-cell imaging and some specialized methods use different workflows. Knowing what each step does tells you which appearances are real and which are artifacts.
+Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and many routine bright-field images come from fixed, dehydrated, cleared, embedded, sectioned and stained tissue. Frozen sections, live-cell imaging and some specialized methods use different workflows.
+
+Knowing what each step does tells you which appearances are real and which are artifacts.
 
 ### Preparation of Tissues for Study
 
@@ -199,7 +217,9 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 ### Practical identification
 
-Work with a real or virtual H&E section. At low power, locate the tissue edge, any free surface and any capsule; at high power, find nuclei, cytoplasm and extracellular matrix. Then look deliberately for artifacts: clear spaces around cells (shrinkage), straight knife marks, folded or torn areas, and precipitated stain. If phase-contrast, fluorescence or confocal images are available, compare what each reveals and explain why a structure may be visible in one preparation and invisible in another.
+Work with a real or virtual H&E section. At low power, locate the tissue edge, any free surface and any capsule; at high power, find nuclei, cytoplasm and extracellular matrix. Then look deliberately for artifacts: clear spaces around cells (shrinkage), straight knife marks, folded or torn areas, and precipitated stain.
+
+If phase-contrast, fluorescence or confocal images are available, compare what each reveals and explain why a structure may be visible in one preparation and invisible in another.
 
 ## 2 · The Cytoplasm
 
@@ -208,6 +228,22 @@ Work with a real or virtual H&E section. At low power, locate the tissue edge, a
 **In this chapter:** Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
 
 
+### Quick notes — understand in 90 seconds
+
+- **Rough ER + ribosomes:** production of secreted and membrane proteins; abundant in plasma cells.
+- **Smooth ER:** lipid/steroid metabolism and detoxification; prominent in steroid-secreting cells.
+- **Golgi:** protein modification, sorting, and packaging into vesicles.
+- **Mitochondria:** ATP generation; concentrated where active transport is intense.
+- **Microvilli** have actin cores; most motile cilia have 9+2 axonemes; primary cilia generally have 9+0 doublet axonemes.
+
+**High-yield comparison:** A **basal body** contains nine microtubule **triplets**; a **primary-cilium axoneme** contains nine peripheral **doublets**.
+
+> **MNEMONIC** — Protein export: **rough ER → Golgi → secretory vesicle**.
+
+**Recall without looking:** A cell makes large amounts of peptide hormone. Which two organelles should be conspicuous?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -332,7 +368,9 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 ### Practical identification
 
-On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment). On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
+On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment).
+
+On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
 
 ## 3 · The Nucleus
 
@@ -341,6 +379,22 @@ On an electron micrograph, identify the plasma membrane, rough ER (parallel cist
 **In this chapter:** Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
 
 
+### Quick notes — understand in 90 seconds
+
+- **Euchromatin:** less condensed, commonly transcriptionally active; **heterochromatin:** condensed and often less active.
+- **Nucleolus:** ribosomal RNA transcription and assembly of ribosomal subunits.
+- **S phase:** DNA replication; **M phase:** chromosome segregation and cell division.
+- **Mitosis:** produces genetically similar somatic daughter cells; **meiosis:** reduces chromosome number in germ cells.
+- **Apoptosis:** organized cell death with relatively limited inflammation; **necrosis:** membrane damage often with inflammation.
+
+**High-yield comparison:** A highly basophilic nucleus need not be dividing; inspect chromatin, nucleolus and mitotic figures separately.
+
+> **MNEMONIC** — DNA is **copied in S**; chromatids **separate in M**.
+
+**Recall without looking:** Which two features help distinguish apoptosis from necrosis?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -467,4 +521,6 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 
 ### Practical identification
 
-Find a cell with a large, pale nucleus and a prominent nucleolus, such as a neuron or a plasma cell, and contrast it with a small lymphocyte, whose dense nucleus almost fills the cell. Identify mitotic figures by their condensed chromosomes and absent nuclear envelope, and distinguish them from apoptotic bodies, which are fragmented, membrane-bound and lack a spindle. In a buccal smear from a female, look for the Barr body at the nuclear margin.
+Find a cell with a large, pale nucleus and a prominent nucleolus, such as a neuron or a plasma cell, and contrast it with a small lymphocyte, whose dense nucleus almost fills the cell. Identify mitotic figures by their condensed chromosomes and absent nuclear envelope, and distinguish them from apoptotic bodies, which are fragmented, membrane-bound and lack a spindle.
+
+In a buccal smear from a female, look for the Barr body at the nuclear margin.

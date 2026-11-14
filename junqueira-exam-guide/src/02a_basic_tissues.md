@@ -7,6 +7,29 @@
 **In this chapter:** Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
 
 
+### Quick notes — understand in 90 seconds
+
+- **Epithelium:** closely packed polarized cells on a basal lamina; usually avascular.
+- Classify by **number of layers** and **shape of the surface cells**.
+- **Simple squamous:** diffusion and filtration; **stratified squamous:** protection against abrasion.
+- **Pseudostratified:** nuclei at different heights but **every cell contacts the basal lamina**.
+- **Microvilli:** actin-based absorption; **motile cilia:** microtubule-based surface transport.
+- **Urothelium:** distensible urinary lining with specialized umbrella cells.
+
+**High-yield comparison:** **Pseudostratified ≠ stratified.** Nuclei at different heights do not prove several true cell layers.
+
+> **MNEMONIC** — Start at the **free surface**, then trace cells toward the **basal lamina**.
+
+**Recall without looking:** A ciliated respiratory lining appears multilayered. Which observation proves it is pseudostratified?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing epithelial layers](build/atlas/epithelial_patterns.png)
+
+![Original schematic comparing motile and sensory cilia with microvilli](build/atlas/cilia_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -18,7 +41,9 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **many exchanges between an organ and its environment occur across epithelial barriers**. Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
+Epithelial tissues are composed of closely aggregated polyhedral cells adhering strongly to one another and to a thin layer of ECM, forming cellular sheets that line the cavities of organs and cover the body surface. Epithelia (Gr. *epi*, upon + *thele*, nipple) line all external and internal surfaces of the body, and **many exchanges between an organ and its environment occur across epithelial barriers**.
+
+Everything else — the number of layers, the shape of the cells, the specializations on the apex — is a solution to one of four problems: **protection, absorption, secretion, or transport**.
 
 **The four basic tissues** (the framework for the whole subject):
 
@@ -110,11 +135,15 @@ Two naming traps to avoid. **Endothelium and mesothelium are both simple squamou
 
 ### Transport Across Epithelia
 
-An epithelium that moves material from one side to the other is built like a machine: **entry at the apical face, exit at the basal face**, with the tight junction preventing back-leak and mitochondrial-rich basal infoldings powering the pumps. In the intestinal enterocyte, glucose enters apically via **Na⁺-glucose cotransport (SGLT1)** and exits basolaterally via **GLUT2**; the Na⁺ gradient is maintained by basolateral Na⁺/K⁺-ATPase. This is **transcellular transport**. **Paracellular** transport passes between cells and is limited by tight junctions.
+An epithelium that moves material from one side to the other is built like a machine: **entry at the apical face, exit at the basal face**, with the tight junction preventing back-leak and mitochondrial-rich basal infoldings powering the pumps. In the intestinal enterocyte, glucose enters apically via **Na⁺-glucose cotransport (SGLT1)** and exits basolaterally via **GLUT2**; the Na⁺ gradient is maintained by basolateral Na⁺/K⁺-ATPase.
+
+This is **transcellular transport**. **Paracellular** transport passes between cells and is limited by tight junctions.
 
 ### Renewal of Epithelial Cells
 
-Epithelia wear out. They are replaced from **stem cells** whose location varies with the tissue: the **basal layer** of stratified squamous epithelium, the **crypt base** of the intestine, the **isthmus** of the gastric gland, and the basal layer of the epidermis. Renewal rate is a diagnostic index: the intestinal epithelium turns over in days, the epidermis in weeks. Because the stem cells rest on the basement membrane, an epithelium can regenerate completely after superficial injury — but not after the basement membrane itself is destroyed.
+Epithelia wear out. They are replaced from **stem cells** whose location varies with the tissue: the **basal layer** of stratified squamous epithelium, the **crypt base** of the intestine, the **isthmus** of the gastric gland, and the basal layer of the epidermis. Renewal rate is a diagnostic index: the intestinal epithelium turns over in days, the epidermis in weeks.
+
+Because the stem cells rest on the basement membrane, an epithelium can regenerate completely after superficial injury — but not after the basement membrane itself is destroyed.
 
 ### Glands
 
@@ -178,7 +207,9 @@ A. Simple columnar with goblet cells<br/>B. Stratified squamous keratinized<br/>
 
 ### Practical identification
 
-Classify any epithelium with two questions: how many layers, and what shape is the surface cell? Then find the basal lamina, the underlying connective tissue and the apical specialization — microvilli, cilia, stereocilia or keratin. Distinguish pseudostratified from stratified by checking whether every cell reaches the basement membrane. In a gland, decide whether the secretory unit is serous, mucous or mixed, and whether the duct is intercalated, striated or excretory.
+Classify any epithelium with two questions: how many layers, and what shape is the surface cell? Then find the basal lamina, the underlying connective tissue and the apical specialization — microvilli, cilia, stereocilia or keratin. Distinguish pseudostratified from stratified by checking whether every cell reaches the basement membrane.
+
+In a gland, decide whether the secretory unit is serous, mucous or mixed, and whether the duct is intercalated, striated or excretory.
 
 ## 5 · Connective Tissue
 
@@ -187,6 +218,22 @@ Classify any epithelium with two questions: how many layers, and what shape is t
 **In this chapter:** Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
 
 
+### Quick notes — understand in 90 seconds
+
+- **Connective tissue = cells + fibers + ground substance**; unlike epithelium, ECM is abundant.
+- **Type I collagen:** tendon, dermis, bone; **type II:** cartilage; **type III:** reticular networks; **type IV:** basal lamina.
+- **Fibroblasts** synthesize much of the ECM; **mast cells** contain inflammatory mediators.
+- **Plasma cells:** eccentric nucleus, coarse 'clock-face' chromatin, perinuclear Golgi zone.
+- **Macrophage origin is tissue-dependent**; many resident populations arise from embryonic precursors.
+
+**High-yield comparison:** **Dense regular:** parallel collagen for one-way tension. **Dense irregular:** interwoven collagen for multidirectional resistance.
+
+> **MNEMONIC** — Collagen mnemonic: **I strong; II cartilage; III reticular; IV basement**.
+
+**Recall without looking:** Why do tendon and dermis resist forces in different directions?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -312,7 +359,9 @@ A. Transcription of collagen genes<br/>B. Hydroxylation of proline and lysine<br
 
 ### Practical identification
 
-Identify the three fiber types by their appearance and staining: collagen bundles (pink with eosin, blue with trichrome), elastic fibers (wavy, refractile, black with orcein) and reticular fibers (fine and argyrophilic). Name the resident cells — fibroblast, macrophage, mast cell with its heparin granules, adipocyte, and plasma cell with its clock-face nucleus — and the ground substance that fills the spaces. Distinguish loose from dense irregular and dense regular tissue by fiber orientation and cell density.
+Identify the three fiber types by their appearance and staining: collagen bundles (pink with eosin, blue with trichrome), elastic fibers (wavy, refractile, black with orcein) and reticular fibers (fine and argyrophilic). Name the resident cells — fibroblast, macrophage, mast cell with its heparin granules, adipocyte, and plasma cell with its clock-face nucleus — and the ground substance that fills the spaces.
+
+Distinguish loose from dense irregular and dense regular tissue by fiber orientation and cell density.
 
 ## 6 · Adipose Tissue
 
@@ -321,6 +370,22 @@ Identify the three fiber types by their appearance and staining: collagen bundle
 **In this chapter:** White Adipose Tissue · Brown Adipose Tissue
 
 
+### Quick notes — understand in 90 seconds
+
+- **White adipocytes:** one large lipid droplet and a peripheral flattened nucleus.
+- **Brown adipocytes:** multiple small droplets and mitochondria rich in UCP1.
+- **White fat:** stores energy, cushions organs, secretes metabolic signals.
+- **Brown fat:** generates heat through non-shivering thermogenesis.
+- Routine paraffin processing extracts lipid, so white adipocytes often look **empty** on H&E.
+
+**High-yield comparison:** **White = unilocular storage** versus **brown = multilocular heat production**.
+
+> **MNEMONIC** — Large clear ring → think **white adipose**; many droplets → think **brown adipose**.
+
+**Recall without looking:** What creates the empty appearance of a white adipocyte in routine H&E?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
