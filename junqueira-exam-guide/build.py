@@ -366,7 +366,7 @@ class Book(BaseDocTemplate):
             return
         canv.setFont("Head-Reg", 7.4)
         canv.setFillColor(MUTED)
-        canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  A LEARNING TEXT")
+        canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  SMART STUDY NOTES")
         canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "SMART STUDY NOTES")
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.5)
