@@ -36,7 +36,9 @@ By the end of this chapter you should be able to:
 
 Histology explores the body's tissues and how they are arranged to produce functional organs. Tissues have two interacting components: **cells and extracellular matrix (ECM)**. The ECM is not packing material — it supports the cells, carries the fluid that brings nutrients and removes waste, and its molecules bind specific cell-surface receptors connected to structural components inside the cell, forming a continuum in which cells and matrix function together.
 
-Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and many routine bright-field images come from fixed, dehydrated, cleared, embedded, sectioned and stained tissue. Frozen sections, live-cell imaging and some specialized methods use different workflows. Knowing what each step does tells you which appearances are real and which are artifacts.
+Organs form by an orderly combination of these tissues. Because cells and matrix components are small, histology depends on microscopes and molecular methods — and many routine bright-field images come from fixed, dehydrated, cleared, embedded, sectioned and stained tissue. Frozen sections, live-cell imaging and some specialized methods use different workflows.
+
+Knowing what each step does tells you which appearances are real and which are artifacts.
 
 ### Preparation of Tissues for Study
 
@@ -215,7 +217,9 @@ A. Hematoxylin and eosin<br/>B. Periodic acid–Schiff<br/>C. Immunohistochemist
 
 ### Practical identification
 
-Work with a real or virtual H&E section. At low power, locate the tissue edge, any free surface and any capsule; at high power, find nuclei, cytoplasm and extracellular matrix. Then look deliberately for artifacts: clear spaces around cells (shrinkage), straight knife marks, folded or torn areas, and precipitated stain. If phase-contrast, fluorescence or confocal images are available, compare what each reveals and explain why a structure may be visible in one preparation and invisible in another.
+Work with a real or virtual H&E section. At low power, locate the tissue edge, any free surface and any capsule; at high power, find nuclei, cytoplasm and extracellular matrix. Then look deliberately for artifacts: clear spaces around cells (shrinkage), straight knife marks, folded or torn areas, and precipitated stain.
+
+If phase-contrast, fluorescence or confocal images are available, compare what each reveals and explain why a structure may be visible in one preparation and invisible in another.
 
 ## 2 · The Cytoplasm
 
@@ -364,7 +368,9 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 ### Practical identification
 
-On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment). On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
+On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment).
+
+On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
 
 ## 3 · The Nucleus
 
@@ -515,4 +521,6 @@ A. It is a haploid gamete<br/>B. It is a diploid somatic or pre-meiotic germ cel
 
 ### Practical identification
 
-Find a cell with a large, pale nucleus and a prominent nucleolus, such as a neuron or a plasma cell, and contrast it with a small lymphocyte, whose dense nucleus almost fills the cell. Identify mitotic figures by their condensed chromosomes and absent nuclear envelope, and distinguish them from apoptotic bodies, which are fragmented, membrane-bound and lack a spindle. In a buccal smear from a female, look for the Barr body at the nuclear margin.
+Find a cell with a large, pale nucleus and a prominent nucleolus, such as a neuron or a plasma cell, and contrast it with a small lymphocyte, whose dense nucleus almost fills the cell. Identify mitotic figures by their condensed chromosomes and absent nuclear envelope, and distinguish them from apoptotic bodies, which are fragmented, membrane-bound and lack a spindle.
+
+In a buccal smear from a female, look for the Barr body at the nuclear margin.

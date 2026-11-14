@@ -83,7 +83,9 @@ A renal section becomes easier to interpret when you separate **location**, **co
 
 ### Blood Circulation
 
-Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high. Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and participate in **countercurrent exchange**, helping preserve the medullary osmotic gradient. The **loops of Henle**, especially their thick ascending limbs, are central to countercurrent multiplication.
+Renal artery → segmental → interlobar (between pyramids) → arcuate (at the corticomedullary junction) → interlobular (radiating into the cortex) → **afferent arteriole** → glomerulus → **efferent arteriole** → peritubular capillaries in the cortex and **vasa recta** in the medulla. The **efferent arteriole**, not a venule, drains the glomerulus — an arrangement that keeps glomerular hydrostatic pressure high.
+
+Efferent arterioles of **cortical** glomeruli branch into a diffuse peritubular network; those of **juxtamedullary** glomeruli form the long hairpin **vasa recta** that run alongside the loops of Henle and participate in **countercurrent exchange**, helping preserve the medullary osmotic gradient. The **loops of Henle**, especially their thick ascending limbs, are central to countercurrent multiplication.
 
 ### Renal Function: Filtration, Secretion, & Reabsorption
 
@@ -239,7 +241,9 @@ Two glands in one organ, with entirely different embryology and function:
 | **Zona reticularis** | Irregular cords, pigmented cells | **Androgens (DHEA)** | ACTH |
 | **Medulla** | **Chromaffin cells** (neural crest) | **Epinephrine, norepinephrine** | Sympathetic splanchnic nerve |
 
-Each adrenal gland is a flattened half-moon about **4–6 cm long, 1–2 cm wide, and 4–6 mm thick**, weighing about **8 g** in total. The **fasciculata** is the **thickest** zone, and its cells are pale and vacuolated because they are full of **lipid droplets (cholesterol esters)**, **tubular mitochondrial cristae**, and **smooth ER** for steroid synthesis. The **medulla** is functionally a sympathetic ganglion without axons: **chromaffin cells** contain electron-dense granules **150–350 nm** in diameter, storing catecholamines with Ca²⁺, ATP, and **49-kDa chromogranins**. About **80%** of the catecholamine released is **epinephrine**. Mnemonic for the zones: **"GFR — Salt, Sugar, Sex"** from outside in.
+Each adrenal gland is a flattened half-moon about **4–6 cm long, 1–2 cm wide, and 4–6 mm thick**, weighing about **8 g** in total. The **fasciculata** is the **thickest** zone, and its cells are pale and vacuolated because they are full of **lipid droplets (cholesterol esters)**, **tubular mitochondrial cristae**, and **smooth ER** for steroid synthesis.
+
+The **medulla** is functionally a sympathetic ganglion without axons: **chromaffin cells** contain electron-dense granules **150–350 nm** in diameter, storing catecholamines with Ca²⁺, ATP, and **49-kDa chromogranins**. About **80%** of the catecholamine released is **epinephrine**. Mnemonic for the zones: **"GFR — Salt, Sugar, Sex"** from outside in.
 
 ### Pancreatic Islets
 
@@ -404,7 +408,9 @@ Because the barrier makes the adluminal compartment immunologically privileged, 
 
 ### Intratesticular Ducts
 
-Sperm leave each tubule through a short **straight tubule**, lined at first only by Sertoli cells and then by simple cuboidal epithelium. It enters the **rete testis**, a labyrinth of cuboidal-lined channels in the mediastinum testis. From there **10–20 efferent ductules** carry sperm to the head of the epididymis. Their epithelium has a characteristic **scalloped** profile in section — patches of absorptive, nonciliated cuboidal cells with microvilli alternating with patches of taller ciliated cells. Absorption of Sertoli-cell fluid plus ciliary beating creates the flow that moves sperm out of the testis.
+Sperm leave each tubule through a short **straight tubule**, lined at first only by Sertoli cells and then by simple cuboidal epithelium. It enters the **rete testis**, a labyrinth of cuboidal-lined channels in the mediastinum testis. From there **10–20 efferent ductules** carry sperm to the head of the epididymis.
+
+Their epithelium has a characteristic **scalloped** profile in section — patches of absorptive, nonciliated cuboidal cells with microvilli alternating with patches of taller ciliated cells. Absorption of Sertoli-cell fluid plus ciliary beating creates the flow that moves sperm out of the testis.
 
 ### Excretory Genital Ducts
 
@@ -426,9 +432,13 @@ Sperm leave each tubule through a short **straight tubule**, lined at first only
 
 ### Penis
 
-Three erectile bodies: two dorsal **corpora cavernosa** and one ventral **corpus spongiosum** containing the urethra and expanding distally as the **glans**. Each is a sponge of **endothelium-lined cavernous spaces** separated by trabeculae of smooth muscle and connective tissue, with a dense **tunica albuginea** around the corpora cavernosa. Most of the penile urethra is **pseudostratified columnar**, becoming **stratified squamous** in the glans.
+Three erectile bodies: two dorsal **corpora cavernosa** and one ventral **corpus spongiosum** containing the urethra and expanding distally as the **glans**. Each is a sponge of **endothelium-lined cavernous spaces** separated by trabeculae of smooth muscle and connective tissue, with a dense **tunica albuginea** around the corpora cavernosa.
 
-Erection is a vascular event with a molecular explanation worth memorizing: parasympathetic acetylcholine makes the endothelium release **nitric oxide**, which activates **guanylate cyclase** and raises **cGMP** in smooth muscle; the muscle relaxes, **helicine arteries** dilate, cavernous spaces fill, and the swollen corpora compress the dorsal veins against the tunica albuginea. **Sildenafil** blocks the phosphodiesterase that degrades cGMP and therefore sustains an erection. Sympathetic discharge at ejaculation constricts the helicine arteries and trabecular muscle, emptying the spaces.
+Most of the penile urethra is **pseudostratified columnar**, becoming **stratified squamous** in the glans.
+
+Erection is a vascular event with a molecular explanation worth memorizing: parasympathetic acetylcholine makes the endothelium release **nitric oxide**, which activates **guanylate cyclase** and raises **cGMP** in smooth muscle; the muscle relaxes, **helicine arteries** dilate, cavernous spaces fill, and the swollen corpora compress the dorsal veins against the tunica albuginea. **Sildenafil** blocks the phosphodiesterase that degrades cGMP and therefore sustains an erection.
+
+Sympathetic discharge at ejaculation constricts the helicine arteries and trabecular muscle, emptying the spaces.
 
 > **CLINICAL** — **Cryptorchidism** — failure of descent, present in about **4%** of male neonates; most descend in the first year, and bilateral cases cause infertility if not corrected by **2–3 years**. An undescended testis is exposed to core temperature, so spermatogenesis fails and malignancy risk rises. **Hydrocele** — serous fluid in the tunica vaginalis, the commonest cause of scrotal swelling. **Varicocele** — dilation of the pampiniform plexus raises testicular temperature and impairs spermatogenesis. **Prostatic carcinoma** — arises in the peripheral zone, is palpable on rectal examination, and metastasizes to bone. **BPH** — nodular hyperplasia of the transition zone, compressing the urethra. **Testicular tumors** — **95%** are germ-cell tumors, appearing after puberty and more often in untreated cryptorchidism; a painless mass is malignant until proven otherwise.
 
@@ -549,7 +559,9 @@ Each ovary is an almond-shaped body about **3 cm long, 1.5 cm wide, and 1 cm thi
 - **Granulosa-lutein cells** — the old granulosa cells; they enlarge to **20–35 µm** without dividing, make up about **80%** of the gland, and secrete **progesterone** (their SER expands, and they retain some aromatase).
 - **Theca-lutein cells** — from the theca interna; about **half the size**, darker staining, lying in the peripheral folds, and secreting **androstenedione** and **estrogens**.
 
-The LH surge sustains progesterone secretion for **10–12 days**. (A common error is to reverse the two populations: the granulosa-lutein cells make progesterone, and the theca-lutein cells make androgens and estrogens.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**. Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
+The LH surge sustains progesterone secretion for **10–12 days**. (A common error is to reverse the two populations: the granulosa-lutein cells make progesterone, and the theca-lutein cells make androgens and estrogens.) Without pregnancy, both populations undergo apoptosis, macrophages clear the debris, and fibroblasts lay down a collagen scar — the **corpus albicans**.
+
+Note that **involution is not atresia**: atresia is the death of an unovulated follicle.
 
 **The zona pellucida** is a **5–10 µm** glycoprotein coat between the oocyte and the granulosa cells, secreted by the oocyte. Its glycoproteins **ZP1, ZP2, and ZP3**, all made by the oocyte, form the sperm-binding receptor; binding of a capacitated sperm to this coat begins the acrosomal reaction. In humans the family also includes ZP4.
 
@@ -561,7 +573,9 @@ Junqueira (17th ed.) gives **about 90 days** as an approximate primordial-to-mat
 
 ### Uterine Tubes
 
-About **10–12 cm** long, in four parts — **infundibulum with fimbriae → ampulla (longest; fertilization happens here) → isthmus → intramural portion**. The mucosa has complex branching folds, tallest in the ampulla, and is lined by **ciliated columnar cells** that sweep fluid toward the uterus and **peg (secretory) cells** that make the nutritive fluid. The muscularis has interwoven circular and longitudinal layers and provides most of the transport — women with immotile cilia still carry the embryo to the uterus.
+About **10–12 cm** long, in four parts — **infundibulum with fimbriae → ampulla (longest; fertilization happens here) → isthmus → intramural portion**. The mucosa has complex branching folds, tallest in the ampulla, and is lined by **ciliated columnar cells** that sweep fluid toward the uterus and **peg (secretory) cells** that make the nutritive fluid.
+
+The muscularis has interwoven circular and longitudinal layers and provides most of the transport — women with immotile cilia still carry the embryo to the uterus.
 
 ### Major Events of Fertilization
 
@@ -596,7 +610,9 @@ The single best discriminator: **straight, narrow glands = proliferative; saw-to
 
 ### Embryonic Implantation, Decidua, & the Placenta
 
-The blastocyst reaches the uterine cavity about **5 days** after fertilization and floats in the glandular secretion for about **2 days**. Implantation (nidation) takes about **3 days** and is complete by about **day 9**: trophoblast receptors bind glycoproteins on the endometrial epithelium, the **syncytiotrophoblast** digests the stroma, and the embryo embeds. The trophoblast has two layers — **cytotrophoblast** (mitotic, inner) and **syncytiotrophoblast** (invasive, multinucleated, outer, and the source of **hCG**).
+The blastocyst reaches the uterine cavity about **5 days** after fertilization and floats in the glandular secretion for about **2 days**. Implantation (nidation) takes about **3 days** and is complete by about **day 9**: trophoblast receptors bind glycoproteins on the endometrial epithelium, the **syncytiotrophoblast** digests the stroma, and the embryo embeds.
+
+The trophoblast has two layers — **cytotrophoblast** (mitotic, inner) and **syncytiotrophoblast** (invasive, multinucleated, outer, and the source of **hCG**).
 
 **Chorionic villi** project into maternal blood in the **intervillous space** and develop in three stages: **primary** villi (cytotrophoblast covered by syncytiotrophoblast) about 2 days after implantation; **secondary** villi (mesenchymal cores) about day 15; **tertiary** villi (with capillary loops) a few days later. By the end of the first month there are thousands of tertiary villi.
 
@@ -783,7 +799,9 @@ The cornea is **transparent because it is avascular and its collagen is regularl
 
 **Phototransduction in one paragraph.** In darkness, cGMP keeps **cGMP-gated Na⁺ channels** open, so the photoreceptor is depolarized and steadily releases **glutamate**. A photon isomerizes **11-cis-retinal** to **all-trans-retinal** within a picosecond; the opsin changes shape and activates **transducin**, a heterotrimeric G protein whose α subunit stimulates **phosphodiesterase** to hydrolyze cGMP. The channels close, the cell **hyperpolarizes**, and transmitter release falls — which **depolarizes** the bipolar cells and sends signals to the ganglion cells. The free all-trans-retinal is carried to the RPE, re-isomerized to 11-cis, and returned; this **bleaching** cycle takes a minute or more and underlies slow dark adaptation.
 
-The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, within the **macula lutea**, has an exceptionally high central cone density. Its **central foveola** is rod-free, while a few rods can occur toward the peripheral fovea; inner retinal layers are displaced laterally, improving light access to the central cones. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
+The retina is **inverted**: light passes through the ganglion cell and inner layers before reaching the photoreceptors, which sit against the pigment epithelium. The **fovea centralis**, within the **macula lutea**, has an exceptionally high central cone density.
+
+Its **central foveola** is rod-free, while a few rods can occur toward the peripheral fovea; inner retinal layers are displaced laterally, improving light access to the central cones. That is why acuity is highest there, but only in good light. The **optic disc** is the **blind spot**: ganglion-cell axons converge there to form the optic nerve, and photoreceptors are absent.
 
 **Müller cells** are the principal glia — modified astrocytes whose cell bodies lie in the inner nuclear layer and whose processes span the whole retina. They provide trophic support, buffer ions and water, regulate blood flow, form the **inner limiting membrane**, and join photoreceptors by zonulae adherentes to form the **outer limiting layer**.
 

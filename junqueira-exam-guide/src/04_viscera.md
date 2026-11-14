@@ -380,7 +380,9 @@ A. Central vein<br/>B. Portal vein<br/>C. Hepatic artery<br/>D. Bile duct
 
 ### Practical identification
 
-In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile. In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
+In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and identify intercalated and striated ducts. In the pancreas, find acini with basal basophilia and apical zymogen granules, plus pale islets. In the liver, identify the lobule, central vein, portal area, plates of hepatocytes and sinusoids, and trace the direction of blood and bile.
+
+In the gallbladder, note the folded mucosa and muscle bundles with no muscularis mucosae.
 
 ## 17 · The Respiratory System
 
@@ -482,7 +484,9 @@ A short air passage between pharynx and trachea, with skeletal cartilages and in
 
 ### Lung Vasculature & Nerves
 
-The lung has a **double blood supply**: the **pulmonary artery** carries deoxygenated blood for gas exchange and forms a dense capillary network around alveoli, while the **bronchial arteries** (from the aorta) supply the conducting airways and pleura. Pulmonary arteries are unusual in carrying **deoxygenated** blood and in having thin walls suited to low pressure. Autonomic nerves control bronchial smooth muscle and gland secretion — parasympathetic (vagal) constriction, sympathetic relaxation.
+The lung has a **double blood supply**: the **pulmonary artery** carries deoxygenated blood for gas exchange and forms a dense capillary network around alveoli, while the **bronchial arteries** (from the aorta) supply the conducting airways and pleura. Pulmonary arteries are unusual in carrying **deoxygenated** blood and in having thin walls suited to low pressure.
+
+Autonomic nerves control bronchial smooth muscle and gland secretion — parasympathetic (vagal) constriction, sympathetic relaxation.
 
 ### Pleural Membranes
 
@@ -655,7 +659,9 @@ Hard keratin plates on the dorsal surface of the distal phalanx. The **nail root
 
 ### Skin Repair
 
-Repair runs through overlapping stages: a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**. Epithelialization is complete before the collagen of the scar remodels.
+Repair runs through overlapping stages: a **clot** forms and platelets release growth factors; **neutrophils and macrophages** remove bacteria and debris (inflammation lasts **2–3 days**); fibroblasts proliferate under growth-factor and macrophage signals and produce new collagen while capillaries grow into the site, forming **granulation tissue**; **keratinocytes** from the epidermal basal layer migrate beneath and through the clot and restore epithelial continuity; and excess collagen is left as **scar**.
+
+Epithelialization is complete before the collagen of the scar remodels.
 
 **Standard clinical terminology:** healing by **first intention** — clean, apposed edges needing minimal granulation tissue; **second intention** — an open wound with abundant granulation tissue, wound contraction by myofibroblasts, and a larger scar. **Burns** are graded by depth: first-degree (epidermis), second-degree (into dermis, blistering), third-degree (full thickness, including appendages, so it cannot re-epithelialize).
 

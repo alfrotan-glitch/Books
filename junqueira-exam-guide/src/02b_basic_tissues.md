@@ -36,7 +36,11 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Cartilage is a **tough, resilient** connective tissue in which the extracellular matrix — collagen, proteoglycans, and water — is the bulk of the tissue; **chondrocytes** occupy only a small fraction of its volume, sitting in lacunae. **Aggrecan** binds a large amount of water, giving the matrix its compressive resilience. Cartilage supports soft tissues, notably in the respiratory tract, and provides **cushioned, low-friction surfaces in joints**. It is **avascular and aneural** — no blood vessels, lymphatics, or nerves — and is usually surrounded by a vascularized **perichondrium** of dense connective tissue whose fibroblasts form its outer fibrous layer. Its extracellular matrix provides mechanical resilience; the absence of vessels contributes to its limited capacity for repair.
+Cartilage is a **tough, resilient** connective tissue in which the extracellular matrix — collagen, proteoglycans, and water — is the bulk of the tissue; **chondrocytes** occupy only a small fraction of its volume, sitting in lacunae. **Aggrecan** binds a large amount of water, giving the matrix its compressive resilience.
+
+Cartilage supports soft tissues, notably in the respiratory tract, and provides **cushioned, low-friction surfaces in joints**. It is **avascular and aneural** — no blood vessels, lymphatics, or nerves — and is usually surrounded by a vascularized **perichondrium** of dense connective tissue whose fibroblasts form its outer fibrous layer.
+
+Its extracellular matrix provides mechanical resilience; the absence of vessels contributes to its limited capacity for repair.
 
 ### The shared architecture
 
@@ -47,7 +51,9 @@ Cartilage is a **tough, resilient** connective tissue in which the extracellular
 
 ### Hyaline Cartilage
 
-The commonest type and the template for most of the fetal skeleton. Glassy, homogeneous matrix; **collagen makes up 40% of hyaline cartilage's dry weight**, all of it embedded in a hydrated gel of proteoglycans and structural glycoproteins, with more proteoglycan and less collagen immediately around the lacunae (the **territorial matrix**). Perichondrium is present except on **articular surfaces** and the epiphyses of growing long bones, where the cartilage itself forms the smooth, low-friction bearing surface of joints. Found in the **trachea, bronchi, nose, ribs, epiphyseal plate, and articular surfaces**.
+The commonest type and the template for most of the fetal skeleton. Glassy, homogeneous matrix; **collagen makes up 40% of hyaline cartilage's dry weight**, all of it embedded in a hydrated gel of proteoglycans and structural glycoproteins, with more proteoglycan and less collagen immediately around the lacunae (the **territorial matrix**).
+
+Perichondrium is present except on **articular surfaces** and the epiphyses of growing long bones, where the cartilage itself forms the smooth, low-friction bearing surface of joints. Found in the **trachea, bronchi, nose, ribs, epiphyseal plate, and articular surfaces**.
 
 ### Elastic Cartilage
 
@@ -177,7 +183,9 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Bone is the main constituent of the adult skeleton: it gives **solid support**, protects vital organs of the cranial and thoracic cavities, encloses **medullary cavities** where blood cells form, and acts as a **reservoir of calcium and phosphate**, storing or releasing them to keep body fluid concentrations constant. It also forms a system of **levers** that multiply the force of muscle contraction into movement. Its stiffness comes from mineral, its toughness from collagen, and its capacity to adapt from four cell types that continuously demolish and rebuild it — and most skeletal disease reflects failure of one of those cells, or of the balance between them.
+Bone is the main constituent of the adult skeleton: it gives **solid support**, protects vital organs of the cranial and thoracic cavities, encloses **medullary cavities** where blood cells form, and acts as a **reservoir of calcium and phosphate**, storing or releasing them to keep body fluid concentrations constant. It also forms a system of **levers** that multiply the force of muscle contraction into movement.
+
+Its stiffness comes from mineral, its toughness from collagen, and its capacity to adapt from four cell types that continuously demolish and rebuild it — and most skeletal disease reflects failure of one of those cells, or of the balance between them.
 
 ### Bone Cells
 
@@ -340,7 +348,9 @@ Nervous tissue is built for **rapid signaling over distance**. The neuron is a p
 
 ### Development of Nerve Tissue
 
-The nervous system arises from the **neural plate**, which folds into the **neural tube** (giving the CNS) while **neural crest** cells migrate away to form the peripheral neurons, Schwann cells, satellite cells, adrenal medulla, melanocytes, and much of the facial skeleton. This embryology explains three exam facts: the CNS is lined by **ependyma** derived from the tube; Schwann cells are neural crest; and the adrenal medulla is neural crest while the cortex is mesoderm.
+The nervous system arises from the **neural plate**, which folds into the **neural tube** (giving the CNS) while **neural crest** cells migrate away to form the peripheral neurons, Schwann cells, satellite cells, adrenal medulla, melanocytes, and much of the facial skeleton.
+
+This embryology explains three exam facts: the CNS is lined by **ependyma** derived from the tube; Schwann cells are neural crest; and the adrenal medulla is neural crest while the cortex is mesoderm.
 
 ### Neurons
 
@@ -364,7 +374,9 @@ The nervous system arises from the **neural plate**, which folds into the **neur
 | **Schwann cell** (neurolemmocyte) | PNS | **Myelinates one segment of one axon** | Neural crest origin |
 | **Satellite cell** | PNS ganglia | Supports sensory and autonomic neurons | — |
 
-There are **six major glial types**: oligodendrocytes, astrocytes, ependymal cells, and microglia in the CNS; Schwann cells and satellite cells in the PNS. **Myelination:** in the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**. Velocity rises with axon diameter and myelin thickness.
+There are **six major glial types**: oligodendrocytes, astrocytes, ependymal cells, and microglia in the CNS; Schwann cells and satellite cells in the PNS. **Myelination:** in the PNS a Schwann cell wraps one axon segment; in the CNS an oligodendrocyte wraps several. The gaps are **nodes of Ranvier**, where voltage-gated Na⁺ channels cluster, so the impulse jumps by **saltatory conduction**.
+
+Velocity rises with axon diameter and myelin thickness.
 
 ### Central Nervous System
 
@@ -431,7 +443,9 @@ A. Oligodendrocyte<br/>B. Schwann cell<br/>C. Astrocyte<br/>D. Microglial cell
 
 ### Practical identification
 
-Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Nissl bodies; find its dendrites and its single axon hillock. Distinguish astrocytes (star-shaped), oligodendrocytes (small, round, myelinating in the CNS), microglia (small, elongated, perivascular), ependymal cells (ciliated, lining ventricles), and, in peripheral nerve, Schwann cells and satellite cells. In a nerve trunk, find the myelin sheath, node of Ranvier, endoneurium, perineurium and epineurium.
+Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Nissl bodies; find its dendrites and its single axon hillock. Distinguish astrocytes (star-shaped), oligodendrocytes (small, round, myelinating in the CNS), microglia (small, elongated, perivascular), ependymal cells (ciliated, lining ventricles), and, in peripheral nerve, Schwann cells and satellite cells.
+
+In a nerve trunk, find the myelin sheath, node of Ranvier, endoneurium, perineurium and epineurium.
 
 **Three-specimen localization exercise.** An unlabeled slide has large, round neuronal somata, each surrounded by a nearly continuous ring of small satellite-cell nuclei. This favors a **sensory (dorsal-root) ganglion**, not a peripheral nerve trunk. A second section has parallel bundles of nerve fibers enclosed by a distinct perineurium, but no large neuronal somata: this favors a **peripheral nerve**. A third section contains ependymal lining along a fluid-filled cavity, surrounded by nervous tissue: look for the **ventricular or central-canal region** rather than a ganglion.
 
@@ -477,7 +491,9 @@ By the end of this chapter you should be able to:
 
 ### The core idea
 
-Muscle tissue consists of cells that optimize the universal cell property of **contractility**. **Most muscle cells originate from embryonic mesoderm**; the intrinsic muscles of the iris and some head muscles are the standard exceptions, deriving from neural crest and other sources. Muscle differentiates by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**. All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
+Muscle tissue consists of cells that optimize the universal cell property of **contractility**. **Most muscle cells originate from embryonic mesoderm**; the intrinsic muscles of the iris and some head muscles are the standard exceptions, deriving from neural crest and other sources. Muscle differentiates by elongation and abundant synthesis of the myofibrillar proteins **actin and myosin**.
+
+All three types use the same actin–myosin interaction but arrange it differently: **striated and voluntary** (skeletal), **striated and involuntary** (cardiac), **unstriated and involuntary** (smooth).
 
 ### Skeletal Muscle
 
@@ -594,4 +610,6 @@ A. Skeletal muscle<br/>B. Cardiac muscle<br/>C. Smooth muscle<br/>D. Dense regul
 
 ### Practical identification
 
-Compare the three muscle types at the same magnification. Skeletal fibers are long, cylindrical and multinucleated with peripheral nuclei and striations; cardiac fibers branch, have central nuclei, intercalated discs and perinuclear halos; smooth muscle cells are spindle-shaped with central cigar-shaped nuclei and no striations. In skeletal muscle, identify the A band, I band, Z line and triad; in cardiac muscle, the diad at the Z line.
+Compare the three muscle types at the same magnification. Skeletal fibers are long, cylindrical and multinucleated with peripheral nuclei and striations; cardiac fibers branch, have central nuclei, intercalated discs and perinuclear halos; smooth muscle cells are spindle-shaped with central cigar-shaped nuclei and no striations.
+
+In skeletal muscle, identify the A band, I band, Z line and triad; in cardiac muscle, the diad at the Z line.
