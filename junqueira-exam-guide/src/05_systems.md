@@ -7,6 +7,27 @@
 **In this chapter:** Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 
+### Quick notes — understand in 90 seconds
+
+- **Renal corpuscle:** glomerular capillary tuft within Bowman's capsule.
+- **PCT:** eosinophilic cells and conspicuous apical brush border; often indistinct lumen.
+- **DCT:** clearer lumen and little/no prominent brush border.
+- **Collecting ducts:** relatively distinct cell boundaries in larger profiles.
+- **Juxtaglomerular apparatus:** close relationship of macula densa, granular cells and vascular pole.
+- **Urothelium:** lines renal pelvis, ureter and bladder.
+
+**High-yield comparison:** **PCT = brush border + fuzzy lumen; DCT = cleaner lumen**.
+
+> **MNEMONIC** — Start at the **renal corpuscle**, then compare nearby tubules.
+
+**Recall without looking:** Which cortical tubule has a strong brush border?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing renal corpuscle and tubules](build/atlas/renal_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -153,6 +174,27 @@ In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm,
 **In this chapter:** Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
 
+### Quick notes — understand in 90 seconds
+
+- **Pituitary:** anterior glandular cells and posterior neural tissue; hormones differ by region.
+- **Thyroid:** follicles filled with colloid; follicular cells synthesize T3/T4.
+- **Parathyroid:** endocrine chief-cell cords and capillaries, not colloid follicles.
+- **Adrenal cortex:** glomerulosa (mineralocorticoids), fasciculata (glucocorticoids), reticularis (androgens).
+- **Adrenal medulla:** catecholamine-producing chromaffin cells.
+- **Thyroid C cells:** secrete calcitonin; mammalian embryologic origin differs from older exclusively neural-crest accounts.
+
+**High-yield comparison:** **Thyroid = follicles; parathyroid = cell cords; adrenal cortex = three zones**.
+
+> **MNEMONIC** — Adrenal cortex: **G-F-R = salt, sugar, sex-related steroids** (simplified).
+
+**Recall without looking:** Which endocrine organ stores hormone precursors extracellularly in colloid?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing thyroid, parathyroid and adrenal cortex](build/atlas/endocrine_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -301,6 +343,22 @@ Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicl
 **In this chapter:** Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
 
 
+### Quick notes — understand in 90 seconds
+
+- **Seminiferous tubules:** layers of developing germ cells around Sertoli cells.
+- **Sertoli cells:** germ-cell support, blood-testis barrier, inhibin secretion.
+- **Leydig cells:** interstitial testosterone-producing endocrine cells.
+- **Epididymis:** pseudostratified epithelium with long nonmotile stereocilia.
+- **Vas deferens:** thick muscular wall and comparatively smaller folded lumen.
+
+**High-yield comparison:** **Sertoli inside tubules; Leydig between tubules**.
+
+> **MNEMONIC** — Epididymis stereocilia are **actin-based microvilli**, not motile cilia.
+
+**Recall without looking:** Which cell type in the testicular interstitium synthesizes testosterone?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -431,6 +489,27 @@ In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each 
 **In this chapter:** Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
 
 
+### Quick notes — understand in 90 seconds
+
+- **Primordial follicle:** primary oocyte with one layer of flattened follicular cells.
+- **Primary follicle:** granulosa cells become cuboidal; zona pellucida develops.
+- **Antral follicle:** fluid-filled cavity and organized granulosa/thecal layers.
+- **Ovulation:** LH surge; remaining follicle reorganizes as **corpus luteum**.
+- **Proliferative endometrium:** relatively straight glands; **secretory:** coiled secretory glands and changing stroma.
+- Human polyspermy prevention emphasizes **Ca²⁺-activated cortical granules and zona modifications**.
+
+**High-yield comparison:** **Primordial = flat layer; primary = cuboidal layer; antral = fluid cavity**.
+
+> **MNEMONIC** — Follow the **oocyte, granulosa, theca and antrum** in that order.
+
+**Recall without looking:** What changes in the follicle after ovulation, and which hormone drives that change?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic of ovarian follicle stages and corpus luteum](build/atlas/ovarian_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -628,6 +707,23 @@ In the ovary, stage the cycle by the dominant follicle or corpus luteum; identif
 **In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
 
 
+### Quick notes — understand in 90 seconds
+
+- **Retina:** neural layers plus retinal pigment epithelium; photoreceptors lie toward its outer side.
+- **Rods:** highly light-sensitive, support dim-light vision.
+- **Cones:** color and high-acuity vision; concentrated at the foveola.
+- **Cornea:** transparent layered tissue, avascular in health.
+- **Cochlea:** organ of Corti with inner and outer hair cells for hearing.
+- **Vestibular apparatus:** hair cells detect position and head movement.
+
+**High-yield comparison:** **Rods = dim-light sensitivity; cones = high-acuity/color vision**.
+
+> **MNEMONIC** — A retinal label must specify **which side faces the pigment epithelium**.
+
+**Recall without looking:** Where are photoreceptor nuclei found in the retinal layers?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:

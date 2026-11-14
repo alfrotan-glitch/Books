@@ -7,6 +7,29 @@
 **In this chapter:** Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
 
 
+### Quick notes — understand in 90 seconds
+
+- **Epithelium:** closely packed polarized cells on a basal lamina; usually avascular.
+- Classify by **number of layers** and **shape of the surface cells**.
+- **Simple squamous:** diffusion and filtration; **stratified squamous:** protection against abrasion.
+- **Pseudostratified:** nuclei at different heights but **every cell contacts the basal lamina**.
+- **Microvilli:** actin-based absorption; **motile cilia:** microtubule-based surface transport.
+- **Urothelium:** distensible urinary lining with specialized umbrella cells.
+
+**High-yield comparison:** **Pseudostratified ≠ stratified.** Nuclei at different heights do not prove several true cell layers.
+
+> **MNEMONIC** — Start at the **free surface**, then trace cells toward the **basal lamina**.
+
+**Recall without looking:** A ciliated respiratory lining appears multilayered. Which observation proves it is pseudostratified?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing epithelial layers](build/atlas/epithelial_patterns.png)
+
+![Original schematic comparing motile and sensory cilia with microvilli](build/atlas/cilia_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -187,6 +210,22 @@ Classify any epithelium with two questions: how many layers, and what shape is t
 **In this chapter:** Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
 
 
+### Quick notes — understand in 90 seconds
+
+- **Connective tissue = cells + fibers + ground substance**; unlike epithelium, ECM is abundant.
+- **Type I collagen:** tendon, dermis, bone; **type II:** cartilage; **type III:** reticular networks; **type IV:** basal lamina.
+- **Fibroblasts** synthesize much of the ECM; **mast cells** contain inflammatory mediators.
+- **Plasma cells:** eccentric nucleus, coarse 'clock-face' chromatin, perinuclear Golgi zone.
+- **Macrophage origin is tissue-dependent**; many resident populations arise from embryonic precursors.
+
+**High-yield comparison:** **Dense regular:** parallel collagen for one-way tension. **Dense irregular:** interwoven collagen for multidirectional resistance.
+
+> **MNEMONIC** — Collagen mnemonic: **I strong; II cartilage; III reticular; IV basement**.
+
+**Recall without looking:** Why do tendon and dermis resist forces in different directions?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -321,6 +360,22 @@ Identify the three fiber types by their appearance and staining: collagen bundle
 **In this chapter:** White Adipose Tissue · Brown Adipose Tissue
 
 
+### Quick notes — understand in 90 seconds
+
+- **White adipocytes:** one large lipid droplet and a peripheral flattened nucleus.
+- **Brown adipocytes:** multiple small droplets and mitochondria rich in UCP1.
+- **White fat:** stores energy, cushions organs, secretes metabolic signals.
+- **Brown fat:** generates heat through non-shivering thermogenesis.
+- Routine paraffin processing extracts lipid, so white adipocytes often look **empty** on H&E.
+
+**High-yield comparison:** **White = unilocular storage** versus **brown = multilocular heat production**.
+
+> **MNEMONIC** — Large clear ring → think **white adipose**; many droplets → think **brown adipose**.
+
+**Recall without looking:** What creates the empty appearance of a white adipocyte in routine H&E?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:

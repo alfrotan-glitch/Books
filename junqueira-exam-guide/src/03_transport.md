@@ -7,6 +7,26 @@
 **In this chapter:** Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
 
+### Quick notes — understand in 90 seconds
+
+- Blood vessels have **tunica intima, media, and adventitia** (with variations in small vessels).
+- **Arteries:** often a thicker smooth-muscle media relative to the lumen.
+- **Veins:** commonly thinner media, irregular or collapsed lumina and prominent adventitia.
+- **Capillaries:** mainly endothelium and its basal lamina for exchange.
+- **Endothelium** is simple squamous epithelium; interpret its morphology with surrounding wall layers.
+
+**High-yield comparison:** A round lumen alone does **not** prove artery; examine the **media** and elastic laminae.
+
+> **MNEMONIC** — Vessel ID: **wall thickness → smooth muscle → elastic layers → surrounding tissue**.
+
+**Recall without looking:** A vessel has a thick media and clear internal elastic lamina. Which category fits best?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing artery, vein and lymphatic capillary](build/atlas/vascular_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -137,6 +157,23 @@ Compare artery, vein and capillary in one section. Name the three tunics, and ju
 **In this chapter:** Composition of Plasma · Blood Cells
 
 
+### Quick notes — understand in 90 seconds
+
+- **Erythrocyte:** anucleate, biconcave oxygen-transporting cell in humans.
+- **Neutrophil:** segmented nucleus, fine granules; rapid response to many bacterial infections.
+- **Eosinophil:** often bilobed nucleus, prominent eosinophilic granules.
+- **Basophil:** coarse deeply staining granules that may conceal the nucleus.
+- **Monocyte:** large, often folded nucleus; **lymphocyte:** dense round nucleus with limited cytoplasm.
+- **Platelets:** small anucleate cytoplasmic fragments from megakaryocytes.
+
+**High-yield comparison:** Monocyte and large lymphocyte are not identified by size alone; inspect **nuclear contour and cytoplasm**.
+
+> **MNEMONIC** — **Neutro = many lobes; eosino = two lobes; baso = dark granules**.
+
+**Recall without looking:** Which leukocyte has a bilobed nucleus and intensely eosinophilic granules?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -263,6 +300,22 @@ On a stained blood smear, identify erythrocytes (biconcave, anucleate, pink), pl
 **In this chapter:** Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
 
 
+### Quick notes — understand in 90 seconds
+
+- **Red bone marrow** contains active developing blood cells, sinusoids and stromal support.
+- **Hematopoietic stem cells are multipotent**, capable of generating several blood lineages.
+- **Erythroid maturation:** cell becomes smaller, cytoplasm changes and nucleus is eventually expelled.
+- **Megakaryocytes:** large polyploid marrow cells releasing platelet fragments.
+- Erythrocytes, white blood cells and platelets have distinct developmental pathways and regulators.
+
+**High-yield comparison:** **Reticulocyte** retains some ribosomal RNA; a mature human erythrocyte lacks a nucleus.
+
+> **MNEMONIC** — Blood production: **stem cell → committed progenitor → immature cell → circulating cell**.
+
+**Recall without looking:** Which marrow cell is the immediate parent of circulating platelets?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -381,6 +434,26 @@ In a marrow smear, identify the erythroid series by its round nucleus, progressi
 **In this chapter:** Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 
 
+### Quick notes — understand in 90 seconds
+
+- **Thymus:** lymphocyte-rich cortex, paler medulla, Hassall corpuscles; T-cell maturation.
+- **Lymph node:** capsule, subcapsular sinus, cortical follicles, paracortex, medullary cords.
+- **Spleen:** white pulp for immune responses; red pulp for blood filtration.
+- **MALT/tonsils:** immune surveillance along mucosal surfaces.
+- **Germinal centers** occur in active B-cell follicles—not in normal thymic lobules.
+
+**High-yield comparison:** **Spleen filters blood; lymph nodes filter lymph; thymus matures T cells**.
+
+> **MNEMONIC** — Hassall corpuscles → **thymus**; red and white pulp → **spleen**.
+
+**Recall without looking:** A lobulated lymphoid organ contains Hassall corpuscles. Name it.
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing major lymphoid tissues](build/atlas/lymphoid_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:

@@ -7,6 +7,22 @@
 **In this chapter:** Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
 
 
+### Quick notes — understand in 90 seconds
+
+- **Histology** studies cells, extracellular matrix (ECM), and how tissues form functioning organs.
+- **Routine H&E workflow:** fixation → dehydration → clearing → paraffin embedding → thin section → staining.
+- **Hematoxylin** highlights nucleic-acid-rich regions (blue/purple); **eosin** stains many proteins (pink).
+- **Light microscopy** shows tissue architecture; **electron microscopy** resolves organelle ultrastructure.
+- **Artifacts** from shrinkage, folding, and poor fixation may resemble genuine tissue features.
+
+**High-yield comparison:** PAS highlights many carbohydrate-rich structures; immunohistochemistry locates a selected antigen—neither is equivalent to routine H&E.
+
+> **MNEMONIC** — Always ask: **What was preserved? What was stained? At what resolution?**
+
+**Recall without looking:** Which preparation step can remove stored lipid and leave adipocytes apparently empty?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -208,6 +224,22 @@ Work with a real or virtual H&E section. At low power, locate the tissue edge, a
 **In this chapter:** Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
 
 
+### Quick notes — understand in 90 seconds
+
+- **Rough ER + ribosomes:** production of secreted and membrane proteins; abundant in plasma cells.
+- **Smooth ER:** lipid/steroid metabolism and detoxification; prominent in steroid-secreting cells.
+- **Golgi:** protein modification, sorting, and packaging into vesicles.
+- **Mitochondria:** ATP generation; concentrated where active transport is intense.
+- **Microvilli** have actin cores; most motile cilia have 9+2 axonemes; primary cilia generally have 9+0 doublet axonemes.
+
+**High-yield comparison:** A **basal body** contains nine microtubule **triplets**; a **primary-cilium axoneme** contains nine peripheral **doublets**.
+
+> **MNEMONIC** — Protein export: **rough ER → Golgi → secretory vesicle**.
+
+**Recall without looking:** A cell makes large amounts of peptide hormone. Which two organelles should be conspicuous?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -341,6 +373,22 @@ On an electron micrograph, identify the plasma membrane, rough ER (parallel cist
 **In this chapter:** Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
 
 
+### Quick notes — understand in 90 seconds
+
+- **Euchromatin:** less condensed, commonly transcriptionally active; **heterochromatin:** condensed and often less active.
+- **Nucleolus:** ribosomal RNA transcription and assembly of ribosomal subunits.
+- **S phase:** DNA replication; **M phase:** chromosome segregation and cell division.
+- **Mitosis:** produces genetically similar somatic daughter cells; **meiosis:** reduces chromosome number in germ cells.
+- **Apoptosis:** organized cell death with relatively limited inflammation; **necrosis:** membrane damage often with inflammation.
+
+**High-yield comparison:** A highly basophilic nucleus need not be dividing; inspect chromatin, nucleolus and mitotic figures separately.
+
+> **MNEMONIC** — DNA is **copied in S**; chromatids **separate in M**.
+
+**Recall without looking:** Which two features help distinguish apoptosis from necrosis?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:

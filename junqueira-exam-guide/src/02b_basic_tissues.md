@@ -5,6 +5,26 @@
 **In this chapter:** Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
 
 
+### Quick notes — understand in 90 seconds
+
+- Cartilage has **chondrocytes in lacunae** and a hydrated, largely avascular ECM.
+- **Hyaline cartilage:** glassy type II collagen-rich matrix; common in airway supports and articular surfaces.
+- **Elastic cartilage:** elastic fiber network; flexible structures such as the external ear.
+- **Fibrocartilage:** coarse collagen bundles with rows of chondrocytes; resists tension and compression.
+- **Articular cartilage and fibrocartilage** generally lack a perichondrium.
+
+**High-yield comparison:** **Elastic vs hyaline:** look for elastic fibers. **Fibrocartilage vs tendon:** look for chondrocytes inside lacunae.
+
+> **MNEMONIC** — Cartilage: **cells in lacunae + no blood vessels within matrix**.
+
+**Recall without looking:** A sample has rows of chondrocytes between thick collagen bundles. Identify it.
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic showing three types of cartilage](build/atlas/cartilage_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -126,6 +146,26 @@ Compare hyaline, elastic and fibrocartilage in one session. Hyaline has a glassy
 **In this chapter:** Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
 
 
+### Quick notes — understand in 90 seconds
+
+- **Osteoblast:** bone-forming cell on a surface; secretes osteoid.
+- **Osteocyte:** mature cell in lacunae connected by canaliculi.
+- **Osteoclast:** large multinucleated bone-resorbing cell in Howship lacunae.
+- **Compact bone:** osteons with concentric lamellae around central canals.
+- **Spongy bone:** trabeculae with marrow spaces; bone matrix is rich in **type I collagen** and mineral.
+
+**High-yield comparison:** Osteoblasts **build**; osteoclasts **resorb**; osteocytes **maintain and sense**.
+
+> **MNEMONIC** — **Blasts build, clasts clear**; lacunae hold osteocytes.
+
+**Recall without looking:** Which bone cell is multinucleated and lies in a resorption depression?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing compact and trabecular bone with cartilage](build/atlas/bone_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -268,6 +308,23 @@ In a ground or decalcified section, find osteons (concentric lamellae around a c
 **In this chapter:** Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
 
 
+### Quick notes — understand in 90 seconds
+
+- **Neuron:** soma, dendrites, axon; receives and transmits electrical signals.
+- **Oligodendrocytes:** myelinate several CNS axon segments.
+- **Schwann cells:** support PNS axons; a myelinating Schwann cell forms one internode.
+- **Astrocytes:** metabolic and structural CNS support; help regulate the local environment.
+- **Microglia:** resident CNS immune cells, mainly established from embryonic yolk-sac progenitors.
+- **Ependymal cells:** line ventricles and central canal.
+
+**High-yield comparison:** **CNS myelin = oligodendrocyte; PNS myelin = Schwann cell.**
+
+> **MNEMONIC** — Where is the axon? **CNS → oligo; PNS → Schwann**.
+
+**Recall without looking:** Which glial cell makes myelin on several CNS axons?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -393,6 +450,22 @@ Identify a neuron by its large euchromatic nucleus, prominent nucleolus and Niss
 **In this chapter:** Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
 
 
+### Quick notes — understand in 90 seconds
+
+- **Skeletal muscle:** striated, long multinucleated fibers with peripheral nuclei.
+- **Cardiac muscle:** striated branching cells, central nuclei, intercalated discs.
+- **Smooth muscle:** spindle cells with single central nuclei; no visible sarcomeric striations.
+- **Sarcomere:** contractile unit between Z discs; actin slides past myosin.
+- The **A band stays the same length** during normal sliding-filament contraction.
+
+**High-yield comparison:** **Skeletal vs cardiac:** peripheral multiple nuclei versus central nuclei and intercalated discs.
+
+> **MNEMONIC** — **Skeletal = stripes + many peripheral nuclei; cardiac = stripes + discs; smooth = no stripes**.
+
+**Recall without looking:** What histological structure is most diagnostic of cardiac muscle?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:

@@ -7,6 +7,27 @@
 **In this chapter:** General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
 
 
+### Quick notes — understand in 90 seconds
+
+- Most GI segments have **mucosa, submucosa, muscularis externa, outer serosa/adventitia**.
+- **Esophagus:** stratified squamous nonkeratinized lining (in most human regions).
+- **Stomach:** pits and gastric glands; no intestinal villi.
+- **Duodenum:** intestinal villi plus **Brunner glands** in submucosa.
+- **Ileum:** villi and often **Peyer patches**; **colon:** straight goblet-rich crypts without villi.
+- **Auerbach plexus:** between muscle layers; **Meissner plexus:** submucosa.
+
+**High-yield comparison:** **Duodenum → Brunner glands; ileum → Peyer patches; colon → no villi**.
+
+> **MNEMONIC** — Find the wall layers first; then identify **regional signature structures**.
+
+**Recall without looking:** Which structure in the submucosa strongly supports duodenum?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic showing duodenum, ileum and colon](build/atlas/intestinal_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -218,6 +239,26 @@ Walk the gut from esophagus to anal canal on the sections available. At each lev
 **In this chapter:** Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
 
 
+### Quick notes — understand in 90 seconds
+
+- **Liver:** hepatic plates and sinusoids between portal areas and central veins.
+- **Portal triad:** portal venule, hepatic arteriole, bile ductule.
+- **Blood** travels through sinusoids toward the central vein; **bile** travels toward portal bile ducts.
+- **Pancreas:** exocrine acini plus pale endocrine islets; centroacinar cells occur in exocrine pancreas.
+- **Gallbladder:** mucosal folds and absorptive epithelium; lacks distinct muscularis mucosae and submucosa.
+
+**High-yield comparison:** Pancreas has **islets**; salivary glands have **ducts** but no endocrine pancreatic islets.
+
+> **MNEMONIC** — Liver: **blood inward to central vein; bile outward to portal duct**.
+
+**Recall without looking:** In a liver lobule, which direction does bile travel relative to blood?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic showing liver microscopic architecture](build/atlas/hepatic_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -348,6 +389,23 @@ In a salivary gland, distinguish serous acini, mucous tubules and demilunes, and
 **In this chapter:** Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
 
 
+### Quick notes — understand in 90 seconds
+
+- **Trachea:** respiratory epithelium, seromucous glands and C-shaped hyaline cartilage.
+- **Bronchus:** cartilage plates and glands within the lung.
+- **Bronchiole:** no cartilage or submucosal glands; smooth muscle remains prominent.
+- **Respiratory bronchiole:** airway wall begins to contain alveoli.
+- **Type I pneumocytes:** thin surface for gas exchange; **type II:** produce surfactant and replenish cells.
+- **Alveolar macrophages:** immune defense in air spaces.
+
+**High-yield comparison:** **Bronchus vs bronchiole:** cartilage and glands indicate bronchus.
+
+> **MNEMONIC** — Airway sequence: **trachea → bronchus → bronchiole → alveoli**.
+
+**Recall without looking:** Which epithelial cell secretes pulmonary surfactant?
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
@@ -491,6 +549,26 @@ Follow the airway from trachea to alveolus. At each level, record the epithelium
 **In this chapter:** Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
 
 
+### Quick notes — understand in 90 seconds
+
+- **Epidermis:** keratinized stratified squamous epithelium.
+- Layers from deep to surface: **basale → spinosum → granulosum → corneum**; lucidum is visible in thick skin.
+- **Thick skin:** prominent corneum, no hair follicles; **thin skin:** may contain hair and sebaceous glands.
+- **Melanocytes:** pigment cells; **Langerhans cells:** antigen-presenting immune cells.
+- **Merkel cells:** specialized basal epidermal touch-associated cells.
+
+**High-yield comparison:** **Thick skin ≠ thicker dermis**; diagnose mainly by epidermal thickness and absence of hair follicles.
+
+> **MNEMONIC** — Epidermis (deep → superficial): **B-S-G-C**.
+
+**Recall without looking:** Which skin type has stratum lucidum but lacks hair follicles?
+
+**Visual anchor — simplified schematic:**
+
+![Original schematic comparing thick and hair-bearing skin](build/atlas/skin_patterns.png)
+
+---
+ 
 ### Learning objectives
 
 By the end of this chapter you should be able to:
