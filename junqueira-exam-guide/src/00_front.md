@@ -46,6 +46,14 @@ Every chapter follows the same teaching sequence, adapted where the subject dema
 
 The parts are cumulative. Part I establishes the cell and the methods; nothing later makes sense without it. Part II builds the four tissues. Parts III to V apply them organ by organ. Part VI is for consolidation, not for first learning. Part VII tests the whole book.
 
+## A simple way to study these notes
+
+Use the same rhythm for every chapter: **Quick notes → understand the explanation → identify the structure → close-book recall → correct errors**. On the first pass, read the short notes and compare the schematic with a real slide. On the second pass, study the detailed account and explain the structure–function connection. On the third pass, answer without seeing the book.
+
+**Study actively.** After a page, cover the answer and name three clues, one function and one common confusion. If you cannot answer, revisit the relevant paragraph rather than rereading the entire chapter. Short reviews after roughly 1, 3, 7, 14 and 30 days can help retention; adjust them for what you actually forget.
+
+**For the classroom.** The same chapter supports teaching: begin with the quick notes, explain and sketch the topic, ask students to compare look-alike structures, then use the active-recall and exam questions to check understanding. These notes are designed for learning, not for replacing the full reference atlas.
+
 ## How to study
 
 ### Learn, teach, and retain

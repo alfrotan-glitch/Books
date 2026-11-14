@@ -30,7 +30,7 @@ SRC = os.path.join(HERE, "src")
 OUT_PDF = os.path.join(HERE, "Basic_Histology_Learning_Text.pdf")
 
 PAGE_W, PAGE_H = A4
-ML, MR, MT, MB = 46, 46, 52, 46
+ML, MR, MT, MB = 48, 48, 55, 48
 FRAME_W = PAGE_W - ML - MR
 
 # ---------------------------------------------------------------- palette
@@ -77,8 +77,8 @@ pdfmetrics.registerFontFamily("Head-Reg", normal="Head-Reg", bold="Head")
 
 # ---------------------------------------------------------------- styles
 def S(name, **kw):
-    base = dict(fontName="Body", fontSize=9.5, leading=13.6, textColor=INK,
-                spaceBefore=0, spaceAfter=5, alignment=TA_JUSTIFY)
+    base = dict(fontName="Body", fontSize=10.5, leading=15.4, textColor=INK,
+                spaceBefore=0, spaceAfter=8, alignment=TA_LEFT)
     base.update(kw)
     return ParagraphStyle(name, **base)
 
@@ -88,11 +88,15 @@ STY = {
                     textColor=ACCENT, alignment=TA_LEFT, spaceAfter=6),
     "part_title": S("part_title", fontName="Head", fontSize=23, leading=29,
                     textColor=INK, alignment=TA_LEFT, spaceAfter=10),
-    "chapter":    S("chapter", fontName="Head", fontSize=17, leading=22,
-                    textColor=INK, alignment=TA_LEFT, spaceBefore=0, spaceAfter=3),
-    "h3":         S("h3", fontName="Head", fontSize=11, leading=14.5,
-                    textColor=ACCENT, alignment=TA_LEFT, spaceBefore=11, spaceAfter=4,
+    "chapter":    S("chapter", fontName="Head", fontSize=19, leading=25,
+                    textColor=INK, alignment=TA_LEFT, spaceBefore=0, spaceAfter=5),
+    "h3":         S("h3", fontName="Head", fontSize=11.8, leading=16.6,
+                    textColor=ACCENT, alignment=TA_LEFT, spaceBefore=16, spaceAfter=6,
                     keepWithNext=1),
+    "notehead":   S("notehead", fontName="Head", fontSize=12.6, leading=18,
+                    textColor=colors.HexColor("#075B58"), alignment=TA_LEFT,
+                    spaceBefore=12, spaceAfter=10, keepWithNext=1,
+                    backColor=colors.HexColor("#ECF6F4"), borderPadding=(9,10,9,10)),
     "h4":         S("h4", fontName="Head-Reg", fontSize=9.8, leading=13,
                     textColor=INK, alignment=TA_LEFT, spaceBefore=8, spaceAfter=2,
                     keepWithNext=1),
@@ -101,10 +105,10 @@ STY = {
                     textColor=INK),
     "boldlead":   S("boldlead", fontName="Head", fontSize=10, leading=13.5,
                     textColor=INK, alignment=TA_LEFT, spaceBefore=9, spaceAfter=3),
-    "bullet":     S("bullet", leftIndent=13, bulletIndent=2, spaceAfter=2.5,
-                    alignment=TA_LEFT),
-    "num":        S("num", leftIndent=17, bulletIndent=2, spaceAfter=2.5,
-                    alignment=TA_LEFT),
+    "bullet":     S("bullet", leftIndent=16, bulletIndent=3, spaceAfter=5.2,
+                    alignment=TA_LEFT, leading=15.2),
+    "num":        S("num", leftIndent=20, bulletIndent=2, spaceAfter=5.1,
+                    alignment=TA_LEFT, leading=15.1),
     "quote":      S("quote", fontName="Body", fontSize=9.3, leading=13.2,
                     alignment=TA_LEFT, leftIndent=9, rightIndent=9,
                     spaceBefore=8, spaceAfter=8),
@@ -112,9 +116,9 @@ STY = {
                     textColor=INK, alignment=TA_LEFT, spaceBefore=0.4, spaceAfter=0.7),
     "toc1":       S("toc1", fontName="Head-Reg", fontSize=7.8, leading=8.0,
                     textColor=MUTED, leftIndent=12, alignment=TA_LEFT, spaceBefore=0, spaceAfter=0.5),
-    "cell":       S("cell", fontName="Head-Reg", fontSize=7.9, leading=10.1,
+    "cell":       S("cell", fontName="Head-Reg", fontSize=8.45, leading=11.7,
                     alignment=TA_LEFT, spaceAfter=0),
-    "cellhead":   S("cellhead", fontName="Head", fontSize=7.9, leading=10.1,
+    "cellhead":   S("cellhead", fontName="Head", fontSize=8.45, leading=11.7,
                     alignment=TA_LEFT, textColor=colors.white, spaceAfter=0),
     "source":     S("source", fontName="Head-Reg", fontSize=7.9, leading=11.4,
                     textColor=MUTED, alignment=TA_LEFT, spaceBefore=1, spaceAfter=9),
@@ -342,9 +346,9 @@ class Book(BaseDocTemplate):
         BaseDocTemplate.__init__(self, filename, pagesize=A4,
                                  leftMargin=ML, rightMargin=MR,
                                  topMargin=MT, bottomMargin=MB,
-                                 title="Basic Histology: A Learning Text",
+                                 title="Basic Histology: Smart Study Notes",
                                  author="",
-                                 subject="A self-contained course in microscopic anatomy",
+                                 subject="Junqueira-aligned histology notes and entrance-exam teaching",
                                  keywords="histology, medical education, examination revision, study guide")
         frame = Frame(ML, MB, FRAME_W, PAGE_H - MT - MB, id="body")
         self.cover_tpl = PageTemplate(id="cover", frames=[frame], onPage=self.cover)
@@ -363,7 +367,7 @@ class Book(BaseDocTemplate):
         canv.setFont("Head-Reg", 7.4)
         canv.setFillColor(MUTED)
         canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  A LEARNING TEXT")
-        canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "First edition")
+        canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "SMART STUDY NOTES")
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.5)
         canv.line(ML, PAGE_H - 36, PAGE_W - MR, PAGE_H - 36)
@@ -376,7 +380,7 @@ class Book(BaseDocTemplate):
     def cover(self, canv, doc):
         # Explicit PDF document-info fields: automated validators inspect these.
         # No author is named without the rights holder approving attribution.
-        canv.setTitle("Basic Histology: A Learning Text")
+        canv.setTitle("Basic Histology: Smart Study Notes")
         canv.setSubject("Original microscopic anatomy learning text, illustrated schematics and revision examination")
         canv.setKeywords("histology, microscopic anatomy, medical education, teaching schematics, examination")
         canv.setCreator("Basic Histology publication build system")
@@ -388,7 +392,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(colors.HexColor("#6FD3CF"))
         canv.setFont("Head-Reg", 9.5)
-        canv.drawString(ML, PAGE_H - 100, "A COMPLETE COURSE IN MICROSCOPIC ANATOMY")
+        canv.drawString(ML, PAGE_H - 100, "JUNQUEIRA-ALIGNED MEDICAL HISTOLOGY NOTES")
 
         canv.setFillColor(colors.white)
         canv.setFont("Head", 38)
@@ -397,13 +401,13 @@ class Book(BaseDocTemplate):
 
         canv.setFont("Head-Reg", 13)
         canv.setFillColor(colors.HexColor("#CFE3E2"))
-        canv.drawString(ML, PAGE_H - 228, "A Learning Text")
+        canv.drawString(ML, PAGE_H - 228, "Smart Study Notes")
 
         canv.setFillColor(INK)
         canv.setFont("Body", 12)
-        canv.drawString(ML, PAGE_H - 360, "A self-contained course in microscopic anatomy,")
-        canv.drawString(ML, PAGE_H - 378, "written for students who want to understand")
-        canv.drawString(ML, PAGE_H - 396, "tissues, organs and the logic of their structure.")
+        canv.drawString(ML, PAGE_H - 360, "Understand each tissue in simple steps.")
+        canv.drawString(ML, PAGE_H - 378, "Recognize its microscopic clues.")
+        canv.drawString(ML, PAGE_H - 396, "Recall what matters for the entrance examination.")
 
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.8)
@@ -423,7 +427,7 @@ class Book(BaseDocTemplate):
 
         canv.setFillColor(MUTED)
         canv.setFont("Head-Reg", 8.5)
-        canv.drawString(ML, 58, "Structure  ·  Function  ·  Recognition  ·  Recall")
+        canv.drawString(ML, 58, "23 chapters  ·  Clear notes  ·  Visual memory  ·  Practice")
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -534,7 +538,8 @@ def build_story(blocks):
             first_part = False
 
         elif kind == "h3":
-            story.append(Paragraph(inline(b[1], bold="Head"), STY["h3"]))
+            style = STY["notehead"] if b[1].startswith("Quick notes —") else STY["h3"]
+            story.append(Paragraph(inline(b[1], bold="Head"), style))
 
         elif kind == "h4":
             story.append(Paragraph(inline(b[1], bold="Head"), STY["h4"]))
@@ -594,7 +599,7 @@ def build_story(blocks):
             if not os.path.isfile(path):
                 raise FileNotFoundError("Missing original schematic atlas plate: " + path)
             illustration = RLImage(path)
-            ratio = min(FRAME_W / illustration.imageWidth, 320 / illustration.imageHeight)
+            ratio = min(FRAME_W / illustration.imageWidth, 260 / illustration.imageHeight)
             illustration.drawWidth = illustration.imageWidth * ratio
             illustration.drawHeight = illustration.imageHeight * ratio
             illustration.hAlign = "CENTER"
