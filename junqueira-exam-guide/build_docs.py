@@ -208,7 +208,7 @@ def main():
     section = document.sections[0]
     header = section.header.paragraphs[0]
     header.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    run = header.add_run("BASIC HISTOLOGY  ·  A LEARNING TEXT")
+    run = header.add_run("BASIC HISTOLOGY  ·  SMART STUDY NOTES")
     run.font.size = Pt(7.3)
     run.font.color.rgb = RGBColor(86, 115, 120)
     footer = section.footer.paragraphs[0]
