@@ -122,6 +122,9 @@ STY = {
                     alignment=TA_LEFT, textColor=colors.white, spaceAfter=0),
     "source":     S("source", fontName="Head-Reg", fontSize=7.9, leading=11.4,
                     textColor=MUTED, alignment=TA_LEFT, spaceBefore=1, spaceAfter=9),
+    "answer_note": S("answer_note", fontName="Body", fontSize=9.8,
+                     leading=14.0, textColor=INK, spaceBefore=2.2,
+                     spaceAfter=2.3, alignment=TA_LEFT),
     "specialty":  S("specialty", fontName="Head-Reg", fontSize=7.2, leading=10.8,
                     textColor=MUTED, alignment=TA_LEFT, spaceBefore=0, spaceAfter=8),
     "caption":    S("caption", fontName="Head-Reg", fontSize=7.6, leading=10,
@@ -578,9 +581,7 @@ def build_story(blocks):
                                                     leftIndent=16, spaceAfter=3,
                                                     alignment=TA_LEFT)))
                 else:                                   # an answer key entry
-                    story.append(Paragraph(inline(txt), S("a", spaceBefore=4.2,
-                                                          spaceAfter=1.5,
-                                                          alignment=TA_LEFT)))
+                    story.append(Paragraph(inline(txt), STY["answer_note"]))
             else:
                 story.append(Paragraph(inline(txt), STY["body"]))
 
@@ -659,46 +660,10 @@ def build_pdf():
         ("BOTTOMPADDING", (0, 0), (-1, -1), 1.7),
     ])
 
-    imprint = (
-        "Understand the structure. Explain its function. Recognize its microscopic landmarks. "
-        "Test your recall, correct misconceptions, and use the named Junqueira chapters "
-        "as the primary source for deeper study."
-    )
-
+    # A single cover followed by a one-page clickable contents list.
+    # The previous standalone titlepage merely repeated the cover and delayed study.
     front = [
         NextPageTemplate("body"),
-        PageBreak(),
-        Spacer(1, 64),
-        Paragraph("BASIC HISTOLOGY", S("tp1", fontName="Head", fontSize=34, leading=38,
-                                       textColor=INK)),
-        Spacer(1, 6),
-        Paragraph("A Learning Text", S("tp2", fontName="Head-Reg", fontSize=17,
-                                                        leading=22, textColor=ACCENT)),
-        Spacer(1, 14),
-        Rule(FRAME_W, 1.2, ACCENT),
-        Spacer(1, 16),
-        Paragraph("A self-contained course in microscopic anatomy for students of medicine, "
-                  "dentistry and the biomedical sciences",
-                  S("tp3", fontName="Body", fontSize=12, leading=18, textColor=INK)),
-        Spacer(1, 4),
-        Paragraph("First edition  \u00b7  2026", S("tp4", fontName="Head-Reg", fontSize=10,
-                                                   leading=16, textColor=MUTED)),
-        Spacer(1, 34),
-        Paragraph("HOW THIS BOOK IS ORGANIZED", S("tg", fontName="Head", fontSize=7.6,
-                                                   leading=11, textColor=ACCENT)),
-        Spacer(1, 7),
-        Paragraph(
-            "Part I  ·  Cells and techniques: microscopy, the cytoplasm, the nucleus<br/>"
-            "Part II  ·  The four basic tissues: epithelium, connective tissue, adipose, cartilage, bone, nerve, muscle<br/>"
-            "Part III  ·  Transport, defense, and blood: circulation, blood, hemopoiesis, immunity<br/>"
-            "Part IV  ·  Digestion and respiration: gut, associated organs, respiratory system, skin<br/>"
-            "Part V  ·  Excretion and reproduction: urinary system, endocrine glands, male and female reproductive systems, eye and ear<br/>"
-            "Part VI  ·  Rapid review, master tables, stains, vocabulary, and sources<br/>"
-            "Part VII  ·  One hundred examination questions with explained answers",
-            S("tgl", fontName="Head-Reg", fontSize=8.3, leading=13.2, textColor=INK)),
-        Spacer(1, 120),
-        Paragraph(imprint, S("imp", fontName="Head-Reg", fontSize=8, leading=11.5,
-                             textColor=MUTED, alignment=TA_JUSTIFY)),
         PageBreak(),
         Spacer(1, 2),
         Paragraph("Contents", S("toctitle", fontName="Head", fontSize=20, leading=25,

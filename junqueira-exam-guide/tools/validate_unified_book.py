@@ -19,7 +19,7 @@ assert len(re.findall(r"(?m)^### "+re.escape(marker)+r"$",whole))==23
 quick=re.findall(r"(?m)^### Quick notes — understand in 90 seconds$",whole)
 assert len(quick)==23,("Missing brief study notes",len(quick))
 inline_images=re.findall(r"(?m)^!\[[^\]]+\]\(build/atlas/[^)]+\.png\)$",whole)
-assert len(inline_images)==24,("Expected twelve repeated original visual anchors and twelve atlas plates",len(inline_images))
+assert len(inline_images)==12,("Twelve original diagrams should appear only once beside the lessons",len(inline_images))
 
 for chapter in range(1,24):
     start=whole.find(f"## {chapter} ·")
