@@ -17,7 +17,7 @@ with pymupdf.open(PDF) as pdf:
     assert 145 <= n <= 205, f"Unexpectedly long/short study edition: {n} pages"
     assert pages[1].strip().startswith("Contents"), "The single cover must be followed by navigation"
     assert "A Learning Text" not in "\n".join(pages[:3]), "Outdated second title page"
-    chapters = [x for x in pdf.get_toc() if re.match(r"^\\d{1,2}\\s*·", x[1])]
+    chapters = [x for x in pdf.get_toc() if re.match(r"^\d{1,2}\s*·", x[1])]
     assert len(chapters) == 24, f"Expected 23 reference chapters + review: {len(chapters)}"
     assert chapters[0][2] <= 6, "The first real lesson is too far after the cover"
     assert len(pdf.get_toc()) >= 38, "Chapter navigation incomplete"
