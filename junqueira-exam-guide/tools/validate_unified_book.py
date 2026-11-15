@@ -46,7 +46,7 @@ base=ROOT/"Basic_Histology_Learning_Text"
 with pymupdf.open(base.with_suffix(".pdf")) as pdf:
     text="\n".join(page.get_text() for page in pdf)
     assert len(re.findall(r"Integrative practice:\s*reason from the specimen",text))==23
-    assert len(pdf.get_toc())>=45
+    assert len(pdf.get_toc())>=38  # all chapters and parts retained after shortening front matter
     reject_old(text,"PDF")
 doc=Document(base.with_suffix(".docx"))
 doc_headings=[p.text for p in doc.paragraphs if p.text.startswith(marker)]
