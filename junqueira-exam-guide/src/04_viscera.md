@@ -7,6 +7,15 @@
 **In this chapter:** General Structure of the Digestive Tract · Oral Cavity · Esophagus · Stomach · Small Intestine · Large Intestine
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 15 original concept map: Gut wall + regions; branches for Wall layers, Esophagus, Stomach, Small intestine, Duodenum / ileum, Colon](build/mindmaps/chapter_15.png)
+
+**Two pathways to remember**
+
+- **Composition:** GI wall → mucosa → submucosa → muscularis externa → serosa/adventitia
+- **Progression:** Small intestine → duodenum (Brunner) / jejunum / ileum (Peyer)
+
 ### Quick notes — understand in 90 seconds
 
 - Most GI segments have **mucosa, submucosa, muscularis externa, outer serosa/adventitia**.
@@ -239,6 +248,15 @@ Walk the gut from esophagus to anal canal on the sections available. At each lev
 **In this chapter:** Salivary Glands · Pancreas · Liver · Biliary Tract & Gallbladder
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 16 original concept map: Liver + pancreas; branches for Liver, Portal region, Bile direction, Pancreas, Salivary glands, Gallbladder](build/mindmaps/chapter_16.png)
+
+**Two pathways to remember**
+
+- **Composition:** Liver lobule → portal blood → sinusoids → central vein
+- **Progression:** Pancreas → exocrine acini + endocrine islets
+
 ### Quick notes — understand in 90 seconds
 
 - **Liver:** hepatic plates and sinusoids between portal areas and central veins.
@@ -390,6 +408,15 @@ In the gallbladder, note the folded mucosa and muscle bundles with no muscularis
 
 **In this chapter:** Nasal Cavities · Pharynx · Larynx · Trachea · Bronchial Tree & Lung · Lung Vasculature & Nerves · Pleural Membranes · Respiratory Movements
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 17 original concept map: Conducting + gas exchange; branches for Trachea, Bronchi, Bronchioles, Gas exchange, Alveolar cells, Defense](build/mindmaps/chapter_17.png)
+
+**Two pathways to remember**
+
+- **Composition:** Airway → trachea → bronchus → bronchiole → respiratory bronchiole → alveolus
+- **Progression:** Alveolar lining → type I (exchange) + type II (surfactant)
 
 ### Quick notes — understand in 90 seconds
 
@@ -552,6 +579,15 @@ Follow the airway from trachea to alveolus. At each level, record the epithelium
 
 **In this chapter:** Epidermis · Dermis · Subcutaneous Tissue · Sensory Receptors · Hair · Nails · Skin Glands · Skin Repair
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 18 original concept map: Epidermis + dermis; branches for Epidermis, Dermis, Thick skin, Thin skin, Special cells, Appendages](build/mindmaps/chapter_18.png)
+
+**Two pathways to remember**
+
+- **Composition:** Skin → epidermis + dermis + subcutaneous tissue
+- **Progression:** Epidermis deep → basal → spinous → granular → corneum (lucidum in thick skin)
 
 ### Quick notes — understand in 90 seconds
 

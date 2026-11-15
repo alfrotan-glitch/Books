@@ -7,6 +7,15 @@
 **In this chapter:** Kidneys · Blood Circulation · Renal Function: Filtration, Secretion, & Reabsorption · Ureters, Bladder, & Urethra
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 19 original concept map: Nephron + collecting system; branches for Corpuscle, PCT, Loop of Henle, DCT, Collecting ducts, Outflow](build/mindmaps/chapter_19.png)
+
+**Two pathways to remember**
+
+- **Composition:** Nephron → renal corpuscle → PCT → loop → DCT → collecting system
+- **Progression:** Filtration barrier → fenestrated endothelium + GBM + podocyte slit diaphragm
+
 ### Quick notes — understand in 90 seconds
 
 - **Renal corpuscle:** glomerular capillary tuft within Bowman's capsule.
@@ -175,6 +184,15 @@ In the cortex, distinguish proximal from distal convoluted tubules by cytoplasm,
 
 **In this chapter:** Pituitary Gland (Hypophysis) · Adrenal Glands · Pancreatic Islets · Diffuse Neuroendocrine System · Thyroid Gland · Parathyroid Glands · Pineal Gland
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 20 original concept map: Endocrine signals; branches for Pituitary, Thyroid, Parathyroid, Adrenal cortex, Adrenal medulla, Pancreatic islets](build/mindmaps/chapter_20.png)
+
+**Two pathways to remember**
+
+- **Composition:** Endocrine tissue → follicles (thyroid) / cords (parathyroid) / zones (adrenal)
+- **Progression:** Adrenal cortex → glomerulosa (aldosterone) → fasciculata (cortisol) → reticularis (androgens)
 
 ### Quick notes — understand in 90 seconds
 
@@ -347,6 +365,15 @@ Compare the endocrine patterns: cords (pituitary, adrenal, parathyroid), follicl
 **In this chapter:** Testes · Intratesticular Ducts · Excretory Genital Ducts · Accessory Glands · Penis
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 21 original concept map: Sperm production + transport; branches for Seminiferous tubules, Sertoli cells, Leydig cells, Spermatogenesis, Epididymis, Excurrent ducts](build/mindmaps/chapter_21.png)
+
+**Two pathways to remember**
+
+- **Composition:** Spermatogenesis → spermatogonia → primary spermatocytes → spermatids → spermatozoa
+- **Progression:** Testis → epididymis → vas deferens → urethra
+
 ### Quick notes — understand in 90 seconds
 
 - **Seminiferous tubules:** layers of developing germ cells around Sertoli cells.
@@ -498,6 +525,15 @@ In the testis, identify seminiferous tubules, Sertoli cells, germ cells at each 
 
 **In this chapter:** Ovaries · Uterine Tubes · Major Events of Fertilization · Uterus · Embryonic Implantation, Decidua, & the Placenta · Cervix · Vagina · External Genitalia · Mammary Glands
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 22 original concept map: Follicle + uterine cycle; branches for Ovarian follicle, Antral stage, Ovulation, Corpus luteum, Uterus, Other organs](build/mindmaps/chapter_22.png)
+
+**Two pathways to remember**
+
+- **Composition:** Follicle → primordial → primary → antral → ovulation → corpus luteum
+- **Progression:** Uterine cycle → menstrual → proliferative → secretory
 
 ### Quick notes — understand in 90 seconds
 
@@ -722,6 +758,15 @@ In the ovary, stage the cycle by the dominant follicle or corpus luteum; identif
 
 **In this chapter:** Eyes: The Photoreceptor System · Ears: The Vestibuloauditory System
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 23 original concept map: Special sensory histology; branches for Retina, Rods, Cones, Cornea, Cochlea, Vestibular system](build/mindmaps/chapter_23.png)
+
+**Two pathways to remember**
+
+- **Composition:** Retina → pigment epithelium → rods/cones → bipolar cells → ganglion cells
+- **Progression:** Inner ear → cochlea (hearing) + vestibular organs (balance)
 
 ### Quick notes — understand in 90 seconds
 

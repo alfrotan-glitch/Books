@@ -7,6 +7,15 @@
 **In this chapter:** Heart · Tissues of the Vascular Wall · Vasculature · Lymphatic Vascular System
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 11 original concept map: Heart + vessels; branches for Heart layers, Arteries, Veins, Capillaries, Tunics, Lymphatics](build/mindmaps/chapter_11.png)
+
+**Two pathways to remember**
+
+- **Composition:** Vessel wall → tunica intima → media → adventitia
+- **Progression:** Microcirculation → arterioles → capillaries → venules
+
 ### Quick notes — understand in 90 seconds
 
 - Blood vessels have **tunica intima, media, and adventitia** (with variations in small vessels).
@@ -163,6 +172,15 @@ In a capillary bed, classify the endothelium as continuous, fenestrated or sinus
 **In this chapter:** Composition of Plasma · Blood Cells
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 12 original concept map: Plasma + cells; branches for Erythrocytes, Granulocytes, Agranulocytes, Platelets, Plasma, Smear ID](build/mindmaps/chapter_12.png)
+
+**Two pathways to remember**
+
+- **Composition:** Blood → plasma + formed elements → RBC + WBC + platelets
+- **Progression:** WBC → granulocytes (neutro/eosino/baso) + agranulocytes (lympho/mono)
+
 ### Quick notes — understand in 90 seconds
 
 - **Erythrocyte:** anucleate, biconcave oxygen-transporting cell in humans.
@@ -308,6 +326,15 @@ Perform a differential count and explain what each cell does.
 **In this chapter:** Stem Cells, Growth Factors, & Differentiation · Bone Marrow · Maturation of Erythrocytes · Maturation of Granulocytes · Maturation of Agranulocytes · Origin of Platelets
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 13 original concept map: Blood cell production; branches for Stem cells, Early sites, Myeloid lines, Lymphoid line, Erythropoiesis, Megakaryocytes](build/mindmaps/chapter_13.png)
+
+**Two pathways to remember**
+
+- **Composition:** HSC → myeloid progenitors + lymphoid progenitors → mature blood cells
+- **Progression:** Erythroid maturation → erythroblast → nucleus expelled → reticulocyte → erythrocyte
+
 ### Quick notes — understand in 90 seconds
 
 - **Red bone marrow** contains active developing blood cells, sinusoids and stromal support.
@@ -443,6 +470,15 @@ In a marrow smear, identify the erythroid series by its round nucleus, progressi
 
 **In this chapter:** Innate & Adaptive Immunity · Cytokines · Antigens & Antibodies · Antigen Presentation · Cells of Adaptive Immunity · Thymus · Mucosa-Associated Lymphoid Tissue · Lymph Nodes · Spleen
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 14 original concept map: Immune surveillance; branches for Thymus, Lymph node, Spleen, MALT, Immune cells, Organization](build/mindmaps/chapter_14.png)
+
+**Two pathways to remember**
+
+- **Composition:** Lymphoid organs → thymus (maturation) / nodes (lymph) / spleen (blood)
+- **Progression:** Adaptive response → APCs present antigen → T cells / B cells respond
 
 ### Quick notes — understand in 90 seconds
 

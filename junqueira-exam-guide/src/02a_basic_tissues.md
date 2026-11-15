@@ -7,6 +7,15 @@
 **In this chapter:** Characteristic Features of Epithelial Cells · Specializations of the Apical Cell Surface · Types of Epithelia · Transport Across Epithelia · Renewal of Epithelial Cells
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 4 original concept map: Epithelium; branches for Core features, Cell layers, Cell shapes, Apical structures, Connections, Functions](build/mindmaps/chapter_04.png)
+
+**Two pathways to remember**
+
+- **Composition:** Epithelium → layer count + surface cell shape → specific type
+- **Progression:** Apical specializations → microvillus (actin) / motile cilium (9+2) / primary cilium (usually 9+0)
+
 ### Quick notes — understand in 90 seconds
 
 - **Epithelium:** closely packed polarized cells on a basal lamina; usually avascular.
@@ -218,6 +227,15 @@ In a gland, decide whether the secretory unit is serous, mucous or mixed, and wh
 **In this chapter:** Cells of Connective Tissue · Fibers · Ground Substance · Types of Connective Tissue
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 5 original concept map: Cells + ECM; branches for Resident cells, Immune cells, Collagen, Other fibers, Ground substance, Tissue patterns](build/mindmaps/chapter_05.png)
+
+**Two pathways to remember**
+
+- **Composition:** Connective tissue → cells + extracellular matrix → fibers + ground substance
+- **Progression:** ECM fibers → collagen (tension) / elastic (recoil) / reticular (support)
+
 ### Quick notes — understand in 90 seconds
 
 - **Connective tissue = cells + fibers + ground substance**; unlike epithelium, ECM is abundant.
@@ -369,6 +387,15 @@ Distinguish loose from dense irregular and dense regular tissue by fiber orienta
 
 **In this chapter:** White Adipose Tissue · Brown Adipose Tissue
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 6 original concept map: Adipocytes; branches for White fat, Brown fat, Energy, Thermogenesis, Endocrine, Microscopy](build/mindmaps/chapter_06.png)
+
+**Two pathways to remember**
+
+- **Composition:** Adipose tissue → white (unilocular) + brown (multilocular)
+- **Progression:** Brown adipocyte → mitochondria + UCP1 → heat production
 
 ### Quick notes — understand in 90 seconds
 

@@ -5,6 +5,15 @@
 **In this chapter:** Hyaline Cartilage · Elastic Cartilage · Fibrocartilage · Cartilage Formation, Growth, & Repair
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 7 original concept map: Cartilage matrix; branches for Cells, Hyaline, Elastic, Fibrocartilage, Perichondrium, Nutrition](build/mindmaps/chapter_07.png)
+
+**Two pathways to remember**
+
+- **Composition:** Cartilage → cells in lacunae + hydrated ECM
+- **Progression:** Cartilage types → hyaline / elastic / fibrocartilage
+
 ### Quick notes — understand in 90 seconds
 
 - Cartilage has **chondrocytes in lacunae** and a hydrated, largely avascular ECM.
@@ -151,6 +160,15 @@ Compare hyaline, elastic and fibrocartilage in one session. Hyaline has a glassy
 
 **In this chapter:** Bone Cells · Bone Matrix · Periosteum & Endosteum · Types of Bone · Osteogenesis · Bone Remodeling & Repair · Metabolic Role of Bone · Joints
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 8 original concept map: Mineralized matrix; branches for Formation, Maintenance, Resorption, Compact bone, Spongy bone, Development](build/mindmaps/chapter_08.png)
+
+**Two pathways to remember**
+
+- **Composition:** Bone cells → osteoblast (build) → osteocyte (embedded) / osteoclast (resorb)
+- **Progression:** Compact bone → osteon → central canal + lamellae + lacunae
 
 ### Quick notes — understand in 90 seconds
 
@@ -316,6 +334,15 @@ In a ground or decalcified section, find osteons (concentric lamellae around a c
 **In this chapter:** Development of Nerve Tissue · Neurons · Glial Cells & Neuronal Activity · Central Nervous System · Peripheral Nervous System · Neural Plasticity & Regeneration
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 9 original concept map: Neurons + glia; branches for Neuron, CNS glia, Microglia, PNS glia, Communication, Protection](build/mindmaps/chapter_09.png)
+
+**Two pathways to remember**
+
+- **Composition:** Nervous tissue → neurons (signaling) + glia (support, myelin, defense)
+- **Progression:** Myelin → CNS: oligodendrocyte / PNS: Schwann cell
+
 ### Quick notes — understand in 90 seconds
 
 - **Neuron:** soma, dendrites, axon; receives and transmits electrical signals.
@@ -463,6 +490,15 @@ In a nerve trunk, find the myelin sheath, node of Ranvier, endoneurium, perineur
 
 **In this chapter:** Skeletal Muscle · Cardiac Muscle · Smooth Muscle · Regeneration of Muscle Tissue
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 10 original concept map: Contractile cells; branches for Skeletal, Cardiac, Smooth, Sarcomere, Regulation, Function](build/mindmaps/chapter_10.png)
+
+**Two pathways to remember**
+
+- **Composition:** Muscle → skeletal / cardiac / smooth
+- **Progression:** Sarcomere → actin + myosin → sliding → shortening (A band constant)
 
 ### Quick notes — understand in 90 seconds
 
