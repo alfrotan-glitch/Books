@@ -27,7 +27,7 @@ with pymupdf.open(ROOT / f"{STEM}.pdf") as pdf:
     pdf_info = {"page_count": len(pdf), "outline_entries": len(pdf.get_toc())}
 
 manifest = {
-    "title": "Basic Histology: A Learning Text",
+    "title": "Basic Histology: Smart Study Notes",
     "edition": "First edition (2026)",
     "git_commit": os.environ.get("GITHUB_SHA", "not_provided"),
     "generated_utc": datetime.now(timezone.utc).isoformat(),
