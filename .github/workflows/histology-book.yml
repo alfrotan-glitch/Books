@@ -24,6 +24,7 @@ on:
       - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
       - 'junqueira-exam-guide/tools/validate_publication_usability.py'
       - 'junqueira-exam-guide/tools/validate_unified_book.py'
+      - 'junqueira-exam-guide/tools/validate_reader_experience.py'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
@@ -45,6 +46,7 @@ on:
       - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
       - 'junqueira-exam-guide/tools/validate_publication_usability.py'
       - 'junqueira-exam-guide/tools/validate_unified_book.py'
+      - 'junqueira-exam-guide/tools/validate_reader_experience.py'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - '.github/workflows/histology-book.yml'
   workflow_dispatch:
@@ -82,6 +84,7 @@ jobs:
           python tools/release_smoke_test.py
           python tools/validate_publication_usability.py
           python tools/validate_unified_book.py
+          python tools/validate_reader_experience.py
       - name: Validate medicine and surgery exam scope in four formats
         run: python tools/validate_specialty_exam_scope.py
       - uses: actions/setup-java@v4
