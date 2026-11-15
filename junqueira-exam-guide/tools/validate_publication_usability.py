@@ -34,7 +34,7 @@ with fitz.open(PDF) as pdf:
     assert len(contents_pages) == 1, f"Unexpected contents pages: {len(contents_pages)}"
     contents_index, contents_text = contents_pages[0]
     assert contents_index <= 4, "TOC not near the front matter"
-    assert "Scoring and What to Do Next" in contents_text, (
+    assert "After the Practice Examination" in contents_text, (
         "PDF contents spill over into an isolated extra page"
     )
     annotations = [link for page in pdf for link in page.get_links()]
