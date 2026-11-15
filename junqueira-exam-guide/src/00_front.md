@@ -4,17 +4,17 @@
 
 **Histology explains how microscopic structure makes an organ work.** Learn to recognize a tissue, explain why it has its structure, and distinguish it from its closest look-alike. These notes follow the 23 chapters of **Junqueira's Basic Histology: Text & Atlas, 17th edition**. They make the reference easier to study; for the complete atlas and finer details, use the corresponding Junqueira chapter.
 
-Each chapter starts with **Quick notes**: the essentials, a comparison, one memory cue and a question. A clear explanation follows. At the end, test yourself using the chapter summary, recall questions, a worked examination question and a specimen-identification task. **Students and teachers use the same book.**
+Each chapter opens with a **concept map**: the central idea leads to six branches with two key facts each. Read the two arrow pathways, then the **Quick notes**: essentials, a comparison, a memory cue and a recall question. A clear explanation follows. At the end, test yourself using the chapter summary, recall questions, a worked examination question and a specimen-identification task. **Students and teachers use the same book.**
 
 ### The five-step method
 
-1. **Preview:** Read the Quick notes. Name one topic you already understand and one you do not.
+1. **Preview:** Trace the mind map from center to branches, then read the Quick notes. Name one topic you already understand and one you cannot yet explain.
 2. **Understand:** Read the explanation in small sections. Link each structure to **location, appearance and function**.
 3. **Recognize:** Look at the diagram and then a real microscope image. Identify **two visible landmarks** and one plausible look-alike.
 4. **Recall:** Close the page. Reconstruct the main idea, answer the questions and explain why a tempting wrong answer is wrong.
 5. **Return:** Test yourself again after roughly **1, 3, 7, 14 and 30 days**. Shorten the interval for anything forgotten. Keep a small error log instead of rereading the whole chapter.
 
-**For teachers:** Begin with the Quick notes, demonstrate the structure, ask students to distinguish two tissues, and end with a closed-book explanation and the chapter's worked question. No separate instructor manual is needed.
+**For teachers:** Start with the mind map, explain each branch with the Quick notes, demonstrate its histological landmarks, compare two similar tissues and finish with closed-book recall and the chapter's worked question. No separate instructor manual is needed.
 
 ### Five questions for an unfamiliar slide
 
@@ -42,4 +42,4 @@ Chapter 24 is an optional rapid review, not an additional assigned Junqueira cha
 
 **Primary reference:** Mescher AL. *Junqueira's Basic Histology: Text & Atlas*. 17th ed. McGraw Hill; 2024. Chapters 1–23 follow the same numbered subjects. Use the reference's atlas or the viewing-only slide links in Appendix E for genuine microscopic appearances.
 
-The twelve **original schematic drawings are printed once, beside their lessons**. They are not H&E photographs and are not drawn to scale. Appendix D provides a short directory to the drawings. Appendix C lists further scientific reading.
+The **23 original concept maps and 12 original tissue schematics** appear within the relevant chapters. They organize ideas and illustrate structures; they are not H&E photographs or scale drawings. Appendix D indexes the twelve tissue schematics. Appendix C lists further scientific reading.
