@@ -23,7 +23,7 @@ assert len(inline_images)==12,("Twelve histology drawings should each appear onc
 mindmap_images=re.findall(r"(?m)^!\[[^\]]+\]\(build/mindmaps/chapter_\d{2}\.png\)$",whole)
 assert len(mindmap_images)==23,("Each of the 23 chapters needs its own visual concept map",len(mindmap_images))
 assert len(re.findall(r"(?m)^### Chapter mind map — see the whole first$",whole))==23
-assert len(re.findall(r"(?m)^\\*\\*Two pathways to remember\\*\\*$",whole))==23
+assert len(re.findall(r"(?m)^\*\*Two pathways to remember\*\*$",whole))==23
 
 for chapter in range(1,24):
     start=whole.find(f"## {chapter} ·")
