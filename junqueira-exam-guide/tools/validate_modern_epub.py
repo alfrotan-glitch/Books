@@ -78,7 +78,7 @@ def main():
         assert numbers == set(range(1, 25)), (
             f"Missing or duplicated major chapter number: {sorted(numbers)}"
         )
-        assert len(figures) == 12, f"Expected exactly twelve schematics, one per relevant chapter topic: {len(figures)}"
+        assert len(figures) == 35, f"Expected 23 chapter mind maps and 12 histology plates, got {len(figures)}"
         assert all(id for _, id in figures), "Illustration needs an internal anchor"
         assert all_tables >= 75, f"Only {all_tables} accessible comparison tables found"
         assert note_count >= 20, "Semantic teaching callouts appear missing"
@@ -95,7 +95,7 @@ def main():
                 break
         assert illustration_nav is not None, "Illustration navigation is missing"
         figlinks = illustration_nav.findall(".//x:a", N)
-        assert len(figlinks) == 12, f"Expected twelve working illustration links: {len(figlinks)}"
+        assert len(figlinks) == 35, f"Expected 35 illustration navigation links, got {len(figlinks)}"
         image_targets = {p + "#" + ident for p, ident in figures}
         assert {unquote(a.get("href", "")) for a in figlinks} == image_targets, (
             "Illustration list links are not matched to illustration anchors"
@@ -106,7 +106,7 @@ def main():
         assert not any("http" in x and x.endswith(".css") for x in files)
         print(f"Modern EPUB PASS: {len(docs)} reflow sections, 24 numbered chapters, "
               f"{all_tables} scrollable tables, {note_count} styled learning notes, "
-              "twelve illustrated jump links, ebook-safe metadata and styling.")
+              "thirty-five illustrated jump links, ebook-safe metadata and styling.")
 
 
 if __name__ == "__main__":

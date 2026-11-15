@@ -26,7 +26,7 @@ assert len(pdf.get_toc()) >= 20, "Missing PDF bookmarks"
 atlas_sources = sorted((ROOT / "build" / "atlas").glob("*.png"))
 assert len(atlas_sources) == 12, f"Expected nine original atlas plates, got {len(atlas_sources)}"
 pdf_images = sum(len(page.get_images(full=True)) for page in pdf)
-assert pdf_images >= 12, f"Only {pdf_images} embedded PDF images; schematic atlas appears incomplete"
+assert pdf_images >= 35, f"Only {pdf_images} diagrams; expected twelve microscopy schematics plus twenty-three chapter concept maps"
 out_of_page = []
 broken_glyphs = []
 for number, page in enumerate(pdf, start=1):
@@ -47,7 +47,7 @@ print(f"PDF PASS: {len(pdf)} pages, {len(pdf.get_toc())} bookmarks")
 doc = Document(EXPECTED[".docx"])
 assert len(doc.paragraphs) >= 100, "DOCX appears incomplete"
 assert len(doc.tables) >= 10, "DOCX tables missing"
-assert len(doc.inline_shapes) >= 12, f"DOCX atlas incomplete: {len(doc.inline_shapes)} inline images"
+assert len(doc.inline_shapes) >= 35, f"DOCX image count low: {len(doc.inline_shapes)}; expected 23 mind maps and 12 original schematics"
 assert any(p.paragraph_format.page_break_before for p in doc.paragraphs
            if p.style.name == "Heading 1" and p.text.startswith("PART VII")), (
     "DOCX Part VII must open on a new page"
@@ -65,7 +65,7 @@ assert len(html) >= 50000, "HTML unexpectedly small"
 assert "max-width:100%" in html or "max-width: 100%" in html, "Responsive image CSS missing"
 assert "overflow-x:auto" in html or "overflow-x: auto" in html, "Mobile table scrolling CSS missing"
 html_plates = len(re.findall(r"<img\b", html, flags=re.I))
-assert html_plates >= 12, f"HTML atlas incomplete: {html_plates} images"
+assert html_plates >= 35, f"HTML figure count low: {html_plates}; expected 23 mind maps and 12 original schematics"
 print(f"HTML PASS: {len(html)} characters")
 
 with ZipFile(EXPECTED[".epub"]) as z:
@@ -75,7 +75,7 @@ with ZipFile(EXPECTED[".epub"]) as z:
     assert any(name.endswith(".xhtml") for name in names), "EPUB reading content missing"
     assert z.testzip() is None, "Corrupt EPUB archive member"
     epub_images = [name for name in names if name.lower().endswith(".png")]
-    assert len(epub_images) >= 13, f"EPUB atlas/cover images missing: {epub_images}"
+    assert len(epub_images) >= 36, f"EPUB should have 35 teaching diagrams plus the cover: {len(epub_images)}"
 print(f"EPUB PASS: {len(names)} archive members")
-print("Twelve original schematic atlas plates present in PDF, DOCX, HTML and EPUB.")
+print("Thirty-five original schematics verified: 23 chapter mind maps and 12 tissue diagrams in all four formats.")
 print("Structural checks passed; scientific and visual release checks remain separate.")

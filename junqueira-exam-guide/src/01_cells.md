@@ -7,6 +7,15 @@
 **In this chapter:** Preparation of Tissues for Study · Light Microscopy · Electron Microscopy · Autoradiography · Cell & Tissue Culture · Enzyme Histochemistry · Visualizing Specific Molecules · Interpretation of Structures in Tissue Sections
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 1 original concept map: Tissue = Cells + ECM; branches for Tissue structure, Microscopes, H&E, Processing, Special methods, Interpretation](build/mindmaps/chapter_01.png)
+
+**Two pathways to remember**
+
+- **Composition:** Tissue → Cells + Extracellular Matrix → ECM fibers + ground substance
+- **Progression:** Specimen → fixation → embedding → sectioning → staining → interpretation
+
 ### Quick notes — understand in 90 seconds
 
 - **Histology** studies cells, extracellular matrix (ECM), and how tissues form functioning organs.
@@ -228,6 +237,15 @@ If phase-contrast, fluorescence or confocal images are available, compare what e
 **In this chapter:** Cell Differentiation · The Plasma Membrane · Cytoplasmic Organelles · The Cytoskeleton · Inclusions
 
 
+### Chapter mind map — see the whole first
+
+![Chapter 2 original concept map: Cell organization; branches for Cell boundary, Cytoplasm, Protein pathway, Energy & lipids, Recycling, Surface structures](build/mindmaps/chapter_02.png)
+
+**Two pathways to remember**
+
+- **Composition:** Cell → plasma membrane + cytoplasm + genetic compartment (most human cells)
+- **Progression:** Secreted protein → rough ER → Golgi → vesicle → cell surface
+
 ### Quick notes — understand in 90 seconds
 
 - **Rough ER + ribosomes:** production of secreted and membrane proteins; abundant in plasma cells.
@@ -370,7 +388,7 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment).
 
-On a light micrograph, use basophilia to locate rough ER and eosinophilia to locate mitochondria and secretory granules, and justify each assignment from the chemistry of the dyes.
+On H&E, ribosome-rich cytoplasm is basophilic; many protein-rich regions are eosinophilic.
 
 ## 3 · The Nucleus
 
@@ -378,6 +396,15 @@ On a light micrograph, use basophilia to locate rough ER and eosinophilia to loc
 
 **In this chapter:** Components of the Nucleus · The Cell Cycle · Mitosis · Stem Cells & Tissue Renewal · Meiosis · Apoptosis
 
+
+### Chapter mind map — see the whole first
+
+![Chapter 3 original concept map: Nuclear function; branches for Envelope, Chromatin, Nucleolus, Cell cycle, Mitosis, Cell death](build/mindmaps/chapter_03.png)
+
+**Two pathways to remember**
+
+- **Composition:** Nucleus → envelope + chromatin + nucleolus
+- **Progression:** Cell cycle → G1 → S (DNA copied) → G2 → M (segregation)
 
 ### Quick notes — understand in 90 seconds
 

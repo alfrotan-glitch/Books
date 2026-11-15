@@ -1,0 +1,922 @@
+{
+  "1": {
+    "title": "Histology & Its Methods",
+    "root": "Tissue = Cells + ECM",
+    "branches": [
+      [
+        "Tissue structure",
+        "Cells: living units",
+        "ECM: fibers + ground substance"
+      ],
+      [
+        "Microscopes",
+        "Light: tissue organization",
+        "Electron: ultrastructure"
+      ],
+      [
+        "H&E",
+        "Hematoxylin: nuclei",
+        "Eosin: proteins / cytoplasm"
+      ],
+      [
+        "Processing",
+        "Fix → embed → section",
+        "Stain → inspect"
+      ],
+      [
+        "Special methods",
+        "PAS: carbohydrates",
+        "IHC: selected antigens"
+      ],
+      [
+        "Interpretation",
+        "Section + orientation",
+        "Look for artifacts"
+      ]
+    ],
+    "chains": [
+      "Tissue → Cells + Extracellular Matrix → ECM fibers + ground substance",
+      "Specimen → fixation → embedding → sectioning → staining → interpretation"
+    ]
+  },
+  "2": {
+    "title": "Cytoplasm & Cell Organization",
+    "root": "Cell organization",
+    "branches": [
+      [
+        "Cell boundary",
+        "Plasma membrane",
+        "Selective transport + signals"
+      ],
+      [
+        "Cytoplasm",
+        "Cytosol + organelles",
+        "Inclusions: stored material"
+      ],
+      [
+        "Protein pathway",
+        "Ribosomes / rough ER",
+        "Golgi → secretion"
+      ],
+      [
+        "Energy & lipids",
+        "Mitochondria: ATP",
+        "Smooth ER: lipids"
+      ],
+      [
+        "Recycling",
+        "Lysosomes: digestion",
+        "Proteasomes: proteins"
+      ],
+      [
+        "Surface structures",
+        "Microvilli: actin",
+        "Cilia: microtubules"
+      ]
+    ],
+    "chains": [
+      "Cell → plasma membrane + cytoplasm + genetic compartment (most human cells)",
+      "Secreted protein → rough ER → Golgi → vesicle → cell surface"
+    ]
+  },
+  "3": {
+    "title": "Nucleus & Cell Cycle",
+    "root": "Nuclear function",
+    "branches": [
+      [
+        "Envelope",
+        "Double membrane",
+        "Pores: molecular traffic"
+      ],
+      [
+        "Chromatin",
+        "Eu: less condensed",
+        "Hetero: condensed"
+      ],
+      [
+        "Nucleolus",
+        "rRNA formation",
+        "Ribosomal subunits"
+      ],
+      [
+        "Cell cycle",
+        "G1 → S → G2",
+        "M: division"
+      ],
+      [
+        "Mitosis",
+        "Chromosomes align",
+        "Chromatids separate"
+      ],
+      [
+        "Cell death",
+        "Apoptosis: controlled",
+        "Necrosis: membrane loss"
+      ]
+    ],
+    "chains": [
+      "Nucleus → envelope + chromatin + nucleolus",
+      "Cell cycle → G1 → S (DNA copied) → G2 → M (segregation)"
+    ]
+  },
+  "4": {
+    "title": "Epithelial Tissue",
+    "root": "Epithelium",
+    "branches": [
+      [
+        "Core features",
+        "Polar + tightly packed",
+        "Avascular; basal lamina"
+      ],
+      [
+        "Cell layers",
+        "Simple / stratified",
+        "Pseudo: all touch base"
+      ],
+      [
+        "Cell shapes",
+        "Squamous / cuboidal",
+        "Columnar / urothelium"
+      ],
+      [
+        "Apical structures",
+        "Microvilli: actin",
+        "Cilia: microtubules"
+      ],
+      [
+        "Connections",
+        "Tight / adherens",
+        "Desmosome / gap"
+      ],
+      [
+        "Functions",
+        "Protect + absorb",
+        "Secrete + transport"
+      ]
+    ],
+    "chains": [
+      "Epithelium → layer count + surface cell shape → specific type",
+      "Apical specializations → microvillus (actin) / motile cilium (9+2) / primary cilium (usually 9+0)"
+    ]
+  },
+  "5": {
+    "title": "Connective Tissue",
+    "root": "Cells + ECM",
+    "branches": [
+      [
+        "Resident cells",
+        "Fibroblasts: matrix",
+        "Adipocytes: storage"
+      ],
+      [
+        "Immune cells",
+        "Macrophages: defense",
+        "Mast / plasma cells"
+      ],
+      [
+        "Collagen",
+        "Type I: strength",
+        "Type III: reticular"
+      ],
+      [
+        "Elastic / network",
+        "Elastic fibers: recoil",
+        "Type IV: basal lamina"
+      ],
+      [
+        "Ground substance",
+        "GAGs / proteoglycans",
+        "Hydration + diffusion"
+      ],
+      [
+        "Tissue patterns",
+        "Loose: open matrix",
+        "Dense: compact fibers"
+      ]
+    ],
+    "chains": [
+      "Connective tissue → cells + extracellular matrix → fibers + ground substance",
+      "ECM fibers → collagen (tension) / elastic (recoil) / reticular (support)"
+    ]
+  },
+  "6": {
+    "title": "Adipose Tissue",
+    "root": "Adipocytes",
+    "branches": [
+      [
+        "White fat",
+        "One large droplet",
+        "Peripheral nucleus"
+      ],
+      [
+        "Brown fat",
+        "Multiple droplets",
+        "Mitochondria / UCP1"
+      ],
+      [
+        "Energy",
+        "Store triglycerides",
+        "Mobilize fatty acids"
+      ],
+      [
+        "Thermogenesis",
+        "Brown fat: heat",
+        "Non-shivering"
+      ],
+      [
+        "Endocrine",
+        "Adipokines",
+        "Metabolic signals"
+      ],
+      [
+        "Microscopy",
+        "Empty-looking spaces",
+        "Lipid extracted in H&E"
+      ]
+    ],
+    "chains": [
+      "Adipose tissue → white (unilocular) + brown (multilocular)",
+      "Brown adipocyte → mitochondria + UCP1 → heat production"
+    ]
+  },
+  "7": {
+    "title": "Cartilage",
+    "root": "Cartilage matrix",
+    "branches": [
+      [
+        "Cells",
+        "Chondroblasts: produce",
+        "Chondrocytes: lacunae"
+      ],
+      [
+        "Hyaline",
+        "Type II collagen",
+        "Glassy matrix"
+      ],
+      [
+        "Elastic",
+        "Elastic fiber network",
+        "Flexible support"
+      ],
+      [
+        "Fibrocartilage",
+        "Coarse collagen",
+        "Rows of chondrocytes"
+      ],
+      [
+        "Perichondrium",
+        "Growth support",
+        "Absent in articular"
+      ],
+      [
+        "Nutrition",
+        "Avascular matrix",
+        "Diffusion to cells"
+      ]
+    ],
+    "chains": [
+      "Cartilage → cells in lacunae + hydrated ECM",
+      "Cartilage types → hyaline / elastic / fibrocartilage"
+    ]
+  },
+  "8": {
+    "title": "Bone",
+    "root": "Mineralized matrix",
+    "branches": [
+      [
+        "Formation",
+        "Osteoblasts",
+        "Osteoid: type I collagen"
+      ],
+      [
+        "Maintenance",
+        "Osteocytes: lacunae",
+        "Canaliculi: signals"
+      ],
+      [
+        "Resorption",
+        "Osteoclasts",
+        "Howship lacunae"
+      ],
+      [
+        "Compact bone",
+        "Osteons",
+        "Concentric lamellae"
+      ],
+      [
+        "Spongy bone",
+        "Trabeculae",
+        "Marrow spaces"
+      ],
+      [
+        "Development",
+        "Intramembranous",
+        "Endochondral routes"
+      ]
+    ],
+    "chains": [
+      "Bone cells → osteoblast (build) → osteocyte (embedded) / osteoclast (resorb)",
+      "Compact bone → osteon → central canal + lamellae + lacunae"
+    ]
+  },
+  "9": {
+    "title": "Nerve Tissue",
+    "root": "Neurons + glia",
+    "branches": [
+      [
+        "Neuron",
+        "Dendrites: receive",
+        "Axon: transmit"
+      ],
+      [
+        "CNS glia",
+        "Astrocytes: support",
+        "Oligodendrocytes: myelin"
+      ],
+      [
+        "Microglia",
+        "Resident immune cells",
+        "Embryonic yolk-sac origin"
+      ],
+      [
+        "PNS glia",
+        "Schwann: myelin",
+        "Satellite: ganglia"
+      ],
+      [
+        "Communication",
+        "Synapses",
+        "Neurotransmitters"
+      ],
+      [
+        "Protection",
+        "BBB + meninges",
+        "Blood–CSF interface"
+      ]
+    ],
+    "chains": [
+      "Nervous tissue → neurons (signaling) + glia (support, myelin, defense)",
+      "Myelin → CNS: oligodendrocyte / PNS: Schwann cell"
+    ]
+  },
+  "10": {
+    "title": "Muscle Tissue",
+    "root": "Contractile cells",
+    "branches": [
+      [
+        "Skeletal",
+        "Striated + voluntary",
+        "Peripheral multinuclei"
+      ],
+      [
+        "Cardiac",
+        "Striated + branched",
+        "Intercalated discs"
+      ],
+      [
+        "Smooth",
+        "No striations",
+        "Single central nucleus"
+      ],
+      [
+        "Sarcomere",
+        "Actin + myosin",
+        "Z disc → Z disc"
+      ],
+      [
+        "Regulation",
+        "Troponin: skeletal",
+        "Calmodulin: smooth"
+      ],
+      [
+        "Function",
+        "Force + movement",
+        "Pumping + motility"
+      ]
+    ],
+    "chains": [
+      "Muscle → skeletal / cardiac / smooth",
+      "Sarcomere → actin + myosin → sliding → shortening (A band constant)"
+    ]
+  },
+  "11": {
+    "title": "Circulatory System",
+    "root": "Heart + vessels",
+    "branches": [
+      [
+        "Heart layers",
+        "Endocardium",
+        "Myocardium / epicardium"
+      ],
+      [
+        "Arteries",
+        "Prominent media",
+        "Elastic / muscular"
+      ],
+      [
+        "Veins",
+        "Thin media",
+        "Adventitia often strong"
+      ],
+      [
+        "Capillaries",
+        "Endothelium + basal lamina",
+        "Exchange surface"
+      ],
+      [
+        "Tunics",
+        "Intima / media",
+        "Adventitia"
+      ],
+      [
+        "Lymphatics",
+        "Thin endothelial wall",
+        "Return tissue fluid"
+      ]
+    ],
+    "chains": [
+      "Vessel wall → tunica intima → media → adventitia",
+      "Microcirculation → arterioles → capillaries → venules"
+    ]
+  },
+  "12": {
+    "title": "Blood",
+    "root": "Plasma + cells",
+    "branches": [
+      [
+        "Erythrocytes",
+        "Biconcave; no nucleus",
+        "Oxygen carriage"
+      ],
+      [
+        "Granulocytes",
+        "Neutrophil: multilobed",
+        "Eosinophil / basophil"
+      ],
+      [
+        "Agranulocytes",
+        "Lymphocytes",
+        "Monocytes"
+      ],
+      [
+        "Platelets",
+        "Megakaryocyte fragments",
+        "Hemostasis"
+      ],
+      [
+        "Plasma",
+        "Water + proteins",
+        "Transport + clotting"
+      ],
+      [
+        "Smear ID",
+        "Nucleus shape",
+        "Granule color / size"
+      ]
+    ],
+    "chains": [
+      "Blood → plasma + formed elements → RBC + WBC + platelets",
+      "WBC → granulocytes (neutro/eosino/baso) + agranulocytes (lympho/mono)"
+    ]
+  },
+  "13": {
+    "title": "Hemopoiesis",
+    "root": "Blood cell production",
+    "branches": [
+      [
+        "Stem cells",
+        "Multipotent HSCs",
+        "Self-renewal"
+      ],
+      [
+        "Early sites",
+        "Yolk sac",
+        "Fetal liver / marrow"
+      ],
+      [
+        "Myeloid lines",
+        "Red cells",
+        "Granulocytes / platelets"
+      ],
+      [
+        "Lymphoid line",
+        "B / T lymphocytes",
+        "NK cells"
+      ],
+      [
+        "Erythropoiesis",
+        "Nuclear condensation",
+        "Reticulocyte → RBC"
+      ],
+      [
+        "Megakaryocytes",
+        "Large polyploid cells",
+        "Platelet release"
+      ]
+    ],
+    "chains": [
+      "HSC → myeloid progenitors + lymphoid progenitors → mature blood cells",
+      "Erythroid maturation → erythroblast → nucleus expelled → reticulocyte → erythrocyte"
+    ]
+  },
+  "14": {
+    "title": "Immune & Lymphoid Organs",
+    "root": "Immune surveillance",
+    "branches": [
+      [
+        "Thymus",
+        "T-cell maturation",
+        "Hassall corpuscles"
+      ],
+      [
+        "Lymph node",
+        "Filters lymph",
+        "Follicles + sinuses"
+      ],
+      [
+        "Spleen",
+        "Filters blood",
+        "White + red pulp"
+      ],
+      [
+        "MALT",
+        "Mucosal surveillance",
+        "Tonsils / Peyer patches"
+      ],
+      [
+        "Immune cells",
+        "B / T lymphocytes",
+        "APCs + macrophages"
+      ],
+      [
+        "Organization",
+        "Cortex / medulla",
+        "Vessels / stroma"
+      ]
+    ],
+    "chains": [
+      "Lymphoid organs → thymus (maturation) / nodes (lymph) / spleen (blood)",
+      "Adaptive response → APCs present antigen → T cells / B cells respond"
+    ]
+  },
+  "15": {
+    "title": "Digestive Tract",
+    "root": "Gut wall + regions",
+    "branches": [
+      [
+        "Wall layers",
+        "Mucosa / submucosa",
+        "Muscularis / serosa"
+      ],
+      [
+        "Esophagus",
+        "Stratified squamous",
+        "Protection"
+      ],
+      [
+        "Stomach",
+        "Pits + glands",
+        "Acid / enzymes"
+      ],
+      [
+        "Small intestine",
+        "Villi + crypts",
+        "Absorption"
+      ],
+      [
+        "Duodenum / ileum",
+        "Brunner glands",
+        "Peyer patches"
+      ],
+      [
+        "Colon",
+        "No villi",
+        "Goblet-rich crypts"
+      ]
+    ],
+    "chains": [
+      "GI wall → mucosa → submucosa → muscularis externa → serosa/adventitia",
+      "Small intestine → duodenum (Brunner) / jejunum / ileum (Peyer)"
+    ]
+  },
+  "16": {
+    "title": "Digestive Glands",
+    "root": "Liver + pancreas",
+    "branches": [
+      [
+        "Liver",
+        "Hepatic plates",
+        "Sinusoids"
+      ],
+      [
+        "Portal region",
+        "Portal venule",
+        "Arteriole + bile duct"
+      ],
+      [
+        "Bile direction",
+        "Canaliculi",
+        "Toward portal ducts"
+      ],
+      [
+        "Pancreas",
+        "Exocrine acini",
+        "Endocrine islets"
+      ],
+      [
+        "Salivary glands",
+        "Serous / mucous acini",
+        "Duct system"
+      ],
+      [
+        "Gallbladder",
+        "Concentrates bile",
+        "Mucosal folds"
+      ]
+    ],
+    "chains": [
+      "Liver lobule → portal blood → sinusoids → central vein",
+      "Pancreas → exocrine acini + endocrine islets"
+    ]
+  },
+  "17": {
+    "title": "Respiratory System",
+    "root": "Conducting + gas exchange",
+    "branches": [
+      [
+        "Trachea",
+        "Respiratory epithelium",
+        "C-shaped cartilage"
+      ],
+      [
+        "Bronchi",
+        "Cartilage plates",
+        "Mucous glands"
+      ],
+      [
+        "Bronchioles",
+        "No cartilage",
+        "Smooth muscle"
+      ],
+      [
+        "Gas exchange",
+        "Alveoli",
+        "Thin blood–air barrier"
+      ],
+      [
+        "Alveolar cells",
+        "Type I: diffusion",
+        "Type II: surfactant"
+      ],
+      [
+        "Defense",
+        "Cilia / mucus",
+        "Alveolar macrophages"
+      ]
+    ],
+    "chains": [
+      "Airway → trachea → bronchus → bronchiole → respiratory bronchiole → alveolus",
+      "Alveolar lining → type I (exchange) + type II (surfactant)"
+    ]
+  },
+  "18": {
+    "title": "Skin",
+    "root": "Epidermis + dermis",
+    "branches": [
+      [
+        "Epidermis",
+        "Keratinized stratified",
+        "Basale → corneum"
+      ],
+      [
+        "Dermis",
+        "Papillary + reticular",
+        "Collagen + vessels"
+      ],
+      [
+        "Thick skin",
+        "Strong stratum corneum",
+        "No hair follicles"
+      ],
+      [
+        "Thin skin",
+        "Hair / sebaceous",
+        "Variable epidermis"
+      ],
+      [
+        "Special cells",
+        "Melanocyte / Merkel",
+        "Langerhans immune cell"
+      ],
+      [
+        "Appendages",
+        "Hair + nails",
+        "Sweat / sebaceous glands"
+      ]
+    ],
+    "chains": [
+      "Skin → epidermis + dermis + subcutaneous tissue",
+      "Epidermis deep → basal → spinous → granular → corneum (lucidum in thick skin)"
+    ]
+  },
+  "19": {
+    "title": "Urinary System",
+    "root": "Nephron + collecting system",
+    "branches": [
+      [
+        "Corpuscle",
+        "Glomerulus",
+        "Bowman's capsule"
+      ],
+      [
+        "PCT",
+        "Strong brush border",
+        "Eosinophilic"
+      ],
+      [
+        "Loop of Henle",
+        "Descending / ascending",
+        "Concentration gradient"
+      ],
+      [
+        "DCT",
+        "Clearer lumen",
+        "Less brush border"
+      ],
+      [
+        "Collecting ducts",
+        "Distinct cell borders",
+        "Water regulation"
+      ],
+      [
+        "Outflow",
+        "Pelvis / ureter",
+        "Urothelium / bladder"
+      ]
+    ],
+    "chains": [
+      "Nephron → renal corpuscle → PCT → loop → DCT → collecting system",
+      "Filtration barrier → fenestrated endothelium + GBM + podocyte slit diaphragm"
+    ]
+  },
+  "20": {
+    "title": "Endocrine Glands",
+    "root": "Endocrine signals",
+    "branches": [
+      [
+        "Pituitary",
+        "Anterior: glandular",
+        "Posterior: neural"
+      ],
+      [
+        "Thyroid",
+        "Colloid follicles",
+        "T3 / T4 production"
+      ],
+      [
+        "Parathyroid",
+        "Chief-cell cords",
+        "PTH → calcium"
+      ],
+      [
+        "Adrenal cortex",
+        "G / F / R zones",
+        "Steroid hormones"
+      ],
+      [
+        "Adrenal medulla",
+        "Chromaffin cells",
+        "Catecholamines"
+      ],
+      [
+        "Pancreatic islets",
+        "Alpha: glucagon",
+        "Beta: insulin"
+      ]
+    ],
+    "chains": [
+      "Endocrine tissue → follicles (thyroid) / cords (parathyroid) / zones (adrenal)",
+      "Adrenal cortex → glomerulosa (aldosterone) → fasciculata (cortisol) → reticularis (androgens)"
+    ]
+  },
+  "21": {
+    "title": "Male Reproductive System",
+    "root": "Sperm production + transport",
+    "branches": [
+      [
+        "Seminiferous tubules",
+        "Germ-cell layers",
+        "Sertoli support"
+      ],
+      [
+        "Sertoli cells",
+        "Blood–testis barrier",
+        "Inhibin + support"
+      ],
+      [
+        "Leydig cells",
+        "Interstitial",
+        "Testosterone"
+      ],
+      [
+        "Spermatogenesis",
+        "Spermatogonia",
+        "Spermatocytes → spermatids"
+      ],
+      [
+        "Epididymis",
+        "Stereocilia",
+        "Maturation / storage"
+      ],
+      [
+        "Excurrent ducts",
+        "Vas deferens",
+        "Accessory glands"
+      ]
+    ],
+    "chains": [
+      "Spermatogenesis → spermatogonia → primary spermatocytes → spermatids → spermatozoa",
+      "Testis → epididymis → vas deferens → urethra"
+    ]
+  },
+  "22": {
+    "title": "Female Reproductive System",
+    "root": "Follicle + uterine cycle",
+    "branches": [
+      [
+        "Ovarian follicle",
+        "Primordial: flat cells",
+        "Primary: cuboidal"
+      ],
+      [
+        "Antral stage",
+        "Fluid-filled antrum",
+        "Theca + granulosa"
+      ],
+      [
+        "Ovulation",
+        "LH surge",
+        "Secondary oocyte released"
+      ],
+      [
+        "Corpus luteum",
+        "Luteinized cells",
+        "Progesterone"
+      ],
+      [
+        "Uterus",
+        "Proliferative glands",
+        "Secretory glands"
+      ],
+      [
+        "Other organs",
+        "Tubal transport",
+        "Cervix / vagina / breast"
+      ]
+    ],
+    "chains": [
+      "Follicle → primordial → primary → antral → ovulation → corpus luteum",
+      "Uterine cycle → menstrual → proliferative → secretory"
+    ]
+  },
+  "23": {
+    "title": "Eye & Ear",
+    "root": "Special sensory histology",
+    "branches": [
+      [
+        "Retina",
+        "Pigment epithelium",
+        "Photoreceptors + neurons"
+      ],
+      [
+        "Rods",
+        "Dim-light sensitive",
+        "Scotopic vision"
+      ],
+      [
+        "Cones",
+        "Color + sharp vision",
+        "Foveola"
+      ],
+      [
+        "Cornea",
+        "Transparent layers",
+        "Avascular in health"
+      ],
+      [
+        "Cochlea",
+        "Organ of Corti",
+        "Hair-cell transduction"
+      ],
+      [
+        "Vestibular system",
+        "Maculae / cristae",
+        "Balance + head motion"
+      ]
+    ],
+    "chains": [
+      "Retina → pigment epithelium → rods/cones → bipolar cells → ganglion cells",
+      "Inner ear → cochlea (hearing) + vestibular organs (balance)"
+    ]
+  }
+}
