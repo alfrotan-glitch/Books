@@ -388,7 +388,7 @@ A. Abundant rough ER and apical zymogen granules<br/>B. Abundant smooth ER, lipi
 
 On an electron micrograph, identify the plasma membrane, rough ER (parallel cisternae bearing ribosomes), smooth ER (tubules without ribosomes), Golgi (stacked flattened cisternae with vesicles), mitochondria (double membrane and cristae), lysosomes (dense bodies) and inclusions (glycogen rosettes, lipid droplets, pigment).
 
-On light microscopy, use basophilia to suggest rough ER and eosinophilia to suggest mitochondria or secretory proteins. Explain each stain from its chemistry; color alone does not identify an organelle.
+On H&E, ribosome-rich cytoplasm is basophilic; many protein-rich regions are eosinophilic.
 
 ## 3 · The Nucleus
 
