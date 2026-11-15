@@ -20,7 +20,7 @@ quick=re.findall(r"(?m)^### Quick notes — understand in 90 seconds$",whole)
 assert len(quick)==23,("Missing brief study notes",len(quick))
 inline_images=re.findall(r"(?m)^!\[[^\]]+\]\(build/atlas/[^)]+\.png\)$",whole)
 assert len(inline_images)==12,("Twelve histology drawings should each appear once",len(inline_images))
-mindmap_images=re.findall(r"(?m)^!\\[[^\\]]+\\]\\(build/mindmaps/chapter_\\d{2}\\.png\\)$",whole)
+mindmap_images=re.findall(r"(?m)^!\[[^\]]+\]\(build/mindmaps/chapter_\d{2}\.png\)$",whole)
 assert len(mindmap_images)==23,("Each of the 23 chapters needs its own visual concept map",len(mindmap_images))
 assert len(re.findall(r"(?m)^### Chapter mind map — see the whole first$",whole))==23
 assert len(re.findall(r"(?m)^\\*\\*Two pathways to remember\\*\\*$",whole))==23
