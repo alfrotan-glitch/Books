@@ -299,7 +299,7 @@ Perform a differential count and explain what each cell does.
 | C | A large cell with folded or kidney-shaped nucleus and blue-gray cytoplasm | **Monocyte** |
 | D | Multiple separated nuclear lobes, pale cytoplasm and fine granules | **Neutrophil** |
 
-**Quality-control question.** A dark purple speck beside an erythrocyte might be a platelet, stain precipitate or an artifact. Check size, sharpness, field repetition and nearby intact cells before reporting a platelet count. The exercise trains recognition; clinical interpretation requires a validated differential and appropriate laboratory context.
+**Quality-control question.** A dark purple speck beside an erythrocyte might be a platelet, stain precipitate or an artifact. Check size, sharpness, field repetition and nearby intact cells before reporting a platelet count. This tests recognition, not clinical diagnosis.
 
 ## 13 · Hemopoiesis
 
