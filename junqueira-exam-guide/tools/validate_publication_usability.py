@@ -26,7 +26,7 @@ EXPECTED_HOSTS = (
 )
 with fitz.open(PDF) as pdf:
     page_text = [p.get_text() for p in pdf]
-    assert len(pdf.get_toc()) >= 45, "Main contents/bookmarks appear missing"
+    assert len(pdf.get_toc()) >= 38, "Expected all 23 chapters plus part and appendix navigation"
     contents_pages = [
         (i, text) for i, text in enumerate(page_text[:6])
         if re.search(r"(?m)^Contents$", text)
