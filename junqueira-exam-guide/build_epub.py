@@ -30,7 +30,9 @@ RIGHTS = ("Original learning text and independently drawn teaching schematics; "
 
 def main():
     from tools.generate_atlas import generate
+    from tools.generate_mindmaps import generate as generate_mindmaps
     generate()
+    generate_mindmaps()
     build_cover(COVER)
     with open(CSS_PATH, "w", encoding="utf-8") as fh:
         fh.write(MODERN_CSS)

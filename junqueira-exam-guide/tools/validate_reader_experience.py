@@ -14,7 +14,7 @@ with pymupdf.open(PDF) as pdf:
     pages = [page.get_text() for page in pdf]
     words = [len(t.split()) for t in pages]
     n = len(pdf)
-    assert 145 <= n <= 205, f"Unexpectedly long/short study edition: {n} pages"
+    assert 145 <= n <= 260, f"Unexpectedly long/short study edition: {n} pages"
     assert pages[1].strip().startswith("Contents"), "The single cover must be followed by navigation"
     assert "A Learning Text" not in "\n".join(pages[:3]), "Outdated second title page"
     chapters = [x for x in pdf.get_toc() if re.match(r"^\d{1,2}\s*·", x[1])]
@@ -22,13 +22,13 @@ with pymupdf.open(PDF) as pdf:
     assert chapters[0][2] <= 6, "The first real lesson is too far after the cover"
     assert len(pdf.get_toc()) >= 38, "Chapter navigation incomplete"
     embedded = sum(len(p.get_images(full=True)) for p in pdf)
-    assert embedded == 12, f"Expected 12 unique diagrams each placed once, found {embedded}"
+    assert embedded == 35, f"Expected 23 original mind maps + 12 histology schematic diagrams, found {embedded}"
     too_short = [(i+1,count) for i,count in enumerate(words) if count < 30]
     assert not too_short, f"Nearly blank or orphaned pages: {too_short}"
     overfull = [(i+1,count) for i,count in enumerate(words) if count > 400]
     assert len(overfull) <= 45, f"Too many high-density pages: {len(overfull)}"
     assert "After the Practice Examination" in pages[-1], "Final practice feedback is missing"
-    print(f"READABILITY PASS: {n} pages, 12 once-placed diagrams, "
+    print(f"READABILITY PASS: {n} pages, 35 once-placed diagrams, "
           f"{len(overfull)} pages above 400 words, no orphan pages")
 
 front = (BOOK/"00_front.md").read_text(encoding="utf-8")

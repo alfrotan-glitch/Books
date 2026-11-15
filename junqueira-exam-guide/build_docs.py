@@ -100,7 +100,9 @@ def combined():
 
 def main():
     from tools.generate_atlas import generate
+    from tools.generate_mindmaps import generate as generate_mindmaps
     generate()
+    generate_mindmaps()
     md = combined()
 
     docx = os.path.join(HERE, "Basic_Histology_Learning_Text.docx")

@@ -25,6 +25,9 @@ on:
       - 'junqueira-exam-guide/tools/validate_publication_usability.py'
       - 'junqueira-exam-guide/tools/validate_unified_book.py'
       - 'junqueira-exam-guide/tools/validate_reader_experience.py'
+      - 'junqueira-exam-guide/tools/generate_mindmaps.py'
+      - 'junqueira-exam-guide/tools/validate_mindmaps.py'
+      - 'junqueira-exam-guide/data/chapter_mindmaps.json'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - 'junqueira-exam-guide/tools/validate_specialty_exam_scope.py'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
@@ -47,6 +50,9 @@ on:
       - 'junqueira-exam-guide/tools/validate_publication_usability.py'
       - 'junqueira-exam-guide/tools/validate_unified_book.py'
       - 'junqueira-exam-guide/tools/validate_reader_experience.py'
+      - 'junqueira-exam-guide/tools/generate_mindmaps.py'
+      - 'junqueira-exam-guide/tools/validate_mindmaps.py'
+      - 'junqueira-exam-guide/data/chapter_mindmaps.json'
       - 'junqueira-exam-guide/data/specialty_exam_scope.json'
       - '.github/workflows/histology-book.yml'
   workflow_dispatch:
@@ -85,6 +91,7 @@ jobs:
           python tools/validate_publication_usability.py
           python tools/validate_unified_book.py
           python tools/validate_reader_experience.py
+          python tools/validate_mindmaps.py
       - name: Validate medicine and surgery exam scope in four formats
         run: python tools/validate_specialty_exam_scope.py
       - uses: actions/setup-java@v4
@@ -154,7 +161,7 @@ jobs:
             # A newer source edit must build its own outputs. Never publish
             # an old CI artifact over a newer manuscript or build script.
             if ! git diff --quiet "$GITHUB_SHA" origin/main -- \
-                 src build.py build_docs.py build_epub.py tools data/extra_cards.tsv; then
+                 src build.py build_docs.py build_epub.py tools data/extra_cards.tsv data/chapter_mindmaps.json; then
               echo "Newer publication source detected; skip stale output sync."
               exit 0
             fi

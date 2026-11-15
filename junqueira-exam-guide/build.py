@@ -648,7 +648,9 @@ def build_story(blocks):
 
 def build_pdf():
     from tools.generate_atlas import generate
+    from tools.generate_mindmaps import generate as generate_mindmaps
     generate()
+    generate_mindmaps()
     blocks = group_blocks(read_blocks())
     doc = Book(OUT_PDF)
     toc = TableOfContents()
