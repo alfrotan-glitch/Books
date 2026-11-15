@@ -6,7 +6,7 @@
 
 Each chapter starts with **Quick notes**: the essentials, a comparison, one memory cue and a question. A clear explanation follows. At the end, test yourself using the chapter summary, recall questions, a worked examination question and a specimen-identification task. **Students and teachers use the same book.**
 
-## The five-step method
+### The five-step method
 
 1. **Preview:** Read the Quick notes. Name one topic you already understand and one you do not.
 2. **Understand:** Read the explanation in small sections. Link each structure to **location, appearance and function**.
@@ -16,7 +16,7 @@ Each chapter starts with **Quick notes**: the essentials, a comparison, one memo
 
 **For teachers:** Begin with the Quick notes, demonstrate the structure, ask students to distinguish two tissues, and end with a closed-book explanation and the chapter's worked question. No separate instructor manual is needed.
 
-## Five questions for an unfamiliar slide
+### Five questions for an unfamiliar slide
 
 1. **Surface or boundary:** Is there a lumen, capsule, basement membrane or free surface?
 2. **Overall pattern:** Are the structures layers, follicles, tubules, acini, cords, bundles or sinusoids?
@@ -26,7 +26,7 @@ Each chapter starts with **Quick notes**: the essentials, a comparison, one memo
 
 *Example:* Intestinal villi point to small intestine, not colon. **Brunner glands in the submucosa** strongly suggest duodenum; if the biopsy lacks submucosa, absence of those glands is not decisive.
 
-## Your examination pathway
+### Your examination pathway
 
 The following labels use the chapter lists supplied for Afghanistan's Ministry of Public Health specialist entrance preparation. **Confirm the current official notice** before excluding any chapter.
 
@@ -38,7 +38,7 @@ The following labels use the chapter lists supplied for Afghanistan's Ministry o
 
 Chapter 24 is an optional rapid review, not an additional assigned Junqueira chapter. The 100 questions at the end are **original practice questions**, not verified past Ministry examination questions.
 
-## Source and illustrations
+### Source and illustrations
 
 **Primary reference:** Mescher AL. *Junqueira's Basic Histology: Text & Atlas*. 17th ed. McGraw Hill; 2024. Chapters 1–23 follow the same numbered subjects. Use the reference's atlas or the viewing-only slide links in Appendix E for genuine microscopic appearances.
 
