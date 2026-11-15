@@ -611,7 +611,11 @@ def build_story(blocks):
             illustration.hAlign = "CENTER"
             story.append(Spacer(1, 6))
             story.append(illustration)
-            story.append(Paragraph(inline(alt), STY["caption"]))
+            # The hierarchy and chapter title are already printed inside a
+            # mind-map image. A repeated text caption uses space without adding
+            # information. The Markdown image alt stays in DOCX/EPUB/HTML.
+            if not rel_path.startswith("build/mindmaps/"):
+                story.append(Paragraph(inline(alt), STY["caption"]))
 
         elif kind == "table":
             story.append(Spacer(1, 3))
