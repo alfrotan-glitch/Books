@@ -249,7 +249,7 @@ def main():
     pypandoc.convert_file(md, "html5", outputfile=html, extra_args=[
         "--standalone", "--toc", "--toc-depth=2", "--embed-resources",
         "--css=" + css_path, "--resource-path=" + os.pathsep.join((HERE, SRC, BUILD)),
-        "--metadata", "pagetitle=Basic Histology: A Learning Text",
+        "--metadata", "pagetitle=Basic Histology: Smart Study Notes",
     ])
     # Add a small, accessible track-label style after Pandoc has emitted HTML.
     with open(html, encoding="utf-8") as fh:

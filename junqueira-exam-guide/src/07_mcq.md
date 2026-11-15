@@ -635,14 +635,15 @@ This examination is a *retrieval and interpretation exercise*, not a prediction 
 
 **100. C** — The inner and outer hair cells of the organ of Corti are the transducing receptors. **Trap:** D support the hair cells. A are afferent neurons. B is a membrane, not cells.
 
-## Scoring and What to Do Next
+## After the Practice Examination
 
-| Score | Interpretation | Action |
-|---|---|---|
-| **90–100** | Excellent | Skim the rapid review once daily; do slide identification only |
-| **80–89** | Exam-ready | Reread the twenty-five distinctions table; revisit missed chapters |
-| **65–79** | Adequate | Redo the master tables in Part VI, then retake the questions |
-| **50–64** | At risk | Read each chapter's "core idea" and tables, not the prose |
-| **Below 50** | Start again from Part II | Build the ten master tables from memory before anything else |
+Your score measures performance on **these 100 original practice questions**, not a predicted result on a Ministry examination. If you have seen the questions before, the score may overestimate your ability to answer unfamiliar ones.
 
-> **PEARL** — The final revision loop is not reading — it is **recall**. Close the text and write the ten master tables from memory. Whatever you cannot reproduce is exactly what you must study. Students who can reproduce the tables usually answer the recall questions far more quickly.
+| Score on this set | Next step |
+|---|---|
+| **90–100** | Strong recall here. Try unfamiliar real-slide images and defend each identification using two landmarks. |
+| **75–89** | Review only missed and guessed answers. Explain the tempting wrong choice, then retest with new questions. |
+| **60–74** | Return to the relevant chapter's Quick notes and full explanation. Draw the structure and answer without looking. |
+| **Below 60** | Rebuild the core tissue concepts chapter by chapter; check understanding before attempting another full mock test. |
+
+> **PEARL** — **Review the reason, not only the letter.** For each error, write: *What did I choose? Why was it wrong? Which structural clue would have led to the right answer?* Revisit those questions after several days and continue practicing with genuine microscopy images.

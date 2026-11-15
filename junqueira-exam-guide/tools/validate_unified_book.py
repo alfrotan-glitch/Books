@@ -19,7 +19,7 @@ assert len(re.findall(r"(?m)^### "+re.escape(marker)+r"$",whole))==23
 quick=re.findall(r"(?m)^### Quick notes — understand in 90 seconds$",whole)
 assert len(quick)==23,("Missing brief study notes",len(quick))
 inline_images=re.findall(r"(?m)^!\[[^\]]+\]\(build/atlas/[^)]+\.png\)$",whole)
-assert len(inline_images)==24,("Expected twelve repeated original visual anchors and twelve atlas plates",len(inline_images))
+assert len(inline_images)==12,("Twelve original diagrams should appear only once beside the lessons",len(inline_images))
 
 for chapter in range(1,24):
     start=whole.find(f"## {chapter} ·")
@@ -46,7 +46,7 @@ base=ROOT/"Basic_Histology_Learning_Text"
 with pymupdf.open(base.with_suffix(".pdf")) as pdf:
     text="\n".join(page.get_text() for page in pdf)
     assert len(re.findall(r"Integrative practice:\s*reason from the specimen",text))==23
-    assert len(pdf.get_toc())>=45
+    assert len(pdf.get_toc())>=38  # all chapters and parts retained after shortening front matter
     reject_old(text,"PDF")
 doc=Document(base.with_suffix(".docx"))
 doc_headings=[p.text for p in doc.paragraphs if p.text.startswith(marker)]
