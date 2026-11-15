@@ -496,6 +496,7 @@ def group_blocks(blocks):
 def build_story(blocks):
     story = []
     first_part = True
+    part_pending_chapter = False
 
     def brk():
         """Insert a page break unless we just inserted one."""
@@ -517,10 +518,12 @@ def build_story(blocks):
             if first_part:
                 first_part = False
                 continue
+            # Keep the part heading and its first chapter on the same page;
+            # a full blank part divider wastes a page in compact study notes.
             brk()
-            story.append(Spacer(1, 130))
+            story.append(Spacer(1, 3))
             story.append(Rule(FRAME_W, 0.8, RULE, space=2))
-            story.append(Spacer(1, 10))
+            story.append(Spacer(1, 6))
             story.append(Paragraph(inline(title, bold="Head"), STY["part_title"]))
             desc = PART_DESC.get(title.split("—")[0].strip())
             if desc:
@@ -528,12 +531,14 @@ def build_story(blocks):
                 story.append(Paragraph(desc, S("partdesc", fontName="Head-Reg", fontSize=10,
                                                leading=15, textColor=MUTED,
                                                alignment=TA_LEFT)))
-            brk()
+            story.append(Spacer(1, 11))
+            part_pending_chapter = True
             first_part = False
 
         elif kind == "chapter":
-            if not first_part:
+            if not first_part and not part_pending_chapter:
                 brk()
+            part_pending_chapter = False
             story.append(Spacer(1, 2))
             story.append(Paragraph(inline(b[1], bold="Head"), STY["chapter"]))
             story.append(Rule(FRAME_W, 1.6, ACCENT, space=5))
