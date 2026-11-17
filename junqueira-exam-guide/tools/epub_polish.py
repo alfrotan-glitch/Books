@@ -58,6 +58,10 @@ h2 {
 }
 h3 { font-size: 1.17em; margin: 1.45em 0 .45em; color: #087772; }
 h3.note-summary { background:#E7F4F1; padding:.72em; border-radius:.4em; border-left:.25em solid #168986; }
+h3.concept-map-title { font-size:.91em; letter-spacing:.045em;
+  text-transform:uppercase; color:#0E6B6B; margin-top:1.3em; }
+h3.concept-map-title + figure { padding:.55em; border:1px solid #D4E7E0;
+  background:#F6FAF8; border-radius:.4em; }
 h4 { font-size: 1.03em; margin: 1.25em 0 .35em; }
 h1 + p, h2 + p, h3 + p { margin-top: .3em; }
 strong, b { font-weight: 700; }
@@ -181,14 +185,14 @@ def build_cover(destination: str | Path) -> None:
 
     # Deliberately restrained color blocks, with a strong thumbnail hierarchy.
     d.rounded_rectangle((104, 123, 825, 205), radius=22, fill=(24, 144, 145, 220))
-    d.text((140, 139), "MEDICAL SCIENCE  /  LEARNING TEXT", font=_font(36, True), fill="#E7FCF5")
+    d.text((140, 139), "HISTOLOGY  /  STUDY COMPANION", font=_font(36, True), fill="#E7FCF5")
     d.text((100, 365), "BASIC", font=_font(165, True), fill="#FFF7ED")
     d.text((100, 555), "HISTOLOGY", font=_font(162, True), fill="#FFF7ED")
     d.rounded_rectangle((102, 787, 532, 800), radius=6, fill="#28BAAD")
     d.text((104, 870), "SMART STUDY NOTES", font=_font(65), fill="#D5EFEB")
     d.text((106, 977), "Cells  ·  Tissues  ·  Organ Systems", font=_font(41), fill="#ABCACB")
-    d.text((106, 2224), "ORIGINAL ILLUSTRATED EDITION", font=_font(37, True), fill="#EAF7F3")
-    d.text((106, 2290), "2026   •   24 CHAPTERS   •   100 EXAM QUESTIONS", font=_font(29), fill="#AAC8C6")
+    d.text((106, 2224), "INDEPENDENT  •  JUNQUEIRA-ALIGNED", font=_font(37, True), fill="#EAF7F3")
+    d.text((106, 2290), "23 REFERENCE CHAPTERS   •   35 ORIGINAL FIGURES", font=_font(29), fill="#AAC8C6")
     d.rectangle((0, h-20, w, h), fill="#23BBAF")
     im.save(destination, format="PNG", optimize=True)
 
@@ -232,8 +236,11 @@ def polish_epub(path: str | Path) -> None:
             if "".join(para.itertext()).strip().startswith("SPECIALTY EXAM:"):
                 para.set("class", "specialty-exam")
         for heading in root.findall(f".//{{{X}}}h3"):
-            if "".join(heading.itertext()).strip().startswith("Quick notes —"):
+            heading_text = "".join(heading.itertext()).strip()
+            if heading_text.startswith("Quick notes —"):
                 heading.set("class", "note-summary")
+            elif heading_text.startswith("Chapter mind map"):
+                heading.set("class", "concept-map-title")
         for table in root.findall(f".//{{{X}}}table"):
             for th in table.findall(f".//{{{X}}}thead//{{{X}}}th"):
                 if "scope" not in th.attrib:

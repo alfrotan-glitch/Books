@@ -35,6 +35,17 @@ h2 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.45rem;
 h3:first-line { text-wrap: pretty; }
 h3 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 1.12rem;
   color: var(--accent); margin: 1.8rem 0 .35rem; }
+h3.note-summary { border-left: 4px solid #0E6B6B; background:#E9F5F1;
+  padding:.65rem .85rem; margin:1.5rem 0 .75rem; border-radius:0 .5rem .5rem 0; }
+h3.concept-map-title { font-size:.9rem; text-transform:uppercase;
+  letter-spacing:.065em; color:#0E6B6B; margin:1.35rem 0 .65rem; }
+h3.concept-map-title + figure { padding:.65rem; background:#F6FAF8;
+  border:1px solid #DCE8E5; border-radius:.6rem; }
+@media print {
+  body { max-width:none; margin:0; padding:0; font-size:10.5pt; line-height:1.45; }
+  h1 { page-break-before:always; }
+  h3, figure, tr { break-inside:avoid-page; }
+}
 h4 { font-family: "Helvetica Neue", Arial, sans-serif; font-size: .98rem; margin: 1.2rem 0 .3rem; }
 p { margin: .85rem 0 1rem; text-align: left; }
 p.specialty-exam { margin: .18rem 0 .75rem; text-align: left; font-family: "Helvetica Neue", Arial, sans-serif; font-size: .72rem; font-weight: 600; line-height: 1.8; color: #557078; letter-spacing: .025em; }
@@ -166,10 +177,21 @@ def main():
         title, subtitle, date = metadata_paragraphs[0], metadata_paragraphs[1], date_paragraph
         title.alignment = WD_ALIGN_PARAGRAPH.CENTER
         title.paragraph_format.space_before = Pt(130)
+        # Original restrained teal rule makes the editable cover feel deliberate
+        # without adding images, shifting the TOC, or requiring proprietary fonts.
+        ppr = title._p.get_or_add_pPr()
+        pbdr = OxmlElement("w:pBdr")
+        bottom = OxmlElement("w:bottom")
+        bottom.set(qn("w:val"), "single")
+        bottom.set(qn("w:sz"), "18")
+        bottom.set(qn("w:space"), "10")
+        bottom.set(qn("w:color"), "0E6B6B")
+        pbdr.append(bottom)
+        ppr.append(pbdr)
         title.paragraph_format.space_after = Pt(22)
         for run in title.runs:
             run.font.name = "Aptos Display"
-            run.font.size = Pt(32)
+            run.font.size = Pt(35)
             run.font.bold = True
             run.font.color.rgb = RGBColor(16, 62, 68)
         subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -262,6 +284,19 @@ def main():
         output_html,
     )
     assert label_count == 23, f"Expected 23 HTML specialty labels, got {label_count}"
+    output_html, note_count = re.subn(
+        r'<h3 (id="quick-notes[^"]*")>',
+        r'<h3 class="note-summary" \\1>',
+        output_html,
+    )
+    output_html, map_count = re.subn(
+        r'<h3 (id="chapter-mind-map[^"]*")>',
+        r'<h3 class="concept-map-title" \\1>',
+        output_html,
+    )
+    assert note_count == map_count == 23, (
+        f"Expected 23 chapter note/map headings, got {note_count}/{map_count}"
+    )
     with open(html, "w", encoding="utf-8") as fh:
         fh.write(output_html)
     print("HTML written:", html)
