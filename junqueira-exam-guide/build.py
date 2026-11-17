@@ -604,7 +604,7 @@ def build_story(blocks):
                 brk()
             part_pending_chapter = False
             story.append(Spacer(1, 2))
-            match_chapter = re.match(r"^(\\d{1,2})\\s*·", b[1])
+            match_chapter = re.match(r"^(\d{1,2})\s*·", b[1])
             if match_chapter:
                 chapter_no = int(match_chapter.group(1))
                 label = ("REFERENCE CHAPTER %02d" % chapter_no
