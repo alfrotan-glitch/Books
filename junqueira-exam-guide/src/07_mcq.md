@@ -112,7 +112,7 @@ A. Osteocyte <br/>B. Osteoclast <br/>C. Osteoprogenitor cell <br/>D. Osteoblast
 
 A. Monocyte–macrophage lineage <br/>B. Osteoblasts <br/>C. Neural crest <br/>D. Mesenchymal cells
 
-**27.** In endochondral ossification, the zone in which chondrocytes enlarge and the matrix calcifies is the:
+**27.** In the epiphyseal growth plate, the zone in which chondrocytes swell and the matrix is squeezed into thin septa between the columns is the:
 
 A. Ossification zone <br/>B. Reserve zone <br/>C. Proliferative zone <br/>D. Hypertrophic zone
 
@@ -128,9 +128,9 @@ A. Diaphysis <br/>B. Metaphysis <br/>C. Periosteum <br/>D. Epiphysis
 
 A. An osteocyte <br/>B. An osteoclast <br/>C. A macrophage <br/>D. An osteoblast
 
-**31.** A tendon section shows parallel collagen bundles and elongated fibroblast nuclei aligned with tensile forces. Dense regular connective tissue is characterized by:
+**31.** A tendon section shows rows of flattened fibroblast nuclei between thick, tightly packed collagen bundles that all run in one direction. Which tissue is this?
 
-A. Parallel collagen bundles <br/>B. Abundant elastic fibers <br/>C. A reticular network <br/>D. Randomly oriented collagen bundles
+A. Dense regular connective tissue <br/>B. Dense irregular connective tissue <br/>C. Elastic connective tissue <br/>D. Reticular connective tissue
 
 **32.** Which tissue is the site of hematopoiesis in the adult?
 
@@ -220,7 +220,7 @@ A. IgA <br/>B. IgE <br/>C. IgG <br/>D. IgM
 
 A. Antibody alone <br/>B. MHC class I <br/>C. MHC class II <br/>D. MHC class III
 
-**53.** A lobulated lymphoid organ has dark cortical regions and pale medullae with concentric epithelial whorls (Hassall corpuscles). Which organ is this?
+**53.** A lobulated lymphoid organ has dark cortical regions and pale medullae with concentric epithelial whorls. Which organ is this?
 
 A. Thymus <br/>B. Tonsil <br/>C. Spleen <br/>D. Lymph node
 
@@ -262,11 +262,11 @@ A. Between the circular and longitudinal muscle layers <br/>B. Serosa <br/>C. Mu
 
 A. HCl and intrinsic factor <br/>B. Mucus <br/>C. Gastrin <br/>D. Pepsinogen
 
-**63.** A small-intestinal section contains villi and pale mucous glands deep in the submucosa. These Brunner glands identify the:
+**63.** A small-intestinal section contains villi and pale mucous glands deep in the submucosa. Which segment is this most likely to be?
 
 A. Duodenum <br/>B. Jejunum <br/>C. Ileum <br/>D. Colon
 
-**64.** A small-intestinal specimen shows villi and a large aggregate of lymphoid follicles extending toward the submucosa. Peyer's patches favor the:
+**64.** A small-intestinal specimen shows villi and a large aggregate of lymphoid follicles extending toward the submucosa. Which segment is this most likely to be?
 
 A. Jejunum <br/>B. Ileum <br/>C. Stomach <br/>D. Duodenum
 
@@ -487,7 +487,7 @@ This examination is a *retrieval and interpretation exercise*, not a prediction 
 
 **26. A** — Osteoclasts arise from the monocyte–macrophage lineage, not from mesenchyme. **Trap:** D gives osteoblasts. B are the bone-forming cells themselves. C gives melanocytes and Schwann cells.
 
-**27. D** — In the hypertrophic zone chondrocytes enlarge and the matrix begins to calcify. **Trap:** B is small, sparse cells. C is active division. A is where osteoid is deposited.
+**27. D** — Chondrocytes swell and the intervening matrix forms narrow septa in the hypertrophic zone. Mineralization of these septa is a defining feature of the adjacent calcified-cartilage zone. **Trap:** B contains resting chondrocytes; C has proliferating columns; A is where osteoblasts deposit osteoid.
 
 **28. B** — Calcitonin from thyroid C cells inhibits osteoclasts and lowers serum calcium. **Trap:** D raises calcium. A raises calcium by increasing absorption. C has no direct effect.
 
@@ -495,7 +495,7 @@ This examination is a *retrieval and interpretation exercise*, not a prediction 
 
 **30. B** — A multinucleated cell in a Howship lacuna is an osteoclast. **Trap:** D is cuboidal and lines the surface. A sits in a lacuna without a pit. C does not make Howship lacunae.
 
-**31. A** — Dense regular connective tissue has parallel collagen bundles, as in tendon. **Trap:** D is dense irregular. B describes elastic tissue. C is reticular tissue.
+**31. A** — Dense regular connective tissue has closely packed, parallel collagen bundles with rows of fibroblasts, as in tendon. **Trap:** B has collagen in varying directions; C is elastic-fiber rich; D is a delicate network of type III collagen.
 
 **32. C** — Red bone marrow is the adult hematopoietic site. **Trap:** A is the fetal site. B is a lymphoid filter. D is a fat store, not hemopoietic.
 

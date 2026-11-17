@@ -483,6 +483,13 @@ def group_blocks(blocks):
             out.append(("keep", group))
             i = j
             continue
+        if (b[0] == "para" and re.match(r"^\*\*\d{1,3}\.\*\* ", b[1])
+                and i + 1 < len(blocks) and blocks[i + 1][0] == "para"
+                and re.match(r"^A\. ", blocks[i + 1][1])):
+            # Keep each multiple-choice stem and its options on the same page.
+            out.append(("keep", [b, blocks[i + 1]]))
+            i += 2
+            continue
         if b[0] in ("h3", "h4") and i + 1 < len(blocks) and blocks[i + 1][0] in (
                 "para", "bullet", "num", "table", "quote"):
             out.append(("keep", [b, blocks[i + 1]]))
@@ -499,7 +506,9 @@ def build_story(blocks):
     part_pending_chapter = False
 
     def brk():
-        """Insert a page break unless we just inserted one."""
+        """Insert a page break, discarding tail spacers that can create empty pages."""
+        while story and isinstance(story[-1], Spacer):
+            story.pop()
         if story and isinstance(story[-1], PageBreak):
             return
         story.append(PageBreak())

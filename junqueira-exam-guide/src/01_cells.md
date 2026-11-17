@@ -185,16 +185,6 @@ A useful histology result begins with a **question**, not a stain. Decide what s
 
 **Quality-control habit.** Record the stain, magnification, specimen orientation and relevant positive and negative controls before drawing a molecular conclusion. Distinguish what is directly visible from what is inferred.
 
-### Integrative practice: reason from the specimen
-
-**Compare.** Contrast **method selection** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
-
-**Draw and identify.** Reconstruct the chain fixation → section → stain and identify the point where a false tissue fold may arise. Use two visible landmarks to justify the identification.
-
-**Check your reasoning.** LM preserves architecture at lower resolution; TEM resolves subcellular ultrastructure but requires ultrathin tissue.
-
-**Common confusion.** A stain's color alone cannot prove the identity of a specific protein.
-
 ### Chapter 1 — summary
 
 - H&E = the routine survey stain; hematoxylin is basic (nuclei, rough ER), eosin is acidic (collagen, cytoplasm).
@@ -312,7 +302,7 @@ A **7.5–10 nm phospholipid bilayer** with embedded proteins — the **fluid mo
 
 **Smooth ER (SER)** — tubular and ribosome-free. Three jobs: **lipid and steroid synthesis**, **detoxification** (hepatic cytochrome P450), and **calcium storage** (sarcoplasmic reticulum of muscle). Hepatocytes, adrenal cortical cells, Leydig cells, and the corpus luteum are rich in SER — which is why steroid-secreting cells look pale and foamy rather than blue.
 
-**Golgi apparatus.** Vesicles leave the ER in coats marked by **COPII** and fuse with the cis (forming) face; retrograde transport back to the ER is mediated by **COPI**-coated vesicles. It is a stack of 4–8 flattened cisternae with a **cis (forming) face** receiving vesicles from the ER and a **trans (maturing) face** releasing vesicles. Functions: modification (glycosylation, sulfation, phosphorylation), sorting, and packaging. The **trans-Golgi network** is the dispatch center routing proteins to secretory granules, lysosomes, or the membrane. Cells specialized for secretion (plasma cells, pancreatic acinar cells, goblet cells) have an obvious, often supra-nuclear Golgi.
+**Golgi apparatus.** A stack of 4–8 flattened cisternae with a **cis (forming) face** that receives vesicles from the ER and a **trans (maturing) face** that releases vesicles. Vesicles leave the ER in **COPII**-coated vesicles and fuse with the cis face; retrograde transport back to the ER uses **COPI**-coated vesicles. Functions: modification (glycosylation, sulfation, phosphorylation), sorting, and packaging. The **trans-Golgi network** is the dispatch center routing proteins to secretory granules, lysosomes, or the membrane. Cells specialized for secretion (plasma cells, pancreatic acinar cells, goblet cells) have an obvious, often supra-nuclear Golgi.
 
 **Lysosomes.** 0.05–0.5 µm vesicles of acid hydrolases at pH ≈ 5 maintained by a proton pump. **Primary lysosomes** are newly formed; **secondary lysosomes** are the product of fusion with a phagosome or autophagosome; **residual bodies** remain after digestion and accumulate as **lipofuscin**, the "wear-and-tear" pigment of long-lived cells such as cardiac myocytes and neurons.
 
@@ -346,16 +336,6 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 
 > **TIP** — Keep two distinctions straight. The Golgi **modifies and sorts** proteins; the RER makes them. The mitochondrion generates ATP; the lysosome degrades material.
 
-### Integrative practice: reason from the specimen
-
-**Compare.** Contrast **protein secretion versus steroid synthesis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
-
-**Draw and identify.** Draw the antibody secretory route; place a lysosome and mitochondrion. Use two visible landmarks to justify the identification.
-
-**Check your reasoning.** Plasma cells rely on rough ER/Golgi; steroid-secreting cells rely on smooth ER and lipid droplets.
-
-**Common confusion.** A basal body contains nine microtubule triplets; a primary cilium usually has a 9+0 doublet-based axoneme.
-
 ### Chapter 2 — summary
 
 - Rough ER makes membrane and secretory proteins; smooth ER makes lipids and steroids and detoxifies.
@@ -366,7 +346,6 @@ Non-membranous accumulations of metabolites or pigments: **glycogen** (PAS-posit
 - Microtubules are 25 nm, actin filaments 7 nm, intermediate filaments 10 nm.
 - Kinesin walks toward the microtubule plus end (anterograde); dynein toward the minus end (retrograde).
 - Most motile epithelial cilia have a 9 + 2 axoneme; primary sensory cilia usually have a 9 + 0 axoneme; basal bodies contain nine microtubule triplets. Microvilli have an actin core.
-- Apoptosis is programmed, ATP-dependent, and non-inflammatory; necrosis is classically passive and inflammatory, though some regulated lytic death programs blur the distinction.
 
 ### Active recall
 
@@ -500,16 +479,6 @@ The contrast is a teaching simplification. **Necroptosis** and **pyroptosis** ar
 > **MICRO** — An active cell has a pale nucleus with a prominent, reticulated nucleolus and lots of euchromatin. A quiescent cell — a small lymphocyte, a spermatozoon, a superficial keratinocyte — has dense heterochromatin and little visible nucleolus. **Nuclear texture is a functional readout.**
 
 > **TIP** — **One Barr body** in a normal female somatic cell, **zero** in a male, one in Klinefelter syndrome (47, XXY), none in Turner syndrome (45, X). Count Barr bodies and you have counted X chromosomes minus one.
-
-### Integrative practice: reason from the specimen
-
-**Compare.** Contrast **apoptosis versus necrosis** in two histological or functional observations. State which observation actually rules out the competing diagnosis.
-
-**Draw and identify.** Arrange G1, S, G2 and M on an annotated cycle and mark DNA synthesis. Use two visible landmarks to justify the identification.
-
-**Check your reasoning.** Apoptosis usually involves cell shrinkage and controlled fragmentation; necrosis has membrane disruption and typically inflammation.
-
-**Common confusion.** A condensed mitotic chromosome does not imply DNA is being replicated.
 
 ### Chapter 3 — summary
 

@@ -194,7 +194,7 @@ If you remember nothing else, remember the shape of the subject. Each level is g
 4. Silver stains reticulin (type III collagen).
 5. Light microscope resolution = 0.2 µm.
 6. Frozen section = rapid diagnosis + lipid preservation.
-7. Plasma membrane thickness = 7–10 nm.
+7. Plasma membrane thickness = 7.5–10 nm.
 8. Na⁺/K⁺-ATPase pumps 3 Na⁺ out, 2 K⁺ in.
 9. Clathrin mediates receptor-mediated endocytosis.
 10. Mitochondria are maternally inherited.
