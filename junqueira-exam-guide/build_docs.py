@@ -286,12 +286,12 @@ def main():
     assert label_count == 23, f"Expected 23 HTML specialty labels, got {label_count}"
     output_html, note_count = re.subn(
         r'<h3 (id="quick-notes[^"]*")>',
-        r'<h3 class="note-summary" \\1>',
+        r'<h3 class="note-summary" \1>',
         output_html,
     )
     output_html, map_count = re.subn(
         r'<h3 (id="chapter-mind-map[^"]*")>',
-        r'<h3 class="concept-map-title" \\1>',
+        r'<h3 class="concept-map-title" \1>',
         output_html,
     )
     assert note_count == map_count == 23, (
