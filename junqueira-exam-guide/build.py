@@ -483,6 +483,23 @@ def group_blocks(blocks):
             out.append(("keep", group))
             i = j
             continue
+        if (b[0] == "para" and re.match(r"^\*\*\d{1,3}\.\*\* ", b[1])
+                and i + 1 < len(blocks) and blocks[i + 1][0] == "para"
+                and re.match(r"^A\. ", blocks[i + 1][1])):
+            # A single unbreakable table prevents options A/B on one page and C/D on the next.
+            out.append(("mcq", b[1], blocks[i + 1][1]))
+            i += 2
+            continue
+        if (b[0] in ("h3", "h4") and i + 2 < len(blocks)
+                and blocks[i + 1][0] == "para"
+                and re.match(r"^\*\*\d{1,3}\.\*\* ", blocks[i + 1][1])
+                and blocks[i + 2][0] == "para"
+                and re.match(r"^A\. ", blocks[i + 2][1])):
+            # Section headings can otherwise grab an MCQ stem without its choices.
+            # Keep heading, stem and all four options as one unbreakable unit.
+            out.append(("keep", [b, ("mcq", blocks[i + 1][1], blocks[i + 2][1])]))
+            i += 3
+            continue
         if b[0] in ("h3", "h4") and i + 1 < len(blocks) and blocks[i + 1][0] in (
                 "para", "bullet", "num", "table", "quote"):
             out.append(("keep", [b, blocks[i + 1]]))
@@ -499,13 +516,40 @@ def build_story(blocks):
     part_pending_chapter = False
 
     def brk():
-        """Insert a page break unless we just inserted one."""
+        """Insert a page break, discarding tail spacers that can create empty pages."""
+        while story and isinstance(story[-1], Spacer):
+            story.pop()
         if story and isinstance(story[-1], PageBreak):
             return
         story.append(PageBreak())
 
     for b in blocks:
         kind = b[0]
+
+        if kind == "mcq":
+            stem = Paragraph(inline(b[1]), S("q_stem", fontName="Body",
+                             fontSize=10.5, leading=15.4, textColor=INK,
+                             alignment=TA_LEFT))
+            choices = [c.strip() for c in re.split(r"<br\s*/>", b[2]) if c.strip()]
+            assert len(choices) == 4 and all(
+                choice.startswith(letter + ". ") for choice, letter in zip(choices, "ABCD")
+            ), "Expected exactly four ordered MCQ choices"
+            options = Paragraph("<br/>".join(inline(o) for o in choices),
+                        S("q_options", fontName="Body", fontSize=9.2,
+                          leading=12.7, textColor=INK, alignment=TA_LEFT))
+            mcq_table = Table([[stem], [options]], colWidths=[FRAME_W],
+                              hAlign="LEFT", splitByRow=0, splitInRow=0)
+            mcq_table.setStyle(TableStyle([
+                ("LEFTPADDING",(0,0),(-1,-1),8),
+                ("RIGHTPADDING",(0,0),(-1,-1),6),
+                ("TOPPADDING",(0,0),(-1,0),5),
+                ("BOTTOMPADDING",(0,0),(-1,0),2),
+                ("TOPPADDING",(0,1),(-1,1),0),
+                ("BOTTOMPADDING",(0,1),(-1,1),7),
+                ("VALIGN",(0,0),(-1,-1),"TOP"),
+            ]))
+            story.append(mcq_table)
+            continue
 
         if kind == "keep":
             inner = build_story(b[1])

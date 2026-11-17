@@ -1,115 +1,60 @@
-# Basic Histology: A Learning Text
+# Basic Histology: Smart Study Notes
 
-A self-contained, **technically validated editorial-candidate** course in microscopic anatomy in 24 chapters, for students of medicine, dentistry and the biomedical sciences. It teaches the cell, the four basic tissues, and the organ systems, and ends with a hundred-question practice examination. The book includes twelve **original schematic histology plates** (not copied microscopy photographs), alongside descriptive slide-identification methods and structure–function explanations.
+**One cohesive, illustrated study and teaching book**, following Chapters 1–23 of *Junqueira's Basic Histology: Text & Atlas*, 17th edition (Mescher, 2024). Chapter 24 is rapid review, followed by 100 original multiple-choice practice questions with explanations.
 
-The prose and twelve generated schematic plates are newly authored for this project. No third-party textbook images, plates, captions or extended passages have intentionally been reproduced, and no page ranges or questions require the reader to consult another textbook. Independent legal clearance has not been performed.
+The reader-facing book is generated from one canonical Markdown manuscript. For each chapter it includes a hierarchy mind map, concise quick notes, essential structure–function explanations, tissue-recognition clues, comparison tables, active recall, a worked example and practical identification.
 
-## Latest build and publication status
+## Content at a glance
 
-**Use the latest successful [Build and validate histology book workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml).** The workflow now rebuilds and synchronizes the tracked PDF, DOCX, EPUB, HTML, CSV study decks and publication manifest on `main` after a passing run. The GitHub Actions artifact also bundles those files and the nine original schematic plates. The manifest records SHA-256 hashes and source commit.
+- **23 original hierarchical mind maps** and **12 original tissue schematics**, embedded alongside relevant lessons.
+- **23 Junqueira-aligned primary chapters**, one rapid-review chapter and **100 original practice MCQs**. Question stems are not official prior Ministry examinations.
+- **607 flashcards** generated from the manuscript, with a synchronized 100-question CSV deck in `deliverables/`.
+- A study-path label for **Internal Medicine (16 chapters)** and **Surgery (18 chapters)**. These labels are owner-supplied study guidance; confirm against the current official Afghanistan MoPH syllabus.
+- Optional links to externally hosted real-slide resources; no third-party microscopy photographs are republished.
 
-The latest fully validated build ([run 39845766634](https://github.com/alfrotan-glitch/Books/actions/runs/39845766634)) produced **161 PDF pages, 46 PDF bookmarks, 2,215 DOCX paragraphs, 84 tables, 9 original schematic plates, 607 flashcards and 100 synchronized MCQs**. Official W3C EPUBCheck 5.4.0 reported zero errors and warnings, and scientific regression checks passed. The artifact includes the complete Appendix E real-slide practice companion (linked university resources, not copied photographs) and SHA-256 publication manifest.
+## Read the book
 
-**Status: editorial candidate, not independently medically certified or fully print-proofed.** An automated green build does not replace an end-to-end specialist review, clearance of any third-party content, physical printing/visual inspection, or e-reader/Word/browser acceptance. See [RELEASE_VERIFICATION.md](RELEASE_VERIFICATION.md).
+All four formats contain the same content:
 
-## Modern EPUB reading edition
-
-The EPUB is now designed as a **reader-first, reflowable EPUB 3** book rather than an exported print document. Its features include:
-
-- A newly drawn, high-resolution modern cover and discoverable ebook metadata.
-- **47 small XHTML reading sections**, with chapter-level navigation for all 24 chapters and appendices.
-- A dedicated clickable index linking to all twelve original histology schematic plates.
-- Native font-size adjustment, a clear typographic hierarchy, reader-friendly links, and contrast-aware light/dark styling.
-- **84 individually scrollable comparison tables** to avoid requiring horizontal scrolling of the entire book on a phone.
-- Differentiated MICRO, CLINICAL, TIP, MNEMONIC and PEARL study callouts.
-- Accessible figure descriptions, table-column header markup, and no embedded proprietary fonts or externally fetched images.
-- Automatic structural checks and official W3C EPUBCheck 5.4.0 on every publication build.
-
-**Reading tip:** In Apple Books, Google Play Books or another EPUB 3-capable reading app, use the app's font/size settings, chapter contents, bookmarks and text highlights. Wide comparison tables may require a horizontal swipe *inside the table* depending on the reader. Device rendering varies; independent cross-reader acceptance is still required for a fully certified release.
-
-## Files
-
-| File | Purpose |
+| Format | Purpose |
 |---|---|
-| `Basic_Histology_Learning_Text.pdf` | A4 book with running heads, contents and PDF outline; **latest verified CI: 161 pages** (print proof still required) |
-| `Basic_Histology_Learning_Text.docx` | Editable Word version (same content, Word styles) |
-| `Basic_Histology_Learning_Text.html` | Phone/tablet reading copy, self-contained, no internet needed |
-| `Basic_Histology_Learning_Text.epub` | EPUB 3, reflowable, navigable, for e-readers and phones |
-| `src/*.md` | The manuscript — one file per section, plain Markdown |
-| `build.py` | Markdown → PDF (ReportLab), book design and layout |
-| `build_docs.py` | Markdown → DOCX and HTML (pandoc) |
-| `build_epub.py` | Manuscript → chapter-split EPUB 3 with modern cover and ebook semantics |
-| `tools/validate_epub.py` | Internal EPUB manifest and link checks |
-| `tools/epub_polish.py` | Original cover design, modern scalable CSS, chapter navigation, table/figure semantics |
-| `tools/validate_modern_epub.py` | Reader-experience regression checks for EPUB chapters, tables, figures and dark mode |
-| `tools/release_smoke_test.py` | Automated PDF, DOCX, EPUB, HTML structural and geometry checks |
-| `tools/generate_atlas.py` | Generates twelve original labeled histology schematic diagrams |
-| `tools/validate_study_materials.py` | Validates CSV decks against the 100 canonical manuscript questions |
-| `tools/validate_scientific_corrections.py` | Rejects regressions of verified high-impact scientific corrections |
-| `tools/write_release_manifest.py` | Creates per-format SHA-256 release manifest |
-| `RELEASE_VERIFICATION.md` | Explicit, evidence-based final-publication acceptance criteria |
-| `COVERAGE.md` | Source ledger: what was read, what was checked, known discrepancies |
-| `FINAL_REVIEW_REPORT.md` | Production record: verification evidence, hashes, limitations |
+| `Basic_Histology_Learning_Text.pdf` | A4, linked table of contents, print and desktop reading |
+| `Basic_Histology_Learning_Text.docx` | Editable teaching/printing copy |
+| `Basic_Histology_Learning_Text.epub` | Reflowable e-reader and phone copy |
+| `Basic_Histology_Learning_Text.html` | Standalone browser reading copy |
 
-## Rebuilding
+The canonical source is in `src/*.md`. **Edit the source rather than only changing generated PDFs or Word files.**
+
+## Build and verification
+
+See the [GitHub Actions publication workflow](https://github.com/alfrotan-glitch/Books/actions/workflows/histology-book.yml) for the latest passing run and reproducible artifacts. **Do not trust static page numbers in documentation**; the generated `publication-manifest.json` records the exact source commit, PDF page count and SHA-256 for each build output.
+
+To run locally with Python, Pandoc, EPUBCheck and the requirements installed:
 
 ```bash
-python -m pip install reportlab pypandoc_binary python-docx pymupdf lxml
-python3 tools/generate_atlas.py  # Build nine original schematic plates
-python3 build.py         # PDF
-python3 build_docs.py    # DOCX + HTML
-python3 build_epub.py    # EPUB 3
-python3 tools/validate_epub.py   # EPUB structural checks
-python3 tools/validate_modern_epub.py   # EPUB reading/navigation/contrast checks
-python3 tools/release_smoke_test.py   # Four-format smoke tests
-python3 tools/make_study_decks.py     # Regenerate flashcards and MCQs
-python3 tools/make_question_bank.py   # Regenerate canonical MCQ CSV
-python3 tools/validate_study_materials.py   # Check alignment
-python3 tools/validate_scientific_corrections.py  # Scientific regression guard
-python3 tools/write_release_manifest.py   # SHA-256 provenance file
+python tools/make_study_decks.py
+python tools/make_question_bank.py
+python build.py
+python build_docs.py
+python build_epub.py
+python tools/validate_study_materials.py
+python tools/validate_scientific_corrections.py
+python tools/validate_unified_book.py
+python tools/validate_mindmaps.py
+python tools/validate_mcq_pagination.py
+python tools/validate_reader_experience.py
+python tools/validate_publication_usability.py
+python tools/validate_modern_epub.py
+python tools/release_smoke_test.py
+python tools/write_release_manifest.py
 ```
 
-Edit anything in `src/`, then re-run all four. Sections are concatenated in filename order, so a new file named `02c_whatever.md` drops in automatically.
+The GitHub Actions workflow additionally runs official **W3C EPUBCheck** and synchronizes the generated binaries after a passing build.
 
-## What is inside
+## Editorial policy
 
-- **Before you begin** — how the book works, how to study (six-week, ten-day and 48-hour plans), the Twelve Laws of Histology, exam technique, a chapter guide, and a note on sources.
-- **Chapters 1–23** — each has learning objectives, a core idea, the explanation in sections, structure–function reasoning, comparison tables, clinical correlates, common misconceptions, a summary, active-recall questions, one exam-style question with a worked answer, and a practical identification task.
-- **Chapter 24** — the last-24-hours rapid review: a concept map of the subject, the organ-identification algorithm, ten master tables, 100 one-line facts and 25 distinctions that decide marks.
-- **Appendices** — A: stains and their chemistry; B: histology vocabulary; C: sources and evidence limits; D: nine original tissue-pattern schematic plates; E: an optional chapter-by-chapter guide to real histology slides hosted by universities, with no third-party photos reproduced.
-- **Part VII** — 100 examination questions with explained answers and a scoring guide.
+The manuscript is an **independent study companion** based on the assigned Junqueira chapter order. It is **not** an official Ministry book, an authorized reproduction of Junqueira, or evidence of guaranteed exam success. A passing software test does not replace expert scientific peer review or license and print approvals.
 
-## Notes
+Original illustrations and their current attribution status are tracked in [the image rights ledger](rights/image_ledger.csv). Rights/owner sign-off and confirmation of the latest official syllabus are still required before an externally certified or commercial publication.
 
-- **Terminology** follows American spelling (`hematoxylin`, `esophagus`, `fiber`, `organized`), the convention of the histological literature.
-- **The 100 original questions are not advertised as historical examination questions.** Specific inaccuracies were corrected and automated regressions added, but comprehensive scientific peer review remains outstanding. No topic-frequency statistics or guaranteed exam outcomes are claimed.
-- **Disagreements between standard accounts are stated, not hidden.** Where authorities differ on a count or a range, the text gives both or says which one it is using. `COVERAGE.md` records the discrepancies found while checking.
-- **Original schematic atlas and optional live-slide practice included:** twelve labeled teaching schematics plus Appendix E's 23 practical observation challenges using institutional microscopic slide collections. No third-party photomicrographs are reproduced, and access to external resources is optional.
-- **This is a teaching text, not a clinical manual.** It does not replace laboratory teaching or supervised clinical training.
-- Study files in `deliverables/` (flashcards and the 100-question bank) are automatically regenerated from the manuscript and checked for synchronization during the publication workflow.
-
-## 12 November 2026 — new source candidate
-
-A follow-on source revision updates selected science claims after direct checking of Junqueira 17th edition and modern literature, and expands the *code-generated* schematic atlas from 9 to **12** figures. The new illustrations are original diagrams, not micrographs. See [IMAGE_RIGHTS_POLICY.md](IMAGE_RIGHTS_POLICY.md) and [rights/image_ledger.csv](rights/image_ledger.csv). The run 39845766634 statistics above document a **historical 9-figure build**; they are not claims about a subsequent unpublished artifact. The new source must pass its matching CI workflow, and scientific/legal/real-reader release approval remain open.
-
-## Afghanistan specialty-exam study labels (2026-11-12)
-
-Each chapter 1–23 has small `INTERNAL MEDICINE` and/or `SURGERY` syllabus markers based on the chapter lists supplied by the project owner. Medicine: 16 chapters (1–6, 9, 11–18, 20). Surgery: 18 chapters (1–14, 19, 21–23). Eleven chapters overlap. The user-supplied mapping has not been independently verified against a dated official MoPH publication and is not a claim of Ministry endorsement. The source-first design carries these markers into PDF, DOCX, EPUB and HTML; `tools/validate_specialty_exam_scope.py` checks the mapping and output coverage.
-
-## 12 November 2026 editorial usability audit — subsequent revision
-
-Targeted question-bank quality control identified and corrected three stale explanations (question 10: primary-cilium axoneme versus basal-body triplets; question 35: embryonic microglial origin; question 60: prenatal Langerhans-cell origin). The PDF typesetting now creates clickable contents entries and directly clickable virtual-slide resource links, with HTML, DOCX and EPUB equivalents. The independent source references are described in Appendix C. `tools/validate_publication_usability.py` runs on the actual generated files in CI. These are quality improvements; complete independent medical and legal review are **not** claimed.
-
-## Unified reference-first textbook — 12 November 2026
-
-**One textbook, one manuscript, four matching output formats.** The book keeps the 23 assigned reference chapters in Junqueira order and preserves the Internal Medicine/Surgery chapter labels. A compact **Integrative practice** section is integrated *within each chapter before its summary*, reinforcing genuine histological discrimination, schematic reconstruction, rationales and common mistakes. Existing core explanations, original labeled plates, 100 explained MCQs, 607 flashcards and real-slide practice links remain available in the same book. The reader-facing manuscript includes no development or copyright-clearance progress logs.
-
-No separate teacher manual or student workbook is part of this edition. The instructor uses the **same book**: learning objectives, core explanation, integrative practice, chapter summary, active recall, original question and visual identification task, with a single class-friendly learning sequence in the front matter. Source-first publication is checked by `tools/validate_unified_book.py` in addition to established format, science and link tests. CI artifacts contain only the four editions of the same book plus a provenance manifest; repository source remains available separately.
-
-**Status:** ready for classroom use and self-study after CI, but not independently reviewed by a specialist against every reference passage; official syllabus mapping, publisher/author rights, authentic photo permissions and final external print review remain outside the automated gates.
-
-## One-book schematic mind-map edition — 15 November 2026
-
-This edition embeds **23 original hierarchical concept maps** beside the opening of the corresponding Junqueira chapter, with **138 main concept branches**, **276 second-level points**, and **46 concise concept pathways** in text. The twelve existing original tissue-recognition diagrams remain once in their most relevant chapters. All 35 figures are generated from locally owned source code/data and are **conceptual illustrations, not microscope photographs**; nothing was copied from the copyrighted Junqueira atlas.
-
-Every map has one central parent theme, six classification/function branches and two subordinate facts per branch. The maps give a compact visual overview rather than increasing the explanatory text or substituting for reference study. A cross-format release test (`tools/validate_mindmaps.py`) checks data, all generated PNGs, the same 23 placements, PDF/Word/HTML/EPUB integrity and alternate text. Official exam scope and independent scientific/rights approval remain separate from the technical build.
+**Audit integration (17 November 2026):** corrected growth-plate zonation and selected MCQs, repaired a Golgi description, removed 23 repetitive practice templates without deleting the chapter-specific active recall, fixed PDF trailing spacer pagination, and made 100 MCQ stems and their options unbreakable on the page. No unrelated root-level files were removed during this content review.
