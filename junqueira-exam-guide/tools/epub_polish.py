@@ -130,6 +130,9 @@ section.titlepage { text-align: center; margin: 16% auto 0; max-width: 90%; }
 @media (prefers-color-scheme: dark) {
   body { color: #E6F0F0; background: #14252B; }
   a, h3 { color: #85D5C9; }
+  h3.concept-map-title { color:#85D5C9; }
+  h3.concept-map-title + figure { background:#21383C; border-color:#42656A; }
+  h3.note-summary { color:#D8F7F0; background:#23443F; border-color:#62B8B0; }
   h1, thead { border-color: #62B8B0; }
   h2, th, td { border-color: #58686F; }
   th { background: #293F43; color: #E7F4F3; }
