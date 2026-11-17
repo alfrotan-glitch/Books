@@ -89,7 +89,10 @@ STY = {
     "part_title": S("part_title", fontName="Head", fontSize=23, leading=29,
                     textColor=INK, alignment=TA_LEFT, spaceAfter=10),
     "chapter":    S("chapter", fontName="Head", fontSize=19, leading=25,
-                    textColor=INK, alignment=TA_LEFT, spaceBefore=0, spaceAfter=5),
+                    textColor=INK, alignment=TA_LEFT, spaceBefore=0, spaceAfter=6),
+    "chapter_kicker": S("chapter_kicker", fontName="Head", fontSize=8.2,
+                    leading=11, textColor=ACCENT, alignment=TA_LEFT,
+                    spaceBefore=0, spaceAfter=6, keepWithNext=1),
     "h3":         S("h3", fontName="Head", fontSize=11.8, leading=16.6,
                     textColor=ACCENT, alignment=TA_LEFT, spaceBefore=16, spaceAfter=6,
                     keepWithNext=1),
@@ -317,8 +320,8 @@ def make_table(header, rows):
         ("BACKGROUND", (0, 0), (-1, 0), INK),
         ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
         ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("TOPPADDING", (0, 0), (-1, -1), 3.6),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 4.2),
+        ("TOPPADDING", (0, 0), (-1, -1), 4.0),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 4.6),
         ("LEFTPADDING", (0, 0), (-1, -1), 5),
         ("RIGHTPADDING", (0, 0), (-1, -1), 5),
         ("LINEBELOW", (0, 0), (-1, -1), 0.4, RULE),
@@ -370,7 +373,7 @@ class Book(BaseDocTemplate):
         canv.setFont("Head-Reg", 7.4)
         canv.setFillColor(MUTED)
         canv.drawString(ML, PAGE_H - 30, "BASIC HISTOLOGY  ·  SMART STUDY NOTES")
-        canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "SMART STUDY NOTES")
+        canv.drawRightString(PAGE_W - MR, PAGE_H - 30, "UNDERSTAND  ·  RECOGNIZE  ·  RECALL")
         canv.setStrokeColor(RULE)
         canv.setLineWidth(0.5)
         canv.line(ML, PAGE_H - 36, PAGE_W - MR, PAGE_H - 36)
@@ -381,56 +384,73 @@ class Book(BaseDocTemplate):
         canv.restoreState()
 
     def cover(self, canv, doc):
-        # Explicit PDF document-info fields: automated validators inspect these.
-        # No author is named without the rights holder approving attribution.
+        """Original premium editorial cover in vector graphics (no borrowed micrographs)."""
         canv.setTitle("Basic Histology: Smart Study Notes")
-        canv.setSubject("Original microscopic anatomy learning text, illustrated schematics and revision examination")
-        canv.setKeywords("histology, microscopic anatomy, medical education, teaching schematics, examination")
+        canv.setSubject("An independent illustrated, Junqueira-aligned histology learning companion")
+        canv.setKeywords("histology, microscopic anatomy, mind maps, medical education")
         canv.setCreator("Basic Histology publication build system")
         canv.saveState()
-        canv.setFillColor(INK)
-        canv.rect(0, PAGE_H - 300, PAGE_W, 300, stroke=0, fill=1)
-        canv.setFillColor(ACCENT)
-        canv.rect(0, PAGE_H - 306, PAGE_W, 6, stroke=0, fill=1)
-
-        canv.setFillColor(colors.HexColor("#6FD3CF"))
-        canv.setFont("Head-Reg", 9.5)
-        canv.drawString(ML, PAGE_H - 100, "JUNQUEIRA-ALIGNED MEDICAL HISTOLOGY NOTES")
-
-        canv.setFillColor(colors.white)
-        canv.setFont("Head", 38)
-        canv.drawString(ML, PAGE_H - 152, "BASIC")
-        canv.drawString(ML, PAGE_H - 192, "HISTOLOGY")
-
-        canv.setFont("Head-Reg", 13)
-        canv.setFillColor(colors.HexColor("#CFE3E2"))
-        canv.drawString(ML, PAGE_H - 228, "Smart Study Notes")
-
-        canv.setFillColor(INK)
+        midnight = colors.HexColor("#102A34")
+        cyan = colors.HexColor("#79D4C8")
+        cream = colors.HexColor("#EEF5F1")
+        slate = colors.HexColor("#A8C4C7")
+        deep_teal = colors.HexColor("#226B70")
+        # Calm full-bleed field and a distinctive, original tissue-network motif.
+        canv.setFillColor(midnight)
+        canv.rect(0, 0, PAGE_W, PAGE_H, stroke=0, fill=1)
+        canv.setFillColor(cyan)
+        canv.rect(0, 0, 7, PAGE_H, stroke=0, fill=1)
+        for cx, cy, radius in [
+            (438, 609, 83), (507, 674, 37), (502, 537, 49),
+            (400, 751, 29), (548, 745, 24), (552, 601, 23),
+            (462, 461, 29), (360, 510, 21)
+        ]:
+            canv.setLineWidth(1.4 if radius >= 40 else 1.0)
+            canv.setStrokeColor(deep_teal if radius >= 40 else colors.HexColor("#335A62"))
+            canv.circle(cx, cy, radius, stroke=1, fill=0)
+            canv.setStrokeColor(colors.HexColor("#4F8787"))
+            canv.setLineWidth(0.65)
+            canv.circle(cx, cy, max(8, radius*0.32), stroke=1, fill=0)
+        canv.setFont("Head", 8.6)
+        canv.setFillColor(cyan)
+        canv.drawString(ML, PAGE_H-86, "HISTOLOGY  /  AN ILLUSTRATED STUDY COMPANION")
+        canv.setStrokeColor(colors.HexColor("#486C72"))
+        canv.setLineWidth(0.7)
+        canv.line(ML, PAGE_H-104, PAGE_W-MR, PAGE_H-104)
+        canv.setFillColor(cream)
+        canv.setFont("Head", 48)
+        canv.drawString(ML, PAGE_H-190, "BASIC")
+        canv.setFont("Head", 39)
+        canv.drawString(ML, PAGE_H-244, "HISTOLOGY")
+        canv.setFillColor(cyan)
+        canv.setFont("Head", 16)
+        canv.drawString(ML, PAGE_H-290, "SMART STUDY NOTES")
+        canv.setFillColor(slate)
+        canv.setFont("Head-Reg", 9.4)
+        canv.drawString(ML, PAGE_H-325, "Aligned to Junqueira's Basic Histology, 17th edition")
+        # A quiet editorial separator keeps the learning promise legible.
+        canv.setStrokeColor(colors.HexColor("#486C72"))
+        canv.line(ML, 300, PAGE_W-MR, 300)
+        canv.setFillColor(cream)
         canv.setFont("Body", 12)
-        canv.drawString(ML, PAGE_H - 360, "Understand each tissue in simple steps.")
-        canv.drawString(ML, PAGE_H - 378, "Recognize its microscopic clues.")
-        canv.drawString(ML, PAGE_H - 396, "Recall what matters for the entrance examination.")
-
-        canv.setStrokeColor(RULE)
-        canv.setLineWidth(0.8)
-        canv.line(ML, PAGE_H - 430, PAGE_W - MR, PAGE_H - 430)
-
-        rows = [("23", "chapters"), ("100", "exam questions"),
-                ("10", "master comparison tables"), ("1", "rapid-review chapter")]
-        y = PAGE_H - 470
-        for big, small in rows:
-            canv.setFont("Head", 20)
-            canv.setFillColor(ACCENT)
-            canv.drawString(ML, y, big)
-            canv.setFont("Head-Reg", 9)
-            canv.setFillColor(INK)
-            canv.drawString(ML + 46, y + 2, small)
-            y -= 34
-
-        canv.setFillColor(MUTED)
-        canv.setFont("Head-Reg", 8.5)
-        canv.drawString(ML, 58, "23 chapters  ·  Clear notes  ·  Visual memory  ·  Practice")
+        canv.drawString(ML, 264, "See the structure.")
+        canv.drawString(ML, 241, "Understand the function.")
+        canv.drawString(ML, 218, "Remember the distinction.")
+        canv.setFillColor(colors.HexColor("#153B43"))
+        canv.roundRect(ML, 76, PAGE_W-ML-MR, 88, 10, stroke=0, fill=1)
+        stats = [("23", "REFERENCE CHAPTERS"), ("35", "ORIGINAL DIAGRAMS"),
+                 ("100", "PRACTICE QUESTIONS")]
+        for j, (amount, label) in enumerate(stats):
+            xx = ML + 24 + j*153
+            canv.setFont("Head", 23)
+            canv.setFillColor(cyan)
+            canv.drawString(xx, 119, amount)
+            canv.setFont("Head-Reg", 7)
+            canv.setFillColor(slate)
+            canv.drawString(xx, 97, label)
+        canv.setFont("Head-Reg", 7.2)
+        canv.setFillColor(slate)
+        canv.drawString(ML, 41, "INDEPENDENT STUDY EDITION  |  MICROSCOPIC ANATOMY")
         canv.restoreState()
 
     def afterFlowable(self, flowable):
@@ -584,6 +604,12 @@ def build_story(blocks):
                 brk()
             part_pending_chapter = False
             story.append(Spacer(1, 2))
+            match_chapter = re.match(r"^(\\d{1,2})\\s*·", b[1])
+            if match_chapter:
+                chapter_no = int(match_chapter.group(1))
+                label = ("REFERENCE CHAPTER %02d" % chapter_no
+                         if chapter_no <= 23 else "FINAL RAPID REVIEW")
+                story.append(Paragraph(label, STY["chapter_kicker"]))
             story.append(Paragraph(inline(b[1], bold="Head"), STY["chapter"]))
             story.append(Rule(FRAME_W, 1.6, ACCENT, space=5))
             story.append(Spacer(1, 3))
