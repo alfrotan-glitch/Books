@@ -1,30 +1,30 @@
 {
   "title": "Basic Histology: Smart Study Notes",
   "edition": "First edition (2026)",
-  "git_commit": "1e4cae36bd260f93d52fd5ad65297114e7ece2a6",
-  "generated_utc": "2026-11-17T04:19:26.528449+00:00",
+  "git_commit": "12dac42d632bc35e126cde20637e258ce976b5ea",
+  "generated_utc": "2026-11-17T04:36:50.849332+00:00",
   "release_status": "editorial_candidate",
   "meaning_of_status": "Build and structural checks are not a substitute for independent scientific review, EPUB reader testing or full visual/print proof.",
   "pdf": {
-    "page_count": 199,
+    "page_count": 200,
     "outline_entries": 40
   },
   "files": {
     "Basic_Histology_Learning_Text.pdf": {
-      "bytes": 2915963,
-      "sha256": "aff22cebe50a799600ea58fc078d0d970c8754d9016ba1a3830ea2a9af642968"
+      "bytes": 2925842,
+      "sha256": "86212c007990f792298a3f54dcea7d913ac3b7d7e907e63976f270ab3cae5230"
     },
     "Basic_Histology_Learning_Text.docx": {
-      "bytes": 2034031,
-      "sha256": "7fb07856f5a4f2c9aadb0fd65d4b5f9a9bfe98f05918fa904f1ddee3d32d006c"
+      "bytes": 2034075,
+      "sha256": "dcf6e03ba524088f61b0b517379af7fef93b17cd4443860997ef6b1845049e13"
     },
     "Basic_Histology_Learning_Text.epub": {
-      "bytes": 2117162,
-      "sha256": "417d5c9d44ddc256fb5736511520a5ff397402332079469ec9778f3bc94c81a7"
+      "bytes": 2116491,
+      "sha256": "4b8fb82b884762931dce46f901f18a47738623537f5cbc1ba2a99a511af2caa5"
     },
     "Basic_Histology_Learning_Text.html": {
-      "bytes": 3164389,
-      "sha256": "a0ce0c12f40f9a2393057a0e249296d44801569c9f50d4794a25eb26902bf109"
+      "bytes": 3166044,
+      "sha256": "bd0db5a818b4cc75a5a43845dcab69fce4b697384cefc5427335c9548da709bb"
     }
   }
 }
