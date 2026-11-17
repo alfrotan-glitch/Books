@@ -520,7 +520,7 @@ def build_story(blocks):
             stem = Paragraph(inline(b[1]), S("q_stem", fontName="Body",
                              fontSize=10.5, leading=15.4, textColor=INK,
                              alignment=TA_LEFT))
-            choices = [c.strip() for c in re.split(r"<br\\s*/>", b[2]) if c.strip()]
+            choices = [c.strip() for c in re.split(r"<br\s*/>", b[2]) if c.strip()]
             assert len(choices) == 4 and all(
                 choice.startswith(letter + ". ") for choice, letter in zip(choices, "ABCD")
             ), "Expected exactly four ordered MCQ choices"
