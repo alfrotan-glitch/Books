@@ -25,7 +25,12 @@ assert doc.paragraphs[0].text.strip()=="Basic Histology: Smart Study Notes"
 assert len(doc.inline_shapes)>=35
 with ZipFile(base.with_suffix(".epub")) as epub:
     names=epub.namelist()
-    assert any(name.endswith("cover.png") for name in names)
+    covers=[name for name in names if name.endswith("cover.xhtml")]
+    assert len(covers)==1, "EPUB must have a dedicated title cover"
+    cover_markup=epub.read(covers[0]).decode("utf-8")
+    assert "<image " in cover_markup and "../media/" in cover_markup, (
+        "EPUB cover image reference is broken"
+    )
     xhtml="".join(epub.read(n).decode("utf-8") for n in names if n.endswith(".xhtml"))
     assert xhtml.count('class="note-summary"')>=23
     assert xhtml.count('class="concept-map-title"')>=23
