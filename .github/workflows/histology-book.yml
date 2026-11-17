@@ -26,6 +26,7 @@ on:
       - 'junqueira-exam-guide/tools/validate_unified_book.py'
       - 'junqueira-exam-guide/tools/validate_reader_experience.py'
       - 'junqueira-exam-guide/tools/validate_mcq_pagination.py'
+      - 'junqueira-exam-guide/tools/validate_premium_design.py'
       - 'junqueira-exam-guide/tools/generate_mindmaps.py'
       - 'junqueira-exam-guide/tools/validate_mindmaps.py'
       - 'junqueira-exam-guide/data/chapter_mindmaps.json'
@@ -52,6 +53,7 @@ on:
       - 'junqueira-exam-guide/tools/validate_unified_book.py'
       - 'junqueira-exam-guide/tools/validate_reader_experience.py'
       - 'junqueira-exam-guide/tools/validate_mcq_pagination.py'
+      - 'junqueira-exam-guide/tools/validate_premium_design.py'
       - 'junqueira-exam-guide/tools/generate_mindmaps.py'
       - 'junqueira-exam-guide/tools/validate_mindmaps.py'
       - 'junqueira-exam-guide/data/chapter_mindmaps.json'
@@ -94,6 +96,7 @@ jobs:
           python tools/validate_unified_book.py
           python tools/validate_reader_experience.py
           python tools/validate_mcq_pagination.py
+          python tools/validate_premium_design.py
           python tools/validate_mindmaps.py
       - name: Validate medicine and surgery exam scope in four formats
         run: python tools/validate_specialty_exam_scope.py
