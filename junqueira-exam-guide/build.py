@@ -490,6 +490,16 @@ def group_blocks(blocks):
             out.append(("mcq", b[1], blocks[i + 1][1]))
             i += 2
             continue
+        if (b[0] in ("h3", "h4") and i + 2 < len(blocks)
+                and blocks[i + 1][0] == "para"
+                and re.match(r"^\\*\\*\\d{1,3}\\.\\*\\* ", blocks[i + 1][1])
+                and blocks[i + 2][0] == "para"
+                and re.match(r"^A\\. ", blocks[i + 2][1])):
+            # Section headings can otherwise grab an MCQ stem without its choices.
+            # Keep heading, stem and all four options as one unbreakable unit.
+            out.append(("keep", [b, ("mcq", blocks[i + 1][1], blocks[i + 2][1])]))
+            i += 3
+            continue
         if b[0] in ("h3", "h4") and i + 1 < len(blocks) and blocks[i + 1][0] in (
                 "para", "bullet", "num", "table", "quote"):
             out.append(("keep", [b, blocks[i + 1]]))
